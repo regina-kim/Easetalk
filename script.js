@@ -8,19 +8,28 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // (A) /data/ 디렉토리 인덱스를 파싱하여 .json 파일명만 추출
+// async function fetchDataDirectory() {
+//   const response = await fetch("data/");
+//   if (!response.ok) {
+//     throw new Error("서버에서 /data/ 폴더에 접근할 수 없습니다.");
+//   }
+//   const htmlText = await response.text();
+//   const parser = new DOMParser();
+//   const doc = parser.parseFromString(htmlText, "text/html");
+//   const anchors = Array.from(doc.querySelectorAll("a[href$='.json']"));
+//   const fileNames = anchors
+//     .map(a => a.getAttribute("href"))
+//     .map(href => href.replace(/^.*\//, ""))
+//     .filter((name, idx, self) => name.endsWith(".json") && self.indexOf(name) === idx);
+//   return fileNames;
+// }
+
 async function fetchDataDirectory() {
-  const response = await fetch("data/");
+  const response = await fetch("data/index.json");
   if (!response.ok) {
-    throw new Error("서버에서 /data/ 폴더에 접근할 수 없습니다.");
+    throw new Error("data/index.json 파일을 불러오는 데 실패했습니다.");
   }
-  const htmlText = await response.text();
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(htmlText, "text/html");
-  const anchors = Array.from(doc.querySelectorAll("a[href$='.json']"));
-  const fileNames = anchors
-    .map(a => a.getAttribute("href"))
-    .map(href => href.replace(/^.*\//, ""))
-    .filter((name, idx, self) => name.endsWith(".json") && self.indexOf(name) === idx);
+  const fileNames = await response.json(); // 문자열 배열로 반환됨
   return fileNames;
 }
 
