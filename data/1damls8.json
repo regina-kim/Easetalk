@@ -1,0 +1,83 @@
+{
+  "id": "1damls8",
+  "timestamp": 1717718400000,
+  "category": "academic",
+  "concern": "I have sent my appeal statement and action plan to my success coach, however I would like another opinion. I will also be including a documentation along with the appeal.\n\n\n\n**~Appeal Statement~**\n\nFirst and foremost, thank you for giving me an opportunity to write an appeal statement. Despite my academic ambition, I sincerely regret not meeting the standards for the XXX. I take full responsibility for my academic performance and understand the importance of maintaining good standing.\n\nI struggled with mental health issues that significantly impacted my ability to be at my best during the previous semesters, and when I saw my grades dropping, I was made aware that I needed help. To address my issue, I started looking for a therapist, however I was put on the waiting list for a few weeks before successfully connecting with my current therapist, who referred me to get a psychiatric evaluation on the twenty-eighth of June. To improve my academic performance, I have attended time management workshops and have been in contact with my academic success coach, who has been incredibly supportive. I am also working with my therapist on improving mental health issues that resulted in my poor academic semester.\n\n**~Action Plan~**\n\nTo meet the milestones required at the end of the next evaluation period, I have created a plan that takes on a comprehensive approach.\n\n1.       After class, I will head to a study area and start working on my assignments immediately so as to prevent procrastination. Instead of heading home, I will review materials gone over in class and study at school for two hours per class before heading home and finishing any incomplete assignments and studying for another two hours per class. Rather than studying for hours on end, I will break the studying sessions in thirty-minute blocks. That way, if I need a break, I can stop, and if I do not need a break, then I can continue working.\n\n2.       I was hesitant to reach out to my professors last semester, however this semester and the upcoming semester, I will reach out and contact my professor if I am confused or need additional help on the assignments or materials.\n\n3.       XXX’s Learning Lab is a very helpful tool, so I will meet up with a tutor for each class at least once a week to help clarify and review materials that I still do not understand even after contacting the professor for help.\n\n4.       I have also created a weekly schedule planner broken into thirty-minute increments that considers every task I complete. During a time management workshop, XXX - the instructor - made me realize that my everyday tasks take up more hours than a week has, so I made a schedule where all my activities are clearly labeled and set up.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello there! Is there anything you'd like to talk about today? I'm here to listen and support you in any way I can. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I'd like to talk about the mental health challenges I've been facing, which have impacted my academic performance. I'm seeking support to develop better strategies for managing this and improving my overall wellbeing.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has clearly articulated their story with detailed reflections on their mental health challenges and academic struggles. The therapist has shown empathy and created a safe space for sharing. The client has presented a well-structured action plan and has taken responsibility, indicating psychological safety. Although explicit Change Talk is not yet strongly evident, the client’s detailed outline of steps and acknowledgment of needing help signals readiness. The session has gathered sufficient background and mutual understanding, allowing the next phase to focus on strengthening motivation and evoking Change Talk.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're going through a lot right now. It's great that you're seeking support and looking to develop better strategies for managing your mental health. What specific challenges have you been facing that are impacting your academic performance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I've been dealing with ongoing mental health issues, such as anxiety and low motivation, which have made it difficult to concentrate and keep up with my coursework. I'm eager to explore strategies with you to better manage these challenges and support my academic success.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has articulated a clear and detailed change plan with specific strategies addressing procrastination, communication with professors, tutoring, and time management. This plan reflects active commitment and taking steps towards change (C-A-T talk). The counselor has elicited the client's story and goals well, and the client has explored the discrepancy between current struggles and academic ambitions. Although explicit importance/confidence rulers are not documented, the detailed plan and expressed eagerness indicate readiness and minimal ambivalence.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's good that you're eager to explore strategies. One approach that could help with anxiety and low motivation is to break tasks into smaller, more manageable pieces. For example, instead of tackling a whole assignment at once, try breaking it down into smaller steps and setting a goal to complete one step at a time. How does that sound?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "That sounds like a helpful approach, as it aligns with my efforts to manage anxiety and build motivation by breaking tasks into smaller steps. I'm open to trying this strategy to see how it supports my academic performance and overall wellbeing.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has presented a clear, specific action plan with concrete steps using time-blocked study sessions, professor communication, tutoring, and a detailed weekly schedule, fulfilling Choosing objectives. They demonstrate strong commitment by acknowledging past challenges and actively engaging resources (success coach, therapist, workshops). The plan includes anticipated barriers (procrastination, hesitation to ask for help) with strategies like breaking study into manageable blocks and proactively reaching out for support. The client’s language indicates commitment and readiness to implement the plan. There is agreement on follow-up via the success coach, and the plan is detailed and actionable. These factors indicate readiness to advance to Terminating.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Great! Remember that it's a process and it's okay to take your time. Celebrate each small accomplishment as you complete each step. Also, don't forget to take breaks and engage in selfcare activities that you enjoy. You deserve it! ",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I appreciate the encouragement to celebrate small wins and prioritize selfcare, as it aligns with my efforts to manage anxiety through structured routines. I'm committed to incorporating these strategies to help maintain my motivation and improve my academic progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist summarizes key goals and strategies including breaking tasks into manageable steps, celebrating accomplishments, and prioritizing self-care (turns 5 and 7). The client acknowledges and expresses commitment to incorporating these strategies (turns 6 and 8), showing readiness and satisfaction. Although a next-step follow-up session or resources are not explicitly discussed, the conversation includes an effective recap with autonomy affirmation and encouragement. The therapist gently introduces closure and client agreement is evidenced by expressed commitment. A natural pause appears after client’s readiness statement, satisfying several termination strategies. Given that all visible criteria for closure and client agreement are met, the session is appropriately concluded.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello there! Is there anything you'd like to talk about today? I'm here to listen and support you in any way I can. \nclient: I'd like to talk about the mental health challenges I've been facing, which have impacted my academic performance. I'm seeking support to develop better strategies for managing this and improving my overall wellbeing.\ntherapist: It sounds like you're going through a lot right now. It's great that you're seeking support and looking to develop better strategies for managing your mental health. What specific challenges have you been facing that are impacting your academic performance?\nclient: I've been dealing with ongoing mental health issues, such as anxiety and low motivation, which have made it difficult to concentrate and keep up with my coursework. I'm eager to explore strategies with you to better manage these challenges and support my academic success.\ntherapist: It's good that you're eager to explore strategies. One approach that could help with anxiety and low motivation is to break tasks into smaller, more manageable pieces. For example, instead of tackling a whole assignment at once, try breaking it down into smaller steps and setting a goal to complete one step at a time. How does that sound?\nclient: That sounds like a helpful approach, as it aligns with my efforts to manage anxiety and build motivation by breaking tasks into smaller steps. I'm open to trying this strategy to see how it supports my academic performance and overall wellbeing.\ntherapist: Great! Remember that it's a process and it's okay to take your time. Celebrate each small accomplishment as you complete each step. Also, don't forget to take breaks and engage in selfcare activities that you enjoy. You deserve it! \nclient: I appreciate the encouragement to celebrate small wins and prioritize selfcare, as it aligns with my efforts to manage anxiety through structured routines. I'm committed to incorporating these strategies to help maintain my motivation and improve my academic progress.",
+  "completed": true,
+  "turns": 8
+}

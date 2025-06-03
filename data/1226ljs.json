@@ -1,0 +1,119 @@
+{
+  "id": "1226ljs",
+  "timestamp": 1679788800000,
+  "category": "academic",
+  "concern": "Due to personal circumstances I never finished Highschool. I have been accepted into University and am due to start in July. I am terrified that I won’t be able to get good grades due to the jump in education level. \n\nHow do I prepare for uni life so that I can do well?\n\n(I am in Australia and it is an online computer science course)",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome, I'm here to listen and provide a supportive space for you to share your thoughts and concerns. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I'm really anxious about starting university and handling the higher level of coursework, especially since my educational background isn't traditional. I'm here to get advice on how to prepare effectively so I can succeed in my studies.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist expressed empathy and created safety by inviting the client to share their concerns (Turn 1). The client openly shared their anxiety about starting university and challenges due to a non-traditional background (Turn 2), fulfilling the objective of eliciting the client's story. The therapist has not yet reflected back, affirmed, or collaboratively agreed on session goals beyond initial invitation. There is minimal evidence of Change Talk or linkage to personal values/goals, nor client requests for next steps. Resistance is low, but the Exploring phase objectives are only partially met. Therefore, more exploration is needed before advancing.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's natural to feel anxious about starting university, especially when you're coming from a nontraditional background. It's great that you're seeking advice on how to prepare effectively. Let's explore some strategies that could help you succeed in your studies. What specifically worries you the most about the coursework?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm most worried about keeping up with the advanced computer science concepts, given my nontraditional educational background. I also fear that the online format might make it challenging to access the support I need to bridge any knowledge gaps.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story about anxiety related to starting university and specific worries about coursework and format, demonstrating empathy and rapport. The client has articulated clear concerns and goals for preparation, indicating psychological safety without resistance. However, there is minimal evidence of Change Talk or client linking change to personal values/goals yet, as the client mainly expresses concerns rather than motivation or commitment. The conversation remains focused on exploring fears and needs. According to the evaluation rules, since strong Change Talk is not evident yet, the session should continue exploring before moving to Guiding.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're concerned about the advanced concepts in computer science and the potential lack of support in an online format. It's understandable to feel worried, but remember that universities often have resources to help students succeed, regardless of their educational background. Have you looked into any academic support services or tutoring programs that your university might offer?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I haven't fully explored the academic support services or tutoring programs yet, as I've been focused on getting my mindset right for the course. I'm eager to look into them soon, though, to help bridge any gaps from my nontraditional background and ensure I can keep up with the computer science material.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist effectively elicited the client's story about anxieties regarding university and reflected those concerns empathetically (turns 2, 4, 6). The client expressed specific worries about coursework and support, indicating a degree of psychological safety with low resistance. The client also showed readiness by expressing eagerness to explore academic support services as a proactive step. While explicit Change Talk is moderate, the client’s motivation and connection to personal goals (success in studies despite nontraditional background) are present. These observations meet Exploring phase objectives and suggest readiness to progress.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's great that you're already thinking about how to best prepare for your university coursework. Exploring the academic support services and tutoring programs offered by your university can be a fantastic way to build a strong foundation in computer science concepts and address any gaps in your knowledge. Remember, it's not uncommon for students to need extra support, so don't hesitate to reach out and ask for help when you need it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thank you for the reassurance it's helpful to know that extra support is normal and available. I'm still feeling a bit anxious about jumping into the computer science material, so I'll prioritize checking out those academic services to build my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has successfully evoked discrepancy by highlighting the client’s worries about coursework and lack of support versus the availability of university resources. The client has explored the pros and cons, acknowledging anxiety but also expressing eagerness to use academic services. While importance and confidence rulers were not explicitly used, the client articulated a clear next step: prioritizing exploring academic support to build confidence. Ambivalence remains but has decreased, and the client shows activation change talk with statements like \\\"I'll prioritize checking out those academic services.\\\" The therapist provided reflective summaries and encouragement throughout. These factors indicate readiness to collaboratively develop an action plan.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That's a wise decision. Familiarizing yourself with the academic support services will not only help you build your confidence, but it will also give you a clearer understanding of the resources available to you. Remember, you don't have to figure everything out on your ownthere are people and programs in place to help you succeed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thank you for the encouragementit really helps to hear that I'm not alone in needing support. I'm still working on building my confidence with the university coursework, so I'll make sure to reach out to those academic services soon to get the help I need.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has identified a clear goal: to prepare effectively for university and succeed in their online computer science course by utilizing academic support services. The plan includes checking out these services soon, which shows concrete steps toward addressing knowledge gaps. The client expressed commitment with statements like \\\"I'll prioritize checking out those academic services\\\" and \\\"I'll make sure to reach out... soon,\\\" indicating readiness to take action. Anxiety remains but is acknowledged with acceptance of support, showing minimal resistance. While a detailed timeline or monitoring strategy wasn't explicitly stated, the client agreed on follow-up actions and showed confidence building. The dialogue naturally leads toward next steps, meeting Choosing phase objectives.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's great that you're taking steps to build your confidence and seek support. Remember, you've come this far already, and that's a testament to your resilience and determination. Keep up the positive attitude and don't hesitate to reach out for help when needed. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Thank you for your encouragementit means a lot to know that my determination is recognized as I face this new challenge. I'm still working on managing my anxiety about the coursework, so I'll focus on reaching out to those academic services to get the support I need.",
+      "phase": "terminating"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has summarized key goals: building confidence, exploring academic support services, and managing anxiety about coursework. The client acknowledges this summary and expresses readiness to prioritize accessing support. The therapist gently introduces closure by affirming the client's determination and encouraging ongoing help-seeking. Follow-up options, such as continuing to reach out for support and utilizing university resources, have been offered implicitly. The session ends on an encouraging note with reinforced support. These elements fulfill the five termination strategies, and the client shows agreement and confidence to move forward, indicating readiness for closure.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome, I'm here to listen and provide a supportive space for you to share your thoughts and concerns. What's on your mind today?\nclient: I'm really anxious about starting university and handling the higher level of coursework, especially since my educational background isn't traditional. I'm here to get advice on how to prepare effectively so I can succeed in my studies.\ntherapist: It's natural to feel anxious about starting university, especially when you're coming from a nontraditional background. It's great that you're seeking advice on how to prepare effectively. Let's explore some strategies that could help you succeed in your studies. What specifically worries you the most about the coursework?\nclient: I'm most worried about keeping up with the advanced computer science concepts, given my nontraditional educational background. I also fear that the online format might make it challenging to access the support I need to bridge any knowledge gaps.\ntherapist: It sounds like you're concerned about the advanced concepts in computer science and the potential lack of support in an online format. It's understandable to feel worried, but remember that universities often have resources to help students succeed, regardless of their educational background. Have you looked into any academic support services or tutoring programs that your university might offer?\nclient: I haven't fully explored the academic support services or tutoring programs yet, as I've been focused on getting my mindset right for the course. I'm eager to look into them soon, though, to help bridge any gaps from my nontraditional background and ensure I can keep up with the computer science material.\ntherapist: It's great that you're already thinking about how to best prepare for your university coursework. Exploring the academic support services and tutoring programs offered by your university can be a fantastic way to build a strong foundation in computer science concepts and address any gaps in your knowledge. Remember, it's not uncommon for students to need extra support, so don't hesitate to reach out and ask for help when you need it.\nclient: Thank you for the reassurance it's helpful to know that extra support is normal and available. I'm still feeling a bit anxious about jumping into the computer science material, so I'll prioritize checking out those academic services to build my confidence.\ntherapist: That's a wise decision. Familiarizing yourself with the academic support services will not only help you build your confidence, but it will also give you a clearer understanding of the resources available to you. Remember, you don't have to figure everything out on your ownthere are people and programs in place to help you succeed.\nclient: Thank you for the encouragementit really helps to hear that I'm not alone in needing support. I'm still working on building my confidence with the university coursework, so I'll make sure to reach out to those academic services soon to get the help I need.\ntherapist: It's great that you're taking steps to build your confidence and seek support. Remember, you've come this far already, and that's a testament to your resilience and determination. Keep up the positive attitude and don't hesitate to reach out for help when needed. You've got this!\nclient: Thank you for your encouragementit means a lot to know that my determination is recognized as I face this new challenge. I'm still working on managing my anxiety about the coursework, so I'll focus on reaching out to those academic services to get the support I need.",
+  "completed": true,
+  "turns": 12
+}
