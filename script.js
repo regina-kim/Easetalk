@@ -76,6 +76,22 @@ async function loadAndRenderChat(filename) {
     // 4) 헤더 테이블 구성 (Phase별 Therapist count + Category + Concern)
     buildHeaderTable(data);
 
+    if (data.concern) {
+          const concernDiv = document.createElement('div');
+          concernDiv.className = 'concern-display-area'; // 단계 2에서 추가한 CSS 클래스 적용
+          concernDiv.textContent = `Concern: ${data.concern}`;
+    
+          // chat-messages의 첫 번째 자식(header-row) 뒤에 삽입
+          const headerRow = chatMessagesDiv.querySelector('.header-row');
+          if (headerRow) {
+            headerRow.insertAdjacentElement('afterend', concernDiv);
+          } else {
+            // 혹시 모를 예외 처리
+            chatMessagesDiv.prepend(concernDiv);
+          }
+        }
+
+
     // 5) dialogue_total을 순회하며 채팅 메시지 추가
     if (Array.isArray(data.dialogue_total)) {
       data.dialogue_total.forEach(entry => {
@@ -162,17 +178,6 @@ function buildHeaderTable(data) {
   tdCategory.textContent = `Category: ${data.category || "N/A"}`;
   categoryRow.appendChild(tdCategory);
   headerTbody.appendChild(categoryRow);
-
-  // ────────────────
-  // 세 번째 줄: Concern (colspan=4, 줄바꿈 지원)
-  // ────────────────
-  const concernRow = document.createElement("tr");
-  const tdConcern = document.createElement("td");
-  tdConcern.setAttribute("colspan", "4");
-  tdConcern.classList.add("concern-cell");
-  tdConcern.textContent = `Concern: ${data.concern || ""}`;
-  concernRow.appendChild(tdConcern);
-  headerTbody.appendChild(concernRow);
 }
 
 // (E) 한 개의 발화(entry)를 받아서 row를 만들고 셀에 message 삽입

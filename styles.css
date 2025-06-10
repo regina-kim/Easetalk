@@ -233,3 +233,13 @@ body {
   padding: 10px 20px;
   border-top: 1px solid #ddd;
 }
+
+/* 새로 추가: 스크롤 영역에 들어갈 Concern 정보 스타일 */
+.concern-display-area {
+  background: #2f4a65; /* 기존 .concern-cell 배경색 */
+  color: #fff;
+  padding: 8px 16px;   /* 테이블 셀보다 조금 더 여유롭게 */
+  font-size: 0.95em;
+  white-space: pre-wrap; /* 줄바꿈(\n) 적용 */
+  box-sizing: border-box;
+}
