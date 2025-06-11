@@ -1,0 +1,136 @@
+{
+  "id": "10dpjlq",
+  "timestamp": 1673827200000,
+  "category": "academic",
+  "concern": "2 birds with 1 stone?\n\nAnd can courses that appear as associate degree electives as well as BA degree requirements double so that I'd have fewer credit requirements for my BA?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! How are you feeling today? Is there anything on your mind that youd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I'm feeling a bit overwhelmed with my studies right now. Yes, I'd like to discuss some uncertainties about my academic path.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story about academic overwhelm and specific concerns about course credits. The therapist's open question invited sharing, and the client responded with a clear concern, showing psychological safety. However, there is no indication yet of expressed Change Talk or motivation for change. The session is currently focused on understanding the client's situation and concerns. Given the information, Exploring objectives are substantially met, but readiness signals for moving to Guiding are not yet evident.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you've got a lot on your plate. Uncertainty about your academic path can be stressful. Would you like to share more about the specific concerns you're having?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yes, I'd like to share more about my concerns. I'm worried about how to efficiently manage my course requirements across different degrees without adding extra stress to my schedule.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story about academic concerns and reflected empathy consistently (turns 1, 3). The client has expressed specific worries about managing course requirements and is engaging openly (turn 2, 4). The therapist and client have implicitly agreed on the goal to explore academic path uncertainties. Resistance is minimal, and the client is beginning to link change to practical goals (reducing credit requirements). However, explicit Change Talk showing motivation for specific change steps is limited so far. Given the client's readiness to share and minimal resistance, the session is prepared to transition into Guiding to strengthen motivation and evoke more Change Talk.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's understandable that you want to manage your course requirements effectively without adding extra stress. Can you tell me a bit more about the specific challenges you're facing in balancing your academic responsibilities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I'm finding it challenging to align my course selections across various academic programs, which is making it hard to streamline my overall workload. This overlap is adding to my stress as I try to meet all requirements efficiently.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has explored the client's concerns and expressed empathy but has not yet evoked discrepancy between current behaviors and goals or explored the client's life with versus without change. There is no evidence of importance/confidence rulers or values clarification, nor any Change Talk indicating commitment or specific next steps. The client has not articulated a specific change goal or plan. Ambivalence and sustain talk remain unaddressed, and the session is still focused on exploring challenges rather than guiding motivation or planning. Therefore, the objectives for the Guiding phase are not substantially met.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like you're facing a complex issue with managing your course selections across different academic programs, which is causing stress and uncertainty about your academic path. How might it look if you could find a way to better align your courses and streamline your workload?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I could better align my courses, I'd feel more in control of my academic path with a streamlined schedule that reduces unnecessary workload. This would likely ease my overall stress, allowing me to focus more effectively on my studies and personal well-being.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story and explored discrepancies between current difficulties and the client's goals for a streamlined academic workload. The client has articulated a clear desired outcome (better alignment of courses to reduce stress) and expressed the benefits of change (feeling more in control, reduced workload, less stress). However, there is no clear evidence of explicit commitment or activation language such as 'I will' or 'I'm ready to.' Also, no importance/confidence rulers or values clarification appear to have been used yet, and ambivalence has not been explicitly addressed or decreased. The client is engaged but still in the process of clarifying goals rather than specifying action steps. Thus, the session is still within Guiding phase objectives but not yet ready to move to Choosing.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like finding a way to better align your courses and streamline your workload would significantly reduce stress and help you regain a sense of control over your academic path. Have you considered seeking advice from an academic advisor or counselor who could guide you in optimizing your course selections across different programs?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I've considered reaching out to an academic advisor to help optimize my course selections, as it could make managing overlaps less overwhelming. This might give me a clearer path forward and reduce the stress of juggling multiple requirements.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has successfully evoked discrepancy by exploring the client's current stress and desire for a streamlined academic schedule. The client has explored life with change by envisioning a more controlled, less stressful path. Importance and confidence are implied through the client's acknowledgment of considering advising support. The client articulated a specific next step: reaching out to an academic advisor. Ambivalence is minimal, and there is clear activation language ('I've considered reaching out'). Summaries by the therapist have been concise and elicited client reactions, fulfilling Guiding phase objectives.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Reaching out to an academic advisor seems like a promising first step in streamlining your course selections. Would you prefer to schedule an appointment with an advisor this week or start by researching potential solutions on your own before seeking their guidance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'd prefer to schedule an appointment with an academic advisor this week to get expert guidance and make progress on aligning my courses. This step would help me feel more in control and reduce the stress of managing my academic workload on my own.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has selected a clear, specific goal: scheduling an appointment with an academic advisor this week to optimize course selections and reduce overlap. The plan includes a concrete step (advisor appointment) with a timeline (this week). Anticipated barriers (managing overlapping requirements) were discussed, and the client agreed on a follow-up method through the advisor's guidance. The client expressed a strong commitment: \\\"I'd prefer to schedule an appointment with an academic advisor this week\\\" indicating readiness to act and confidence in executing the plan. There was no resistance or hesitation evident. The session naturally oriented toward next steps and progress review.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's great to see that you're taking proactive steps towards addressing your concerns. Scheduling an appointment with an academic advisor this week will provide you with the guidance needed to streamline your course selections and alleviate some of the stress you've been experiencing. Remember, seeking help is a sign of strength, and you're on the right track to regaining control over your academic path. Feel free to reach out if you have any further concerns or questions.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I appreciate your encouragementI'll schedule that advisor appointment this week to clarify how my courses can double up and ease my credit load. Thanks for helping me move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist summarized key goals and action steps by highlighting the client's plan to schedule an appointment with an academic advisor to optimize course selections and reduce stress. The client acknowledged this summary and expressed appreciation and readiness to proceed. The therapist also offered ongoing support and encouraged the client to reach out with further concerns, effectively discussing next-step options. A gentle closure invitation was present in the therapist's final remarks and the client's response indicated acceptance and satisfaction. Therefore, the Termination phase objectives are met, making it natural to conclude the session.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! How are you feeling today? Is there anything on your mind that youd like to talk about?\nclient: I'm feeling a bit overwhelmed with my studies right now. Yes, I'd like to discuss some uncertainties about my academic path.\ntherapist: It sounds like you've got a lot on your plate. Uncertainty about your academic path can be stressful. Would you like to share more about the specific concerns you're having?\nclient: Yes, I'd like to share more about my concerns. I'm worried about how to efficiently manage my course requirements across different degrees without adding extra stress to my schedule.\ntherapist: It's understandable that you want to manage your course requirements effectively without adding extra stress. Can you tell me a bit more about the specific challenges you're facing in balancing your academic responsibilities?\nclient: I'm finding it challenging to align my course selections across various academic programs, which is making it hard to streamline my overall workload. This overlap is adding to my stress as I try to meet all requirements efficiently.\ntherapist: It seems like you're facing a complex issue with managing your course selections across different academic programs, which is causing stress and uncertainty about your academic path. How might it look if you could find a way to better align your courses and streamline your workload?\nclient: If I could better align my courses, I'd feel more in control of my academic path with a streamlined schedule that reduces unnecessary workload. This would likely ease my overall stress, allowing me to focus more effectively on my studies and personal well-being.\ntherapist: It sounds like finding a way to better align your courses and streamline your workload would significantly reduce stress and help you regain a sense of control over your academic path. Have you considered seeking advice from an academic advisor or counselor who could guide you in optimizing your course selections across different programs?\nclient: I've considered reaching out to an academic advisor to help optimize my course selections, as it could make managing overlaps less overwhelming. This might give me a clearer path forward and reduce the stress of juggling multiple requirements.\ntherapist: Reaching out to an academic advisor seems like a promising first step in streamlining your course selections. Would you prefer to schedule an appointment with an advisor this week or start by researching potential solutions on your own before seeking their guidance?\nclient: I'd prefer to schedule an appointment with an academic advisor this week to get expert guidance and make progress on aligning my courses. This step would help me feel more in control and reduce the stress of managing my academic workload on my own.\ntherapist: It's great to see that you're taking proactive steps towards addressing your concerns. Scheduling an appointment with an academic advisor this week will provide you with the guidance needed to streamline your course selections and alleviate some of the stress you've been experiencing. Remember, seeking help is a sign of strength, and you're on the right track to regaining control over your academic path. Feel free to reach out if you have any further concerns or questions.\nclient: I appreciate your encouragementI'll schedule that advisor appointment this week to clarify how my courses can double up and ease my credit load. Thanks for helping me move forward.",
+  "completed": true
+}

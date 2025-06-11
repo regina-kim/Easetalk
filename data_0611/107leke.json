@@ -1,0 +1,154 @@
+{
+  "id": "107leke",
+  "timestamp": 1673222400000,
+  "category": "academic",
+  "concern": "I have a couple of colleges that I needed to get transcripts from and both have me blocked from logging in. How is someone supposed to request transcripts or look over the degree audit to make sure everything is correct before requesting it? Going through loops just to get them unlocked. I can't even remember my college ID number for one of them. It is not the password because they do not even let me change it and one of the colleges I just logged into last year.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there! Im here to listen and support you in any way I can. Is there something on your mind that youd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Yes, I've been dealing with some frustrating administrative issues at my college. It's making it hard to handle my academic records right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has created a safe space by inviting the client to share their concerns, which the client did extensively, expressing frustration about administrative barriers. The therapist demonstrated empathy by listening without interruption, and the client openly shared multiple specific issues, indicating psychological safety. However, there is no evidence yet of mutual agreement on session goals or emergence of Change Talk related to motivation for change or next steps. The conversation has been primarily focused on eliciting the client's story rather than moving toward motivation or planning. Therefore, the Exploring objectives are substantially met but the session is not yet ready to advance.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really stressful. Navigating administrative hurdles can be so time-consuming and overwhelming. Have you been able to find any support or resources from the college to help you through this?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I've reached out to some college resources for assistance, but it's been quite frustrating so far. This ongoing struggle is making it even harder to stay on top of my academic needs.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client’s story about administrative challenges and reflected the client’s feelings empathetically (turns 1-4). The client has shared specific concerns and frustrations, indicating psychological safety with low resistance. However, there is minimal explicit Change Talk; the client describes difficulties but does not yet express desire, ability, or plans for change, nor link the change to personal values or request next steps. Therefore, while Exploring objectives are met, the session is not yet ready to move to Guiding, as motivation strengthening has not begun.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're caught in a tough cycle, where the administrative issues are creating more stress and making it harder to focus on your academic goals. That's a lot to deal with. Have you considered reaching out to a faculty advisor or student advocate who might be able to help you navigate this situation more effectively?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I've considered reaching out to a faculty advisor or student advocate, but my previous attempts for help haven't been very effective yet. It's adding to the challenge of managing my academic records smoothly.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story about administrative challenges and reflected it empathetically, showing understanding and rapport (turns 1, 3, 5, 7). The client has expressed frustration but has not yet articulated strong Change Talk indicating desire, ability, reason, or commitment to change; instead, the client mainly describes obstacles and failed attempts. There is low resistance and psychological safety is evident, but session goals are only implied, not explicitly agreed upon. The client has not linked change to personal values nor asked for next steps. Given these factors, the session remains in the Exploring phase with insufficient Change Talk to advance.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like you're dealing with a complex and frustrating situation, where the lack of effective support from the college is compounding your stress. It's understandable that this would make it even harder to focus on your academic goals. It might be helpful to continue exploring different avenues for support, even if previous attempts haven't been successful. Do you have any ideas for how you might approach a faculty advisor or student advocate in a way that could lead to a more productive outcome?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I might try preparing a clear summary of my issues before contacting a faculty advisor, to make the conversation more straightforward. I'm hoping this approach could help break through the ongoing frustrations with administrative hurdles.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has effectively elicited and reflected the client's story about administrative frustrations, showing consistent empathy and building rapport (turns 1, 3, 5, 7). The client has elaborated on their difficulties and even begun to consider concrete strategies, such as preparing a clear summary before contacting advisors (turn 8), which indicates emerging motivation and problem-solving. Resistance is low, and the client’s narrative reveals psychological safety. Although explicit Change Talk is moderate, the client is linking change efforts to academic goals and personal values. The session has met Exploring objectives and shows readiness to advance toward Guiding to strengthen motivation and plan next steps.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's great that you're considering preparing a clear summary of your issues before reaching out to a faculty advisor. This could indeed make the conversation more focused and increase the chances of getting the support you need. When you're ready, it might be helpful to identify the key points you want to address and practice how you'll communicate them. Remember, it's important to advocate for yourself and persist in seeking the help you need, even if it takes a few tries. Do you have any thoughts on how you'll go about creating this summary?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I could start by jotting down the main problems and steps I've already tried, keeping it simple and organized. This might help me stay calm and focused when I finally reach out for support.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has evoked discrepancy by highlighting the stress caused by administrative hurdles versus the client's academic goals. The client explored the pros and cons by discussing past ineffective attempts and considering a new approach (preparing a summary). Although no explicit importance/confidence rulers were used, the client shows activation by articulating a specific next step to organize issues before contacting a advisor, indicating readiness. Ambivalence and sustain talk have decreased, replaced by planning and self-advocacy statements. The therapist provided reflective summaries and invited client input consistently. These factors meet Guiding objectives substantially and indicate readiness to advance.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Organizing your concerns into a clear summary is a great step forward. It's important to remain persistent when seeking help, even when it feels challenging. When you have your summary ready, remember to be polite but firm in communicating your needs. Is there a specific day or time you plan to contact the faculty advisor?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I haven't set a specific day or time yet, but I'm aiming to do it soon to keep pushing through these frustrations. I'll make sure to choose a time when I'm feeling prepared and focused.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"While the client has identified a concrete strategy—preparing a clear summary of issues before contacting a faculty advisor—and recognizes the need to choose a good time for outreach, the plan lacks a specific, SMART goal, concrete steps with timelines, or monitoring strategies. No anticipated barriers or contingency plans have been explicitly discussed, nor has a follow-up or self-monitoring method been agreed upon. The client’s commitment statements are tentative and lack strong commitment language or scheduling. The conversation remains focused on planning rather than concluding, suggesting more work is needed to finalize an actionable plan before moving forward.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's encouraging to see your determination in addressing these challenges. Staying focused and prepared when contacting the faculty advisor will certainly help you navigate the conversation more effectively. Remember, it's also important to be patient with yourself throughout this process. You mentioned aiming to contact the advisor soon. Would setting a reminder or creating a to-do list help you ensure you follow through with your plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yes, setting a reminder or creating a to-do list would help me stay on track with my plans. It aligns with my need to remain organized while navigating these ongoing challenges.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has formulated a specific action plan: preparing a clear summary of issues to communicate more effectively with a faculty advisor, including jotting down main problems and prior steps taken. The client also expressed intention to contact the advisor soon, aiming to choose a time when feeling prepared and focused. Setting reminders or to-do lists for follow-through was agreed upon, indicating a monitoring strategy. Anticipated barriers like frustration and previous ineffective attempts were acknowledged with strategies to enhance communication clarity and persistence. The client showed commitment with statements like 'I'm aiming to do it soon' and acceptance of organizational tools. The conversation naturally shifted towards follow-up methods, meeting Choosing phase objectives and readiness signals.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It's great that you're committed to staying organized and prepared. Remember to be patient with yourself and remain persistent in seeking the support you need. I encourage you to set that reminder or create a to-do list to help you follow through with contacting the faculty advisor. Good luck, and feel free to reach out again if you need further support or guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I'll definitely set up a to-do list to contact my faculty advisor about these transcript access problems. Thanks for the encouragementI'll reach out if I need more help.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist effectively summarized the client's goals and action steps by encouraging the client to prepare a clear summary and set reminders to contact the faculty advisor. The client acknowledged and expressed readiness by agreeing to create a to-do list and follow through with contacting the advisor. The therapist also invited future contact if needed, fulfilling the next-step options criterion. The conversation included a gentle closure invitation ('Good luck, and feel free to reach out again'), indicating readiness to end. Thus, all Termination phase objectives are met, and the dialogue naturally concludes.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there! Im here to listen and support you in any way I can. Is there something on your mind that youd like to talk about?\nclient: Yes, I've been dealing with some frustrating administrative issues at my college. It's making it hard to handle my academic records right now.\ntherapist: That sounds really stressful. Navigating administrative hurdles can be so time-consuming and overwhelming. Have you been able to find any support or resources from the college to help you through this?\nclient: I've reached out to some college resources for assistance, but it's been quite frustrating so far. This ongoing struggle is making it even harder to stay on top of my academic needs.\ntherapist: It sounds like you're caught in a tough cycle, where the administrative issues are creating more stress and making it harder to focus on your academic goals. That's a lot to deal with. Have you considered reaching out to a faculty advisor or student advocate who might be able to help you navigate this situation more effectively?\nclient: I've considered reaching out to a faculty advisor or student advocate, but my previous attempts for help haven't been very effective yet. It's adding to the challenge of managing my academic records smoothly.\ntherapist: It seems like you're dealing with a complex and frustrating situation, where the lack of effective support from the college is compounding your stress. It's understandable that this would make it even harder to focus on your academic goals. It might be helpful to continue exploring different avenues for support, even if previous attempts haven't been successful. Do you have any ideas for how you might approach a faculty advisor or student advocate in a way that could lead to a more productive outcome?\nclient: I might try preparing a clear summary of my issues before contacting a faculty advisor, to make the conversation more straightforward. I'm hoping this approach could help break through the ongoing frustrations with administrative hurdles.\ntherapist: It's great that you're considering preparing a clear summary of your issues before reaching out to a faculty advisor. This could indeed make the conversation more focused and increase the chances of getting the support you need. When you're ready, it might be helpful to identify the key points you want to address and practice how you'll communicate them. Remember, it's important to advocate for yourself and persist in seeking the help you need, even if it takes a few tries. Do you have any thoughts on how you'll go about creating this summary?\nclient: I could start by jotting down the main problems and steps I've already tried, keeping it simple and organized. This might help me stay calm and focused when I finally reach out for support.\ntherapist: Organizing your concerns into a clear summary is a great step forward. It's important to remain persistent when seeking help, even when it feels challenging. When you have your summary ready, remember to be polite but firm in communicating your needs. Is there a specific day or time you plan to contact the faculty advisor?\nclient: I haven't set a specific day or time yet, but I'm aiming to do it soon to keep pushing through these frustrations. I'll make sure to choose a time when I'm feeling prepared and focused.\ntherapist: It's encouraging to see your determination in addressing these challenges. Staying focused and prepared when contacting the faculty advisor will certainly help you navigate the conversation more effectively. Remember, it's also important to be patient with yourself throughout this process. You mentioned aiming to contact the advisor soon. Would setting a reminder or creating a to-do list help you ensure you follow through with your plan?\nclient: Yes, setting a reminder or creating a to-do list would help me stay on track with my plans. It aligns with my need to remain organized while navigating these ongoing challenges.\ntherapist: It's great that you're committed to staying organized and prepared. Remember to be patient with yourself and remain persistent in seeking the support you need. I encourage you to set that reminder or create a to-do list to help you follow through with contacting the faculty advisor. Good luck, and feel free to reach out again if you need further support or guidance.\nclient: I'll definitely set up a to-do list to contact my faculty advisor about these transcript access problems. Thanks for the encouragementI'll reach out if I need more help.",
+  "completed": true
+}

@@ -1,0 +1,118 @@
+{
+  "id": "10qkt08",
+  "timestamp": 1675209600000,
+  "category": "academic",
+  "concern": "After basically getting through college and high school running on what I presume was the last of my motivation, I \\[F26\\] got my bachelors in biology, and after a couple jobs have landed in a place where I'm happy, but need to get a raise. Going back to school for a masters never really was an option for me and isn't really something I'd like to pursue, but I decided to try taking some certificate CC classes in an effort to boost my skills to either get a raise or a better job.\n\nHence... now I'm 2 weeks into class, and I just... can't. I never was able to focus well, and basically got through college by hyperfixating on my studies and \\*school was my life\\* but that doesn't work when you're a grown up and have outside obligations like a full time job and being a healthy human for the first time in my life. I tried putting in what I assumed was the amount of effort that normal people put into school (I did the readings, the lectures, the assignment), and still failed my first assignment and I feel so discouraged at the moment.\n\nHow do I focus and figure out how to \"absorb\" information in ways other than letting school consume my life... I'm seriously super close to just dropping out and never looking back at school but it feels like it might be my only option to eventually get the salary I want.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! What's on your mind today? I'm here to listen and help you explore your thoughts and feelings.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I'm struggling to focus on my classes while balancing my full-time job and other responsibilities. I'm feeling discouraged about my progress and want to find better ways to manage this.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story thoroughly, reflecting back the struggle balancing school and work, showing empathy for the client's discouragement and efforts. The client has expressed clear feelings and concerns, indicating psychological safety and low resistance. Although specific Change Talk is limited, the client has articulated a desire to find new focus strategies and avoid dropping out, linking change to personal goals (salary increase). Goals are implicitly agreed through exploration of the client's situation and motivation. These meet Exploring objectives substantially, signaling readiness to evoke stronger Change Talk in the next phase.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a lot on your plate. Its understandable that you might feel discouraged. Whats been the biggest challenge in managing everything?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "The biggest challenge has been maintaining focus on my studies while juggling my full-time job and other daily responsibilities. It feels overwhelming to absorb the material without letting it take over my entire life like before.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The counselor has expressed empathy and elicited the client's struggles, but the conversation has not yet explored the discrepancy between current behavior and core values or goals, nor has the client articulated specific change goals or next steps. There is no evidence of importance/confidence rulers or a values-clarification exercise being used. The client expresses ambivalence and discouragement without clear Commitment/Activation/Taking-steps Change Talk. Thus, Guiding objectives are only partially met and readiness signals are minimal.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's tough to strike that balance. It's clear you want to make progress without sacrificing your well-being. Have you tried breaking your studies into smaller, more manageable chunks of time, or setting aside specific times for work and study?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I've tried setting aside specific times for studying, but it hasn't helped much with maintaining focus amid my other responsibilities. Breaking things into smaller chunks sounds promising, though I'm not sure if I can make it stick without it feeling overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has acknowledged the client's struggle and explored challenges, reflecting empathy and understanding. The client has expressed ambivalence about strategies tried and is unsure if breaking tasks into smaller chunks will help, indicating ongoing uncertainty. There is no clear Change Talk expressing commitment or specific next steps. The therapist has not yet evoked discrepancy between current behavior and values in a focused way nor completed importance/confidence rulers or values clarification. Ambivalence remains, and no commitment or activation statements are present. Therefore, Guiding objectives are partially met but further work is needed before moving to Choosing.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's great that you're open to trying new strategies. What do you think would make it more likely for you to stick to a more manageable study schedule without feeling overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think having an accountability partner or using simple apps for reminders could help me stay consistent without adding more pressure. Incorporating quick rewards after study sessions might also make it feel less overwhelming while keeping my overall life balanced.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has empathetically explored the client's challenges and elicited potential strategies, such as accountability partners and rewards, which the client responded to with specific, actionable ideas to improve focus and manage overwhelm. The client articulated a clear next step (using apps and accountability) and expressed belief these could help maintain balance. While explicit rulers were not used, the client displays decreased ambivalence by moving toward concrete solutions and expressing openness to change. There is emerging Commitment/Activation talk with the client considering strategies to stay consistent and avoid dropping out. Resistance is minimal, and the conversation shows meaningful forward movement.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having an accountability partner and using reminder apps sound like practical strategies to stay consistent without adding pressure. Which friend or app would you like to start with as your accountability partner and reminder system?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think my coworker Sarah, who's also taking classes, could be a good accountability partner to start with. For the reminder system, I'd like to try the Habitica app to keep things simple and gamified without overwhelming my routine.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has selected a clear and specific goal: improving study focus by using an accountability partner (coworker Sarah) and a reminder app (Habitica). The action plan includes concrete steps—engaging Sarah as accountability partner, utilizing the app for reminders, and incorporating quick rewards—addressing managing study time without feeling overwhelmed. Although the timeline and monitoring are implicit, the client demonstrates commitment by specifying these tools and shows readiness to try them. There is no sign of resistance; instead, the client engages collaboratively and expresses confidence in these strategies. The conversation is naturally moving towards follow-up by specifying tools and partners, meeting Choosing phase criteria.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "In summary, you've identified key strategies to manage your studies better, including breaking them into smaller chunks, having an accountability partner in Sarah, and using the Habitica app for reminders. Remember to reward yourself for progress and maintain a balanced life. Let's check in next week to see how these strategies are working for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'm looking forward to trying these strategies with Sarah and the app to keep my studies manageable without letting them take over my life. See you next week for an update.",
+      "phase": "terminating"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist summarized the client's key goals and strategies clearly (breaking studies into smaller chunks, accountability partner Sarah, Habitica app, rewarding progress) and collaboratively set a plan to check in next week. The client acknowledged the summary and expressed readiness and optimism about trying these strategies and following up. The therapist also offered a next-step option by scheduling a follow-up session. A gentle closure invitation was explicitly made and accepted, fulfilling Termination phase objectives.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! What's on your mind today? I'm here to listen and help you explore your thoughts and feelings.\nclient: I'm struggling to focus on my classes while balancing my full-time job and other responsibilities. I'm feeling discouraged about my progress and want to find better ways to manage this.\ntherapist: That sounds like a lot on your plate. Its understandable that you might feel discouraged. Whats been the biggest challenge in managing everything?\nclient: The biggest challenge has been maintaining focus on my studies while juggling my full-time job and other daily responsibilities. It feels overwhelming to absorb the material without letting it take over my entire life like before.\ntherapist: It's tough to strike that balance. It's clear you want to make progress without sacrificing your well-being. Have you tried breaking your studies into smaller, more manageable chunks of time, or setting aside specific times for work and study?\nclient: I've tried setting aside specific times for studying, but it hasn't helped much with maintaining focus amid my other responsibilities. Breaking things into smaller chunks sounds promising, though I'm not sure if I can make it stick without it feeling overwhelming.\ntherapist: It's great that you're open to trying new strategies. What do you think would make it more likely for you to stick to a more manageable study schedule without feeling overwhelmed?\nclient: I think having an accountability partner or using simple apps for reminders could help me stay consistent without adding more pressure. Incorporating quick rewards after study sessions might also make it feel less overwhelming while keeping my overall life balanced.\ntherapist: Having an accountability partner and using reminder apps sound like practical strategies to stay consistent without adding pressure. Which friend or app would you like to start with as your accountability partner and reminder system?\nclient: I think my coworker Sarah, who's also taking classes, could be a good accountability partner to start with. For the reminder system, I'd like to try the Habitica app to keep things simple and gamified without overwhelming my routine.\ntherapist: In summary, you've identified key strategies to manage your studies better, including breaking them into smaller chunks, having an accountability partner in Sarah, and using the Habitica app for reminders. Remember to reward yourself for progress and maintain a balanced life. Let's check in next week to see how these strategies are working for you.\nclient: I'm looking forward to trying these strategies with Sarah and the app to keep my studies manageable without letting them take over my life. See you next week for an update.",
+  "completed": true
+}

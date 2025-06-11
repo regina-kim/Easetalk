@@ -1,0 +1,100 @@
+{
+  "id": "1edt9y3",
+  "timestamp": 1722038400000,
+  "category": "school_life",
+  "concern": "I got my bachelor's in history recently but started thinking about anthropology bc of wanting to be an archaeologist. Can I skip the bullshit and just take a bunch of anthropology classes and just get a master's in anthropology instead of having to sit through a million electives again that I don't care about?\n\nAlso side question: can I take any kind of accelerated program?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit lost. Would you like to talk about what's been going on? I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Yes, I'd like to talk about this. I'm feeling uncertain about my academic path and want to explore more efficient options moving forward.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist elicited the client's story with open questions and demonstrated empathy ('I'm here to listen'). The client expressed clear concerns about academic goals and desire to explore options, showing psychological safety and openness. The client's primary concern about skipping electives and interest in accelerated programs reflects emerging motivation and a desire to plan concrete next steps. While specific Change Talk utterances (e.g., Desire, Ability) are implied in the client's questions about alternative pathways, resistance is minimal. The session has established rapport, elicited the story, and clarified goals, meeting Exploring phase objectives and showing readiness to move forward.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's completely natural to feel uncertain about your academic path. Exploring more efficient options can be a great way to find clarity. What specifically about your current path is causing you to feel uncertain?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm feeling uncertain because my current academic background doesn't align well with the new direction I want to take, and I'm looking for ways to streamline my studies. I want to focus on relevant courses without repeating unnecessary requirements.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has explored the client's concerns and values, eliciting the discrepancy between the current academic path and the client's goal to efficiently transition to anthropology. The client clearly articulates specific goals regarding streamlining studies and pursuing a master's in anthropology, demonstrating commitment to change. The dialogue shows the client exploring pros and cons of their current situation and desired change. Ambivalence appears minimal, and readiness signals are present as the client expresses a concrete direction and seeks actionable information. While importance and confidence rulers were not explicitly used, the client’s expressed motivation and goal specificity support readiness to move forward.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's great that you're looking for ways to optimize your academic journey. One option could be speaking with an academic advisor to discuss your goals and explore alternative paths. Would you like to schedule an appointment with an advisor or reach out to your academic department for guidance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yes, I'd like to schedule an appointment with an academic advisor to explore more direct paths forward. I'm hoping this will help me address my uncertainty by focusing on streamlined options for my studies.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has identified a clear, specific goal: scheduling an appointment with an academic advisor to explore streamlined academic paths, including potentially skipping irrelevant electives and exploring accelerated programs. The plan to meet the advisor is a concrete step with an implied timeline soon. The client shows commitment by agreeing to take action ('Yes, I'd like to schedule an appointment'). Anticipated barriers like uncertainty about program requirements are implicitly acknowledged, with advisor consultation as a contingency plan. The client expresses confidence and readiness to proceed, and the counselor shifts focus to arranging next steps. These factors meet the Choosing phase objectives, supporting advancement to Terminating.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you've identified a clear next step by scheduling an appointment with an academic advisor. This will help you explore more direct paths forward and find efficient ways to achieve your academic goals. Good luck with your appointment, and I hope you find the guidance you're looking for! Please don't hesitate to reach out if you need further assistance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks for the support I'll follow up with the academic advisor to explore skipping unnecessary electives and check for accelerated options in anthropology.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist summarized the client's key goal of scheduling an appointment with an academic advisor to explore streamlined academic options and acknowledged the next step clearly. The client affirmed their plan and expressed appreciation, indicating readiness. The therapist also offered further support if needed, but a gentle closure invitation was not explicitly stated in the conversation.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's great to see that you're taking proactive steps towards addressing your academic concerns. Good luck with your appointment, and I hope you find the guidance you need to streamline your studies. Remember, you can always reach out for further assistance if needed. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'll definitely discuss skipping unnecessary electives and checking for accelerated anthropology programs with my academic advisor. Thanks for the help.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has summarized key goals and action steps, emphasizing scheduling an appointment with an academic advisor to explore streamlined academic options. The client acknowledges these steps and expresses readiness to follow through by discussing electives and accelerated programs with the advisor. The therapist also invites the client to reach out for further assistance, reinforcing support and next-step options. Finally, the conversation includes a clear closure with good wishes and encouragement. A gentle closure invitation is present, signaling natural session end.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: It sounds like you're feeling a bit lost. Would you like to talk about what's been going on? I'm here to listen.\nclient: Yes, I'd like to talk about this. I'm feeling uncertain about my academic path and want to explore more efficient options moving forward.\ntherapist: It's completely natural to feel uncertain about your academic path. Exploring more efficient options can be a great way to find clarity. What specifically about your current path is causing you to feel uncertain?\nclient: I'm feeling uncertain because my current academic background doesn't align well with the new direction I want to take, and I'm looking for ways to streamline my studies. I want to focus on relevant courses without repeating unnecessary requirements.\ntherapist: It's great that you're looking for ways to optimize your academic journey. One option could be speaking with an academic advisor to discuss your goals and explore alternative paths. Would you like to schedule an appointment with an advisor or reach out to your academic department for guidance?\nclient: Yes, I'd like to schedule an appointment with an academic advisor to explore more direct paths forward. I'm hoping this will help me address my uncertainty by focusing on streamlined options for my studies.\ntherapist: It sounds like you've identified a clear next step by scheduling an appointment with an academic advisor. This will help you explore more direct paths forward and find efficient ways to achieve your academic goals. Good luck with your appointment, and I hope you find the guidance you're looking for! Please don't hesitate to reach out if you need further assistance.\nclient: Thanks for the support I'll follow up with the academic advisor to explore skipping unnecessary electives and check for accelerated options in anthropology.\ntherapist: It's great to see that you're taking proactive steps towards addressing your academic concerns. Good luck with your appointment, and I hope you find the guidance you need to streamline your studies. Remember, you can always reach out for further assistance if needed. Take care!\nclient: I'll definitely discuss skipping unnecessary electives and checking for accelerated anthropology programs with my academic advisor. Thanks for the help.",
+  "completed": true
+}
