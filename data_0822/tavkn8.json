@@ -1,0 +1,250 @@
+{
+  "id": "tavkn8",
+  "timestamp": 1646870400000,
+  "category": "interpersonal",
+  "concern": "So here is the situation\n\nCollege A: I had an interview and told the professor that they are my first choice (and that's true at that time), and later on I received offer with a scholarship.\n\nCollege B: Then I noticed a research that fits me perfectly in this uni. and it became my top choice, and received an offer, but without a scholarship yet (there is still some hope).\n\nSo what do I do ? I can't afford a degree without funding, but (A) gave me an offer that expires on June, and (B) funding will be determined on April-June. I don't know how to interact with my supervisors from (A), they are exited and waiting on my reply, but I don't know how to tell them they became my 2nd choice, and that's I'm waiting on a funding decision from my top choice, and if I received it I will go with (B) not them and if I didn't receive it, I will return to them.\n\nIt is weird situation",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our session today! I'm here to listen and support you in any way I can. Please feel free to share whatever's on your mind, and we can work through it together.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks for having me. I’m just really stressed about making a big decision between two grad schools and figuring out how to handle it without messing things up.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in its initial stage with only one turn. The client's primary concern is clear, but more details and exploration of their thoughts and feelings are needed to build rapport and understand the full context.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a really tough decision to make, and it's understandable that you're feeling stressed about it. It's great that you're reaching out for support during this challenging time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, I’m just feeling so torn and don’t want to burn any bridges. I’m worried about how to communicate this without coming off the wrong way.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the initial exploring phase with only two turns completed. The client has begun to share their story, but further exploration is needed to fully understand their thoughts and feelings around the decision-making process. More rapport building and clarification are necessary before moving to guiding.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's completely normal to feel conflicted when faced with a big decision, especially one that could have such a significant impact on your future. I can see how you'd want to handle this situation carefully and thoughtfully. It might be helpful to explore both options in more depth, and to consider what aspects of each grad school are most important to you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the chance to talk this out. I guess I’m just trying to weigh what matters most, like funding and fit, but it’s hard to balance that with not letting anyone down.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has met the exploring phase goals: the client’s story, thoughts, and context have been clearly elicited, and rapport and empathy appear to be established. The client's concerns are well articulated, and mutually agreed goals are evident. With 3 turns completed and no new repetitive questions, it is suitable to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That's a really thoughtful approach, and it's clear that you care deeply about making the right decision while also being considerate of others. It might be helpful to explore what your ideal situation would look like, and how each option aligns with your values and goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, that makes sense. I think my ideal situation would be getting the funding I need at the place that feels like the best fit, but I’m just scared of missing out on a good opportunity if I wait too long or say the wrong thing.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The conversation is still in early stages of the Guiding phase with only one turn completed. The client's dilemma and values have been explored, but specific change talk hasn't emerged nor has a clear next step been formulated.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's natural to feel anxious about missing out, especially when you're trying to balance so many factors. What aspects of each grad school do you feel most excited about, and what concerns do you have about the potential outcomes of your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks for asking. I’m really excited about the research fit at one place, but the funding security at the other is a huge relief, and I’m just worried about losing a solid offer or disappointing people if I don’t handle this right.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client is expressing ambivalence and exploring potential outcomes of their decision between grad schools. While they have discussed values and goals, they have not yet set a specific change goal or next step. Since there are only 2 turns in this phase, it is appropriate to continue guiding.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That’s a lot to consider, and it’s understandable that you’re feeling anxious about making the right choice. Can you tell me more about what aspects of each program feel most aligned with your long-term goals, and what potential consequences of your decision worry you the most?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Thanks for digging deeper with me. I guess the program with the better research fit really vibes with where I see myself long-term, like it’s more in line with the kind of work I want to do, but I’m super worried about not getting funding there and then losing the other offer too, or just coming off as flaky to the people who’ve already been so supportive.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear discrepancy between their goals and behavior, explored life with/without change, and exhibited some change talk. However, ambivalence remains high, and no specific change plan or confidence measure has been articulated. With only three turns in the guiding phase, it's advisable to continue exploring these aspects before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you're really weighing the importance of aligning with your long-term goals while also considering the potential risks and consequences of each choice. How confident do you feel about being able to navigate these decisions while staying true to what matters most to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks for framing it that way. I’m honestly not super confident right now—I want to stay true to my goals, but I’m scared of messing up the timing or burning bridges with people who’ve been so supportive.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed clear concerns about their decision-making process and its alignment with their long-term goals. However, their confidence is low, and they are still experiencing significant ambivalence and fear about communication and decisions. Change talk is present, but a specific change goal or next step is lacking, indicating a need for further exploration.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That's a really honest reflection, and it takes a lot of self-awareness to recognize where you're struggling. How do you think your ideal future self would handle this situation, and what steps might they take to stay true to their goals while also navigating these risks and relationships?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Thanks for asking that. I think my ideal future self would be super clear and upfront with everyone, like communicating my situation honestly while still showing gratitude, and they’d probably make a decision based on long-term fit even if it meant taking a risk, but I’m just not sure I have that kind of confidence yet to pull it off without feeling guilty or stressed.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear discrepancy between their long-term goals and current behavior, discussed life outcomes with different decisions, and shown some Change Talk. However, their confidence is low, and no specific change goal is set yet. Given these factors and the conversation's complexity, continuing in the Guiding phase to further explore and build confidence would be beneficial.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That’s a really insightful perspective on your ideal future self—being clear, upfront, and goal-oriented while also being mindful of relationships. It’s understandable that you feel uncertain about embodying that version of yourself right now, especially when faced with these tough decisions. How can we work together to bridge the gap between where you are and where you'd like to be?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks for helping me think through this. I guess I’d like to figure out how to build up that confidence to communicate honestly without feeling like I’m letting people down, and maybe come up with a plan to balance the timing of these decisions so I don’t end up stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear understanding of their values and goals, and has articulated changes they wish to make. Although they currently lack confidence, they have identified the need for a plan to balance these decisions. Previous conversations explored life with and without change, and the client now presents Change Talk. Guiding goals appear met, so advancing may help develop actionable strategies.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It sounds like building confidence in your communication and balancing timing are key areas for us to focus on together. What if we started by exploring specific ways your ideal future self would approach those honest conversations, and then brainstormed practical steps to help you feel more grounded in those moments?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "That sounds like a solid starting point. I’d really appreciate diving into how I can have those tough conversations without overthinking or feeling like I’m disappointing anyone, and figuring out some concrete steps to stay calm and focused while I wait on these decisions.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is just beginning to address the client's concerns in the Choosing phase. The client has identified a goal and is beginning to explore action steps and barriers, but more work is needed to develop a concrete plan and discuss barriers in depth. Thus, it's too early to move to the Terminating phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "To build that confidence in communication, let's start by role-playing a conversation with your ideal future self as the guide. This could help you practice staying grounded and focused. For example, we could imagine a scenario where you need to have an honest conversation about your situation and goals, and I'll help you explore how your ideal future self would approach it. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "I’m totally down to try that role-playing idea. It sounds like a good way to get a feel for how I could handle things without all the stress kicking in.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal of making a decision between two grad schools based on funding and fit. They are working on a concrete action plan, including role-playing to build confidence in communication. Barriers such as timing and guilt are being discussed. However, as there have been only two turns in the Choosing phase, more exploration is needed to ensure the client is confident and prepared.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "I'm glad you're open to role-playing—it can be a helpful way to practice and visualize how your ideal future self might handle these conversations. Let's start by choosing a specific situation you're facing, and I'll help guide you through it, step by step, while you embody your ideal self. What situation would you like to practice?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I think I’d like to practice the convo with the professor from College A, since that’s the one stressing me out the most. I just wanna figure out how to be upfront about waiting on another decision without making it seem like I’m brushing them off or being ungrateful.",
+      "phase": "choosing"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal and action plan involving communication with College A's professor while awaiting College B's funding decision. Barriers, such as managing expectations and timing, have been discussed, and the client has engaged in role-playing to build confidence. With these aspects addressed, the client has shown readiness through engagement and commitment to action, indicating readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "Cool, I’m glad we’re focusing on this specific convo since it’s been weighing on me. Let’s dive in and see how I can approach it with some confidence.",
+      "phase": "terminating"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "{{\"reasoning\": \"The client has expressed a clear concern and the therapist is guiding them through practical steps to address it, but closure on a next-step plan hasn't been reached yet.\",\"determination\": \"continue\"}}",
+      "phase": "terminating"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Awesome, I’m ready to give this a shot and see how it feels to navigate that talk. How do we get started with the role-play?",
+      "phase": "terminating"
+    },
+    {
+      "index": "an",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has naturally transitioned into a termination phase with a clear plan to build confidence and address the client's concerns through role-playing specific scenarios. The client also actively engages in exploring solutions.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our session today! I'm here to listen and support you in any way I can. Please feel free to share whatever's on your mind, and we can work through it together.\nclient: Thanks for having me. I’m just really stressed about making a big decision between two grad schools and figuring out how to handle it without messing things up.\ntherapist: That sounds like a really tough decision to make, and it's understandable that you're feeling stressed about it. It's great that you're reaching out for support during this challenging time.\nclient: Yeah, I’m just feeling so torn and don’t want to burn any bridges. I’m worried about how to communicate this without coming off the wrong way.\ntherapist: It's completely normal to feel conflicted when faced with a big decision, especially one that could have such a significant impact on your future. I can see how you'd want to handle this situation carefully and thoughtfully. It might be helpful to explore both options in more depth, and to consider what aspects of each grad school are most important to you.\nclient: Thanks, I really appreciate the chance to talk this out. I guess I’m just trying to weigh what matters most, like funding and fit, but it’s hard to balance that with not letting anyone down.\ntherapist: That's a really thoughtful approach, and it's clear that you care deeply about making the right decision while also being considerate of others. It might be helpful to explore what your ideal situation would look like, and how each option aligns with your values and goals.\nclient: Yeah, that makes sense. I think my ideal situation would be getting the funding I need at the place that feels like the best fit, but I’m just scared of missing out on a good opportunity if I wait too long or say the wrong thing.\ntherapist: It's natural to feel anxious about missing out, especially when you're trying to balance so many factors. What aspects of each grad school do you feel most excited about, and what concerns do you have about the potential outcomes of your decision?\nclient: Thanks for asking. I’m really excited about the research fit at one place, but the funding security at the other is a huge relief, and I’m just worried about losing a solid offer or disappointing people if I don’t handle this right.\ntherapist: That’s a lot to consider, and it’s understandable that you’re feeling anxious about making the right choice. Can you tell me more about what aspects of each program feel most aligned with your long-term goals, and what potential consequences of your decision worry you the most?\nclient: Thanks for digging deeper with me. I guess the program with the better research fit really vibes with where I see myself long-term, like it’s more in line with the kind of work I want to do, but I’m super worried about not getting funding there and then losing the other offer too, or just coming off as flaky to the people who’ve already been so supportive.\ntherapist: It sounds like you're really weighing the importance of aligning with your long-term goals while also considering the potential risks and consequences of each choice. How confident do you feel about being able to navigate these decisions while staying true to what matters most to you?\nclient: Thanks for framing it that way. I’m honestly not super confident right now—I want to stay true to my goals, but I’m scared of messing up the timing or burning bridges with people who’ve been so supportive.\ntherapist: That's a really honest reflection, and it takes a lot of self-awareness to recognize where you're struggling. How do you think your ideal future self would handle this situation, and what steps might they take to stay true to their goals while also navigating these risks and relationships?\nclient: Thanks for asking that. I think my ideal future self would be super clear and upfront with everyone, like communicating my situation honestly while still showing gratitude, and they’d probably make a decision based on long-term fit even if it meant taking a risk, but I’m just not sure I have that kind of confidence yet to pull it off without feeling guilty or stressed.\ntherapist: That’s a really insightful perspective on your ideal future self—being clear, upfront, and goal-oriented while also being mindful of relationships. It’s understandable that you feel uncertain about embodying that version of yourself right now, especially when faced with these tough decisions. How can we work together to bridge the gap between where you are and where you'd like to be?\nclient: Thanks for helping me think through this. I guess I’d like to figure out how to build up that confidence to communicate honestly without feeling like I’m letting people down, and maybe come up with a plan to balance the timing of these decisions so I don’t end up stuck.\ntherapist: It sounds like building confidence in your communication and balancing timing are key areas for us to focus on together. What if we started by exploring specific ways your ideal future self would approach those honest conversations, and then brainstormed practical steps to help you feel more grounded in those moments?\nclient: That sounds like a solid starting point. I’d really appreciate diving into how I can have those tough conversations without overthinking or feeling like I’m disappointing anyone, and figuring out some concrete steps to stay calm and focused while I wait on these decisions.\ntherapist: To build that confidence in communication, let's start by role-playing a conversation with your ideal future self as the guide. This could help you practice staying grounded and focused. For example, we could imagine a scenario where you need to have an honest conversation about your situation and goals, and I'll help you explore how your ideal future self would approach it. What do you think?\nclient: I’m totally down to try that role-playing idea. It sounds like a good way to get a feel for how I could handle things without all the stress kicking in.\ntherapist: I'm glad you're open to role-playing—it can be a helpful way to practice and visualize how your ideal future self might handle these conversations. Let's start by choosing a specific situation you're facing, and I'll help guide you through it, step by step, while you embody your ideal self. What situation would you like to practice?\nclient: I think I’d like to practice the convo with the professor from College A, since that’s the one stressing me out the most. I just wanna figure out how to be upfront about waiting on another decision without making it seem like I’m brushing them off or being ungrateful.\nclient: Cool, I’m glad we’re focusing on this specific convo since it’s been weighing on me. Let’s dive in and see how I can approach it with some confidence.\nclient: Awesome, I’m ready to give this a shot and see how it feels to navigate that talk. How do we get started with the role-play?",
+  "completed": true
+}

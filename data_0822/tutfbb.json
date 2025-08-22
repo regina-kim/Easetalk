@@ -1,0 +1,226 @@
+{
+  "id": "tutfbb",
+  "timestamp": 1648857600000,
+  "category": "school_life",
+  "concern": "How do I keep my head above the water and stop drowning as a somewhat useless phd student? I feel like I can’t cope.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you in any way I can. Please feel free to share whatever is on your mind or in your heart - I'm ready to offer a compassionate and non-judgmental space for you to express yourself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I’m just feeling really overwhelmed with my PhD program and like I’m barely keeping up, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session is in the initial stages with only one conversational turn. More exploration is needed to fully understand the client's experience and build rapport before moving to the guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a lot on your shoulders, and it's completely understandable to feel that way in such a demanding program. How long have you been feeling this way, and what parts of your PhD program have been weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it’s been a while, maybe a few months now, where I just feel like I’m sinking. It’s mostly the constant pressure to produce results and the fear that I’m not cut out for this.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the early stages, with only two turns completed. The therapist has begun to elicit the client’s story, touching on feelings of overwhelm and pressure in the PhD program. More turns are needed to understand the client’s context fully, build rapport, and clarify goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "I can sense the weight of that pressure bearing down on you, and it sounds like it's been a heavy burden to carry for so long. It takes a lot of courage to share those fears about feeling like you're not cut out for this, and I'm here to help you unpack them. Can you tell me more about what's been making you feel that way, and what parts of your work have been the most challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, I guess it’s just this constant doubt in my head, like I’m not smart enough or quick enough to keep up with everyone else. The hardest part is probably the research itself—feeling like I’m not making progress or that my ideas are just not good enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The therapist has successfully elicited the essence of the client's story, including feelings of overwhelm, pressure, and self-doubt in the PhD program. Empathy and rapport are evident, and the client has shared specific challenges. The exploring phase goals are met, and it's appropriate to move to the Guiding phase to strengthen motivation for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like this constant self-doubt has been clouding your view of your own abilities, and it's completely understandable to feel that way when you're under so much pressure. Can you think of any moments or experiences during your PhD program where you felt more confident in your abilities, or where you saw some progress in your research?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, there’ve been a few times when I felt a tiny bit better, like when I got some positive feedback on a presentation last semester. But those moments feel so rare compared to the constant stress, and I just don’t know how to hold onto them, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a discrepancy between their feelings of inadequacy and moments of past success, indicating self-reflection and potential for change. However, only one turn of guiding has occurred, insufficient for determining readiness for the Choosing phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's good to hear that you've had moments of feeling more confident, even if they feel rare. It sounds like the positive feedback on your presentation last semester was a source of strength for you. What do you think made that moment stand out compared to the constant stress you've been experiencing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it stood out because, for once, I felt like someone actually saw value in what I was doing. It’s just hard to remember that feeling when most days I’m stuck wondering if I’m even on the right track.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in its early stages of the guiding phase with only two turns. Though there's exploration of concerns and some evocation of discrepancies (feeling valued vs. constant doubt), specific change goals or steps have not been defined yet. More exploration and evocation of Change Talk are necessary before moving to the Choosing phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That's really insightful, and I can understand how those moments of validation can be a source of strength. What do you think would happen if we focused on nurturing that feeling of being on the right track, and explored ways to build on those moments of confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think that could be helpful, honestly, 'cause I’m so tired of feeling lost all the time. Like, if we could figure out how to make those good moments stick around longer, maybe I wouldn’t feel like I’m sinking every other day.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has touched on exploring values and strengths, but specifics on confidence or change goals are not yet clear. Only three turns in the guiding phase suggests more exploration is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That's a really powerful insight, and I'm glad you're open to exploring ways to build on those moments of confidence. Let's take a moment to reflect on what it would be like to have more of those moments where you feel like you're on the right track, and what that might look like for you.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I guess having more of those moments would feel like a huge weight off my shoulders, like I could actually breathe for once. I just don’t know what it’d take to get there, you know, but I’m willing to try figuring it out.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by showing willingness to explore and build on moments of confidence. They acknowledge the desire to feel less overwhelmed and be on the right track, indicating a specific change goal. The conversation has explored life without change and used summaries effectively, leading to potential readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That’s a really important step, and I’m glad you’re open to exploring this further. Let’s focus on identifying a specific, achievable goal that would help you feel more like you’re on the right track, and then we can start building an action plan around it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Cool, I’m down to set some kind of goal, even if I’m not totally sure where to start. I just hope it’s something I can actually pull off without feeling like I’m setting myself up to fail again.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed willingness to set a goal and build an action plan, but specific goals and strategies have not yet been established. Since the current phase just began, it's necessary to continue developing the action plan and addressing potential barriers.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Let’s start by brainstorming a few potential goals that feel both meaningful and achievable for you. Perhaps we could focus on a goal related to self-care, or one that helps you build on those moments of confidence we discussed earlier. What are some areas of your life where you’d like to see more of those positive moments?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Honestly, I think I’d like to see more of those positive moments in my work, like when I actually feel productive or get something done without second-guessing myself a million times. Maybe also in just taking care of myself better, ‘cause I know I’ve been kinda neglecting that with all the stress.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"In just two turns of the Choosing phase, the client is brainstorming meaningful and achievable goals and is open to setting them. However, specific action plans, strategies for overcoming barriers, and self-monitoring agreements are yet to be established. The conversation is still progressing towards a clear plan, indicating the need to continue this phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That's a great starting point! Let's see if we can narrow it down a bit more. For example, you mentioned wanting to feel more productive at work without second-guessing yourself - could we focus on a specific aspect of your work, like managing your time better or feeling more confident in your decisions? And for self-care, what does \"\"taking care of yourself better\"\" mean to you - is it about getting enough sleep, eating well, or finding ways to relax and reduce stress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Yeah, for work, I think focusing on time management could help, ‘cause I often get stuck overthinking and waste hours instead of just getting stuff done. And for self-care, I guess it’s mostly about getting enough sleep and maybe finding a way to unwind, since I’m always so wound up and exhausted.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear focus on improving time management and self-care, with specific actions identified. They express willingness to try and have discussed self-monitoring. Readiness signals are present, such as commitment and actionable steps. The conversation indicates progress and readiness to transition.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I’m glad we’re narrowing this down—it feels a little more manageable already. Do you think we could start with something small for each, just to build some momentum?",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has identified specific goals, such as improving time management and self-care. However, a next-step plan and coping strategies for these goals are not yet discussed, indicating the need for further discussion.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "I'm really glad to hear that this feels more manageable to you. How about we come up with a tiny step for time management, like setting a specific time limit for a task, and for self-care, maybe picking a consistent bedtime to aim for—does that sound doable?",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session is actively addressing the client's concerns, and goals for improvement are being discussed. However, specific next steps and coping strategies are not fully defined yet.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "terminating"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "Yeah, that sounds totally doable and like a good place to start. I’m feeling a bit more hopeful about tackling these things with small steps like that.",
+      "phase": "terminating"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session identified achievable goals for time management and self-care, offering a concrete starting plan. Client expressed increased hope, suggesting readiness to continue independently, meeting termination goals.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm here to listen and support you in any way I can. Please feel free to share whatever is on your mind or in your heart - I'm ready to offer a compassionate and non-judgmental space for you to express yourself.\nclient: Hey, thanks for being here. I’m just feeling really overwhelmed with my PhD program and like I’m barely keeping up, you know?\ntherapist: It sounds like you're carrying a lot on your shoulders, and it's completely understandable to feel that way in such a demanding program. How long have you been feeling this way, and what parts of your PhD program have been weighing on you the most?\nclient: Yeah, it’s been a while, maybe a few months now, where I just feel like I’m sinking. It’s mostly the constant pressure to produce results and the fear that I’m not cut out for this.\ntherapist: I can sense the weight of that pressure bearing down on you, and it sounds like it's been a heavy burden to carry for so long. It takes a lot of courage to share those fears about feeling like you're not cut out for this, and I'm here to help you unpack them. Can you tell me more about what's been making you feel that way, and what parts of your work have been the most challenging for you?\nclient: Yeah, I guess it’s just this constant doubt in my head, like I’m not smart enough or quick enough to keep up with everyone else. The hardest part is probably the research itself—feeling like I’m not making progress or that my ideas are just not good enough.\ntherapist: It sounds like this constant self-doubt has been clouding your view of your own abilities, and it's completely understandable to feel that way when you're under so much pressure. Can you think of any moments or experiences during your PhD program where you felt more confident in your abilities, or where you saw some progress in your research?\nclient: Honestly, there’ve been a few times when I felt a tiny bit better, like when I got some positive feedback on a presentation last semester. But those moments feel so rare compared to the constant stress, and I just don’t know how to hold onto them, you know?\ntherapist: It's good to hear that you've had moments of feeling more confident, even if they feel rare. It sounds like the positive feedback on your presentation last semester was a source of strength for you. What do you think made that moment stand out compared to the constant stress you've been experiencing?\nclient: I think it stood out because, for once, I felt like someone actually saw value in what I was doing. It’s just hard to remember that feeling when most days I’m stuck wondering if I’m even on the right track.\ntherapist: That's really insightful, and I can understand how those moments of validation can be a source of strength. What do you think would happen if we focused on nurturing that feeling of being on the right track, and explored ways to build on those moments of confidence?\nclient: I think that could be helpful, honestly, 'cause I’m so tired of feeling lost all the time. Like, if we could figure out how to make those good moments stick around longer, maybe I wouldn’t feel like I’m sinking every other day.\ntherapist: That's a really powerful insight, and I'm glad you're open to exploring ways to build on those moments of confidence. Let's take a moment to reflect on what it would be like to have more of those moments where you feel like you're on the right track, and what that might look like for you.\nclient: I guess having more of those moments would feel like a huge weight off my shoulders, like I could actually breathe for once. I just don’t know what it’d take to get there, you know, but I’m willing to try figuring it out.\ntherapist: That’s a really important step, and I’m glad you’re open to exploring this further. Let’s focus on identifying a specific, achievable goal that would help you feel more like you’re on the right track, and then we can start building an action plan around it.\nclient: Cool, I’m down to set some kind of goal, even if I’m not totally sure where to start. I just hope it’s something I can actually pull off without feeling like I’m setting myself up to fail again.\ntherapist: Let’s start by brainstorming a few potential goals that feel both meaningful and achievable for you. Perhaps we could focus on a goal related to self-care, or one that helps you build on those moments of confidence we discussed earlier. What are some areas of your life where you’d like to see more of those positive moments?\nclient: Honestly, I think I’d like to see more of those positive moments in my work, like when I actually feel productive or get something done without second-guessing myself a million times. Maybe also in just taking care of myself better, ‘cause I know I’ve been kinda neglecting that with all the stress.\ntherapist: That's a great starting point! Let's see if we can narrow it down a bit more. For example, you mentioned wanting to feel more productive at work without second-guessing yourself - could we focus on a specific aspect of your work, like managing your time better or feeling more confident in your decisions? And for self-care, what does \"\"taking care of yourself better\"\" mean to you - is it about getting enough sleep, eating well, or finding ways to relax and reduce stress?\nclient: Yeah, for work, I think focusing on time management could help, ‘cause I often get stuck overthinking and waste hours instead of just getting stuff done. And for self-care, I guess it’s mostly about getting enough sleep and maybe finding a way to unwind, since I’m always so wound up and exhausted.\nclient: I’m glad we’re narrowing this down—it feels a little more manageable already. Do you think we could start with something small for each, just to build some momentum?\nclient: I'm really glad to hear that this feels more manageable to you. How about we come up with a tiny step for time management, like setting a specific time limit for a task, and for self-care, maybe picking a consistent bedtime to aim for—does that sound doable?\nclient: Yeah, that sounds totally doable and like a good place to start. I’m feeling a bit more hopeful about tackling these things with small steps like that.",
+  "completed": true
+}

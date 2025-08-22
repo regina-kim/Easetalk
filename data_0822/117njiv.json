@@ -1,0 +1,214 @@
+{
+  "id": "117njiv",
+  "timestamp": 1676851200000,
+  "category": "interpersonal",
+  "concern": "I am absolutely disgusted at how abusive my graduate professors have been, at least in comparison to my undergraduate professors. This seems to be way more common for graduate professors. It’s just so upsetting and hard to deal with.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our counseling session today! I'm glad you're here, and I'd like to start by asking you to share what's been on your mind lately. Is there anything specific you'd like to discuss or any concerns you're struggling with? I'm here to listen and support you in any way I can.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here to listen. I’ve just been really upset lately about how some of my grad professors have been treating me, and it’s been tough to handle compared to my undergrad experience.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"There has been only one turn in the current phase, and the client's concern has been shared but not yet fully explored. More conversation is needed to understand the client's thoughts and context more deeply before moving to the guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you've been dealing with a lot of stress and disappointment, especially compared to your undergrad experience. That must be really frustrating, and I can see why it would be hard to handle. Can you tell me a bit more about what specifically has been difficult with your grad professors?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it’s just been a lot to take in, you know, feeling so let down by people I’m supposed to look up to. I guess I’m still trying to figure out how to deal with the way things are in grad school.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only gone through 2 turns in the Exploring phase. The therapist has started to understand the client's concerns about their graduate professors but has not yet fully elicited the essence of the client's story, thoughts, and relevant context. More exploration is needed before moving to the next phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It must feel really disheartening to experience such a significant shift in your academic environment, especially when you were expecting a certain level of support from your professors. How have you been coping with these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, I’ve just been kinda bottling it up, trying to push through my work and not let it get to me too much. But it’s hard, and I’m starting to feel like it’s wearing me down more than I realized.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has reached 3 turns. The client has shared their struggles with graduate professors, highlighting feelings of disappointment and stress. The therapist has demonstrated empathy and has begun to delve into the client's coping mechanisms. To ensure a deeper understanding and solidify rapport, it's best to continue in the Exploring phase for another turn.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's completely understandable to feel overwhelmed and unsure of how to handle the situation, especially when it's affecting your work and overall well-being. Can you tell me more about what it's been like to bottle up these feelings, and how you think that's impacting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I mean, bottling it up just feels like I’m carrying this heavy weight all the time, and I’m worried it’s starting to mess with my focus and energy. It’s like I’m stuck in this loop of frustration and I don’t know how to get out of it without making things worse.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The therapist has effectively elicited the client's story and the relevant context, including the client's feelings and coping mechanisms. Empathy and rapport have been established, with mutually agreed upon goals for the exploration phase. The conversation has had 4 turns, meeting the requirement.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like carrying this weight is taking a toll on your overall well-being and academic performance. What would it be like for you if you could find a way to break this cycle of frustration and feel more in control of your emotions and your work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, that would be such a relief, like I could finally breathe again and focus on why I’m here in the first place. I just don’t know where to start with breaking that cycle without risking more stress or conflict.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only one turn. The therapist has started to explore the client's emotions and the impact of the situation but hasn't yet fully addressed key aspects like evoking discrepancy or using confidence rulers.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It’s understandable that you’re hesitant to take steps that might lead to more stress or conflict, especially when you're already feeling overwhelmed. What do you think is the biggest hurdle standing in your way right now, and how might addressing it help you regain control over your emotions and work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, the biggest hurdle is just feeling like I can’t speak up or push back without it blowing up in my face or hurting my progress here. I think if I could figure out a safe way to address this, it might help me feel less trapped and more in charge of my own headspace.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the early stages of the Guiding phase, with only two turns. The client has expressed a strong desire for relief and control over their emotions but hasn't yet articulated specific change goals or next steps. There is also no evidence of a confidence rating or significantly reduced ambivalence. Continue guiding to clarify goals and address ambivalence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you’re at a crossroads, wanting to break this cycle but also concerned about potential consequences. What do you think would happen if you found a way to express yourself safely, and how might that impact your sense of control and well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think if I could express myself without fear of backlash, it would lift such a huge burden off my shoulders, like I’d finally have some power over my situation. I just worry about how it could backfire, y’know, and I’m not sure how to even approach it without making things messier.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is at the beginning of the Guiding phase with only 3 turns. The client has expressed Change Talk, indicating a desire to break the cycle and regain control, but no specific change goal or next step has been identified. Continue exploring to strengthen motivation and clarify goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That makes sense. It's tough to feel like you can't express yourself without risking things getting worse. What do you think might help you feel more confident in finding a way to express yourself safely, even if it's just a small step?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I guess having some kind of support or guidance on how to approach it would make me feel more confident, like maybe talking through specific ways to say what I need to without it sounding confrontational. I just need to figure out what that first small step could even look like, y’know, something that doesn’t feel so risky right off the bat.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change and identified a specific goal: finding a way to safely express themselves. They've acknowledged the impact of the current situation and discussed potential benefits of change. Although confidence rulers weren't explicitly used, the session has effectively explored readiness through discussion. With 4 turns in the guiding phase, it's time to move to developing specific action plans.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It’s important to feel supported and equipped with the right tools when navigating difficult situations. Based on what you said, perhaps practicing assertive communication techniques, such as using \"I\" statements or role-playing conversations, could help you feel more confident in expressing yourself safely. Would you be open to exploring these options further?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Yeah, I’d definitely be open to trying that out, like practicing how to phrase things so I don’t come off the wrong way. It’d be nice to have some kind of structure to lean on while I figure out how to handle this without freaking out about the fallout.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Choosing phase, with only one turn completed. The client is open to exploring assertive communication techniques, but a specific action plan and agreement on self-monitoring have not yet been fully developed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That’s a great starting point! Would you like to try some role-playing exercises together to practice using \"I\" statements and other assertive communication techniques? Additionally, we could create a step-by-step plan for approaching difficult conversations, which might help you feel more prepared and confident.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Yeah, I’m totally down to try the role-playing exercises and work on those \"I\" statements. And having a step-by-step plan sounds super helpful—I think it’d take some of the anxiety out of the whole thing if I know exactly what to do next.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has committed to trying out role-playing exercises and creating a step-by-step communication plan, indicating readiness to take action. The discussion around barriers and self-monitoring has been addressed, suggesting the goals of the Choosing phase are met.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "therapist: Awesome, I’m glad you’re on board with this! Let’s start with some role-playing next session and begin drafting that step-by-step plan together—does that sound good to you?\n\nclient: Yeah, that sounds perfect. I’m looking forward to getting started on it and seeing how it feels to actually practice this stuff.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has established a plan for addressing the client's concerns through role-playing and developing communication strategies. However, these actions are to occur in future sessions, indicating continuation is needed for full resolution.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "therapist: Great, I’m excited to work on this with you! Before we wrap up, is there anything else on your mind that you’d like to touch on today?\n\nclient: Nah, I think I’m good for now. Just feeling a bit more hopeful about tackling this, so thanks for that.",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have discussed a clear next-step plan involving role-playing and assertive communication. There is a summary of goals and coping strategies, indicating readiness for termination.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our counseling session today! I'm glad you're here, and I'd like to start by asking you to share what's been on your mind lately. Is there anything specific you'd like to discuss or any concerns you're struggling with? I'm here to listen and support you in any way I can.\nclient: Hey, thanks for being here to listen. I’ve just been really upset lately about how some of my grad professors have been treating me, and it’s been tough to handle compared to my undergrad experience.\ntherapist: It sounds like you've been dealing with a lot of stress and disappointment, especially compared to your undergrad experience. That must be really frustrating, and I can see why it would be hard to handle. Can you tell me a bit more about what specifically has been difficult with your grad professors?\nclient: Yeah, it’s just been a lot to take in, you know, feeling so let down by people I’m supposed to look up to. I guess I’m still trying to figure out how to deal with the way things are in grad school.\ntherapist: It must feel really disheartening to experience such a significant shift in your academic environment, especially when you were expecting a certain level of support from your professors. How have you been coping with these feelings so far?\nclient: Honestly, I’ve just been kinda bottling it up, trying to push through my work and not let it get to me too much. But it’s hard, and I’m starting to feel like it’s wearing me down more than I realized.\ntherapist: It's completely understandable to feel overwhelmed and unsure of how to handle the situation, especially when it's affecting your work and overall well-being. Can you tell me more about what it's been like to bottle up these feelings, and how you think that's impacting you?\nclient: Yeah, I mean, bottling it up just feels like I’m carrying this heavy weight all the time, and I’m worried it’s starting to mess with my focus and energy. It’s like I’m stuck in this loop of frustration and I don’t know how to get out of it without making things worse.\ntherapist: It sounds like carrying this weight is taking a toll on your overall well-being and academic performance. What would it be like for you if you could find a way to break this cycle of frustration and feel more in control of your emotions and your work?\nclient: Honestly, that would be such a relief, like I could finally breathe again and focus on why I’m here in the first place. I just don’t know where to start with breaking that cycle without risking more stress or conflict.\ntherapist: It’s understandable that you’re hesitant to take steps that might lead to more stress or conflict, especially when you're already feeling overwhelmed. What do you think is the biggest hurdle standing in your way right now, and how might addressing it help you regain control over your emotions and work?\nclient: Honestly, the biggest hurdle is just feeling like I can’t speak up or push back without it blowing up in my face or hurting my progress here. I think if I could figure out a safe way to address this, it might help me feel less trapped and more in charge of my own headspace.\ntherapist: It sounds like you’re at a crossroads, wanting to break this cycle but also concerned about potential consequences. What do you think would happen if you found a way to express yourself safely, and how might that impact your sense of control and well-being?\nclient: I think if I could express myself without fear of backlash, it would lift such a huge burden off my shoulders, like I’d finally have some power over my situation. I just worry about how it could backfire, y’know, and I’m not sure how to even approach it without making things messier.\ntherapist: That makes sense. It's tough to feel like you can't express yourself without risking things getting worse. What do you think might help you feel more confident in finding a way to express yourself safely, even if it's just a small step?\nclient: I guess having some kind of support or guidance on how to approach it would make me feel more confident, like maybe talking through specific ways to say what I need to without it sounding confrontational. I just need to figure out what that first small step could even look like, y’know, something that doesn’t feel so risky right off the bat.\ntherapist: It’s important to feel supported and equipped with the right tools when navigating difficult situations. Based on what you said, perhaps practicing assertive communication techniques, such as using \"I\" statements or role-playing conversations, could help you feel more confident in expressing yourself safely. Would you be open to exploring these options further?\nclient: Yeah, I’d definitely be open to trying that out, like practicing how to phrase things so I don’t come off the wrong way. It’d be nice to have some kind of structure to lean on while I figure out how to handle this without freaking out about the fallout.\ntherapist: That’s a great starting point! Would you like to try some role-playing exercises together to practice using \"I\" statements and other assertive communication techniques? Additionally, we could create a step-by-step plan for approaching difficult conversations, which might help you feel more prepared and confident.\nclient: Yeah, I’m totally down to try the role-playing exercises and work on those \"I\" statements. And having a step-by-step plan sounds super helpful—I think it’d take some of the anxiety out of the whole thing if I know exactly what to do next.\nclient: therapist: Awesome, I’m glad you’re on board with this! Let’s start with some role-playing next session and begin drafting that step-by-step plan together—does that sound good to you?\n\nclient: Yeah, that sounds perfect. I’m looking forward to getting started on it and seeing how it feels to actually practice this stuff.\nclient: therapist: Great, I’m excited to work on this with you! Before we wrap up, is there anything else on your mind that you’d like to touch on today?\n\nclient: Nah, I think I’m good for now. Just feeling a bit more hopeful about tackling this, so thanks for that.",
+  "completed": true
+}

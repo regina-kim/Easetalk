@@ -1,0 +1,250 @@
+{
+  "id": "14svyir",
+  "timestamp": 1688688000000,
+  "category": "emotional",
+  "concern": "I am terrified of going to college because I have debilitating anxiety. I am extremely fearful of talking and interacting with people outside of my family at home but I have never been allowed to get an actual diagnosis. Will I have to find a way to get a diagnosis so that I can be excused from any social assignments/classes? I assume that’s the only way they would allow it",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello there, it's wonderful to meet you. I'm here to listen and support you, so please feel free to share whatever's on your mind or in your heart today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I’m just really overwhelmed with the idea of college and all the social stuff that comes with it, and I’m not sure how to handle it.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is just beginning with only one turn. The client has shared initial concerns about anxiety related to college. More exploration is needed to fully understand their story, context, and feelings.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a lot to take in, and it's understandable to feel overwhelmed. I'm curious, what specifically about college and the social aspects is causing you the most stress right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "It’s just the thought of having to talk to people and be in groups or do presentations that freaks me out. I’ve always struggled with that kind of stuff, and I don’t know how I’m gonna get through it.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only included two turns, which is insufficient to fully explore the client's story and establish mutual goals. Further discussion is needed to understand the client's thoughts and context more deeply.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It’s really tough when social situations feel so intimidating, and it’s completely valid to feel anxious about things that have been challenging in the past. How have you typically managed these situations before, or have you found anything that’s helped even a little?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, I’ve mostly just avoided those kinds of situations whenever I could, like staying quiet or skipping stuff if possible. It’s not really a fix, though, and I know I can’t keep doing that in college.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is progressing well with the client sharing their concerns about college-related social anxiety. However, only three conversational turns have been completed, which is the minimum for exploring. Ensure deeper exploration before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like avoiding these situations has been a way for you to cope with your anxiety, but you're aware that it might not be a sustainable solution in the long run. How do you think your life might change if you were able to handle these social situations with more confidence and comfort?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think my life would be so much easier if I could handle talking to people without feeling like I’m gonna panic or mess up. It’d probably make college feel less like a nightmare and more like something I could actually get through.\n\nSo, like, do you think there’s a way for me to maybe get some kind of help or support with this before I totally crash and burn? I’m just worried I’ll end up failing if I don’t figure something out soon.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has met the goals of the Exploring phase. The client has shared their concerns about social anxiety in college, and the therapist has acknowledged their feelings and coping mechanisms. The client has expressed a desire for support and change, indicating readiness to strengthen motivation.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It’s really commendable that you’re recognizing your needs and seeking support, especially when it comes to something as important as your college experience. It sounds like you’re already starting to envision how things could improve if you found the right tools to manage these situations. Have you ever thought about what kind of support or strategies might help you feel more confident in those moments?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I mean, I’m not really sure what would help since I’ve never had any real support for this before. I guess maybe talking through stuff or learning some ways to calm down when I’m freaking out could be a start, but I don’t even know where to begin with that.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only one turn completed. The therapist has begun to explore the client's feelings and motivations but has not yet fully met the goals of the Guiding phase, such as evoking Change Talk or addressing discrepancy.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It’s great that you’re open to exploring different strategies and forms of support. Talking through your concerns and learning relaxation techniques could be a good starting point. Have you considered reaching out to your college’s counseling services or a support group for social anxiety?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yeah, I’ve thought about checking out counseling services at college, but I’m kinda nervous about even starting that process. I just don’t know how to bring this up or if they’ll even take me seriously without some kind of official diagnosis or something.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change and is open to exploring strategies. Discrepancy between their current behavior and goals has been evoked, and they've reacted positively to summaries. However, specific change goals and next steps are not yet clearly defined. With only 2 turns in the guiding phase, it's appropriate to continue exploring their readiness and confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable that you feel apprehensive about reaching out for help, especially when it involves sharing your personal struggles with someone new. However, counseling services at your college are there to support students in a non-judgmental and confidential environment, and they can help you work through your anxiety and develop coping strategies. You don't need an official diagnosis to seek their assistance. They can also guide you on how to bring up your concerns and make the process as smooth and comfortable as possible for you.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks for explaining that, it does make me feel a bit less stressed knowing I don’t need a diagnosis to get started. I’m just still kinda worried about how to even walk in there and say what’s going on without feeling super awkward or like I’m overreacting.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed concerns about social anxiety and is exploring ways to manage it in college. The conversation has reached three turns in the guiding phase with some exploration of support options like counseling. Additional turns may help solidify specific goals or strategies.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It’s okay to feel nervous about taking that first step, but you deserve support and there’s no right or wrong way to start the conversation. You could begin by sharing how your anxiety has impacted your college experience and your desire to improve it, which would likely resonate with the counselor. Remember, seeking help is a sign of strength, not weakness.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I guess I just need to push myself to get in there and start talking, even if it feels weird at first. I’m still kinda scared I’ll freeze up or not know what to say, though—do you have any tips for like, getting through that first meeting without totally panicking?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shown Change Talk by expressing a desire to handle social situations better and a willingness to seek help. The discrepancy between the current avoidance behavior and the goal of managing anxiety is clear. The client has considered specific steps, like using college counseling services, indicating readiness to plan action strategies.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "One approach could be to practice a brief, honest opening statement ahead of time, like \"\"I'm here because I've been struggling with social anxiety and I'd like to explore ways to manage it better.\"\" This can help ease the initial pressure. Another tip is to remind yourself that it's normal to feel uneasy in these situations, and that the counselor is there to support you, not judge you.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Hey, thanks for the suggestion about practicing what to say—that actually sounds doable. I’m just worried I’ll still get all shaky and mess it up, but I guess I’ll try writing something down and going over it a few times before I go in.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have discussed a clear goal: managing social anxiety in college. The client is open to seeking counseling services, indicating commitment. The client has accepted suggestions to practice talking points and write them down, which are actions they can prepare for. However, this is the first turn in the Choosing phase, so continuing is appropriate to further develop the plan and address any additional barriers.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan, and you're taking an important step by preparing yourself ahead of time. Remember that it's okay if you don't stick to your script perfectly - the counselor will understand that you're feeling nervous, and they're there to guide you through the process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Thanks, that’s reassuring to hear. I’ll definitely try to keep that in mind and not stress too much if I stumble over my words. I’m just wondering, like, how long do you think it usually takes to feel a bit more comfortable talking in those sessions? I know it’s probably different for everyone, but I’m kinda curious about what to expect.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a commitment to reach out to college counseling services and has started planning by practicing an opening statement. While preparing, the client acknowledges their nervousness but demonstrates readiness to act. The clear action plan is to engage with the counseling services. Given the progress and readiness to take steps, it is appropriate to transition towards termination.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks for asking, I’m really curious about how this might play out over time. I just hope I can get to a point where opening up doesn’t feel so tough, you know?",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "{ \"reasoning\": \"The session is in the process of exploring coping strategies and discussing next steps, such as utilizing college counseling services. These steps are in line with termination goals, but no closure invitation has been issued.\", \"determination\": \"continue\" }",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Thanks for checking in on that. I’m just hoping I don’t stay stuck feeling this nervous for too long, and I’d love to hear any thoughts you have on what might help speed up getting more at ease with it.",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "{{\n\"reasoning\": \"The client has expressed significant anxiety about social situations in college and has considered accessing counseling services. However, there's no summary or plan outlined yet.\",\n\"determination\": \"continue\"\n}}",
+      "phase": "terminating"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "Thanks for the reassurance and for understanding where I’m coming from. I’m just wondering if there are any small steps or strategies you’d suggest to help me feel a bit more settled during those early sessions?",
+      "phase": "terminating"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "{{\n\"reasoning\": \"The client has identified their anxiety about social interactions and discussed initial steps to seek support. However, they have not yet engaged in a detailed plan or coping strategies for handling their anxiety.\",\n\"determination\": \"continue\"\n}}",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the ideas, I really appreciate the guidance on easing into those sessions. I’m just hoping I can start feeling a bit more at ease soon, and I’ll definitely give those strategies a shot. So, before we wrap up, do you have any quick tips for managing that initial nerves right when I walk in?",
+      "phase": "terminating"
+    },
+    {
+      "index": "an",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has not yet reached termination goals, as no summary of coping strategies or next steps has been discussed. The client is still seeking guidance.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "Thanks for the suggestions, I’ll definitely try to keep them in mind. I’m just hoping I can shake off those first few minutes of nerves, so any last quick advice on that would be great before we end.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ao",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has been provided with coping strategies and a next-step plan involving college counseling services. They feel reassured and ready to attempt these strategies, indicating the session can naturally conclude.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello there, it's wonderful to meet you. I'm here to listen and support you, so please feel free to share whatever's on your mind or in your heart today.\nclient: Hey, thanks for being here. I’m just really overwhelmed with the idea of college and all the social stuff that comes with it, and I’m not sure how to handle it.\ntherapist: That sounds like a lot to take in, and it's understandable to feel overwhelmed. I'm curious, what specifically about college and the social aspects is causing you the most stress right now?\nclient: It’s just the thought of having to talk to people and be in groups or do presentations that freaks me out. I’ve always struggled with that kind of stuff, and I don’t know how I’m gonna get through it.\ntherapist: It’s really tough when social situations feel so intimidating, and it’s completely valid to feel anxious about things that have been challenging in the past. How have you typically managed these situations before, or have you found anything that’s helped even a little?\nclient: Honestly, I’ve mostly just avoided those kinds of situations whenever I could, like staying quiet or skipping stuff if possible. It’s not really a fix, though, and I know I can’t keep doing that in college.\ntherapist: It sounds like avoiding these situations has been a way for you to cope with your anxiety, but you're aware that it might not be a sustainable solution in the long run. How do you think your life might change if you were able to handle these social situations with more confidence and comfort?\nclient: I think my life would be so much easier if I could handle talking to people without feeling like I’m gonna panic or mess up. It’d probably make college feel less like a nightmare and more like something I could actually get through.\n\nSo, like, do you think there’s a way for me to maybe get some kind of help or support with this before I totally crash and burn? I’m just worried I’ll end up failing if I don’t figure something out soon.\ntherapist: It’s really commendable that you’re recognizing your needs and seeking support, especially when it comes to something as important as your college experience. It sounds like you’re already starting to envision how things could improve if you found the right tools to manage these situations. Have you ever thought about what kind of support or strategies might help you feel more confident in those moments?\nclient: I mean, I’m not really sure what would help since I’ve never had any real support for this before. I guess maybe talking through stuff or learning some ways to calm down when I’m freaking out could be a start, but I don’t even know where to begin with that.\ntherapist: It’s great that you’re open to exploring different strategies and forms of support. Talking through your concerns and learning relaxation techniques could be a good starting point. Have you considered reaching out to your college’s counseling services or a support group for social anxiety?\nclient: Yeah, I’ve thought about checking out counseling services at college, but I’m kinda nervous about even starting that process. I just don’t know how to bring this up or if they’ll even take me seriously without some kind of official diagnosis or something.\ntherapist: It's understandable that you feel apprehensive about reaching out for help, especially when it involves sharing your personal struggles with someone new. However, counseling services at your college are there to support students in a non-judgmental and confidential environment, and they can help you work through your anxiety and develop coping strategies. You don't need an official diagnosis to seek their assistance. They can also guide you on how to bring up your concerns and make the process as smooth and comfortable as possible for you.\nclient: Thanks for explaining that, it does make me feel a bit less stressed knowing I don’t need a diagnosis to get started. I’m just still kinda worried about how to even walk in there and say what’s going on without feeling super awkward or like I’m overreacting.\ntherapist: It’s okay to feel nervous about taking that first step, but you deserve support and there’s no right or wrong way to start the conversation. You could begin by sharing how your anxiety has impacted your college experience and your desire to improve it, which would likely resonate with the counselor. Remember, seeking help is a sign of strength, not weakness.\nclient: Thanks, I appreciate that. I guess I just need to push myself to get in there and start talking, even if it feels weird at first. I’m still kinda scared I’ll freeze up or not know what to say, though—do you have any tips for like, getting through that first meeting without totally panicking?\ntherapist: One approach could be to practice a brief, honest opening statement ahead of time, like \"\"I'm here because I've been struggling with social anxiety and I'd like to explore ways to manage it better.\"\" This can help ease the initial pressure. Another tip is to remind yourself that it's normal to feel uneasy in these situations, and that the counselor is there to support you, not judge you.\nclient: Hey, thanks for the suggestion about practicing what to say—that actually sounds doable. I’m just worried I’ll still get all shaky and mess it up, but I guess I’ll try writing something down and going over it a few times before I go in.\ntherapist: That sounds like a solid plan, and you're taking an important step by preparing yourself ahead of time. Remember that it's okay if you don't stick to your script perfectly - the counselor will understand that you're feeling nervous, and they're there to guide you through the process.\nclient: Thanks, that’s reassuring to hear. I’ll definitely try to keep that in mind and not stress too much if I stumble over my words. I’m just wondering, like, how long do you think it usually takes to feel a bit more comfortable talking in those sessions? I know it’s probably different for everyone, but I’m kinda curious about what to expect.\nclient: Thanks for asking, I’m really curious about how this might play out over time. I just hope I can get to a point where opening up doesn’t feel so tough, you know?\nclient: Thanks for checking in on that. I’m just hoping I don’t stay stuck feeling this nervous for too long, and I’d love to hear any thoughts you have on what might help speed up getting more at ease with it.\nclient: Thanks for the reassurance and for understanding where I’m coming from. I’m just wondering if there are any small steps or strategies you’d suggest to help me feel a bit more settled during those early sessions?\nclient: Thanks for the ideas, I really appreciate the guidance on easing into those sessions. I’m just hoping I can start feeling a bit more at ease soon, and I’ll definitely give those strategies a shot. So, before we wrap up, do you have any quick tips for managing that initial nerves right when I walk in?\nclient: Thanks for the suggestions, I’ll definitely try to keep them in mind. I’m just hoping I can shake off those first few minutes of nerves, so any last quick advice on that would be great before we end.",
+  "completed": true
+}

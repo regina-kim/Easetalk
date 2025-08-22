@@ -1,0 +1,184 @@
+{
+  "id": "yyd0fn",
+  "timestamp": 1668729600000,
+  "category": "interpersonal",
+  "concern": "I'm currently a freshman at uni, and I am trying to decide if it would be worth it to live alone.\n\nMy two options rn are\n\n1:  Live with one of my friends from HS and one of his friends, but we also need a fourth person that we don't have yet. Around \\~800 USD\n\n2: Live by myself. \\~950 USD\n\nThe location from campus is about the same either way, but I am leaning more toward living by myself. \n\nIs it lonely living alone or is it nice from your experience?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our session! I'm here to listen and support you in any way I can. Please feel free to share whatever is on your mind or whatever you'd like to talk about. I'm all ears and ready to help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I’ve been kinda stuck on this decision about whether to live alone or with roommates next year, and I’m just not sure what’s the best move for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has only had one conversation turn so far, with the client sharing initial concerns about housing decisions. More exploration is needed to fully understand the client's thoughts and context before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's totally normal to feel stuck on a decision like that, and it sounds like you're really weighing the pros and cons. Can you tell me a little bit more about what's been making this decision feel so tricky?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, I guess it’s just hard to know if I’ll feel isolated if I live alone, or if I’ll miss out on the social stuff with roommates. I’m torn between wanting my own space and not wanting to feel lonely, ya know?\n\nSo, like, have you worked with other students who’ve had to make this kind of choice? What did they end up doing, or what helped them figure it out?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has only had two conversational turns, which is insufficient to meet the exploring phase goals. The client's context and thoughts have been partially explored, but further dialogue is needed to fully understand their story and build rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Yeah, I’ve definitely worked with students who’ve struggled with this decision before. Some of them found that the best way to figure it out was by thinking about what they needed most in that moment—whether it was the comfort of their own space or the camaraderie of roommates. It’s all about understanding what will make you feel most balanced and happy in the long run.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Cool, that makes sense. I guess I’m just trying to figure out if I’ll be okay on my own, or if I’ll end up feeling like I’m missing out on stuff, ya know, like those random late-night talks with roommates or whatever. What do you think I should focus on to really get clear on what I need right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has reached three turns and the client has shared their core dilemma, thoughts, and context about living arrangements. The client's needs and emotional concerns have been expressed, building rapport. It's appropriate to begin exploring motivations for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "One thing that could help is thinking about your current routine and how you'd adapt to either situation. For example, if you enjoy your own space, how would you maintain social connections while living alone? If you value those spontaneous roommate moments, how would you ensure you have enough personal time if you live with others? It's about finding a balance that works for you.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks for the suggestion. I think I do enjoy my own space a lot, but I’m worried I might feel too cut off without people around, ya know, like I’d have to go out of my way to see friends. How do you think I can kinda test out how I’d feel in either situation before I make a final call?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only just begun exploring the client's dilemma about living arrangements, with only one turn in the guiding phase. More exploration is needed to evoke change talk and address ambivalence before moving to planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It might help to try out a little experiment, like spending a weekend or a few days in a solo environment to see how it feels, or maybe staying with a friend or family member to gauge what that experience is like. You could also talk to people who have lived alone and with roommates to get a sense of their experiences and what they learned from them.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Got it, that sounds like a solid idea. I think I could maybe spend a few days at home alone when my family’s out or crash with a buddy for a bit to get a feel for both vibes, ya know? What kinda stuff should I pay attention to when I’m testing this out, like specific feelings or whatever?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has explored the client's ambivalence about living alone vs. with roommates and suggested a trial period to test both scenarios. The client is leaning towards living alone but still expresses concerns about potential loneliness. While there's a specific goal (testing both scenarios), the client has not fully resolved ambivalence or established a clear next step. Continue in the guiding phase to address remaining ambivalence and solidify decision-making.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You might want to pay attention to how you feel emotionally during those days—like, do you feel relaxed and focused when you're alone, or do you start to crave social interaction? On the flip side, when you're staying with friends, do you feel energized by their company, or do you miss having your own space? Also, think about your habits—do you stay productive, or do you end up procrastinating when you're alone? Or when you're with others, do you find yourself getting distracted or overwhelmed? Noticing these little things can help you figure out what really matters to you.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Cool, that’s super helpful to think about. I’ll definitely keep track of how I’m feeling emotionally and if I’m getting stuff done or just zoning out in both setups, ya know, to see what clicks better for me. Is there anything else I should consider, like maybe how this choice might affect other parts of my life, like school or even just my mood overall?",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has explored their values and the impact of both options on their life. They have a potential next step (testing living alone and with others), but no specific change goal or confidence level is indicated. Ambivalence remains, so continue guiding.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It’s a great idea to think about how this decision might ripple into other areas of your life, like school or your overall mood. Maybe consider how each living situation might influence your study habits, your stress levels, or even your social life outside of home. Also, think about your long-term goals—are you hoping for stability, growth, or something else? Reflecting on these angles could help you feel more confident about which path aligns best with where you’re headed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Hey, thanks for breaking it down like that. I’ll definitely think about how each option might mess with or help my studies and stress, ya know, and where I wanna be in the long run. Is there a way to kinda weigh all these factors, like, should I make a list or something to see which setup fits better with my goals and daily vibe?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client is still exploring their feelings and has not yet expressed a strong commitment or specific change goal. The conversation is focused on understanding emotions and potential outcomes. No specific actionable steps or confidence ratings were discussed. The client is still processing ambivalence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You could definitely try making a list or even just jotting down some notes after each trial period—like a quick pros and cons chart or just free-writing about how each situation made you feel and what worked or didn’t. Trust your gut, though, too. Sometimes the best way to weigh it is to sit with the feelings and see which one feels like it’s pulling you forward more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Gotcha, I like the idea of jotting stuff down after trying things out, maybe making a quick pros and cons list to get my thoughts straight. I’ll also just kinda sit with how each option feels, ya know, and see which one seems to fit better with where I’m at and where I wanna go. Is there a good way to balance, like, wanting my own space but not totally cutting myself off from people if I do end up living alone?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has effectively explored the client's concerns and evoked Change Talk, including considering pros and cons of both options. The client has articulated next steps, like testing living arrangements and creating a pros and cons list. They are leaning towards living alone, showing a clearer direction. With 5 turns in the current phase and readiness signals present, it's appropriate to move to the Choosing phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Absolutely, finding that balance between personal space and social connection is totally doable! You might consider scheduling specific times to connect with friends or family each week—like planning a weekly dinner or coffee meetup. That way, you get your alone time, but also make sure you're staying connected with others. Have you thought about how often you'd want to see people if you were living alone?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Hey, that’s a solid idea to schedule stuff like dinners or coffee to keep in touch with people. I haven’t really thought too much about how often I’d wanna see folks if I’m on my own, but maybe a couple times a week would feel right— just enough to not feel out of the loop, ya know? How do you think I could figure out what’s the right amount of social time for me without it feeling forced or like a chore?",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear action plan to test both living situations and self-monitor how each feels. They are considering how each option impacts their social life, studies, and overall well-being. The client has expressed commitment to try out scenarios and seems confident in exploring and evaluating these feelings, meeting the Choosing phase goals.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "Hey, I’m glad you think that scheduling idea could work, and starting with a couple times a week sounds like a good baseline. Maybe try experimenting with different frequencies over a few weeks and just notice how you feel after each hangout—does it energize you or drain you? That might help clue you in on what feels natural without turning into a burden. So, do you think there’s anything else I should keep in mind while I’m figuring this out?",
+      "phase": "terminating"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has received actionable strategies to explore both living options. They have a clear plan to test these strategies and reflect on their feelings and needs. The conversation naturally reached a point of closure.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our session! I'm here to listen and support you in any way I can. Please feel free to share whatever is on your mind or whatever you'd like to talk about. I'm all ears and ready to help.\nclient: Hey, thanks for being here. I’ve been kinda stuck on this decision about whether to live alone or with roommates next year, and I’m just not sure what’s the best move for me.\ntherapist: It's totally normal to feel stuck on a decision like that, and it sounds like you're really weighing the pros and cons. Can you tell me a little bit more about what's been making this decision feel so tricky?\nclient: Yeah, I guess it’s just hard to know if I’ll feel isolated if I live alone, or if I’ll miss out on the social stuff with roommates. I’m torn between wanting my own space and not wanting to feel lonely, ya know?\n\nSo, like, have you worked with other students who’ve had to make this kind of choice? What did they end up doing, or what helped them figure it out?\ntherapist: Yeah, I’ve definitely worked with students who’ve struggled with this decision before. Some of them found that the best way to figure it out was by thinking about what they needed most in that moment—whether it was the comfort of their own space or the camaraderie of roommates. It’s all about understanding what will make you feel most balanced and happy in the long run.\nclient: Cool, that makes sense. I guess I’m just trying to figure out if I’ll be okay on my own, or if I’ll end up feeling like I’m missing out on stuff, ya know, like those random late-night talks with roommates or whatever. What do you think I should focus on to really get clear on what I need right now?\ntherapist: One thing that could help is thinking about your current routine and how you'd adapt to either situation. For example, if you enjoy your own space, how would you maintain social connections while living alone? If you value those spontaneous roommate moments, how would you ensure you have enough personal time if you live with others? It's about finding a balance that works for you.\nclient: Thanks for the suggestion. I think I do enjoy my own space a lot, but I’m worried I might feel too cut off without people around, ya know, like I’d have to go out of my way to see friends. How do you think I can kinda test out how I’d feel in either situation before I make a final call?\ntherapist: It might help to try out a little experiment, like spending a weekend or a few days in a solo environment to see how it feels, or maybe staying with a friend or family member to gauge what that experience is like. You could also talk to people who have lived alone and with roommates to get a sense of their experiences and what they learned from them.\nclient: Got it, that sounds like a solid idea. I think I could maybe spend a few days at home alone when my family’s out or crash with a buddy for a bit to get a feel for both vibes, ya know? What kinda stuff should I pay attention to when I’m testing this out, like specific feelings or whatever?\ntherapist: You might want to pay attention to how you feel emotionally during those days—like, do you feel relaxed and focused when you're alone, or do you start to crave social interaction? On the flip side, when you're staying with friends, do you feel energized by their company, or do you miss having your own space? Also, think about your habits—do you stay productive, or do you end up procrastinating when you're alone? Or when you're with others, do you find yourself getting distracted or overwhelmed? Noticing these little things can help you figure out what really matters to you.\nclient: Cool, that’s super helpful to think about. I’ll definitely keep track of how I’m feeling emotionally and if I’m getting stuff done or just zoning out in both setups, ya know, to see what clicks better for me. Is there anything else I should consider, like maybe how this choice might affect other parts of my life, like school or even just my mood overall?\ntherapist: It’s a great idea to think about how this decision might ripple into other areas of your life, like school or your overall mood. Maybe consider how each living situation might influence your study habits, your stress levels, or even your social life outside of home. Also, think about your long-term goals—are you hoping for stability, growth, or something else? Reflecting on these angles could help you feel more confident about which path aligns best with where you’re headed.\nclient: Hey, thanks for breaking it down like that. I’ll definitely think about how each option might mess with or help my studies and stress, ya know, and where I wanna be in the long run. Is there a way to kinda weigh all these factors, like, should I make a list or something to see which setup fits better with my goals and daily vibe?\ntherapist: You could definitely try making a list or even just jotting down some notes after each trial period—like a quick pros and cons chart or just free-writing about how each situation made you feel and what worked or didn’t. Trust your gut, though, too. Sometimes the best way to weigh it is to sit with the feelings and see which one feels like it’s pulling you forward more.\nclient: Gotcha, I like the idea of jotting stuff down after trying things out, maybe making a quick pros and cons list to get my thoughts straight. I’ll also just kinda sit with how each option feels, ya know, and see which one seems to fit better with where I’m at and where I wanna go. Is there a good way to balance, like, wanting my own space but not totally cutting myself off from people if I do end up living alone?\ntherapist: Absolutely, finding that balance between personal space and social connection is totally doable! You might consider scheduling specific times to connect with friends or family each week—like planning a weekly dinner or coffee meetup. That way, you get your alone time, but also make sure you're staying connected with others. Have you thought about how often you'd want to see people if you were living alone?\nclient: Hey, that’s a solid idea to schedule stuff like dinners or coffee to keep in touch with people. I haven’t really thought too much about how often I’d wanna see folks if I’m on my own, but maybe a couple times a week would feel right— just enough to not feel out of the loop, ya know? How do you think I could figure out what’s the right amount of social time for me without it feeling forced or like a chore?\nclient: Hey, I’m glad you think that scheduling idea could work, and starting with a couple times a week sounds like a good baseline. Maybe try experimenting with different frequencies over a few weeks and just notice how you feel after each hangout—does it energize you or drain you? That might help clue you in on what feels natural without turning into a burden. So, do you think there’s anything else I should keep in mind while I’m figuring this out?",
+  "completed": true
+}
