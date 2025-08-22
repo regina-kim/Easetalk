@@ -1,0 +1,280 @@
+{
+  "id": "1fpn2em",
+  "timestamp": 1727308800000,
+  "category": "emotional",
+  "concern": "I am going to be blunt: I already have major anxiety about applying to master's programs, so having to meet in person with professors for these letters will drive my anxiety through the roof. I am scared I will say something stupid or they will ask too many questions for which I will not have answers. And I am just generally scared to be one-on-one in private with a professor.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hey there! I'm really glad you're here today. I want you to feel comfortable and safe sharing whatever's on your mind, so I invite you to take your time and tell me what's been going on, or what you'd like to work through together.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being so welcoming. I’m just really stressed about applying to master’s programs and especially about having to meet with professors for recommendation letters—it’s got me on edge.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in its initial phase with only one turn, and the therapist has started to understand the client's concerns about stress and anxiety related to master's program applications and professor meetings.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like this process is really weighing on you. I can imagine that reaching out to professors for recommendation letters feels especially daunting—maybe there's a sense of vulnerability in asking for help, or pressure to make a good impression?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, exactly, it feels super vulnerable and like I’m putting myself out there to be judged. I’m just worried I’ll mess up or not know what to say when I’m face-to-face with them.\n\nMan, I don’t even know where to start with this. Like, I know I need those letters, but just thinking about setting up a meeting makes my stomach turn. I keep imagining them asking me stuff I can’t answer or just thinking I’m not good enough for their recommendation. What if I totally freeze up or say something dumb? I feel like I’m already overthinking every little thing before it even happens.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had two turns so far, which is insufficient for fully exploring the essence of the client's story, including their thoughts and the relevant context. More rapport-building and understanding of the client's concerns are needed before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like the anticipation of these meetings is really amplifying your worries and self-doubt. You're carrying a lot of pressure to perform perfectly, which can be overwhelming. I'm curious, have you had any past experiences that might be feeding into this fear of judgment or not feeling \"\"good enough\"\"?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, I think so, like I’ve always felt this need to prove myself, especially in academic stuff, because I’ve had moments where I felt dismissed or not taken seriously. It just sticks with me, you know, and now it’s like every interaction could be a make-or-break moment.\n\nI guess part of me knows I’m probably blowing this out of proportion, but it’s hard to shake that feeling. Like, I’ve had professors who were cool, but there’s always this fear in the back of my mind that they’re secretly judging me or that I’ll let them down. How do I even get past that when just thinking about emailing them to set up a meeting makes me wanna hide under a rock?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared their main concern and context, expressing anxiety about meeting professors for recommendations. The conversation has reached 3 turns and established some empathy and rapport, but it hasn't yet fully explored mutually agreed goals or the essence of the client's story.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's understandable that these experiences have left a lasting impression, making you feel like you have to prove yourself constantly. It's like there's a voice inside you that's always on the lookout for potential criticism, even when it's not there. It sounds like this fear of judgment is a heavy burden to carry, especially when you're already feeling stressed about the application process. I'm curious, how do you think you would like to feel when reaching out to professors for recommendation letters, if you could wave a magic wand and change one thing about this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, if I could wave a magic wand, I’d want to feel confident and just… okay with myself, like I’m not walking into a situation where I’m gonna be torn apart. I’d love to just feel like I’m having a normal conversation, not like I’m on trial or something.\n\nMan, I know that’s easier said than done, though. Like, I keep thinking about how to even start that email without sounding desperate or weird. And then there’s the whole meeting part where I’m scared I’ll just blank out. Do you think there’s a way to kinda prepare for that so I don’t feel like I’m gonna crash and burn?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has sufficiently explored the client's concerns about seeking recommendation letters for master's programs. The client has shared their fears, past experiences influencing these fears, and how they would like to feel instead. There's rapport, empathy, and a mutual understanding of the client's goals, thus meeting the Exploring phase objectives.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "I hear you. It's a lot to take on, especially with the weight of those past experiences. But let's not forget, these professors are human beings too, and they're likely to be understanding and supportive. Maybe we can start by brainstorming some ways to structure your email so it feels less daunting, and then talk about how you could prepare for the meetings in a way that makes you feel more confident and prepared.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "That sounds like a good starting point, yeah. I’d really appreciate help with the email and figuring out how to get ready for those talks without feeling like I’m gonna implode.\n\nHonestly, just thinking about drafting that email makes me second-guess every word I wanna write. Like, how do I even ask without sounding like I’m begging or coming off as unprepared? And for the meeting, I’m worried I’ll just sit there awkwardly not knowing what to say. Can we maybe walk through some of that together so I don’t feel so lost?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only one turn completed. The therapist is working on eliciting Change Talk and exploring the client's feelings and fears. More exploration is needed to strengthen motivation for change and address specific goals before moving to the Choosing phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "I can definitely help you with that. Let's start by taking a look at what you've got so far, and then we can work together to tweak it and make it feel more authentic and natural. What do you think?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Cool, I’m totally down to work on it together. I haven’t really written anything yet, just been stressing over it in my head, so starting from scratch with some guidance would be awesome.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the guiding phase and has only met two turns. The client has expressed anxiety and a desire to work on emails and meeting preparation, showing some readiness for change. However, more exploration and strengthening of motivation are needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Sounds like we've got a good place to start. Let's take this one step at a time, focusing on what you want to communicate first. What's the main message you'd like to get across in your email?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, I just wanna come across as genuine and let them know I’m interested in their work and would appreciate their support with a letter. I guess I also wanna show that I’m serious about my goals without sounding like I’m trying too hard or being fake about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The goals of the guiding phase have been partially met, as the client has expressed a desire to feel confident and prepared for meetings with professors, indicating Change Talk. However, no specific change goal or next step has been established yet. Since there have been only 3 turns in this phase, it's best to continue guiding to further develop specific goals and strategies.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That's a great starting point! Let's see if we can break it down into smaller pieces. What if you begin by introducing yourself and expressing your genuine interest in their work? That way, you're establishing a connection and showing your passion without sounding too eager or artificial.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Cool, I think that makes sense. I’m just worried I’ll mess up the tone or say something that sounds off, you know?\n\nLike, I wanna mention specific stuff about their research to show I’ve done my homework, but I’m scared it’ll come across as me trying to suck up or something. And I don’t even know how much detail to go into without sounding like I’m overdoing it. Can we maybe brainstorm a few ways to phrase that part so it feels more natural?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed specific concerns and fears regarding meeting with professors, and there is some change talk regarding their desire to feel more confident. However, they have not yet expressed a specific change goal or next step, and they are still seeking strategies for handling these interactions. Continue guiding to solidify these goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "I hear your concern about wanting to show your genuine interest without coming across as insincere. It's a delicate balance, but it's great that you're thinking through this carefully. How about we brainstorm a few different ways to phrase your interest in their research, focusing on specific aspects that genuinely resonate with you? We can work together to find a tone that feels authentic and natural.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Hey, that sounds really helpful. I’m just nervous about picking the right things to mention, but I’d love to toss around some ideas with you to get it feeling right.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client is engaging in Change Talk, expressing a desire for confidence and willingness to prepare with the therapist's help. They have specific goals for change and are actively brainstorming strategies, indicating readiness to move forward with action planning.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Let's start by identifying specific aspects of their research that genuinely excite or inspire you. This will help us craft a message that feels authentic and not forced. What are some key points from their work that you find particularly compelling?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Honestly, I’m kinda drawing a blank right now because I’ve looked at so much of their stuff and it’s hard to narrow it down without feeling like I’m picking the wrong thing. Can we maybe start with one professor’s work that I’m really into and go from there to figure out what stands out most to me?",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in progress with only one turn in the Choosing phase, where they are collaboratively working on an action plan to address the client's anxiety about approaching professors. The client is engaged in brainstorming and refining their communication approach, but specific action steps need further development.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Absolutely, let's pick one professor's work that you're particularly interested in and dive into what stands out to you about it. We can explore their research step by step, and I'll help you identify specific aspects that genuinely resonate with you.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Cool, I appreciate that. Let’s start with this one professor whose work on sustainable energy systems really caught my eye, but I’m kinda worried I won’t explain why it’s interesting to me in the right way.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal: to feel confident reaching out to professors and has expressed commitment to work on specific email and meeting preparations. They have started articulating specific concerns and potential barriers, showing readiness to develop concrete strategies with guidance.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Great, let's start by discussing the professor's work on sustainable energy systems. What aspects of their research on this topic stand out to you, and why do you find them interesting?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Honestly, I’m drawn to how their research focuses on integrating renewable energy into existing grids because it feels so practical and urgent, especially with climate change being such a big deal. I just worry I’ll sound too generic or like I’m just parroting stuff from their papers when I try to talk about it.",
+      "phase": "choosing"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has a clear goal of feeling confident in meetings with professors and desires a concrete action plan. Barriers like anxiety and fear of judgment are being addressed through email structuring and preparation. Self-monitoring is implicit in discussing specific aspects of research interest. Since only three turns have occurred in the Choosing phase, it's best to 'continue' to ensure thorough planning and confidence-building.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Your concern about sounding too generic is understandable, but the fact that you're able to identify what excites you about their work is a great start. Let's dive deeper into what specifically draws you to the integration of renewable energy into existing grids—what aspects of this research do you find particularly compelling?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Thanks for saying that, it helps to hear I’m on the right track. I think what really gets me is how they tackle the technical challenges of making old systems work with new tech, like figuring out storage solutions and grid stability—it just seems so hands-on and real-world impactful, but I’m nervous I won’t have the right words to show I get it.",
+      "phase": "choosing"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal and concrete action plan, with barriers and self-monitoring discussed. The client is actively participating, showing readiness through commitment and taking-steps talk. The client accepts action reflections and seeks refinement, showing confidence in preparation for specific tasks. With 4 turns in the Choosing phase, readiness signals are evident, supporting a decision to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Great job, and it's completely normal to feel a bit nervous when discussing your interests with professors. It's fantastic that you've already identified the technical challenges of integrating renewable energy into existing grids as a compelling aspect of this professor's work. Let's focus on articulating your thoughts around these specific challenges, and I'll help you find the right words to express your genuine interest.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your help with this. I’d love to work on finding the right way to say it without feeling like I’m stumbling over myself.",
+      "phase": "terminating"
+    },
+    {
+      "index": "an",
+      "role": "sc_master",
+      "statement": "{ \"reasoning\": \"The session is focused on practical strategies for client concerns without concluding goals or next steps, indicating the need for further work on coping strategies and planning.\", \"determination\": \"continue\" }",
+      "phase": "terminating"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "As we conclude our session today, I want to acknowledge your progress in identifying the aspects of the professor's research that genuinely excite you. You've made significant strides in articulating your interest in the integration of renewable energy into existing grids and the technical challenges that come with it. Remember, it's natural to feel nervous when discussing your interests with professors, but your genuine passion for the topic is a powerful tool. \n\nFor next steps, I suggest taking some time to reflect on our conversation and jot down any additional thoughts or questions you may have. When you're ready, draft a brief email to the professor expressing your interest in their work, focusing on the specific aspects we discussed today. Once you've done that, we can review it together in our next session and refine it as needed. Remember, you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks for the encouragement and the plan—it really helps to have a clear next step. I’ll definitely take some time to think it over and start drafting that email, even if I’m a bit nervous about getting it right.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ao",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session addressed the client's concerns and established a plan for drafting emails to professors. The client expressed gratitude and a willingness to follow the plan, indicating resolution and readiness to move forward.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hey there! I'm really glad you're here today. I want you to feel comfortable and safe sharing whatever's on your mind, so I invite you to take your time and tell me what's been going on, or what you'd like to work through together.\nclient: Hey, thanks for being so welcoming. I’m just really stressed about applying to master’s programs and especially about having to meet with professors for recommendation letters—it’s got me on edge.\ntherapist: It sounds like this process is really weighing on you. I can imagine that reaching out to professors for recommendation letters feels especially daunting—maybe there's a sense of vulnerability in asking for help, or pressure to make a good impression?\nclient: Yeah, exactly, it feels super vulnerable and like I’m putting myself out there to be judged. I’m just worried I’ll mess up or not know what to say when I’m face-to-face with them.\n\nMan, I don’t even know where to start with this. Like, I know I need those letters, but just thinking about setting up a meeting makes my stomach turn. I keep imagining them asking me stuff I can’t answer or just thinking I’m not good enough for their recommendation. What if I totally freeze up or say something dumb? I feel like I’m already overthinking every little thing before it even happens.\ntherapist: It sounds like the anticipation of these meetings is really amplifying your worries and self-doubt. You're carrying a lot of pressure to perform perfectly, which can be overwhelming. I'm curious, have you had any past experiences that might be feeding into this fear of judgment or not feeling \"\"good enough\"\"?\nclient: Yeah, I think so, like I’ve always felt this need to prove myself, especially in academic stuff, because I’ve had moments where I felt dismissed or not taken seriously. It just sticks with me, you know, and now it’s like every interaction could be a make-or-break moment.\n\nI guess part of me knows I’m probably blowing this out of proportion, but it’s hard to shake that feeling. Like, I’ve had professors who were cool, but there’s always this fear in the back of my mind that they’re secretly judging me or that I’ll let them down. How do I even get past that when just thinking about emailing them to set up a meeting makes me wanna hide under a rock?\ntherapist: It's understandable that these experiences have left a lasting impression, making you feel like you have to prove yourself constantly. It's like there's a voice inside you that's always on the lookout for potential criticism, even when it's not there. It sounds like this fear of judgment is a heavy burden to carry, especially when you're already feeling stressed about the application process. I'm curious, how do you think you would like to feel when reaching out to professors for recommendation letters, if you could wave a magic wand and change one thing about this situation?\nclient: Honestly, if I could wave a magic wand, I’d want to feel confident and just… okay with myself, like I’m not walking into a situation where I’m gonna be torn apart. I’d love to just feel like I’m having a normal conversation, not like I’m on trial or something.\n\nMan, I know that’s easier said than done, though. Like, I keep thinking about how to even start that email without sounding desperate or weird. And then there’s the whole meeting part where I’m scared I’ll just blank out. Do you think there’s a way to kinda prepare for that so I don’t feel like I’m gonna crash and burn?\ntherapist: I hear you. It's a lot to take on, especially with the weight of those past experiences. But let's not forget, these professors are human beings too, and they're likely to be understanding and supportive. Maybe we can start by brainstorming some ways to structure your email so it feels less daunting, and then talk about how you could prepare for the meetings in a way that makes you feel more confident and prepared.\nclient: That sounds like a good starting point, yeah. I’d really appreciate help with the email and figuring out how to get ready for those talks without feeling like I’m gonna implode.\n\nHonestly, just thinking about drafting that email makes me second-guess every word I wanna write. Like, how do I even ask without sounding like I’m begging or coming off as unprepared? And for the meeting, I’m worried I’ll just sit there awkwardly not knowing what to say. Can we maybe walk through some of that together so I don’t feel so lost?\ntherapist: I can definitely help you with that. Let's start by taking a look at what you've got so far, and then we can work together to tweak it and make it feel more authentic and natural. What do you think?\nclient: Cool, I’m totally down to work on it together. I haven’t really written anything yet, just been stressing over it in my head, so starting from scratch with some guidance would be awesome.\ntherapist: Sounds like we've got a good place to start. Let's take this one step at a time, focusing on what you want to communicate first. What's the main message you'd like to get across in your email?\nclient: Honestly, I just wanna come across as genuine and let them know I’m interested in their work and would appreciate their support with a letter. I guess I also wanna show that I’m serious about my goals without sounding like I’m trying too hard or being fake about it.\ntherapist: That's a great starting point! Let's see if we can break it down into smaller pieces. What if you begin by introducing yourself and expressing your genuine interest in their work? That way, you're establishing a connection and showing your passion without sounding too eager or artificial.\nclient: Cool, I think that makes sense. I’m just worried I’ll mess up the tone or say something that sounds off, you know?\n\nLike, I wanna mention specific stuff about their research to show I’ve done my homework, but I’m scared it’ll come across as me trying to suck up or something. And I don’t even know how much detail to go into without sounding like I’m overdoing it. Can we maybe brainstorm a few ways to phrase that part so it feels more natural?\ntherapist: I hear your concern about wanting to show your genuine interest without coming across as insincere. It's a delicate balance, but it's great that you're thinking through this carefully. How about we brainstorm a few different ways to phrase your interest in their research, focusing on specific aspects that genuinely resonate with you? We can work together to find a tone that feels authentic and natural.\nclient: Hey, that sounds really helpful. I’m just nervous about picking the right things to mention, but I’d love to toss around some ideas with you to get it feeling right.\ntherapist: Let's start by identifying specific aspects of their research that genuinely excite or inspire you. This will help us craft a message that feels authentic and not forced. What are some key points from their work that you find particularly compelling?\nclient: Honestly, I’m kinda drawing a blank right now because I’ve looked at so much of their stuff and it’s hard to narrow it down without feeling like I’m picking the wrong thing. Can we maybe start with one professor’s work that I’m really into and go from there to figure out what stands out most to me?\ntherapist: Absolutely, let's pick one professor's work that you're particularly interested in and dive into what stands out to you about it. We can explore their research step by step, and I'll help you identify specific aspects that genuinely resonate with you.\nclient: Cool, I appreciate that. Let’s start with this one professor whose work on sustainable energy systems really caught my eye, but I’m kinda worried I won’t explain why it’s interesting to me in the right way.\ntherapist: Great, let's start by discussing the professor's work on sustainable energy systems. What aspects of their research on this topic stand out to you, and why do you find them interesting?\nclient: Honestly, I’m drawn to how their research focuses on integrating renewable energy into existing grids because it feels so practical and urgent, especially with climate change being such a big deal. I just worry I’ll sound too generic or like I’m just parroting stuff from their papers when I try to talk about it.\ntherapist: Your concern about sounding too generic is understandable, but the fact that you're able to identify what excites you about their work is a great start. Let's dive deeper into what specifically draws you to the integration of renewable energy into existing grids—what aspects of this research do you find particularly compelling?\nclient: Thanks for saying that, it helps to hear I’m on the right track. I think what really gets me is how they tackle the technical challenges of making old systems work with new tech, like figuring out storage solutions and grid stability—it just seems so hands-on and real-world impactful, but I’m nervous I won’t have the right words to show I get it.\ntherapist: Great job, and it's completely normal to feel a bit nervous when discussing your interests with professors. It's fantastic that you've already identified the technical challenges of integrating renewable energy into existing grids as a compelling aspect of this professor's work. Let's focus on articulating your thoughts around these specific challenges, and I'll help you find the right words to express your genuine interest.\nclient: Thanks, I really appreciate your help with this. I’d love to work on finding the right way to say it without feeling like I’m stumbling over myself.\ntherapist: As we conclude our session today, I want to acknowledge your progress in identifying the aspects of the professor's research that genuinely excite you. You've made significant strides in articulating your interest in the integration of renewable energy into existing grids and the technical challenges that come with it. Remember, it's natural to feel nervous when discussing your interests with professors, but your genuine passion for the topic is a powerful tool. \n\nFor next steps, I suggest taking some time to reflect on our conversation and jot down any additional thoughts or questions you may have. When you're ready, draft a brief email to the professor expressing your interest in their work, focusing on the specific aspects we discussed today. Once you've done that, we can review it together in our next session and refine it as needed. Remember, you've got this!\nclient: Thanks for the encouragement and the plan—it really helps to have a clear next step. I’ll definitely take some time to think it over and start drafting that email, even if I’m a bit nervous about getting it right.",
+  "completed": true
+}

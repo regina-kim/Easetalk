@@ -1,0 +1,226 @@
+{
+  "id": "yhtsmf",
+  "timestamp": 1667088000000,
+  "category": "interpersonal",
+  "concern": "So I currently live with my parents who are gonna retire. They are pretty much kicking me out and I don’t know what to do. I contacted my school about getting into a dorm for spring but I was told I would need an additional $10k after FASFA but I can’t afford that. My parents won’t agree to a parent plus loan and application for scholarships ended before I even got accepted. What do I do?\n\nEdit: to everyone saying to get a job, I am starting one tomorrow but even saving every check will not be enough to cover these expenses not to mention the things I would need to bring into the dorm",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! I'm really glad you're here. I'd love to hear what's on your mind—whether it's a challenge you're facing, something you're curious about, or just a moment to reflect. Let's take this at your pace; you can share as much or as little as feels right.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks for having me. I’m just feeling really overwhelmed with everything going on right now and not sure where to start.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages with only one turn. While the client has shared their immediate concern, further exploration is needed to fully understand the context, thoughts, and feelings surrounding the situation. Building more rapport and establishing mutually agreed goals will support a transition to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "I hear you—it sounds like a lot of things are weighing on you. Can you tell me a bit more about what's been contributing to that overwhelmed feeling lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Client: Yeah, it’s just a lot of pressure building up, and I feel like I’m running out of options. I’m really stressed about figuring out how to handle everything on my own.\n\nTherapist: I can sense how much pressure you’re under, and it’s completely okay to feel this way. Let’s break things down together—what’s one of the biggest stressors on your plate right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has had only two turns, and more exploration is needed to fully grasp the client's situation and context. The client has just started sharing details about their concern, which suggests more information can be elicited. Building further empathy and rapport is crucial before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That sounds really tough. Can you tell me more about what's been the most overwhelming thing for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Client: Yeah, it’s just this whole situation with figuring out where I’m gonna live and how to pay for it. I feel like I’m stuck and don’t know how to move forward with everything piling up.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The therapist has effectively elicited the essence of the client's story, including their feelings of being overwhelmed and specific issues regarding housing and finances. Empathy and rapport are clearly established, and mutually agreed goals seem to be forming around addressing these stressors. The conversation has reached three turns, meeting the criteria for advancement.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "I understand how stressful this situation must be for you, especially with the pressure of securing a place to live and managing the financial aspects. It's a lot to handle on your own, but you're not alone in this. Can you tell me more about what specifically feels the most overwhelming or stuck in this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Client: Honestly, it’s the financial part that’s hitting me the hardest—I just don’t see a way to cover the costs without any real support. I’m starting to feel like I might have to give up on school altogether if I can’t figure this out soon.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase, with only one turn completed. The therapist has begun exploring the client's concerns in depth but has not yet reached the point of evoking Change Talk or addressing confidence and goals. More exploration is needed to fully understand the client's situation and motivation for change.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That must be incredibly stressful to feel like your financial situation is putting your education at risk. It's understandable that you're feeling overwhelmed, but I'm glad you're here to talk through this and explore possible solutions together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Client: Yeah, I’m just really scared that I’ll have to drop out if I can’t find a way to make this work. It feels like everything I’ve worked for is slipping away, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only two turns focused on exploring the client's concerns about housing and finances. More exploration is needed to evoke discrepancy and elicit Change Talk before moving to action planning.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like the financial struggles are weighing heavily on you and making you feel like your future goals are slipping away. It's understandable to feel scared, but remember that you've made it this far, and you have strengths that can help you navigate this difficult time. What would it mean for you to find a way to keep your education on track despite these challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Client: Man, it would mean everything to me to keep going with school, like it’s the one thing I’ve been holding onto through all this mess. I just wanna prove to myself I can do this, but right now it feels almost impossible with all the roadblocks.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with 3 turns. The therapist has begun to explore the client's discrepancies between their current situation and their values (education is important to them) but has not yet fully strengthened motivation for change or evoked sufficient Change Talk. More exploration is needed before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's clear how much your education means to you, and it’s inspiring to see your determination despite the challenges you're facing. I'm here to help you explore options and identify potential resources that could support you in staying on track with your studies.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Client: Thanks, I really appreciate that. I just feel so stuck right now, like I don’t even know where to start looking for help or resources with everything piling up.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed strong desire to continue school and shared specific financial struggles. They need more guidance on exploring options and building confidence toward actionable steps. Change Talk is present, but there's no specific change goal or sufficient decrease in ambivalence. Less than 3 turns in Guiding phase, continue to explore and build confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You're not alone in this, and we can take things one step at a time. What would be one small step you could take today that might help you feel a bit more in control of your situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Client: Honestly, I’m not even sure what that small step could be, like I feel overwhelmed just thinking about it. Maybe just looking up some resources or talking to someone at the financial aid office again, but I’m worried I’ll just get the same answers and be back at square one.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed significant distress about their financial situation affecting their education but has identified a potential next step (contacting the financial aid office). However, they still feel overwhelmed and uncertain about taking action. Change Talk is emerging, but ambivalence is still present. Given that there’s only one specific next step mentioned and no confidence ruler was used, it’s best to continue guiding to strengthen motivation and explore more options.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It’s understandable to feel overwhelmed when you’re juggling so many challenges. Let’s break it down: What if we focused on just one thing—like contacting the financial aid office—and see what new information you might get? Remember, even small steps can help you regain control and build momentum.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Client: Yeah, I guess reaching out to the financial aid office again couldn’t hurt, even if I’m kinda dreading hearing the same old stuff. I just hope there’s something, anything, they might’ve missed or some new option I don’t know about yet.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed strong Change Talk regarding their desire to continue their education and identified a potential next step, contacting the financial aid office. The therapist has helped explore discrepancies between current behavior and goals. Though confidence isn't explicitly rated, the client shows willingness to act. Ambivalence remains but is decreasing as they consider steps. Given these signals and the number of turns, it's appropriate to 'move' to the Choosing phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Let’s lean into that hope together—what’s one specific question you could ask them this time that might uncover something new?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Client: Hmm, maybe I could ask if there are any emergency funds or last-minute scholarships I might qualify for, even if it’s a long shot. I’m just kinda nervous they’ll just say no again, but I guess it’s worth a try.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has recognized a possible small step (contacting the financial aid office) and is willing to explore this option despite previous setbacks. However, they remain uncertain and anxious about the outcome, indicating the need for further exploration of strategies and support systems. With only one turn in the current phase, it's too early to move to the terminating phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. If you'd like, I can help you prepare a few questions to ask them, and we can also brainstorm how to handle it if they do say no—so you're not caught off guard.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Client: Yeah, I’d really appreciate help with coming up with some good questions to ask, ‘cause I don’t wanna mess this up or forget something important. And figuring out how to deal with a ‘no’ would be great too, ‘cause I’m honestly pretty stressed about getting turned down again.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed commitment to reach out to the financial aid office with specific questions about emergency funds. They have also prepared to handle potential barriers such as a negative response. The client is actively engaging in planning and self-monitoring, indicating progress and readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Client, I'm so glad you're open to this approach and willing to work through your concerns with me. Your resilience and determination are truly admirable. As we close our session today, let's summarize your key goals and action steps:\n1. Contact the financial aid office to inquire about potential emergency funds or last-minute scholarships.\n2. Prepare specific questions to ask during the meeting, such as eligibility criteria or additional requirements.\n3. Develop a plan for handling a 'no' response, including exploring alternative resources or discussing other options with the financial aid office.\nRemember, you're not alone in this journey, and even small steps can make a significant difference. If you need help crafting questions or brainstorming contingency plans, please don't hesitate to reach out to me.\nIn terms of coping strategies, it might be helpful to practice mindfulness techniques or engage in self-care activities to manage stress. Remember to be kind to yourself and celebrate your progress, no matter how small.\nNext session, we can discuss any updates from your meeting with the financial aid office and work on addressing any other challenges you may be facing. Keep in mind that you're taking proactive steps towards a better future, and that's something to be proud of.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for laying all that out and for the encouragement—it really helps to know I’ve got support. I’ll definitely try to keep up with some self-care stuff and will reach out if I need help with the questions or anything else before our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has successfully summarized goals, steps, and coping strategies, and a next-step plan has been discussed, including follow-up actions. The client's concerns have been addressed adequately.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! I'm really glad you're here. I'd love to hear what's on your mind—whether it's a challenge you're facing, something you're curious about, or just a moment to reflect. Let's take this at your pace; you can share as much or as little as feels right.\nclient: Thanks for having me. I’m just feeling really overwhelmed with everything going on right now and not sure where to start.\ntherapist: I hear you—it sounds like a lot of things are weighing on you. Can you tell me a bit more about what's been contributing to that overwhelmed feeling lately?\nclient: Client: Yeah, it’s just a lot of pressure building up, and I feel like I’m running out of options. I’m really stressed about figuring out how to handle everything on my own.\n\nTherapist: I can sense how much pressure you’re under, and it’s completely okay to feel this way. Let’s break things down together—what’s one of the biggest stressors on your plate right now?\ntherapist: That sounds really tough. Can you tell me more about what's been the most overwhelming thing for you lately?\nclient: Client: Yeah, it’s just this whole situation with figuring out where I’m gonna live and how to pay for it. I feel like I’m stuck and don’t know how to move forward with everything piling up.\ntherapist: I understand how stressful this situation must be for you, especially with the pressure of securing a place to live and managing the financial aspects. It's a lot to handle on your own, but you're not alone in this. Can you tell me more about what specifically feels the most overwhelming or stuck in this situation?\nclient: Client: Honestly, it’s the financial part that’s hitting me the hardest—I just don’t see a way to cover the costs without any real support. I’m starting to feel like I might have to give up on school altogether if I can’t figure this out soon.\ntherapist: That must be incredibly stressful to feel like your financial situation is putting your education at risk. It's understandable that you're feeling overwhelmed, but I'm glad you're here to talk through this and explore possible solutions together.\nclient: Client: Yeah, I’m just really scared that I’ll have to drop out if I can’t find a way to make this work. It feels like everything I’ve worked for is slipping away, you know?\ntherapist: It sounds like the financial struggles are weighing heavily on you and making you feel like your future goals are slipping away. It's understandable to feel scared, but remember that you've made it this far, and you have strengths that can help you navigate this difficult time. What would it mean for you to find a way to keep your education on track despite these challenges?\nclient: Client: Man, it would mean everything to me to keep going with school, like it’s the one thing I’ve been holding onto through all this mess. I just wanna prove to myself I can do this, but right now it feels almost impossible with all the roadblocks.\ntherapist: It's clear how much your education means to you, and it’s inspiring to see your determination despite the challenges you're facing. I'm here to help you explore options and identify potential resources that could support you in staying on track with your studies.\nclient: Client: Thanks, I really appreciate that. I just feel so stuck right now, like I don’t even know where to start looking for help or resources with everything piling up.\ntherapist: You're not alone in this, and we can take things one step at a time. What would be one small step you could take today that might help you feel a bit more in control of your situation?\nclient: Client: Honestly, I’m not even sure what that small step could be, like I feel overwhelmed just thinking about it. Maybe just looking up some resources or talking to someone at the financial aid office again, but I’m worried I’ll just get the same answers and be back at square one.\ntherapist: It’s understandable to feel overwhelmed when you’re juggling so many challenges. Let’s break it down: What if we focused on just one thing—like contacting the financial aid office—and see what new information you might get? Remember, even small steps can help you regain control and build momentum.\nclient: Client: Yeah, I guess reaching out to the financial aid office again couldn’t hurt, even if I’m kinda dreading hearing the same old stuff. I just hope there’s something, anything, they might’ve missed or some new option I don’t know about yet.\ntherapist: Let’s lean into that hope together—what’s one specific question you could ask them this time that might uncover something new?\nclient: Client: Hmm, maybe I could ask if there are any emergency funds or last-minute scholarships I might qualify for, even if it’s a long shot. I’m just kinda nervous they’ll just say no again, but I guess it’s worth a try.\ntherapist: That sounds like a solid plan. If you'd like, I can help you prepare a few questions to ask them, and we can also brainstorm how to handle it if they do say no—so you're not caught off guard.\nclient: Client: Yeah, I’d really appreciate help with coming up with some good questions to ask, ‘cause I don’t wanna mess this up or forget something important. And figuring out how to deal with a ‘no’ would be great too, ‘cause I’m honestly pretty stressed about getting turned down again.\ntherapist: Client, I'm so glad you're open to this approach and willing to work through your concerns with me. Your resilience and determination are truly admirable. As we close our session today, let's summarize your key goals and action steps:\n1. Contact the financial aid office to inquire about potential emergency funds or last-minute scholarships.\n2. Prepare specific questions to ask during the meeting, such as eligibility criteria or additional requirements.\n3. Develop a plan for handling a 'no' response, including exploring alternative resources or discussing other options with the financial aid office.\nRemember, you're not alone in this journey, and even small steps can make a significant difference. If you need help crafting questions or brainstorming contingency plans, please don't hesitate to reach out to me.\nIn terms of coping strategies, it might be helpful to practice mindfulness techniques or engage in self-care activities to manage stress. Remember to be kind to yourself and celebrate your progress, no matter how small.\nNext session, we can discuss any updates from your meeting with the financial aid office and work on addressing any other challenges you may be facing. Keep in mind that you're taking proactive steps towards a better future, and that's something to be proud of.\nclient: Thanks for laying all that out and for the encouragement—it really helps to know I’ve got support. I’ll definitely try to keep up with some self-care stuff and will reach out if I need help with the questions or anything else before our next session.",
+  "completed": true
+}

@@ -1,0 +1,190 @@
+{
+  "id": "125y9us",
+  "timestamp": 1680048000000,
+  "category": "academic",
+  "concern": "I need to work part time to support myself and i am currently working friday, saturday, and sunday.\n\n\nFridays i work at 5pm to 11pm. Saturdays i work 12 pm to 11pm. Sundays i work 5pm-10pm. \n\nI am curious about if this schedule is ok or if I should consider working only saturday and sunday, both from around 11 am/12 pm until 10 pm/11 pm. \n\nMy current issue is time management. Some of these classes are killing me. Any input is appreciated.\n\nForgot to mention i am studying CS and am full time student (only 13 credit hours tho)",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello there! I'm really glad you've come in today. Please feel free to share whatever's on your mind, and know that you're in a safe and non-judgmental space to express yourself. Is there anything specific you'd like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I’m just really stressed about balancing my part-time job and my CS classes, and I’m not sure if my current schedule is working for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in its early stages with only 1 turn completed. The therapist needs to explore more about the client's thoughts, feelings, and context regarding their time management struggles and stress levels.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like managing both work and school is a big challenge for you right now. Can you tell me more about what's making it feel overwhelming?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it’s just a lot to juggle with assignments and coding projects piling up while I’m working these late shifts. I feel like I’m constantly running out of time to get everything done.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only included 2 turns, which isn't sufficient to fully explore the client's story, including thoughts and context. More exploration is needed to understand the client's feelings about potential schedule changes and their impact on stress and time management.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That sounds really tough. It’s understandable that you’d feel overwhelmed with all those demands on your time and energy. Can you walk me through a typical week in your life, so I can get a better sense of what you're dealing with?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, sure, I can break it down for you. Basically, I’ve got classes most weekdays, then I’m working Friday through Sunday with some pretty late hours, and it just leaves me wiped out with hardly any time to catch up on school stuff or even just chill for a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story and context have been elicited, touching on work, school, and time management. Empathy and rapport are evident. Goals for understanding the client's situation are mutually agreed upon, meeting the Exploring phase goals.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you’re putting in a lot of effort, but it’s hard to keep up with everything. I'm curious, have you thought about what would need to change for you to feel more in control of your time and less overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I’ve been thinking about maybe cutting back my work to just Saturday and Sunday, with longer shifts, so I can free up Friday for studying or just recovering. I’m not sure if that’s the best idea though, 'cause I still need the money, and I’m kinda worried about how to make it all balance out.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the early stages of the Guiding phase with only one turn completed. The therapist is exploring the client's current situation and thoughts about change but has not yet fully addressed the goals for this phase such as evoking discrepancy or eliciting change talk. More exploration of values and confidence is needed before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That's an interesting idea to consider cutting back your work hours to free up more time for school and self-care. It’s important to weigh the potential benefits against the financial concerns. How do you think your life might look different if you were able to make that change, and what would be the most challenging part of implementing it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, if I could make that change, I think I’d feel a lot less stressed having an extra day to focus on school or just recharge. The toughest part would probably be figuring out how to cover the lost income from dropping a shift, since I’m already pretty tight on cash.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has expressed Change Talk by considering adjusting their work schedule to improve time management for school. They've identified specific changes and recognized the benefits and challenges. However, with only 2 turns in the Guiding phase, more exploration is needed before moving to action planning.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's clear that you're motivated to find a better balance between work, school, and self-care, and that extra day could make a big difference in your stress levels. Have you thought about any potential ways to make up for the lost income, or any other changes you could make to help ease that financial strain?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yeah, I’ve been tossing around a few ideas, like maybe picking up some freelance coding gigs or tutoring on the side since I’m in CS. It’s just hard to know if I’d even have the time or energy to add something else to my plate right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed motivation to change (considering reducing work hours) and identified a specific potential goal (working only Saturdays and Sundays). They've also identified challenges and alternative solutions (freelancing, tutoring) indicating readiness to plan concrete steps. Since the client has shown Change Talk and explored the implications of change, it's appropriate to move to the Choosing phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "I can see you're actively exploring ways to manage your time and finances more effectively, and it’s great that you're considering freelance work and tutoring as potential options. Given your current energy levels and schedule, it might be helpful to brainstorm some smaller, more manageable steps you could take to start testing these ideas without feeling overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yeah, I like the idea of starting small since I’m already stretched pretty thin. Maybe I could just look into a couple of quick freelance projects or see if there’s demand for tutoring without committing to anything big right away.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear action plan to adjust work hours and explore freelance or tutoring opportunities. Barriers like financial strain and energy levels are discussed with small steps proposed. However, the current phase has only one turn, indicating a need for further exploration before moving to termination.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That sounds like a great approach, starting small and exploring your options without taking on too much at once. It might also be helpful to set a specific goal for the next week or two, like dedicating a few hours to researching freelance platforms or reaching out to potential tutoring clients, to help keep you on track without feeling overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Cool, I think setting a small goal like that could really help me stay focused without freaking out over adding more to my plate. I’ll probably set aside a couple of hours next week to check out some freelance sites like Upwork or maybe ask around in my CS department about tutoring needs.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has developed a clear goal and concrete action plan, discussing barriers such as financial strain and energy levels. They have shown commitment to take steps like exploring freelance work and setting small, manageable goals. With readiness signals present and only 2 turns in the Choosing phase, it's best to continue for further refinement and support.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It's awesome to see you're taking the initiative to break this down into smaller, manageable tasks! How about we also talk about any potential roadblocks you might encounter while researching these opportunities, and figure out some strategies to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Yeah, that sounds like a good idea to think ahead about stuff that might get in the way. I’m guessing things like not finding gigs quick enough or just feeling too wiped out from classes could trip me up, so I’d like to figure out how to handle that.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has developed a clear goal to manage time better by potentially adjusting work hours and exploring freelance opportunities. They've set specific small goals for research and exploration and discussed potential barriers, such as fatigue and financial concerns. They've also shown commitment and readiness to take steps. With these elements in place, it's appropriate to transition to termination.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Great to see you're being proactive about tackling these challenges! Let's summarize what we've covered so far and outline a plan to keep you moving forward. \n**Key goals**: \n1. Balance part-time job and computer science classes effectively.\n2. Explore freelance or tutoring opportunities to alleviate financial strain.\n**Action steps**: \n1. Dedicate a few hours next week to research freelance platforms like Upwork.\n2. Reach out to potential tutoring clients in your CS department.\n**Coping strategies**: \n1. Break tasks into smaller, manageable steps to avoid feeling overwhelmed.\n2. Set specific goals for researching freelance and tutoring opportunities.\n3. Anticipate potential roadblocks and develop strategies to overcome them.\n**Next steps**: \n1. Follow through with your research and outreach plan for next week.\n2. Check in with me to discuss progress and address any challenges that arise.\nRemember, you've got this! Taking it one step at a time and being prepared for obstacles will help you stay on track. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Thanks for laying it all out like that—it really helps to see the plan in one place. I’m feeling pretty good about taking these next steps and checking back in with you soon.",
+      "phase": "terminating"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has achieved closure with a summary of goals, action steps, coping strategies, and a next-step plan discussed. The client feels positive about their plan and future check-ins.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello there! I'm really glad you've come in today. Please feel free to share whatever's on your mind, and know that you're in a safe and non-judgmental space to express yourself. Is there anything specific you'd like to talk about today?\nclient: Hey, thanks for having me. I’m just really stressed about balancing my part-time job and my CS classes, and I’m not sure if my current schedule is working for me.\ntherapist: It sounds like managing both work and school is a big challenge for you right now. Can you tell me more about what's making it feel overwhelming?\nclient: Yeah, it’s just a lot to juggle with assignments and coding projects piling up while I’m working these late shifts. I feel like I’m constantly running out of time to get everything done.\ntherapist: That sounds really tough. It’s understandable that you’d feel overwhelmed with all those demands on your time and energy. Can you walk me through a typical week in your life, so I can get a better sense of what you're dealing with?\nclient: Yeah, sure, I can break it down for you. Basically, I’ve got classes most weekdays, then I’m working Friday through Sunday with some pretty late hours, and it just leaves me wiped out with hardly any time to catch up on school stuff or even just chill for a bit.\ntherapist: It sounds like you’re putting in a lot of effort, but it’s hard to keep up with everything. I'm curious, have you thought about what would need to change for you to feel more in control of your time and less overwhelmed?\nclient: Yeah, I’ve been thinking about maybe cutting back my work to just Saturday and Sunday, with longer shifts, so I can free up Friday for studying or just recovering. I’m not sure if that’s the best idea though, 'cause I still need the money, and I’m kinda worried about how to make it all balance out.\ntherapist: That's an interesting idea to consider cutting back your work hours to free up more time for school and self-care. It’s important to weigh the potential benefits against the financial concerns. How do you think your life might look different if you were able to make that change, and what would be the most challenging part of implementing it?\nclient: Honestly, if I could make that change, I think I’d feel a lot less stressed having an extra day to focus on school or just recharge. The toughest part would probably be figuring out how to cover the lost income from dropping a shift, since I’m already pretty tight on cash.\ntherapist: It's clear that you're motivated to find a better balance between work, school, and self-care, and that extra day could make a big difference in your stress levels. Have you thought about any potential ways to make up for the lost income, or any other changes you could make to help ease that financial strain?\nclient: Yeah, I’ve been tossing around a few ideas, like maybe picking up some freelance coding gigs or tutoring on the side since I’m in CS. It’s just hard to know if I’d even have the time or energy to add something else to my plate right now.\ntherapist: I can see you're actively exploring ways to manage your time and finances more effectively, and it’s great that you're considering freelance work and tutoring as potential options. Given your current energy levels and schedule, it might be helpful to brainstorm some smaller, more manageable steps you could take to start testing these ideas without feeling overwhelmed.\nclient: Yeah, I like the idea of starting small since I’m already stretched pretty thin. Maybe I could just look into a couple of quick freelance projects or see if there’s demand for tutoring without committing to anything big right away.\ntherapist: That sounds like a great approach, starting small and exploring your options without taking on too much at once. It might also be helpful to set a specific goal for the next week or two, like dedicating a few hours to researching freelance platforms or reaching out to potential tutoring clients, to help keep you on track without feeling overwhelmed.\nclient: Cool, I think setting a small goal like that could really help me stay focused without freaking out over adding more to my plate. I’ll probably set aside a couple of hours next week to check out some freelance sites like Upwork or maybe ask around in my CS department about tutoring needs.\ntherapist: It's awesome to see you're taking the initiative to break this down into smaller, manageable tasks! How about we also talk about any potential roadblocks you might encounter while researching these opportunities, and figure out some strategies to overcome them?\nclient: Yeah, that sounds like a good idea to think ahead about stuff that might get in the way. I’m guessing things like not finding gigs quick enough or just feeling too wiped out from classes could trip me up, so I’d like to figure out how to handle that.\ntherapist: Great to see you're being proactive about tackling these challenges! Let's summarize what we've covered so far and outline a plan to keep you moving forward. \n**Key goals**: \n1. Balance part-time job and computer science classes effectively.\n2. Explore freelance or tutoring opportunities to alleviate financial strain.\n**Action steps**: \n1. Dedicate a few hours next week to research freelance platforms like Upwork.\n2. Reach out to potential tutoring clients in your CS department.\n**Coping strategies**: \n1. Break tasks into smaller, manageable steps to avoid feeling overwhelmed.\n2. Set specific goals for researching freelance and tutoring opportunities.\n3. Anticipate potential roadblocks and develop strategies to overcome them.\n**Next steps**: \n1. Follow through with your research and outreach plan for next week.\n2. Check in with me to discuss progress and address any challenges that arise.\nRemember, you've got this! Taking it one step at a time and being prepared for obstacles will help you stay on track. Keep up the great work!\nclient: Thanks for laying it all out like that—it really helps to see the plan in one place. I’m feeling pretty good about taking these next steps and checking back in with you soon.",
+  "completed": true
+}

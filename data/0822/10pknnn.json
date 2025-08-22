@@ -1,0 +1,190 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there, I'm really glad you're here today. Feel free to share whatever's on your mind or whatever you're struggling with—I'm all ears and ready to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here to listen. I’m just feeling really overwhelmed with my PhD program and struggling to keep up with the constant workload.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had one turn, and the client has shared their story including thoughts and context with initial rapport building. We need more turns to explore the client's thoughts and feelings further before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging—I can only imagine how tough it must be to juggle everything. Can you tell me more about what's been feeling most overwhelming lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it’s just the sheer amount of stuff I have to get done all the time, you know? It feels like there’s no break, and I’m constantly playing catch-up with no real downtime to recharge.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had two turns, which is insufficient to fully explore the client's story and build rapport. More information is needed on their thoughts and context before moving to the guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like the constant pressure and lack of breaks are really taking a toll on you. Can you help me understand what a typical day looks like for you in terms of workload and responsibilities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, my days are just packed with research, writing, and prepping for classes or meetings, and it feels like there’s no end to it. By the time I’m done, I’m too drained to do anything but collapse, and even then, I’m stressing about what’s next.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has effectively captured the client's essence, including their thoughts and context about PhD challenges and burnout. Empathy and rapport have been established. With three turns already explored, it is appropriate to move to the Guiding phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like you're constantly caught up in this cycle of work and stress, with no time to recharge or take a step back. How do you envision your life would look if you were able to break free from this cycle, even just a little bit?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, if I could break free from this cycle, even just a bit, I think I’d feel like I could breathe again, you know? I’d love to have a day or two where I’m not consumed by deadlines and can actually enjoy something outside of work without the guilt hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only 1 turn. Rapport is being built, and the client is beginning to explore their feelings and envision life changes. It's important to continue exploring discrepancies and evoking more Change Talk before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That's a really vivid image you've painted, and it sounds like a bit of breathing room would make a huge difference. If you could carve out even a small space for that, what would that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess it would look like having a few hours, maybe even half a day, where I’m not thinking about work at all—just doing something for me, like hitting the gym or chilling with friends without my brain buzzing about deadlines. I don’t even know if that’s possible right now, but man, it’d feel like a weight off my shoulders to just have that little break.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's discrepancy between current workload and desired balance is clear. The client has expressed specific ideas for change, like carving out personal time. Change Talk is present, but since this is only the second turn in the Guiding phase, more exploration is ideal to strengthen their motivation and address confidence in making changes.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like even a small break from the constant pressure would be incredibly refreshing for you. What do you think would need to happen in order for you to start carving out that space, even if it's just a few hours a week?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I think I’d need to set some hard boundaries with my schedule, like deciding that after a certain time or on a specific day, work just stops, no matter what. It’s tough though, ‘cause I feel like if I’m not constantly on top of stuff, I’ll fall behind, especially with my PI expecting so much.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only covered 3 turns in the guiding phase. The client has expressed a desire for change and identified potential steps (setting boundaries) but hasn't yet developed a specific action plan or expressed sufficient confidence to justify moving to the choosing phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable that setting boundaries feels challenging, especially with the pressure to meet expectations. What would it look like if you were able to start small, maybe dedicating one specific evening or a few hours each week to yourself, and how do you think that could help shift your perspective on this cycle of work and stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think starting small, like blocking off one evening a week just for me, could be a game-changer—it’d give me something to look forward to without feeling like I’m slacking. It might help me recharge a bit and not feel so buried under everything, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed a specific change goal of setting boundaries for personal time and described the potential positive impact. Change Talk was present, with a focus on small, manageable steps. The client identified a need for balance and a desire to recharge. This suggests readiness to move to action planning.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That’s a great idea—blocking off one evening a week could be a powerful first step. If you decide to try this, how might you handle the anxiety that comes up if work feels unfinished during that time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Honestly, I think I’d just have to remind myself that the work will still be there after my break, and that taking a few hours isn’t gonna derail everything. It’s gonna be hard to shut off that nagging voice in my head, but maybe I can distract myself with something I really enjoy, like watching a dumb show or calling a friend.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of setting boundaries to carve out personal time and has developed a concrete action plan to block off one evening a week. They have also discussed potential barriers and are aware of self-monitoring strategies. However, the current phase has just begun with only 1 turn completed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It's great that you're already thinking about how to manage that inner voice. Would you be open to experimenting with that approach for a few weeks, and maybe reflecting on how it feels afterward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Yeah, I’m definitely willing to give it a shot for a few weeks and see how it goes. I think reflecting on it afterward could help me figure out if it’s actually making a difference or if I need to tweak something.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed commitment to trying a new strategy, showing readiness to experiment with blocking off time for self-care. They also demonstrated an understanding of anticipated barriers and potential solutions, displaying confidence in managing their workload. Given the clear action plan and self-monitoring commitment, they are ready to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Here's a summary of your session:\nYou're taking a great step by prioritizing your well-being and carving out time for yourself. Blocking off one evening a week for personal time can help you recharge and break the cycle of constant pressure. \nRemember, it's okay to feel some anxiety about unfinished work, but remind yourself that taking breaks will ultimately improve your productivity. Experiment with this approach for a few weeks, and don't forget to reflect on how it makes you feel. \nNext steps: Schedule that weekly evening for yourself and explore activities that bring you joy and help you unwind. Be kind to yourself, and remember that taking care of your mental health is essential.",
+      "phase": "terminating"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Thanks for summarizing everything, it really helps to hear it laid out like that. I’m feeling a bit hopeful about trying this out, even if I’m a little nervous about sticking to it.",
+      "phase": "terminating"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has covered the summary of goals, coping strategies, and a next-step plan, giving the client a clear path to manage stress. The client feels hopeful about the plan, indicating readiness to conclude.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there, I'm really glad you're here today. Feel free to share whatever's on your mind or whatever you're struggling with—I'm all ears and ready to listen.\nclient: Hey, thanks for being here to listen. I’m just feeling really overwhelmed with my PhD program and struggling to keep up with the constant workload.\ntherapist: That sounds incredibly challenging—I can only imagine how tough it must be to juggle everything. Can you tell me more about what's been feeling most overwhelming lately?\nclient: Yeah, it’s just the sheer amount of stuff I have to get done all the time, you know? It feels like there’s no break, and I’m constantly playing catch-up with no real downtime to recharge.\ntherapist: It sounds like the constant pressure and lack of breaks are really taking a toll on you. Can you help me understand what a typical day looks like for you in terms of workload and responsibilities?\nclient: Honestly, my days are just packed with research, writing, and prepping for classes or meetings, and it feels like there’s no end to it. By the time I’m done, I’m too drained to do anything but collapse, and even then, I’m stressing about what’s next.\ntherapist: It seems like you're constantly caught up in this cycle of work and stress, with no time to recharge or take a step back. How do you envision your life would look if you were able to break free from this cycle, even just a little bit?\nclient: Honestly, if I could break free from this cycle, even just a bit, I think I’d feel like I could breathe again, you know? I’d love to have a day or two where I’m not consumed by deadlines and can actually enjoy something outside of work without the guilt hanging over me.\ntherapist: That's a really vivid image you've painted, and it sounds like a bit of breathing room would make a huge difference. If you could carve out even a small space for that, what would that look like for you?\nclient: I guess it would look like having a few hours, maybe even half a day, where I’m not thinking about work at all—just doing something for me, like hitting the gym or chilling with friends without my brain buzzing about deadlines. I don’t even know if that’s possible right now, but man, it’d feel like a weight off my shoulders to just have that little break.\ntherapist: It sounds like even a small break from the constant pressure would be incredibly refreshing for you. What do you think would need to happen in order for you to start carving out that space, even if it's just a few hours a week?\nclient: Honestly, I think I’d need to set some hard boundaries with my schedule, like deciding that after a certain time or on a specific day, work just stops, no matter what. It’s tough though, ‘cause I feel like if I’m not constantly on top of stuff, I’ll fall behind, especially with my PI expecting so much.\ntherapist: It's understandable that setting boundaries feels challenging, especially with the pressure to meet expectations. What would it look like if you were able to start small, maybe dedicating one specific evening or a few hours each week to yourself, and how do you think that could help shift your perspective on this cycle of work and stress?\nclient: I think starting small, like blocking off one evening a week just for me, could be a game-changer—it’d give me something to look forward to without feeling like I’m slacking. It might help me recharge a bit and not feel so buried under everything, you know?\ntherapist: That’s a great idea—blocking off one evening a week could be a powerful first step. If you decide to try this, how might you handle the anxiety that comes up if work feels unfinished during that time?\nclient: Honestly, I think I’d just have to remind myself that the work will still be there after my break, and that taking a few hours isn’t gonna derail everything. It’s gonna be hard to shut off that nagging voice in my head, but maybe I can distract myself with something I really enjoy, like watching a dumb show or calling a friend.\ntherapist: It's great that you're already thinking about how to manage that inner voice. Would you be open to experimenting with that approach for a few weeks, and maybe reflecting on how it feels afterward?\nclient: Yeah, I’m definitely willing to give it a shot for a few weeks and see how it goes. I think reflecting on it afterward could help me figure out if it’s actually making a difference or if I need to tweak something.\ntherapist: Here's a summary of your session:\nYou're taking a great step by prioritizing your well-being and carving out time for yourself. Blocking off one evening a week for personal time can help you recharge and break the cycle of constant pressure. \nRemember, it's okay to feel some anxiety about unfinished work, but remind yourself that taking breaks will ultimately improve your productivity. Experiment with this approach for a few weeks, and don't forget to reflect on how it makes you feel. \nNext steps: Schedule that weekly evening for yourself and explore activities that bring you joy and help you unwind. Be kind to yourself, and remember that taking care of your mental health is essential.\nclient: Thanks for summarizing everything, it really helps to hear it laid out like that. I’m feeling a bit hopeful about trying this out, even if I’m a little nervous about sticking to it.",
+  "completed": true
+}

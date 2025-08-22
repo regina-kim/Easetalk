@@ -1,0 +1,208 @@
+{
+  "id": "10d0zqu",
+  "timestamp": 1673827200000,
+  "category": "school_life",
+  "concern": "What experiences did you realize you needed that you needed to develop bfr going to college.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our counseling session! I'm here to listen and support you without judgment, so please feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks for having me. I’ve just been feeling kinda off lately, like I’m not as prepared for college as I thought I’d be, and I’m trying to figure out what I missed along the way.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the initial phase with only one turn so far, focusing on building rapport and understanding the client's story about feeling unprepared for college. More exploration is needed to fully capture the essence of the client's concerns and context.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you’re carrying a lot of pressure on your shoulders right now. Can you tell me more about what specifically feels off or unprepared?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, I guess it’s just this nagging feeling that I should’ve done more or figured certain things out before getting here. Like, there are gaps in my skills or experiences that are making it harder to keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had 2 turns, which is not sufficient to fully explore the client's story and build rapport. More exploration is needed to understand the client's thoughts and context before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit overwhelmed by the transition to college, and you're worried that you haven't fully prepared for it. Can you tell me more about what specific skills or experiences you feel like you're missing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, I think it’s just stuff like managing my time better or knowing how to handle stress without freaking out. I feel like I should’ve had more practice with that kind of thing before jumping into this whole college deal.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has covered the essence of the client's story, concerns, and relevant context across three turns. The client's worries and specific issues have been clearly expressed, and rapport seems to be developing. Moving to the Guiding phase can help to strengthen motivation and evoke Change Talk.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That makes sense, and it sounds like you're really trying to identify areas where you could grow and improve. Have you thought about what your life might look like if you were able to develop those skills and manage stress more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I’ve thought about it a bit, and I think I’d feel way more in control, like I could actually enjoy college instead of just stressing all the time. It’d be nice to not feel like I’m always playing catch-up, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"Since the conversation is only one turn into the Guiding phase, it's too early to move to Choosing. Additional exploration and reinforcement of Change Talk is needed to develop specific goals and plans.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It’s interesting to hear how developing those skills could help you feel more in control and allow you to enjoy college more. What do you think would be the first step towards building those skills and managing stress better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I’m not totally sure where to start, like maybe setting up some kind of schedule or finding ways to chill out when things get crazy. I just know I need something practical to get me going, ya know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the Guiding phase with only 2 turns completed. While the client has identified skills to develop and imagined a better life with those skills, they have not articulated specific change goals or steps clearly yet.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That's a great start, and it sounds like you already have some ideas for practical steps you could take. What do you think might be the biggest challenge in putting those steps into action, and how could you overcome it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I guess the biggest challenge would be sticking to a schedule or actually taking the time to relax without feeling guilty about it. I’m kinda worried I’ll just fall back into old habits, so maybe having someone to check in with or setting small goals could help keep me on track, ya know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation indicates clear Change Talk, with the client expressing specific goals and steps they want to take. Challenges and potential strategies have been identified, and the client shows readiness to plan. With fewer than 3 turns in this phase, continue guiding to solidify confidence and explore steps further.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's really insightful of you to recognize the potential challenges in making these changes and thinking about strategies to overcome them. What do you think would make you feel most confident in taking those first steps towards developing better stress management skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, I think having a clear plan or some kind of structure to follow would make me feel way more confident about starting. Like, if I could break it down into small, doable things and have someone to kinda guide me or cheer me on, I’d feel less overwhelmed, ya know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified specific goals (managing time and stress), acknowledged potential challenges, and expressed the need for a structured plan. Change Talk is present, and ambivalence has decreased with an emerging confidence in taking steps forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That makes sense, and it sounds like having a structured plan and support could really help you build momentum. What if we started by mapping out a simple schedule for the week, and then identified one or two stress-reducing activities you could fit into your daily routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Yeah, that sounds like a solid idea. I’d be down to map out a weekly schedule and figure out a couple of things to help me unwind without stressing too much about it, ya know?",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has just begun in the Choosing phase with only one turn focused on developing a specific action plan. More discussion is needed to solidify the plan and address potential barriers before moving to Terminating.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Great, let's start with the schedule. What days and times this week could you realistically commit to practicing stress-reducing activities? Once we have that, we can brainstorm some simple, enjoyable options for you to try.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Cool, I’m glad we’re getting into this. I think I can probably set aside some time in the evenings, like maybe after dinner on weekdays, around 7 or 8 PM, and then a bit more on weekends, like mid-morning or early afternoon—does that sound doable?",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal and is working on a concrete action plan with the therapist's guidance. They are also considering potential barriers and strategies to overcome them. However, the Choosing phase has only had 2 turns, so it's appropriate to continue to ensure the plan is well-established and self-monitoring is agreed upon.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That sounds like a really solid plan and a good starting point. I like that you've already identified specific times that work for you, and it's great that you're considering both weekdays and weekends. How about we start by picking one or two stress-reducing activities that you think you might enjoy, and then we can figure out how to fit them into your schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Hey, that works for me. I’m thinking maybe something like listening to a chill podcast or doing a quick walk outside—those feel pretty easy to start with, ya know?",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified specific times for stress-reducing activities and has chosen activities they enjoy. Barriers and support strategies are discussed, and the client expresses confidence and commitment to the plan. With 3 turns in the Choosing phase, the goals are met, making it ready to move to the Terminating phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Great, it sounds like you've got a solid plan in place! Let's recap the key goals and action steps we've discussed:\n- Creating a weekly schedule to help you manage your time more effectively\n- Identifying and incorporating stress-reducing activities into your daily routine, such as listening to a chill podcast or taking a quick walk outside\n- Committing to specific times for relaxation, including evenings on weekdays and mid-mornings/early afternoons on weekends\nI'm really proud of you for taking the initiative to address these concerns and make positive changes. Remember, it's all about progress, not perfection. As we move forward, let's keep an eye on how these strategies are working for you and make adjustments as needed.\nNext session, we can dive deeper into other aspects of your transition to college, such as academic preparation and social integration. For now, let's focus on implementing your schedule and stress-reducing activities, and we'll check in on your progress at our next session. Sound good?",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Hey, that all sounds really good to me. I’m feeling pretty hopeful about getting started with this plan and seeing how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session effectively summarized goals and coping strategies, and discussed next steps, including a plan for the client to follow. The client expressed feeling hopeful, indicating readiness to conclude the session.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our counseling session! I'm here to listen and support you without judgment, so please feel free to share whatever's on your mind.\nclient: Thanks for having me. I’ve just been feeling kinda off lately, like I’m not as prepared for college as I thought I’d be, and I’m trying to figure out what I missed along the way.\ntherapist: It sounds like you’re carrying a lot of pressure on your shoulders right now. Can you tell me more about what specifically feels off or unprepared?\nclient: Yeah, I guess it’s just this nagging feeling that I should’ve done more or figured certain things out before getting here. Like, there are gaps in my skills or experiences that are making it harder to keep up.\ntherapist: It sounds like you're feeling a bit overwhelmed by the transition to college, and you're worried that you haven't fully prepared for it. Can you tell me more about what specific skills or experiences you feel like you're missing?\nclient: Yeah, I think it’s just stuff like managing my time better or knowing how to handle stress without freaking out. I feel like I should’ve had more practice with that kind of thing before jumping into this whole college deal.\ntherapist: That makes sense, and it sounds like you're really trying to identify areas where you could grow and improve. Have you thought about what your life might look like if you were able to develop those skills and manage stress more effectively?\nclient: Yeah, I’ve thought about it a bit, and I think I’d feel way more in control, like I could actually enjoy college instead of just stressing all the time. It’d be nice to not feel like I’m always playing catch-up, you know?\ntherapist: It’s interesting to hear how developing those skills could help you feel more in control and allow you to enjoy college more. What do you think would be the first step towards building those skills and managing stress better?\nclient: Honestly, I’m not totally sure where to start, like maybe setting up some kind of schedule or finding ways to chill out when things get crazy. I just know I need something practical to get me going, ya know?\ntherapist: That's a great start, and it sounds like you already have some ideas for practical steps you could take. What do you think might be the biggest challenge in putting those steps into action, and how could you overcome it?\nclient: I guess the biggest challenge would be sticking to a schedule or actually taking the time to relax without feeling guilty about it. I’m kinda worried I’ll just fall back into old habits, so maybe having someone to check in with or setting small goals could help keep me on track, ya know?\ntherapist: It's really insightful of you to recognize the potential challenges in making these changes and thinking about strategies to overcome them. What do you think would make you feel most confident in taking those first steps towards developing better stress management skills?\nclient: Honestly, I think having a clear plan or some kind of structure to follow would make me feel way more confident about starting. Like, if I could break it down into small, doable things and have someone to kinda guide me or cheer me on, I’d feel less overwhelmed, ya know?\ntherapist: That makes sense, and it sounds like having a structured plan and support could really help you build momentum. What if we started by mapping out a simple schedule for the week, and then identified one or two stress-reducing activities you could fit into your daily routine?\nclient: Yeah, that sounds like a solid idea. I’d be down to map out a weekly schedule and figure out a couple of things to help me unwind without stressing too much about it, ya know?\ntherapist: Great, let's start with the schedule. What days and times this week could you realistically commit to practicing stress-reducing activities? Once we have that, we can brainstorm some simple, enjoyable options for you to try.\nclient: Cool, I’m glad we’re getting into this. I think I can probably set aside some time in the evenings, like maybe after dinner on weekdays, around 7 or 8 PM, and then a bit more on weekends, like mid-morning or early afternoon—does that sound doable?\ntherapist: That sounds like a really solid plan and a good starting point. I like that you've already identified specific times that work for you, and it's great that you're considering both weekdays and weekends. How about we start by picking one or two stress-reducing activities that you think you might enjoy, and then we can figure out how to fit them into your schedule?\nclient: Hey, that works for me. I’m thinking maybe something like listening to a chill podcast or doing a quick walk outside—those feel pretty easy to start with, ya know?\ntherapist: Great, it sounds like you've got a solid plan in place! Let's recap the key goals and action steps we've discussed:\n- Creating a weekly schedule to help you manage your time more effectively\n- Identifying and incorporating stress-reducing activities into your daily routine, such as listening to a chill podcast or taking a quick walk outside\n- Committing to specific times for relaxation, including evenings on weekdays and mid-mornings/early afternoons on weekends\nI'm really proud of you for taking the initiative to address these concerns and make positive changes. Remember, it's all about progress, not perfection. As we move forward, let's keep an eye on how these strategies are working for you and make adjustments as needed.\nNext session, we can dive deeper into other aspects of your transition to college, such as academic preparation and social integration. For now, let's focus on implementing your schedule and stress-reducing activities, and we'll check in on your progress at our next session. Sound good?\nclient: Hey, that all sounds really good to me. I’m feeling pretty hopeful about getting started with this plan and seeing how it goes.",
+  "completed": true
+}

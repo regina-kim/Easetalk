@@ -1,0 +1,208 @@
+{
+  "id": "tutfbb",
+  "timestamp": 1648857600000,
+  "category": "school_life",
+  "concern": "How do I keep my head above the water and stop drowning as a somewhat useless phd student? I feel like I can’t cope.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our session today! I'm here to listen and support you in any way I can. Please feel free to share whatever is on your mind, and I'll do my best to help you navigate through it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks for being here. I’m just feeling so overwhelmed with my PhD program and like I’m constantly sinking, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only one turn. The client's concern has been introduced, but further exploration is needed to understand their thoughts and context. More dialogue is necessary to build rapport and fully elicit the client's story.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging, and I'm sorry to hear you're feeling so overwhelmed. Can you tell me more about what's been making you feel like you're constantly sinking in your PhD program?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it’s just this endless cycle of feeling like I’m not good enough or keeping up with everything I’m supposed to do. I keep thinking I’m letting everyone down, and it’s hard to shake that.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The current phase has only had 2 conversation turns. The therapist has begun to elicit the client's story and gain understanding of their feelings of being overwhelmed with their PhD program, but more exploration is needed to fully grasp the client's thoughts and context, as well as build rapport and mutually agreed goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That must be really exhausting, feeling like you're stuck in a cycle of self-doubt and pressure. It sounds like those thoughts about letting everyone down are weighing heavily on you—can you tell me more about when those thoughts started to creep in and how they've been affecting your daily life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, I think those thoughts started pretty early on, like when I first realized how much was expected of me and I wasn’t sure I could deliver. It’s been messing with my sleep and just making every day feel like a grind, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has met the goals of the Exploring phase. The therapist has elicited the client's story and concerns, building rapport and understanding the context of their challenges. The goals and feelings of being overwhelmed are mutually recognized. It is appropriate to move to the Guiding phase to explore motivation for change and evoke Change Talk.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's clear that these thoughts have been a constant companion for a while, and it sounds like they've really taken a toll on your well-being. I'm curious, what do you think would need to happen for you to start feeling more confident in your abilities and less like you're stuck in this cycle?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I’m not even sure, you know, like I wish I could just flip a switch and feel okay about where I’m at. I guess maybe if I could get some kind of reassurance or see some small wins, it might help me feel less like I’m just flailing.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still establishing the client's concerns and exploring their feelings about the situation. Change Talk has not yet been clearly identified, and specific goals or next steps have not been discussed. This is the first turn in the guiding phase, so more exploration is needed to strengthen motivation and evoke Change Talk.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like small wins and reassurance could be a way forward for you, but it's understandable that it feels hard to achieve those things right now. What would it look like for you to start acknowledging those small wins, even if they feel insignificant, and how could you begin to offer yourself the reassurance you're seeking?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think acknowledging small wins would mean just noticing when I get something done, even if it’s tiny, like finishing a draft or just showing up to a meeting. I’m not sure how to reassure myself though—it’s hard to believe in myself when I feel so behind, so maybe I need to figure out how to talk myself up or something, but it feels kinda fake right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in early stages of the guiding phase with only 2 turns completed. The client has expressed some ideas for change, like acknowledging small wins, but hasn't yet set a specific change goal or demonstrated confidence sufficiently. More exploration is needed to solidify motivation and identify clear next steps.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "I hear you—starting to notice those small wins, like finishing a draft or showing up to a meeting, is a great first step. And I understand how hard it can be to offer yourself reassurance when you feel like you're falling short. Maybe we could explore some ways to make self-reassurance feel more genuine and less forced?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yeah, I’d really like to figure out how to make that reassurance feel real instead of just pretending everything’s fine. I’m just so used to beating myself up, you know, so I’m not even sure where to start with being kinder to myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed change talk by acknowledging the importance of recognizing small wins. They've identified a potential change in self-talk but feel unsure about how to implement it. Confidence and specific goals are still developing. With only 3 turns in the guiding phase, it's beneficial to continue exploring these areas before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable that self-compassion can feel unfamiliar when you're used to self-criticism, but we can start by exploring what would make reassurance feel more authentic to you. Perhaps we could reflect on moments where you've offered kindness to others, and how you might apply that same understanding to yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yeah, that makes sense—I mean, I’m pretty good at being supportive to friends when they’re struggling, so maybe I could try talking to myself the way I’d talk to them. It’s just weird to think about turning that kindness inward, but I’m willing to give it a shot if you’ve got some ideas on how to make it stick.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client displays a willingness to change, expressed through interest in acknowledging small wins and exploring genuine self-reassurance. With a specific goal to talk to themselves kindly, akin to supporting friends, and a reduction in self-criticism, they signal readiness to develop actionable strategies.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Here's a next response:\nOne approach could be to create a self-compassion practice where you pause after accomplishing a small win and offer yourself a kind, genuine statement, like something you'd say to a friend in your situation. It might feel awkward at first, but with time, it can become more natural. We can also brainstorm a few phrases together to help you get started.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Hey, that sounds like a solid idea—pausing to say something nice to myself after getting something done, even if it feels weird at first. I’m down to brainstorm some phrases with you; I just hope I don’t feel too silly saying them out loud or anything.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has begun to acknowledge small wins and is open to developing a self-compassion practice. However, they are still seeking strategies to make reassurance feel genuine. With only one turn in the current phase of action planning, continuing the Choosing phase will help solidify their plan and build confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It’s okay to feel a bit awkward at first—that’s part of the process. Let’s start with a few simple phrases that might resonate with you. How about, “I’m proud of myself for showing up and giving this my best,” or “It’s okay to take things one step at a time”? We can also work on creating a personalized list that feels more authentic to you. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Yeah, those phrases sound pretty good, like something I could actually say without feeling too out of place. I’m cool with tweaking them a bit to make them feel more like me—let’s work on that list together if that’s okay.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have collaboratively developed a specific action plan focusing on self-compassion and acknowledging small wins. They have also discussed potential barriers, like feeling fake, and agreed on self-monitoring through a self-compassion practice. The client is showing readiness with commitment and taking-steps talk, accepting action reflections. With only 2 turns in the current phase, it's appropriate to 'continue' to ensure the plan is solidified and confidence in the change is established.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That's great to hear! I'm glad those phrases resonate with you. Let's build on that by adding a few more options that reflect your unique voice and style. What about something like, “I’m doing my best, and that’s enough,” or “I’m learning and growing, and it’s okay to make mistakes”? We can keep tweaking these until they feel just right for you.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Hey, I like those additions—especially the “I’m doing my best, and that’s enough” one; it kinda hits home for me. I’m ready to keep playing around with these until they really feel like my own words, if you’ve got the time to help me out with that.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have collaboratively developed a clear action plan focusing on self-compassion and acknowledging small wins. They have discussed potential barriers, such as awkwardness in self-reassurance, and the client has shown willingness to take steps and refine action reflections. This indicates readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It's been a pleasure to work with you in this session. I'm proud of you for being open to exploring new strategies and embracing the process of self-compassion. As we discussed, you can start by practicing your self-compassion phrases after small wins and gradually build your personalized list. Don't hesitate to reach out if you need any support or guidance along the way. Keep up the good work, and remember that you're capable and deserving of kindness, both from others and yourself. Take care, and I look forward to seeing your progress in our next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I’ll give those phrases a shot after small wins and see how it feels, and I’ll definitely reach out if I need any help.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session included a summary of coping strategies, a next-step plan, and encouragement, indicating progress towards termination goals. The client has actionable steps and expressed readiness to try them.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our session today! I'm here to listen and support you in any way I can. Please feel free to share whatever is on your mind, and I'll do my best to help you navigate through it.\nclient: Thanks for being here. I’m just feeling so overwhelmed with my PhD program and like I’m constantly sinking, you know?\ntherapist: That sounds incredibly challenging, and I'm sorry to hear you're feeling so overwhelmed. Can you tell me more about what's been making you feel like you're constantly sinking in your PhD program?\nclient: Yeah, it’s just this endless cycle of feeling like I’m not good enough or keeping up with everything I’m supposed to do. I keep thinking I’m letting everyone down, and it’s hard to shake that.\ntherapist: That must be really exhausting, feeling like you're stuck in a cycle of self-doubt and pressure. It sounds like those thoughts about letting everyone down are weighing heavily on you—can you tell me more about when those thoughts started to creep in and how they've been affecting your daily life?\nclient: Honestly, I think those thoughts started pretty early on, like when I first realized how much was expected of me and I wasn’t sure I could deliver. It’s been messing with my sleep and just making every day feel like a grind, you know?\ntherapist: It's clear that these thoughts have been a constant companion for a while, and it sounds like they've really taken a toll on your well-being. I'm curious, what do you think would need to happen for you to start feeling more confident in your abilities and less like you're stuck in this cycle?\nclient: I’m not even sure, you know, like I wish I could just flip a switch and feel okay about where I’m at. I guess maybe if I could get some kind of reassurance or see some small wins, it might help me feel less like I’m just flailing.\ntherapist: It sounds like small wins and reassurance could be a way forward for you, but it's understandable that it feels hard to achieve those things right now. What would it look like for you to start acknowledging those small wins, even if they feel insignificant, and how could you begin to offer yourself the reassurance you're seeking?\nclient: Honestly, I think acknowledging small wins would mean just noticing when I get something done, even if it’s tiny, like finishing a draft or just showing up to a meeting. I’m not sure how to reassure myself though—it’s hard to believe in myself when I feel so behind, so maybe I need to figure out how to talk myself up or something, but it feels kinda fake right now.\ntherapist: I hear you—starting to notice those small wins, like finishing a draft or showing up to a meeting, is a great first step. And I understand how hard it can be to offer yourself reassurance when you feel like you're falling short. Maybe we could explore some ways to make self-reassurance feel more genuine and less forced?\nclient: Yeah, I’d really like to figure out how to make that reassurance feel real instead of just pretending everything’s fine. I’m just so used to beating myself up, you know, so I’m not even sure where to start with being kinder to myself.\ntherapist: It's understandable that self-compassion can feel unfamiliar when you're used to self-criticism, but we can start by exploring what would make reassurance feel more authentic to you. Perhaps we could reflect on moments where you've offered kindness to others, and how you might apply that same understanding to yourself?\nclient: Yeah, that makes sense—I mean, I’m pretty good at being supportive to friends when they’re struggling, so maybe I could try talking to myself the way I’d talk to them. It’s just weird to think about turning that kindness inward, but I’m willing to give it a shot if you’ve got some ideas on how to make it stick.\ntherapist: Here's a next response:\nOne approach could be to create a self-compassion practice where you pause after accomplishing a small win and offer yourself a kind, genuine statement, like something you'd say to a friend in your situation. It might feel awkward at first, but with time, it can become more natural. We can also brainstorm a few phrases together to help you get started.\nclient: Hey, that sounds like a solid idea—pausing to say something nice to myself after getting something done, even if it feels weird at first. I’m down to brainstorm some phrases with you; I just hope I don’t feel too silly saying them out loud or anything.\ntherapist: It’s okay to feel a bit awkward at first—that’s part of the process. Let’s start with a few simple phrases that might resonate with you. How about, “I’m proud of myself for showing up and giving this my best,” or “It’s okay to take things one step at a time”? We can also work on creating a personalized list that feels more authentic to you. What do you think?\nclient: Yeah, those phrases sound pretty good, like something I could actually say without feeling too out of place. I’m cool with tweaking them a bit to make them feel more like me—let’s work on that list together if that’s okay.\ntherapist: That's great to hear! I'm glad those phrases resonate with you. Let's build on that by adding a few more options that reflect your unique voice and style. What about something like, “I’m doing my best, and that’s enough,” or “I’m learning and growing, and it’s okay to make mistakes”? We can keep tweaking these until they feel just right for you.\nclient: Hey, I like those additions—especially the “I’m doing my best, and that’s enough” one; it kinda hits home for me. I’m ready to keep playing around with these until they really feel like my own words, if you’ve got the time to help me out with that.\ntherapist: It's been a pleasure to work with you in this session. I'm proud of you for being open to exploring new strategies and embracing the process of self-compassion. As we discussed, you can start by practicing your self-compassion phrases after small wins and gradually build your personalized list. Don't hesitate to reach out if you need any support or guidance along the way. Keep up the good work, and remember that you're capable and deserving of kindness, both from others and yourself. Take care, and I look forward to seeing your progress in our next session!\nclient: Thanks, I really appreciate your support and encouragement. I’ll give those phrases a shot after small wins and see how it feels, and I’ll definitely reach out if I need any help.",
+  "completed": true
+}

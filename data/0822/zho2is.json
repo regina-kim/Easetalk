@@ -1,0 +1,190 @@
+{
+  "id": "zho2is",
+  "timestamp": 1670630400000,
+  "category": "interpersonal",
+  "concern": "My friend asked to team up with me on an important course project which I valued very much. The whole course is evaluated totally based on the project. I accepted the invitation because I am actually the dumb one among us. However, in the project, I got mad at him. Whenever we came across problems, he would say he didn't know anything and \"sorry, I really can't help you\", as if this was my personal project. I talked to him so many times about this, and he was tired of me pushing him to think. Then right before the deadline, when we had trouble meeting the minimum requirements, he said he didn't think we need to meet the requirement, and I shouldn't care so much about the project. I worked for two whole weeks with little sleep before the due date, but still, I didn't get any results for the report in the end. When he said \"I am sorry that you didn't get the right results\", I almost shouted at him.\n\nI feel awkward now talking to him and disappointed with this collaboration. I don't feel proper to complain to the professor. We are friends and still need to meet on lots of occasions. My complaint can make things more complicated. Is there any way to make myself feel better and let go?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our session today! I'm glad you're here and I'm excited to hear about your thoughts and concerns. Is there anything in particular that you'd like to talk about or explore during our time together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I’ve been really stressed about a recent project collaboration with a friend that went south, and I’m just struggling to move past the frustration and awkwardness it’s caused between us.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has had only one turn. More exploration is needed to fully understand the client's thoughts, feelings, and the context of their concern and build empathy and rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's completely understandable that you're feeling frustrated and awkward about the situation, especially since it involves a friend. Can you tell me more about what happened during the project collaboration that led to this outcome?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it was just a really tough experience where I felt let down by how things were handled. I’m still kinda reeling from the whole thing and not sure how to deal with the tension it’s created.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had 2 turns, which is below the minimum of 3-4 turns required to sufficiently explore the client's story and build rapport. The client's concern is detailed, but the therapist has not yet fully explored the context, emotions, and goals. More exploration is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That must have been really tough for you, especially when working with a friend. Can you share more about what specifically made you feel let down during the project?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, it’s been rough. I just felt like I was carrying most of the weight and not getting the support I expected, which really got to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The exploration phase has captured the client's story and emotions in detail. The client has expressed frustration and disappointment, and the context of the project with a friend is clear. While the number of turns is minimal, the conversation has effectively elicited the essence of the client's issue. It's appropriate to move to Guiding to explore motivations and solutions.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging, and it makes sense that you're still feeling the weight of it all. It's not easy when you feel unsupported, especially by someone you trust like a friend. I can see how that tension would be hard to navigate.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, exactly, it’s just been weighing on me a lot because I didn’t expect things to turn out like this with someone I’m close to. I’m stuck on how to even approach talking to him without making stuff more weird between us.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the initial stages of the Guiding phase with only one turn completed. Discrepancy between behavior and values is clear, but more exploration is needed to evoke Change Talk and address ambivalence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's clear that the situation has caused you a lot of stress and uncertainty, especially when it comes to maintaining your relationship with your friend. Can you think of any potential ways you might approach talking to him without adding to the tension between you two?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Yeah, I’ve been thinking about it, but I’m not really sure where to start without it feeling like I’m just blaming him. Maybe I could just try to bring it up casually, like ask how he felt about the project, but I’m worried it might still come off wrong.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The conversation has been limited to two turns in the guiding phase, with the focus on understanding the client's feelings and initial thoughts on approaching his friend. More time is needed to explore potential change strategies and resolve ambivalence.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you're trying to approach the situation in a way that minimizes conflict while still addressing your concerns. That's a thoughtful approach. Can you think of any recent interactions or shared experiences that might provide a natural opening for discussing the project without feeling forced?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I can’t think of anything super recent that feels like a good opener without it seeming out of nowhere. Maybe I could just wait for a casual hangout or something and bring it up then, but I’m still kinda nervous it’ll mess things up.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only 3 turns completed. The client is expressing ambivalence and uncertainty about how to address the issue with their friend. They have not yet identified a specific change goal or shown a significant decrease in ambivalence. Further exploration is needed to strengthen their motivation and confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That's understandable, and it sounds like you're really considering how to bring it up in a way that feels natural and comfortable for both of you. Can you imagine how it might feel if you did find a way to talk about this that allowed you to both be honest without it causing more tension?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yeah, I think if I could find a way to talk about it without it turning into a big fight or weird vibe, I’d feel a huge weight off my shoulders. I just want to clear the air, you know, and not have this hanging over us every time we’re around each other.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client is experiencing ambivalence but has begun to express potential steps forward, such as addressing the issue with their friend. Change Talk is present, and the client is exploring specific ways to manage the situation, indicating readiness to develop action plans. They've expressed a desire to resolve tension and have considered different approaches, signaling a move towards action planning.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "I really hear how much you want to find a way to talk through this without it causing more stress or tension. What if you started by sharing how much the friendship means to you, and then asked him to share his perspective on the project? That might help set a positive tone for the conversation and show that you're coming from a place of care.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Yeah, I like the idea of starting with how much I value our friendship because it’s true, and I think that could help keep things from getting too heated. I’m just a bit worried about how he’ll react, but I guess framing it that way might make it easier for us to actually talk it out without me feeling like I’m attacking him.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has recognized a potential approach to address his concerns with his friend by emphasizing the value of their friendship. However, he still expresses uncertainty and nervousness about the conversation. This indicates that the action plan isn't fully concrete, and confidence needs reinforcement. With only one turn in the Choosing phase, further exploration and planning are necessary.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. You could try starting with something like, “I really value our friendship and want to make sure we’re on the same page about this project.” It shows that you care about your relationship and opens the door for a constructive conversation. How does that feel to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "That feels pretty good, actually. I think saying something like that could help me ease into it without sounding like I’m just coming at him with complaints, and I’m hoping it’ll make him more open to talking.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear action plan: starting the conversation by valuing the friendship and asking for his perspective. They have acknowledged the barrier of potential awkwardness and agreed on a strategy that includes self-monitoring by easing into the conversation. The client has shown readiness by discussing commitment to the plan and accepting action reflections.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "As we wrap up our session today, let's summarize the key goals and action steps we've discussed. You'd like to approach your friend to discuss the recent project collaboration and address the tension it has created in your relationship. We've identified a helpful approach, which involves starting the conversation by expressing the value of your friendship and inviting your friend to share their perspective. This should help set a positive tone and encourage constructive dialogue.\nIn terms of coping strategies, remember that open and honest communication is key to resolving conflicts. By approaching the conversation with empathy and a willingness to listen, you can work together to find a solution that strengthens your friendship.\nRemember, change takes time, and it's important to be patient and understanding throughout this process. You've made great progress today, and I'm confident that you'll be able to navigate this conversation with your friend in a way that feels natural and comfortable for both of you.\nOur next session will be in one week, and we'll continue to explore strategies for effective communication and conflict resolution. Until then, I encourage you to practice using the skills we've discussed and to reach out if you have any questions or concerns.",
+      "phase": "terminating"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Thanks for summarizing everything and for the encouragement—it really helps to have a clear plan in mind. I’ll give this approach a shot and see how it goes, and I’ll let you know next week how the conversation played out.",
+      "phase": "terminating"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session provided a clear summary of goals and a next-step plan. The client acknowledged the plan and expressed readiness to take action. The session has naturally concluded with closure achieved.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our session today! I'm glad you're here and I'm excited to hear about your thoughts and concerns. Is there anything in particular that you'd like to talk about or explore during our time together?\nclient: Hey, thanks for having me. I’ve been really stressed about a recent project collaboration with a friend that went south, and I’m just struggling to move past the frustration and awkwardness it’s caused between us.\ntherapist: It's completely understandable that you're feeling frustrated and awkward about the situation, especially since it involves a friend. Can you tell me more about what happened during the project collaboration that led to this outcome?\nclient: Yeah, it was just a really tough experience where I felt let down by how things were handled. I’m still kinda reeling from the whole thing and not sure how to deal with the tension it’s created.\ntherapist: That must have been really tough for you, especially when working with a friend. Can you share more about what specifically made you feel let down during the project?\nclient: Yeah, it’s been rough. I just felt like I was carrying most of the weight and not getting the support I expected, which really got to me.\ntherapist: That sounds incredibly challenging, and it makes sense that you're still feeling the weight of it all. It's not easy when you feel unsupported, especially by someone you trust like a friend. I can see how that tension would be hard to navigate.\nclient: Yeah, exactly, it’s just been weighing on me a lot because I didn’t expect things to turn out like this with someone I’m close to. I’m stuck on how to even approach talking to him without making stuff more weird between us.\ntherapist: It's clear that the situation has caused you a lot of stress and uncertainty, especially when it comes to maintaining your relationship with your friend. Can you think of any potential ways you might approach talking to him without adding to the tension between you two?\nclient: Yeah, I’ve been thinking about it, but I’m not really sure where to start without it feeling like I’m just blaming him. Maybe I could just try to bring it up casually, like ask how he felt about the project, but I’m worried it might still come off wrong.\ntherapist: It sounds like you're trying to approach the situation in a way that minimizes conflict while still addressing your concerns. That's a thoughtful approach. Can you think of any recent interactions or shared experiences that might provide a natural opening for discussing the project without feeling forced?\nclient: Honestly, I can’t think of anything super recent that feels like a good opener without it seeming out of nowhere. Maybe I could just wait for a casual hangout or something and bring it up then, but I’m still kinda nervous it’ll mess things up.\ntherapist: That's understandable, and it sounds like you're really considering how to bring it up in a way that feels natural and comfortable for both of you. Can you imagine how it might feel if you did find a way to talk about this that allowed you to both be honest without it causing more tension?\nclient: Yeah, I think if I could find a way to talk about it without it turning into a big fight or weird vibe, I’d feel a huge weight off my shoulders. I just want to clear the air, you know, and not have this hanging over us every time we’re around each other.\ntherapist: I really hear how much you want to find a way to talk through this without it causing more stress or tension. What if you started by sharing how much the friendship means to you, and then asked him to share his perspective on the project? That might help set a positive tone for the conversation and show that you're coming from a place of care.\nclient: Yeah, I like the idea of starting with how much I value our friendship because it’s true, and I think that could help keep things from getting too heated. I’m just a bit worried about how he’ll react, but I guess framing it that way might make it easier for us to actually talk it out without me feeling like I’m attacking him.\ntherapist: That sounds like a solid plan. You could try starting with something like, “I really value our friendship and want to make sure we’re on the same page about this project.” It shows that you care about your relationship and opens the door for a constructive conversation. How does that feel to you?\nclient: That feels pretty good, actually. I think saying something like that could help me ease into it without sounding like I’m just coming at him with complaints, and I’m hoping it’ll make him more open to talking.\ntherapist: As we wrap up our session today, let's summarize the key goals and action steps we've discussed. You'd like to approach your friend to discuss the recent project collaboration and address the tension it has created in your relationship. We've identified a helpful approach, which involves starting the conversation by expressing the value of your friendship and inviting your friend to share their perspective. This should help set a positive tone and encourage constructive dialogue.\nIn terms of coping strategies, remember that open and honest communication is key to resolving conflicts. By approaching the conversation with empathy and a willingness to listen, you can work together to find a solution that strengthens your friendship.\nRemember, change takes time, and it's important to be patient and understanding throughout this process. You've made great progress today, and I'm confident that you'll be able to navigate this conversation with your friend in a way that feels natural and comfortable for both of you.\nOur next session will be in one week, and we'll continue to explore strategies for effective communication and conflict resolution. Until then, I encourage you to practice using the skills we've discussed and to reach out if you have any questions or concerns.\nclient: Thanks for summarizing everything and for the encouragement—it really helps to have a clear plan in mind. I’ll give this approach a shot and see how it goes, and I’ll let you know next week how the conversation played out.",
+  "completed": true
+}

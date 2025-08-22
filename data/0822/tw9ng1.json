@@ -1,0 +1,244 @@
+{
+  "id": "tw9ng1",
+  "timestamp": 1649030400000,
+  "category": "emotional",
+  "concern": "Didn't realise this until I got an Apple watch but my heart rate is always 80-100, my shoulders are always tense and I have a killer headache? \n\nWhy am I stressed all the time? Are any other PhD students like this? Do I need help?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! It's so nice to meet you. I'm here to listen and help in any way I can. Please feel free to share whatever is on your mind or anything you'd like to work through together.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I’m just really overwhelmed lately and figured I should talk to someone about it.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in its initial phase with only one turn. The therapist has just begun to gather the client's story and understand their concerns. More exploration is needed to fully grasp the client's context and build rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "I'm so glad you reached out and shared that. It takes courage to talk about being overwhelmed, and I'm here to listen and support you however I can. Can you tell me more about what's been weighing on you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Hey, yeah, I guess I’ve just been feeling this constant pressure, like I can’t catch a break. It’s hard to even pinpoint exactly what’s getting to me, but I’m just always on edge, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has had only two turns, which is below the minimum threshold for moving to the Guiding phase. The therapist has established rapport and invited the client to share more, but the client's full story and context need further exploration.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like that pressure has been building up for a while, and it's completely understandable to feel like you can't quite put your finger on what's causing it. You mentioned feeling on edge all the time - do you think there's anything in particular that might be contributing to that sense of tension?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Hey, I think it’s probably a mix of stuff, like the constant deadlines and trying to keep up with everything in my program. I just feel like I’m always waiting for the next thing to hit, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has reached three turns in the Exploring phase. The essence of the client’s story is emerging, focusing on stress and pressure related to academic demands. Empathy is shown, but the conversation hasn't fully explored mutually agreed goals or deeper context yet.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds incredibly stressful, and it's no wonder you're feeling on edge all the time. It's like you're constantly bracing yourself for the next challenge. What would it be like if you could find a way to take a step back and catch your breath?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Hey, I mean, that sounds amazing, honestly, like I’d love to just hit pause for a bit. But I don’t even know how to do that with everything piling up, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has reached 4 turns, with the client expressing their feelings of being overwhelmed and stressed. The therapist has successfully elicited the essence of the client's story, including their thoughts and contributing factors. Empathy has been shown, and rapport appears to be established. The client expressed a desire for change, signaling readiness to move to the next phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "I can imagine how hard it is to even think about slowing down when you feel like you're constantly juggling so many things. It's like you're on a hamster wheel and don't know how to get off without everything falling apart. Can you imagine what it would be like if you could find a way to take even a tiny pause, just for a moment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Hey, yeah, even just a tiny pause sounds kinda nice, like a breather would help clear my head a bit. But I’m honestly kinda scared that if I stop even for a second, I’ll fall behind or mess something up, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase, with only 1 turn focused on exploring the client's feelings and stressors. More exploration of change talk and motivation is needed before moving to Choosing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's understandable that you're worried about falling behind, but maybe there's a way to take that tiny pause without letting everything come crashing down. What if you could find a way to take that breather and still keep up with everything?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Hey, that’d be ideal, like finding some kinda balance where I can take a quick break without everything going off the rails. I just don’t know where to even start with that, you know, with all the pressure always there.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early phase of guiding with only 2 turns. The client has not yet expressed specific change talk or goals, and ambivalence remains. The conversation should continue to strengthen motivation and explore potential changes.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you're starting to envision a possibility where you can take a moment for yourself without everything falling apart. What would that feel like for you, to have a little bit of space to breathe while still keeping things moving?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Hey, I think it’d feel like a huge weight off my shoulders, you know, just to have a little space to breathe without the constant worry. Like, even imagining it makes me feel a tiny bit lighter, but I’m still not sure how to make that real with everything going on.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the guiding phase with only three turns. Exploration of the client's stress and potential change strategies has begun but needs further development to solidify specific goals or action plans.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "I can sense the relief in your words, like a little crack of light in a very busy, dark room. What's one small thing you could do today to let in a bit more of that light, even if it's just for a few minutes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Hey, I guess maybe just stepping away from my desk for like five minutes, maybe grab a coffee or just stare out the window or something. I don’t know, it sounds so small, but I’m worried even that might throw me off my game with everything piling up.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is exploring the client's stress and envisioning change but lacks specific goals or action steps. Although the client is considering small actions like taking a break, they express uncertainty and fear about falling behind. This indicates readiness but does not meet the criteria for moving to the Choosing phase. More guiding is needed to clarify specific changes and build confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That's a great idea, even if it feels small. What if you tried that five-minute break, and saw how it affected your game? Would it be possible to take that chance, just once, and see what happens?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Hey, yeah, I think I could try that, just a quick five minutes to see if it messes things up or not. I’m kinda nervous about it, but I guess I won’t know unless I give it a shot, right?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed change talk about taking a small break and acknowledged the potential benefits. They have a specific change goal to try a five-minute break. While they are nervous, they are willing to experiment. Guiding goals have been met, and the conversation is not stuck in circles.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That's a courageous step forward! What if we made it even more doable by picking a specific time today to try that five-minute break, maybe right after you finish your next task?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Hey, yeah, that sounds like a plan, I can pick a time after I wrap up this next chunk of work to just step away for a bit. I’m still a little jittery about losing momentum, but locking in a specific moment might help me actually do it.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in its early stages during the Choosing phase, with the client beginning to articulate a specific action plan (taking a 5-minute break). The therapist is exploring concrete steps and addressing barriers, but it’s essential to further solidify the plan and boost the client's confidence. Only one turn has occurred in the current phase, indicating the need for continued dialogue to ensure readiness.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. How about we also brainstorm a few ways to make sure you can ease back into your work flow after that break, so you don't feel like you've lost momentum?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Hey, yeah, that’d be really helpful to figure out some ways to get back into the groove without feeling all scrambled. I’m worried about just sitting there stressing about the clock, so maybe we can come up with something to make the transition smoother?",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a specific action (five-minute breaks) and a plan to implement it. Barriers, such as losing momentum, have been discussed, and strategies for easing back into work are being developed. The client shows readiness by planning the action and expressing willingness to try. With only 2 turns in the current phase, more discussion is needed to solidify strategies for overcoming barriers.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That’s a great point about wanting a smooth transition. What if we tried creating a short routine to signal the end of your break, like taking a few deep breaths or jotting down your next task before heading back to work? This might help you ease back in without feeling rushed or distracted.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Hey, yeah, I like the idea of a little routine to kinda reset my brain after the break. Maybe those deep breaths and writing down the next thing could keep me from spiraling about time, so I’m down to try that out.",
+      "phase": "choosing"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have collaboratively developed a specific action plan and strategies for anticipated barriers, such as taking a five-minute break and implementing a transition routine. The client has expressed commitment and a willingness to take steps, indicating readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Great job! You've made a great start by committing to a five-minute break and exploring strategies to smoothly transition back into your work. Remember, taking breaks isn't a sign of weakness or laziness - it's a way to recharge and increase your productivity in the long run. Your plan to create a short routine, such as deep breathing and jotting down your next task, is an excellent way to ease back into your work flow without feeling rushed or distracted.\nKeep in mind that it's okay to feel a bit jittery about losing momentum at first, but with practice, you'll find that taking breaks can actually help you stay on track and manage your workload more effectively. Don't be too hard on yourself if you struggle at first - just keep practicing your routine and remember that progress is not a straight line. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Hey, thanks for the encouragement and for reminding me that it’s okay to take breaks. I’m still a bit nervous about getting the hang of this, but I’m feeling more hopeful about making it work with these strategies.",
+      "phase": "terminating"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has established a concrete plan for the client's break routine and coping strategies. The client acknowledges feeling more hopeful, indicating progress, and the conversation naturally reached a point of resolution.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! It's so nice to meet you. I'm here to listen and help in any way I can. Please feel free to share whatever is on your mind or anything you'd like to work through together.\nclient: Hey, thanks for seeing me. I’m just really overwhelmed lately and figured I should talk to someone about it.\ntherapist: I'm so glad you reached out and shared that. It takes courage to talk about being overwhelmed, and I'm here to listen and support you however I can. Can you tell me more about what's been weighing on you lately?\nclient: Hey, yeah, I guess I’ve just been feeling this constant pressure, like I can’t catch a break. It’s hard to even pinpoint exactly what’s getting to me, but I’m just always on edge, you know?\ntherapist: It sounds like that pressure has been building up for a while, and it's completely understandable to feel like you can't quite put your finger on what's causing it. You mentioned feeling on edge all the time - do you think there's anything in particular that might be contributing to that sense of tension?\nclient: Hey, I think it’s probably a mix of stuff, like the constant deadlines and trying to keep up with everything in my program. I just feel like I’m always waiting for the next thing to hit, you know?\ntherapist: That sounds incredibly stressful, and it's no wonder you're feeling on edge all the time. It's like you're constantly bracing yourself for the next challenge. What would it be like if you could find a way to take a step back and catch your breath?\nclient: Hey, I mean, that sounds amazing, honestly, like I’d love to just hit pause for a bit. But I don’t even know how to do that with everything piling up, you know?\ntherapist: I can imagine how hard it is to even think about slowing down when you feel like you're constantly juggling so many things. It's like you're on a hamster wheel and don't know how to get off without everything falling apart. Can you imagine what it would be like if you could find a way to take even a tiny pause, just for a moment?\nclient: Hey, yeah, even just a tiny pause sounds kinda nice, like a breather would help clear my head a bit. But I’m honestly kinda scared that if I stop even for a second, I’ll fall behind or mess something up, you know?\ntherapist: It's understandable that you're worried about falling behind, but maybe there's a way to take that tiny pause without letting everything come crashing down. What if you could find a way to take that breather and still keep up with everything?\nclient: Hey, that’d be ideal, like finding some kinda balance where I can take a quick break without everything going off the rails. I just don’t know where to even start with that, you know, with all the pressure always there.\ntherapist: It sounds like you're starting to envision a possibility where you can take a moment for yourself without everything falling apart. What would that feel like for you, to have a little bit of space to breathe while still keeping things moving?\nclient: Hey, I think it’d feel like a huge weight off my shoulders, you know, just to have a little space to breathe without the constant worry. Like, even imagining it makes me feel a tiny bit lighter, but I’m still not sure how to make that real with everything going on.\ntherapist: I can sense the relief in your words, like a little crack of light in a very busy, dark room. What's one small thing you could do today to let in a bit more of that light, even if it's just for a few minutes?\nclient: Hey, I guess maybe just stepping away from my desk for like five minutes, maybe grab a coffee or just stare out the window or something. I don’t know, it sounds so small, but I’m worried even that might throw me off my game with everything piling up.\ntherapist: That's a great idea, even if it feels small. What if you tried that five-minute break, and saw how it affected your game? Would it be possible to take that chance, just once, and see what happens?\nclient: Hey, yeah, I think I could try that, just a quick five minutes to see if it messes things up or not. I’m kinda nervous about it, but I guess I won’t know unless I give it a shot, right?\ntherapist: That's a courageous step forward! What if we made it even more doable by picking a specific time today to try that five-minute break, maybe right after you finish your next task?\nclient: Hey, yeah, that sounds like a plan, I can pick a time after I wrap up this next chunk of work to just step away for a bit. I’m still a little jittery about losing momentum, but locking in a specific moment might help me actually do it.\ntherapist: That sounds like a solid plan. How about we also brainstorm a few ways to make sure you can ease back into your work flow after that break, so you don't feel like you've lost momentum?\nclient: Hey, yeah, that’d be really helpful to figure out some ways to get back into the groove without feeling all scrambled. I’m worried about just sitting there stressing about the clock, so maybe we can come up with something to make the transition smoother?\ntherapist: That’s a great point about wanting a smooth transition. What if we tried creating a short routine to signal the end of your break, like taking a few deep breaths or jotting down your next task before heading back to work? This might help you ease back in without feeling rushed or distracted.\nclient: Hey, yeah, I like the idea of a little routine to kinda reset my brain after the break. Maybe those deep breaths and writing down the next thing could keep me from spiraling about time, so I’m down to try that out.\ntherapist: Great job! You've made a great start by committing to a five-minute break and exploring strategies to smoothly transition back into your work. Remember, taking breaks isn't a sign of weakness or laziness - it's a way to recharge and increase your productivity in the long run. Your plan to create a short routine, such as deep breathing and jotting down your next task, is an excellent way to ease back into your work flow without feeling rushed or distracted.\nKeep in mind that it's okay to feel a bit jittery about losing momentum at first, but with practice, you'll find that taking breaks can actually help you stay on track and manage your workload more effectively. Don't be too hard on yourself if you struggle at first - just keep practicing your routine and remember that progress is not a straight line. You've got this!\nclient: Hey, thanks for the encouragement and for reminding me that it’s okay to take breaks. I’m still a bit nervous about getting the hang of this, but I’m feeling more hopeful about making it work with these strategies.",
+  "completed": true
+}

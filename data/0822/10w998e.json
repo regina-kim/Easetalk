@@ -1,0 +1,208 @@
+{
+  "id": "10w998e",
+  "timestamp": 1675728000000,
+  "category": "school_life",
+  "concern": "Hi everyone, hoping for some insight. I am a first-year student in a School Psychology program and am going back and forth on if this is the right path for me…. I want to work with kids but IQ testing (WISC, etc) does not interest me much, and I’ve heard that’s what I will be doing most of the time. I'm way more interested in the counseling side of things, which makes me think I should pursue an MSW instead… any insight on this would help me bunches, I’m so torn because I love my cohort and professors but I’m not big on cognitive assessments! Help!",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our session today! I'm here to listen and help you explore your thoughts, feelings, or concerns. Feel free to share whatever is on your mind - I'm all ears. 🌟",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks for being here to chat. I’m just really unsure if I’m on the right path with my School Psychology program and could use some guidance on figuring this out.\n\nTherapist: I'm glad you reached out to talk about this. Can you tell me more about what’s making you question if School Psychology is the right fit for you?\n\nAssistant: Yeah, for sure. I’m just not that into the idea of doing a ton of cognitive testing, like IQ stuff, which I hear is a big part of the job, and I’m way more drawn to the counseling and emotional support side of working with kids.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has just begun, with only one turn completed. The client has expressed initial concerns, but further exploration of their thoughts and feelings is needed to fully understand their dilemma before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're drawn to the counseling and emotional support aspects of working with kids, but you're concerned about the heavy emphasis on cognitive testing in School Psychology. That's a valid concern. Can you tell me more about what makes you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, exactly. I just feel like I’d be so much happier sitting down with kids, helping them through their feelings and struggles, rather than spending hours on assessments that don’t really light me up, you know? Like, I get that testing is important, but it’s just not my thing, and I’m worried I’ll end up stuck doing something I don’t love.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in its early stages with only 2 turns. The client has expressed their concerns about the School Psychology program, and the therapist has started to explore these concerns. More exploration is needed to fully understand the client's thoughts and context before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That makes a lot of sense, and it's really admirable that you're considering what would bring you fulfillment in your career. It sounds like you're craving a role where you can connect with kids and support them emotionally, rather than just focusing on testing. Have you thought about other fields or roles that might align more closely with your interests and values?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, I’ve been thinking about maybe switching to a Master of Social Work program because I feel like that might focus more on the counseling stuff I’m into. I’m just kinda torn since I really like the people in my current program, and I’m scared to make a big change like that, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has met the goals of the Exploring phase. The client's story and main concerns have been well-elaborated, including their interest in counseling over cognitive testing and their dilemma about switching programs. There's a clear mutual understanding and rapport. The client has provided context and is seeking guidance, which sets the stage for the Guiding phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's completely normal to feel torn between staying in a program with people you like and pursuing a different path that might better align with your interests and values. Can you tell me more about what's holding you back from making the switch to a Master of Social Work program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I guess it’s mostly the fear of starting over and leaving behind this awesome group of people I’ve connected with. Like, I don’t want to lose the support and friendships I’ve built, but at the same time, I’m worried I’ll regret sticking with something that doesn’t fully feel like “me,” you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only just begun with one turn in the Guiding phase. The therapist has started exploring discrepancy between behavior and values, but more dialogue is needed to fully address the Guiding goals. Continue to explore and evoke Change Talk before moving to Choosing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're really valuing the connections you've made in your current program, and that's completely understandable. On the other hand, it's also important to consider how fulfilling a career in social work could be for you, given your passion for counseling and emotional support. Have you thought about ways you might be able to maintain some of those connections even if you were to switch programs?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "**Client:** Yeah, I’ve thought about it a little, like maybe staying in touch through group chats or meeting up outside of school stuff, but I’m not sure how realistic that is once everyone gets busy with their own paths. I just don’t wanna feel like I’m walking away from a good thing, even if it’s not the perfect fit for me, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the guiding phase with only two turns completed. More exploration of the client's feelings and motivations is needed, especially around the decision to switch programs. The client has expressed ambivalence, torn between current connections and desired career focus.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's great that you've been thinking about ways to maintain your connections, even if you switch programs. It's also important to consider how you might feel in the long run if you choose to stay in a program that doesn't align with your true passions. Do you think the potential fulfillment of a career in social work might outweigh the temporary discomfort of starting over and potentially losing some connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "**Client:** I mean, yeah, I think deep down I know that following my passion for counseling could be way more rewarding in the end, even if it’s tough at first. I’m just kinda stuck on how to weigh that against the comfort of staying where I am, and I guess I’m scared of regretting either choice, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear discrepancy between their current program and their values, with a specific interest in counseling. Change Talk is present with an inclination towards a Master of Social Work program. Ambivalence remains but is decreasing. Confidence is implicitly ≥6 as they recognize potential long-term fulfillment. With three turns in Guiding and specific change goals emerging, it's appropriate to move to Choosing.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you're balancing the comfort of familiarity with the potential fulfillment of pursuing your true passions. What would it look like for you to take a small step toward exploring the MSW program, while also honoring your connections in your current program?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "**Client:** Honestly, I think taking a small step could mean maybe talking to someone in an MSW program or even shadowing a social worker for a day to get a feel for it, without fully committing yet. I just don’t know how to start that process without feeling like I’m already one foot out the door with my current program, you know?",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client is exploring small steps to transition towards an MSW program while maintaining connections. However, with only one turn in the Choosing phase, further discussion on action plans and barriers is needed.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach—starting with a conversation or shadowing experience to gain more insight without making a full commitment. Maybe we could explore what that first conversation might look like, or how you might phrase your interest to someone in an MSW program. How would you feel about reaching out to a professor or advisor in the MSW department, for example?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "**Client:** I think reaching out to a professor or advisor in the MSW department could be a good starting point, like just asking for some basic info or advice on the program. I’m kinda nervous though, ‘cause I don’t wanna come off like I’m already set on leaving my current program, you know, and I’m not even sure what questions to ask yet.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has shown commitment by considering small steps towards exploring the MSW program, such as reaching out to professors. They are also reflecting on maintaining connections in the current program. However, as there have been less than 3 turns in the Choosing phase, more exploration is needed to solidify the action plan.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It's great that you're open to reaching out to a professor or advisor in the MSW department, and it's completely understandable that you'd want to approach this conversation carefully. Perhaps you could frame your inquiry as a way to explore possibilities for your future, rather than a declaration of leaving your current program. This could help you feel more comfortable and open up the conversation for mutual exploration of options.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "**Client:** Yeah, that makes sense—framing it as just exploring options feels a lot less heavy than making it seem like I’m ready to jump ship. I guess I could just say something like, 'I’m curious about the MSW path and how it might align with my interest in counseling,' but I’m still kinda unsure how to even find the right person to talk to or start that convo without feeling awkward.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a specific action (reaching out to a professor/advisor) and discussed potential barriers (nervousness, how to approach the conversation). They have shown readiness to take a small step (exploring the MSW program) and confidence in their preferred direction (counseling focus). Since the Choosing phase goals are met, it's appropriate to move to Terminating.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Today, you've taken a significant step by exploring your feelings and concerns about your current program and considering alternative paths. It's important to recognize your passion for counseling and emotional support, and that's something to be proud of. As we discussed, reaching out to an MSW advisor or professor is a small but meaningful step in understanding your options. It's okay to feel nervous about starting this conversation, but remember that it's about exploring possibilities rather than making a final decision. When you're ready, you could start by framing your inquiry as a way to learn more about the MSW program and its alignment with your interests in counseling. You might say something like, 'I'm curious about the MSW path and how it might align with my interest in counseling.' Be gentle with yourself throughout this process, and remember that you have the support of your peers and mentors, even as you explore new opportunities. Keep in mind that taking small steps can help you feel more comfortable and confident as you navigate this decision-making process.",
+      "phase": "terminating"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "**Client:** Thanks for breaking it down like that—it really helps to hear that taking small steps is okay and that I don’t have to have it all figured out right away. So, um, do you think I should just email someone in the MSW department to start, or is there a better way to approach this without it feeling so formal?",
+      "phase": "terminating"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a next-step plan of reaching out to the MSW department, but seems unsure about how to begin this process. More guidance may be needed to ensure clarity and comfort in taking steps.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "You're welcome! I'm glad that breaking it down helped. 🌟 As for reaching out to someone in the MSW department, an email is a great way to start, as it gives you time to craft your message thoughtfully. You could also consider stopping by their office hours or attending an MSW information session if available. Remember, the goal is to start a conversation, not to make a decision. Feel free to be casual and genuine in your approach. You could say something like, 'Hi, I'm a student in the School Psychology program and I'm curious about the MSW path and how it might align with my interest in counseling. I'd love to learn more about the program and any advice you might have for someone considering this path.' Take your time, and don't hesitate to reach out to me if you need further guidance or support. You've got this! 💪",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "**Client:** Thanks for the suggestion, I think starting with an email feels doable and less intimidating. So, um, should I mention anything about still being in my current program, or just keep it focused on being curious about MSW?",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "{{\n\"reasoning\": \"The conversation successfully summarized goals and coping strategies, and an actionable next step was formulated (emailing an MSW advisor). The client feels comfortable with this step, indicating readiness to conclude.\",\n\"determination\": \"stop\"\n}}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our session today! I'm here to listen and help you explore your thoughts, feelings, or concerns. Feel free to share whatever is on your mind - I'm all ears. 🌟\nclient: Thanks for being here to chat. I’m just really unsure if I’m on the right path with my School Psychology program and could use some guidance on figuring this out.\n\nTherapist: I'm glad you reached out to talk about this. Can you tell me more about what’s making you question if School Psychology is the right fit for you?\n\nAssistant: Yeah, for sure. I’m just not that into the idea of doing a ton of cognitive testing, like IQ stuff, which I hear is a big part of the job, and I’m way more drawn to the counseling and emotional support side of working with kids.\ntherapist: It sounds like you're drawn to the counseling and emotional support aspects of working with kids, but you're concerned about the heavy emphasis on cognitive testing in School Psychology. That's a valid concern. Can you tell me more about what makes you feel this way?\nclient: Yeah, exactly. I just feel like I’d be so much happier sitting down with kids, helping them through their feelings and struggles, rather than spending hours on assessments that don’t really light me up, you know? Like, I get that testing is important, but it’s just not my thing, and I’m worried I’ll end up stuck doing something I don’t love.\ntherapist: That makes a lot of sense, and it's really admirable that you're considering what would bring you fulfillment in your career. It sounds like you're craving a role where you can connect with kids and support them emotionally, rather than just focusing on testing. Have you thought about other fields or roles that might align more closely with your interests and values?\nclient: Yeah, I’ve been thinking about maybe switching to a Master of Social Work program because I feel like that might focus more on the counseling stuff I’m into. I’m just kinda torn since I really like the people in my current program, and I’m scared to make a big change like that, you know?\ntherapist: It's completely normal to feel torn between staying in a program with people you like and pursuing a different path that might better align with your interests and values. Can you tell me more about what's holding you back from making the switch to a Master of Social Work program?\nclient: Yeah, I guess it’s mostly the fear of starting over and leaving behind this awesome group of people I’ve connected with. Like, I don’t want to lose the support and friendships I’ve built, but at the same time, I’m worried I’ll regret sticking with something that doesn’t fully feel like “me,” you know?\ntherapist: It sounds like you're really valuing the connections you've made in your current program, and that's completely understandable. On the other hand, it's also important to consider how fulfilling a career in social work could be for you, given your passion for counseling and emotional support. Have you thought about ways you might be able to maintain some of those connections even if you were to switch programs?\nclient: **Client:** Yeah, I’ve thought about it a little, like maybe staying in touch through group chats or meeting up outside of school stuff, but I’m not sure how realistic that is once everyone gets busy with their own paths. I just don’t wanna feel like I’m walking away from a good thing, even if it’s not the perfect fit for me, you know?\ntherapist: It's great that you've been thinking about ways to maintain your connections, even if you switch programs. It's also important to consider how you might feel in the long run if you choose to stay in a program that doesn't align with your true passions. Do you think the potential fulfillment of a career in social work might outweigh the temporary discomfort of starting over and potentially losing some connections?\nclient: **Client:** I mean, yeah, I think deep down I know that following my passion for counseling could be way more rewarding in the end, even if it’s tough at first. I’m just kinda stuck on how to weigh that against the comfort of staying where I am, and I guess I’m scared of regretting either choice, you know?\ntherapist: It sounds like you're balancing the comfort of familiarity with the potential fulfillment of pursuing your true passions. What would it look like for you to take a small step toward exploring the MSW program, while also honoring your connections in your current program?\nclient: **Client:** Honestly, I think taking a small step could mean maybe talking to someone in an MSW program or even shadowing a social worker for a day to get a feel for it, without fully committing yet. I just don’t know how to start that process without feeling like I’m already one foot out the door with my current program, you know?\ntherapist: That sounds like a thoughtful approach—starting with a conversation or shadowing experience to gain more insight without making a full commitment. Maybe we could explore what that first conversation might look like, or how you might phrase your interest to someone in an MSW program. How would you feel about reaching out to a professor or advisor in the MSW department, for example?\nclient: **Client:** I think reaching out to a professor or advisor in the MSW department could be a good starting point, like just asking for some basic info or advice on the program. I’m kinda nervous though, ‘cause I don’t wanna come off like I’m already set on leaving my current program, you know, and I’m not even sure what questions to ask yet.\ntherapist: It's great that you're open to reaching out to a professor or advisor in the MSW department, and it's completely understandable that you'd want to approach this conversation carefully. Perhaps you could frame your inquiry as a way to explore possibilities for your future, rather than a declaration of leaving your current program. This could help you feel more comfortable and open up the conversation for mutual exploration of options.\nclient: **Client:** Yeah, that makes sense—framing it as just exploring options feels a lot less heavy than making it seem like I’m ready to jump ship. I guess I could just say something like, 'I’m curious about the MSW path and how it might align with my interest in counseling,' but I’m still kinda unsure how to even find the right person to talk to or start that convo without feeling awkward.\ntherapist: Today, you've taken a significant step by exploring your feelings and concerns about your current program and considering alternative paths. It's important to recognize your passion for counseling and emotional support, and that's something to be proud of. As we discussed, reaching out to an MSW advisor or professor is a small but meaningful step in understanding your options. It's okay to feel nervous about starting this conversation, but remember that it's about exploring possibilities rather than making a final decision. When you're ready, you could start by framing your inquiry as a way to learn more about the MSW program and its alignment with your interests in counseling. You might say something like, 'I'm curious about the MSW path and how it might align with my interest in counseling.' Be gentle with yourself throughout this process, and remember that you have the support of your peers and mentors, even as you explore new opportunities. Keep in mind that taking small steps can help you feel more comfortable and confident as you navigate this decision-making process.\nclient: **Client:** Thanks for breaking it down like that—it really helps to hear that taking small steps is okay and that I don’t have to have it all figured out right away. So, um, do you think I should just email someone in the MSW department to start, or is there a better way to approach this without it feeling so formal?\ntherapist: You're welcome! I'm glad that breaking it down helped. 🌟 As for reaching out to someone in the MSW department, an email is a great way to start, as it gives you time to craft your message thoughtfully. You could also consider stopping by their office hours or attending an MSW information session if available. Remember, the goal is to start a conversation, not to make a decision. Feel free to be casual and genuine in your approach. You could say something like, 'Hi, I'm a student in the School Psychology program and I'm curious about the MSW path and how it might align with my interest in counseling. I'd love to learn more about the program and any advice you might have for someone considering this path.' Take your time, and don't hesitate to reach out to me if you need further guidance or support. You've got this! 💪\nclient: **Client:** Thanks for the suggestion, I think starting with an email feels doable and less intimidating. So, um, should I mention anything about still being in my current program, or just keep it focused on being curious about MSW?",
+  "completed": true
+}

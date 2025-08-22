@@ -1,0 +1,226 @@
+{
+  "id": "wljagq",
+  "timestamp": 1660176000000,
+  "category": "emotional",
+  "concern": "I’ve officially just joined my lab and I’ve been having a rough first couple months trying to get a complicated  cloning project to work. I’m inexperienced in molecular cloning, but I’m now on my twelfth (!) attempt and I’m feeling very down and it’s hard not to take it to heart. \n\nI’ve made various mistakes along the way. Once, on attempt 9 I did something truly stupid (wrong antibiotic lol) but I caught and fixed it quickly and it just took a few extra hours. Once we ran out of a key reagent because someone left an empty tube in a box and never ordered more (it was difficult to see it was empty before I thawed it) so I had to start over. Another time the undergrad intern used all 30 vials of the bacteria I needed the morning I needed them, without informing anyone. So my fault for only checking the freezer the morning of the experiment and not immediately before starting, but also in my opinion this is a broader lab organization issue. The other times were issues by relying on protocols that were not well-optimized for my project (par for the course I guess). The latest is that I now need to re-design most of my strategy as I was following the instructions of someone who did a cloning project with the same backbone only to find that their instructions were incorrect and ignored a key gene in the vector. This is something I feel awful for not catching sooner in hindsight but again, I am inexperienced so it did not jump out to me until my PI finally noticed it today. \n\nI’m not repeating the same mistakes but the sheer number of mistakes on the same step of a project is making me feel like I’m the problem. It’s driving me crazy and I keep going back and forth on how much of it is my fault or just unfortunate.\n\nTLDR: How do you guys handle the kind of mistakes where you don’t know what you can do better except gain knowledge and experience over time? How do you not cry in the shower everyday? Send help 😂",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome to our session today! I'm here to listen and support you in any way I can. Please feel free to share whatever's on your mind, and we'll work together to navigate it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks for having me. I’m just really struggling with feeling like a failure in my lab work lately, and I’m not sure how to deal with it.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in its initial stage with only one turn completed. The client has shared their concern in detail, but the therapist needs to engage further to build rapport, explore emotions, and elicit more of the client's story and context before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really tough, and I'm here to listen. Can you tell me more about what's been going on in the lab that's making you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Yeah, it’s just been a rough start with a project that’s not going anywhere, and I keep running into issues. I feel like I’m letting myself and my team down, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is only two turns long, and the therapist has begun to elicit the client's story about their struggles in the lab. More exploration is needed to fully understand the client's thoughts and context before transitioning to guiding.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're really hard on yourself, and it's understandable that you'd feel frustrated and disappointed when things aren't going as planned. Can you tell me more about what specifically has been causing these issues with your project?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Yeah, it’s just a mix of things piling up, and I keep hitting roadblocks that make me question if I’m cut out for this. I’m trying to figure out how much is on me versus just bad luck or stuff I couldn’t control.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"Three conversation turns have provided a clear understanding of the client's concerns and context in the lab, including specific examples of obstacles and feelings of inadequacy. Empathy and rapport have been established, as the therapist validated the client's feelings and prompted elaboration. Although the conversation was limited to three turns, the client’s story is sufficiently understood to strengthen motivation for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're caught in a cycle of frustration, questioning your abilities, and feeling overwhelmed by the challenges you're facing in your lab work. That must be really disheartening, especially when you're trying to understand what's within your control and what isn't. Can you help me understand what's been going through your mind when you hit these roadblocks?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, when I hit these roadblocks, I just spiral into thinking I’m not good enough and that I’m wasting everyone’s time. It’s like every setback feels super personal, even if I know logically some stuff is out of my hands.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only one turn. The client is expressing frustration and self-doubt, and the therapist has begun to explore these feelings. More engagement is needed to evoke Change Talk and clarify goals before moving to the Choosing phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "I can hear how much this struggle is weighing on you, and how these setbacks are really chipping away at your confidence. It sounds like you're holding yourself to a pretty high standard, and that's adding to the pressure you're feeling. Can you tell me more about what it would be like if you could let go of some of that self-criticism, just for a moment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, letting go of the self-criticism sounds like a relief, but I don’t even know where to start with that. It’s like my brain just defaults to beating myself up every time something goes wrong, and I’m not sure how to flip that switch.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire to change (Change Talk) and has identified self-criticism as a key issue. The therapist has explored the client's feelings and experiences but not yet set specific goals or addressed confidence. With only 2 turns in the guiding phase, it's important to continue exploring and strengthening motivation before moving to specific action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "I can see how deeply ingrained this pattern of self-criticism has become for you, and how it’s affecting your ability to move forward with your project. It sounds like you're caught between wanting to hold yourself accountable and feeling overwhelmed by the pressure you're putting on yourself. Can you think of a time when you were able to handle a setback without being so hard on yourself, even if it was just for a moment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yeah, I think there was a time early on in undergrad when I messed up a pretty simple experiment, but I just kinda shrugged it off and moved on without overthinking it. I guess back then I didn’t feel like so much was riding on every little thing, so it was easier to let it go.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the guiding phase, with only 3 turns related to exploring the client's feelings and struggles. There hasn't been substantial Change Talk or a specific change goal identified yet, and the client is still expressing ambivalence about their performance and circumstances. Continuing to guide is necessary to evoke more Change Talk and address ambivalence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you were able to approach that setback with a bit more ease back then, without getting caught up in the self-criticism that you're experiencing now. I wonder what it would be like if you could tap into that same mindset and approach your current challenges with a bit more curiosity and less judgment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, that sounds kinda nice, like taking a weight off my shoulders, but I’m not sure how to get back to that headspace with everything feeling so high-stakes now. I guess I just feel like there’s so much more pressure to perform, and I don’t know how to shake that off and just be curious instead of stressed.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client is expressing significant ambivalence and self-criticism about their lab work, but they have also shown a desire to shift their mindset. Change Talk is emerging as they express interest in reducing self-criticism. However, they have not yet identified specific change goals or steps, and confidence levels are not assessed. More exploration is needed to strengthen motivation.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You're right, it's not easy to let go of that pressure, especially when it feels like so much is riding on your performance. But maybe, just maybe, that pressure is a signal that you care deeply about what you're doing, and that you're committed to doing your best. If you could find a way to channel that pressure into curiosity, rather than self-criticism, what might that look like?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Honestly, I think channeling that pressure into curiosity would mean stepping back and asking myself what I can learn from each mess-up instead of just feeling like a failure. Like, maybe treating each attempt as a puzzle to solve rather than a test of my worth, but I’m not sure how to actually make that mental shift when I’m in the thick of it.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has shown increased reflection and expressed a desire to shift from self-criticism to curiosity. Change Talk is present and a specific change goal is identified—approaching setbacks with curiosity. The session has addressed discrepancy and explored life with/without change. Given the progress and the presence of a specific next step, it's appropriate to move to the Choosing phase.\",\n  \"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It's interesting how you're already touching on a key difference between a fixed mindset and a growth mindset. By framing setbacks as opportunities for learning, rather than as threats to your self-worth, you're opening up space for curiosity and growth. What if you were to create a small ritual or reminder for yourself to make that shift in mindset when you're in the midst of a setback?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "I like the idea of a ritual or reminder to kinda snap me out of the negative spiral when things go wrong. Maybe I could, like, write down one thing I learned after each failed attempt or even just take a quick breather to reset my head before diving back in—do you think something small like that could help?",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a potential strategy to shift their mindset (using a ritual or reminder) and is contemplating its implementation. However, with only one turn in the Choosing phase, additional sessions are necessary to solidify the plan and address barriers, ensuring the client is ready for termination.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Absolutely, even a small shift in perspective can make a big difference in how you approach challenges. I love the idea of writing down one thing you learned or taking a quick breather - it's all about creating those moments of reflection and self-compassion. What do you think might be the easiest way to start incorporating one of those practices into your daily routine, especially when you're feeling the pressure?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Honestly, I think starting with just taking a quick breather might be the easiest to slip into my routine, especially since I’m usually so wrapped up in the moment when things go sideways. Like, I could step away for a minute, take a few deep breaths by the lab sink or something, and just remind myself it’s okay to mess up before jumping back in—do you think that’s a realistic starting point?",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear action of taking a breather when feeling overwhelmed, which is a concrete step towards managing self-criticism. Barriers have been discussed, such as the pressure to perform, and self-monitoring through reflection has been agreed upon. However, only 2 turns have occurred in this phase, so it's necessary to continue to ensure readiness for implementing the plan.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "I think that's a great starting point. It's simple, accessible, and gives you a chance to pause and reset. You could even pair it with a brief phrase or mantra to reinforce that mental shift, like \"It's okay to mess up\" or \"Let's learn from this.\" What do you think might be the biggest challenge in sticking with this new habit when you're in the middle of a high-pressure moment?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Honestly, I think the biggest challenge will be remembering to actually step away when I’m super stressed and caught up in the frustration of a failed attempt. Like, in the heat of the moment, I might just keep pushing through instead of taking that breather, so I’m worried I’ll forget or feel like I don’t have time to pause.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has established a clear goal of channeling pressure into curiosity through small rituals like taking a breather. They have discussed barriers and agreed on self-monitoring strategies. The conversation has shown commitment and taking-steps talk, indicating readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "You've made great progress in this session by identifying the potential benefits of creating a ritual to shift your mindset during setbacks. Remember, starting small and being consistent with your new habit, like taking a quick breather, is key. Pairing this practice with a mantra or phrase can help reinforce that mental shift and remind you to pause and reflect, even when you're feeling stressed.\nTo overcome the challenge of remembering to step away in high-pressure moments, consider setting a specific reminder, such as a post-it note on your lab bench or a timer on your phone, to prompt you to pause and take a few deep breaths. It's also important to be patient with yourself and acknowledge that developing new habits takes time and practice.\nRemember, setbacks are an inevitable part of the learning process, and by viewing them as opportunities for growth and self-compassion, you can break the cycle of self-criticism and pressure. Keep in mind that it's okay to mess up, and every failure brings you closer to success.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the reminder ideas—I think a post-it note on my bench could really help jog my memory when I’m spiraling. I’ll give that a shot and see how it goes, even if it feels a bit weird at first. So, before we wrap up, do you have any other quick tips for staying patient with myself when I’m feeling like I’m not getting anywhere?",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "{{\"reasoning\": \"Termination goals met with summary, coping strategy, and next steps discussed. Natural closure was invited.\", \"determination\": \"stop\"}}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome to our session today! I'm here to listen and support you in any way I can. Please feel free to share whatever's on your mind, and we'll work together to navigate it.\nclient: Thanks for having me. I’m just really struggling with feeling like a failure in my lab work lately, and I’m not sure how to deal with it.\ntherapist: That sounds really tough, and I'm here to listen. Can you tell me more about what's been going on in the lab that's making you feel this way?\nclient: client: Yeah, it’s just been a rough start with a project that’s not going anywhere, and I keep running into issues. I feel like I’m letting myself and my team down, you know?\ntherapist: It sounds like you're really hard on yourself, and it's understandable that you'd feel frustrated and disappointed when things aren't going as planned. Can you tell me more about what specifically has been causing these issues with your project?\nclient: client: Yeah, it’s just a mix of things piling up, and I keep hitting roadblocks that make me question if I’m cut out for this. I’m trying to figure out how much is on me versus just bad luck or stuff I couldn’t control.\ntherapist: It sounds like you're caught in a cycle of frustration, questioning your abilities, and feeling overwhelmed by the challenges you're facing in your lab work. That must be really disheartening, especially when you're trying to understand what's within your control and what isn't. Can you help me understand what's been going through your mind when you hit these roadblocks?\nclient: Yeah, when I hit these roadblocks, I just spiral into thinking I’m not good enough and that I’m wasting everyone’s time. It’s like every setback feels super personal, even if I know logically some stuff is out of my hands.\ntherapist: I can hear how much this struggle is weighing on you, and how these setbacks are really chipping away at your confidence. It sounds like you're holding yourself to a pretty high standard, and that's adding to the pressure you're feeling. Can you tell me more about what it would be like if you could let go of some of that self-criticism, just for a moment?\nclient: Honestly, letting go of the self-criticism sounds like a relief, but I don’t even know where to start with that. It’s like my brain just defaults to beating myself up every time something goes wrong, and I’m not sure how to flip that switch.\ntherapist: I can see how deeply ingrained this pattern of self-criticism has become for you, and how it’s affecting your ability to move forward with your project. It sounds like you're caught between wanting to hold yourself accountable and feeling overwhelmed by the pressure you're putting on yourself. Can you think of a time when you were able to handle a setback without being so hard on yourself, even if it was just for a moment?\nclient: Yeah, I think there was a time early on in undergrad when I messed up a pretty simple experiment, but I just kinda shrugged it off and moved on without overthinking it. I guess back then I didn’t feel like so much was riding on every little thing, so it was easier to let it go.\ntherapist: It sounds like you were able to approach that setback with a bit more ease back then, without getting caught up in the self-criticism that you're experiencing now. I wonder what it would be like if you could tap into that same mindset and approach your current challenges with a bit more curiosity and less judgment?\nclient: Honestly, that sounds kinda nice, like taking a weight off my shoulders, but I’m not sure how to get back to that headspace with everything feeling so high-stakes now. I guess I just feel like there’s so much more pressure to perform, and I don’t know how to shake that off and just be curious instead of stressed.\ntherapist: You're right, it's not easy to let go of that pressure, especially when it feels like so much is riding on your performance. But maybe, just maybe, that pressure is a signal that you care deeply about what you're doing, and that you're committed to doing your best. If you could find a way to channel that pressure into curiosity, rather than self-criticism, what might that look like?\nclient: Honestly, I think channeling that pressure into curiosity would mean stepping back and asking myself what I can learn from each mess-up instead of just feeling like a failure. Like, maybe treating each attempt as a puzzle to solve rather than a test of my worth, but I’m not sure how to actually make that mental shift when I’m in the thick of it.\ntherapist: It's interesting how you're already touching on a key difference between a fixed mindset and a growth mindset. By framing setbacks as opportunities for learning, rather than as threats to your self-worth, you're opening up space for curiosity and growth. What if you were to create a small ritual or reminder for yourself to make that shift in mindset when you're in the midst of a setback?\nclient: I like the idea of a ritual or reminder to kinda snap me out of the negative spiral when things go wrong. Maybe I could, like, write down one thing I learned after each failed attempt or even just take a quick breather to reset my head before diving back in—do you think something small like that could help?\ntherapist: Absolutely, even a small shift in perspective can make a big difference in how you approach challenges. I love the idea of writing down one thing you learned or taking a quick breather - it's all about creating those moments of reflection and self-compassion. What do you think might be the easiest way to start incorporating one of those practices into your daily routine, especially when you're feeling the pressure?\nclient: Honestly, I think starting with just taking a quick breather might be the easiest to slip into my routine, especially since I’m usually so wrapped up in the moment when things go sideways. Like, I could step away for a minute, take a few deep breaths by the lab sink or something, and just remind myself it’s okay to mess up before jumping back in—do you think that’s a realistic starting point?\ntherapist: I think that's a great starting point. It's simple, accessible, and gives you a chance to pause and reset. You could even pair it with a brief phrase or mantra to reinforce that mental shift, like \"It's okay to mess up\" or \"Let's learn from this.\" What do you think might be the biggest challenge in sticking with this new habit when you're in the middle of a high-pressure moment?\nclient: Honestly, I think the biggest challenge will be remembering to actually step away when I’m super stressed and caught up in the frustration of a failed attempt. Like, in the heat of the moment, I might just keep pushing through instead of taking that breather, so I’m worried I’ll forget or feel like I don’t have time to pause.\ntherapist: You've made great progress in this session by identifying the potential benefits of creating a ritual to shift your mindset during setbacks. Remember, starting small and being consistent with your new habit, like taking a quick breather, is key. Pairing this practice with a mantra or phrase can help reinforce that mental shift and remind you to pause and reflect, even when you're feeling stressed.\nTo overcome the challenge of remembering to step away in high-pressure moments, consider setting a specific reminder, such as a post-it note on your lab bench or a timer on your phone, to prompt you to pause and take a few deep breaths. It's also important to be patient with yourself and acknowledge that developing new habits takes time and practice.\nRemember, setbacks are an inevitable part of the learning process, and by viewing them as opportunities for growth and self-compassion, you can break the cycle of self-criticism and pressure. Keep in mind that it's okay to mess up, and every failure brings you closer to success.\nclient: Thanks for the reminder ideas—I think a post-it note on my bench could really help jog my memory when I’m spiraling. I’ll give that a shot and see how it goes, even if it feels a bit weird at first. So, before we wrap up, do you have any other quick tips for staying patient with myself when I’m feeling like I’m not getting anywhere?",
+  "completed": true
+}
