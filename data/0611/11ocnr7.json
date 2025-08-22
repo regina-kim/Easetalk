@@ -1,0 +1,118 @@
+{
+  "id": "11ocnr7",
+  "timestamp": 1678492800000,
+  "category": "academic",
+  "concern": "So, the financial aid awards just came out for UC. The total cost for attendance is 41k a year. However, my EFC is 44k, so I get no aid. Does this mean I could only pay for one year of college? What pisses me off right now is how close my EFC is to the cost of attendance. What should I do now? Maybe I'm just stressing for no reason since this is my first year, if so, please tell me.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hey there! What's on your mind today? Is there anything specific you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I'm really stressed about my college finances and how it's affecting my future. I'd like to talk about ways to manage this anxiety.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist opened with an open question, eliciting the client's story about financial stress. The client expressed clear concerns and emotions, which the therapist could reflect to demonstrate empathy and build rapport. While the client voiced anxiety and frustration, there is no explicit evidence of Change Talk yet, nor a mutual agreement on goals beyond initial exploration. The client is seeking guidance on managing stress, indicating readiness but has not yet linked change to personal values or requested specific next steps. Resistance is minimal, but the session remains in the information-gathering and emotional expression phase.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "College finances can be a major source of stress. It's totally understandable that you're feeling anxious about it. Let's explore your concerns a bit more. Can you tell me more about your financial situation and what's causing the most stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm dealing with a tight financial situation where my family's contributions barely cover college costs, leading to major worries about affordability. The biggest stress is the uncertainty of managing this gap over multiple years and how it might limit my future opportunities.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has effectively elicited the client's story and reflected the client's financial concerns empathetically, demonstrating rapport and psychological safety. The client expresses strong Change Talk by linking their financial stress to future opportunities and explicitly asking for advice on next steps, showing readiness signals. There is minimal resistance or Sustain Talk present. Session goals (managing anxiety about college finances) are clear and mutually acknowledged. Given the presence of multiple strong Change Talk utterances and the client's direct request for guidance, the session is ready to advance from Exploring to Guiding.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That's a tough spot to be in. Uncertainty about the future can be really anxiety-provoking. It sounds like you're worried that financial constraints might limit your opportunities. Have you thought about any potential solutions or resources that might help ease this stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I've been considering options like scholarships and part-time jobs to help cover the costs. I'm hoping these could alleviate some of my anxiety about long-term affordability and future prospects.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has explored the client's financial stress and elicited potential solutions like scholarships and part-time jobs, indicating the client is beginning to consider change. The client expresses clear concerns and hopes for alleviation, showing some motivation. However, there is no explicit Commitment, Activation, or Taking-steps (C-A-T) Change Talk such as 'I will apply for scholarships' or 'I am ready to start a job.' Ambivalence remains as the client questions whether their stress is justified. The therapist has not yet used importance/confidence rulers or values clarification to solidify motivation. Thus, Guiding objectives are partially met but readiness signals are insufficient to advance.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's great that you're considering options like scholarships and part-time jobs. Taking proactive steps can help you regain a sense of control and reduce anxiety. As you explore these options, remember to prioritize your well-being and balance your commitments to avoid burnout. Is there any specific scholarship or job opportunity you're planning to pursue first?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I'm planning to apply for a few general scholarships first to help with the costs. I'm also exploring on-campus part-time jobs as my initial step to manage this financial challenge.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has effectively guided the client to articulate specific steps (applying for scholarships, exploring on-campus jobs) to address financial stress, fulfilling the Guiding phase objectives. The client expressed concrete plans and showed activation with \\\"I'm planning to apply...\\\" and \\\"I'm also exploring...\\\" indicating commitment and movement towards change. The therapist provided affirmations and reflections that helped the client consider solutions. Ambivalence appears reduced, and the client’s concern about finances is explored with potential actions in mind. These elements support readiness to progress to Choosing, where specific action plans can be developed.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That's a solid plan! It's wise to start with general scholarships and on-campus job opportunities, as they can provide a strong foundation for your financial strategy. As you begin this process, remember to stay organized and keep track of application deadlines to maximize your chances of success. How will you ensure you stay on top of these tasks?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'll use a digital planner to set reminders for scholarship deadlines and job applications, helping me stay organized amid my financial worries. I also plan to check in weekly with a friend or advisor to keep myself accountable and maintain a balanced routine.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has selected clear, specific goals: applying for general scholarships and exploring on-campus part-time jobs, demonstrating a SMART approach. They have established concrete steps using a digital planner for reminders and weekly accountability check-ins with a friend or advisor, indicating a monitoring strategy. Anticipated barriers such as financial worry and maintaining balance were addressed with strategies like prioritizing well-being and accountability. The client expressed commitment by outlining actionable plans and methods to stay organized and accountable, signaling readiness. The dialogue naturally oriented towards next steps and follow-up, meeting Choosing phase criteria.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's great to see you're taking proactive steps and planning to use a digital planner to stay organized. Regular check-ins with a friend or advisor can provide valuable support and accountability. Keep in mind that managing financial concerns is a process, so be patient with yourself and celebrate small victories along the way. We can plan to touch base in two weeks to discuss your progress and address any new challenges that may arise. Remember, you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'll follow up in two weeks as planned and keep pushing forward with scholarships and jobs to ease my financial stress. Thanks for the support.",
+      "phase": "terminating"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist summarized key goals and action steps, such as applying for scholarships and part-time jobs, using a digital planner for organization, and checking in with a friend or advisor. The client acknowledged the summary, expressed readiness to follow up in two weeks, and appreciated the support. A next-step follow-up session was explicitly arranged. The dialogue includes a gentle closure invitation with a clear plan for continued support, fulfilling the termination objectives. Therefore, natural session closure is appropriate at this point.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hey there! What's on your mind today? Is there anything specific you'd like to talk about?\nclient: I'm really stressed about my college finances and how it's affecting my future. I'd like to talk about ways to manage this anxiety.\ntherapist: College finances can be a major source of stress. It's totally understandable that you're feeling anxious about it. Let's explore your concerns a bit more. Can you tell me more about your financial situation and what's causing the most stress?\nclient: I'm dealing with a tight financial situation where my family's contributions barely cover college costs, leading to major worries about affordability. The biggest stress is the uncertainty of managing this gap over multiple years and how it might limit my future opportunities.\ntherapist: That's a tough spot to be in. Uncertainty about the future can be really anxiety-provoking. It sounds like you're worried that financial constraints might limit your opportunities. Have you thought about any potential solutions or resources that might help ease this stress?\nclient: I've been considering options like scholarships and part-time jobs to help cover the costs. I'm hoping these could alleviate some of my anxiety about long-term affordability and future prospects.\ntherapist: It's great that you're considering options like scholarships and part-time jobs. Taking proactive steps can help you regain a sense of control and reduce anxiety. As you explore these options, remember to prioritize your well-being and balance your commitments to avoid burnout. Is there any specific scholarship or job opportunity you're planning to pursue first?\nclient: I'm planning to apply for a few general scholarships first to help with the costs. I'm also exploring on-campus part-time jobs as my initial step to manage this financial challenge.\ntherapist: That's a solid plan! It's wise to start with general scholarships and on-campus job opportunities, as they can provide a strong foundation for your financial strategy. As you begin this process, remember to stay organized and keep track of application deadlines to maximize your chances of success. How will you ensure you stay on top of these tasks?\nclient: I'll use a digital planner to set reminders for scholarship deadlines and job applications, helping me stay organized amid my financial worries. I also plan to check in weekly with a friend or advisor to keep myself accountable and maintain a balanced routine.\ntherapist: It's great to see you're taking proactive steps and planning to use a digital planner to stay organized. Regular check-ins with a friend or advisor can provide valuable support and accountability. Keep in mind that managing financial concerns is a process, so be patient with yourself and celebrate small victories along the way. We can plan to touch base in two weeks to discuss your progress and address any new challenges that may arise. Remember, you've got this!\nclient: I'll follow up in two weeks as planned and keep pushing forward with scholarships and jobs to ease my financial stress. Thanks for the support.",
+  "completed": true
+}

@@ -1,0 +1,136 @@
+{
+  "id": "11yjrrd",
+  "timestamp": 1679443200000,
+  "category": "school_life",
+  "concern": "I’m a high school senior and want to just finish my bachelor degree and land a job that pays well and has good growth. What should I major in?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? Is there anything specific you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I'm feeling a bit anxious about my upcoming decisions. Yes, I'd like to talk about planning for my future career path.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has shared their primary concern about career planning, and the therapist has elicited this story through open questions. The therapist shows empathy by inviting the client to discuss feelings and concerns. The client expresses a clear goal related to education and employment, indicating psychological safety. However, there is limited evidence of Change Talk or sustained talk about motivation or values yet, and no explicit agreement on session goals or next steps. The conversation is still in early exploration without strong indications to proceed.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling anxious about your future, and that's totally understandable. Let's explore that a bit morewhat are some of the decisions you're facing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm mainly deciding on a college major that aligns with good career opportunities. I'm also thinking about how to choose one that leads to stable, growing job prospects.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist elicited the client's story about anxiety and specific concerns about career decisions, reflecting them empathetically. The client clearly expressed goals (choosing a major with good job prospects) and engaged openly without signs of resistance. However, there is no evident Change Talk indicating desire, ability, reason, or commitment to change yet. The client is still in the early stage of describing the situation rather than expressing motivation or linking change to personal values. Thus, Exploring objectives are substantially met, but readiness signals to move forward are insufficient.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That's a lot to consider! It's great that you're thinking about the future and wanting to make smart decisions. Have you identified any majors that interest you and also seem to have good career prospects?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I've been looking into majors like computer science or engineering because they seem to offer strong job growth and good salaries. I'm trying to weigh these options to ensure they align with stable career paths.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story about anxiety and career decisions and reflected it empathetically (turns 1, 3, 5). The client has shared specific concerns about choosing a major related to stable career prospects (turns 2, 4, 6). There is rapport and mutual agreement on discussing future career planning. While the client has expressed desire and reasons for change (choosing a major with good job prospects), there is limited explicit Change Talk or commitment statements yet. Resistance is minimal and psychological safety appears present. The conversation is progressing logically with exploration of the client's values and concerns but hasn't moved firmly into motivation strengthening or planning.\",\n  \"determination\": \"continue\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's clear that you're putting a lot of thought into this decision, and it's great that you're considering both your interests and the practical aspects of the majors. It can be helpful to gather more information about the specific career paths within these fields to get a better understanding of the stability and growth potential. Have you looked into any resources that provide more details about these career paths?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yes, I've checked out some online resources like the Bureau of Labor Statistics and career websites for data on job growth in fields like computer science. I'm using this information to narrow down options that offer the most stable and promising career paths.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has elicited the client's story about anxiety and career concerns, reflecting it empathetically throughout (turns 1, 3, 5, 7). The client openly shares detailed information about their decision-making process and resources consulted, indicating psychological safety and engagement. Session goals around exploring career planning are mutually acknowledged. However, there is minimal explicit Change Talk related to desire, ability, or commitment to change; the client mainly shares information without expressing motivation or personal values linked to change. Resistance is low. Given the lack of strong Change Talk and the exploratory nature of the dialogue, the session is ready to move into Guiding to strengthen motivation and evoke Change Talk.\",\n  \"determination\": \"move\"\n}",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're taking a very thoughtful and informed approach to your decision-making process. In addition to researching job growth and salary potential, have you considered reaching out to professionals in these fields or alumni from your school to gain firsthand perspectives on the day-to-day work and potential challenges in these careers? This could provide valuable insights as you continue to weigh your options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I've considered reaching out to professionals and alumni to learn more about the day-to-day realities and growth opportunities in fields like computer science. It's an approach I'm planning to take to ensure I choose a major that leads to a stable and rewarding career path.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has guided the client through exploring career options with a focus on stability and growth, affirming their thoughtful approach and prompting consideration of additional steps like informational interviews. The client articulated specific next steps (reaching out to professionals/alumni) and clearly values stable, well-paying careers, indicating internal motivation. However, explicit Change Talk statements expressing commitment to a particular major or concrete next steps are emerging but not yet fully formed. Ambivalence remains present but is decreasing. No importance/confidence rulers were used. Given the client is formulating specific action plans, the session is ready to advance to Choosing.\",\n  \"determination\": \"move\"\n}",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That's a great plan. As you connect with professionals and gather more insights, it might be helpful to create a list of specific questions to ask. This can ensure you get the most relevant information for your decision-making process. Would you like to brainstorm some questions you could ask during these conversations?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yes, I'd like to brainstorm some questions to make these conversations more effective. This will help me gather insights that align with my goals for a stable and growing career path.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The client has identified a clear goal of selecting a major with good career prospects and has formulated a concrete action plan: researching job growth data and planning to reach out to professionals and alumni with prepared questions. The therapist and client collaboratively developed a strategy to create specific questions to guide these conversations. The timeline is implicit (before finalizing the major), and the client expresses commitment to these steps without resistance. The conversation is focused on preparing for follow-up actions rather than revisiting prior content, indicating readiness to move forward.\",\n  \"determination\": \"move\"\n}",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's wonderful to see your dedication to making an informed decision about your future. You're taking important steps by researching job growth and salary potential, as well as planning to connect with professionals and alumni. Creating a list of specific questions for these conversations will help you gain valuable insights. Here are a few suggestions for questions you could ask\n\n1. What are the most rewarding aspects of working in this field?\n2. What are some challenges you've faced in your career and how did you overcome them?\n3. What skills and qualities are most important for success in this field?\n4. How has the industry evolved in recent years, and what trends do you foresee in the future?\n5. What advice would you give to someone starting their career in this field?\n\nAs you continue to gather information and connect with professionals, I'm confident you'll make a well-informed decision about your college major and future career path. I wish you all the best in your endeavors. Feel free to reach out again if you have any further questions or concerns.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks for the helpful questions I'll use them to explore majors like computer science and ensure I choose one that offers strong job growth and stability. I appreciate your support in this process.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "{\n  \"reasoning\": \"The therapist has effectively summarized the client's goals and action steps, including researching majors, using labor statistics, planning to contact professionals, and brainstorming questions. The client acknowledges the summary with appreciation and readiness to apply the suggestions. The therapist also offers an explicit closure invitation, encouraging the client to reach out if needed. These elements fulfill Termination phase objectives, making it natural to conclude the session now.\",\n  \"determination\": \"stop\"\n}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there! How are you feeling today? Is there anything specific you'd like to talk about?\nclient: I'm feeling a bit anxious about my upcoming decisions. Yes, I'd like to talk about planning for my future career path.\ntherapist: It sounds like you're feeling anxious about your future, and that's totally understandable. Let's explore that a bit morewhat are some of the decisions you're facing?\nclient: I'm mainly deciding on a college major that aligns with good career opportunities. I'm also thinking about how to choose one that leads to stable, growing job prospects.\ntherapist: That's a lot to consider! It's great that you're thinking about the future and wanting to make smart decisions. Have you identified any majors that interest you and also seem to have good career prospects?\nclient: I've been looking into majors like computer science or engineering because they seem to offer strong job growth and good salaries. I'm trying to weigh these options to ensure they align with stable career paths.\ntherapist: It's clear that you're putting a lot of thought into this decision, and it's great that you're considering both your interests and the practical aspects of the majors. It can be helpful to gather more information about the specific career paths within these fields to get a better understanding of the stability and growth potential. Have you looked into any resources that provide more details about these career paths?\nclient: Yes, I've checked out some online resources like the Bureau of Labor Statistics and career websites for data on job growth in fields like computer science. I'm using this information to narrow down options that offer the most stable and promising career paths.\ntherapist: It sounds like you're taking a very thoughtful and informed approach to your decision-making process. In addition to researching job growth and salary potential, have you considered reaching out to professionals in these fields or alumni from your school to gain firsthand perspectives on the day-to-day work and potential challenges in these careers? This could provide valuable insights as you continue to weigh your options.\nclient: I've considered reaching out to professionals and alumni to learn more about the day-to-day realities and growth opportunities in fields like computer science. It's an approach I'm planning to take to ensure I choose a major that leads to a stable and rewarding career path.\ntherapist: That's a great plan. As you connect with professionals and gather more insights, it might be helpful to create a list of specific questions to ask. This can ensure you get the most relevant information for your decision-making process. Would you like to brainstorm some questions you could ask during these conversations?\nclient: Yes, I'd like to brainstorm some questions to make these conversations more effective. This will help me gather insights that align with my goals for a stable and growing career path.\ntherapist: It's wonderful to see your dedication to making an informed decision about your future. You're taking important steps by researching job growth and salary potential, as well as planning to connect with professionals and alumni. Creating a list of specific questions for these conversations will help you gain valuable insights. Here are a few suggestions for questions you could ask\n\n1. What are the most rewarding aspects of working in this field?\n2. What are some challenges you've faced in your career and how did you overcome them?\n3. What skills and qualities are most important for success in this field?\n4. How has the industry evolved in recent years, and what trends do you foresee in the future?\n5. What advice would you give to someone starting their career in this field?\n\nAs you continue to gather information and connect with professionals, I'm confident you'll make a well-informed decision about your college major and future career path. I wish you all the best in your endeavors. Feel free to reach out again if you have any further questions or concerns.\nclient: Thanks for the helpful questions I'll use them to explore majors like computer science and ensure I choose one that offers strong job growth and stability. I appreciate your support in this process.",
+  "completed": true
+}
