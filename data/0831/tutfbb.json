@@ -1,0 +1,208 @@
+{
+  "id": "tutfbb",
+  "timestamp": 1648857600000,
+  "category": "school_life",
+  "concern": "How do I keep my head above the water and stop drowning as a somewhat useless phd student? I feel like I can’t cope.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! I'm glad you're here. What's on your mind today that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks. I've just been feeling really overwhelmed with everything in my PhD program. It's like I can't keep up no matter how hard I try.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in its initial stage with only one turn completed. More exploration is needed to fully understand the client's situation, thoughts, and feelings before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're really under a lot of pressure and it's been tough to manage all that's on your plate. Can you tell me more about what's making you feel overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, it's just the constant workload and expectations. I feel like I'm always behind, and it's hard not to feel like I'm failing at something every day.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had two turns, which is less than the minimum three turns required to determine if the exploring phase goals are met. The therapist has begun to understand the client's story, but more details and context are needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It seems like the high demands and expectations are making you feel like you're always playing catch-up, which must be really exhausting. What are some specific areas where you feel most challenged?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I guess it's mostly the research part. I'm supposed to be making progress, but I often feel lost and unsure of what I'm doing, which just adds to the stress.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The therapist has elicited the essence of the client's story, including their thoughts and relevant context regarding feeling overwhelmed in their PhD program. Empathy and rapport have been established, and the client has shared specific areas of challenge. Goals for addressing this stress have been mutually acknowledged. With 3 conversation turns, the Exploring phase goals have been met, so it's appropriate to move to Guiding.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the uncertainty in your research is really weighing on you. What do you imagine might change if you felt more confident in your research progress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I felt more confident, I think I'd be less anxious and maybe even excited about the work instead of dreading it. It might help me feel like I'm actually capable of completing this program without constantly doubting myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the initial stages of the Guiding phase with only one turn completed. The therapist has begun exploring the client's feelings and concerns but has not yet addressed discrepancy or evoked change talk. More exploration is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling more confident could really transform your experience. What would it be like for you if that anxiety shifted towards excitement in your daily life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it'd make a huge difference. I'd probably approach my work with more energy and less fear, and maybe even enjoy the process rather than seeing it as this overwhelming mountain I have to climb every day.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session is still in early stages with only two turns in the Guiding phase. The client has expressed a desire for increased confidence but specific change goals or next steps have not been identified yet. More exploration and evocation of Change Talk are needed to strengthen motivation and establish clear goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That sounds like a powerful shift. What steps do you think might help you start moving from fear to excitement in your research?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I guess just breaking things down into smaller, more manageable tasks could help. Maybe setting tiny goals and celebrating when I hit them might make the whole thing seem less daunting and more rewarding.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation indicates that the client has expressed a specific change goal (breaking tasks into smaller goals) and shown a shift towards potential excitement. With only 3 turns, it's best to continue exploring and reinforcing confidence to solidify readiness.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That sounds like a great approach. How do you think celebrating those small achievements might influence your feelings about the overall process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I guess it would probably help remind me that I'm making progress and that I'm not just stuck in one place. Celebrating those wins might also give me a bit of a confidence boost and make everything feel a bit more doable, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk, indicating a desire to move from anxiety to excitement. They've identified a specific change goal (breaking tasks into smaller steps) and seem more confident about this approach. The discussion has moved past exploring into planning specific strategies. Thus, it is appropriate to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Celebrating those wins sounds like a wonderful motivator. Would you like to set a specific small goal to start with, and consider how you might celebrate its achievement?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Yeah, that sounds like a good idea. Maybe I could aim to finish a specific section of my current project by next week, and if I hit it, treat myself to a nice coffee or something.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has identified a clear goal (finishing a specific section by next week) and an action plan (breaking tasks into smaller goals and celebrating achievements). Barriers related to workload and confidence have been discussed. The client expressed readiness by committing to a goal and a reward system. Since this is the first turn in the Choosing phase, continue to solidify the plan and monitor progress.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan! How about we outline what steps are needed to complete that section, and think about any potential challenges you might face along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Sure, that sounds helpful. I guess I'd need to first do a bit more research and then organize my notes into a coherent outline. The big challenge is probably staying focused and not getting sidetracked when things get tough.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal and action plan, with a strategy for potential challenges. They've expressed commitment by setting a specific task and reward. However, with only 2 turns in the Choosing phase, more discussion on barriers and self-monitoring would be beneficial for confidence building.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "To help with staying focused, maybe we could look at strategies like setting specific time blocks for work or finding an accountability buddy. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Yeah, I think setting specific time blocks could really help me manage my time better. An accountability buddy sounds good too—having someone to check in with might keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has set a clear goal and action plan to complete a section of their project and to celebrate small achievements. Potential barriers such as staying focused were discussed, and strategies like time blocks and accountability buddies were agreed upon as solutions. The client expressed confidence in the plan. The session has met the goals of the Choosing phase and covered potential barriers with solutions.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Great! It sounds like you're ready with a plan. To recap, your goals are to finish a section of your project by next week, supported by setting time blocks for concentrated work and arranging for an accountability buddy. Remember to celebrate your achievements, like enjoying that nice coffee, to keep your motivation up. You're taking some positive steps towards managing your workload and reducing stress. As a next step, let's set a quick check-in for next week to review your progress and adjust the plan as needed. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good idea. I'll try to follow through with the plan and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session covered goals, steps, and coping strategies effectively, offering a clear next-step plan with a check-in. The client feels more empowered and has actionable strategies, indicating readiness to conclude.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! I'm glad you're here. What's on your mind today that you'd like to talk about?\nclient: Hey, thanks. I've just been feeling really overwhelmed with everything in my PhD program. It's like I can't keep up no matter how hard I try.\ntherapist: It sounds like you're really under a lot of pressure and it's been tough to manage all that's on your plate. Can you tell me more about what's making you feel overwhelmed?\nclient: Honestly, it's just the constant workload and expectations. I feel like I'm always behind, and it's hard not to feel like I'm failing at something every day.\ntherapist: It seems like the high demands and expectations are making you feel like you're always playing catch-up, which must be really exhausting. What are some specific areas where you feel most challenged?\nclient: I guess it's mostly the research part. I'm supposed to be making progress, but I often feel lost and unsure of what I'm doing, which just adds to the stress.\ntherapist: It sounds like the uncertainty in your research is really weighing on you. What do you imagine might change if you felt more confident in your research progress?\nclient: If I felt more confident, I think I'd be less anxious and maybe even excited about the work instead of dreading it. It might help me feel like I'm actually capable of completing this program without constantly doubting myself.\ntherapist: Feeling more confident could really transform your experience. What would it be like for you if that anxiety shifted towards excitement in your daily life?\nclient: I think it'd make a huge difference. I'd probably approach my work with more energy and less fear, and maybe even enjoy the process rather than seeing it as this overwhelming mountain I have to climb every day.\ntherapist: That sounds like a powerful shift. What steps do you think might help you start moving from fear to excitement in your research?\nclient: Honestly, I guess just breaking things down into smaller, more manageable tasks could help. Maybe setting tiny goals and celebrating when I hit them might make the whole thing seem less daunting and more rewarding.\ntherapist: That sounds like a great approach. How do you think celebrating those small achievements might influence your feelings about the overall process?\nclient: I guess it would probably help remind me that I'm making progress and that I'm not just stuck in one place. Celebrating those wins might also give me a bit of a confidence boost and make everything feel a bit more doable, you know?\ntherapist: Celebrating those wins sounds like a wonderful motivator. Would you like to set a specific small goal to start with, and consider how you might celebrate its achievement?\nclient: Yeah, that sounds like a good idea. Maybe I could aim to finish a specific section of my current project by next week, and if I hit it, treat myself to a nice coffee or something.\ntherapist: That sounds like a solid plan! How about we outline what steps are needed to complete that section, and think about any potential challenges you might face along the way?\nclient: Sure, that sounds helpful. I guess I'd need to first do a bit more research and then organize my notes into a coherent outline. The big challenge is probably staying focused and not getting sidetracked when things get tough.\ntherapist: To help with staying focused, maybe we could look at strategies like setting specific time blocks for work or finding an accountability buddy. How does that sound to you?\nclient: Yeah, I think setting specific time blocks could really help me manage my time better. An accountability buddy sounds good too—having someone to check in with might keep me on track.\ntherapist: Great! It sounds like you're ready with a plan. To recap, your goals are to finish a section of your project by next week, supported by setting time blocks for concentrated work and arranging for an accountability buddy. Remember to celebrate your achievements, like enjoying that nice coffee, to keep your motivation up. You're taking some positive steps towards managing your workload and reducing stress. As a next step, let's set a quick check-in for next week to review your progress and adjust the plan as needed. You've got this!\nclient: Thanks, that sounds like a good idea. I'll try to follow through with the plan and see how it goes.",
+  "completed": true
+}

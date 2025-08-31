@@ -1,0 +1,172 @@
+{
+  "id": "125y9us",
+  "timestamp": 1680048000000,
+  "category": "academic",
+  "concern": "I need to work part time to support myself and i am currently working friday, saturday, and sunday.\n\n\nFridays i work at 5pm to 11pm. Saturdays i work 12 pm to 11pm. Sundays i work 5pm-10pm. \n\nI am curious about if this schedule is ok or if I should consider working only saturday and sunday, both from around 11 am/12 pm until 10 pm/11 pm. \n\nMy current issue is time management. Some of these classes are killing me. Any input is appreciated.\n\nForgot to mention i am studying CS and am full time student (only 13 credit hours tho)",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! I'm glad you're here. Whenever you're ready, feel free to share what's on your mind or any concerns you have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I'm just trying to juggle work and school, and it's getting kinda overwhelming. I'm not sure if my current schedule is the best for managing everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had one turn, and the client's concerns about time management and schedule adjustments need further exploration. More turns are needed to fully understand the client's story and establish empathy and rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed with trying to balance work and school. What about your current schedule feels particularly challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Well, I feel like I barely have time to focus on my classes, especially with the workload piling up. It just feels like I’m constantly behind and can’t catch a break.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in its early stages with only two turns and has not yet fully explored the client's story or context. More information is needed to understand the client's feelings, thoughts, and context before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds really tough to feel like you're always behind and can't catch a break. How long have you been feeling this way, and what have you tried to do to manage everything so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: I've been feeling like this for a few months now. I've tried to plan things out better, like with a calendar and setting reminders, but it doesn't always work out how I hope.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has reached 3 turns and has effectively elicited the essence of the client's concerns, including work and school balance, current schedule challenges, and attempts to manage time. Empathy has been expressed, and the client has shared specific details about their schedule, indicating rapport. Thus, it's appropriate to move to the Guiding phase to explore motivation and change talk.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like you've been putting in a lot of effort to organize your schedule. What do you think it would feel like if things started to fall into place more smoothly?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think I'd feel a lot more relaxed and less stressed out. Maybe I'd even have some time to just chill or focus more on my classes without constantly worrying about work.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase, with only one turn focused on exploring the client's concerns. More exploration of discrepancy and motivation is needed before moving forward.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a really positive shift. What do you think might help you move towards having that extra time and feeling more relaxed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think adjusting my work schedule might help. If I could have more time during the week to catch up on my studies, it might ease some of the pressure.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific change goal (adjusting work schedule) and demonstrated Change Talk by acknowledging the benefits of having more time for studies. The client seems ready to explore specific plans to address the balance between work and school, indicating readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Based on what you've said, one option could be to talk to your manager about adjusting your work schedule. Another could be planning specific study time blocks on days you have more flexibility. What do you think about these possibilities, or is there another approach you’d like to explore?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think talking to my manager could be a good start. I just worry about losing hours or how they'll react, but I guess it's worth a shot if it means I can have more study time. The idea of planning study blocks sounds good too, but I have to really stick to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have collaboratively identified a clear action plan with discussing schedule adjustments and study blocks. Barriers have been addressed, but the client needs more than one turn for commitment and confidence to be evident. Continue to ensure readiness for change.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you have a couple of promising strategies to consider. Would you like to set a specific goal for talking to your manager, and maybe think about how you might approach the conversation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yeah, setting a goal sounds smart. Maybe setting a date to talk to them, like by next week, could help me actually do it instead of just thinking about it. I could plan out what to say, like emphasizing how adjusting my schedule could help with my studies.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal (adjusting work schedule) and is considering a specific action plan (talking to their manager by next week). Barriers (manager's reaction, losing hours) have been discussed, and the client is contemplating solutions (emphasizing study benefits). With only two turns in the current phase, continue to ensure readiness and confidence are strong.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having a clear goal like setting a date to talk by next week sounds like a great plan. How about we also discuss some potential ways to bring up your schedule adjustment in the conversation with your manager?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client: Sure, that sounds helpful. I think maybe I could start by explaining my situation with school and how important my studies are. Then, I could suggest adjusting my hours to focus more on weekends or just ask if there are any options that might work better for both of us.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal (talk to manager by next week) and is considering an action plan. Potential barriers (manager's reaction, losing hours) are discussed, and the client is prepared to self-monitor by planning the conversation. With three turns in the Choosing phase, it's time to advance given the client's readiness signals.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. You’ve set a clear goal to talk to your manager by next week, focusing on emphasizing the importance of your studies and suggesting potential schedule adjustments. Remember to stay open to their suggestions as well. Alongside, sticking to the study blocks will help you manage your time effectively. Keep your goals in mind, and know that it’s okay to ask for the support you need to succeed. Reach out if you need any more support or want to talk through your approach before your meeting. You're taking important steps, and you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I'll definitely keep that in mind. I appreciate the support and might check in if I feel stuck.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has addressed the client's concerns, developed a concrete action plan, and invited further support if needed. Natural conclusion reached with clear steps outlined.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! I'm glad you're here. Whenever you're ready, feel free to share what's on your mind or any concerns you have.\nclient: Hey, thanks for seeing me. I'm just trying to juggle work and school, and it's getting kinda overwhelming. I'm not sure if my current schedule is the best for managing everything.\ntherapist: It sounds like you're feeling overwhelmed with trying to balance work and school. What about your current schedule feels particularly challenging for you?\nclient: client: Well, I feel like I barely have time to focus on my classes, especially with the workload piling up. It just feels like I’m constantly behind and can’t catch a break.\ntherapist: It sounds really tough to feel like you're always behind and can't catch a break. How long have you been feeling this way, and what have you tried to do to manage everything so far?\nclient: client: I've been feeling like this for a few months now. I've tried to plan things out better, like with a calendar and setting reminders, but it doesn't always work out how I hope.\ntherapist: It seems like you've been putting in a lot of effort to organize your schedule. What do you think it would feel like if things started to fall into place more smoothly?\nclient: I think I'd feel a lot more relaxed and less stressed out. Maybe I'd even have some time to just chill or focus more on my classes without constantly worrying about work.\ntherapist: That sounds like a really positive shift. What do you think might help you move towards having that extra time and feeling more relaxed?\nclient: Honestly, I think adjusting my work schedule might help. If I could have more time during the week to catch up on my studies, it might ease some of the pressure.\ntherapist: Based on what you've said, one option could be to talk to your manager about adjusting your work schedule. Another could be planning specific study time blocks on days you have more flexibility. What do you think about these possibilities, or is there another approach you’d like to explore?\nclient: I think talking to my manager could be a good start. I just worry about losing hours or how they'll react, but I guess it's worth a shot if it means I can have more study time. The idea of planning study blocks sounds good too, but I have to really stick to it.\ntherapist: It sounds like you have a couple of promising strategies to consider. Would you like to set a specific goal for talking to your manager, and maybe think about how you might approach the conversation?\nclient: Yeah, setting a goal sounds smart. Maybe setting a date to talk to them, like by next week, could help me actually do it instead of just thinking about it. I could plan out what to say, like emphasizing how adjusting my schedule could help with my studies.\ntherapist: Having a clear goal like setting a date to talk by next week sounds like a great plan. How about we also discuss some potential ways to bring up your schedule adjustment in the conversation with your manager?\nclient: client: Sure, that sounds helpful. I think maybe I could start by explaining my situation with school and how important my studies are. Then, I could suggest adjusting my hours to focus more on weekends or just ask if there are any options that might work better for both of us.\ntherapist: That sounds like a solid plan. You’ve set a clear goal to talk to your manager by next week, focusing on emphasizing the importance of your studies and suggesting potential schedule adjustments. Remember to stay open to their suggestions as well. Alongside, sticking to the study blocks will help you manage your time effectively. Keep your goals in mind, and know that it’s okay to ask for the support you need to succeed. Reach out if you need any more support or want to talk through your approach before your meeting. You're taking important steps, and you've got this!\nclient: Thanks, I'll definitely keep that in mind. I appreciate the support and might check in if I feel stuck.",
+  "completed": true
+}

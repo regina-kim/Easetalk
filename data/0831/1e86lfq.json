@@ -1,0 +1,208 @@
+{
+  "id": "1e86lfq",
+  "timestamp": 1721433600000,
+  "category": "interpersonal",
+  "concern": "I’m feeling nervous about college and debating if i’ve picked the right one. I’m already registered for classes and I have my dorm room/roomate all set but I can’t help but feel nervous. Does/Did anyone feel this way? I’m very introverted and I feel like I won’t be able to make friends because I’m just awkward. ",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! I'm here to listen and support you. What’s been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "client: Hey, thanks. I've just been feeling a bit anxious about starting college. I'm worried about whether I've chosen the right school and how I'll fit in.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the initial stage with only one turn completed. The client has shared their anxiety about college, but further exploration is needed to fully understand their thoughts and context.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing some uncertainty about your college choice and how you'll adapt to the new environment. What aspects of starting college are you feeling most anxious about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I guess it’s mainly the social part. Like, I’ve always been kinda shy, and the idea of having to meet new people and make friends is really stressing me out. Plus, I keep second-guessing if this school is where I’m supposed to be.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared their primary concerns about starting college, focusing on social anxiety and doubts about their choice. However, there have only been 2 conversation turns. More exploration is needed to fully understand the client's feelings and context before moving on.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It seems like the thought of meeting new people is pretty overwhelming due to your shyness, and that's making you question your choice of school. Can you tell me more about what drew you to this particular college in the first place?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Well, it had a really good program for what I want to study, and the campus seemed nice when I visited. Plus, a couple of my high school classmates are going there, which made it feel like a safer choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has effectively explored the client's concerns about college choice and social anxiety, capturing both their thoughts and context. The client has expressed concerns about fitting in, shyness, and second-guessing their decision, while also mentioning positive aspects of their choice. Empathy and rapport are evident, meeting Exploring phase goals.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like there are some positive aspects, like the strong program and familiar faces, that drew you to this school. How do you envision your college experience if things went as you hoped?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I imagine feeling settled and comfortable, making a few good friends who I can be myself around. I'd like to feel confident in my classes and just enjoy being part of the college community without all the anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the initial stage of the guiding phase. The client has expressed concerns and some Change Talk is present, but there is no clear specific change goal or next step identified yet. Confidence rulers or values clarification have not been used, and the conversation needs to further explore the client's feelings and motivations.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a fulfilling vision for your college experience. What do you think would help you move towards feeling more settled and confident in that environment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think having a couple of solid friends would really help, people I can hang out with and not feel awkward around. Also, maybe finding some clubs or activities that interest me could make me feel more connected and less anxious about being there.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by identifying specific actions (making friends, joining clubs) to help reduce anxiety about starting college. However, with only 2 turns in the Guiding phase, there's still room to further explore and strengthen their motivation and confidence before moving to the Choosing phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding those connections through friends and activities could really enhance your college experience. On a scale from 0 to 10, how confident do you feel about taking steps to connect with others through clubs or activities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client: I’d say maybe a 4 or 5. I want to try, but the thought of putting myself out there is pretty daunting. I'm not sure how to start or what if I don’t fit in.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed concerns and discussed potential steps to address their anxiety, but they have low confidence (4-5) in taking those steps. Change Talk is present, but no specific change goal or next step has been solidified. The conversation is still in the early stages of the guiding phase with only 3 turns, so further exploration is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable to feel nervous about putting yourself out there. What do you think might help increase your confidence from a 4 or 5 to, say, a 6 or 7?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe if I had a friend or someone to go with to the first few meetings, it wouldn’t feel as overwhelming. Also, having a plan for what to say or do could make me feel a bit more prepared, like if I knew what to expect or some activities that might suit me.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by identifying potential strategies to increase confidence and decrease anxiety about making social connections. The client has also identified specific steps (joining clubs, having a friend accompany them) and discussed how to increase confidence. Although the confidence level is 4 or 5, they have identified ways to improve it. The conversation is not stuck in circles, indicating progress in the Guiding phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having a friend to join you for those first meetings and having a plan sounds like a great way to start. Based on what you mentioned, we could think about reaching out to someone who might be interested in attending with you and researching some clubs or activities together. What do you think about setting a small goal to try one new activity or club this month?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Yeah, setting a small goal sounds manageable. I guess trying just one thing feels less overwhelming than diving into a bunch at once. I'll need to think about which club or activity to try so it doesn’t feel too intimidating.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear goal to try one new activity or club this month, and identified potential barriers such as feeling awkward and needing a friend to accompany them to feel more confident. They have also agreed to self-monitor by considering which club to try. The client has shown commitment through their willingness to set a small, manageable goal. However, since there has only been one turn in the current phase, it is advisable to continue developing the action plan.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That sounds like a solid approach. How about making a list of a few clubs or activities that interest you, and then we can brainstorm who might be a good friend to reach out to for support?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client: That sounds like a good plan. I’ll try to come up with a list of things that seem interesting and not too out of my comfort zone. I might have a couple of people in mind who’d be up for joining me.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal to engage in college activities to ease anxiety and has agreed to make a list of clubs. Initial strategies and support systems have been discussed. Given the current phase includes only 2 turns, it would be beneficial to continue refining and supporting the client's plan for confidence building.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Great! Once you have your list, we can discuss which activity feels like the best starting point and who could join you for support. This way, you'll have a clear plan to take that first step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client: That sounds like a good way to ease into things. I’ll start brainstorming some ideas and reach out to those friends to see if they’d be interested. It feels a bit more doable now, knowing I have a plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal to try new activities and a concrete plan to create a list and reach out to friends for support. Barriers of shyness and lack of confidence have been discussed. The client has shown commitment by agreeing to the plan and expressing that it feels more doable now. Since all criteria for the Choosing phase are met, it's ready to move to Terminating.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "I'm glad to hear that you feel more comfortable with the plan. You've identified that having a couple of solid friends and trying out a club can really help with easing into college life. Your action steps are clear: make that list of interesting clubs or activities, and reach out to potential friends for support. Remember, it's okay to take things one step at a time. You've got a solid start, and I'm confident you'll find your stride. We'll check in next time to see how your plan is unfolding and make any adjustments if needed. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll give it a shot and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has covered summarizing goals, steps, and coping strategies, and a next-step plan is in place, making it natural to conclude.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! I'm here to listen and support you. What’s been on your mind lately?\nclient: client: Hey, thanks. I've just been feeling a bit anxious about starting college. I'm worried about whether I've chosen the right school and how I'll fit in.\ntherapist: It sounds like you're experiencing some uncertainty about your college choice and how you'll adapt to the new environment. What aspects of starting college are you feeling most anxious about?\nclient: I guess it’s mainly the social part. Like, I’ve always been kinda shy, and the idea of having to meet new people and make friends is really stressing me out. Plus, I keep second-guessing if this school is where I’m supposed to be.\ntherapist: It seems like the thought of meeting new people is pretty overwhelming due to your shyness, and that's making you question your choice of school. Can you tell me more about what drew you to this particular college in the first place?\nclient: client: Well, it had a really good program for what I want to study, and the campus seemed nice when I visited. Plus, a couple of my high school classmates are going there, which made it feel like a safer choice.\ntherapist: It sounds like there are some positive aspects, like the strong program and familiar faces, that drew you to this school. How do you envision your college experience if things went as you hoped?\nclient: I imagine feeling settled and comfortable, making a few good friends who I can be myself around. I'd like to feel confident in my classes and just enjoy being part of the college community without all the anxiety.\ntherapist: That sounds like a fulfilling vision for your college experience. What do you think would help you move towards feeling more settled and confident in that environment?\nclient: I think having a couple of solid friends would really help, people I can hang out with and not feel awkward around. Also, maybe finding some clubs or activities that interest me could make me feel more connected and less anxious about being there.\ntherapist: Finding those connections through friends and activities could really enhance your college experience. On a scale from 0 to 10, how confident do you feel about taking steps to connect with others through clubs or activities?\nclient: client: I’d say maybe a 4 or 5. I want to try, but the thought of putting myself out there is pretty daunting. I'm not sure how to start or what if I don’t fit in.\ntherapist: It's understandable to feel nervous about putting yourself out there. What do you think might help increase your confidence from a 4 or 5 to, say, a 6 or 7?\nclient: Maybe if I had a friend or someone to go with to the first few meetings, it wouldn’t feel as overwhelming. Also, having a plan for what to say or do could make me feel a bit more prepared, like if I knew what to expect or some activities that might suit me.\ntherapist: Having a friend to join you for those first meetings and having a plan sounds like a great way to start. Based on what you mentioned, we could think about reaching out to someone who might be interested in attending with you and researching some clubs or activities together. What do you think about setting a small goal to try one new activity or club this month?\nclient: Yeah, setting a small goal sounds manageable. I guess trying just one thing feels less overwhelming than diving into a bunch at once. I'll need to think about which club or activity to try so it doesn’t feel too intimidating.\ntherapist: That sounds like a solid approach. How about making a list of a few clubs or activities that interest you, and then we can brainstorm who might be a good friend to reach out to for support?\nclient: client: That sounds like a good plan. I’ll try to come up with a list of things that seem interesting and not too out of my comfort zone. I might have a couple of people in mind who’d be up for joining me.\ntherapist: Great! Once you have your list, we can discuss which activity feels like the best starting point and who could join you for support. This way, you'll have a clear plan to take that first step.\nclient: client: That sounds like a good way to ease into things. I’ll start brainstorming some ideas and reach out to those friends to see if they’d be interested. It feels a bit more doable now, knowing I have a plan.\ntherapist: I'm glad to hear that you feel more comfortable with the plan. You've identified that having a couple of solid friends and trying out a club can really help with easing into college life. Your action steps are clear: make that list of interesting clubs or activities, and reach out to potential friends for support. Remember, it's okay to take things one step at a time. You've got a solid start, and I'm confident you'll find your stride. We'll check in next time to see how your plan is unfolding and make any adjustments if needed. You've got this!\nclient: Thanks, I appreciate the support. I'll give it a shot and see how it goes.",
+  "completed": true
+}

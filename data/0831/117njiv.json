@@ -1,0 +1,226 @@
+{
+  "id": "117njiv",
+  "timestamp": 1676851200000,
+  "category": "interpersonal",
+  "concern": "I am absolutely disgusted at how abusive my graduate professors have been, at least in comparison to my undergraduate professors. This seems to be way more common for graduate professors. It’s just so upsetting and hard to deal with.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here. Feel free to share anything that's on your mind or any concerns you might have—I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I've been feeling pretty overwhelmed lately, especially with how some of my grad professors have been treating us. It's like they're on a power trip or something, and it's really starting to get to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only one turn. The client's concerns and thoughts have started to be shared, but further exploration is needed to fully understand the situation, context, and emotions.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds really challenging to feel overwhelmed by how your professors are behaving. What about their actions is standing out to you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it's just the way they talk to us, like we're beneath them or something. It's really condescending and makes me feel like I'm not good enough, no matter how hard I try.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has only had 2 turns, which is below the minimum threshold of 3-4 turns required to consider advancing to the Guiding phase. More exploration is needed to fully understand the client's concern and build rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds really frustrating to feel talked down to like that, especially when you're putting in so much effort. You feel not good enough because their condescending tone makes you doubt yourself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, exactly. It just makes me second-guess everything, even though I know I'm capable. It's tough to stay motivated when it feels like they're just tearing us down.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's concerns about feeling overwhelmed by their professors have been clearly expressed, and empathy has been established. However, only three conversation turns have occurred, suggesting the need for more exploration of the client's context and emotions before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be really tough to stay motivated in an environment that feels discouraging. What helps you stay focused or motivated when you're feeling like this?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, sometimes I just try to remind myself why I started this program in the first place. I also lean on my friends a lot; they get what I'm going through, and venting to them helps.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story including their thoughts and context has been explored over four turns. Empathy and rapport have been built, and the client's feelings of being disrespected and doubted are understood. Mutually agreeing on goals implicitly appears as coping strategies are discussed. Exploring phase goals are met.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's great that you have your reasons for starting the program and the support of your friends to help you through. How do these reminders and support from friends impact your feelings towards your professors' attitudes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "They help a bit, making it easier to brush off the negativity, but it's still hard. Sometimes, it's tough to shake off the feeling of being undervalued, even with support.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still early in the Guiding phase with only one turn completed. Key aspects like exploring discrepancy and evoking Change Talk haven't been fully addressed yet. It's too soon to determine if the client is ready to move to Choosing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like while the support helps, the feeling of being undervalued still lingers. How do you think life might be different if you felt more recognized and valued by your professors?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "If I felt more recognized and valued, I think I'd have more confidence in what I'm doing and wouldn't second-guess myself as much. I'd probably be more excited about my work and less stressed about dealing with them.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in its early stages of the guiding phase with only 2 turns completed. The client has expressed specific concerns and reflections on their situation, but there is not yet a clear indication of readiness to move to the choosing phase. Further exploration of motivations and potential changes is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling more recognized could really boost your confidence and excitement. What are some ways you might begin to feel more recognized or valued, despite the challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I guess trying to communicate more directly with them might help, like asking for feedback or clarification. Also, maybe connecting with other students to see if they've found any strategies that work could be useful.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is only in the third turn of the Guiding phase. The client has begun expressing Change Talk and a potential change goal but has not yet solidified these ideas fully, as they still express significant distress. Continuing in the Guiding phase will help further explore and solidify their motivations and plans.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring those strategies sounds like a constructive approach. How do you feel about taking these steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "A bit nervous, to be honest. It's intimidating to approach them, but talking to other students seems more doable right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by considering specific actions such as communicating directly with professors and connecting with peers for strategies. Ambivalence is noted but decreased as the client finds peer interaction more doable. The guiding phase goals have been met with confidence in taking steps. Advancement is appropriate to collaboratively develop specific plans.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Starting with talking to other students sounds like a great first step. How about setting a goal to reach out to one or two students this week to discuss strategies? We can also think about how to address any barriers you might face.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client: Yeah, I can try that. I think just hearing that others might be going through the same thing could be really reassuring. I'll definitely see if I can find someone to talk to this week.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear goal of reaching out to peers for support and strategies. They have agreed to take this step, acknowledging potential nervousness but overall readiness. With only one turn in the Choosing phase, it's essential to continue monitoring and discussing barriers.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. If you encounter any barriers, such as not knowing who to approach or feeling unsure of what to say, we can brainstorm ways to handle those. How about we set a specific day for you to reach out, and perhaps consider how you might initiate the conversation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Maybe I can aim for Wednesday. I'll think about starting with something like, \"Hey, have you also noticed how tough things can get with some of our professors?\" That might get the conversation going without being too awkward.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal to reach out to fellow students and a concrete action plan to initiate the conversation. They agreed on self-monitoring by setting a specific day to act. Although expressing nervousness, they are committed to taking steps. However, there have been less than 3 turns in the Choosing phase, indicating more conversation may be beneficial before moving on.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Wednesday sounds like a perfect choice to start these conversations. How about we check in next week to see how your plan went and discuss any challenges or insights you encountered?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Sure, let's do that. I'll try to keep track of how it goes, and hopefully, I'll have some positive experiences to share. If I hit any roadblocks, we can tackle those too.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal and concrete action plan to reach out to fellow students, which addresses their feelings of being undervalued by professors. Barriers have been discussed, with plans to brainstorm further if needed. The client has shown commitment by setting a specific day and approach. With these indicators and the conversation's progression, it's appropriate to move to Terminating.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Great, it sounds like you're all set to connect with your peers on Wednesday. Remember, you're not alone in this, and sharing experiences can be incredibly validating. Keep noting down your interactions and feelings, and we'll discuss them in our next session. You’ve got this, and I’m here to support you every step of the way. Looking forward to hearing about your progress!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll try to keep an open mind and see what comes up.",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session effectively summarized goals, coping steps, and next steps. The client is set to reach out to peers. It's natural to end and revisit progress in a future session.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here. Feel free to share anything that's on your mind or any concerns you might have—I'm here to listen.\nclient: I've been feeling pretty overwhelmed lately, especially with how some of my grad professors have been treating us. It's like they're on a power trip or something, and it's really starting to get to me.\ntherapist: It sounds really challenging to feel overwhelmed by how your professors are behaving. What about their actions is standing out to you the most?\nclient: I think it's just the way they talk to us, like we're beneath them or something. It's really condescending and makes me feel like I'm not good enough, no matter how hard I try.\ntherapist: It sounds really frustrating to feel talked down to like that, especially when you're putting in so much effort. You feel not good enough because their condescending tone makes you doubt yourself.\nclient: Yeah, exactly. It just makes me second-guess everything, even though I know I'm capable. It's tough to stay motivated when it feels like they're just tearing us down.\ntherapist: It must be really tough to stay motivated in an environment that feels discouraging. What helps you stay focused or motivated when you're feeling like this?\nclient: Honestly, sometimes I just try to remind myself why I started this program in the first place. I also lean on my friends a lot; they get what I'm going through, and venting to them helps.\ntherapist: It's great that you have your reasons for starting the program and the support of your friends to help you through. How do these reminders and support from friends impact your feelings towards your professors' attitudes?\nclient: They help a bit, making it easier to brush off the negativity, but it's still hard. Sometimes, it's tough to shake off the feeling of being undervalued, even with support.\ntherapist: It sounds like while the support helps, the feeling of being undervalued still lingers. How do you think life might be different if you felt more recognized and valued by your professors?\nclient: If I felt more recognized and valued, I think I'd have more confidence in what I'm doing and wouldn't second-guess myself as much. I'd probably be more excited about my work and less stressed about dealing with them.\ntherapist: Feeling more recognized could really boost your confidence and excitement. What are some ways you might begin to feel more recognized or valued, despite the challenges?\nclient: I guess trying to communicate more directly with them might help, like asking for feedback or clarification. Also, maybe connecting with other students to see if they've found any strategies that work could be useful.\ntherapist: Exploring those strategies sounds like a constructive approach. How do you feel about taking these steps?\nclient: A bit nervous, to be honest. It's intimidating to approach them, but talking to other students seems more doable right now.\ntherapist: Starting with talking to other students sounds like a great first step. How about setting a goal to reach out to one or two students this week to discuss strategies? We can also think about how to address any barriers you might face.\nclient: client: Yeah, I can try that. I think just hearing that others might be going through the same thing could be really reassuring. I'll definitely see if I can find someone to talk to this week.\ntherapist: That sounds like a solid plan. If you encounter any barriers, such as not knowing who to approach or feeling unsure of what to say, we can brainstorm ways to handle those. How about we set a specific day for you to reach out, and perhaps consider how you might initiate the conversation?\nclient: Maybe I can aim for Wednesday. I'll think about starting with something like, \"Hey, have you also noticed how tough things can get with some of our professors?\" That might get the conversation going without being too awkward.\ntherapist: Wednesday sounds like a perfect choice to start these conversations. How about we check in next week to see how your plan went and discuss any challenges or insights you encountered?\nclient: Sure, let's do that. I'll try to keep track of how it goes, and hopefully, I'll have some positive experiences to share. If I hit any roadblocks, we can tackle those too.\ntherapist: Great, it sounds like you're all set to connect with your peers on Wednesday. Remember, you're not alone in this, and sharing experiences can be incredibly validating. Keep noting down your interactions and feelings, and we'll discuss them in our next session. You’ve got this, and I’m here to support you every step of the way. Looking forward to hearing about your progress!\nclient: Thanks, I appreciate the support. I'll try to keep an open mind and see what comes up.",
+  "completed": true
+}

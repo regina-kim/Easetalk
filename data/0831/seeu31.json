@@ -1,0 +1,244 @@
+{
+  "id": "seeu31",
+  "timestamp": 1643328000000,
+  "category": "interpersonal",
+  "concern": "I'm in a MA program right now and we just started in-person learning. Until this week, I had been at my parents' house doing online school from there. While I'm definitely not the biggest proponent of online school, I was actually really enjoying life at home. I got to focus on doing readings and work without worrying about maintaining my own living space, I didn't have a commute to and from classes, and I really enjoyed hanging out with my family every day. Now I'm in a different city which is still pretty shut down from the pandemic, living alone, I can't see anyone, I haven't been able to focus on my coursework that much, and I just feel really *lonely* especially since the people in my cohort aren't keen on getting together due to the pandemic. Even though I absolutely love my program and what I'm studying, I'm starting to question if it's worth the lifestyle choices that are necessary (e.g., moving away from home, the job search being global rather than local). Now, I'm finding myself wishing the weeks would pass until I can go back during the break. I'm wondering if anyone else feels the same way and how they cope with it. I'm also wondering if moving away for grad school is that much better if there weren't a pandemic shutting everything down/limiting any social activities; especially since so many people refer to grad school as an isolating experience anyway.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! It's great to see you today. Whenever you're ready, feel free to share what's on your mind or any concerns you have. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "client: Hey, thanks for having me. I've just been feeling really overwhelmed with everything lately—between moving to a new city, starting in-person classes, and the pandemic restrictions, it's been a lot to handle. I guess I just didn't realize how much of a toll it would take on me, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The current phase has only 1 turn. The client's story is being shared, and more exploration is needed to elicit deeper thoughts and feelings before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're navigating a lot of big changes all at once, and it's understandable that it feels overwhelming. What are some specific aspects that have been particularly challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Honestly, it's just the loneliness and feeling disconnected from everyone. Back home, I had my family around, and now it's like I'm just stuck in my apartment all the time. Plus, I can't seem to focus on my coursework like I could before.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The conversation has only had 2 turns in the Exploring phase. The client has shared their concerns about loneliness and transition challenges, but more exploration is needed to fully understand the context and develop rapport. Continue exploring to gain deeper insight into their experiences and feelings.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're really missing the connection and support you had back home, and that's affecting your ability to concentrate on your studies. How has this feeling of disconnection been impacting your daily life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Yeah, it's like every day just blurs into the next. I find myself procrastinating a lot because I just don't have the motivation, and that makes me feel guilty for not getting things done. I thought being back in school would be exciting, but it's been more draining than anything else.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has reached the required 3 turns, and the essence of the client's story has been elicited, including thoughts and context. The client articulates feelings of loneliness, disconnection, and questioning their choices, indicating rapport and empathy have been established. It is appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Feeling stuck and unmotivated while expecting to be excited must be really frustrating. How do you think reconnecting with some of those supportive relationships or finding new ones might help change how you're feeling right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think reconnecting with supportive people would make a big difference, but it's tough since I'm in a new city and everyone's cautious about meeting up. Maybe if I could find some local groups or online communities, that might help, but I'm not sure where to start.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client is expressing feelings of loneliness and disconnection due to recent life changes. Although they've identified a potential strategy for change (seeking local or online communities), the conversation is still in the early stages of exploring motivation and assessing confidence. More exploration is needed to strengthen change talk and clarify specific goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like finding local groups or online communities could be a step towards feeling more connected. How would your day-to-day life change if you were able to build that supportive network here?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think it would make me feel less isolated and give me more motivation to actually tackle my coursework. Having people to talk to and share experiences with would probably make things feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific interest in finding local groups or online communities to combat loneliness, indicating a potential change goal. However, more exploration is needed to solidify this goal and build confidence in taking steps. The conversation is still evolving, and further work on reducing ambivalence is necessary.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like building that network could really lighten the load you're feeling. On a scale from 0 to 10, how confident do you feel about taking the first steps to connect with these communities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe like a 4 or 5? I mean, I'm willing to try, but I'm also not sure where to start or how to find the right people to connect with, especially with everything still being so restricted.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has expressed feeling overwhelmed and isolated due to recent life changes and the pandemic. Change Talk is present as the client is considering finding local groups or online communities. However, their confidence is low (4-5), and no specific change goal has been set. With only 3 turns in the Guiding phase, more exploration of change strategies is needed.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain in a new place. What might help increase that confidence from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think having some kind of guide or resource could help, like specific suggestions on where to look or how to approach people in these groups. Maybe if I had a buddy or someone else to do this with, it'd feel less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The guiding goals are partially met with some Change Talk present. However, the client's confidence is at 4-5, indicating uncertainty. No specific action plan or clear next step has been outlined yet. With 4 turns in the guiding phase, it's important to continue exploring specific strategies to enhance confidence before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It sounds like having a bit of direction or a partner could really boost your confidence. How do you see things being different if you found those resources or someone to join you in this?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think it would definitely make things feel more manageable and less intimidating. Just having someone to share the experience with or knowing where to start would make me feel like I'm not so alone in all of this.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has expressed some Change Talk by identifying that finding supportive communities could improve their situation. However, their confidence remains low (4-5), and they are unsure of how to proceed, indicating readiness is not fully achieved. Ambivalence is still present, suggesting the need for further exploration and guidance in developing specific steps and boosting confidence.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That makes a lot of sense. Imagining having that support, what's one small step you might take towards finding those resources or a buddy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Maybe I could start by reaching out to some classmates and see if anyone is interested in forming a study group. Even if it's just virtual at first, it might help me feel more connected and get a better understanding of who's open to hanging out or studying together.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"Guiding goals are met as the client has expressed feeling stuck and identified potential changes, like joining study groups. Confidence remains low but specific steps are considered. The client shows readiness with Change Talk and a willingness to connect. Progression is not circular, indicating readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Reaching out to classmates sounds like a great first step. Would it be helpful to set a specific goal, like contacting a certain number of classmates this week, and perhaps think about how you might approach them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Yeah, setting a goal could definitely help keep me on track. Maybe I can aim to message three classmates this week and keep it casual, like just asking if anyone's interested in studying together or wants to chat about the coursework.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has set a clear goal to reach out to three classmates this week and has expressed a willingness to take steps to increase social connection. However, with only one turn into the Choosing phase, further discussion is needed to solidify barriers and self-monitoring strategies.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. How about we also think about what might get in the way of reaching out, and how you could handle those situations?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "I guess my anxiety about bothering people or them not responding could hold me back. If that happens, maybe I could remind myself that it's okay if not everyone is interested, and it's more about finding those who are open to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal and action plan: reaching out to classmates to form a study group to combat loneliness. Barriers like anxiety about bothering people have been discussed, and the client has strategies for these. With two turns in the current phase, more conversation is needed to reinforce commitment and confidence before moving to the Terminating phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a helpful mindset to have. How do you feel about checking in next week on how it went and any adjustments you might want to make?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Yeah, I'm okay with that. It'll be good to have something to aim for and see how it goes, so checking in next week sounds like a plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has established a clear goal of reaching out to classmates for connection, with a concrete action plan to message three classmates this week. Barriers like anxiety were discussed, and the client agreed to self-monitor by checking in next week. The conversation demonstrates readiness with commitment and taking-steps talk. It's time to 'move' to the Terminating phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Great, it sounds like you're taking positive steps forward. You've set a clear goal to reach out to three classmates this week in a casual, friendly way, and you're preparing to manage any anxieties that might arise by reminding yourself it's about connecting with those who are interested. It's important to keep in mind that this is a process, and each step you take is progress. We'll check in next week to see how it went and to explore any needed adjustments together. You've got this, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely give it a shot and see how it goes this week.",
+      "phase": "terminating"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session addressed the client's concerns about loneliness and lack of motivation, establishing clear goals and coping strategies. A follow-up plan to check progress next week is in place, indicating readiness for conclusion.\",\n\"determination\": \"stop\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! It's great to see you today. Whenever you're ready, feel free to share what's on your mind or any concerns you have. I'm here to listen and support you.\nclient: client: Hey, thanks for having me. I've just been feeling really overwhelmed with everything lately—between moving to a new city, starting in-person classes, and the pandemic restrictions, it's been a lot to handle. I guess I just didn't realize how much of a toll it would take on me, you know?\ntherapist: It sounds like you're navigating a lot of big changes all at once, and it's understandable that it feels overwhelming. What are some specific aspects that have been particularly challenging for you?\nclient: client: Honestly, it's just the loneliness and feeling disconnected from everyone. Back home, I had my family around, and now it's like I'm just stuck in my apartment all the time. Plus, I can't seem to focus on my coursework like I could before.\ntherapist: It sounds like you're really missing the connection and support you had back home, and that's affecting your ability to concentrate on your studies. How has this feeling of disconnection been impacting your daily life?\nclient: client: Yeah, it's like every day just blurs into the next. I find myself procrastinating a lot because I just don't have the motivation, and that makes me feel guilty for not getting things done. I thought being back in school would be exciting, but it's been more draining than anything else.\ntherapist: Feeling stuck and unmotivated while expecting to be excited must be really frustrating. How do you think reconnecting with some of those supportive relationships or finding new ones might help change how you're feeling right now?\nclient: I think reconnecting with supportive people would make a big difference, but it's tough since I'm in a new city and everyone's cautious about meeting up. Maybe if I could find some local groups or online communities, that might help, but I'm not sure where to start.\ntherapist: It sounds like finding local groups or online communities could be a step towards feeling more connected. How would your day-to-day life change if you were able to build that supportive network here?\nclient: Honestly, I think it would make me feel less isolated and give me more motivation to actually tackle my coursework. Having people to talk to and share experiences with would probably make things feel less overwhelming.\ntherapist: It sounds like building that network could really lighten the load you're feeling. On a scale from 0 to 10, how confident do you feel about taking the first steps to connect with these communities?\nclient: Maybe like a 4 or 5? I mean, I'm willing to try, but I'm also not sure where to start or how to find the right people to connect with, especially with everything still being so restricted.\ntherapist: It's understandable to feel uncertain in a new place. What might help increase that confidence from a 4 or 5 to a higher number?\nclient: I think having some kind of guide or resource could help, like specific suggestions on where to look or how to approach people in these groups. Maybe if I had a buddy or someone else to do this with, it'd feel less daunting.\ntherapist: It sounds like having a bit of direction or a partner could really boost your confidence. How do you see things being different if you found those resources or someone to join you in this?\nclient: I think it would definitely make things feel more manageable and less intimidating. Just having someone to share the experience with or knowing where to start would make me feel like I'm not so alone in all of this.\ntherapist: That makes a lot of sense. Imagining having that support, what's one small step you might take towards finding those resources or a buddy?\nclient: Maybe I could start by reaching out to some classmates and see if anyone is interested in forming a study group. Even if it's just virtual at first, it might help me feel more connected and get a better understanding of who's open to hanging out or studying together.\ntherapist: Reaching out to classmates sounds like a great first step. Would it be helpful to set a specific goal, like contacting a certain number of classmates this week, and perhaps think about how you might approach them?\nclient: Yeah, setting a goal could definitely help keep me on track. Maybe I can aim to message three classmates this week and keep it casual, like just asking if anyone's interested in studying together or wants to chat about the coursework.\ntherapist: That sounds like a solid plan. How about we also think about what might get in the way of reaching out, and how you could handle those situations?\nclient: I guess my anxiety about bothering people or them not responding could hold me back. If that happens, maybe I could remind myself that it's okay if not everyone is interested, and it's more about finding those who are open to it.\ntherapist: That's a helpful mindset to have. How do you feel about checking in next week on how it went and any adjustments you might want to make?\nclient: Yeah, I'm okay with that. It'll be good to have something to aim for and see how it goes, so checking in next week sounds like a plan.\ntherapist: Great, it sounds like you're taking positive steps forward. You've set a clear goal to reach out to three classmates this week in a casual, friendly way, and you're preparing to manage any anxieties that might arise by reminding yourself it's about connecting with those who are interested. It's important to keep in mind that this is a process, and each step you take is progress. We'll check in next week to see how it went and to explore any needed adjustments together. You've got this, and I'm here to support you every step of the way.\nclient: Thanks, I appreciate the support. I'll definitely give it a shot and see how it goes this week.",
+  "completed": true
+}
