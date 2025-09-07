@@ -1,0 +1,226 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here today. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I've just been feeling super overwhelmed with the amount of work I have. It's like I never get a break, and it's starting to take a toll on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The essence of the client's story has been elicited, detailing their struggle with feeling overwhelmed due to academic pressure. The client has shared their thoughts and the context behind their feelings. However, empathy and rapport-building along with mutually agreed goals have not been fully explored in just one conversation turn.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "therapist: It sounds like there's a lot on your plate, and it's really affecting you. What do you think is contributing to that overwhelming feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it's mainly the constant workload and the pressure to always be on top of everything. And my PI sets such high expectations, which makes it hard to ever feel like I'm doing enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has effectively captured the client's feelings of overwhelm and the context surrounding their academic pressures, including expectations and time management issues. However, it only includes 2 turns, lacking sufficient depth and exploration needed to fully understand the client's narrative and build rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a heavy burden with the workload and the high expectations from your PI. How does all of this impact you on a daily basis?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "It's like I'm always anxious and stressed out, and it's hard to find time to unwind. Even when I'm not working, I'm thinking about all the stuff I still need to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story has been elicited, detailing their thoughts and feelings about being overwhelmed by work, high expectations, and anxiety. The therapist has shown empathy and rapport, and the client's concern provides further context. While only 3 turns were completed, the essence of the client's struggle is clear.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like the stress and anxiety are taking up a lot of your mental space, even during your downtime. How do you imagine your life would look if you had a better balance between work and relaxation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I imagine I'd be able to enjoy my downtime without constantly worrying about unfinished tasks. It would be great to feel more relaxed and actually have time for hobbies and friends without guilt.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The conversation is in the early stages of the Guiding phase with only one turn. More exploration of Change Talk and specific goals is needed before moving to Choosing.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a life where you have more peace and enjoyment. What do you think might help you move towards that balance between work and relaxation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think setting firmer boundaries with my work hours might help, like making sure I take evenings off or not checking emails past a certain time. Also, talking to my PI about the workload and expectations could maybe lead to some changes or at least give me a better idea of what's most important to focus on.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the early stages of the Guiding phase with only two turns. There is a need to further explore the client's feelings and motivations, as well as to evoke more Change Talk and address ambivalence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Setting boundaries and communicating with your PI could indeed be steps towards creating a healthier balance. On a scale from 0 to 10, how confident do you feel about making these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'm probably at a 5 right now. Like, I know it's something I should do, but actually going through with it, especially talking to my PI, feels kinda intimidating. It's hard to be sure how they'll react.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still in the early stages of the Guiding phase with only 3 turns. The client has expressed some Change Talk and identified potential steps, but confidence is at 5, indicating ambivalence. It’s important to explore confidence further before moving to Choosing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It makes sense that it feels intimidating, especially when you're unsure of the reaction you'll get. What might help you feel more confident about having that conversation with your PI or setting those boundaries?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think having a clear plan or script could help, so I'm not just winging it in the moment. Maybe practicing what to say with a friend first could make it easier to approach my PI.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified specific changes they wish to make, such as setting boundaries and talking to their PI. Change Talk is present, and the client has expressed a desire for a healthier balance. However, confidence is currently at 5, indicating some ambivalence remains. The phase has fewer than 3 turns, suggesting to continue exploring strategies to increase confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Therapist: Practicing with a friend and having a plan sounds like it could boost your confidence. How would your life look different if you were able to successfully set those boundaries and communicate with your PI?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I guess I’d feel a lot less stressed and more in control of my time, which would be huge. I’d probably have more energy to focus on my work and actually enjoy my free time without worrying so much.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk, identified specific change goals (setting boundaries, communicating with PI), and mentioned steps to increase confidence. The discrepancy between current behavior and desired work-life balance has been explored. Confidence is at a 5, indicating some ambivalence but not significant to prevent moving forward. With 5 turns in this phase, it is appropriate to advance to collaboratively developing action plans.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Based on what you've shared, options could include creating a script for your conversation with your PI and scheduling a practice session with a friend. You could also set a goal to have this conversation within the next week. How does that sound, and are there any barriers you can anticipate while implementing this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "That sounds like a solid approach, but I'm a bit nervous about actually sticking to the timeline. I know I might procrastinate or overthink the script, which could slow me down.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is in the Choosing phase with only one turn completed. The client has identified a clear goal and action plan, but has expressed concerns about potential barriers, such as procrastination and overthinking. These need to be addressed further to ensure readiness for the Terminating phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It's understandable to feel nervous about sticking to the timeline. To address this, you could consider setting small, manageable milestones, like drafting the script by a certain date and scheduling the practice session shortly after. How does that sound, and would it help alleviate some of your concerns about procrastination or overthinking?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Yeah, breaking it down into smaller steps could definitely make it feel less overwhelming. If I have mini-deadlines, it might help keep me accountable. I just need to avoid getting too caught up in making it perfect.",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client and therapist have collaboratively developed a clear action plan, including creating a script and setting small milestones for approaching their PI. The client recognizes barriers and agrees to self-monitoring with mini-deadlines. Confidence is being addressed. Since only two turns have been completed in the Choosing phase, continue to further reinforce commitment and step into action.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Setting mini-deadlines sounds like a solid plan to stay on track without getting too caught up in perfection. You might decide to draft a rough script by a certain date, then refine it without overthinking during a practice session with your friend. What do you think about also agreeing on a way to monitor your progress, like checking in with your friend or setting reminders for these milestones?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client: That could work, having someone to keep me accountable might help. I think setting reminders for myself and checking in with a friend could give me that extra push to keep going.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal and action plan to set boundaries and talk to their PI. They've discussed barriers like procrastination and agreed on self-monitoring with reminders and check-ins. They're showing readiness through commitment to smaller steps and acknowledging the need for accountability. With 3 turns in this phase, they demonstrate readiness to implement changes.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a great plan. You've really taken some important steps here to manage your workload and stress. Breaking things down into smaller steps and setting up reminders and check-ins with your friend can be incredibly helpful. Remember, it's okay to not be perfect, and every small step is progress. You're doing an amazing job by taking control of your situation. As your next step, focus on drafting that script by your mini-deadline. You've got this, and I'm here to support you along the way. Keep believing in yourself and take it one step at a time. You're already moving in a positive direction.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll try to keep that in mind as I work on the script.",
+      "phase": "terminating"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "{{\n\"reasoning\": \"The session covered summarizing steps and coping strategies, and the client has a clear next-step plan. The client acknowledges goals and expresses motivation. Ending the session naturally here aligns with progress made.\",\n\"determination\": \"move\"\n}}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here today. What's been on your mind lately?\nclient: I've just been feeling super overwhelmed with the amount of work I have. It's like I never get a break, and it's starting to take a toll on me.\ntherapist: therapist: It sounds like there's a lot on your plate, and it's really affecting you. What do you think is contributing to that overwhelming feeling?\nclient: I think it's mainly the constant workload and the pressure to always be on top of everything. And my PI sets such high expectations, which makes it hard to ever feel like I'm doing enough.\ntherapist: It sounds like you're carrying a heavy burden with the workload and the high expectations from your PI. How does all of this impact you on a daily basis?\nclient: It's like I'm always anxious and stressed out, and it's hard to find time to unwind. Even when I'm not working, I'm thinking about all the stuff I still need to do.\ntherapist: It seems like the stress and anxiety are taking up a lot of your mental space, even during your downtime. How do you imagine your life would look if you had a better balance between work and relaxation?\nclient: I imagine I'd be able to enjoy my downtime without constantly worrying about unfinished tasks. It would be great to feel more relaxed and actually have time for hobbies and friends without guilt.\ntherapist: That sounds like a life where you have more peace and enjoyment. What do you think might help you move towards that balance between work and relaxation?\nclient: Honestly, I think setting firmer boundaries with my work hours might help, like making sure I take evenings off or not checking emails past a certain time. Also, talking to my PI about the workload and expectations could maybe lead to some changes or at least give me a better idea of what's most important to focus on.\ntherapist: Setting boundaries and communicating with your PI could indeed be steps towards creating a healthier balance. On a scale from 0 to 10, how confident do you feel about making these changes?\nclient: I'm probably at a 5 right now. Like, I know it's something I should do, but actually going through with it, especially talking to my PI, feels kinda intimidating. It's hard to be sure how they'll react.\ntherapist: It makes sense that it feels intimidating, especially when you're unsure of the reaction you'll get. What might help you feel more confident about having that conversation with your PI or setting those boundaries?\nclient: I think having a clear plan or script could help, so I'm not just winging it in the moment. Maybe practicing what to say with a friend first could make it easier to approach my PI.\ntherapist: Therapist: Practicing with a friend and having a plan sounds like it could boost your confidence. How would your life look different if you were able to successfully set those boundaries and communicate with your PI?\nclient: I guess I’d feel a lot less stressed and more in control of my time, which would be huge. I’d probably have more energy to focus on my work and actually enjoy my free time without worrying so much.\ntherapist: Based on what you've shared, options could include creating a script for your conversation with your PI and scheduling a practice session with a friend. You could also set a goal to have this conversation within the next week. How does that sound, and are there any barriers you can anticipate while implementing this plan?\nclient: That sounds like a solid approach, but I'm a bit nervous about actually sticking to the timeline. I know I might procrastinate or overthink the script, which could slow me down.\ntherapist: It's understandable to feel nervous about sticking to the timeline. To address this, you could consider setting small, manageable milestones, like drafting the script by a certain date and scheduling the practice session shortly after. How does that sound, and would it help alleviate some of your concerns about procrastination or overthinking?\nclient: Yeah, breaking it down into smaller steps could definitely make it feel less overwhelming. If I have mini-deadlines, it might help keep me accountable. I just need to avoid getting too caught up in making it perfect.\ntherapist: Setting mini-deadlines sounds like a solid plan to stay on track without getting too caught up in perfection. You might decide to draft a rough script by a certain date, then refine it without overthinking during a practice session with your friend. What do you think about also agreeing on a way to monitor your progress, like checking in with your friend or setting reminders for these milestones?\nclient: client: That could work, having someone to keep me accountable might help. I think setting reminders for myself and checking in with a friend could give me that extra push to keep going.\ntherapist: That sounds like a great plan. You've really taken some important steps here to manage your workload and stress. Breaking things down into smaller steps and setting up reminders and check-ins with your friend can be incredibly helpful. Remember, it's okay to not be perfect, and every small step is progress. You're doing an amazing job by taking control of your situation. As your next step, focus on drafting that script by your mini-deadline. You've got this, and I'm here to support you along the way. Keep believing in yourself and take it one step at a time. You're already moving in a positive direction.\nclient: Thanks, I appreciate the encouragement. I'll try to keep that in mind as I work on the script.",
+  "completed": false
+}

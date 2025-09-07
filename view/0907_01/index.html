@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Easetalk v2 pilot Data</title>
+  <!-- 외부 CSS 파일 참조 -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- 왼쪽: 파일 목록 -->
+  <div id="file-list">
+    <h2>데이터 파일 목록</h2>
+    <ul id="files">
+      <!-- JavaScript에서 동적으로 채워집니다. -->
+    </ul>
+  </div>
+
+  <!-- 오른쪽: 채팅 영역 -->
+  <div id="chat-container">
+    <!-- 1) 파일명을 표시하는 상단 바 -->
+    <div id="chat-header">
+      <!-- 파일명 표시 -->
+      <div id="filename-display">
+        파일을 선택하세요
+      </div>
+      <!-- 2) phase별 색상표 + category + concern 테이블 -->
+      <table id="header-table">
+        <tbody>
+          <!-- JavaScript에서 클릭 시 채워집니다 -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 채팅 메시지 영역 -->
+    <div id="chat-messages">
+      <!-- 헤더 행: Therapist / Client / SC Master -->
+      <div class="row header-row">
+        <div class="cell header-label">Therapist</div>
+        <div class="cell header-label">Client</div>
+        <div class="cell header-label">SC Master</div>
+      </div>
+      <!-- 실제 메시지는 script.js가 추가합니다 -->
+    </div>
+
+    <div id="chat-footer"></div>
+  </div>
+
+  <!-- 외부 JavaScript 파일 참조 (defer 사용하여 HTML 파싱 후 실행) -->
+  <script src="script.js" defer></script>
+</body>
+</html>

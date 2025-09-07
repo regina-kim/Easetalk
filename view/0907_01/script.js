@@ -52,7 +52,7 @@ async function loadAndRenderChat(filename) {
   headerTbody.innerHTML = "";
 
   try {
-    const response = await fetch(`../../data/0831/${filename}`);
+    const response = await fetch(`../../data/0907_01/${filename}`);
     if (!response.ok) throw new Error("파일을 불러오는 데 실패했습니다.");
     const data = await response.json();
 
