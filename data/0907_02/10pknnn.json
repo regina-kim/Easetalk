@@ -1,0 +1,136 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here today. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I've been feeling really overwhelmed with my workload in my PhD program. It's just been tough balancing everything and keeping my stress levels in check.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared their feelings of being overwhelmed and the context of their workload, expressing a detailed concern about balancing their PhD program. The therapist has not yet elicited the complete essence of the client's story, nor have mutually agreed goals been established.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "therapist: It sounds like you're juggling a lot right now, and it's weighing heavily on you. Could you tell me more about what's been particularly challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: It's just the sheer amount of work and the pressure to always be on top of things. There's never a moment to just breathe, you know? My weekends are swallowed up too, so it feels like there's no end in sight.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared detailed thoughts and feelings about their overwhelming workload, including context about changes from undergrad to PhD. Empathy and rapport are evident, and their concern about burnout indicates a clear area for further exploration and motivation strengthening.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Therapist: That sounds incredibly exhausting. I'm wondering, if things were different and you had more balance, how do you imagine that would impact your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "If I had more balance, I'd probably feel less like I'm constantly in survival mode. I'd have more time for myself, which I think would help me enjoy my work again and just feel happier overall.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed their current struggles and envisioned a more balanced life. However, specific change goals or steps are not yet clear, and there is no indication of confidence levels. More exploration is needed to strengthen motivation and clarify goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Therapist: It sounds like having more balance could really enhance your well-being and enjoyment of your work. What do you think might help you start moving towards that balance you're envisioning?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I'm not entirely sure, but I think setting better boundaries with my work might help. Maybe I need to be more strict about my downtime and not let work bleed into every part of my life. It's just hard with the pressure to always be on top of things.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific change goal: setting better work boundaries. They have recognized the discrepancy between their current workload and desired balance. There's a decrease in ambivalence, as the client is considering specific actions to improve their situation. With a clear goal emerging, it's appropriate to move to the Choosing phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Based on what you've said, possible options could include setting specific times for work and downtime or finding ways to communicate your boundaries at work. What do you think might be a good first step for you to start setting those boundaries?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess I could start by setting specific work hours and trying to stick to them as much as possible. Maybe I could also try to have a conversation with my PI about my workload, although that seems kind of intimidating.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of setting better work-life boundaries but has yet to develop a concrete action plan, including discussing barriers and self-monitoring strategies. The client needs further guidance to gain confidence and commitment toward these steps.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful steps. We can look at setting specific work hours as the first actionable goal. As for talking with your PI, we can explore ways to prepare for that conversation to make it feel less daunting. What do you think about starting with setting work hours, and then planning how to approach the discussion with your PI?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yeah, that sounds like a good plan. I think having a set schedule to follow will help me feel a bit more in control of things. And if we can work on how to approach my PI without it being super awkward, that’d be great too.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified specific steps to manage their workload, such as setting work hours and preparing to discuss their workload with their PI. They have expressed a sense of control over the situation and are open to developing strategies to overcome barriers. This indicates readiness to move forward with implementing the action plan and addressing potential obstacles.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Great! You've taken some really proactive steps here. Establishing those work hours is a fantastic way to reclaim a bit of control and create personal time for yourself, which is so important. And when you're ready, we can definitely work on how to approach that conversation with your PI to make it as comfortable as possible for you. Remember, it's all about taking it one step at a time. You're making thoughtful decisions toward balance, and that's truly commendable. Between now and our next session, try to note any times you stick to your schedule successfully or any feelings that come up around your workload. I'm here to support you through this process.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support, and I'll try to keep track of how things go with my schedule. I hope I can actually stick to it!",
+      "phase": "terminating"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has effectively outlined the client's goals, strategies, and next steps, including setting work hours and preparing to talk to their PI. The client expressed understanding and readiness to implement these steps.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here today. What's been on your mind lately?\nclient: I've been feeling really overwhelmed with my workload in my PhD program. It's just been tough balancing everything and keeping my stress levels in check.\ntherapist: therapist: It sounds like you're juggling a lot right now, and it's weighing heavily on you. Could you tell me more about what's been particularly challenging for you?\nclient: client: It's just the sheer amount of work and the pressure to always be on top of things. There's never a moment to just breathe, you know? My weekends are swallowed up too, so it feels like there's no end in sight.\ntherapist: Therapist: That sounds incredibly exhausting. I'm wondering, if things were different and you had more balance, how do you imagine that would impact your life?\nclient: If I had more balance, I'd probably feel less like I'm constantly in survival mode. I'd have more time for myself, which I think would help me enjoy my work again and just feel happier overall.\ntherapist: Therapist: It sounds like having more balance could really enhance your well-being and enjoyment of your work. What do you think might help you start moving towards that balance you're envisioning?\nclient: I'm not entirely sure, but I think setting better boundaries with my work might help. Maybe I need to be more strict about my downtime and not let work bleed into every part of my life. It's just hard with the pressure to always be on top of things.\ntherapist: Based on what you've said, possible options could include setting specific times for work and downtime or finding ways to communicate your boundaries at work. What do you think might be a good first step for you to start setting those boundaries?\nclient: I guess I could start by setting specific work hours and trying to stick to them as much as possible. Maybe I could also try to have a conversation with my PI about my workload, although that seems kind of intimidating.\ntherapist: Those sound like thoughtful steps. We can look at setting specific work hours as the first actionable goal. As for talking with your PI, we can explore ways to prepare for that conversation to make it feel less daunting. What do you think about starting with setting work hours, and then planning how to approach the discussion with your PI?\nclient: Yeah, that sounds like a good plan. I think having a set schedule to follow will help me feel a bit more in control of things. And if we can work on how to approach my PI without it being super awkward, that’d be great too.\ntherapist: Great! You've taken some really proactive steps here. Establishing those work hours is a fantastic way to reclaim a bit of control and create personal time for yourself, which is so important. And when you're ready, we can definitely work on how to approach that conversation with your PI to make it as comfortable as possible for you. Remember, it's all about taking it one step at a time. You're making thoughtful decisions toward balance, and that's truly commendable. Between now and our next session, try to note any times you stick to your schedule successfully or any feelings that come up around your workload. I'm here to support you through this process.\nclient: Thanks, I appreciate the support, and I'll try to keep track of how things go with my schedule. I hope I can actually stick to it!",
+  "completed": false
+}

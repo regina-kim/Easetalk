@@ -1,0 +1,136 @@
+{
+  "id": "seeu31",
+  "timestamp": 1643328000000,
+  "category": "interpersonal",
+  "concern": "I'm in a MA program right now and we just started in-person learning. Until this week, I had been at my parents' house doing online school from there. While I'm definitely not the biggest proponent of online school, I was actually really enjoying life at home. I got to focus on doing readings and work without worrying about maintaining my own living space, I didn't have a commute to and from classes, and I really enjoyed hanging out with my family every day. Now I'm in a different city which is still pretty shut down from the pandemic, living alone, I can't see anyone, I haven't been able to focus on my coursework that much, and I just feel really *lonely* especially since the people in my cohort aren't keen on getting together due to the pandemic. Even though I absolutely love my program and what I'm studying, I'm starting to question if it's worth the lifestyle choices that are necessary (e.g., moving away from home, the job search being global rather than local). Now, I'm finding myself wishing the weeks would pass until I can go back during the break. I'm wondering if anyone else feels the same way and how they cope with it. I'm also wondering if moving away for grad school is that much better if there weren't a pandemic shutting everything down/limiting any social activities; especially since so many people refer to grad school as an isolating experience anyway.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there! I'm glad you're here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey. I've been feeling really lonely and having a hard time adjusting to being in a new city for my grad program. It's just been tough without much social interaction due to the pandemic.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared a detailed account of their struggles with loneliness and adjustment in a new city amid the pandemic, which reflects their thoughts and feelings. Empathy is established, and the client has expressed their concerns and questions clearly. The conversation is ready to transition to exploring motivation and potential changes.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging. What have been some of the hardest parts about adjusting to the new city for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: I think the hardest part is just feeling isolated. I'm used to having my family around, and now it feels like I'm just here on my own without that support system.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation is still exploring the client's feelings of loneliness and adjustment. We have not yet evoked discrepancy between behavior and values nor explored change talk or specific goals. More exploration of the client's motivations and potential changes is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like being away from your family and support system has been tough. What do you think life might look like if you felt more connected in your new city?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I guess if I felt more connected, I'd probably be more motivated and focused on my coursework. It might make the city feel a bit more like home instead of just a temporary place.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has articulated their feelings of loneliness and its impact on their motivation and coursework. They've explored life without change, but specific change goals or steps have not been clearly defined, and no confidence measurement has been assessed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like feeling more connected could really enhance your experience and motivation. What small steps do you think you could take to start building that connection in your new environment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Maybe I could start by reaching out to some classmates and see if anyone wants to do a virtual study group or something. I could also try exploring the city a bit more on my own, even if it's just going for walks to get to know the area better.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by identifying specific steps to connect with classmates and explore the city, indicating a shift in motivation. A clear goal of building connection and confidence in executing these steps is evident. The discrepancy between current isolation and desired connection is explored, suggesting readiness to develop actionable plans.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Those sound like great starting points. Based on what you said, possible options include organizing a virtual study group with classmates or planning regular walks to explore the city. How do you feel about setting a goal for one of these actions, and what might be some barriers you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I feel pretty good about setting a goal, maybe starting with the virtual study group since it's a bit easier to manage. As for barriers, I'm worried about everyone being too busy or not interested, and I sometimes find it hard to motivate myself to explore alone.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal to organize a virtual study group and acknowledged potential barriers, such as others' availability and self-motivation. The client is open to goal setting but hasn't fully explored strategies to address these barriers or shown a strong commitment to the action. More discussion on overcoming obstacles and confidence building is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Setting a goal for the virtual study group sounds like a manageable first step. To address potential barriers, you might consider reaching out to a few classmates individually to gauge interest, and perhaps set a specific day and time for the study sessions. For exploring, maybe you can set small, manageable goals, like visiting a new spot each week. How does that sound, and what might help you stay motivated?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "That sounds like a solid plan, especially breaking down the exploration part into smaller goals. To stay motivated, maybe I could start by picking places that genuinely interest me or that are highly recommended, so there's something to look forward to each week.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has developed a specific action plan, including organizing a virtual study group and exploring the city. They have discussed potential barriers and strategies to stay motivated. The client shows readiness through commitment and confidence in their plan. This indicates a readiness to move forward to the Terminating phase.\",\n  \"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach. By choosing places that interest you, exploring can become an exciting part of your routine. And by reaching out individually to classmates, you might find some shared enthusiasm for the study group. Remember, it’s all about taking these small, manageable steps that can lead to bigger changes. You’ve got a solid plan in place, and it’s really encouraging to see your commitment to this process. \n\nAs your next step, you could try reaching out to one or two classmates to start and see how that goes, and perhaps choose a new spot to explore this week. Keep in mind, it’s perfectly okay to go at your own pace. You’re doing great, and I’m here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, I'll give it a shot and see how it goes. I guess I'll start with reaching out to a couple of classmates and go from there.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has covered a summary of goals, coping strategies, and a next-step plan for connecting with classmates and exploring the city. The client appears ready to implement these steps and move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there! I'm glad you're here. What would you like to talk about today?\nclient: Hey. I've been feeling really lonely and having a hard time adjusting to being in a new city for my grad program. It's just been tough without much social interaction due to the pandemic.\ntherapist: That sounds really challenging. What have been some of the hardest parts about adjusting to the new city for you?\nclient: client: I think the hardest part is just feeling isolated. I'm used to having my family around, and now it feels like I'm just here on my own without that support system.\ntherapist: It sounds like being away from your family and support system has been tough. What do you think life might look like if you felt more connected in your new city?\nclient: I guess if I felt more connected, I'd probably be more motivated and focused on my coursework. It might make the city feel a bit more like home instead of just a temporary place.\ntherapist: It sounds like feeling more connected could really enhance your experience and motivation. What small steps do you think you could take to start building that connection in your new environment?\nclient: Maybe I could start by reaching out to some classmates and see if anyone wants to do a virtual study group or something. I could also try exploring the city a bit more on my own, even if it's just going for walks to get to know the area better.\ntherapist: Those sound like great starting points. Based on what you said, possible options include organizing a virtual study group with classmates or planning regular walks to explore the city. How do you feel about setting a goal for one of these actions, and what might be some barriers you anticipate?\nclient: I feel pretty good about setting a goal, maybe starting with the virtual study group since it's a bit easier to manage. As for barriers, I'm worried about everyone being too busy or not interested, and I sometimes find it hard to motivate myself to explore alone.\ntherapist: Setting a goal for the virtual study group sounds like a manageable first step. To address potential barriers, you might consider reaching out to a few classmates individually to gauge interest, and perhaps set a specific day and time for the study sessions. For exploring, maybe you can set small, manageable goals, like visiting a new spot each week. How does that sound, and what might help you stay motivated?\nclient: That sounds like a solid plan, especially breaking down the exploration part into smaller goals. To stay motivated, maybe I could start by picking places that genuinely interest me or that are highly recommended, so there's something to look forward to each week.\ntherapist: That sounds like a thoughtful approach. By choosing places that interest you, exploring can become an exciting part of your routine. And by reaching out individually to classmates, you might find some shared enthusiasm for the study group. Remember, it’s all about taking these small, manageable steps that can lead to bigger changes. You’ve got a solid plan in place, and it’s really encouraging to see your commitment to this process. \n\nAs your next step, you could try reaching out to one or two classmates to start and see how that goes, and perhaps choose a new spot to explore this week. Keep in mind, it’s perfectly okay to go at your own pace. You’re doing great, and I’m here to support you along the way.\nclient: Thanks, I'll give it a shot and see how it goes. I guess I'll start with reaching out to a couple of classmates and go from there.",
+  "completed": false
+}

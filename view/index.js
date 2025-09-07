@@ -6,4 +6,5 @@ window.FOLDERS = [
   { name: "0822", href: "./0822/", note: "2차생산 데이터 파일럿-3모델시스템" },
   { name: "0831", href: "./0831/", note: "2차생산 데이터 파일럿-1model시스템" },
   { name: "0907_01", href: "./0907_01/", note: "3차생산 데이터 파일럿-1model시스템 with empathy" },
+  { name: "0907_02", href: "./0907_02/", note: "3차생산 파일럿 2 - 1 model 시스템" }
 ];
