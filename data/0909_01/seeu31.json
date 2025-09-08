@@ -1,0 +1,100 @@
+{
+  "id": "seeu31",
+  "timestamp": 1643328000000,
+  "category": "interpersonal",
+  "concern": "I'm in a MA program right now and we just started in-person learning. Until this week, I had been at my parents' house doing online school from there. While I'm definitely not the biggest proponent of online school, I was actually really enjoying life at home. I got to focus on doing readings and work without worrying about maintaining my own living space, I didn't have a commute to and from classes, and I really enjoyed hanging out with my family every day. Now I'm in a different city which is still pretty shut down from the pandemic, living alone, I can't see anyone, I haven't been able to focus on my coursework that much, and I just feel really *lonely* especially since the people in my cohort aren't keen on getting together due to the pandemic. Even though I absolutely love my program and what I'm studying, I'm starting to question if it's worth the lifestyle choices that are necessary (e.g., moving away from home, the job search being global rather than local). Now, I'm finding myself wishing the weeks would pass until I can go back during the break. I'm wondering if anyone else feels the same way and how they cope with it. I'm also wondering if moving away for grad school is that much better if there weren't a pandemic shutting everything down/limiting any social activities; especially since so many people refer to grad school as an isolating experience anyway.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here. Feel free to share whatever's on your mind or any concerns you might have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Lately, I've been struggling with the transition back to in-person learning and feeling pretty lonely in a new city. It's been hard to adjust and focus on my studies.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story, feelings, and relevant context have been clearly expressed, including specific concerns about loneliness and adjustment issues. Empathy and rapport appear to have been established as the client has shared openly. The goals are mutually understood, focusing on coping with loneliness and questioning the value of the grad school experience.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're facing a lot of challenges right now with adjusting to a new environment. How do you envision things being different if these changes you’re considering were to happen?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I guess if things were different, I'd feel more connected and settled, like I did at home. I'd have a better balance between school and social life which would help me focus more on my studies without feeling so isolated.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed change desires and concerns about isolation and adjustment. They've imagined a different, more connected lifestyle. However, more exploration on confidence and specific goals is needed before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "therapist: Finding that balance and sense of connection seems really important to you. What small steps do you think could help you move towards feeling more settled and connected?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: I think reaching out to classmates more might help, even if it's just virtual chats for now. Maybe exploring the city a bit on my own could also make it feel less foreign and more like home.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed specific goals such as reaching out to classmates and exploring the city to feel more connected and settled. Change Talk is present, and there's a clear discrepancy between the current situation and desired state. Though not all criteria are explicitly confirmed, readiness to develop action plans is indicated.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Therapist: Those sound like thoughtful steps toward feeling more connected and settled. Based on what you said, possible options could include setting a goal to connect with classmates virtually each week or planning a weekly outing to explore a new part of the city. How do these options feel for you, and what barriers might you anticipate as you start?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think those ideas sound doable, and I could definitely try to set up some virtual coffee breaks with classmates. The biggest barrier is probably just feeling awkward or worried about how they'll respond, especially since people are so cautious right now. Exploring the city alone might be challenging too, given the pandemic restrictions and just not knowing where to start.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed actionable goals and acknowledged potential barriers, such as feelings of awkwardness and pandemic-related challenges. The conversation indicates readiness to implement the action plan, as the client is willing to try virtual interactions and explore the city. The client shows commitment and a clear plan to address loneliness, suggesting readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're really giving this a lot of thought, which is a big step forward. Setting up virtual coffee breaks with classmates and planning some solo city explorations are great ways to start feeling more at home. It's understandable to feel awkward or worried about responses—many people feel that way when reaching out. Remember, it's okay to take things at your own pace. Perhaps you could start with small, manageable steps, like exploring a nearby park or sending a brief message to a classmate you feel comfortable with. \n\nYou've already identified some solid coping strategies, and I believe you can navigate these barriers by taking gradual steps. Each effort, no matter how small, is a step in the right direction. For the next week, maybe you could focus on connecting with one classmate and exploring one new area. How does that sound for a starting plan? Remember, I'm here to support you as you take these steps, and you're not alone in this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Yeah, I think starting small like that could work. I'll try to reach out to someone and maybe check out a park nearby.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified steps to address their concerns and a plan for the upcoming week has been established. The session has closure with clear next steps for the client to follow.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here. Feel free to share whatever's on your mind or any concerns you might have.\nclient: Hey, thanks for having me. Lately, I've been struggling with the transition back to in-person learning and feeling pretty lonely in a new city. It's been hard to adjust and focus on my studies.\ntherapist: It sounds like you're facing a lot of challenges right now with adjusting to a new environment. How do you envision things being different if these changes you’re considering were to happen?\nclient: I guess if things were different, I'd feel more connected and settled, like I did at home. I'd have a better balance between school and social life which would help me focus more on my studies without feeling so isolated.\ntherapist: therapist: Finding that balance and sense of connection seems really important to you. What small steps do you think could help you move towards feeling more settled and connected?\nclient: client: I think reaching out to classmates more might help, even if it's just virtual chats for now. Maybe exploring the city a bit on my own could also make it feel less foreign and more like home.\ntherapist: Therapist: Those sound like thoughtful steps toward feeling more connected and settled. Based on what you said, possible options could include setting a goal to connect with classmates virtually each week or planning a weekly outing to explore a new part of the city. How do these options feel for you, and what barriers might you anticipate as you start?\nclient: I think those ideas sound doable, and I could definitely try to set up some virtual coffee breaks with classmates. The biggest barrier is probably just feeling awkward or worried about how they'll respond, especially since people are so cautious right now. Exploring the city alone might be challenging too, given the pandemic restrictions and just not knowing where to start.\ntherapist: It sounds like you're really giving this a lot of thought, which is a big step forward. Setting up virtual coffee breaks with classmates and planning some solo city explorations are great ways to start feeling more at home. It's understandable to feel awkward or worried about responses—many people feel that way when reaching out. Remember, it's okay to take things at your own pace. Perhaps you could start with small, manageable steps, like exploring a nearby park or sending a brief message to a classmate you feel comfortable with. \n\nYou've already identified some solid coping strategies, and I believe you can navigate these barriers by taking gradual steps. Each effort, no matter how small, is a step in the right direction. For the next week, maybe you could focus on connecting with one classmate and exploring one new area. How does that sound for a starting plan? Remember, I'm here to support you as you take these steps, and you're not alone in this journey.\nclient: Yeah, I think starting small like that could work. I'll try to reach out to someone and maybe check out a park nearby.",
+  "completed": false
+}

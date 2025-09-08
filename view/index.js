@@ -11,5 +11,6 @@ window.FOLDERS = [
   { name: "0908_01", href: "./0908_01/", note: "3차생산 파일럿 4 - 1 model 시스템 - OARS 추가" },
   { name: "0908_02", href: "./0908_02/", note: "3차생산 파일럿 5 - 1 model 시스템 - 반복 구문 사용하지 말라고 추가" },
   { name: "0908_03", href: "./0908_03/", note: "3차생산 파일럿 6 - 1 model - therapist: client: 추가해서 해당 내용 가능하면 안나오도록 프롬프트 수정" },
-  { name: "0908_04", href: "./0908_04/", note: "3차생산 파일럿 7 - 1 model - therapist 길이를 1-2 -> 2-3으로 수정(terminating 제외)" }
+  { name: "0908_04", href: "./0908_04/", note: "3차생산 파일럿 7 - 1 model - therapist 길이를 1-2 -> 2-3으로 수정(terminating 제외)" },
+  { name: "0909_01", href: "./0909_01/", note: "3차생산 파일럿 8 - 1 model - summary option deleted" }
 ];
