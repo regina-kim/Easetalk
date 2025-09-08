@@ -1,0 +1,172 @@
+{
+  "id": "seeu31",
+  "timestamp": 1643328000000,
+  "category": "interpersonal",
+  "concern": "I'm in a MA program right now and we just started in-person learning. Until this week, I had been at my parents' house doing online school from there. While I'm definitely not the biggest proponent of online school, I was actually really enjoying life at home. I got to focus on doing readings and work without worrying about maintaining my own living space, I didn't have a commute to and from classes, and I really enjoyed hanging out with my family every day. Now I'm in a different city which is still pretty shut down from the pandemic, living alone, I can't see anyone, I haven't been able to focus on my coursework that much, and I just feel really *lonely* especially since the people in my cohort aren't keen on getting together due to the pandemic. Even though I absolutely love my program and what I'm studying, I'm starting to question if it's worth the lifestyle choices that are necessary (e.g., moving away from home, the job search being global rather than local). Now, I'm finding myself wishing the weeks would pass until I can go back during the break. I'm wondering if anyone else feels the same way and how they cope with it. I'm also wondering if moving away for grad school is that much better if there weren't a pandemic shutting everything down/limiting any social activities; especially since so many people refer to grad school as an isolating experience anyway.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here today. Whenever you're ready, feel free to share what's on your mind or anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks. I've just been feeling really out of place since starting in-person classes again. It's tough being away from home and my family, especially when things are still so restricted because of the pandemic.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has clearly shared their concerns and feelings about returning to in-person classes, feeling lonely, and questioning the lifestyle changes associated with their graduate program. Their thoughts and emotions are well-articulated, establishing empathy and rapport. The context and details are sufficient for moving forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like adjusting to in-person classes has been challenging, especially with the distance from home and the current restrictions. How do you envision things being different if you felt more settled?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think if I felt more settled, I'd be able to focus better on my studies and maybe even find ways to enjoy this new city more. I'd probably connect more with people in my program if things felt less isolating.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has just begun to explore the client's discrepancy between current feelings and desired outcomes. Further exploration is needed to strengthen motivation and evoke specific Change Talk before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That sounds like it could really enhance your experience. What small steps do you think might help you start feeling more connected and focused?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Maybe trying to establish a routine could help, like setting specific study times and getting out for a walk or something. I guess I could also try reaching out to classmates online to see if anyone's up for a virtual study group or just a chat.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed feelings of isolation and uncertainty about their current environment, yet they have identified potential steps to improve their situation. However, there isn't yet a strong change goal or decrease in ambivalence. Further exploration and confidence building are needed before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like you're considering some thoughtful ways to connect and create structure. How confident do you feel, on a scale from 0 to 10, about starting to reach out to classmates or setting up a routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I’d say maybe around a 6 or 7. I mean, the idea of setting up a routine feels doable, but reaching out to classmates is a bit intimidating right now, especially since I don’t really know them well yet.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a discrepancy between their current situation and their values of connection and focus. They have expressed a change talk with specific steps, indicating movement towards routine and social interaction. Confidence is rated at 6-7, showing a reasonable belief in the ability to change. The client's ambivalence has also started to decrease, focusing more on actionable next steps.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you have some clarity on steps you want to take, and it's great that you feel a sense of possibility there. Based on what you've shared, some options could include starting with setting up a routine first, as it feels more comfortable, and then gradually reaching out to classmates as you feel ready. How does that sound, and what might be a first step you’d like to take in setting up your routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think starting with a morning routine could be a good first step, like waking up at the same time every day and maybe doing some light exercise or reading before diving into studies. That might help me feel more grounded and ready to tackle the day.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal to establish a routine and start reaching out to classmates, though reaching out feels intimidating. They've accepted the initial action plan of creating a morning routine. While barriers of intimidation are acknowledged, further discussion and commitment reinforcement are needed to boost confidence and address potential barriers. More exploration of their feelings and strategies is advisable before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you have a clear idea of how to start your routine, which is fantastic. Establishing a morning routine with consistent wake-up times and light exercise or reading can really set a positive tone for your day. How would you like to track your progress with this new routine, and are there any potential barriers you foresee?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think just jotting down my progress in a journal or using a habit-tracking app might work to keep me accountable. As for barriers, I guess my main concern is staying motivated, especially on days when I’m feeling really low or lonely.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear action plan: establishing a morning routine and reaching out to classmates. They have identified self-monitoring methods and potential barriers, particularly motivation on low days. While progress is being made, the client’s confidence and commitment to reaching out to classmates needs strengthening before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Tracking your progress in a journal or using a habit-tracking app sounds like a practical approach. It’s great that you’re considering how to hold yourself accountable. In terms of staying motivated on challenging days, perhaps having a small reward system or reaching out to a supportive friend might help. What do you think about these options, and are there other strategies you'd like to explore to keep you motivated?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yeah, having a small reward could definitely make it more enticing to stick with it. Reaching out to a friend sounds good too, though it might be tough since I don’t really know anyone here yet. Maybe I could try calling someone from home when I need a little boost.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear action plan and identified potential barriers (motivation, loneliness). They agreed on self-monitoring strategies (journaling, habit-tracking app). There's a sense of commitment and steps talk, but they still express some hesitation about reaching out. It would be beneficial to solidify their confidence before moving to termination.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having a small reward system and reaching out to someone from home sounds like a supportive plan to keep your motivation up. It’s wonderful that you’re thinking of ways to stay connected. How would you like to set up these rewards and calls to fit into your routine, and is there anything else you’d like to explore to enhance your plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think it might work if I set small goals for myself, like finishing a certain amount of reading or assignments, and rewarding myself with something simple like a favorite snack or a short episode of a show. As for calls, maybe I could schedule regular chats with family or friends back home, like once a week, to stay connected. I’m open to any other ideas that might help too!",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has established a clear goal and action plan, including setting a morning routine, tracking progress, and a reward system. They have discussed barriers, like motivation, and considered strategies, such as calling friends and setting small rewards. The client shows commitment and readiness to implement the plan, indicating readiness to progress.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "You've come up with some thoughtful strategies to keep yourself motivated and connected. Setting small goals and rewarding yourself with simple pleasures like a snack or a short show can be really effective in maintaining your momentum. Scheduling regular chats with family or friends is a wonderful way to bridge that sense of distance and stay connected. You've crafted a solid plan, and it sounds like you're being proactive in seeking out what works best for you.\n\nAs you move forward, keep nurturing these connections and rewarding yourself for each step you take. Remember, it’s okay to adjust your strategies as needed. You’ve got a great start, and with your determination, you’ll find your rhythm. If you ever need additional support or want to explore new ideas, I’m here for you. Keep being kind to yourself and take one day at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I’ll try to keep these things in mind and see how it goes. It’s nice to know you’re there if I need more support.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear next-step plan with strategies for coping and motivation. They've discussed potential barriers and solutions, and the therapist offered continued support if needed. Termination goals seem met naturally.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here today. Whenever you're ready, feel free to share what's on your mind or anything you'd like to talk about.\nclient: Hey, thanks. I've just been feeling really out of place since starting in-person classes again. It's tough being away from home and my family, especially when things are still so restricted because of the pandemic.\ntherapist: It sounds like adjusting to in-person classes has been challenging, especially with the distance from home and the current restrictions. How do you envision things being different if you felt more settled?\nclient: I think if I felt more settled, I'd be able to focus better on my studies and maybe even find ways to enjoy this new city more. I'd probably connect more with people in my program if things felt less isolating.\ntherapist: That sounds like it could really enhance your experience. What small steps do you think might help you start feeling more connected and focused?\nclient: client: Maybe trying to establish a routine could help, like setting specific study times and getting out for a walk or something. I guess I could also try reaching out to classmates online to see if anyone's up for a virtual study group or just a chat.\ntherapist: It seems like you're considering some thoughtful ways to connect and create structure. How confident do you feel, on a scale from 0 to 10, about starting to reach out to classmates or setting up a routine?\nclient: I’d say maybe around a 6 or 7. I mean, the idea of setting up a routine feels doable, but reaching out to classmates is a bit intimidating right now, especially since I don’t really know them well yet.\ntherapist: It sounds like you have some clarity on steps you want to take, and it's great that you feel a sense of possibility there. Based on what you've shared, some options could include starting with setting up a routine first, as it feels more comfortable, and then gradually reaching out to classmates as you feel ready. How does that sound, and what might be a first step you’d like to take in setting up your routine?\nclient: I think starting with a morning routine could be a good first step, like waking up at the same time every day and maybe doing some light exercise or reading before diving into studies. That might help me feel more grounded and ready to tackle the day.\ntherapist: It sounds like you have a clear idea of how to start your routine, which is fantastic. Establishing a morning routine with consistent wake-up times and light exercise or reading can really set a positive tone for your day. How would you like to track your progress with this new routine, and are there any potential barriers you foresee?\nclient: I think just jotting down my progress in a journal or using a habit-tracking app might work to keep me accountable. As for barriers, I guess my main concern is staying motivated, especially on days when I’m feeling really low or lonely.\ntherapist: Tracking your progress in a journal or using a habit-tracking app sounds like a practical approach. It’s great that you’re considering how to hold yourself accountable. In terms of staying motivated on challenging days, perhaps having a small reward system or reaching out to a supportive friend might help. What do you think about these options, and are there other strategies you'd like to explore to keep you motivated?\nclient: Yeah, having a small reward could definitely make it more enticing to stick with it. Reaching out to a friend sounds good too, though it might be tough since I don’t really know anyone here yet. Maybe I could try calling someone from home when I need a little boost.\ntherapist: Having a small reward system and reaching out to someone from home sounds like a supportive plan to keep your motivation up. It’s wonderful that you’re thinking of ways to stay connected. How would you like to set up these rewards and calls to fit into your routine, and is there anything else you’d like to explore to enhance your plan?\nclient: I think it might work if I set small goals for myself, like finishing a certain amount of reading or assignments, and rewarding myself with something simple like a favorite snack or a short episode of a show. As for calls, maybe I could schedule regular chats with family or friends back home, like once a week, to stay connected. I’m open to any other ideas that might help too!\ntherapist: You've come up with some thoughtful strategies to keep yourself motivated and connected. Setting small goals and rewarding yourself with simple pleasures like a snack or a short show can be really effective in maintaining your momentum. Scheduling regular chats with family or friends is a wonderful way to bridge that sense of distance and stay connected. You've crafted a solid plan, and it sounds like you're being proactive in seeking out what works best for you.\n\nAs you move forward, keep nurturing these connections and rewarding yourself for each step you take. Remember, it’s okay to adjust your strategies as needed. You’ve got a great start, and with your determination, you’ll find your rhythm. If you ever need additional support or want to explore new ideas, I’m here for you. Keep being kind to yourself and take one day at a time.\nclient: Thanks, I’ll try to keep these things in mind and see how it goes. It’s nice to know you’re there if I need more support.",
+  "completed": false
+}
