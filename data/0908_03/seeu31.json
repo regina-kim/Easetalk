@@ -1,0 +1,118 @@
+{
+  "id": "seeu31",
+  "timestamp": 1643328000000,
+  "category": "interpersonal",
+  "concern": "I'm in a MA program right now and we just started in-person learning. Until this week, I had been at my parents' house doing online school from there. While I'm definitely not the biggest proponent of online school, I was actually really enjoying life at home. I got to focus on doing readings and work without worrying about maintaining my own living space, I didn't have a commute to and from classes, and I really enjoyed hanging out with my family every day. Now I'm in a different city which is still pretty shut down from the pandemic, living alone, I can't see anyone, I haven't been able to focus on my coursework that much, and I just feel really *lonely* especially since the people in my cohort aren't keen on getting together due to the pandemic. Even though I absolutely love my program and what I'm studying, I'm starting to question if it's worth the lifestyle choices that are necessary (e.g., moving away from home, the job search being global rather than local). Now, I'm finding myself wishing the weeks would pass until I can go back during the break. I'm wondering if anyone else feels the same way and how they cope with it. I'm also wondering if moving away for grad school is that much better if there weren't a pandemic shutting everything down/limiting any social activities; especially since so many people refer to grad school as an isolating experience anyway.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here today. Feel free to share anything that's on your mind or any concerns you might have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "client: Hey, thanks for seeing me. I've just been feeling really out of place since I moved for grad school. It's like this big mix of loneliness and questioning if this whole experience is even worth it.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared detailed thoughts and feelings about the transition to in-person learning and the loneliness that comes with it. The conversation has successfully elicited the essence of their story, context, and concerns, establishing empathy and rapport.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really tough, adjusting to a new place and facing such big questions. What are some things that you've noticed about your life here that have been challenging or different from what you expected?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Well, for starters, I really miss the comfort and support of being around my family. Plus, living alone and not having any in-person interactions has been way harder than I thought, especially with everything still being so restricted.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed significant dissatisfaction with their current situation and is questioning the value of their education due to lifestyle changes. However, no change talk or specific goals have been identified yet. The client remains ambivalent about their decision, and the conversation is still exploring their feelings without a clear move towards resolving ambivalence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like missing your family and facing isolation have been really significant for you. What are some things that you hope to achieve while you're in grad school, and how does that align with what you're experiencing now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, I hope to gain a deep understanding of my field and build a solid foundation for my future career. But with everything feeling so isolating right now, it's difficult to see how I'm making any meaningful progress towards those goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified specific challenges and the impact of isolation, and they have expressed a significant change goal related to understanding their field and career foundation. However, there is still notable ambivalence about the worth of their current experience and talking has not yet substantially explored ways to address isolation or confidence in making it work.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like there's a big gap between your goals and what you're experiencing right now. What might it look like if things were different, and you felt more connected or supported while working towards your career goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think if things were different, I'd be more engaged with my coursework and maybe even have a study group or something. I'd feel more supported if there was more sense of community or if I had people to talk to regularly who are going through the same experiences.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear discrepancy between their current experiences and their goals in grad school, as well as desires for more engagement and support. Change Talk is present, and there's a focus on exploring solutions and life changes. The necessary elements for the Guiding phase have been addressed, suggesting readiness to develop specific action plans.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like creating a sense of community and connection is really important for you. Based on what you said, possible options could include joining a virtual study group or finding online forums where students share their experiences. What do you think would be some first steps towards feeling more connected and supported?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Finding a virtual study group seems like a good start, so I might try reaching out to classmates online to see if anyone's interested. Also, I could look for online communities or forums related to my field to connect with others who are going through similar experiences.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has identified a clear action plan, including finding a virtual study group and online forums for connection. Barriers of isolation have been discussed. The client shows readiness by expressing plans to take steps towards change. Confidence in this plan is indicated by their proactive suggestions.\",\n  \"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You've got some solid steps lined up, like finding a virtual study group and exploring online communities to feel more connected. It's clear how important it is for you to create a supportive network around your studies. Taking these actions could help bridge that gap between feeling isolated and achieving your goals. Remember, reaching out is a strong move and I admire your willingness to do so. Let's plan on touching base next time to see how these steps are going and explore new ways to enhance your sense of community. You're definitely on the right path, and I believe in your ability to make that meaningful progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll start looking into those options and hopefully find some people to connect with. I'll let you know how it goes next time we meet.",
+      "phase": "terminating"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has articulated their loneliness and transition challenges, and a plan with actionable steps has been discussed to address these concerns. This indicates progress and closure for this session's focus.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here today. Feel free to share anything that's on your mind or any concerns you might have.\nclient: client: Hey, thanks for seeing me. I've just been feeling really out of place since I moved for grad school. It's like this big mix of loneliness and questioning if this whole experience is even worth it.\ntherapist: That sounds really tough, adjusting to a new place and facing such big questions. What are some things that you've noticed about your life here that have been challenging or different from what you expected?\nclient: client: Well, for starters, I really miss the comfort and support of being around my family. Plus, living alone and not having any in-person interactions has been way harder than I thought, especially with everything still being so restricted.\ntherapist: It sounds like missing your family and facing isolation have been really significant for you. What are some things that you hope to achieve while you're in grad school, and how does that align with what you're experiencing now?\nclient: Honestly, I hope to gain a deep understanding of my field and build a solid foundation for my future career. But with everything feeling so isolating right now, it's difficult to see how I'm making any meaningful progress towards those goals.\ntherapist: It seems like there's a big gap between your goals and what you're experiencing right now. What might it look like if things were different, and you felt more connected or supported while working towards your career goals?\nclient: I think if things were different, I'd be more engaged with my coursework and maybe even have a study group or something. I'd feel more supported if there was more sense of community or if I had people to talk to regularly who are going through the same experiences.\ntherapist: It sounds like creating a sense of community and connection is really important for you. Based on what you said, possible options could include joining a virtual study group or finding online forums where students share their experiences. What do you think would be some first steps towards feeling more connected and supported?\nclient: Finding a virtual study group seems like a good start, so I might try reaching out to classmates online to see if anyone's interested. Also, I could look for online communities or forums related to my field to connect with others who are going through similar experiences.\ntherapist: You've got some solid steps lined up, like finding a virtual study group and exploring online communities to feel more connected. It's clear how important it is for you to create a supportive network around your studies. Taking these actions could help bridge that gap between feeling isolated and achieving your goals. Remember, reaching out is a strong move and I admire your willingness to do so. Let's plan on touching base next time to see how these steps are going and explore new ways to enhance your sense of community. You're definitely on the right path, and I believe in your ability to make that meaningful progress.\nclient: Thanks, I appreciate the support. I'll start looking into those options and hopefully find some people to connect with. I'll let you know how it goes next time we meet.",
+  "completed": false
+}

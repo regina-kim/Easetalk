@@ -1,0 +1,154 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. Is there anything on your mind that you'd like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Yeah, I've just been feeling super overwhelmed with my workload lately and it's starting to get to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared their main concern about being overwhelmed with their workload in the PhD program. They've provided context about past experiences, current feelings, and the influence of their PI. However, there hasn't been enough exploration of their emotions and specific motivations or goals. More rapport and detail are needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging. You feel overwhelmed because your workload is weighing heavily on you. What's been going on with your workload recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Well, ever since the semester started, it's like my schedule has been completely taken over by work. It's just nonstop, and I find myself struggling to keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story and context have been clearly elicited, including thoughts and feelings about the workload and its impact. Empathy is shown, and mutual understanding is developing. Goals are implied as the client seeks balance and burnout prevention.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "therapist: It sounds like your schedule has been really demanding since the semester began. How do you feel this impact on your workload is affecting other areas of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Honestly, it's affecting everything. I barely have time to relax or do things I enjoy, and it's starting to take a toll on my mood and energy levels.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed change talk by identifying their overwhelming workload and its negative impact on their life. However, specific change goals or steps have not yet been discussed, and there's no indication of confidence level. We need to explore further to evoke more change talk before advancing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the overwhelming workload is not only impacting your schedule but also your overall well-being. How do you envision your life might be different if you had more balance and time for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think if I had more balance and time for myself, I’d feel a lot more at ease. I miss having energy to do things outside of work, like hitting the gym or just chilling with friends.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear discrepancy between their current overwhelmed state and their desire for more balance and well-being. They have envisioned a life with more balance, indicating readiness for specific action planning. Despite the short interaction, the client is expressing a clear motivation for change and the impact of their current situation on their values.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like having more balance and energy is important to you, and you'd like to have time for activities you enjoy. Based on what you've mentioned, possible options could include setting specific times for relaxation or engaging in activities like going to the gym or spending time with friends. What are some steps you think you could take to create this balance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'm trying to figure out where I can cut back without falling behind. Maybe setting stricter boundaries with my work hours could help. I’m also thinking about scheduling in gym time like it's a class I can't miss.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear goal to create balance by setting boundaries on work time and incorporating gym time. They are considering specific strategies to achieve this. However, more discussion on barriers, such as dealing with the PI's expectations, and agreement on self-monitoring is needed to ensure readiness for change.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Setting stricter boundaries with work hours and treating gym time as a non-negotiable part of your schedule sound like great steps toward achieving balance. How do you feel about creating a specific action plan to implement these changes, and what might be some challenges you could anticipate along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I feel a bit hopeful about creating an action plan, but I'm also worried about sticking to it with the pressure from my workload. The biggest challenge might be prioritizing these changes when it feels like there's always something urgent to do for school.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear goal and potential action plan, with steps like setting boundaries and scheduling gym time. They recognize barriers like workload pressure but are hopeful. The conversation is progressing well towards readiness. Continuing would allow for solidifying commitments and addressing any remaining concerns about execution.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable to feel hopeful yet concerned about sticking to a plan with pressing school demands. Prioritizing can indeed be challenging. To support these changes, possible options include setting small, manageable goals or having a weekly check-in with yourself to monitor progress. What are your thoughts on these options, and are there other strategies you might consider for overcoming these barriers?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think setting small goals could definitely help me feel less overwhelmed. A weekly check-in sounds useful too, kind of like a reality check to see if I’m staying on track. Maybe I could also try talking to my PI about managing expectations a bit better.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has collaboratively developed a specific action plan, including setting boundaries and scheduling gym time. They discussed barriers, such as workload pressure, and agreed on self-monitoring strategies like weekly check-ins. The client expressed commitment and is taking steps by considering conversations with their PI to manage expectations. These elements indicate readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You've shared some really insightful steps toward finding that balance you’re aiming for. Setting small goals and having those weekly check-ins, like a reality check, sound like excellent ways to stay grounded and focused. Discussing expectations with your PI could also offer clarity and support. It’s wonderful to see you approaching this with such thoughtfulness and openness.\n\nRemember, it’s okay to adjust your plans as needed—flexibility can be a strength. I’m here to support you every step of the way. Perhaps starting with one specific action this week, like scheduling that gym time or having a conversation with your PI, might make the process feel more manageable. I look forward to hearing about your progress and am here whenever you need to discuss things further. Keep up the great work, and take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support and suggestions. I'll give it a shot this week and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "{\"reasoning\":\"The client has identified specific steps, like setting boundaries and scheduling gym time, and discussed potential challenges. A plan was suggested with flexibility, and the client is ready to try these strategies. Termination goals have been met.\",\"determination\":\"move\"}",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! It's great to have you here. Is there anything on your mind that you'd like to talk about today?\nclient: Hey, thanks for having me. Yeah, I've just been feeling super overwhelmed with my workload lately and it's starting to get to me.\ntherapist: That sounds really challenging. You feel overwhelmed because your workload is weighing heavily on you. What's been going on with your workload recently?\nclient: client: Well, ever since the semester started, it's like my schedule has been completely taken over by work. It's just nonstop, and I find myself struggling to keep up.\ntherapist: therapist: It sounds like your schedule has been really demanding since the semester began. How do you feel this impact on your workload is affecting other areas of your life?\nclient: client: Honestly, it's affecting everything. I barely have time to relax or do things I enjoy, and it's starting to take a toll on my mood and energy levels.\ntherapist: It sounds like the overwhelming workload is not only impacting your schedule but also your overall well-being. How do you envision your life might be different if you had more balance and time for yourself?\nclient: I think if I had more balance and time for myself, I’d feel a lot more at ease. I miss having energy to do things outside of work, like hitting the gym or just chilling with friends.\ntherapist: It sounds like having more balance and energy is important to you, and you'd like to have time for activities you enjoy. Based on what you've mentioned, possible options could include setting specific times for relaxation or engaging in activities like going to the gym or spending time with friends. What are some steps you think you could take to create this balance?\nclient: I'm trying to figure out where I can cut back without falling behind. Maybe setting stricter boundaries with my work hours could help. I’m also thinking about scheduling in gym time like it's a class I can't miss.\ntherapist: Setting stricter boundaries with work hours and treating gym time as a non-negotiable part of your schedule sound like great steps toward achieving balance. How do you feel about creating a specific action plan to implement these changes, and what might be some challenges you could anticipate along the way?\nclient: I feel a bit hopeful about creating an action plan, but I'm also worried about sticking to it with the pressure from my workload. The biggest challenge might be prioritizing these changes when it feels like there's always something urgent to do for school.\ntherapist: It's understandable to feel hopeful yet concerned about sticking to a plan with pressing school demands. Prioritizing can indeed be challenging. To support these changes, possible options include setting small, manageable goals or having a weekly check-in with yourself to monitor progress. What are your thoughts on these options, and are there other strategies you might consider for overcoming these barriers?\nclient: I think setting small goals could definitely help me feel less overwhelmed. A weekly check-in sounds useful too, kind of like a reality check to see if I’m staying on track. Maybe I could also try talking to my PI about managing expectations a bit better.\ntherapist: You've shared some really insightful steps toward finding that balance you’re aiming for. Setting small goals and having those weekly check-ins, like a reality check, sound like excellent ways to stay grounded and focused. Discussing expectations with your PI could also offer clarity and support. It’s wonderful to see you approaching this with such thoughtfulness and openness.\n\nRemember, it’s okay to adjust your plans as needed—flexibility can be a strength. I’m here to support you every step of the way. Perhaps starting with one specific action this week, like scheduling that gym time or having a conversation with your PI, might make the process feel more manageable. I look forward to hearing about your progress and am here whenever you need to discuss things further. Keep up the great work, and take care!\nclient: Thanks, I really appreciate the support and suggestions. I'll give it a shot this week and see how it goes.",
+  "completed": false
+}
