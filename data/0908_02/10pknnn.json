@@ -1,0 +1,136 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. Please feel free to share what's on your mind or anything you'd like to talk about today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I’ve just been feeling kinda overwhelmed with my workload lately, like it’s non-stop, and I’m not sure how to keep up without burning out.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared their main concern about feeling overwhelmed with workload, providing context and expressing feelings about their academic challenges. Empathy and rapport have been established, and the client's story is well-understood, indicating readiness for the next phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging, and it's understandable to feel overwhelmed with so much on your plate. How do you envision your life looking if you managed to find a balance between your workload and personal time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, I'd love to have a bit more free time to just relax or do something fun without feeling guilty or stressed about what I should be working on. Maybe go back to having a weekend day that's actually mine, like to catch up with friends or just chill.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed dissatisfaction with their current workload and envisioned a more balanced life. However, specific change goals or confidence levels weren't discussed yet. Further exploration of their ambivalence and readiness for change is needed to ensure a solid foundation for action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That sounds like a meaningful goal to work towards, having that personal time back. On a scale from 0 to 10, how confident are you that you can make some changes to move towards that balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Probably around a 4 or 5. I mean, I want to make changes, but it feels like there's so much to juggle, and I’m not sure where to even start.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change and identified a meaningful goal of achieving better work-life balance. However, their confidence is low, indicating uncertainty about how to make these changes. More exploration of specific steps and strategies is needed to build confidence and address barriers.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's great that you're considering making changes, even though it seems daunting. What do you think could help increase your confidence from a 4 or 5 to maybe a 6 or 7?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: I think maybe having a more structured plan for my week could help, like carving out specific times where I don't touch work at all. Also, getting some support or tips on how to manage my time more effectively might boost my confidence a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed a desire to regain personal time, identified a need for a structured plan, and mentioned strategies to enhance confidence. Change Talk is evident, but their confidence remains low, indicating more exploration is needed before formulating specific action plans.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Therapist: Those sound like really practical steps towards creating more balance. It seems like having a structured plan and support for time management could really make a difference. What might be the first small step you could take to start exploring one of these ideas?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Maybe I could start by setting aside a couple of hours on one day this week where I don't do any work, like a mini-break to see how it feels. I could also look into time management resources or talk to some of my peers to see what they do to balance things out.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client has expressed a desire for change and identified a specific goal of setting aside personal time. Confidence is currently low but they have considered steps to increase it. Change Talk, specific steps, and a plan to increase confidence are present, indicating readiness to move forward.\",\n  \"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Setting aside a couple of hours for a mini-break and exploring time management resources or peer advice sounds like a great start. Would you like to set a specific day for your mini-break and identify a resource or person to connect with for time management tips? This could help you take those first steps towards the balance you're aiming for.",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Yeah, setting a specific day would probably make me more likely to actually follow through, so maybe I'll pick Thursday since it seems like a good day to take a breather. As for the time management tips, I could reach out to that one classmate who always seems super organized and ask for some advice this week.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has developed a clear goal of achieving work-life balance and has outlined a concrete action plan, including setting aside a specific day for a break and seeking time management advice. The client has discussed potential barriers, such as juggling workload and confidence issues, and agreed on self-monitoring strategies. The client's commitment to these steps and their action reflections indicate readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you've got a solid plan lined up, and Thursday will be your dedicated time to take that well-deserved breather. Reaching out to your organized classmate for advice is a fantastic idea—it shows you're proactive about finding what works for you. Remember, it's perfectly okay to take time for yourself, and you're making positive strides towards balance. As we wrap up, know that I'm here to support you as you explore these changes. Let's touch base next time to see how your mini-break went and any insights you gained from your conversation with your classmate. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll definitely keep you posted on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has concluded with a clear plan for the client to take a mini-break and seek time management advice, addressing their concerns. Goals and next steps were summarized, meeting termination criteria.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! It's great to have you here. Please feel free to share what's on your mind or anything you'd like to talk about today.\nclient: Hey, thanks for having me. I’ve just been feeling kinda overwhelmed with my workload lately, like it’s non-stop, and I’m not sure how to keep up without burning out.\ntherapist: That sounds really challenging, and it's understandable to feel overwhelmed with so much on your plate. How do you envision your life looking if you managed to find a balance between your workload and personal time?\nclient: Honestly, I'd love to have a bit more free time to just relax or do something fun without feeling guilty or stressed about what I should be working on. Maybe go back to having a weekend day that's actually mine, like to catch up with friends or just chill.\ntherapist: That sounds like a meaningful goal to work towards, having that personal time back. On a scale from 0 to 10, how confident are you that you can make some changes to move towards that balance?\nclient: client: Probably around a 4 or 5. I mean, I want to make changes, but it feels like there's so much to juggle, and I’m not sure where to even start.\ntherapist: It's great that you're considering making changes, even though it seems daunting. What do you think could help increase your confidence from a 4 or 5 to maybe a 6 or 7?\nclient: client: I think maybe having a more structured plan for my week could help, like carving out specific times where I don't touch work at all. Also, getting some support or tips on how to manage my time more effectively might boost my confidence a bit.\ntherapist: Therapist: Those sound like really practical steps towards creating more balance. It seems like having a structured plan and support for time management could really make a difference. What might be the first small step you could take to start exploring one of these ideas?\nclient: Maybe I could start by setting aside a couple of hours on one day this week where I don't do any work, like a mini-break to see how it feels. I could also look into time management resources or talk to some of my peers to see what they do to balance things out.\ntherapist: Setting aside a couple of hours for a mini-break and exploring time management resources or peer advice sounds like a great start. Would you like to set a specific day for your mini-break and identify a resource or person to connect with for time management tips? This could help you take those first steps towards the balance you're aiming for.\nclient: Yeah, setting a specific day would probably make me more likely to actually follow through, so maybe I'll pick Thursday since it seems like a good day to take a breather. As for the time management tips, I could reach out to that one classmate who always seems super organized and ask for some advice this week.\ntherapist: It sounds like you've got a solid plan lined up, and Thursday will be your dedicated time to take that well-deserved breather. Reaching out to your organized classmate for advice is a fantastic idea—it shows you're proactive about finding what works for you. Remember, it's perfectly okay to take time for yourself, and you're making positive strides towards balance. As we wrap up, know that I'm here to support you as you explore these changes. Let's touch base next time to see how your mini-break went and any insights you gained from your conversation with your classmate. You've got this!\nclient: Thanks, I really appreciate your support. I'll definitely keep you posted on how it goes.",
+  "completed": false
+}

@@ -1,0 +1,154 @@
+{
+  "id": "117njiv",
+  "timestamp": 1676851200000,
+  "category": "interpersonal",
+  "concern": "I am absolutely disgusted at how abusive my graduate professors have been, at least in comparison to my undergraduate professors. This seems to be way more common for graduate professors. It’s just so upsetting and hard to deal with.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello there! I'm glad you're here. Feel free to share whatever's on your mind today—I'm here to listen and help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Lately, I've been really stressed out by how my grad professors treat us compared to undergrad. It's like a whole different world, and not in a good way.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's primary concern about graduate professors has been shared, but further exploration is needed to understand the context, emotions, and specific experiences. This will help build empathy and rapport before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "therapist: It sounds like you're feeling overwhelmed by the differences in treatment between grad and undergrad. What specifically has been stressing you out about this change?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "It's just the constant pressure and lack of understanding. It feels like they don't really care about us as individuals, just the work we produce.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed feelings of stress and lack of understanding from their graduate professors, providing context for their concern. However, further exploration of their thoughts, feelings, and specific experiences could enhance understanding and rapport before moving to guiding.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It seems like you're feeling underappreciated and pressured because you feel like just a number or a means to an end. Can you tell me more about how this pressure is affecting you personally?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I just feel burnt out and anxious all the time. It's affecting my sleep and honestly, I dread going to class or interacting with them.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story and feelings of stress, burnout, and anxiety have been clearly communicated, and the specific context of perceived pressure and lack of individual care has been established. Empathy and understanding are apparent, but no mutually agreed goals or motivation for change have emerged yet.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging and tiring. You feel burnt out and anxious because the pressure is impacting your sleep and making you dread going to class. How has this been affecting other areas of your life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, it's seeping into everything. I'm finding it hard to enjoy activities I used to love, and my social life is taking a hit because I'm just too drained to hang out with friends.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's main issues and emotional responses have been well articulated, focusing on the stress from graduate studies and its impact on personal life. Rapport and empathy are present, with a clear understanding of the client's concern.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like the pressure is impacting your overall well-being and enjoyment in life. What do you think might be different if this pressure were lifted?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd feel a lot more relaxed and like myself again. I'd have the energy and motivation to enjoy things and spend time with friends without feeling guilty or overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed their current challenges and envisioned a positive outcome if the pressure were lifted. However, specific change goals or next steps have not been clearly identified yet, and no measures like confidence rulers have been used.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you truly value feeling relaxed and being able to reconnect with activities and friends. What small steps do you think could bring you closer to that more relaxed state?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe setting boundaries with my time could help, like trying to stick to a schedule that includes breaks and time for myself. I could also start saying no to things that aren't urgent or essential, to try and lighten the load a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a potential change goal, which involves setting boundaries and prioritizing self-care to manage stress better. The client also expressed a desire to feel more relaxed and reconnect with activities they enjoy. Change talk is present, and the client has acknowledged the discrepancy between their current stressed state and their valued relaxed state.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Those are great ideas that show you're focusing on what's important for your well-being. Based on what you said, possible options include creating a balanced schedule with set breaks and practicing saying no to non-essential tasks. How do you feel about starting with one of these options, and what might your first step look like?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think starting with creating a balanced schedule could be a good first step. Maybe I could sit down and map out my week, including specific times for breaks and self-care, so I have a clearer picture of when I can breathe a little easier.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of creating a balanced schedule and has outlined an initial action step to map out their week. They have acknowledged a barrier of excessive demands and proposed mitigating steps, reflecting readiness to proceed.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Mapping out your week with specific times for breaks and self-care could really make a difference in how you manage stress. Remember, setting boundaries is a way to take care of yourself, and that's important. You’re showing a lot of insight and readiness to make these changes, which is wonderful. As you start this process, be kind to yourself and allow flexibility as needed. \n\nFor this week, focus on creating that balanced schedule, and don’t hesitate to reach out for support if you need it. I’m here to support you every step of the way. Keep in mind, taking these steps is a positive move towards feeling more relaxed and connected with those activities and friends you enjoy. You're doing great, and I believe in your ability to make these changes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll give it a try and see how it goes. I'm just worried about sticking to it and not falling back into old habits.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has successfully summarized goals, outlined coping strategies, and established a next-step plan, providing a natural conclusion.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello there! I'm glad you're here. Feel free to share whatever's on your mind today—I'm here to listen and help.\nclient: Hey, thanks for having me. Lately, I've been really stressed out by how my grad professors treat us compared to undergrad. It's like a whole different world, and not in a good way.\ntherapist: therapist: It sounds like you're feeling overwhelmed by the differences in treatment between grad and undergrad. What specifically has been stressing you out about this change?\nclient: It's just the constant pressure and lack of understanding. It feels like they don't really care about us as individuals, just the work we produce.\ntherapist: It seems like you're feeling underappreciated and pressured because you feel like just a number or a means to an end. Can you tell me more about how this pressure is affecting you personally?\nclient: I just feel burnt out and anxious all the time. It's affecting my sleep and honestly, I dread going to class or interacting with them.\ntherapist: That sounds incredibly challenging and tiring. You feel burnt out and anxious because the pressure is impacting your sleep and making you dread going to class. How has this been affecting other areas of your life?\nclient: Honestly, it's seeping into everything. I'm finding it hard to enjoy activities I used to love, and my social life is taking a hit because I'm just too drained to hang out with friends.\ntherapist: It seems like the pressure is impacting your overall well-being and enjoyment in life. What do you think might be different if this pressure were lifted?\nclient: I think I'd feel a lot more relaxed and like myself again. I'd have the energy and motivation to enjoy things and spend time with friends without feeling guilty or overwhelmed.\ntherapist: It sounds like you truly value feeling relaxed and being able to reconnect with activities and friends. What small steps do you think could bring you closer to that more relaxed state?\nclient: Maybe setting boundaries with my time could help, like trying to stick to a schedule that includes breaks and time for myself. I could also start saying no to things that aren't urgent or essential, to try and lighten the load a bit.\ntherapist: Those are great ideas that show you're focusing on what's important for your well-being. Based on what you said, possible options include creating a balanced schedule with set breaks and practicing saying no to non-essential tasks. How do you feel about starting with one of these options, and what might your first step look like?\nclient: I think starting with creating a balanced schedule could be a good first step. Maybe I could sit down and map out my week, including specific times for breaks and self-care, so I have a clearer picture of when I can breathe a little easier.\ntherapist: That sounds like a solid plan. Mapping out your week with specific times for breaks and self-care could really make a difference in how you manage stress. Remember, setting boundaries is a way to take care of yourself, and that's important. You’re showing a lot of insight and readiness to make these changes, which is wonderful. As you start this process, be kind to yourself and allow flexibility as needed. \n\nFor this week, focus on creating that balanced schedule, and don’t hesitate to reach out for support if you need it. I’m here to support you every step of the way. Keep in mind, taking these steps is a positive move towards feeling more relaxed and connected with those activities and friends you enjoy. You're doing great, and I believe in your ability to make these changes.\nclient: Thanks, I appreciate that. I'll give it a try and see how it goes. I'm just worried about sticking to it and not falling back into old habits.",
+  "completed": false
+}
