@@ -1,0 +1,118 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there! Welcome to our session. Feel free to share anything that's on your mind today—I'm here to listen and help in any way I can.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I've been feeling really overwhelmed with the workload in my PhD program. It's just been tough trying to balance everything and not feel burnt out.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's concern about workload and burnout is clearly articulated. The client shared thoughts, context, and feelings regarding their PhD experience, providing a foundation for the therapist to build empathy and rapport. The session has the essential elements to transition toward addressing motivation and potential changes.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a lot right now, and it's understandable to feel overwhelmed. What aspects of this experience are most important for us to explore together today?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it would really help to talk about how to manage my time better and find a bit of balance. I want to enjoy what I'm doing without feeling completely exhausted all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire to manage their time better and find balance. However, specific change goals or next steps have not been established, and there's no indication of readiness signals like Change Talk or confidence levels. Further exploration is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That sounds like a valuable focus. What would life look like for you if you achieved a better balance between your PhD program and your personal well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Finding that balance would mean having time to relax and recharge without feeling guilty about not working. I'd love to have energy for things I enjoy outside of academics, like going to the gym or just hanging out with friends.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear desire for change and described life with better balance. Discrepancy between current behavior and desired outcomes has been highlighted. The client is likely experiencing ambivalence, but the focus on finding balance suggests readiness for goal-setting.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're envisioning a balance that allows you to recharge and enjoy activities outside of your studies. Based on what you've shared, a possible goal could be to integrate regular relaxation and social activities into your schedule. What are some specific steps you think you could take to start moving toward that balance? Possible options might include setting specific study hours and scheduling time for the gym or social activities. What do you think would work best for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think setting specific study hours could definitely help, but I worry about sticking to them when deadlines are tight. Maybe I could start by blocking out some gym time each week and see how that feels. It's tough to commit though, when there's always so much to do.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of achieving balance and suggested an action plan of setting specific study hours and gym time. However, there is concern about sticking to the plan due to workload pressure. Barriers related to deadlines and overworking are identified but not yet addressed in-depth. More exploration of strategies to increase confidence and manage these barriers is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're considering setting specific study hours and gym time, which could be a good start. You mentioned feeling worried about tight deadlines. We could explore ways to manage those concerns, like setting flexible study blocks or prioritizing tasks. How do you feel about trying this approach, and what other strategies might help you stay committed to your plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think trying to be more flexible with my study schedule could work, especially if it helps me stick to it. Maybe breaking tasks into smaller pieces would make deadlines feel less overwhelming. It's just hard sometimes to keep motivated when everything feels so urgent.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified goals and an action plan, including setting study hours and gym time. They recognize barriers, such as tight deadlines, and have agreed to self-monitor. The client shows readiness signals through acceptance of action reflections and willingness to try strategies. Their confidence in managing workload is emerging. Progress suggests readiness for next phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you're open to trying flexible study schedules and breaking tasks into smaller, more manageable pieces. This approach could really help ease the pressure of deadlines and create a sense of control over your time. You're taking some thoughtful steps toward finding that balance you desire, and that's a commendable direction. Remember, it’s perfectly okay to adjust as you go along; flexibility is key. Scheduling regular gym sessions could serve as a great way to unwind and recharge, which is important for maintaining your energy levels for the things you love beyond academics. \n\nAs we wrap up today, let's focus on the steps you plan to take: setting specific study hours, incorporating gym time, and breaking tasks into smaller pieces. These strategies could support your goal of achieving a more balanced and enjoyable experience in your PhD program. Keep in mind that progress takes time, and it's okay to feel challenged along the way. \n\nFor our next steps, consider jotting down a weekly plan that includes study times and personal activities, and we can discuss any adjustments you find necessary in our next session. You’re working hard, and it’s important to acknowledge that effort. Looking forward to hearing how things develop. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Thanks, I’ll try putting together a weekly plan and see how it goes. Hopefully, this helps me juggle everything a little better.",
+      "phase": "terminating"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has addressed the client's primary concern by discussing specific steps and coping strategies to achieve balance. A next-step plan to create a weekly schedule is in place, indicating termination goals have been met.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there! Welcome to our session. Feel free to share anything that's on your mind today—I'm here to listen and help in any way I can.\nclient: Thanks, I appreciate it. I've been feeling really overwhelmed with the workload in my PhD program. It's just been tough trying to balance everything and not feel burnt out.\ntherapist: It sounds like you're carrying a lot right now, and it's understandable to feel overwhelmed. What aspects of this experience are most important for us to explore together today?\nclient: I think it would really help to talk about how to manage my time better and find a bit of balance. I want to enjoy what I'm doing without feeling completely exhausted all the time.\ntherapist: That sounds like a valuable focus. What would life look like for you if you achieved a better balance between your PhD program and your personal well-being?\nclient: Finding that balance would mean having time to relax and recharge without feeling guilty about not working. I'd love to have energy for things I enjoy outside of academics, like going to the gym or just hanging out with friends.\ntherapist: It sounds like you're envisioning a balance that allows you to recharge and enjoy activities outside of your studies. Based on what you've shared, a possible goal could be to integrate regular relaxation and social activities into your schedule. What are some specific steps you think you could take to start moving toward that balance? Possible options might include setting specific study hours and scheduling time for the gym or social activities. What do you think would work best for you?\nclient: I think setting specific study hours could definitely help, but I worry about sticking to them when deadlines are tight. Maybe I could start by blocking out some gym time each week and see how that feels. It's tough to commit though, when there's always so much to do.\ntherapist: It sounds like you're considering setting specific study hours and gym time, which could be a good start. You mentioned feeling worried about tight deadlines. We could explore ways to manage those concerns, like setting flexible study blocks or prioritizing tasks. How do you feel about trying this approach, and what other strategies might help you stay committed to your plan?\nclient: I think trying to be more flexible with my study schedule could work, especially if it helps me stick to it. Maybe breaking tasks into smaller pieces would make deadlines feel less overwhelming. It's just hard sometimes to keep motivated when everything feels so urgent.\ntherapist: It sounds like you're open to trying flexible study schedules and breaking tasks into smaller, more manageable pieces. This approach could really help ease the pressure of deadlines and create a sense of control over your time. You're taking some thoughtful steps toward finding that balance you desire, and that's a commendable direction. Remember, it’s perfectly okay to adjust as you go along; flexibility is key. Scheduling regular gym sessions could serve as a great way to unwind and recharge, which is important for maintaining your energy levels for the things you love beyond academics. \n\nAs we wrap up today, let's focus on the steps you plan to take: setting specific study hours, incorporating gym time, and breaking tasks into smaller pieces. These strategies could support your goal of achieving a more balanced and enjoyable experience in your PhD program. Keep in mind that progress takes time, and it's okay to feel challenged along the way. \n\nFor our next steps, consider jotting down a weekly plan that includes study times and personal activities, and we can discuss any adjustments you find necessary in our next session. You’re working hard, and it’s important to acknowledge that effort. Looking forward to hearing how things develop. You've got this!\nclient: Thanks, I’ll try putting together a weekly plan and see how it goes. Hopefully, this helps me juggle everything a little better.",
+  "completed": false
+}
