@@ -1,0 +1,136 @@
+{
+  "id": "1e86lfq",
+  "timestamp": 1721433600000,
+  "category": "interpersonal",
+  "concern": "I’m feeling nervous about college and debating if i’ve picked the right one. I’m already registered for classes and I have my dorm room/roomate all set but I can’t help but feel nervous. Does/Did anyone feel this way? I’m very introverted and I feel like I won’t be able to make friends because I’m just awkward. ",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Welcome! I’m glad you’re here. Feel free to share anything that’s on your mind or any concerns you might have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just really anxious about starting college. I've been wondering if I picked the right school, and I'm worried about making friends since I'm pretty introverted.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed concerns about college choice and social anxiety, but more exploration is needed to fully understand their thoughts, feelings, and context. Building rapport and empathy are crucial before progressing.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "therapist: It sounds like starting college brings a mix of excitement and anxiety for you. You’re feeling anxious because you’re unsure about your choice and concerned about socializing. How do you feel about this transition overall?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, it's kind of overwhelming. I think about all the changes and it just feels like too much at once.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed clear concerns about starting college, feeling overwhelmed with changes, and anxiety about socializing due to introversion. These insights reveal the essence of the client's story and feelings. The therapist has shown empathy and understanding. It's time to move to strengthen the client's motivation for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Therapist: It seems like the thought of so many changes at once is weighing on you. What do you imagine your college experience being like if everything goes well?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "If everything goes well, I'd hope to feel comfortable and like I belong there. I imagine having a small circle of friends who get me and enjoying my classes.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed concerns about starting college, which includes anxiety about making friends and doubts about their school choice. The therapist has successfully explored the client's feelings and future hopes, but the client has not yet expressed specific change goals or demonstrated decreased ambivalence. Confidence levels have not been explicitly assessed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like feeling comfortable, having friendships, and enjoying your classes are really important to you. On a scale from 0 to 10, how confident do you feel about making these hopes a reality?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I'd say maybe a 4 or 5. I want to be optimistic, but my doubts keep creeping in and making me question if I can actually make it happen.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed clear concerns about starting college and doubts about their choice and social abilities. Confidence was rated at 4-5, indicating some optimism but also significant doubt. No specific change goals or strong Change Talk present yet, and ambivalence about socializing remains. Further exploration of feelings and motivations is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Therapist: It’s understandable to have doubts, especially with such a big change ahead. You're aiming for comfort and connection, which are important to you. What might help boost your confidence from a 4 or 5 to something higher?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I guess putting myself out there more might help, even though it's super intimidating. Maybe joining some clubs or activities where I can meet people with similar interests could be a start.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by considering joining clubs to meet people, indicating a potential strategy for increasing confidence. A specific change goal is emerging around social engagement, and confidence is slowly building despite some ambivalence. This suggests readiness to develop action plans.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Joining clubs and activities seems like a promising step to meet people with similar interests. Based on what you said, possible options include researching clubs that align with your interests or setting a goal to attend a certain number of club meetings each month. What do you think might be a manageable first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think starting by looking up a couple of clubs online to see what fits me might be doable. I could aim to go to at least one meeting for each, just to test the waters and see how I feel.",
+      "phase": "choosing"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has developed a clear action plan by deciding to research clubs and attend meetings to boost confidence and make friends. They acknowledged potential barriers, like intimidation, and agreed on self-monitoring by testing the waters through meetings. There are signals of commitment and readiness for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It’s great to hear that you’re planning to explore clubs that match your interests and trying out a meeting to see how it feels. This is a wonderful way to open up opportunities for connection and comfort. Remember, taking small steps like this can gradually build your confidence. You've demonstrated courage just by considering these options. As your next step, researching those clubs online seems manageable and will give you a clearer picture of what’s available. Keep in mind that it's okay to feel nervous and it's a part of the process. You're not alone in this. If you ever feel the need for support or to talk things through, feel free to reach out. You've got this, and I'm here to cheer you on!",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support. I'll definitely start with some research and see where it takes me.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has effectively addressed the client's concerns by outlining a clear next-step plan and offering reassurance. The client seems ready to implement these steps, indicating termination goals have been met.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Welcome! I’m glad you’re here. Feel free to share anything that’s on your mind or any concerns you might have.\nclient: Hey, thanks. I'm just really anxious about starting college. I've been wondering if I picked the right school, and I'm worried about making friends since I'm pretty introverted.\ntherapist: therapist: It sounds like starting college brings a mix of excitement and anxiety for you. You’re feeling anxious because you’re unsure about your choice and concerned about socializing. How do you feel about this transition overall?\nclient: Honestly, it's kind of overwhelming. I think about all the changes and it just feels like too much at once.\ntherapist: Therapist: It seems like the thought of so many changes at once is weighing on you. What do you imagine your college experience being like if everything goes well?\nclient: If everything goes well, I'd hope to feel comfortable and like I belong there. I imagine having a small circle of friends who get me and enjoying my classes.\ntherapist: It sounds like feeling comfortable, having friendships, and enjoying your classes are really important to you. On a scale from 0 to 10, how confident do you feel about making these hopes a reality?\nclient: I'd say maybe a 4 or 5. I want to be optimistic, but my doubts keep creeping in and making me question if I can actually make it happen.\ntherapist: Therapist: It’s understandable to have doubts, especially with such a big change ahead. You're aiming for comfort and connection, which are important to you. What might help boost your confidence from a 4 or 5 to something higher?\nclient: client: I guess putting myself out there more might help, even though it's super intimidating. Maybe joining some clubs or activities where I can meet people with similar interests could be a start.\ntherapist: Joining clubs and activities seems like a promising step to meet people with similar interests. Based on what you said, possible options include researching clubs that align with your interests or setting a goal to attend a certain number of club meetings each month. What do you think might be a manageable first step for you?\nclient: I think starting by looking up a couple of clubs online to see what fits me might be doable. I could aim to go to at least one meeting for each, just to test the waters and see how I feel.\ntherapist: It’s great to hear that you’re planning to explore clubs that match your interests and trying out a meeting to see how it feels. This is a wonderful way to open up opportunities for connection and comfort. Remember, taking small steps like this can gradually build your confidence. You've demonstrated courage just by considering these options. As your next step, researching those clubs online seems manageable and will give you a clearer picture of what’s available. Keep in mind that it's okay to feel nervous and it's a part of the process. You're not alone in this. If you ever feel the need for support or to talk things through, feel free to reach out. You've got this, and I'm here to cheer you on!\nclient: Thanks, I really appreciate the support. I'll definitely start with some research and see where it takes me.",
+  "completed": false
+}

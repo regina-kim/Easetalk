@@ -1,0 +1,154 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there! I'm glad you're here today. Feel free to share whatever's on your mind or anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've just been feeling really overwhelmed with my workload lately. It's like there's no time for anything else, and I'm worried about burning out.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has clearly expressed their main concern about being overwhelmed and worried about burnout due to workload in their PhD program. They provided context about their previous experiences and current challenges. However, empathy and rapport still need more development, and goals have not been mutually agreed upon.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Therapist: It sounds like you're feeling a lot of pressure from your workload, which is making it hard to find balance and leading to concerns about burnout. Can you tell me more about what your days have been like recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Sure, so my days usually start early, trying to get some work done before classes or meetings. Then it's just nonstop with tasks, research, and more meetings. By the time I finish, I'm exhausted and there's barely any time left for myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared their feelings of being overwhelmed and concerned about burnout due to their workload. The therapist has successfully elicited the client's story, thoughts, and feelings, building empathy and rapport. The context of the client's academic workload and changes from undergraduate to PhD program have been detailed. Goals are mutually understood. The conversation is ready to progress to strengthening motivation for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Therapist: It seems like your schedule is packed from start to finish, leaving little room for personal time. How do you think finding a balance between work and personal life could impact your overall well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think finding some sort of balance would make a huge difference. It could help me feel more energized and less stressed, which would probably make me more productive and enjoy what I'm doing a lot more.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear desire for change by identifying the need for balance, recognizing its potential impact on productivity and well-being. Change talk is present, but there's insufficient exploration of specific goals or strategies yet.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're recognizing the importance of balance and how it might enhance both your energy and enjoyment in your work. On a scale from 0 to 10, how confident do you feel about making changes to find more balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I'd say maybe a 4 or 5. I know I need to make changes, but actually doing it feels pretty daunting with everything that's constantly on my plate.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed the need for change and the value of balance but lacks confidence. There's some ambivalence and no specific change goal yet. Confidence is below 6, indicating continued exploration and strengthening of motivation is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Therapist: It's understandable to feel that way when you have so much going on. What do you think might help increase your confidence from a 4 or 5 to a higher number, even just a little bit?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess having some practical steps or strategies could help me feel more confident. Maybe if I had a clearer plan or some support in figuring out how to manage my time better, it wouldn't feel so overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed a clear discrepancy between their current workload and their value of balance, acknowledged the potential positive impact of change, and identified a need for practical steps to increase confidence. However, their confidence is currently at 4-5, suggesting need for further exploration and support before setting action plans.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Therapist: It sounds like having a clearer plan and support could really make a difference for you. What small step do you think you might take toward creating that plan or seeking support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe I could start by setting aside a specific time each week to plan out my schedule. It might also help to talk to my peers or a mentor about how they manage their time and workload.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change and identified the importance of work-life balance. They have specified potential steps, such as setting aside time for planning and seeking advice from peers or mentors. While confidence is currently at a 4 or 5, the client has acknowledged practical steps to increase it. There's enough change talk and goal identification to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Those are great ideas to start with. Based on what you've shared, possible options include setting a weekly planning session and reaching out to peers or a mentor for advice. How do you feel about trying these steps, and what might be a good time to review how they're working for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I feel pretty good about giving these steps a shot. Maybe I can try them out for a couple of weeks and check in with you after that to see how things are going.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of finding balance and created a concrete action plan, including setting weekly planning sessions and seeking guidance from peers or mentors. They have expressed commitment to trying these steps and confidence in reviewing progress after a trial period, showing readiness to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It's wonderful to hear that you're feeling good about trying out these steps. You've identified setting aside a specific time for weekly planning and reaching out to peers or a mentor as initial strategies to help manage your workload. By taking these steps, you're creating a solid foundation towards achieving the balance you're seeking. Remember, it’s about progress, not perfection, and you’re already on a great path. Checking in after a couple of weeks sounds like a perfect plan to reflect on what’s working and adjust as needed. You've got this, and I'm here to support you every step of the way. Looking forward to hearing how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the encouragement. I'll definitely give it a try and we'll see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has a clear plan with initial steps to address workload issues, and they are scheduled to check in after a trial period. Termination goals are met, making it natural to end the session.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there! I'm glad you're here today. Feel free to share whatever's on your mind or anything you'd like to talk about.\nclient: Hey, thanks for seeing me. I've just been feeling really overwhelmed with my workload lately. It's like there's no time for anything else, and I'm worried about burning out.\ntherapist: Therapist: It sounds like you're feeling a lot of pressure from your workload, which is making it hard to find balance and leading to concerns about burnout. Can you tell me more about what your days have been like recently?\nclient: client: Sure, so my days usually start early, trying to get some work done before classes or meetings. Then it's just nonstop with tasks, research, and more meetings. By the time I finish, I'm exhausted and there's barely any time left for myself.\ntherapist: Therapist: It seems like your schedule is packed from start to finish, leaving little room for personal time. How do you think finding a balance between work and personal life could impact your overall well-being?\nclient: I think finding some sort of balance would make a huge difference. It could help me feel more energized and less stressed, which would probably make me more productive and enjoy what I'm doing a lot more.\ntherapist: It sounds like you're recognizing the importance of balance and how it might enhance both your energy and enjoyment in your work. On a scale from 0 to 10, how confident do you feel about making changes to find more balance in your life?\nclient: Honestly, I'd say maybe a 4 or 5. I know I need to make changes, but actually doing it feels pretty daunting with everything that's constantly on my plate.\ntherapist: Therapist: It's understandable to feel that way when you have so much going on. What do you think might help increase your confidence from a 4 or 5 to a higher number, even just a little bit?\nclient: I guess having some practical steps or strategies could help me feel more confident. Maybe if I had a clearer plan or some support in figuring out how to manage my time better, it wouldn't feel so overwhelming.\ntherapist: Therapist: It sounds like having a clearer plan and support could really make a difference for you. What small step do you think you might take toward creating that plan or seeking support?\nclient: Maybe I could start by setting aside a specific time each week to plan out my schedule. It might also help to talk to my peers or a mentor about how they manage their time and workload.\ntherapist: Those are great ideas to start with. Based on what you've shared, possible options include setting a weekly planning session and reaching out to peers or a mentor for advice. How do you feel about trying these steps, and what might be a good time to review how they're working for you?\nclient: I feel pretty good about giving these steps a shot. Maybe I can try them out for a couple of weeks and check in with you after that to see how things are going.\ntherapist: It's wonderful to hear that you're feeling good about trying out these steps. You've identified setting aside a specific time for weekly planning and reaching out to peers or a mentor as initial strategies to help manage your workload. By taking these steps, you're creating a solid foundation towards achieving the balance you're seeking. Remember, it’s about progress, not perfection, and you’re already on a great path. Checking in after a couple of weeks sounds like a perfect plan to reflect on what’s working and adjust as needed. You've got this, and I'm here to support you every step of the way. Looking forward to hearing how things go.\nclient: Thanks, I really appreciate the encouragement. I'll definitely give it a try and we'll see how it goes.",
+  "completed": false
+}

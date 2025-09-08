@@ -1,0 +1,190 @@
+{
+  "id": "tutfbb",
+  "timestamp": 1648857600000,
+  "category": "school_life",
+  "concern": "How do I keep my head above the water and stop drowning as a somewhat useless phd student? I feel like I can’t cope.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here. Whenever you're ready, feel free to share what's on your mind or anything you'd like to talk about today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just feeling really overwhelmed with everything right now. It's like no matter how hard I try, I can't seem to catch up or feel like I'm making any progress.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The initial conversation has just started, and the essence of the client's story, context, and feelings have not been fully explored. More information is needed to understand the client's challenges thoroughly.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "therapist: It sounds like you're feeling overwhelmed because despite your efforts, you feel like you're not making progress. What are some of the things contributing to this feeling right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it's mostly the workload and the pressure to perform. It feels like there's just so much to do and no matter how much I accomplish, there's always more piling up.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's core concern about feeling overwhelmed as a PhD student has been identified, along with details about workload and pressure. However, deeper exploration of the underlying feelings, thoughts, and context is needed to fully understand the client's situation before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're dealing with a lot of pressure from your workload, and it feels like you're never quite able to get ahead. What has this been like for you emotionally, and how have you been coping with it so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, it's been pretty draining. I've been trying to stay on top of things by working late and sacrificing downtime, but it just leaves me feeling exhausted and still behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has successfully elicited the client's core concerns, emotional experiences, and current coping mechanisms. The client has expressed feeling overwhelmed and drained due to workload and pressure. Rapport seems to be established, and the essence of the client's story is clear. The exploration phase goals are met.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're really giving your all, yet it's leaving you feeling drained and still struggling to keep up. What do you imagine life might be like if you could find a balance that allows for both productivity and downtime?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I imagine it would be less stressful and maybe I wouldn't feel so on edge all the time. I'd love to have time to relax without feeling guilty or worried about what I'm not doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk related to feeling less stressed and having guilt-free downtime. The discrepancy between their current state and desired balance has been highlighted. However, specific change goals or next steps have not yet been identified, making it prudent to continue exploring and solidifying motivation.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like having that balance could really change things for you, offering a sense of relief and peace. On a scale of 0 to 10, how confident do you feel about finding ways to create that balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Maybe like a 3 or 4? It feels like it's possible, but I just don't know how to get there right now. It seems really tough to make that change when everything feels so overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n  \"reasoning\": \"The client expressed a desire for change but exhibits low confidence in achieving balance, and there is no specific change goal yet. Ambivalence remains with low confidence indicating a need for further exploration.\",\n  \"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you're acknowledging the possibility of change, even though the path seems unclear right now. What aspects of your current routine or mindset might you think about adjusting to move towards that balance, even just a little?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I guess I could try setting some boundaries around my work time, like not working past a certain hour or taking actual breaks. But I worry that if I step back even a little, everything will just pile up even more.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has engaged in exploring their current challenges and the potential benefits of change. Confidence is still low at 3-4, and specific change goals need further development. The client is expressing ambivalence about implementing changes, as seen in concerns about work piling up more.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems like you're considering some practical steps towards finding that balance, even though there are concerns about the impact. What values are most important to you when you think about creating this balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think feeling less anxious and being able to enjoy my life a bit more are really important to me. I want to do well in my program, but I also want to stay healthy and not lose myself in the process.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed specific change goals, such as setting boundaries for work time, and identified values like reduced anxiety and life enjoyment. Change talk is present, but confidence remains low. While some ambivalence persists, the client is beginning to consider practical steps. We should continue guiding to strengthen confidence before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Therapist: It's clear you value both your well-being and your success. How might taking small steps towards balance help you feel more aligned with those values you hold dear?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client: I think taking small steps might help me feel like I'm making progress without it being too overwhelming. Maybe if I can just see some little wins, it could help me feel more in control and less anxious.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed Change Talk by considering small steps towards balance, acknowledged the importance of well-being and success, and identified potential actions like setting boundaries. While confidence is at 3 or 4, there is a willingness to take small steps. Ambivalence seems to be decreasing, indicating readiness to move towards specific action planning.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Therapist: Those small wins can be really encouraging, and it sounds like having control over your time is key for you. Based on what you've mentioned, possible options could include setting specific work hours and scheduling regular breaks. How do you feel about setting just one small goal to start with, like experimenting with a specific end time for work?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Yeah, I could try setting a firm end time, like stopping work at 7 pm. I guess I’m just nervous about whether I can actually stick to it without feeling guilty or panicked about leaving things unfinished.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of setting boundaries around work time, such as stopping work at 7 pm. They recognize the importance of balance and have expressed a desire to align actions with personal values. Barriers like feeling guilty or anxious are acknowledged, and the client shows commitment by agreeing to experiment with the goal. Confidence is low but the client is open to trying small steps, indicating readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It's really great that you're open to trying out a specific end time for your work. That's a valuable step towards balancing your workload and personal life. It's understandable to feel nervous about this change and the feelings of guilt or panic that might arise. Recognizing these feelings is an important part of the process.\n\nYou've expressed that enjoying life and remaining healthy are key values for you. By setting a firm end time, you give yourself a chance to honor those values by ensuring you have time for both work and relaxation. \n\nAs you take this step, remember to be compassionate with yourself. If things don't go perfectly at first, that's completely okay. It's all part of the journey. Perhaps reflecting on any small progress or \"wins\" at the end of each day could help reinforce the positive effects of creating this boundary. \n\nFor the next step, let's focus on setting that end time and observing how it makes you feel over the next week. I'll be here to support you, and we can explore how it's working out for you in our next session. Keep in mind this process is about finding what works for you, so be gentle with yourself as you explore these changes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Thanks for your support. I'll give the firm end time a try this week, but I'm still worried about how it will feel not to push through until everything's done.",
+      "phase": "terminating"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session has covered goal setting, coping strategies, and a next-step plan, addressing the client's concerns about achieving balance. The client is prepared to implement a specific plan with therapist support.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! I'm glad you're here. Whenever you're ready, feel free to share what's on your mind or anything you'd like to talk about today.\nclient: Hey, thanks. I'm just feeling really overwhelmed with everything right now. It's like no matter how hard I try, I can't seem to catch up or feel like I'm making any progress.\ntherapist: therapist: It sounds like you're feeling overwhelmed because despite your efforts, you feel like you're not making progress. What are some of the things contributing to this feeling right now?\nclient: I think it's mostly the workload and the pressure to perform. It feels like there's just so much to do and no matter how much I accomplish, there's always more piling up.\ntherapist: It sounds like you're dealing with a lot of pressure from your workload, and it feels like you're never quite able to get ahead. What has this been like for you emotionally, and how have you been coping with it so far?\nclient: Honestly, it's been pretty draining. I've been trying to stay on top of things by working late and sacrificing downtime, but it just leaves me feeling exhausted and still behind.\ntherapist: It sounds like you're really giving your all, yet it's leaving you feeling drained and still struggling to keep up. What do you imagine life might be like if you could find a balance that allows for both productivity and downtime?\nclient: I imagine it would be less stressful and maybe I wouldn't feel so on edge all the time. I'd love to have time to relax without feeling guilty or worried about what I'm not doing.\ntherapist: It sounds like having that balance could really change things for you, offering a sense of relief and peace. On a scale of 0 to 10, how confident do you feel about finding ways to create that balance in your life?\nclient: Maybe like a 3 or 4? It feels like it's possible, but I just don't know how to get there right now. It seems really tough to make that change when everything feels so overwhelming.\ntherapist: It sounds like you're acknowledging the possibility of change, even though the path seems unclear right now. What aspects of your current routine or mindset might you think about adjusting to move towards that balance, even just a little?\nclient: I guess I could try setting some boundaries around my work time, like not working past a certain hour or taking actual breaks. But I worry that if I step back even a little, everything will just pile up even more.\ntherapist: It seems like you're considering some practical steps towards finding that balance, even though there are concerns about the impact. What values are most important to you when you think about creating this balance in your life?\nclient: I think feeling less anxious and being able to enjoy my life a bit more are really important to me. I want to do well in my program, but I also want to stay healthy and not lose myself in the process.\ntherapist: Therapist: It's clear you value both your well-being and your success. How might taking small steps towards balance help you feel more aligned with those values you hold dear?\nclient: client: I think taking small steps might help me feel like I'm making progress without it being too overwhelming. Maybe if I can just see some little wins, it could help me feel more in control and less anxious.\ntherapist: Therapist: Those small wins can be really encouraging, and it sounds like having control over your time is key for you. Based on what you've mentioned, possible options could include setting specific work hours and scheduling regular breaks. How do you feel about setting just one small goal to start with, like experimenting with a specific end time for work?\nclient: Yeah, I could try setting a firm end time, like stopping work at 7 pm. I guess I’m just nervous about whether I can actually stick to it without feeling guilty or panicked about leaving things unfinished.\ntherapist: It's really great that you're open to trying out a specific end time for your work. That's a valuable step towards balancing your workload and personal life. It's understandable to feel nervous about this change and the feelings of guilt or panic that might arise. Recognizing these feelings is an important part of the process.\n\nYou've expressed that enjoying life and remaining healthy are key values for you. By setting a firm end time, you give yourself a chance to honor those values by ensuring you have time for both work and relaxation. \n\nAs you take this step, remember to be compassionate with yourself. If things don't go perfectly at first, that's completely okay. It's all part of the journey. Perhaps reflecting on any small progress or \"wins\" at the end of each day could help reinforce the positive effects of creating this boundary. \n\nFor the next step, let's focus on setting that end time and observing how it makes you feel over the next week. I'll be here to support you, and we can explore how it's working out for you in our next session. Keep in mind this process is about finding what works for you, so be gentle with yourself as you explore these changes.\nclient: Thanks for your support. I'll give the firm end time a try this week, but I'm still worried about how it will feel not to push through until everything's done.",
+  "completed": false
+}

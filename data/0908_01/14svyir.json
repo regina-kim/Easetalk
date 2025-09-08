@@ -1,0 +1,280 @@
+{
+  "id": "14svyir",
+  "timestamp": 1688688000000,
+  "category": "emotional",
+  "concern": "I am terrified of going to college because I have debilitating anxiety. I am extremely fearful of talking and interacting with people outside of my family at home but I have never been allowed to get an actual diagnosis. Will I have to find a way to get a diagnosis so that I can be excused from any social assignments/classes? I assume that’s the only way they would allow it",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hi there! I'm glad you're here today. Feel free to share whatever's on your mind or any concerns you might have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, so I've been really stressed about starting college. I'm scared about all the social stuff and I'm worried I won't be able to handle it because of my anxiety.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's main concerns have been identified, involving anxiety about college and interaction with others. However, more context and exploration of their feelings, thoughts, and specific fears are necessary to understand fully and build rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "therapist: It sounds like starting college is bringing up a lot of stress and worry for you, especially around social situations because of your anxiety. Can you tell me more about what you're feeling and what specific concerns you have?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm just really scared of being forced into situations where I have to interact with a lot of people. It's overwhelming and I don't know if I can handle it without having some kind of breakdown.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's concerns about anxiety in social situations at college have been clearly elicited, but further exploration is needed to understand the detailed context and client's thoughts on potential solutions or goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like the idea of being in large social situations feels overwhelming for you, and you're worried about how you might react. Can you share more about what it is about these situations that feels most challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think it’s mostly the pressure to be \"on\" all the time, like having to make small talk or not knowing what to say. I get so anxious that I just freeze or want to avoid things altogether.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has clearly expressed their anxiety and specific fears about starting college, detailing the context and their feelings of pressure and avoidance in social settings. Empathy and rapport seem to be established, and their concern regarding a diagnosis has been introduced, suggesting readiness to explore motivation and change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the pressure to always be engaged and make conversation is really tough for you, and it leads to feelings of anxiety that make you want to avoid these situations. What do you think it might be like if you felt more comfortable in these scenarios?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I felt more comfortable, maybe I wouldn't feel so much dread about every little interaction. I could probably go through the day without constantly worrying about messing up or saying the wrong thing. ",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed specific concerns and has begun to explore how life might be different if more comfortable in social situations. However, there's no mention of change talk or specific goals yet, and more exploration is needed to understand and strengthen motivation.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like feeling more comfortable could really ease the dread and allow you to go through your day with less worry. What would be different in your life if that weight was lifted, and how might that align with any goals you have for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd be able to focus more on my studies without the constant background noise of anxiety. Maybe I could even make some friends or join a club, things that seem impossible right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change, recognizing the impact of anxiety on potential college experiences and goals. They envision a life with reduced anxiety, showing awareness of the positive outcomes of change. However, specific change goals or steps have not been articulated, and confidence levels weren't discussed. Progress should continue in the Guiding phase to solidify motivation and clarify next steps.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like reducing that anxiety could really open up opportunities for you, like focusing more on your studies and building social connections. On a scale from 0 to 10, how confident do you feel about moving towards feeling more comfortable in these situations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, probably around a 3. It just feels like such a big leap from where I am now, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed specific challenges and concerns, and there's been some exploration of life with and without change. The confidence level is low and no specific change goals or steps have been established yet. The conversation should continue to further explore motivations and build confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Therapist: It makes sense that it feels like a big leap right now. What do you think might help increase your confidence, even just a little bit, to take those first steps towards feeling more comfortable?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'm not really sure, but maybe breaking things down into smaller steps could help. Like, if I could manage smaller interactions without freaking out, maybe that'd make the bigger ones less scary.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific goal of breaking interactions into smaller steps to manage anxiety. Change Talk is present, but confidence is low at 3, indicating uncertainty about taking steps toward change. There's still ambivalence and no clear confidence increase, suggesting the client needs more exploration before action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Therapist: Breaking things down into smaller steps sounds like a thoughtful approach. What might be a small step that feels manageable to you right now, and how could that connect to reducing the anxiety you're experiencing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client: Maybe starting by saying hi to someone in my dorm or classroom, just something really low-pressure. If I can get used to that, it might make the idea of longer conversations less intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific change goal of starting small interactions to reduce anxiety. However, confidence is low at 3, indicating the client is not fully ready to move forward without further strengthening motivation and support.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It sounds like you're considering some manageable steps that align well with your goal of reducing anxiety. Saying hi to someone is a great start and shows your willingness to push your boundaries a little. How do you feel about trying this out, and what difference might it make in your day-to-day experiences?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "I feel a bit nervous about trying it out, but I know it's necessary to make progress. If I can manage to do it, even occasionally, it might make daily interactions less daunting over time.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expresses a clear change goal of reducing anxiety in social situations and is considering manageable steps to achieve this. Confidence is low at 3, indicating more exploration is needed to build it up. The conversation is actively addressing the discrepancy between current behavior and desired outcomes, but confidence needs to be higher. More guidance is needed to strengthen motivation.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It's understandable to feel a bit nervous, but it's encouraging to hear that you recognize the importance of taking those steps. What might it mean for you and your confidence if you start to see progress in these daily interactions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "If I start seeing progress, it might help me feel more comfortable in other social situations. Gaining a little confidence could make the thought of interacting with people less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a clear concern and explored the impact of change, with emerging Change Talk. They’ve identified a specific step of saying 'hi' to others. However, confidence is low at 3, indicating they are not yet ready to move to the Choosing phase. Further exploration of strategies to boost confidence is needed.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Therapist: Gaining that confidence could open up new possibilities for you socially. What is it about feeling more comfortable in social situations that matters to you personally?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Feeling more comfortable would make daily life and school a lot less stressful. It’d be nice to not feel so drained or on edge all the time when I'm around people.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a specific change goal of initiating small interactions to reduce anxiety. Change Talk is evident, and there's a commitment to try. However, confidence is low at 3, indicating the need for more support to boost confidence before action planning. This suggests readiness for the Choosing phase has not been fully achieved.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Therapist: That sounds like a meaningful shift for you. Reducing that stress could really enhance your daily life. On a scale of 0 to 10, how confident do you feel about taking these steps toward more comfortable social interactions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client: Honestly, I'd say maybe a 4 or 5. I'm aware it's a starting point, but it's still pretty daunting to think about.",
+      "phase": "guiding"
+    },
+    {
+      "index": "al",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shown increased confidence from 3 to 4-5 and has identified a specific action step (saying hi), indicating readiness to explore actions. Change Talk is present, with a focus on reducing anxiety and enhancing daily life. While confidence isn't high, the presence of a specific goal suggests readiness to advance to the Choosing phase.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Therapist: It's great that you recognize a starting point, even if it feels daunting. Given that, let's explore some steps you could take to gradually build that confidence. Based on what you've shared, possible options could include practicing small interactions daily or joining a group activity that interests you. What do you think about these ideas, or do you have other steps in mind?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client: I think starting with small interactions sounds more manageable for now. Joining a group activity seems a bit much at the moment, but maybe I can work up to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": "am",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has developed a clear goal of reducing social anxiety and has considered a concrete action plan of starting small interactions. The client discussed barriers and expressed initial confidence in taking small steps, indicating progress but not full readiness for termination.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Starting with small interactions seems like a good first step. What might be a specific goal you can set for yourself around this? Also, how do you think you could approach any challenges you might encounter along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "I think a specific goal could be to say hi to someone new in one of my classes each week. As for challenges, maybe reminding myself that it's okay if it doesn't go perfectly might help.",
+      "phase": "choosing"
+    },
+    {
+      "index": "an",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a specific goal and a manageable action plan to say hi to someone new each week. They have also acknowledged potential challenges and considered self-monitoring by reminding themselves that imperfections are acceptable. The client displays a willingness to take steps, albeit cautiously, indicating a readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "That's a great, manageable goal you've set for yourself - saying hi to someone new each week can really help build that social confidence over time. And it's wonderful to hear you're giving yourself permission to not be perfect; that's a crucial part of growth. As you take these steps, remember that each interaction is a step forward, no matter how it goes. Be kind to yourself, and celebrate your efforts along the way. As a next step, perhaps you could make a plan to reflect on your progress weekly. You might jot down how each interaction felt and what you learned from it. I'm confident that you'll find this journey rewarding, and I'll be here to support you as you continue. Remember, making these small changes can have a big impact over time. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely give the reflection idea some thought and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ao",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation covered goals, steps, and coping strategies, with a plan for small interactions and reflection. Client acknowledges the need for progress and has a plan. Session can naturally conclude for now.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hi there! I'm glad you're here today. Feel free to share whatever's on your mind or any concerns you might have.\nclient: Hey, so I've been really stressed about starting college. I'm scared about all the social stuff and I'm worried I won't be able to handle it because of my anxiety.\ntherapist: therapist: It sounds like starting college is bringing up a lot of stress and worry for you, especially around social situations because of your anxiety. Can you tell me more about what you're feeling and what specific concerns you have?\nclient: I'm just really scared of being forced into situations where I have to interact with a lot of people. It's overwhelming and I don't know if I can handle it without having some kind of breakdown.\ntherapist: It sounds like the idea of being in large social situations feels overwhelming for you, and you're worried about how you might react. Can you share more about what it is about these situations that feels most challenging for you?\nclient: I think it’s mostly the pressure to be \"on\" all the time, like having to make small talk or not knowing what to say. I get so anxious that I just freeze or want to avoid things altogether.\ntherapist: It sounds like the pressure to always be engaged and make conversation is really tough for you, and it leads to feelings of anxiety that make you want to avoid these situations. What do you think it might be like if you felt more comfortable in these scenarios?\nclient: If I felt more comfortable, maybe I wouldn't feel so much dread about every little interaction. I could probably go through the day without constantly worrying about messing up or saying the wrong thing. \ntherapist: It sounds like feeling more comfortable could really ease the dread and allow you to go through your day with less worry. What would be different in your life if that weight was lifted, and how might that align with any goals you have for yourself?\nclient: I think I'd be able to focus more on my studies without the constant background noise of anxiety. Maybe I could even make some friends or join a club, things that seem impossible right now.\ntherapist: It sounds like reducing that anxiety could really open up opportunities for you, like focusing more on your studies and building social connections. On a scale from 0 to 10, how confident do you feel about moving towards feeling more comfortable in these situations?\nclient: Honestly, probably around a 3. It just feels like such a big leap from where I am now, you know?\ntherapist: Therapist: It makes sense that it feels like a big leap right now. What do you think might help increase your confidence, even just a little bit, to take those first steps towards feeling more comfortable?\nclient: I'm not really sure, but maybe breaking things down into smaller steps could help. Like, if I could manage smaller interactions without freaking out, maybe that'd make the bigger ones less scary.\ntherapist: Therapist: Breaking things down into smaller steps sounds like a thoughtful approach. What might be a small step that feels manageable to you right now, and how could that connect to reducing the anxiety you're experiencing?\nclient: client: Maybe starting by saying hi to someone in my dorm or classroom, just something really low-pressure. If I can get used to that, it might make the idea of longer conversations less intimidating.\ntherapist: It sounds like you're considering some manageable steps that align well with your goal of reducing anxiety. Saying hi to someone is a great start and shows your willingness to push your boundaries a little. How do you feel about trying this out, and what difference might it make in your day-to-day experiences?\nclient: I feel a bit nervous about trying it out, but I know it's necessary to make progress. If I can manage to do it, even occasionally, it might make daily interactions less daunting over time.\ntherapist: It's understandable to feel a bit nervous, but it's encouraging to hear that you recognize the importance of taking those steps. What might it mean for you and your confidence if you start to see progress in these daily interactions?\nclient: If I start seeing progress, it might help me feel more comfortable in other social situations. Gaining a little confidence could make the thought of interacting with people less overwhelming.\ntherapist: Therapist: Gaining that confidence could open up new possibilities for you socially. What is it about feeling more comfortable in social situations that matters to you personally?\nclient: Feeling more comfortable would make daily life and school a lot less stressful. It’d be nice to not feel so drained or on edge all the time when I'm around people.\ntherapist: Therapist: That sounds like a meaningful shift for you. Reducing that stress could really enhance your daily life. On a scale of 0 to 10, how confident do you feel about taking these steps toward more comfortable social interactions?\nclient: client: Honestly, I'd say maybe a 4 or 5. I'm aware it's a starting point, but it's still pretty daunting to think about.\ntherapist: Therapist: It's great that you recognize a starting point, even if it feels daunting. Given that, let's explore some steps you could take to gradually build that confidence. Based on what you've shared, possible options could include practicing small interactions daily or joining a group activity that interests you. What do you think about these ideas, or do you have other steps in mind?\nclient: client: I think starting with small interactions sounds more manageable for now. Joining a group activity seems a bit much at the moment, but maybe I can work up to it.\ntherapist: Starting with small interactions seems like a good first step. What might be a specific goal you can set for yourself around this? Also, how do you think you could approach any challenges you might encounter along the way?\nclient: I think a specific goal could be to say hi to someone new in one of my classes each week. As for challenges, maybe reminding myself that it's okay if it doesn't go perfectly might help.\ntherapist: That's a great, manageable goal you've set for yourself - saying hi to someone new each week can really help build that social confidence over time. And it's wonderful to hear you're giving yourself permission to not be perfect; that's a crucial part of growth. As you take these steps, remember that each interaction is a step forward, no matter how it goes. Be kind to yourself, and celebrate your efforts along the way. As a next step, perhaps you could make a plan to reflect on your progress weekly. You might jot down how each interaction felt and what you learned from it. I'm confident that you'll find this journey rewarding, and I'll be here to support you as you continue. Remember, making these small changes can have a big impact over time. You've got this!\nclient: Thanks, I appreciate the encouragement. I'll definitely give the reflection idea some thought and see how it goes.",
+  "completed": false
+}
