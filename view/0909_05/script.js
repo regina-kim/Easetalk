@@ -215,6 +215,13 @@ function appendRow({ role, statement, phase }) {
   // 발화문 줄바꿈 처리
   const textSpan = document.createElement("span");
   const fragment = document.createDocumentFragment();
+
+  // 만약 statement가 객체(dictionary)이면, 화면에 예쁘게 표시하기 위해 JSON 문자열로 변환합니다.
+  let statementText = statement;
+  if (typeof statementText === 'object' && statementText !== null) {
+    statementText = JSON.stringify(statementText, null, 2); // 2칸 들여쓰기로 포맷팅
+  }
+
   statement.split("\n").forEach((line, idx) => {
     fragment.appendChild(document.createTextNode(line));
     if (idx < statement.split("\n").length - 1) {
