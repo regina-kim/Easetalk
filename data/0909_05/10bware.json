@@ -1,0 +1,136 @@
+{
+  "id": "10bware",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you may have something on your mind. Would you like to share what's been going on with you lately? I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, yeah, I've just been feeling really stressed about my academic situation. I've been trying to juggle everything and figure out a new path, but it's been pretty overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and context have been shared, including their thoughts and feelings about academic stress and changing paths. Empathy and rapport have been initiated as the client has opened up about their challenges. The next step is to explore motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Balancing academics and planning for the future can indeed feel overwhelming. What are some of your thoughts about this new path that you're considering?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I’m thinking about moving away from the med school track and maybe into something else, like public health or even something completely different. But I’m worried about making the wrong choice and just feeling stuck again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence about their academic path and future, indicating exploration of life with and without change. They have shared stressors and new paths, but specific change talk or goals are not strongly present yet. Confidence and readiness need further exploration.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching paths can bring up a lot of uncertainty. What draws you towards public health or another field, and how might these align with your personal values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Public health seems interesting because it’s still in the realm of helping people but isn’t as intense as med school. I like the idea of working on a bigger scale, like community health, but sometimes I’m not sure what aligns with my values or if I’m just looking for an easier path.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored discrepancies and values, but there's insufficient specific Change Talk and no clear change goal or confidence level established. Ambivalence about paths and values suggests continuing in the Guiding phase to strengthen motivation and clarify goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Exploring a career path that involves helping others on a broader scale sounds intriguing. What aspects of community health and helping people feel most meaningful to you, and how do you envision these fitting into your long-term aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think the idea of improving overall community wellbeing and making a difference in people's lives on a larger scale is what feels meaningful to me. Long-term, I just want to feel like I'm contributing positively and doing something that matters, but I’m still figuring out how that fits with my skills and interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed change talk, exploring new academic paths aligned with their values. They discussed life with and without change, and showed decreased ambivalence. There's a clear desire to contribute positively, suggesting openness to developing specific plans. The confidence level is implicit and aligns with change talk, indicating readiness to proceed to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your desire to contribute positively and make a difference is truly admirable. Based on what you've shared, possible options might include exploring specific roles in public health that align with your skills and interests or even talking to professionals in those fields to gain insight. What steps do you think you might take to further explore these possibilities, and what support would be helpful as you navigate this decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Talking to professionals in the fields I’m interested in sounds like a good idea to get a real sense of what those jobs are like. I think I might look into informational interviews or networking events to start. Support-wise, just having someone to talk things through with and maybe help me sort out my strengths and interests would be really helpful as I figure this out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to explore new academic paths and consider roles in public health. They have formulated an action plan of talking to professionals through informational interviews. Barriers such as GPA challenges and self-doubt have been acknowledged, with a desire for support to sort out strengths and interests. The client is showing readiness by taking steps to explore options and seeking supportive resources.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You're taking a thoughtful approach to exploring new paths, which is a great step forward. Reaching out for informational interviews and attending networking events can provide valuable insights and clarity. It can also be helpful in identifying how your strengths and interests align with potential roles. Having someone to discuss these reflections and discoveries with, like a mentor or advisor, can give you the support you need as you make these decisions. \n\nIn the coming weeks, focusing on setting up those initial conversations seems like a proactive next step. Remember, each step you take is moving you toward a clearer understanding of what truly resonates with you. You're doing wonderfully by seeking out ways to align your career path with your personal values and strengths. Keep me in the loop with how things progress, and we can chat about what you learn along the way. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll work on setting up those chats and see what comes out of them. It's good to know I can talk to you as I figure things out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified next steps, including talking to professionals and attending networking events. The therapist has offered support and encouragement, summarizing goals and strategies. This provides a natural closure for the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Need some helpful advise/encouragement?\nI have been in a pre-med post bac for a year now and decided that med school is not for me after a very challenging year and getting grades that tanked my GPA (not failing grades but adequate Cs). The school provides the option to transition from this program to a masters program however , a requirement of 3.0 GPA is needed. I am trying to switch academic paths, and it seems almost impossible for me to raise two, 5-credit hour courses that I earned Cs in. Meaning I need to get A’s in all of my classes this semester of 10 credits. This is kinda unrealistic for me as I have never achieved “straight A’s” in my academic career, and being in STEM, it’s really really hard to. For whatever reason, experiencing COVID during the later half of my undergraduate career has not set me up for grad school. I am trying to figure out new study habits and have been improving my grades as I retook a class while working part time. But I still have doubt I can achieve As in my classes. Any advice would be appreciated.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

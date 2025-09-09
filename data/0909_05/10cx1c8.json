@@ -1,0 +1,136 @@
+{
+  "id": "10cx1c8",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here today. How have things been going for you recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Things have been pretty overwhelming lately. I'm just trying to navigate some big decisions about my future and it's been weighing on me a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their educational journey, concerns about mental health, and feelings around their future decisions. There's a clear understanding of the client's context and emotional state, with established rapport. They have expressed a coherent goal of 'mastering out' from their program. This suggests readiness to transition from Exploring to addressing motivation in Guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Navigating big decisions can feel really heavy. What are some of the future aspects you're considering that are bringing up these feelings?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: It's mostly about my grad program and whether I want to stick it out or not. I've just been feeling so drained and questioning if it's really the path I want to be on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk, indicating a desire to change their current academic path. They have also identified a specific change goal of 'mastering out'. However, the conversation has not yet explored confidence levels or potential barriers in depth. Additionally, there is no indication that ambivalence or sustain talk has decreased. Further exploration of these aspects is needed to ensure readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Deciding whether to continue with your grad program sounds like a significant decision. What are some factors that make you question if this path aligns with your goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Well, I've been thinking about how much I've sacrificed my mental health for this program. I used to feel passionate about it, but now I just feel like I'm going through the motions and it's hard to see if it's truly what I want anymore.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk by questioning the path of their grad program and the impact on mental health. They have identified a specific change goal to 'master out.' There is a noticeable decrease in ambivalence, and motivations have been explored. The guiding goals have been met, signaling readiness to collaboratively develop an action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It can be really tough when your passion feels like it's fading, especially when it impacts your mental health. Considering what you’ve shared, exploring both the option to continue the program and the possibility of taking a break or changing paths could be helpful. What steps would you like to explore first to help you feel more confident about your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm thinking about talking to my program head to get more clarity on the logistics of mastering out and what that would mean for me. I also want to take some time to reflect on what really matters to me and what I need to prioritize for my well-being.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of mastering out and has a plan to discuss logistics with the program head. They have also begun reflecting on their priorities for their well-being. However, potential barriers, such as concerns about receiving the M.Ed, remain and require more exploration. Confidence and commitment are present but need solidifying with self-monitoring strategies.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Considering these thoughtful reflections, exploring a conversation with your program head and spending time reflecting on your priorities seem like meaningful steps. How would you like to arrange these actions, and what might help you maintain balance while you navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think I'll start with setting up a meeting with my program head. Getting a clear understanding of my options will probably help ease some of my anxiety. After that, I'll carve out some quiet time for myself to really think about what I want and need right now. Maybe I can balance it all by setting small, manageable goals each week to help keep me grounded.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal to master out and developed an action plan to meet with the program head for clarity. Barriers related to mental health and academic pressures have been discussed, and they plan to reflect on priorities. Self-monitoring through setting weekly goals is agreed upon. The client shows commitment and steps toward change, indicating readiness to transition.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds like a well-considered plan. Meeting with your program head could indeed bring a lot of clarity, and taking time for personal reflection is crucial for aligning your path with what truly matters to you. Setting small, manageable goals each week is a great strategy to stay grounded and prevent overwhelm. You've shown great insight and courage in addressing these feelings.\n\nTo support this process, you might find it helpful to journal your thoughts or talk with someone you trust. Remember, it's perfectly okay to take things one step at a time. It's inspiring to see you prioritize your well-being. Let's reconnect soon to see how things are progressing and address any new thoughts or feelings that arise. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll try to journal a bit more and maybe reach out to a friend. I'll definitely keep you posted on how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals have been met as the client has outlined clear next steps and coping strategies, and a plan to check in on progress was discussed. Closure was naturally reached without further issues pending.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Mastering out\nHi Everyone!\n\nI currently attend an Ed.S dual degree program where I receive a M.Ed and Ed.S. I am 2.5/3 years in. As of December I have received an email from my program head stating that our cohort were “granted our M.Ed but won’t receive it in May” due to meeting the requirements of Ed.S then and receiving them both then. \n\n(Vent time; Question on the bottom)\n\nThe remaining of my time in the program and within the last year in clinical… has made me realize I’ve sacrificed so much of my mental health. I had an impromptu eval from my site supervisor Friday where she plainly asked me “Do you even want to be here?” Through this evaluation crushed me, it’s made me realize that I may not want to be here. As I’m sure as most academic personalities, I place such a high standard on myself that Ive realized placed in me in toxic academic environments and dealing with grad personnel within these environments. To the point where I’ve forgotten about my mental health by only thinking about the future, where I need to start thinking about the present me. Many in my life have been telling me to stick it out, but I’ve had this mindset for the last 2 years. I’m genuinely tired of sticking it out in a career where I’ve lost passion for. (Okay, vent time over)\n\nOverall, I’m planning on mastering out. So my general question is, could I still plan to master out if my M.Ed is granted but it won’t be conferred until May of 2023? I’m afraid my program head will prevent me from receiving it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

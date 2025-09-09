@@ -1,0 +1,220 @@
+{
+  "id": "1gmh55y",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything particular you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty stressed out. I've been trying to find a job and I'm having no luck, and on top of that, I'm worried about not being able to pursue a master's because I don't have anyone to write me recommendations. It’s just been a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns and background about job searching and difficulties with pursuing a master's degree, providing relevant context and feelings. Empathy and rapport are beginning to form, and mutual understanding is developing. However, mutually agreed goals have not yet been fully established.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're dealing with a lot of pressure from both job searching and concerns about your future education. Feeling stressed makes sense given the circumstances. Can you tell me more about what the job search has been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, it's been pretty discouraging honestly. I've applied to tons of places, but I either don't hear back at all or get rejections. It's hard to stay motivated when nothing seems to be working out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's primary concerns about job searching and educational aspirations, along with the emotional context and barriers she is facing. Rapport and empathy are evident, and the client's story and feelings are clear. Exploring goals appear met, allowing for a transition to evoking motivation in the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Searching for a job can indeed feel disheartening, especially when responses aren't coming through. You've been putting in a lot of effort, which shows your determination. What keeps you going during these tough times, despite the challenges you're facing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, I just keep telling myself something has to work out eventually. I try to remind myself why I chose this field and how much I want to succeed. Plus, talking to friends or just taking a break helps keep me somewhat sane.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both the challenges faced and some motivation through self-affirmation and support from friends, indicating some Change Talk. However, no specific change goal or next step has been clearly identified yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Your persistence and reasons for choosing your field really highlight your commitment to your goals. It must be comforting to have friends and strategies that provide relief during this stressful period. How do you envision your life changing if you find the right job or get into the master's program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "If I find the right job, I think I'd feel a lot more secure and less stressed about my future. Getting into a master's program would probably give me a clearer path and open up more opportunities. It'd just feel like I'm moving forward instead of being stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by highlighting their reasons for choosing their field and envisioning a better future with a job or master's program. They have specific goals of finding a job and pursuing further education. However, confidence has not been explicitly assessed, and ambivalence remains about challenges in job applications and master's recommendations.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "therapist: Imagining a future where you're secure and moving forward sounds really motivating. It highlights how these changes align with your life goals. On a scale of 0 to 10, how confident do you feel about making progress toward these goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: I'd say maybe around a 5. I have some hope and I'm trying to stay positive, but the constant setbacks make it tough to feel super confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their current challenges and motivations, and has envisioned how their life would improve with change. However, their confidence is at 5, indicating moderate motivation but also significant doubt. No specific change goals have been set yet. It is advisable to continue exploring and strengthening their confidence and clarity on next steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Your hope and effort show a lot of strength, even amidst setbacks. Being at a 5 means there's a foundation you can build upon. What do you think could help boost your confidence just a bit higher on that scale?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think having more skills or experiences that make me stand out could help, or maybe finding a mentor who can guide me a bit. Also, just getting some positive feedback from applications might give me a little boost.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses some Change Talk and a desire for positive progress. They identify potential actions like gaining skills and seeking mentorship to boost confidence. However, confidence is at a 5, indicating more guidance is needed to strengthen motivation and address ambivalence before planning specific actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Positive feedback and gaining skills or experiences can certainly make a difference in how you feel about your progress. Seeking a mentor could provide valuable guidance and encouragement. How might you begin exploring these possibilities to enhance your confidence further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: I guess I could start by looking for online courses or workshops to help build up my skills. For finding a mentor, maybe I could reach out to people in my field on LinkedIn or ask around in my network. It might be worth trying to connect with alumni from my university too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential next steps, like seeking skills, experiences, and mentorship, indicating motivation for change. However, confidence is at a 5, showing ambivalence remains. Guiding should continue to strengthen confidence and reduce ambivalence before action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring online courses and reaching out to your network for mentorship opportunities sounds like a proactive approach. These steps could not only enhance your skills but also open up new possibilities. How do you feel about taking these actions, and what difference might they make in moving you toward your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "I feel a bit more hopeful thinking about taking these steps. I guess they could make me feel like I'm actually doing something productive and give me a better chance at standing out. If anything, it might just make me feel less stuck and more in control of where I'm heading.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific steps to increase confidence and has shown motivation to explore new opportunities. They have considered life with and without change, and their confidence level has slightly improved, indicating readiness to begin action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Feeling more hopeful about these steps is a wonderful start. Taking action to build skills and connect with mentors can indeed provide a sense of progress and control. Would you like to set a specific goal to begin with, like enrolling in one course or reaching out to a certain number of potential mentors? What barriers do you foresee, and how could you plan for them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: Setting a specific goal sounds like a good idea. Maybe I'll aim to enroll in one online course by next week and reach out to three potential mentors. As for barriers, I worry about not hearing back from people or finding the right course, but I guess I can keep looking and follow up if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to enroll in an online course and reach out to potential mentors, with plans to address potential barriers like lack of response or course availability. They express some hope and see these steps as productive actions towards their goals, indicating readiness to move forward with their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Deciding to enroll in a course and connect with potential mentors shows great initiative. It's understandable to have those concerns, but your willingness to follow up and search for the right fit demonstrates resilience. If you encounter setbacks, remember to practice self-compassion and give yourself credit for each step you take. Recognizing your efforts is a powerful way to stay motivated and keep moving forward. Whenever you need to talk through any difficulties or share your successes, I'm here to support you. Keep me posted on how your plans unfold, and know that you've got the strength to navigate this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and knowing I can reach out if things get tough. I'll keep you updated on how it goes and try not to be too hard on myself along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific, actionable goals and expressed a sense of hope and control. While concerns remain, the plan to take proactive steps addresses these. Closure has been reached, making it natural to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can’t find a job and can’t get my masters am I screwed?\nSo I’ve been applying for jobs and haven’t had much success with getting any offers. My parents keep hounding me about getting my masters degree yet the problem is that I don’t have any professors to ask for letters of recommendation. I was never really too close to them and wouldn’t go to that many office hours since I never really needed to. A lot of the classes I took I would get A’s so I didn’t really see the need to go to office hours and it’s just weird to be there for non-class related reasons. I was involved with an extra-curricular so I didn’t really get into any research. At this point am I screwed if I can’t get any jobs and can’t get a masters degree. ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

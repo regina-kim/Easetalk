@@ -1,0 +1,178 @@
+{
+  "id": "11fmf55",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything on your mind that you'd like to share?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm feeling a bit overwhelmed. I've got this big decision about grad school that's been weighing on me, and it's just been tough to figure out what to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to uncover the client's dilemma about choosing between schools, including factors such as funding and personal relationships. However, further exploration is needed to fully understand the client's emotions and priorities, as well as to establish rapport and mutual goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Deciding about grad school can feel overwhelming because it's such a big step. What are some of the thoughts or concerns you have around this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I guess it's mainly about choosing between a great opportunity for myself and being with my partner. It feels like no matter what I choose, I'm giving something up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has successfully elicited the essence of the client's dilemma regarding the grad school decision, the emotional impact of possibly giving up something significant, and the context involving the partner's situation. Empathy and rapport seem established, enabling a transition towards strengthening motivation and exploring potential solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a challenging situation, balancing personal growth with relationships. What matters most to you when you think about your future and your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think being happy and fulfilled is important, both in my career and personal life. I want to make the right choice for my future but also don't want to lose someone I care about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their values and behavior, explored their life with and without change, and reacted to a summary. Change Talk is present, with specific change goals identified. However, confidence and ambivalence need further exploration.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Striving for happiness and fulfillment in both career and personal life shows how much you value a balanced future. What would life look like for you if you pursued grad school and maintained your relationship?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I imagine it would be pretty fulfilling, having the chance to pursue my passion while also being with someone I love. But it also feels like a big juggling act, trying to make it all work smoothly without compromising too much in either area.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk regarding pursuing grad school while maintaining the relationship, and values clarification has been explored. However, there's still noticeable ambivalence about prioritizing career vs. relationship. Further exploration of barriers and confidence is needed before progressing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing your passion for grad school with maintaining your relationship seems like an intricate dance. When you envision this future, what strengths do you think you could draw upon to help manage this juggling act?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: I think communication would be key, like being open and honest with my partner about everything. Also, staying organized and making sure I prioritize my time well could help me manage both aspects of my life.\n",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed key values and a vision of a future with both career and personal fulfillment, indicating a discrepancy between staying with their partner and pursuing a prestigious opportunity. They've identified strengths like communication and organization to manage this. However, specific change goals and decreased ambivalence are not yet evident. It's prudent to continue exploring and clarifying their motivations and goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Your awareness of the importance of communication and organization shows how proactive you are about managing this balance. How do you feel about your ability to maintain open communication and effective time management in this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I feel pretty confident that I can keep the lines of communication open with my partner. Time management might be a bit trickier, especially with all the demands of a PhD, but I think I can make it work if I stay focused and plan ahead.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of balancing grad school and relationship, with confidence in communication and some confidence in time management. Change Talk is evident, and ambivalence is reducing as they consider both paths. The client is beginning to articulate their strengths and explore outcomes with and without the change, indicating readiness to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Your confidence in keeping communication open and your willingness to focus on time management are great assets. Considering this, what specific steps might you take to stay organized and ensure you have time for both grad school and your relationship? Based on what you've shared, options might include setting regular check-ins with your partner or creating a structured weekly schedule. What do you think could work best for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Setting regular check-ins with my partner sounds like a good idea, just to make sure we're both on the same page and staying connected. As for a weekly schedule, I think it could really help to set specific times for studying, research, and also for personal time, so I don't get too overwhelmed and can still enjoy being with my partner.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving setting regular check-ins with their partner and creating a structured weekly schedule. They have discussed potential barriers, like time management, and expressed confidence in communication and organizing strategies. They are proactively considering steps to balance grad school and their relationship, showing readiness for action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's impressive how you've identified these specific steps to maintain balance, and having a plan like regular check-ins and a weekly schedule can really support your goals. By structuring your time and open communication, it sounds like you're crafting a path where both your academic and personal life can thrive. I encourage you to take things day by day and remember it's okay if adjustments are needed along the way. Your focus and determination shine through, and I'm confident you'll navigate this journey with grace. Moving forward, it might be helpful to start implementing these strategies gradually and celebrate the small victories as you find your rhythm. I'll be here to support you through this process as you take these thoughtful steps towards your fulfilling future.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll start putting these steps into action and see how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps and strategies to address their concern, and the therapist has offered support for implementing these. A next-step plan with coping strategies has been discussed, suggesting closure is achieved.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Choosing a grad school: funding vs love\nI feel like I’m in an impossible situation so I’d love some advice from the community. \n\nI’ve been accepted at two good schools (top 15/20) for a PhD in astronomy/astrophysics. I am very grateful and lucky! I really like both schools but each has its pros and cons. \nHowever, school A is offering me a really nice fellowship and is a little bit more prestigious than school B. But school B is in a big city which I really like and most importantly my long term partner (who I hope to marry) got into a phd in physics there too. The funding situation isn’t great there for either of us. \n\nMy partner applied to school A and would prefer it over school B but he hasn’t heard back yet. We both assume he’s been rejected. I feel like I should choose school B but I will be giving up a better funding situation and great opportunity at A. \n\nFor context I don’t really know yet exactly what I want to do after the phd. Something in research ofc (that’s why I’m going) but not necessarily in academia. Also my partner is an excellent student and researcher but an international student so he has been having a hard time getting into programs. \n\nWhat should I do? Should I tell school A about my partner? Which should I choose?\n\nThanks for any advice.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "10fwbx8",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm just feeling a bit stuck and unsure about a project my PI wants me to work on. It's not really what I'm interested in, and I'm not sure how to handle it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concern about a project mismatch with their PI's expectations, and some context about their recent work and interests. While the essence of the story is emerging, more exploration of thoughts, feelings, and potential goals is needed to build rapport and understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It must be challenging to feel stuck and uncertain about a project that doesn’t align with your interests. What aspects of the project are causing the most concern for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I guess it's mostly that I was really excited to dive into something I was passionate about, and now it feels like I'm being pushed in a different direction. Plus, I'm worried I won't be as motivated or effective working on something I'm not really into.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their feelings of being stuck and unsure about the project, as well as the mismatch with their interests. However, additional exploration is needed to understand the agreed goals and emotions fully. It is important to deepen the rapport and empathize further before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable you're feeling a bit disheartened being shifted away from something you're passionate about. You might be concerned about your motivation and effectiveness suffering because of this change. How have you handled similar situations in the past where your interests and tasks didn't align?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Well, usually, I just try to push through and focus on doing my best, but it's harder when there's a big difference between what I want to do and what I'm being asked to do. I sometimes end up feeling kind of disconnected from the work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concerns and feelings about being assigned a project that doesn't align with their interests. The therapist has shown empathy and explored the client's past handling of similar situations, but further exploration of feelings and context is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you really strive to do your best, even in situations where your interests don't align with the task at hand, but it can leave you feeling disconnected. What have you found helpful in those moments to reconnect or manage that disconnection?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Sometimes talking it out with friends or colleagues helps a bit, just to get different perspectives. Other times, I try to find small parts of the project that I do find interesting or try to learn something new from it, even if it's not perfect.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has elicited the core elements of the client's story, their feelings of disconnection, and strategies they have used before. Empathy and understanding have been demonstrated. While mutually agreed goals have not been explicitly defined, the understanding seems sufficient to begin strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring different perspectives and finding small areas of interest within a project seem to be valuable strategies for you. How might applying these approaches to your current situation influence your feelings about the project or your motivation towards it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think if I really try to pinpoint some parts of the project that could spark my interest or give me a chance to learn something new, it might make it a bit more bearable. Also, hearing what others have to say about it might help me see it in a new light.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a discrepancy between their interests and the assigned project, explored past strategies for coping, and considered potential new approaches. Change Talk is present with a specific step to explore parts of the project that spark interest, indicating readiness to plan further.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Therapist: Those sound like constructive steps forward. Identifying parts of the project that interest you and seeking input from others could indeed shift your perspective. Would you like to set a goal to identify those aspects and have some conversations with colleagues? How might you go about making this happen, and what could be some potential challenges you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, setting a goal to find those interesting bits sounds like a good idea. I could start by listing out the different parts of the project and see which ones might overlap with my interests, even a little. As for talking to colleagues, I could bring it up casually when we're chatting about work. The challenge might be not getting too focused on the negatives and staying open-minded during these chats.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a specific goal to identify parts of the project that interest them and to have conversations with colleagues. They have also recognized potential challenges and strategies to overcome them, showing commitment and readiness to take steps towards change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan to move forward. Listing out the project components and identifying those overlaps with your interests is a great step towards finding where your passion can shine. Bringing it up casually with colleagues can offer fresh insights and support, helping you to stay open-minded. It's important to remember that focusing on the positives and remaining open to learning can shift your experience with the project. You're already showing a lot of resilience and insight in thinking this through.\n\nAs you navigate this, it might be helpful to remind yourself of your strengths in pushing through challenges and your ability to adapt. Your openness to finding interest and learning opportunities is a real asset here. For your next steps, maybe you can schedule some time to review the project details and start those conversations with your colleagues. I'm confident that you'll find aspects that will engage you and enrich your experience. You've got this, and I'm here to support you through any challenges that arise.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Thanks, I appreciate the encouragement. I'll try to carve out some time to dig into the project details and chat with a few people soon. It's a bit daunting, but I'll give it a go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist summarized goals and coping strategies. A next-step plan was discussed, including identifying interesting project aspects and seeking colleague input. The session can naturally conclude as the client has actionable steps and support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Not very interested in the project that my PI wants me to work on\nHey guys,\n\nIm a Masters student and I joined this group 3 months ago, I have been working on another project with a grad student and now my PI wants me to work individually on another project. He pitched me two projects and both projects although related to the project that I have been assisting, are very different from my research interests and the project that I was assisting. When I joined the group, I was briefed on the project that the graduate student was working one and I assumed that I would be working on a similar project, as this aligns with my research interests.  \n\nHow do I handle this situation?\n\nThank You",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

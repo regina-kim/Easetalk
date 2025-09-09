@@ -1,0 +1,157 @@
+{
+  "id": "1ch4hh6",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hi! I've been feeling pretty unfulfilled with my current job and I'm considering a big career change, but I'm not sure where to start or if it's the right move. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly shared her thoughts, feelings, and context regarding her career dissatisfaction and aspirations. Her goals of finding a more fulfilling career in academia or public service are evident, and she is open to further education. This provides a strong foundation for moving into the Guiding phase to strengthen motivation and explore potential pathways.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Feeling uncertain about such a significant decision is completely normal. What aspects of your current job leave you feeling unfulfilled, and how do you envision a new career might change that?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, the work feels pretty monotonous and disconnected from what I'm passionate about. I imagine a new career would be more aligned with my interests, allowing me to feel like I'm contributing to something meaningful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change, articulating dissatisfaction with her current job and envisioning a more fulfilling career aligned with her interests. Change Talk is present, and she is open to further education. However, she remains unsure about the exact path forward, indicating ambivalence. Confidence level is not explicitly stated. Further exploration in Guiding is needed to clarify goals and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're envisioning a career that resonates more with your passions and values. What specific interests or contributions do you hope to pursue in a new career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm really into research and academia, especially topics like sociology and religious theology. I'd love to explore how religion affects global affairs and social development. I'm also open to public policy or maybe even something in the medical field where I could make a positive impact.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for a career change that aligns with their values and passions, shown a decrease in ambivalence, and identified specific interest areas like research and academia. However, there is no specific next step or confidence assessment, indicating a need for further evoking and exploration.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Exploring your interests in research, academia, and making a positive impact shows how diverse your passions are. What would your life look like if you were engaging in a career that aligns with these interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think I'd feel more motivated and fulfilled, like I'm working towards something I genuinely care about. I'd probably be more excited about my day-to-day and have a clearer sense of purpose.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific interests and potential new career paths, indicating some clarity and motivation for change. However, they are still weighing options and seeking advice, showing ambivalence. Confidence wasn't explicitly measured, and further exploration may reduce uncertainty. Guiding should continue to solidify change goals and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Imagining a life filled with motivation and excitement sounds truly inspiring. What steps or changes do you think might help you move towards this more fulfilling career path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: I think the first step would be doing some research into potential career options or maybe talking to people already in those fields to get a better picture. Then, I might look into further education or certifications that could help me make the switch.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown a clear discrepancy between her current job and desired career aligned with her interests and values. She has expressed a specific next step to research career options and consider further education. Change Talk is evident, and her ambivalence seems reduced as she envisions a fulfilling career. Her determination to explore new paths indicates readiness to transition to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Researching career options and connecting with people in those fields are great starting points. Would you like to set a specific goal, like reaching out to a certain number of professionals or dedicating time each week to research? Perhaps, we could also discuss educational paths or potential barriers you might anticipate along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, setting a goal sounds smart. Maybe I could aim to connect with at least three professionals in the fields I'm interested in and dedicate a couple of hours each week to researching career paths. I'd definitely like to talk about potential educational paths and any barriers I should keep an eye out for.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal and action plan, including connecting with professionals and dedicating time to research. Potential barriers, such as educational paths and financial considerations, have been acknowledged. The client demonstrates readiness through commitment to taking steps. Moving to Terminating would support further implementation and refinement of their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Your plan to connect with three professionals and dedicate time to research each week is a proactive approach to navigating this career change. By engaging with those already in the field, you'll gain valuable insights and clarify your direction. As we consider educational paths, it's important to explore programs or certifications that align with your interests in research and positive impact. \n\nPotential barriers might include time management or financial considerations, so perhaps developing a flexible plan will help you stay resilient. Remember, you're taking meaningful steps towards a career that excites you, and that's incredibly commendable. As a next step, let's touch base on your progress in our future sessions, and we can explore these educational options and any challenges that arise together. Keep nurturing that sense of purpose; you're on an encouraging path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll start reaching out and researching, and we can discuss any roadblocks I come across in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan involving reaching out to professionals and dedicating time to research, with future sessions planned to address any roadblocks and educational paths, aligning with termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Those who went back to school for a more rewarding career change, was it worth it? Any advice on my situation is appreciated\nI'm a 23y/o woman seeking a career change. I graduated in 2021 with a BA in Communication Science and Rhetorical Studies, along with a certificate in Digital Studies and History.\n\nCurrently, I work as a technical writer for a Silicon Valley tech startup. While the pay is good, the work environment is far from fulfilling. I work with software and Al, and truthfully it's quite soul crushing. I don't measure success solely by income, although still important, I'm really eager to pursue something that aligns more with my interests and makes some kind of meaningful impact.\n\nMy primary interest lies in research and academia, particularly in sociology or religious theology. I've always been fascinated by the history of religion's influence on global affairs, social development, government regulation, etc. I spend most of my free time reading on these topics. However, I'm aware of the challenges in these fields: they're highly competitive, underfunded, and aren't expected to grow. (Rip humanities)\n\nBeyond academia, I'm open to exploring other fulfilling paths such as public policy, government, or the medical field. However, I'm uncertain where to begin in discovering options in these fields that I could pursue.\nI'm willing to pursue further education through a master's or doctorate to make this career switch, but I want to be sure it's not a dead end. Currently, I'm still paying off my undergraduate loans ($25,000 remaining).\n\nI suppose I'm really looking for advice from those who have been in a similar situation. With my current background, where can I go from here without net to start from scratch? I really need to get out of Silicur Valley world and the people in it. Apologies for the long post, and thanks in advance to all.\n",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

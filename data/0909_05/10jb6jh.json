@@ -1,0 +1,136 @@
+{
+  "id": "10jb6jh",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Would you like to share what's been going on lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! Yeah, I've been thinking a lot about my future plans after undergrad. I'm trying to figure out if I should jump straight into a PhD after my master's or not.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation is still in the initial stages, with the client expressing concerns and thoughts about their academic future. The therapist has not yet fully explored the client's feelings, motivations, or the context of these decisions. More exploration is needed to build rapport and understand the client's perspective before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Deciding on future plans can be quite overwhelming. What are some of the thoughts and feelings you've been experiencing as you consider your options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I'm definitely feeling a bit torn. On one hand, I'm excited about the idea of diving deep into research with a PhD, but on the other hand, I'm not sure if I'm ready for such a long commitment right after my master's. It's just a lot to think about, and I don't want to rush into anything I'll regret.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and related feelings, allowing a preliminary understanding of their dilemma. However, deeper exploration of motivations, goals, and potential barriers is needed to fully comprehend their situation and build a strong foundation for guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing excitement with uncertainty can be challenging. You're excited about the prospect of research, yet feeling cautious about committing too soon. What factors are most important to you when thinking about this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it's mainly about maintaining a balance in my life. I want to keep learning and growing in my field, but I also want to make sure I'm not overwhelming myself. Having some stability and a clear sense of direction is really important to me too.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's thoughts, feelings, and the context behind their concerns about pursuing further education. There is a clear understanding of the client's values and priorities, suggesting readiness to explore motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Finding balance and stability seems to be a key priority for you right now. How do you envision your life if you choose to pursue the PhD immediately compared to taking some time before making that decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "If I were to jump straight into a PhD, I imagine my life would be intense but maybe fulfilling—like I'd be really immersed in research and academia. But if I took some time before deciding, maybe I'd have the chance to gain some work experience or explore other interests, which could help me feel more sure about my choice later on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their ambivalence and explored life scenarios with and without change, including a PhD option. They've identified key values like balance and stability. There's clear Change Talk around exploring work experience or interests before a PhD, indicating progress in clarifying goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the intensity and fulfillment of immediate PhD studies against the opportunity for work experience and exploration. What goal feels most aligned with your current values and priorities, and what steps could you take to move toward that path? Based on what you've shared, possible options include exploring research opportunities or internships to gain experience, or perhaps setting a timeline for when you'd like to revisit the PhD decision. How do these options resonate with you, and what other ideas might you have?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Exploring research opportunities or internships sounds like a solid idea. It could give me a better feel for what I really enjoy and help clarify my decision. Setting a timeline to revisit the PhD idea also seems practical, so I'm not stuck in limbo. I think taking some time to explore these paths could help me make a more informed choice later.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal to explore research opportunities or internships and has agreed to set a timeline to revisit the PhD decision. Barriers and self-monitoring have been discussed. The client shows readiness by accepting the plan and demonstrating confidence in taking steps towards their goal.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Wrapping up our conversation today, it's clear that creating a clearer picture of your future by exploring research opportunities or internships is important to you. This approach can help you gain valuable experience and insights that align with your passion for academia. Establishing a timeline to revisit the PhD decision can also provide a sense of direction and help you feel more grounded and less overwhelmed.\n\nIt's commendable how thoughtful you are in wanting to make informed decisions about your future. As you explore these paths, remember that it's okay to take your time and be patient with yourself. \n\nFor your next steps, consider identifying specific opportunities to explore in the near future and setting a realistic timeline for when you'd like to reassess your plans. This journey is all about learning and growing, and you're taking meaningful strides toward your goals. I'm here to support you through it all. Remember, you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll start looking into some opportunities and think about a timeline that feels right for me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist discussed goals, steps, and coping strategies, and outlined a next-step plan for exploring research opportunities and setting a timeline. The conversation naturally reached a conclusion with clear action items.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can I pursue a master's and a PhD at the same time?\nHi everyone!\n\nI am currently in undergrad and I know that I want to go to grad school after I graduate. I am definitely going to do a master's but I'm not sure if I want to make the time commitment for a PhD just yet. My reason is that I don't want to take a break after getting my master's and then change my lifestyle again to go be a student. I want to study computational mathematics/ some combo of math + cs. Thanks!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}
