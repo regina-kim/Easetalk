@@ -1,0 +1,136 @@
+{
+  "id": "11oaihz",
+  "subreddit": "GradSchool",
+  "category": "interpersonal",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's been on your mind lately? I'm here to listen and support you as you share your story.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for that. I've been thinking a lot about an upcoming presentation I have to give to my research group. There's this one guy who's kind of a pain during these meetings and it’s stressing me out. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their specific concern and context about handling a difficult person in their academic environment. The client has expressed feelings and thoughts on the situation. However, empathy, rapport, and mutually agreed goals still need further exploration to strengthen the foundation for guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds tough. You're feeling stressed about the presentation because of the challenges you anticipate with this person's behavior. How has that been affecting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, it's been distracting me a lot. I keep running scenarios in my head about how the presentation might go and how I should respond if he tries to trip me up. It’s taking away from the actual prep I need to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern and detailed context surrounding it. Their feelings and thoughts about the presentation and the challenging colleague have been discussed, establishing rapport. However, mutually agreed goals or a deeper exploration of the client's feelings haven't yet been sufficiently addressed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It seems like the anticipation of potential conflict is consuming a lot of your mental energy, leaving less space for your actual preparation. How have you managed similar situations in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "To be honest, I haven’t really had to deal with something quite like this before. In the past, I’ve mostly just avoided conflicts or kind of brushed things off, but this time it feels like I need to be more prepared.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about handling a difficult person during a presentation, including their feelings and the impact it's having on their preparation. Empathy and rapport are established, and the client expressed a need for effective strategies, indicating readiness to discuss motivation and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "You're recognizing a need to approach this situation differently, which shows a lot of self-awareness and readiness to adapt. What would a successful presentation look like for you, and how might addressing this challenge help you achieve that?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "A successful presentation for me would be getting through it confidently without letting him throw me off. Addressing this challenge would help me stay focused and show that I can handle tough situations without losing my cool.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal: handling the presentation with confidence despite the difficult colleague. They have recognized the need for a different approach and expressed readiness to adapt. Change Talk is evident as they envision success and address challenges.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like maintaining your focus and confidence is key for you. Considering your goals, possible options could include rehearsing responses to potential comments, or perhaps seeking support from a mentor or colleague for feedback. What do you think might work best for you to prepare effectively and stay composed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Rehearsing responses sounds like a solid idea. Maybe if I practice dealing with some of his typical questions, I'll feel more prepared. Getting some feedback from a mentor could also be really helpful, just to get a sense of how I’m coming across and if there’s anything I should tweak.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of handling difficult questions during the presentation and has developed an action plan of rehearsing potential responses and seeking mentor feedback. Barriers have been acknowledged, and the client shows commitment and readiness to adapt. The client is engaged and accepting of the proposed strategies, showing confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems you're setting up a solid plan by rehearsing responses and seeking feedback, both of which are proactive steps toward your goal of a confident presentation. Practicing those typical scenarios can really help you feel more steady, and having a mentor's perspective might offer you valuable insights. You've identified a clear path forward, and that's commendable.\n\nAs we wrap up, remember you've already shown you're capable of preparing for challenges. Trust in your ability to adapt, and keep leaning into the support around you. The next step could be to schedule some time for practice and reach out to your mentor for that feedback. You've got this, and I'm here cheering you on every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I’ll definitely set aside some time to practice and get in touch with my mentor soon.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, coping strategies, and a next-step plan, meeting the termination criteria. The client has a clear plan to prepare for the presentation and manage the challenging individual.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How to handle hostile listeners when presenting?\nI am a 1st year grad student and am currently preparing to present my research to the rest of my research group for the first time. While I am confident in my ability to field genuine questions about my work, I am anxious about dealing with one senior group member in particular.\n\nHaving been in this lab since undergrad, I routinely see him ask questions to presenters in group meeting that are intended to sow discomfort or undermine their confidence. It comes across as juvenile, in the sense that I don't believe he is asking out of legitimate curiosity but rather as a way to assert dominance among his peers. They tend to be tedious, hardly important questions, often requiring back-tracking after the presenter has moved on.\n\nHow have you dealt with people like this in your time in grad school? I don't want him to walk all over me, else he'll interpret me as an easy target and bother me more in the future. At the same time, I don't want to harm my reputation with an unprofessional response.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

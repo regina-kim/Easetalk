@@ -1,0 +1,157 @@
+{
+  "id": "10bware",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you're here to talk about something important. What would you like to share today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've been having a tough time with my academics lately and it's really stressing me out. I feel like I'm at a crossroads and I'm not sure what to do next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their academic challenges and feelings of doubt, providing relevant context and personal history. They have also expressed their need for advice and encouragement. The conversation has established rapport and the client's main concern is clear, indicating readiness to explore motivations for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Balancing academics can be really challenging. What do you think is making it feel like a crossroads for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I feel stuck because my current path just isn't working out, and I'm not sure if I can switch to something else given the grades I have right now. Plus, I'm worried about how this might affect my future plans.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear change goal of switching academic paths and has begun making adjustments in study habits. There is evidence of Change Talk, as the client is exploring new strategies and has a specific goal of improving grades. However, ambivalence and doubt about achieving the necessary grades persist, indicating more exploration is needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating these feelings of uncertainty can be overwhelming. What are your future plans, and how might they look different if you were able to make a change that feels right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I was originally aiming for med school, but now I'm considering other options like a master's program. I'm worried I might not meet the requirements, and it feels like I might not have a clear direction anymore.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current academic path and their values/goals. They have explored life with and without change, considering med school and a master's program. Change Talk is present as they express a desire to switch academic paths and have taken steps to improve their grades. However, specific change goals and confidence levels are not yet fully articulated.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Finding a path that aligns with your goals and strengths is important. What aspects of a master's program are appealing to you, and how do they fit with your long-term ambitions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: The idea of a master's program seems more manageable and it could open doors to other career paths that interest me. I'm drawn to the flexibility it seems to offer, but I'm still trying to figure out how it fits with what I ultimately want to do.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to change academic paths and has explored the discrepancies between their current and desired path. They have discussed future plans and shown interest in a master's program. Change Talk is present, and the client has begun to articulate potential next steps despite expressing doubt about their ability to achieve the necessary grades, which suggests decreased ambivalence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring new possibilities can be exciting. Given your interest in the flexibility of a master's program, what steps could you take to explore this option further and see how well it aligns with your goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I guess I could start by researching different master's programs that align with my interests and see what their requirements are. Maybe talking to advisors or people already in those fields might give me a better idea of what to expect and how it fits my goals.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to switch to a master's program but is concerned about meeting GPA requirements. They have an action plan to research and seek advice from advisors. Barriers, like GPA challenges, have been discussed. The client is improving study habits, signaling readiness to take steps. However, there is lingering doubt about achieving straight As, indicating a need to further bolster confidence and refine strategies before moving forward.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you've identified some proactive steps that could help clarify your direction. Exploring different programs and speaking with advisors are great ways to gain insight. Would setting a specific time frame to complete this research help keep you on track? What potential challenges might you anticipate, and how could you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Yeah, setting a deadline could help me stay focused and not procrastinate. I think a big challenge might be feeling overwhelmed with all the options and information out there, and maybe getting discouraged if things don't look promising. Keeping organized and maybe breaking it down into smaller tasks might help with that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to research master's programs and consult advisors. Barriers, such as feeling overwhelmed, have been identified along with strategies to manage them. The client shows readiness with a commitment to set a deadline and address challenges. Their confidence is evident in taking steps to change. Therefore, the goals of the Choosing phase have been met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Creating an organized plan with smaller, manageable tasks sounds like a wise approach to navigate the overwhelming information. It's great that you're thinking about setting a deadline to maintain focus—it can definitely keep things moving forward. If you start to feel discouraged, reminding yourself of the reasons you're exploring these options could help keep your motivation up. Also, don't hesitate to reach out for support, whether from advisors, friends, or family, to help you through any tricky spots. Your willingness to adapt and explore shows strength and resilience. It's a journey, and each step you take is a step closer to clarity. Keep up the good work, and consider setting a date to review your progress. Remember, you're not alone in this, and support is always within reach.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll definitely try to keep that in mind and reach out if things get tough. Setting a date to check in on my progress sounds like a good idea too.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined steps, coping strategies, and a next-step plan, meeting termination goals. The conversation shows readiness to conclude, as there is a clear focus on solutions and progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Need some helpful advise/encouragement?\nI have been in a pre-med post bac for a year now and decided that med school is not for me after a very challenging year and getting grades that tanked my GPA (not failing grades but adequate Cs). The school provides the option to transition from this program to a masters program however , a requirement of 3.0 GPA is needed. I am trying to switch academic paths, and it seems almost impossible for me to raise two, 5-credit hour courses that I earned Cs in. Meaning I need to get A’s in all of my classes this semester of 10 credits. This is kinda unrealistic for me as I have never achieved “straight A’s” in my academic career, and being in STEM, it’s really really hard to. For whatever reason, experiencing COVID during the later half of my undergraduate career has not set me up for grad school. I am trying to figure out new study habits and have been improving my grades as I retook a class while working part time. But I still have doubt I can achieve As in my classes. Any advice would be appreciated.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

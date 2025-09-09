@@ -1,0 +1,220 @@
+{
+  "id": "18g45x9",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "dialogue_total": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been feeling pretty overwhelmed and just really disillusioned with my program lately. It's been weighing on me a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has started to uncover the client's feelings and experiences of disillusionment with their program. However, more information about their personal experiences, thoughts, and feelings is needed to fully understand their story and build rapport before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Thanks for sharing that with me. It seems like your program has been quite challenging and it's been affecting you deeply. What aspects of the program have been particularly overwhelming for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: I think it's the combination of the workload and the way some of the professors and peers treat us. It feels like no matter how hard I try, it's never good enough, and it's just exhausting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and disillusioned with their program, along with some specific concerns about workload and treatment by professors and peers. However, further exploration is needed to fully understand their thoughts on potentially taking a break or quitting. The conversation has not yet achieved a deep understanding of the client's story or mutually agreed goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds really tough to feel like your efforts aren't being recognized, especially when you're putting in so much. You feel exhausted because of the heavy workload and the interactions with professors and peers. How do you usually cope when this exhaustion sets in?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, I just try to push through it and keep going, but it's getting harder to do that. Sometimes I take breaks or talk to friends, but it only helps a little.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively captures the client's feelings of being overwhelmed and disillusioned with their program, detailing the workload and interactions with professors and peers. Empathy and rapport are established, yet there's no clear mutual goal or deeper exploration of emotions and thoughts.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Pushing through and talking to friends shows resilience, yet it's understandable that these strategies might not fully ease the exhaustion. It seems like you're searching for more effective ways to manage this overwhelming situation. What do you think might help you feel a bit more supported or less exhausted in this program?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think having a more understanding and supportive environment from professors and peers could make a difference. Also, maybe finding a way to better balance my workload or having more downtime to recharge would help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, feelings, and context regarding their situation in the program. Empathy and rapport have been established, and potential goals have been mentioned. The exploration phase appears to have achieved its goals, enabling a transition to focusing on motivation and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Having a supportive environment and balancing your workload sounds like it could make a significant difference for you. It's clear that these are important values for you. On a scale from 0 to 10, how confident do you feel about finding ways to create more balance or seek support from others in your program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I’d say maybe a 4 or 5? I want to be hopeful, but I’m not sure how much I can actually change things myself. It feels like a lot of it is out of my control, especially when it comes to the attitudes of professors and how the program is structured.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed awareness of the discrepancy between their current situation and their values, such as wanting a more supportive environment and balance. However, the confidence level is moderate, and there is still ambivalence about how much they can change. More exploration of potential change strategies and enhancing confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling somewhat hopeful but also aware of the challenges that make things seem beyond your control. Recognizing both the hope and the challenges is an important step. What small steps might you consider that could increase your sense of control or confidence, even by just a little?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Maybe I could start by reaching out to professors I feel more comfortable with to express my concerns, or see if there's a student group that addresses these issues. Also, organizing my time better might help me feel less overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both hope and challenges, with a confidence rating of 4-5. They identified potential steps such as reaching out to professors and organizing time better, showing readiness to proceed. However, confidence in making changes is not high enough to move to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Exploring these steps shows your willingness to seek positive changes. Reaching out to supportive professors or joining a student group could empower you, and organizing your time might provide relief from feeling overwhelmed. What part of this plan feels like the most manageable first step for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Probably organizing my time better. It feels like something I can control a bit more immediately, and hopefully, it'll help me carve out some breathing room. Once I have a handle on that, reaching out to professors might feel less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some hope and identified potential steps to address their challenges, indicating a shift towards Change Talk. However, their confidence is currently at 4-5, showing moderate ambivalence and uncertainty about control over the situation. Further exploration and strengthening of their confidence and commitment are needed before advancing to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Starting with organizing your time sounds like a manageable and empowering first step. It seems like creating some breathing room could make a real difference in how you experience your program. How do you envision beginning this process of organizing your time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client: I guess I could start by making a more structured schedule, blocking out specific times for studying, breaks, and personal time. Maybe using a planner or some apps could help me stay on track and not let things pile up too much.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown readiness for change by identifying specific steps, such as organizing their time better and reaching out to professors. They have expressed a moderate level of confidence and have begun to move away from ambivalence by acknowledging manageable steps they can take. Change Talk is present, and the client has a concrete next step, thus meeting the goals of the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Using a planner or apps to create a structured schedule sounds like a practical approach to managing your time better. This could really help you to carve out some breathing room and manage your workload effectively. Would you like to explore some specific apps or techniques for scheduling, or is there another aspect of this plan you'd like to focus on first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I think exploring some specific apps could be helpful. I'm not really familiar with what's out there, so having some options to check out would be great. It might make getting started easier for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear goals and a concrete action plan, including organizing time and exploring apps for scheduling. They have discussed barriers, such as feeling overwhelmed, and agreed to self-monitor through planners or apps. The client exhibits readiness signs through commitment to start with manageable steps and acceptance of action reflections. Given these indicators, the client is ready to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Exploring apps could definitely make organizing your time more manageable, and it's wonderful that you're open to trying new tools to support yourself. There are several user-friendly options out there that can help you stay on track. Apps like Todoist, Trello, or Google Calendar are popular for creating structured plans and reminders. Starting this journey with tools that fit your style can alleviate some of the pressure and create a path forward. With each step you take, you're building a healthier routine for yourself. Remember, even small movements are progress. As you explore these apps, feel free to reach out if you’d like to discuss how it’s going or need any further support. You've got a solid plan, and I’m confident you can make meaningful changes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Thanks, I'll definitely take a look at those. It seems like a good starting point for getting things more organized. I'll let you know how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified manageable first steps and tools to address their concerns, and the therapist has provided closure by offering continued support if needed. The session naturally progressed to a point where termination is appropriate.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Have you ever been so gaslit, disillusioned, or bullied that you took a break from, or quit your program? or the field entirely?\nIt’s happened to me and one other person I know in real life. Just curious if anyone else had a story to share similar to this.\n\nThe person I know was in residency after med school. Due to a terribly designed program and unnecessary overwork, a record number of 4 residents dropped out. It’s very rare for residents to leave a residency program. One left medicine altogether. My acquaintance took a year off, had a baby, then had to reapply for a new specialty.\n\nSometimes people in positions of authority suck; sometimes it’s just not a good fit; sometimes you’re in a program for the wrong reasons; sometimes you get triggered and have a nervous breakdown; sometimes you find out about some corruption or widely accepted nonsense in your industry that turns you off… \n\nAnd I’m sure a myriad other situations and outcomes.\n\nSo what happened to you, what did you do about it, and how are you doing now?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}
