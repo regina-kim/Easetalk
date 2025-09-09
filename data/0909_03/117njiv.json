@@ -1,0 +1,172 @@
+{
+  "id": "117njiv",
+  "timestamp": 1676851200000,
+  "category": "interpersonal",
+  "concern": "I am absolutely disgusted at how abusive my graduate professors have been, at least in comparison to my undergraduate professors. This seems to be way more common for graduate professors. It’s just so upsetting and hard to deal with.",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here today. Is there anything on your mind that you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! Yeah, I've been feeling pretty overwhelmed with how harsh my graduate professors have been compared to my undergrad ones. It's been weighing on me a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story and emotions have begun to emerge, but more exploration is needed to fully understand the context and their feelings. Empathy and a more complete understanding of their situation should be established before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed by the increased demands from your graduate professors, especially compared to your undergrad experience. Could you share more about what's been particularly challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: It's just the way they communicate, you know? They seem so dismissive and intimidating, which makes it hard to ask questions or seek help.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's concerns and feelings have been partially explored, but more understanding is needed about the specific context and impact on the client. Empathy and rapport are being established, but mutually agreed goals are not yet evident.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "You feel intimidated and dismissed by your professors, which makes it difficult for you to ask for help or clarification. How has this impacted your overall experience in graduate school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "It's been making everything so much more stressful. I find myself dreading classes and struggling to stay motivated, which isn't how I expected grad school to be.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The conversation has effectively captured the client's feelings of overwhelm and intimidation due to their professors' communication style. However, further exploration of the broader context and underlying feelings could enhance understanding and rapport.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the stress and dread from these interactions have really affected your motivation and overall experience in graduate school. What are some ways you've tried to manage these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've been trying to focus on the positives and remind myself why I'm here, but it's tough. Talking to friends who are going through similar things helps a bit, too, but it doesn't solve the problem, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story and feelings about the harsh communication from graduate professors have been clearly elicited, along with the emotional impact and attempted coping strategies. There's rapport and an understanding of the context, so it's appropriate to move to the Guiding phase to explore motivation for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like focusing on your goals and connecting with friends has been somewhat helpful, even though it hasn't completely resolved the issue. On a scale from 0 to 10, how confident do you feel about finding other ways to handle this stress and improve your experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I'd say maybe a 4 or 5. I'm open to trying new things, but it's hard to see what could really make a difference when the main issue is the way the professors are acting.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed stress and a lack of motivation due to interactions with professors. Change Talk is present, but confidence is low, rated at 4 or 5. The client is open to exploring solutions but hasn't identified a specific goal or plan. More exploration is needed to evoke Change Talk and increase confidence.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You're open to trying new approaches, which shows a willingness to change, even if it's challenging to see what might work. What aspects of your experience in grad school do you wish could be different, and how might those changes align with your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I really wish the professors were more supportive and understanding, like how some of my undergrad ones were. I think if they were more approachable, it would make it easier for me to focus on my studies and enjoy the learning process, which is my main goal right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for more supportive professors to improve their grad school experience and motivation, but confidence in finding solutions is low. More exploration is needed to evoke change talk and address ambivalence before moving to action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your desire for more supportive and approachable professors aligns closely with your goal of enjoying the learning process and focusing on your studies. What do you think might be some first steps you could take to move towards that goal, even if the professor's behavior doesn't change immediately?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Well, I guess I could start by setting up meetings with professors to try and build a better rapport with them, even though it's intimidating. Maybe getting involved in grad student groups could also help me find better support and advice on dealing with these situations.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific change goal of building rapport with professors and joining student groups. Confidence, although not high, shows openness to change. Change Talk is evident, with less focus on ambivalence. Goals of the Guiding phase have been largely met.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Building rapport with professors and seeking support through grad student groups are great steps forward. Based on what you said, possible options include scheduling regular meetings with professors and attending or joining a student group. What do you think about setting a specific goal around these actions, and how might you monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "That sounds like a solid plan. Maybe I could aim to meet with one professor a month and attend at least two student group meetings. I could track how comfortable I feel over time or how much more manageable things start to seem.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has formed a clear goal and a concrete action plan, discussing potential barriers and self-monitoring strategies. The client shows willingness to engage in taking-steps talk by setting meetings and joining groups, indicating readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It sounds like you've got a clear plan with actionable steps, and I’m genuinely impressed with your commitment to make these changes. Meeting with one professor each month and attending two student group meetings are achievable goals. By tracking your comfort level and how manageable things become, you'll have tangible ways to measure your progress. \n\nRemember, it's okay to adjust these goals as you see fit. It’s all part of the process. You're so proactive, and that’s a wonderful strength. As your next step, maybe you could set reminders to help keep those meetings on track. Know that you’re not alone in this journey, and there’s support available to you. Looking forward to hearing about your progress next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll try to set those reminders and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The session included a summary of goals, coping strategies, and a next-step plan was discussed. The client has clear actionable steps and ways to monitor progress.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! It's great to have you here today. Is there anything on your mind that you'd like to talk about or explore together?\nclient: Hey! Yeah, I've been feeling pretty overwhelmed with how harsh my graduate professors have been compared to my undergrad ones. It's been weighing on me a lot.\ntherapist: It sounds like you're feeling overwhelmed by the increased demands from your graduate professors, especially compared to your undergrad experience. Could you share more about what's been particularly challenging for you?\nclient: client: It's just the way they communicate, you know? They seem so dismissive and intimidating, which makes it hard to ask questions or seek help.\ntherapist: You feel intimidated and dismissed by your professors, which makes it difficult for you to ask for help or clarification. How has this impacted your overall experience in graduate school?\nclient: It's been making everything so much more stressful. I find myself dreading classes and struggling to stay motivated, which isn't how I expected grad school to be.\ntherapist: It sounds like the stress and dread from these interactions have really affected your motivation and overall experience in graduate school. What are some ways you've tried to manage these feelings so far?\nclient: I've been trying to focus on the positives and remind myself why I'm here, but it's tough. Talking to friends who are going through similar things helps a bit, too, but it doesn't solve the problem, you know?\ntherapist: It seems like focusing on your goals and connecting with friends has been somewhat helpful, even though it hasn't completely resolved the issue. On a scale from 0 to 10, how confident do you feel about finding other ways to handle this stress and improve your experience?\nclient: Honestly, I'd say maybe a 4 or 5. I'm open to trying new things, but it's hard to see what could really make a difference when the main issue is the way the professors are acting.\ntherapist: You're open to trying new approaches, which shows a willingness to change, even if it's challenging to see what might work. What aspects of your experience in grad school do you wish could be different, and how might those changes align with your goals?\nclient: I really wish the professors were more supportive and understanding, like how some of my undergrad ones were. I think if they were more approachable, it would make it easier for me to focus on my studies and enjoy the learning process, which is my main goal right now.\ntherapist: Your desire for more supportive and approachable professors aligns closely with your goal of enjoying the learning process and focusing on your studies. What do you think might be some first steps you could take to move towards that goal, even if the professor's behavior doesn't change immediately?\nclient: Well, I guess I could start by setting up meetings with professors to try and build a better rapport with them, even though it's intimidating. Maybe getting involved in grad student groups could also help me find better support and advice on dealing with these situations.\ntherapist: Building rapport with professors and seeking support through grad student groups are great steps forward. Based on what you said, possible options include scheduling regular meetings with professors and attending or joining a student group. What do you think about setting a specific goal around these actions, and how might you monitor your progress?\nclient: That sounds like a solid plan. Maybe I could aim to meet with one professor a month and attend at least two student group meetings. I could track how comfortable I feel over time or how much more manageable things start to seem.\ntherapist: It sounds like you've got a clear plan with actionable steps, and I’m genuinely impressed with your commitment to make these changes. Meeting with one professor each month and attending two student group meetings are achievable goals. By tracking your comfort level and how manageable things become, you'll have tangible ways to measure your progress. \n\nRemember, it's okay to adjust these goals as you see fit. It’s all part of the process. You're so proactive, and that’s a wonderful strength. As your next step, maybe you could set reminders to help keep those meetings on track. Know that you’re not alone in this journey, and there’s support available to you. Looking forward to hearing about your progress next time!\nclient: Thanks, I appreciate the encouragement. I'll try to set those reminders and see how it goes.",
+  "completed": false
+}

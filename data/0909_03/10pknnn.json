@@ -1,0 +1,208 @@
+{
+  "id": "10pknnn",
+  "timestamp": 1675123200000,
+  "category": "academic",
+  "concern": "I have never been in an academic setting that challenged me so much. In undergrad I was always on top of my work and had enough time to enjoy myself, go to the gym, and even party. In my second year of my PhD program all I do is work and on the weekends I usually sleep or go out somewhere just to try to enjoy myself. Now that the semester has begun I lost my Sundays to a full day of class work. I am so lucky to do what I love, but I love it a lot less when I am being overworked. It does not help that my PI is an absolute workaholic. How do people not burn out working 6 days a week with such mentally involved tasks?",
+  "dialogue_total": [
+    {
+      "index": 0,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. Whenever you're ready, feel free to share what's on your mind or anything you'd like to talk about today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks. Honestly, I've just been feeling really overwhelmed with my workload lately. It's like no matter how much I do, there's always more, and it's starting to get to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "aa",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared the essence of their story, revealing thoughts and feelings about being overwhelmed with academic workload and concerns about burnout. However, further exploration is needed to build deeper rapport, understand detailed context, and mutually agree on goals.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Therapist: It sounds like you're feeling overwhelmed because your workload seems never-ending. Can you tell me more about how this has been affecting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it's just been tough trying to juggle everything. I feel like I'm constantly working and never really getting a break, which is starting to drain me.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ab",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has shared feelings of being overwhelmed and some context about their workload and academic setting. However, more exploration is needed to fully understand their thoughts and feelings and build rapport before moving to the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Therapist: It sounds exhausting to be constantly working without a break. How do you feel this constant juggling is impacting other areas of your life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I guess it's affecting my mood and energy levels a lot. I barely have time or energy to do anything outside of work, and I miss having a balance in my life.",
+      "phase": "exploring"
+    },
+    {
+      "index": "ac",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client's story has been elicited, detailing their overwhelming workload and its impact on their life, mood, and energy. Empathy is shown, and a rapport appears to be developing. The client's concern provides additional context and depth. Exploring goals are largely met, suggesting readiness to discuss motivation for change.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're longing for more balance and energy in your life. On a scale from 0 to 10, how confident do you feel about making changes to create more balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Maybe like a 4 or 5? I want to change things, but the workload feels like this huge, immovable object. I'm not sure where to start or if it's even possible to lighten it.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ad",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed concerns about workload and lack of balance, with low confidence in making changes. Change Talk has begun, but specific goals or steps haven't been identified yet. Confidence needs to be bolstered, and ambivalence is still present. Thus, more exploration is needed in the Guiding phase.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like the workload feels heavy and daunting right now. What do you think life might look like if you could achieve that balance you're hoping for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think life would feel a lot more fulfilling and less overwhelming. I'd have time to do things I enjoy, like going to the gym or just relaxing without feeling guilty or anxious about work.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ae",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change and articulated a clear vision of life with more balance. However, confidence is at a 4 or 5, indicating hesitancy. More exploration of values and building confidence through guiding techniques can help before moving to specific action planning.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Therapist: It sounds like having that balance could really improve your overall wellbeing. What would taking a small first step towards that more fulfilling life look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe I could try setting some boundaries, like dedicating a couple of hours each week strictly to non-work activities. I think just having a small, consistent break might help me feel a bit more in control and less overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": "af",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client expressed a need for balance and a specific change goal, setting boundaries for non-work activities. However, confidence is at 4 or 5, indicating ambivalence. Given the need to explore this further, continuing in Guiding can strengthen motivation.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach to gaining some control. How would committing to these breaks align with your values and goals for a fulfilling life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think it would align really well. I value taking care of myself and being able to enjoy life outside of work, so committing to these breaks would be a step towards that. It just feels hard to prioritize when the workload is so constant.",
+      "phase": "guiding"
+    },
+    {
+      "index": "ag",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a specific change goal of setting boundaries for non-work activities, showing readiness for action planning. They've identified this aligns with their values and acknowledge the benefits of change. While confidence is below 6, they demonstrate willingness to explore solutions, making it appropriate to move forward.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It sounds like prioritizing these breaks is important to you, even though the workload is challenging. Based on what you said, some options could include scheduling specific times for these non-work activities or setting clear boundaries with work during these times. What do you think might work best for you to start with, and how can we anticipate any barriers you might encounter?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think scheduling specific times could be a good start, like maybe blocking out an hour or two in the evenings to unwind. The main barrier I foresee is the guilt of not working during those times or my PI expecting me to be available all the time.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ah",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal of scheduling non-work activities and has acknowledged potential barriers such as guilt and expectations from their PI. However, concrete strategies for self-monitoring and overcoming these barriers have not been fully developed. Further exploration in the Choosing phase is needed to enhance confidence and commitment to the action plan.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It sounds like you're considering scheduling specific time to unwind, which aligns well with your goals of self-care and work-life balance. It's understandable to feel concerned about guilt or expectations from your PI. How might you address these feelings or expectations, and what support would be helpful for you in implementing this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "I guess addressing those feelings might start with reminding myself that taking time for myself actually makes me more productive in the long run. As for my PI's expectations, maybe I need to have a conversation about my boundaries to see if we can find some sort of balance. Support from friends or colleagues who understand the situation would be really helpful too, I think.",
+      "phase": "choosing"
+    },
+    {
+      "index": "ai",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has expressed a desire for change and has identified an initial action plan of scheduling breaks. They are aware of potential barriers like guilt and expectations from their PI. However, they need further support and confidence-building to address these challenges and fully commit to their plan.\",\n\"determination\": \"continue\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist: You've identified some insightful steps, such as reminding yourself of the benefits of self-care and considering a conversation with your PI about boundaries. Based on what you've mentioned, options include scheduling your unwind time and enlisting support from friends or colleagues. How would you like to prioritize these steps, and how can we track your progress and adapt as needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "I think starting with scheduling unwind time is a good first step, and then I'll see how I feel about the conversation with my PI. It might help to chat with friends who get what I'm going through, so I'll try to reach out to them too. Maybe I can keep a little journal to track how often I'm actually sticking to my unwind times and how I'm feeling about it. ",
+      "phase": "choosing"
+    },
+    {
+      "index": "aj",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified a clear goal and action plan, including scheduling unwind time and seeking support. They have discussed potential barriers, such as guilt and PI's expectations, and proposed strategies to address them. The client is motivated and has shown commitment by planning to track their progress, indicating readiness to advance.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful plan. You've decided to start by scheduling unwind time, and reaching out to friends for support, which is an excellent step towards maintaining your self-care and work-life balance. Keeping a journal to track your progress and feelings seems like a practical way to stay aware and make any necessary adjustments. Remember, taking time for yourself is essential, and it’s truly commendable that you’re making this commitment. For next steps, you can continue with your scheduling, reach out to your friends, and keep up with your journal entries. I'm here to support you along the way, and I look forward to hearing how it goes for you. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I'll start with the scheduling and journal and see how it goes. I'll keep you posted on how things progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": "ak",
+      "role": "sc_master",
+      "statement": "```json\n{\n\"reasoning\": \"The client has identified steps to manage their workload, including scheduling breaks, addressing expectations, and seeking support. They've also developed a plan to track progress. This suggests readiness for session closure.\",\n\"determination\": \"move\"\n}\n```",
+      "phase": "terminating"
+    }
+  ],
+  "dialogue_conv": "therapist: Hello! It's great to have you here. Whenever you're ready, feel free to share what's on your mind or anything you'd like to talk about today.\nclient: Hey, thanks. Honestly, I've just been feeling really overwhelmed with my workload lately. It's like no matter how much I do, there's always more, and it's starting to get to me.\ntherapist: Therapist: It sounds like you're feeling overwhelmed because your workload seems never-ending. Can you tell me more about how this has been affecting you?\nclient: Yeah, it's just been tough trying to juggle everything. I feel like I'm constantly working and never really getting a break, which is starting to drain me.\ntherapist: Therapist: It sounds exhausting to be constantly working without a break. How do you feel this constant juggling is impacting other areas of your life?\nclient: I guess it's affecting my mood and energy levels a lot. I barely have time or energy to do anything outside of work, and I miss having a balance in my life.\ntherapist: It sounds like you're longing for more balance and energy in your life. On a scale from 0 to 10, how confident do you feel about making changes to create more balance?\nclient: client: Maybe like a 4 or 5? I want to change things, but the workload feels like this huge, immovable object. I'm not sure where to start or if it's even possible to lighten it.\ntherapist: It seems like the workload feels heavy and daunting right now. What do you think life might look like if you could achieve that balance you're hoping for?\nclient: I think life would feel a lot more fulfilling and less overwhelming. I'd have time to do things I enjoy, like going to the gym or just relaxing without feeling guilty or anxious about work.\ntherapist: Therapist: It sounds like having that balance could really improve your overall wellbeing. What would taking a small first step towards that more fulfilling life look like for you?\nclient: Maybe I could try setting some boundaries, like dedicating a couple of hours each week strictly to non-work activities. I think just having a small, consistent break might help me feel a bit more in control and less overwhelmed.\ntherapist: That sounds like a thoughtful approach to gaining some control. How would committing to these breaks align with your values and goals for a fulfilling life?\nclient: I think it would align really well. I value taking care of myself and being able to enjoy life outside of work, so committing to these breaks would be a step towards that. It just feels hard to prioritize when the workload is so constant.\ntherapist: It sounds like prioritizing these breaks is important to you, even though the workload is challenging. Based on what you said, some options could include scheduling specific times for these non-work activities or setting clear boundaries with work during these times. What do you think might work best for you to start with, and how can we anticipate any barriers you might encounter?\nclient: I think scheduling specific times could be a good start, like maybe blocking out an hour or two in the evenings to unwind. The main barrier I foresee is the guilt of not working during those times or my PI expecting me to be available all the time.\ntherapist: It sounds like you're considering scheduling specific time to unwind, which aligns well with your goals of self-care and work-life balance. It's understandable to feel concerned about guilt or expectations from your PI. How might you address these feelings or expectations, and what support would be helpful for you in implementing this plan?\nclient: I guess addressing those feelings might start with reminding myself that taking time for myself actually makes me more productive in the long run. As for my PI's expectations, maybe I need to have a conversation about my boundaries to see if we can find some sort of balance. Support from friends or colleagues who understand the situation would be really helpful too, I think.\ntherapist: therapist: You've identified some insightful steps, such as reminding yourself of the benefits of self-care and considering a conversation with your PI about boundaries. Based on what you've mentioned, options include scheduling your unwind time and enlisting support from friends or colleagues. How would you like to prioritize these steps, and how can we track your progress and adapt as needed?\nclient: I think starting with scheduling unwind time is a good first step, and then I'll see how I feel about the conversation with my PI. It might help to chat with friends who get what I'm going through, so I'll try to reach out to them too. Maybe I can keep a little journal to track how often I'm actually sticking to my unwind times and how I'm feeling about it. \ntherapist: That sounds like a thoughtful plan. You've decided to start by scheduling unwind time, and reaching out to friends for support, which is an excellent step towards maintaining your self-care and work-life balance. Keeping a journal to track your progress and feelings seems like a practical way to stay aware and make any necessary adjustments. Remember, taking time for yourself is essential, and it’s truly commendable that you’re making this commitment. For next steps, you can continue with your scheduling, reach out to your friends, and keep up with your journal entries. I'm here to support you along the way, and I look forward to hearing how it goes for you. Keep up the great work!\nclient: Thanks, I appreciate it. I'll start with the scheduling and journal and see how it goes. I'll keep you posted on how things progress.",
+  "completed": false
+}
