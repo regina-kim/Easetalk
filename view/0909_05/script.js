@@ -163,6 +163,85 @@ function buildHeaderTable(data) {
   headerTbody.appendChild(categoryRow);
 }
 
+// // (E) 한 개의 발화(entry)를 받아서 row를 만들고 셀에 message 삽입
+// function appendRow({ role, statement, phase }) {
+//   const chatMessagesDiv = document.getElementById("chat-messages");
+
+//   // 1) row 요소 생성
+//   const row = document.createElement("div");
+//   row.classList.add("row");
+
+//   // 2) 세 개의 빈 cell 생성
+//   const cellTher   = document.createElement("div");
+//   cellTher.classList.add("cell", "therapist");
+
+//   const cellClient = document.createElement("div");
+//   cellClient.classList.add("cell", "client");
+
+//   const cellSC     = document.createElement("div");
+//   cellSC.classList.add("cell", "sc_master");
+
+//   // 3) 역할(role)에 맞춰 targetCell 지정
+//   let targetCell;
+//   if (role === "therapist") {
+//     targetCell = cellTher;
+//   } else if (role === "client") {
+//     targetCell = cellClient;
+//   } else if (role === "sc_master") {
+//     targetCell = cellSC;
+//   } else {
+//     // 그 외 role은 중앙(client)에 추가
+//     targetCell = cellClient;
+//   }
+
+//   // 4) .message 요소 생성
+//   const msgDiv = document.createElement("div");
+//   msgDiv.classList.add("message");
+//   // sc_master는 회색으로 고정, 그 외에는 phase 클래스 추가
+//   if (role !== "sc_master") {
+//     msgDiv.classList.add(phase);
+//   }
+
+//   // 발화자 라벨
+//   const roleLabel = document.createElement("span");
+//   roleLabel.classList.add("role-label");
+//   if (role === "sc_master") {
+//     roleLabel.textContent = "SC Master";
+//   } else {
+//     roleLabel.textContent = role.charAt(0).toUpperCase() + role.slice(1);
+//   }
+//   msgDiv.appendChild(roleLabel);
+
+//   // 발화문 줄바꿈 처리
+//   const textSpan = document.createElement("span");
+//   const fragment = document.createDocumentFragment();
+
+//   // 만약 statement가 객체(dictionary)이면, 화면에 예쁘게 표시하기 위해 JSON 문자열로 변환합니다.
+//   let statementText = statement;
+//   if (typeof statementText === 'object' && statementText !== null) {
+//     statementText = JSON.stringify(statementText, null, 2); // 2칸 들여쓰기로 포맷팅
+//   }
+
+//   statement.split("\n").forEach((line, idx) => {
+//     fragment.appendChild(document.createTextNode(line));
+//     if (idx < statement.split("\n").length - 1) {
+//       fragment.appendChild(document.createElement("br"));
+//     }
+//   });
+//   textSpan.appendChild(fragment);
+//   msgDiv.appendChild(textSpan);
+
+//   // 5) 완성된 msgDiv를 targetCell에 붙임
+//   targetCell.appendChild(msgDiv);
+
+//   // 6) 세 개의 셀을 row에 붙이고, chat-messages에 추가
+//   row.appendChild(cellTher);
+//   row.appendChild(cellClient);
+//   row.appendChild(cellSC);
+//   chatMessagesDiv.appendChild(row);
+// }
+
+
 // (E) 한 개의 발화(entry)를 받아서 row를 만들고 셀에 message 삽입
 function appendRow({ role, statement, phase }) {
   const chatMessagesDiv = document.getElementById("chat-messages");
@@ -190,19 +269,17 @@ function appendRow({ role, statement, phase }) {
   } else if (role === "sc_master") {
     targetCell = cellSC;
   } else {
-    // 그 외 role은 중앙(client)에 추가
-    targetCell = cellClient;
+    targetCell = cellClient; // 그 외 role은 중앙(client)에 추가
   }
 
   // 4) .message 요소 생성
   const msgDiv = document.createElement("div");
   msgDiv.classList.add("message");
-  // sc_master는 회색으로 고정, 그 외에는 phase 클래스 추가
   if (role !== "sc_master") {
     msgDiv.classList.add(phase);
   }
 
-  // 발화자 라벨
+  // 발화자 라벨 추가
   const roleLabel = document.createElement("span");
   roleLabel.classList.add("role-label");
   if (role === "sc_master") {
@@ -212,24 +289,34 @@ function appendRow({ role, statement, phase }) {
   }
   msgDiv.appendChild(roleLabel);
 
-  // 발화문 줄바꿈 처리
+  // --- ✨ 수정된 부분 시작 ✨ ---
+  // 발화문(statement)을 안전하게 문자열로 변환
+  let statementText;
+  if (typeof statement === 'object' && statement !== null) {
+    // 객체인 경우, JSON 문자열로 변환 (들여쓰기 2칸 적용)
+    statementText = JSON.stringify(statement, null, 2);
+  } else {
+    // 객체가 아닌 경우(문자열, 숫자 등), String()으로 변환하여 안전하게 처리
+    statementText = String(statement);
+  }
+
+  // 발화문을 화면에 표시
   const textSpan = document.createElement("span");
   const fragment = document.createDocumentFragment();
 
-  // 만약 statement가 객체(dictionary)이면, 화면에 예쁘게 표시하기 위해 JSON 문자열로 변환합니다.
-  let statementText = statement;
-  if (typeof statementText === 'object' && statementText !== null) {
-    statementText = JSON.stringify(statementText, null, 2); // 2칸 들여쓰기로 포맷팅
-  }
-
-  statement.split("\n").forEach((line, idx) => {
+  // 이제 statementText는 항상 문자열이므로 .split()을 안전하게 사용할 수 있습니다.
+  const lines = statementText.split('\n');
+  lines.forEach((line, idx) => {
     fragment.appendChild(document.createTextNode(line));
-    if (idx < statement.split("\n").length - 1) {
+    if (idx < lines.length - 1) {
       fragment.appendChild(document.createElement("br"));
     }
   });
+
   textSpan.appendChild(fragment);
   msgDiv.appendChild(textSpan);
+  // --- ✨ 수정된 부분 끝 ✨ ---
+
 
   // 5) 완성된 msgDiv를 targetCell에 붙임
   targetCell.appendChild(msgDiv);
