@@ -16,5 +16,6 @@ window.FOLDERS = [
   { name: "0909_02", href: "./0909_02/", note: "" },
   { name: "0909_03", href: "./0909_03/", note: "" },
   { name: "0909_04", href: "./0909_04/", note: "" },
-  { name: "0909_05", href: "./0909_05/", note: "batch 파일럿" }
+  { name: "0909_05", href: "./0909_05/", note: "batch 파일럿(without 3-4turns forced)" },
+  { name: "0909_06", href: "./0909_06/", note: "batch pilot with turns forced" }
 ];
