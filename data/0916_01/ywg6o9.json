@@ -1,0 +1,221 @@
+{
+  "id": "ywg6o9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I just kinda want to talk about my major and how I'm struggling to figure out what I want to do. It's been stressing me out a lot lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including their thoughts and relevant context about choice of major and related stress. Initial empathy and rapport have been established, and the client's main concern and goals are clear.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really tough, juggling the stress and uncertainty. What would it mean for you to figure out the right path in your major?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "It would mean a lot less stress and more confidence in my future. I just want to feel like I'm making the right choice that will set me up for a good career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering a major change to finance due to interest in money and career opportunities. They articulated the discrepancy between current struggles and desired outcomes, such as less stress and more confidence. However, there's no specific change goal or step, nor has confidence or ambivalence been fully explored. Further exploration of confidence and specific action steps is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a path that aligns with your future goals seems really important to you. How do you think finding more clarity in your major might impact other areas of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): I think it would help me focus better on my studies and probably improve my grades. Plus, I'd worry less about what comes after graduation and enjoy college more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between current major and interests, and has considered alternative options. Change Talk is present with a specific goal of finding clarity in their major. However, further exploration of confidence and ambivalence is needed for a comprehensive transition to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Feeling more settled in your major seems like it could ease a lot of stress. How confident do you feel right now, on a scale of 0–10, about finding that clarity and enjoying college more?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Right now, I'd say I'm probably at a 4. I have some ideas of what might work, but I'm really unsure and that uncertainty makes it hard to enjoy things.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed initial Change Talk regarding their major, highlighting desires for less stress and a good career. However, their confidence is currently low at 4 and they've not yet articulated a specific change goal or plan. Until their confidence increases and a clearer direction is set, staying in the Guiding phase is prudent.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your honesty about your current confidence level is a great step. What do you think might help move your confidence from a 4 to perhaps a 5 or 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Maybe talking to some people who are already in finance or have made a similar switch could help. Getting their perspective might make things clearer for me. Also, trying to explore finance more outside of just what I know might boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific interest in switching to finance and recognizes the potential benefits of change. However, their confidence level is low, at 4, and they are seeking further exploration through discussions with others in the field. This indicates more guiding is needed to bolster confidence and decrease uncertainty before action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Engaging with others in the field and exploring finance further sounds like a proactive approach. What values or goals do you think are driving you towards considering finance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I think it's mostly about wanting a stable and secure future. I like the idea of having options when I graduate, and finance seems like it can offer that. Plus, I've always found the way money works to be pretty fascinating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown Change Talk by considering exploring finance, indicating a specific change goal. However, the client's confidence is at a 4, below the threshold of 6, and there are lingering uncertainties. Ambivalence is still present, suggesting a continued focus on strengthening confidence and reducing sustain talk is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): Fascination with finance and the desire for stability seem to play a key role in your considerations. How do your current actions or studies align with these values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Well, right now, my studies in computer science don't really feel aligned with those values. I'm not really enjoying the classes, and it's hard to see how they fit into what I want for my future. It's like I'm working hard but not moving toward where I want to be.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a discrepancy between their current studies and their values/goals, expressed a desire for stability offered by finance, and suggested actions to boost confidence. However, confidence remains low at 4, indicating ambivalence. Further exploration of these areas and enhancing confidence is advised.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like there's a gap between what you're studying and what truly resonates with you. How might aligning your studies more closely with your interest in finance and your desire for stability change your college experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client: Aligning my studies with my interests in finance might make me more motivated and engaged. I feel like I'd be learning things that are directly relevant to my future, which could make the whole college experience more fulfilling and less stressful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as engaging with finance professionals and exploring finance more, indicating readiness for next steps. While confidence is currently low, the client has identified specific actions to improve it. Discrepancies between current studies and values have been explored, aligning with guiding goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Exploring how to align your studies more with your interests and future goals could indeed enhance your college experience. Based on what you've mentioned, possible steps could include reaching out to professionals in finance or exploring finance courses and resources. How do you feel about creating a plan to connect with people in the field and exploring more finance-related content?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I think creating a plan sounds like a good idea. It feels like a step in the right direction and might help me see if finance is really what I want to pursue. Plus, having a plan might make me feel a little more in control of things.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of exploring a major change to finance and has agreed on creating a concrete plan involving reaching out to professionals and exploring finance-related content. The client shows confidence in moving forward and feels more in control. Barriers have been discussed, and self-monitoring is implicit in the plan. The client demonstrates readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a plan to connect with finance professionals and explore related content seems like it could really empower you. It’s great that you’re considering taking proactive steps towards clarity and alignment with your goals. As you set this plan in motion, remember it's about gathering insights to see if finance truly is the right path for you. Also, engaging with this exploration can be a way to feel more connected and in control over your future direction. Remember, you’re not alone in this journey; seeking guidance and perspectives from those who have been there can be incredibly insightful. Let’s work towards establishing a few specific steps you can take this week, like identifying a couple of finance professionals to reach out to or selecting an introductory finance resource to explore. Keep nurturing your curiosity and courage as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "That sounds like a solid approach. I'll try to identify some people to reach out to and maybe find a finance podcast or book to start with this week. It's a bit overwhelming, but I'll give it a shot.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals and a next-step plan for engaging with finance professionals and resources. The client expressed motivation to take these steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College major troubles\nI am having trouble deciding what I want to do as a major. I am doing the pre-requisite classes for computer science at the moment and I really don’t enjoy these math classes and I am not doing well. \n\nI am considering changing my major to finance because I find money interesting and I really want to graduate school with a major that will provide a selection of jobs. \n\nI am a junior in college with an associates right now so I feel like I need to make a decision soon so I can graduate on time.\n\n\nThoughts on this decision?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

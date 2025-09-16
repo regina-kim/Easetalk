@@ -1,0 +1,284 @@
+{
+  "id": "y42obo",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I’m feeling pretty stressed out. I guess I just want to talk about how overwhelmed I am with this coding class I’m taking.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "While the client has shared their main concern and some context, the conversation has only just begun. The therapist has not yet delved into the client's feelings or thoughts deeply enough to build rapport or understand the situation fully. Further exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like the coding class is really weighing on you right now. What is it about the class that's making you feel overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I just feel completely lost. I don’t understand the assignments, and I'm worried because it's my last class before graduating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story includes feelings of being overwhelmed, fear of failure, and isolation. The context of the issue is detailed, with the client expressing emotional distress and concern about seeking help. Empathy and rapport are evident as the client openly shares personal fears. Mutually agreed goals have not yet appeared.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging, especially with graduation on the horizon. You’re feeling lost because the assignments are difficult and there's a lot riding on this class. What aspects of the assignments are causing you the most trouble?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): It’s the coding itself. I thought I was picking it up in quizzes and study groups, but now I’m on my own and it feels like a different language.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the main concern, context, and feelings about the coding class, revealing stress and anxiety related to graduation. Empathy and rapport are apparent, and goals of exploring phase are met, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It can be really daunting when things don't click as expected, especially when you're so close to graduating. You're worried because coding feels like a whole new language when you're tackling it solo. How do you see successfully completing this class impacting your future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Finishing this class means I can finally graduate, which is huge for me. It feels like there’s so much pressure to succeed and not mess up this close to the end.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk regarding the desire to finish the class and graduate. A specific goal is identified with graduation as a key motivator. However, confidence levels and specific next steps are not yet clear. Ambivalence regarding seeking help is present. Thus, further exploration is needed to strengthen motivation and address barriers.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Graduating is a significant milestone, and it makes sense that you're feeling the pressure to do well. Successfully completing this class could open a lot of doors for you. What would be different in your life if you felt more confident in your coding skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): If I felt more confident, I'd probably be less anxious about the future and job prospects. I'd feel like I actually earned my degree rather than just scraped by.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk regarding the importance of graduating and how confidence in coding could reduce anxiety about the future. However, specific next steps or change goals have not been clearly articulated, and confidence levels have not been assessed. Ambivalence about seeking help remains high.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Gaining confidence in your coding skills seems like it could really boost your sense of accomplishment and ease your anxiety about job prospects. Achieving that could align more closely with your goal of truly earning your degree. On a scale from 0 to 10, how confident do you feel about making progress in this class right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say maybe a 3. I feel like I can make some progress, but it's hard to see the path to actually getting there at the moment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client exhibits low confidence (3) and strong ambivalence, expressing anxiety and self-criticism about their coding skills. The client lacks a clear view of the path forward, and while they have acknowledged the importance of the class for future goals, there is no specific change goal or next step identified yet. These factors indicate that further strengthening of motivation and exploration of strategies is necessary.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "You've got a bit of confidence, even if it feels small right now, which is a great starting point. It seems like you really value not just graduating, but truly mastering the skills along the way. What might help you feel even a bit more confident, moving from a 3 to perhaps a 4 or 5?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): Maybe finding some online resources or tutorials could help, something to guide me through the basics again. I think if I could understand just a bit more, I'd feel less stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying online resources as a potential help, indicating a specific next step. However, confidence remains low at 3, signaling the need for further support to raise it. Ambivalence is present with pressure and anxiety about the class. Goals of the Guiding phase like confidence and reduced ambivalence are incomplete.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring online resources sounds like a promising step to bolster your understanding and confidence. Recognizing that understanding the basics is key for you shows your commitment to truly mastering coding. How does the idea of revisiting the basics fit into your vision for achieving your future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(guiding): Revisiting the basics sounds like a solid plan to build a stronger foundation. It feels like taking a step back to move forward, which could really help in feeling more equipped for future job opportunities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, including a potential step to increase confidence by using online resources. However, confidence is still low at 3, and there's significant anxiety and pressure. The conversation should continue to strengthen motivation and support before proceeding to actionable planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(guiding): Revisiting the basics to strengthen your foundation aligns so well with your goal of feeling prepared for future opportunities. It's insightful to see how stepping back can actually propel you forward. What aspects of revisiting the basics do you think you would find most beneficial?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Focusing on the basic concepts and understanding how they fit together would be really beneficial. I think if I could see how everything connects, it would make tackling the bigger coding challenges feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is beginning to express commitment to change by recognizing the need to revisit basics and explore resources. Confidence remains low at 3, indicating they are not yet ready to advance. The client has not yet expressed a clear change goal or next steps beyond a general idea of using online resources. Continue to strengthen commitment and explore specific plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Understanding how basic concepts interconnect could indeed make the bigger challenges seem more manageable. It sounds like seeing the bigger picture is important to you and could alleviate some of that overwhelm. How might this understanding shape the way you approach learning and applying new coding concepts in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I think having a clearer understanding of the basics would give me a solid base to tackle new concepts with more confidence. It might help me see patterns or solutions more easily, making the learning process smoother and less frustrating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to revisit the basics as a way to build a stronger foundation, which shows change talk and a specific next step. However, confidence is still low, rated at 3, and ambivalence exists as the client feels stuck with the current path. More exploration and confidence-building are needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "A clearer grasp of the basics could indeed make the learning process smoother and help you spot patterns or solutions more intuitively. It's inspiring to hear how this approach could boost your confidence and reduce frustration. How do you envision this newfound confidence impacting your overall journey towards your career aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I imagine it would make a huge difference. If I'm more confident, I think I could approach job applications and interviews without feeling like an imposter. Feeling like I truly understand what I'm doing would probably make me more motivated and excited about starting my career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed increased understanding of the importance of revisiting basics and has shown motivation to address their concerns. The confidence level was initially low but there is a clear plan to increase it. Change talk is present with specific steps identified, and the client's discussion indicates a shift towards readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Building a strong foundation to boost your confidence can indeed transform how you approach job applications and interviews. As we move towards setting a goal, would you like to consider focusing on one or two specific basic concepts each week? Or perhaps you'd prefer finding a structured online course or tutorial that fits your learning style?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of focusing on one or two specific concepts each week. It feels more manageable and less overwhelming than diving into a full course right now. That way, I can really take my time to understand each part before moving on to the next.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of improving coding skills and a specific plan to focus on one or two basic concepts weekly. They exhibit commitment to this plan. Barriers such as feeling overwhelmed are addressed by breaking tasks into manageable steps. The client shows increasing confidence about their career aspirations, indicating readiness to transition.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Taking it one step at a time by focusing on specific concepts each week sounds like a thoughtful approach. This steady pace can truly help deepen your understanding without feeling overwhelmed. It's great that you're giving yourself the space to absorb and integrate the knowledge at your own rhythm. As you embark on this journey, remember to celebrate those small victories along the way, as they will build your confidence step by step. For our next steps, consider picking the first topic you’d like to explore and perhaps set aside a little time each day for it. You've got this, and I'm here to support you as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll start thinking about which concepts to tackle first and set aside some time for them. It's good to know I'm not alone in this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session met termination goals by summarizing steps, coping strategies, and discussing a next-step plan. The client has a clear plan to tackle concepts weekly, indicating readiness to move forward independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Have you ever had no clue what you are doing in the class?\nI am in my last class of the degree, a coding class. I have no clue what I am doing, I have started the coding assignment but got nowhere far, which is due one week from now. Friends don’t want to help. Can’t seek help from Professor because he’ll know how clueless I am, but somehow did very well in the quizzes and midterm (collaboration with other classmates). \n\nI just think I got this far, only this class left then I’ll be done with this college nightmare, but I don’t know if I even pass the class. I feel physically ill from this class. I had real nightmares about I am failing. I am not seeking for criticism, I know it’s my fault.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

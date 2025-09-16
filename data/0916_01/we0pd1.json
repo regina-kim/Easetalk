@@ -1,0 +1,137 @@
+{
+  "id": "we0pd1",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's been on your mind lately? I'm here to listen and support you in any way I can.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for that. I've just been feeling unsure about my path at college and wondering if it's really the right fit for me right now. There are a lot of things I'm trying to figure out, and it's been a bit overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared personal concerns and context about their situation, including their feelings, thoughts on college, and transportation issues. However, empathy and rapport need further development, and mutually agreed goals between client and therapist are not yet clear. Exploring should continue to ensure a deeper understanding of the client's narrative.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed by the uncertainty about your college path. What aspects of your college experience are you finding challenging right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's mainly about not feeling like I belong here and the whole transportation issue. Plus, I'm questioning my major and whether it aligns with what I want in the future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including thoughts and feelings about college, transportation, major concerns, family expectations, and financial worries. This provides a comprehensive understanding of their context. The therapist has shown empathy and understanding, setting the stage for agreed goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough to feel out of place and have these doubts about your major and future. What do you imagine your life would look like if you had more clarity and confidence in your college path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): If I had more clarity, I think I'd feel more at ease and be able to focus better on my coursework. I’d probably have a plan that excites me and a way to manage everything without feeling stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified specific concerns about their current situation. Some potential change goals have been mentioned, such as seeking a job and changing their education path. However, there are still unresolved feelings of ambivalence and external pressures from family. Further exploration of their confidence and commitment to these changes is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Envisioning a future where you feel more at ease and focused sounds promising. What small steps do you think could help you move towards that clarity and excitement about your college path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I guess a good start might be talking to a career counselor to explore other majors or career options. Maybe also looking into online classes so I can manage my time and transportation better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of talking to a career counselor and exploring options like online classes. They have considered life with more clarity and expressed potential actions. Change Talk is present, and the client appears ready to form a specific plan. These factors indicate readiness to move to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Considering your ideas, speaking with a career counselor and exploring online classes are great steps. What's your first step towards reaching out to a career counselor or researching online classes? How can you see yourself overcoming potential barriers like transportation or feeling out of place?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think I could start by checking out my university's career services to see if I can set up an appointment. For online classes, I might need to do some research on which ones are available for my major. As for the transportation and feeling out of place, maybe connecting with students who have similar experiences could help, or finding a local job that fits my schedule.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to explore alternative academic paths and manage transportation issues by considering online classes. They have identified specific actions like contacting career services and researching online courses. Barriers, such as transportation, have been acknowledged with potential solutions like connecting with peers. The client shows commitment to these steps and confidence in addressing barriers.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've really thought through some practical steps here, like reaching out to career services and researching online classes. Taking these actions can bring you closer to feeling more at ease and focused. Connecting with peers or finding a local job sounds like a supportive way to tackle feeling out of place and transportation issues. You're showing a lot of courage in seeking solutions. \n\nYour next step could be setting up that career counselor appointment and starting your research on online courses. Remember, you’re not alone in this journey, and reaching out to others, whether it's a counselor or fellow students, can provide valuable support. I'm confident you’ll handle these steps with care and thoughtfulness. Keep going; you're on a promising path!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate your encouragement. I'll definitely try to make those moves and see where it takes me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified practical next steps and coping strategies, such as consulting a career counselor and exploring online courses, addressing their transportation and career concerns effectively. Termination goals are met, allowing for session closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: So I’ve started college but I want a change\nI’m a first year student who’s recently finished summer school and overall I’ve enjoyed my time at university, but I honestly don’t think it’s for me. That’s not to say that I want to drop out, but I was hoping to get a full time job and take classes online instead. Also, I don’t have a car or any other sort of transportation besides walking or being driven around by a relative’s vehicle, so honestly, I don’t have reliable transportation when I’m at school. This is why I’d rather stay at home. \n\nAnyway, if that doesn’t work, I was thinking about just going back to cc (which was supposed to happen in the first place), but my family is pretty against me doing that and believe that I would be selling myself short by doing so. I’ve also considered dropping out as well because the major that I have chosen doesn’t seem to be a proper choice and it may not help me in the long run (elementary education). I’d rather not waste anyone’s time and money, you know? \n\nThen also there are some things in my personal life that I haven’t shared with my family and I’m unsure that if it ever comes up in conversation or I decide to tell them, then they’ll stop helping me pay for school. That’s why I wanted to get a job just in case something were to happen and they decide not to help anymore. \n\nNot sure what to do anymore :(",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

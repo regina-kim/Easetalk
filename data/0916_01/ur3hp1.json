@@ -1,0 +1,284 @@
+{
+  "id": "ur3hp1",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to share with me today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, so I've been really stressed about my thesis situation. My advisor isn't actually leading any projects, and it's starting to affect my progress. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has begun to explore the client's situation and expressed stress regarding their thesis situation. However, the essence of the client's story, thoughts, and feelings surrounding the issue have not been fully explored. More information is needed to build rapport and understand the client's perspective and goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging, and it's understandable to feel stressed. Can you tell me more about how this situation is impacting you and your work on the thesis?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, it's just frustrating because I feel like I'm stuck in limbo. I've put in a lot of effort just to find out that nothing is moving forward, and now I'm worried about not graduating on time. It’s hard to stay motivated when I don’t really know what I’m supposed to be doing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's concerns about their thesis and advisor has been elicited, including feelings of frustration and stress. Context about the advisor's involvement and its impact on progress was detailed. Empathy and rapport are present, and the client’s challenges and questions suggest mutually understood concerns. It's suitable to shift towards strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds tough, being in a place where you feel stuck and uncertain about your next steps. What would moving forward with your thesis look like for you, and how would that align with your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): Moving forward would mean actually having a clear project to work on and knowing what I need to do to complete my thesis. It would really help me feel more secure about graduating and achieving what I set out to do. Right now, I feel kind of lost and unsure if I'm even heading in the right direction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the discrepancy between the current situation and their goals of graduating. They've reflected on how moving forward aligns with their goals. Change Talk is present, with a desire for clear project direction. However, no specific change goals or next steps have been identified yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Achieving clarity and direction seems really important to you. When you imagine having that clear project and knowing your next steps, how does that influence your confidence about succeeding with your thesis?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): Oh, it would make a huge difference. Just having a plan would boost my confidence a lot because I'd finally be able to see a path forward. Right now, I just feel like I'm wasting time and energy, which is really discouraging.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for clarity and direction, which shows a potential change goal. Confidence has been discussed, but no specific confidence level or commitment to change has been assessed. Ambivalence is present as the client still feels lost. Continuing in Guiding to explore further could strengthen motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Gaining that clarity and direction would certainly be empowering for you. On a scale from 0 to 10, where 0 is no confidence and 10 is full confidence, how would you rate your current confidence level about finding a way forward with your thesis?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I'd say it's probably around a 3 right now. I know I have the skills to do the work, but without a clear project or guidance, it's hard to feel confident about making any progress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the desire for clarity and direction, aligning a clear project with their goals, but confidence remains low at 3. Change Talk is present about wanting a clear path, but no specific change goal or next step has been identified yet. Ambivalence persists regarding the advisor's role and project's direction.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "therapist(guiding): Recognizing your skills is a positive step, even when confidence feels low at the moment. What do you think might help increase that confidence just a bit, maybe moving from a 3 to a 4?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think talking to someone who can actually help me navigate this situation would be a start. Maybe reaching out to other faculty or students who have been through something similar could give me some ideas on how to get unstuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of seeking guidance from others, showing some Change Talk, but confidence is low. The client is still exploring strategies to increase confidence and address ambivalence about the thesis situation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Connecting with others who've had similar experiences could be a valuable step in exploring new perspectives and solutions. How do you envision these conversations contributing to your sense of direction or confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I imagine they'd give me some practical advice or even just reassurance that things can work out. Hearing how others managed or seeing a different way of approaching things could definitely help me start to feel more hopeful and less isolated in this situation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change and identified potential steps, such as reaching out to faculty or peers. Confidence is currently low at 3, but there is a plan to improve this, indicating some movement towards readiness for change. However, as confidence and clear next steps haven't been fully established, it's prudent to continue in the Guiding phase to further explore and support the development of confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling less isolated and hearing others' successes could indeed be quite reassuring. What values or personal strengths do you think could support you in reaching out and having these conversations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): I guess my persistence could be a strength here. I’ve always been pretty determined when I set my mind to something. Also, being open-minded might help me take in different perspectives without getting too discouraged if things aren't perfect straight away.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses a clear desire for change and outlines steps to improve confidence. They have identified specific actions, like seeking guidance, and recognize their strengths, indicating readiness to plan action. However, their confidence remains low, and they are still exploring their situation. It's best to continue guiding to further strengthen their confidence and refine their goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Your persistence and open-mindedness are truly admirable strengths. How might embracing these qualities make a difference in your approach to reaching out and learning from others?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): Embracing those qualities could make it easier for me to take the initiative and not be afraid to ask for help or advice. It might also help me stay positive and flexible if things don't go as planned right away, which is something I could really use right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged a lack of confidence but has identified potential steps to improve it, like seeking guidance from others. However, their confidence rating is still low, and no specific change goal has been set. Ambivalence persists, as seen in their uncertainty. Thus, more exploration in Guiding is needed to solidify motivation and goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Embracing your persistence and open-mindedness could indeed encourage you to take those first steps with more ease and positivity. How might imagining yourself successfully reaching out to others impact your view of your thesis journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): Imagining myself successfully reaching out feels like a bit of a relief, honestly. It makes me feel like there's a possibility that I won't be stuck in this limbo forever, and that there's a chance to steer things back on track with some support and guidance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to reach out for support, recognized their strengths, and demonstrated clarity about potential steps to increase confidence. However, confidence level is still low (3), and the specific change goal is not strongly articulated. Exploring further can help solidify the plan and enhance readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Visualizing that possibility of steering things back on track with support can be quite empowering. What small step do you feel ready to take in reaching out to someone who could offer that guidance or reassurance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think I could start by emailing one or two faculty members who seem approachable and have a good track record with students. Maybe setting up a meeting to discuss my situation and see if they have any advice or can point me in the right direction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is exhibiting Change Talk with specific ideas on reaching out to faculty, indicating increased motivation. The client has identified strengths and reflected on the positive impact of these actions. The client has proposed a concrete next step of emailing faculty members, showing readiness to move toward specific planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Reaching out to faculty members seems like a practical first step. Would you prefer to draft an email to them, or would you find it helpful to gather some questions for your meeting first? What might be a good timeframe for you to take this step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): Drafting an email sounds like a good start, and I could definitely prepare a few questions to make sure I cover what I need. I think aiming to reach out within the next few days would be reasonable, so I don't overthink it and lose momentum.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and action plan, which includes emailing faculty members for guidance, and has discussed potential barriers such as overthinking. They have agreed to self-monitor by planning to reach out within a few days. The conversation reflects commitment and readiness to take steps, indicating progression to Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Creating that email draft sounds like a solid move, and having those questions ready will help ensure your meeting is as productive as possible. Taking action in the next few days is a wonderful way to maintain your momentum. You've got this, and it's clear that you're committed to making positive steps forward. Remember, you've already got the strengths of persistence and open-mindedness on your side. I'll be here to support you as you take these steps. Let's plan to touch base soon to see how things are progressing. You're not alone in this, and you're making commendable strides.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I'll get started on that email soon and try not to overthink it. I'll definitely keep you updated on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to draft an email and reach out for guidance, understanding their strengths and the next steps. They express readiness and a timeframe, meeting termination goals of planning and coping strategy.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Any Red Flags I Missed?\nHi all, \n\nI'm in a thesis STEM MS where the professors/PIs largely choose students instead of having students rotate in labs or reach out to potential PIs. I was brought in to work on a few collaborative projects where the PIs and my advisor are not the same people. This was never mentioned to me, and I happened to find out when an undergrad and I were talking. For various reasons, any and all projects I was supposed to use for my thesis are either disjointed, have been delayed, or will no longer happen (it's been an entire semester and I've done no work on anything). Turns out my advisor merely \"consults\" on 1 of them and failed to mention she is not a PI on any project right now, is powerless to move them along, and seems to care a little less every day. This is slowly becoming more of an issue that could possibly keep me from graduating on time. \n\nIs any of this unusual, or is it just how it goes in academia sometimes? Is having an advisor who is not my PI problematic?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

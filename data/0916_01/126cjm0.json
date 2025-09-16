@@ -1,0 +1,284 @@
+{
+  "id": "126cjm0",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm alright. I've just been feeling pretty overwhelmed with school stuff and I'm not sure if I'm on the right path. It's been stressing me out a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of being overwhelmed and uncertain about their educational path, but more exploration is needed to fully understand their thoughts, feelings, and the deeper context of their situation. The client's goals and values need further clarification before moving to the next phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Balancing school and life can definitely be overwhelming. It sounds like you're feeling stressed because you're uncertain about your direction. What about your current path is making you question if it’s the right one?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Well, I'm not really passionate about what I'm studying, and I'm mostly in school just to satisfy my family. I feel like I'm just going through the motions and it's kind of draining.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's concerns about their academic path and familial expectations have been clearly articulated, but more exploration of feelings, thoughts, and contextual understanding is needed to foster empathy and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough to feel like you're not pursuing something you're passionate about, especially when it's to meet others' expectations. You're feeling drained because your studies don't resonate with your personal interests. What are some things you feel passionate about, or have enjoyed doing in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Honestly, I've always liked being creative—like drawing or writing. I never really thought about them as career options, though. It feels like everyone expects me to choose something more \"practical.\"",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared concerns about their education path, lack of passion, and family expectations. The therapist has expressed empathy and explored the client's interests. However, the client's feelings and context around the decision to continue or change their educational path need further exploration. Additional rapport-building would aid in establishing mutually agreed goals for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Pursuing creative interests like drawing or writing can be deeply fulfilling. It sounds like you're torn between following your passion and meeting expectations for practicality. How do you feel about exploring possible ways to integrate creativity into your life or studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it could be interesting to explore that, but I'm not sure where to even start. Part of me worries that it's not realistic, and I don't want to let anyone down.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including the stress of not pursuing a passion, family expectations, and their creative interests. Empathy and rapport have been established, with mutually agreed goals on exploring integration of creativity. Moving to the Guiding phase would help strengthen motivation and evoke change talk as the client considers realistic steps for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring options can feel daunting, especially with the worry of letting others down. You're recognizing a tension between realistic choices and your creative passions. On a scale of 0 to 10, how confident do you feel about beginning to explore some small steps towards integrating creativity into your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: Hmm, probably like a 3 or 4. I'm curious, but the fear of it not working out is holding me back. It's hard to shake off the feeling that I might end up wasting time or disappointing people.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their current academic path and personal passions, showing awareness of conflicting values. However, confidence is still low, and ambivalence about making changes is present. More exploration of options and potential steps is needed to strengthen motivation and increase confidence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Fear of disappointment can indeed be a heavy weight. You're showing curiosity and openness by considering integrating creativity into your life, even amid doubts. What might help increase your confidence in exploring these creative steps a little more?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): Well, maybe if I could talk to someone who's been in a similar situation or if I could see some success stories, that might help. Also, having some sort of plan or guidance on how to start integrating creativity could make it feel less scary and more doable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses ambivalence and low confidence (3-4), indicating that they are not yet ready for specific action plans. They require further exploration of their fears, motivations, and possible solutions. Change Talk is present, but they need more guidance to clarify goals and increase confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Connecting with someone who's navigated a similar path or learning about success stories can indeed be inspiring. You're identifying helpful resources that could boost your confidence and make the journey seem more attainable. How would it feel to start by reaching out to someone for advice or to research how others have successfully combined creativity with their careers?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think it would feel pretty reassuring, honestly. Knowing that others have made it work might make me feel like it's possible for me too. It might be a good first step to see what's out there and how people have managed to balance creativity with practicality.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to express Change Talk by considering reaching out for advice and researching success stories. They have a low confidence rating (3-4) but are identifying resources that could increase this. No specific change goal or next step has been decided yet, and ambivalence persists. Guiding should continue to strengthen confidence and clarify commitment.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling reassured by seeing others' success can often make your own path feel more tangible. You're open to taking that first step by seeking advice or researching stories, which can offer both inspiration and guidance. What small step do you feel ready to take in reaching out or researching right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by looking up some blogs or YouTube channels of people who work in creative fields. Maybe I'll join some online forums or communities where I can ask questions and get a feel for what their journeys were like. It seems like a low-pressure way to begin.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is showing signs of Change Talk by exploring steps to integrate creativity into their life and expressing interest in learning from others' experiences. However, their confidence is still low (3 or 4), and they are still weighing their options. The exploration of discrepancies and goals is ongoing, suggesting that more guiding is needed to solidify motivation and confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Exploring online communities and resources sounds like a great starting point. You've chosen an approachable way to gain insights and build confidence by learning from others' experiences. As you begin this journey, what do you hope to discover or gain from these initial explorations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess I'm hoping to find some relatable stories or advice that makes it easier to picture myself pursuing something creative. Maybe I'll come across a path that resonates with me or learn about different ways people have found success without sticking to the traditional route.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is showing openness to change by considering creative integration into their life and identifying actionable steps like exploring communities. However, their confidence is below 6, and there's no clear specific change goal yet. Decreasing ambivalence is needed as they express doubts about balancing creativity with practicality.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Discovering relatable stories and advice can truly illuminate new possibilities and make those creative aspirations feel more within reach. You're setting out with an open mind to learn about diverse paths and unconventional successes. As you explore these stories, what values or goals do you hope they'll align with in your own life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I hope they align with the idea of doing something I genuinely enjoy and care about, rather than just going through the motions. I'm really looking for ways people have found fulfillment and success on their own terms, not just what society dictates.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun exploring creative integration and identified specific steps, such as researching others' experiences, which aligns with their values. While confidence is initially low, the client is seeking reassurance and inspiration actively. This indicates progress, with change talk present and specific goals forming, but full readiness for the Choosing phase isn't fully established yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "therapist(guiding): Seeking fulfillment and success on your own terms is a powerful goal, and it's clear that authenticity and passion are important values for you. By exploring these stories, you might find approaches that resonate with your vision of a meaningful life. How do you see these values influencing the steps you might take toward integrating creativity into your journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client: Well, I think they might push me to be more intentional about what I choose to do next. Like, instead of just picking something because it seems practical, I could focus more on what genuinely interests me. That way, even if it's tough, I'd at least be doing something that feels more true to who I am.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown openness to change, identified specific next steps, and evoked personal values like authenticity and passion. They expressed an intention to explore creative fields and align future decisions with personal fulfillment rather than societal expectations. While their confidence level wasn't explicitly measured, they articulated potential steps and displayed a decrease in ambivalence, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your focus on intentionality and authenticity as you choose your next steps is inspiring. It sounds like prioritizing genuine interest over practicality is important so that your journey aligns with your values. Based on our conversation, possible options could include creating a list of creative fields you’re curious about or identifying specific skills you want to explore more deeply. What do you think about starting with one of these options, and how might you approach this with intention and authenticity?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: That sounds like a good idea. Making a list of creative fields could help me narrow down what excites me the most. I guess I could start by jotting down any interests or hobbies I'm already drawn to, and see if there are any fields related to those. Then, I could look into what kind of skills are needed and explore how I'd feel about developing those skills further.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear goal of exploring creative fields and identified a concrete action plan of listing interests and potential skills to develop. Barriers like sticking to practical choices over passion are acknowledged and addressed. The client is showing readiness through intentional planning and aligning actions with values, indicating confidence and commitment to change. The client is ready to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Creating a list of creative fields you're curious about, based on your interests and hobbies, sounds like an excellent way to start aligning your choices with your true passions. You're showing a thoughtful approach by considering both your current interests and the skills you might want to develop. This can lead to a deeper understanding of what truly excites you. It's wonderful to see you embracing this journey with such openness and intention. As you jot down your ideas and research the related skills, remember that each step, however small, brings you closer to a path that feels right for you. Moving forward, maybe setting aside some dedicated time each week to explore these areas could be a simple yet effective step. Keep nurturing that spark of curiosity, and trust that it will guide you well.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I'll try to keep that curiosity alive. Dedicating some time each week sounds manageable and might help me stay focused. I'll give it a shot and see where it takes me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to explore creative fields and align them with personal values. Dedicating weekly time shows commitment to next steps. The session has naturally reached termination with closure and actionable steps discussed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I drop out of community college?\nI just found out I got a D+ in one of my end early classes which brought my gpa to a 2.4. I already failed one class and now I failed this one. I honestly have no idea what I want to do in life and am only attending to make my family members shut up. Should I just power through it or drop out? Or attend a college that I ACTUALLY wanted to go to. (Im also attending the cc to be closer to home)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "y23xie",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're thinking about something. What’s on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been really overwhelmed with my grad program lately. I'm worried I'm not keeping up, especially with this math class that's been really tough for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story of struggling with their grad program, particularly a challenging math class, has been elicited. The client has shared their feelings of overwhelm and inadequacy, along with the context that led them to pursue this program. Empathy and rapport seem established, but mutually agreed goals or strengths have not been fully explored yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging, trying to balance everything and feeling pressure from a tough class. What has been the most overwhelming part for you recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, it's feeling like no matter how hard I try, I'm just not grasping the math concepts. It's like I'm putting in the effort but not seeing any progress, and it's really frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about struggling with a math class in their grad program and feeling overwhelmed. They have expressed feelings of frustration and inadequacy. The therapist has shown empathy and understanding, but more exploration is needed to fully understand the client's situation and emotions before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really tough to feel like your efforts aren't leading to the progress you hoped for. You feel frustrated because despite trying hard, the concepts still seem out of reach. What have you tried so far to tackle these challenges?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): I've been reviewing the basics, like going back to linear algebra, and spending extra hours studying. I even talked to a friend who finds it easier, but it still feels like I'm missing something crucial.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns, including their struggle with a specific math class in their grad program, feelings of frustration, and efforts to improve. The therapist has shown empathy and understanding, and the context of the challenge has been explored. The goals of the Exploring phase appear to be met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It takes a lot of dedication to revisit the basics and seek help from a friend. You're really putting in the effort to overcome this challenge. How do you think mastering these math concepts might impact your journey in the grad program and your future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think mastering these concepts would give me more confidence in my abilities and help me with other subjects too. It feels like a big wall right now, and getting past it could really open up more opportunities for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by recognizing the impact mastering math concepts would have on their journey and future goals. There is a clear specific change goal: mastering math concepts. The client's confidence has increased, indicated by recognizing potential future opportunities. The discrepancy between current struggles and future aspirations has been articulated. It seems appropriate to advance to the Choosing phase to develop a plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Mastering these concepts could certainly be a game-changer for your confidence and future opportunities. As you consider next steps, what specific goal would you like to set regarding your progress in math? Some options might include setting a regular study schedule, finding additional resources like a tutor, or perhaps forming a study group. Which of these, or any other ideas you have, feel right for you to pursue?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think setting a regular study schedule could help, just to make sure I'm consistently working on it. And maybe finding a tutor might also give me a different perspective on the material. A study group sounds helpful too, so I'll look into that as well.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals such as establishing a study schedule, finding a tutor, and considering a study group. Barriers were discussed, and monitoring through consistent study is implied. The client shows readiness with commitment and action steps. Confidence is improving. Progress has been made in the Choosing phase, so moving forward is appropriate.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You’ve got a solid plan in mind, starting with a regular study schedule, which is a fantastic way to ensure consistent progress. Looking into a tutor and a study group should provide different perspectives and support, which can be really beneficial. You're showing a lot of initiative and resourcefulness here.\n\nLet’s summarize your next steps. You’ll be setting a consistent study schedule, exploring tutor options, and possibly joining a study group. These are clear and actionable steps toward mastering those math concepts.\n\nBeing proactive in seeking support is a great strategy. Remember, you're building not just math skills, but also resilience and adaptability which will serve you well in your grad program and beyond. \n\nAs you move forward, feel free to reach out for more support or adjustments to your plan. You're not alone in this, and you’re already making strides toward overcoming that wall. Keep up the great effort!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks for helping me outline those steps. I'll give it a shot and see how it goes, and I'll definitely reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session includes a summary of goals, steps, and coping strategies. The client has a next-step plan and is encouraged to reach out if needed. It is natural to conclude the session given this progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I get through grad school?\nPretty sure there are several posts similar to mine, but I don't know who to ask for advice. I naively joined a master's program in computer science this September, simply because I felt like my undergraduate degree taught me nothing and i want to learn the concepts in a better institution. One month in and I am barely holding back my tears. I know it wasn't going to be easy but I took a subject called mathematical foundations, and I am absolutely unable to comprehend it. The other 2 subjects i took are definitely hard but i feel like with an extreme amount of effort, i can do my best and learn well. But with math foundations, i don't know what to do. I don't know how the rest of my classmates feel about the subject, but i do know that one friend is finding it quite easy. I have spent several hours going through the basics of linear algebra and it still doesn't change the fact that i am not able to comprehend the subject. I'm not saying I've given up, but i want to ask if this is a natural feeling that some of you all may have felt for some subjects. How did you get through this, and 4 semesters of this? Can you provide some tips on how to manage the semester, especially if you've considered yourself an average/below average student?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

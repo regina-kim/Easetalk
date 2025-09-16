@@ -1,0 +1,263 @@
+{
+  "id": "se58lu",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I'm feeling pretty overwhelmed and unsure about everything right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of overwhelm, uncertainty, and fear about their acceptance and future plans. However, there is a need to explore more about the client's thoughts, feelings, and the context of their anxiety to build rapport and understand their concerns fully.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Thank you for sharing that with me. It seems like there's a lot on your mind that's causing some uncertainty. What's been happening lately that's contributing to these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Well, I just got accepted into a program I applied to, and it's making everything feel so real. Now I'm just second-guessing if I even want to go through with it, and it's really stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has successfully elicited the essence of the client’s story, including their thoughts and feelings about the acceptance and anxiety. The client has shared relevant context and specific concerns, building rapport and understanding. It's suitable to move to the Guiding phase to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a big decision weighing on you. How do you see your life changing if you go through with the program versus if you decide not to?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: I guess if I go, I'll be taking on a lot of new challenges and responsibilities, which is exciting but also scary. If I don't go, I might feel like I wasted all the effort I put into getting to this point.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored the discrepancy between their effort and their current hesitation, expressing both excitement and fear about the program. The client has not yet articulated specific change goals or steps, nor has there been an indication of their confidence level. Ambivalence is still present.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Taking on new challenges can definitely bring mixed emotions. What are some of the values or personal goals that guided you to apply for this program in the first place?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I wanted to learn more and push myself out of my comfort zone. It seemed like a good way to grow and maybe open up better opportunities for my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying personal values and goals that align with pursuing the program. They have begun to imagine life with and without the change, highlighting discrepancies between current behavior and values. However, no specific change goal or next step has been defined yet, and confidence levels haven't been assessed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Embarking on a journey of growth and future opportunities sounds like it aligns closely with your values. On a scale from 0 to 10, how confident do you feel about stepping out of your comfort zone right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I'm probably at a 4 right now. I want to be more confident, but the fear is pretty overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence about attending the program, with some Change Talk about growth and opportunities but with low confidence and high fear. Confidence is below 6, indicating a need for continued support to strengthen motivation and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It takes courage to acknowledge those feelings, and being at a 4 shows there's some willingness to move forward. What might help shift that confidence from a 4 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(reflecting): I think having a clearer idea of what to expect might help, and maybe talking to people who have been through it before. Also, working on managing my anxiety better could make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has evoked a discrepancy between the client's values and their current confidence level about the decision. Change Talk is present, but confidence remains low. The client has identified potential steps to increase confidence, yet a specific change goal or next step is not clearly defined. Continuing in the Guiding phase would help in solidifying commitment and planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Having clarity and support can indeed bolster confidence. Speaking with those who've faced similar experiences could offer valuable insights. What aspects of managing your anxiety do you think could be most beneficial right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): I think learning some relaxation techniques or ways to prevent myself from spiraling would be helpful. Also, maybe setting small, manageable goals could make things feel less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, specifically discussing values and goals related to growth and learning. While confidence is currently at 4, they have identified steps to increase it, such as talking to others and managing anxiety. Ambivalence remains with fear present, suggesting more guiding needed to solidify readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Learning relaxation techniques and setting small, manageable goals can be powerful tools in managing anxiety. How might achieving these small goals impact your confidence as you consider this new opportunity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): I guess reaching those small goals could help me feel like I'm making progress and that I can handle the changes. It might make everything feel less overwhelming and more within reach.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their desire to grow and their fear of change. They have identified strategies to increase confidence, yet their confidence remains low at 4. Change Talk is present, but ambivalence is still significant. The focus should remain on bolstering confidence and addressing ambivalence before proceeding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(guiding): Achieving those small milestones could certainly reinforce your ability to adapt and grow. What steps do you imagine taking to start working towards these small goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think starting with some research on the program and talking to current or past students would be a good first step. Also, maybe setting a daily routine to practice relaxation techniques could help build a foundation for dealing with anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to increase confidence and manage anxiety, showing progress in addressing their concerns. They have expressed a desire to change and have considered actions to improve confidence, but their confidence is still low. Therefore, continue in Guiding to strengthen motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Connecting with others who've been through the program sounds like a great way to gather insights and build confidence. Establishing a daily routine for relaxation can also create a stable foundation. How might these steps align with your broader values and personal growth goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): I think reaching out and learning from others fits with my goal of pushing myself and seeking growth. Plus, having a routine for relaxation aligns with taking care of my mental health, which is important to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated specific steps to address anxiety and increase confidence, indicating readiness to plan actions. Confidence is being bolstered through reflections on potential strategies, aligning with values and growth goals. The presence of Change Talk and a focus on actionable steps support progression to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating connections and prioritizing mental well-being seems to resonate deeply with your values of growth and self-care. Considering these, what specific goal would you like to set for yourself to kickstart this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think a good starting goal could be to reach out to at least one current or former student this week and have a chat. That way, I can start getting a better sense of what to expect and start building that support network.",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of reaching out to a student and has an action plan to manage anxiety with relaxation techniques. Barriers like anxiety are addressed, and self-monitoring through goal-setting is established. The client shows commitment to start with these steps, aligning with their growth values, indicating readiness.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You’ve set a clear and achievable goal to connect with someone who's experienced the program, which is a fantastic step to take. This aligns beautifully with your commitment to growth and mental well-being. By reaching out, you're paving the way for new insights and building a supportive network. Remember, each step you take, no matter how small, is a move toward your broader goals. Keep practicing those relaxation techniques as part of your daily routine, and be gentle with yourself as you progress. I’m confident in your ability to navigate this path, and I look forward to hearing about your experiences. Let’s plan to check in next week to discuss how the conversation goes and any new insights you gain. You're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll definitely give it a shot and keep you updated on how it goes next week. Appreciate your support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session provided a summary of goals, steps, and coping strategies. A clear next-step plan was discussed, and the client expressed understanding and readiness to proceed, indicating a natural conclusion with closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Just got my first acceptance, but now I'm second guessing even wanting to go and riddled with fear.\nIt all feels so real now. I'm a generally anxious person so I'm sure it may just be that but I'm not even sure I want to go now. I've put in all this hard work and time and now I'm so worried. What if i get through all of this and, by the time I'm there, I'm miserable? Has anyone else felt this way? How did you get over it if so?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

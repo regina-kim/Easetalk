@@ -1,0 +1,158 @@
+{
+  "id": "sc3ii0",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. What's been going on lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey. I've just been feeling a bit down about my progress in the lab. I can't seem to get the hang of some of the techniques, and it's really messing with my confidence.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of inadequacy and provided context about their struggles in the lab. However, deeper exploration of feelings, potential goals, and further rapport-building seem necessary before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really tough, especially when you're putting in so much effort. You feel down because it's challenging to grasp these techniques, and it's affecting your confidence. Can you share more about your experiences in the lab?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "It's just frustrating because I see others picking up these skills, and I feel stuck. I guess I just expected I'd be able to learn them too, but it hasn't worked out that way, and now I'm feeling like I'm falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited with context and expressed feelings about struggling with lab skills. Empathy was demonstrated, and the client's challenges and emotions were understood. However, mutually agreed goals haven't clearly appeared, and more exploration may be needed to fully understand the client's perspective and build rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you’re feeling frustrated because others seem to be progressing while you feel stuck, which makes you worry about falling behind. Can you tell me about a time when you felt more confident in your abilities, either in the lab or elsewhere?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): Well, I remember when I first started in the lab, I was really good at analyzing data and picking up on patterns. I felt like I was contributing something valuable back then, and it was a nice confidence boost.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including their thoughts, feelings, and the context of their challenges in the lab, as well as past experiences of confidence. Empathy and rapport seem established with reflections on the client's experiences. The client's goals and concerns are clear.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It must have felt empowering to contribute meaningfully by analyzing data and spotting patterns. Reflecting on that experience, what do you think might help you regain some of that confidence now as you face these new challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think I need to focus on the skills I am good at and try to build on those strengths. Maybe if I can find ways to integrate them more into my current projects, I'll feel like I'm contributing again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by suggesting a strategy to rebuild confidence through leveraging existing strengths. They've identified a specific goal of integrating skills they're good at into current projects. The discrepancy between their current and desired confidence levels has been explored. These signals suggest readiness to transition to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Focusing on your strengths sounds like a great strategy to rebuild your confidence. Considering your current projects, what specific steps might you take to integrate your data analysis skills more effectively? Some potential options could include collaborating with a colleague to complement your skills or setting small, achievable goals that play to your strengths. How do these options feel to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Those options sound pretty good. Collaborating with someone who complements my skills could be really helpful, and setting smaller goals might make things feel less overwhelming. I guess I just need to take it one step at a time and see where it leads.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific action plan focusing on their strengths and expressed openness to collaboration and setting smaller, achievable goals. Barriers have been discussed, with an understanding of the lab environment. The client shows readiness for change by acknowledging steps to improve confidence and integrate skills. Confidence is still a concern, suggesting more support may be needed.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Taking it one step at a time and focusing on collaboration and smaller goals sounds like a thoughtful approach. What would be a specific action you could take this week to start integrating your strengths into your projects? Perhaps reaching out to a colleague for potential collaboration or identifying a small goal to focus on. How does that sound for a starting point?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think I could start by reaching out to a colleague I trust and see if they're open to working together on something. Also, I'll try setting a small goal, maybe related to data analysis, that I can achieve by the end of the week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific actions to tackle their concerns, including reaching out to a colleague for collaboration and setting small goals related to their strengths. Barriers and self-monitoring have been discussed. The client appears committed to the plan, indicating readiness to transition to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Reaching out to a trusted colleague for collaboration and setting a small, achievable goal in data analysis both sound like empowering steps. It’s wonderful to see you focusing on your strengths and planning concrete actions to boost your confidence. As you take these steps, remember to be kind to yourself and celebrate your progress, no matter how small it seems. Should you encounter any challenges, you can always revisit and adjust your approach. We’re here to support you along the way. Looking forward to hearing how your steps evolve.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the support. I'll definitely try to keep that in mind and take it easy on myself. I'll let you know how it goes next time. ",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a specific plan focusing on collaboration and small goals to regain confidence, aligning with termination goals. Natural closure is reached with assurance and future follow-up potential mentioned.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone else struggle with lab techniques?\nHey, Neuroscience Ph.D. candidate here. I work in a systems neuroscience lab. Therefore, one of the things you probably guess that we do are surgeries, except I could never learn how to do them. In short, the post-doc who taught me was not a very good teacher and the lab environment has not been the best for learning. I was taking so long to learn them that my PI basically said that the staff research scientist would do all my surgeries while I focused on building other skills. This has been probably one of the single biggest blows to my confidence as a researcher. A skill that I was sure I could learn. Everyone else in my cohort was able to learn them but me, and I cannot get over this. I hate being the only one who seems to not be able to do a very core thing in systems neuroscience. \n\nAny advice is welcome. I am trying my best to look past this, but it's hard. I am not particularly good at anything else. So, I am not bringing some other core skill to the lab that makes up for this deficiency.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

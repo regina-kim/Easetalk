@@ -1,0 +1,158 @@
+{
+  "id": "ywsr9y",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you're here to share something important. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been really stressed out lately because I'm thinking about withdrawing from a class. I'm just not sure how to explain it to my parents without them freaking out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, context, and emotions. However, the conversation requires more exploration to fully understand their feelings and thoughts, build rapport, and establish goals before moving to guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It must be tough feeling stressed about this decision and worrying about your parents' reaction. Could you tell me more about what led you to consider withdrawing from the class?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, it's just been really overwhelming. The workload is a lot more than I expected, and it's been affecting my sleep and eating. I just feel like I can't handle it right now, and I need a break for my mental health.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their stress about potentially withdrawing from a class and their concern regarding their parents' reaction. They have expressed feelings and context, but there's room for deeper exploration of their emotions and the situation. The goals of Exploring are not fully met, as more rapport and understanding of the client's thoughts are needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing a lot of pressure from the workload, which is impacting your well-being. It's understandable that you're considering a break to take care of your mental health. How have you been coping with this stress so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I haven’t been coping well. I've kind of just been pushing through and hoping it would get better, but it hasn’t. That’s why I’m thinking withdrawing might be the best choice right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has successfully elicited the essence of the client's story, thoughts, and feelings. There is a clear understanding of the client's stress due to the workload, its impact on mental health, and anxiety regarding communicating with parents. The therapist has built rapport and empathy, and mutual goals about addressing the stress and communicating with parents are evident.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It seems like you've been trying to push through a challenging situation, and it's brave of you to consider what's best for your mental health. What do you think life might look like if you take a break from this class compared to continuing with it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think if I take a break, I'd have more time to focus on my other classes and just breathe a bit. Continuing right now feels like I'm just setting myself up for burnout.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by contemplating withdrawing from a class for mental health reasons and recognizes the positive impact of taking a break. However, specific change goals or next steps haven't been established yet, and we haven't gauged their confidence level. More exploration around confidence and detailed planning is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Taking a break could give you that much-needed space to focus on other priorities and find balance. On a scale from 0 to 10, how confident do you feel about making the decision to withdraw?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 7? I feel like it's the right choice, but I'm still worried about explaining it to my parents and how they'll react.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk with a confidence level of 7 and identified a specific goal of withdrawing from the class for mental health reasons. While there is a concern about communicating with parents, the client has a clear intention for change, indicating readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're leaning towards withdrawing, which might help you regain balance. Considering your concerns, let's explore how you might approach the conversation with your parents. Based on what you’ve shared, possible options could include preparing a list of points explaining your decision or practicing the conversation with a friend. How do these ideas resonate with you, or is there another approach you’re considering?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): I think making a list of points could really help keep me focused during the conversation. Practicing with a friend sounds good too—I just need to make sure I'm clear about why this is important for my mental health.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of withdrawing from a class and has agreed to prepare a list and practice with a friend, addressing potential barriers. They express confidence in their plan and understanding of the importance of mental health, indicating readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Creating a list of points is a great strategy to stay focused and organized during your conversation, and practicing with a friend can definitely help build your confidence. It’s clear that prioritizing your mental health is important to you, and you’re taking thoughtful steps to communicate that effectively. Remember, you don't have to face this alone, and seeking support from friends or other trusted people can make a difference.\n\nAs we wrap up today, let's summarize your goals and action steps. You're aiming to take a break from the class to improve your well-being, and you plan to prepare and rehearse your conversation with your parents. This approach can help you express your needs clearly. \n\nIt's encouraging to see you taking proactive steps towards taking care of yourself. For the next step, maybe start by jotting down your main points for the conversation and reach out to a friend to practice. We'll continue to support you through this process. You've got this, and your courage in seeking balance is inspiring.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll start jotting down my thoughts and find a friend who can help me practice. Appreciate your help!",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a summary of goals, coping strategies, and a next-step plan. The client feels supported and has actionable steps to prepare for the conversation with their parents.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I explain to my parents I am withdrawing from a class\nLook I’m a freshman in college and I’m going to have to withdraw from a class. How do I explain to my parents that I’m so stressed I can’t take it and my anxiety is through the roof and I need to withdraw a class to take it another semester. I mean I’ve been so stressed and anxious so high it’s affecting my sleep, my eating. I’ve never taken mental health checks seriously and don’t know where to go to just talk to someone. Have any of you guys had to do this and how did you parents take it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "scujz1",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to discuss today? I'm here to listen and explore whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey. So, I just got this amazing postdoc offer that I've wanted forever, but instead of feeling relieved, I'm freaking out a bit. I thought I'd feel like a weight was lifted, but it's almost like the anxiety just shifted to something new.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and initial feelings, and the therapist has begun to create a space for exploration. However, the detailed context behind the client's emotions and thoughts hasn't been fully explored yet, and rapport is still being established.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like receiving the postdoc offer brought up some unexpected feelings for you. What do you think is contributing to this anxiety you're experiencing now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I guess it's partly the fear of the unknown and wondering if I'm really ready for this new challenge. It's like I spent so long focusing on getting here that I didn't think much about what comes next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core issue, feelings, and some context about their anxiety related to achieving their dream postdoc position. There is openness about their fear of the unknown and readiness. Empathy and rapport are being built; however, client goals and deeper context haven't been fully explored yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Facing the unknown and wondering about your readiness can definitely stir up anxiety. It seems that the transition from focusing on achieving this goal to considering the next steps is bringing up a lot of emotions for you. How have you handled similar transitions or challenges in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): In the past, I've usually just pushed through and tried to focus on the tasks at hand, but this feels a bit different, probably because it's such a big step. I think maybe I'm worried I won't live up to expectations or that I've somehow tricked them into thinking I'm more capable than I am.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's story, including the emotions and thoughts behind receiving the postdoc offer. The client has shared their fear of the unknown, feelings of inadequacy, and past coping strategies, achieving empathy and rapport. With a clear understanding of the client's concerns and mutual engagement, it is appropriate to build on this foundation and begin strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It makes sense that such a significant transition would feel different and bring up those concerns about expectations and self-doubt. Reflecting on how you've managed these feelings in the past, what might help you feel more confident in stepping into this new role?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I'm not really sure yet. I think trying to break it down into smaller, manageable steps might help. Also, finding a support system at the new place could be really important for me to feel more grounded.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started discussing potential strategies for the new role, mentioning smaller steps and support systems. There is Change Talk and a consideration of future actions, but specific plans and confidence levels have not been explicitly detailed, suggesting a need for further exploration to solidify change goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Breaking it down into smaller steps and seeking support sounds like a thoughtful approach. How do these ideas align with your long-term goals or values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): They definitely fit with my long-term goals because I really want to succeed in this postdoc and make meaningful contributions to my field. Having a support system and taking it step-by-step feels like it could make the whole experience more sustainable and less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun identifying strategies, such as breaking tasks into steps and seeking support, which align with their long-term goals. Change Talk is present, and ambivalence appears to be decreasing. The client is contemplating specific actions related to their concerns, indicating they are ready to move towards planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Creating a sustainable and less overwhelming transition by focusing on smaller steps and building a support system aligns beautifully with your goals. As we work on developing a plan, what specific steps could you consider taking in the first few weeks to feel more grounded, and what might be some ways to connect with potential support at your new place?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): I think one of the first steps could be to set up meetings with my new colleagues and mentors to learn more about the environment and expectations. Also, joining any social or professional groups at the institution might help me connect with people. Those seem like good ways to start settling in and finding my footing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving setting up meetings and joining groups for support. Barriers like self-doubt and expectations have been addressed. The client has shown commitment by outlining specific first steps, and they express confidence in their approach aligning with long-term goals. This indicates readiness to implement the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Setting up meetings with colleagues and mentors, along with joining social or professional groups, sound like excellent steps to help you acclimate and build a supportive network. As you move forward, remember that taking these steps one at a time can make the transition feel more manageable. You're already showing a lot of insight and initiative, which are great strengths to carry with you. As you prepare for this next chapter, consider how you might keep track of your progress and celebrate small wins along the way. You’ve got this, and I'm here to support you as you take each step.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely try to keep track of my progress and celebrate the little victories. It’s good to know you're here to help too.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully summarized goals and coping strategies, discussed next steps, and provided encouragement, meeting termination criteria. The client expresses understanding and appreciation, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I just got the postdoc of my dreams so why am I panicking?\nPretty much the title. After several months of working on applications and convincing myself that I was not going to get any offers and this was the end of my academic career, last week I got my dream offer at my dream institution, the place I've wanted to go for years. So why am I terrified instead of excited? I thought this would mean I could finally breathe, but if anything my anxiety is worse. Does anyone else relate to this and if so, how did you address it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

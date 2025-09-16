@@ -1,0 +1,242 @@
+{
+  "id": "111sras",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I'm feeling a bit overwhelmed honestly. Just trying to figure out how to juggle everything I've got going on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their feelings of being overwhelmed and detailed their responsibilities and schedule, providing a clear context. However, the therapist has not yet fully explored the client's emotions or thoughts related to the situation. More exploration of the client's feelings and priorities is needed for a comprehensive understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Juggling so much can indeed feel overwhelming. Can you share a bit more about what you're currently dealing with?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I'm just trying to balance school, work, and home responsibilities, but it feels like there's never enough time for everything. I'm trying to figure out what I can adjust or let go of so I can manage better.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared details about their challenges with balancing various responsibilities, and the therapist has shown empathy and understanding. However, the conversation has not yet fully explored the client's thoughts and feelings about these responsibilities to establish mutually agreed goals. Further exploration is needed to understand the client's priorities and potential barriers.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're facing quite a challenge with balancing your commitments. You feel overwhelmed because there’s a lot on your plate, and finding the right balance is tough. What are some things you are considering adjusting or letting go of to help manage your time better?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I've been thinking about maybe cutting down the time I spend with my boyfriend or finding ways to share some household responsibilities. It's tough though because everything feels important, but I know something has to give.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concerns and detailed context regarding their feelings of being overwhelmed, including specific commitments and potential adjustments. Empathy and rapport have been established, and the client's goals are becoming clearer. It appears the exploration phase has effectively captured the essence of their challenges.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's understandable that deciding what to adjust is challenging when everything feels important. You're recognizing that change might be necessary to find better balance. On a scale of 0 to 10, how confident do you feel in your ability to make these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Honestly, probably around a 5. I know I need to make changes, but it's hard to see how without feeling guilty or letting someone down.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows recognition of the need for change and has explored potential adjustments. However, their confidence is low, and no specific change goal or plan has been established yet. Ambivalence is still present, suggesting the need for further exploration and strengthening of motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing your commitments is important to you, and it seems like you're concerned about maintaining those relationships and responsibilities. Feeling a 5 shows you're aware and willing, which is a solid starting point. What might help boost your confidence from a 5 to a higher level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Maybe having a plan or schedule that I can stick to would make me feel more confident. It would also help if I could talk to those around me about sharing responsibilities, so I don't feel like I'm handling everything alone.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed awareness of the need for change and identified potential steps for improvement, such as creating a plan and discussing shared responsibilities. Confidence is at a 5, indicating ambivalence. More exploration of goals, values, and confidence is needed to solidify motivation and decrease guilt about change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Having a plan and open conversations about sharing responsibilities could indeed make a big difference. It shows you're considering practical steps to ease the load. How do you feel about discussing these ideas with those around you, and exploring how they align with your priorities and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I feel a bit anxious about bringing it up, but I know it's necessary. I think once I start the conversation, it'll make things clearer and hopefully get us all on the same page.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has recognized the need for change and identified specific areas such as creating a plan and discussing shared responsibilities. Confidence is currently at 5, indicating some readiness but not fully prepared. The client shows willingness to begin conversations for change, demonstrating movement towards readiness, but confidence needs boosting to solidify commitment.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Starting conversations like these can feel daunting, yet you're willing to take that step, which is really commendable. Opening up could be a key to clarity and mutual understanding. What values or goals are most important to you that you hope to express in these discussions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): I really value my education and mental well-being, and I want to make sure I'm not neglecting those. At the same time, I don't want to let my family or boyfriend feel like I'm pushing them away. It's important to me that they know I care, but I need to find some balance to keep myself from burning out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a recognition of their need for change and has identified potential steps, indicating readiness to move to Choosing. Confidence is at 5, which suggests some ambivalence but willingness to act. Practical ideas for change have been discussed, demonstrating progress in the Guiding phase and readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Acknowledging your education and mental well-being as priorities while maintaining relationships shows your thoughtful approach. Considering your desire for balance, let's explore some concrete steps. Based on what you’ve shared, possible options could include creating a flexible schedule or setting aside specific times for study and self-care. Would you like to brainstorm ways to start those conversations about sharing responsibilities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think brainstorming would really help. I could use some tips on how to approach these conversations without making anyone feel like I'm offloading or not valuing their time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified goals and expressed the need for a concrete plan, such as creating a schedule and having conversations about shared responsibilities. They’ve acknowledged the barriers of guilt and communication anxiety but are willing to take action. However, they seem to need more specific strategies for these conversations. Further guidance in developing these steps would be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Approaching these conversations with care is a thoughtful way to ensure everyone feels valued. One option could be to express your appreciation for their support and then share how balancing your commitments is important for your well-being. You might also consider inviting them to share their thoughts on how responsibilities could be shared. How does that approach resonate with you, and what other strategies do you think could work for initiating these conversations?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good way to start, letting them know I value their support and then opening up the floor for ideas. I think asking for their input makes it feel like more of a team effort, which I hope can ease any tension. I might also try to set a positive tone by highlighting what we all gain from balancing things better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is considering a flexible schedule and opening conversations to share responsibilities. They express a desire to balance commitments and maintain relationships, indicating an emerging concrete action plan. However, they are still brainstorming strategies and building confidence to implement changes, suggesting they may benefit from more solidification of plans before advancing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "therapist(choosing): I love that you're considering setting a positive tone by focusing on mutual benefits, and your team-oriented approach is a great strategy for easing tension. Another option might be to prepare some examples of tasks you could share or adjust together to better manage time. How would you feel about drafting a flexible plan or list of shared responsibilities that reflects everyone’s input, and what steps do you see as feasible for you to start with?",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(choosing): Drafting a flexible plan sounds like a practical step, and having a list of shared responsibilities might help everyone see where things can be adjusted. I think starting with a casual discussion to introduce the idea and then working on a plan together could be a good way to ease into it. I'll probably need to remind myself to be patient during this process and stay open to their feedback.",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan, and barriers have been discussed with strategies to address them, including self-monitoring through a flexible plan. The client is engaging in commitment and taking-steps talk, accepting and refining action reflections. This indicates readiness to advance to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Being patient and open to feedback shows a genuine commitment to finding a collaborative solution, which is wonderful. Starting with a casual discussion is an excellent way to ease into these changes, and it allows everyone to contribute openly to the plan. As you move forward, remember that taking these initial steps is progress in itself. Keeping communication ongoing and flexible can help maintain that positive, team-oriented tone you're aiming for. As a next step, perhaps consider setting a time to start that introductory conversation. You're definitely on the right track, and your thoughtfulness will surely guide you through this process effectively.",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate all the help and support. I'll try to set up a time to have that chat soon. Here's hoping it all goes smoothly!",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and steps, discussed coping strategies, and planned next steps. The client feels supported and ready to initiate plans. Both parties expressed closure, indicating it is natural to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Time management\nHello all! \n\nMy situation: \n-go to class Tues, Wed, Thursday all day. \n-days not at school working (20-25hr a week) \n-feed and maintain for 6 animals at home\n-am the main “cleaner” at my house\n-pick up and drop off my sister to school every week day\n-have a bf that I spend about 4-8 hrs a day with\n-need to meditate and journal daily to maintain sanity \n-need to study \n\nMy question:\nHow am I able to maintain something like this? Wat needs to be cut out?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

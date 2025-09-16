@@ -1,0 +1,158 @@
+{
+  "id": "wmrrqf",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? Feel free to share whatever is on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been feeling kinda anxious about my class schedule. I'm thinking about taking on 18 units this semester and it's kind of stressing me out a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's main concern and emotional state are clear, and some context has been provided about their academic situation. However, more exploration is needed to understand their thoughts on managing stress and the pressure of transferring, as well as their past experiences with similar challenges.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Taking on a heavy course load like 18 units can definitely be overwhelming. What are some of the thoughts or feelings that come up when you think about managing this schedule?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Honestly, I get worried about whether I can handle it all without burning out. It's like, I know I need to take these classes to stay on track, but I'm scared of the workload and the stress it might bring.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about managing a heavy course load and fear of burnout. The therapist has acknowledged these feelings and explored the client's thoughts. However, more exploration of the client's values, priorities, and potential impact on well-being is needed to achieve a mutual understanding and agreement on goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling worried about potentially burning out is understandable, especially when you're trying to stay on track with your classes. It seems like there's a mix of needing to progress and concern about handling the demands. What have you experienced in the past when managing a busy schedule?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I've had tough semesters before, and it's felt pretty overwhelming at times. Usually, I just push through, but it definitely takes a toll on my mental health and energy.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concerns about managing a heavy course load and the related stress, including past experiences and emotional impacts. The essence of the client's story is understood, and empathy has been demonstrated. The client’s goal of deciding whether to take 18 units is clear, suggesting readiness to shift focus towards motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Pushing through tough semesters has taken a toll on you before, which seems to have left you feeling apprehensive about this one. What would it mean for you if you could manage this semester without feeling so overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "If I could manage it without feeling overwhelmed, I'd feel more confident and maybe even enjoy my classes more. It'd be nice to not constantly stress about keeping up and have a bit more balance in my life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a clear goal of managing their semester without feeling overwhelmed, linking it to increased confidence and enjoyment. Change Talk is present as they discuss wanting more balance. The therapist has helped explore the discrepancy between current experiences and desired outcomes. Moving to the Choosing phase can help create actionable strategies to achieve the client's goal.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Considering your wish for balance and enjoyment in your classes, what steps do you think you could take to manage stress and maintain your mental health this semester? Some possibilities could include prioritizing self-care or seeking campus resources for support. How do those options resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think prioritizing self-care would definitely help, but it's something I struggle with when I'm super busy. Seeking support from campus resources sounds useful too, but I always wonder if I actually have the time to fit it all in.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal of managing the semester better without feeling overwhelmed and has considered steps like self-care and campus resources, but hesitates about time management. They need to refine their action plan to confidently proceed.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding time for self-care and campus resources can be challenging when you're busy. What do you think about setting small, realistic self-care goals, like taking short breaks or scheduling 'me time'? Exploring campus resources, like counseling or study groups, might also help lighten the load. Which of these ideas do you think could fit into your schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): Setting small self-care goals sounds doable, like maybe taking short breaks to clear my mind. I should probably look into campus resources more seriously too, even if it's just to see what's out there and if it can help with my workload.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear goals for managing stress by setting small self-care objectives and exploring campus resources. They have shown commitment to these ideas and acknowledged the importance of self-care despite a busy schedule. Barriers like time constraints have been discussed, and the client is exploring solutions. The client is demonstrating taking-steps talk and readiness to address their concerns.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Taking short breaks to clear your mind and exploring campus resources sounds like a thoughtful start towards managing your semester without overwhelming yourself. It's great to hear you're considering these steps. You've shown a lot of insight into what might work for you, and that’s a significant step.\n\nTo wrap up our session, let's highlight your main goals: maintaining balance, feeling more confident, and enjoying your classes. Your action steps include setting manageable self-care goals and checking out campus resources. As you implement these, remember you're not alone—there’s support available to you.\n\nI trust that you can navigate this, and I'm here to support you along the way. Before our next session, see how these approaches feel for you. If you notice any challenges or successes, we can explore those together. Take care, and be kind to yourself as you embark on this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and will definitely give those steps a try. Hopefully, it'll help me find some balance this semester, and I'll keep you updated on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals and coping strategies, discussed action plans, and invited reflection on implementation. The client acknowledged the support and intends to try the suggested steps, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is 18 units doable or worth it?\nI have 15 units for this upcoming fall semester and I want to add one more class to make it 18. I initially had 18 units, but I dropped one class because I felt it was too much; however, I kind of have to cram some classes in so I was wondering--is 18 units doable or worth it? will it be too stressful, or does it depend on individual experience based on class difficulty, the professor, etc? if anyone here has taken 18 units in one semester, what was it like for you?\n\nalso I am trying to transfer from a community college to a university, so I still have some required classes to complete that's why",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

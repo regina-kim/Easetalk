@@ -1,0 +1,263 @@
+{
+  "id": "vlhnel",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm alright, just a bit stressed. I've been thinking a lot about my major and whether I should keep trying to switch to pre-pharmacy. It's been a bit frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern and provided relevant context about their academic challenges and feelings. However, further exploration is needed to fully understand their emotions and motivations related to these challenges before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It must be tough feeling stressed and unsure about your major. What's been making you feel frustrated about the switch to pre-pharmacy?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I just feel like I've been hitting a brick wall, you know? Like, I've already invested time in college and now it feels like I'm being held back just because I didn't start out in the right program.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's main concern about switching majors and the associated frustrations. The essence of the client's story, including their feelings and the context behind their thoughts, has been explored. Empathy and rapport seem established, and the client has expressed specific challenges they face.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling stuck and like your efforts aren't moving you forward. What would it mean for you if you were able to move into the pre-pharmacy program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): I think it would feel like a win, like I'm finally on the path I'm excited about. It'd mean I could start gearing up for a career that really interests me, rather than sticking with something I'm not passionate about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change by wanting to switch to a pre-pharmacy program, identifying a specific goal. There's a discrepancy between their current major and their passion for pharmacy. They recognize the importance of this change for their future. More exploration of confidence and barriers is needed before proceeding to concrete action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Achieving that sense of being on the right path seems really important to you. What are some things that excite you about a career in pharmacy, and how do they align with your long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I've always been interested in science and healthcare, and pharmacy seems like a perfect blend of both. Plus, I see it as a stable career with a direct impact on helping others, which aligns with my goal of doing something meaningful and secure with my life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to switch to pre-pharmacy, aligned with their values of having a meaningful and secure career. Their excitement about pharmacy demonstrates change talk. However, no specific change goal has been identified yet, and the client's confidence level is not assessed. Continuing in the Guiding phase can further explore and strengthen these aspects.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Combining your love for science and healthcare with the desire to help others sounds like a meaningful path. How do you think making this switch might change your day-to-day life and feelings about your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think it would make my college experience feel more purposeful, like I'm working towards something I genuinely care about. It might also reduce some of this stress and uncertainty I'm feeling about the future, knowing I'm on a path that aligns with my goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client clearly expresses Change Talk by connecting a switch to pre-pharmacy with their values and long-term goals. They express excitement about the career and how it aligns with their interests and desire to help others. However, a specific change goal or next step hasn't been clearly established yet. Continuing in the Guiding phase will help solidify the next steps and tackle any remaining ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Switching could bring a lot of purpose and clarity to your journey. On a scale from 0 to 10, how confident do you feel about making this change to pursue pre-pharmacy, and what might help increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm at about a 5 right now. I know it's what I want, but the obstacles are daunting. Maybe talking to someone who's been through it or finding a mentor could boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between current and desired paths and identified pharmacy as a meaningful career aligned with personal values. Change Talk is present, but confidence is only at 5, indicating the need for further confidence-building and resolving ambivalence before moving to specific action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Connecting with someone who's navigated a similar path seems like it could be really beneficial. What qualities would you look for in a mentor, and how might their guidance influence your journey toward pre-pharmacy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I'd look for someone who's been through the switch themselves or who has a strong background in pharmacy. Their firsthand experience and advice could give me insight on what to expect and how to handle the hurdles. It would be reassuring to hear that it's possible and worth the effort from someone who's been there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to switch to pre-pharmacy and identified the alignment with their values and goals. Change Talk is present, but their confidence in making the change is rated at 5, indicating they might need more support and exploration of barriers. Ambivalence remains, suggesting more guiding is needed to strengthen motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having a mentor with firsthand experience sounds like a great resource for reassurance and guidance. What steps do you think you might take to find someone like that, and how could their support impact your feelings about these obstacles?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(exploring): I guess I could start by reaching out to professors or advisors in the chemistry or pharmacy departments to see if they know anyone willing to mentor. Maybe joining some related student organizations could help, too. Having their support could make the obstacles feel a bit more manageable, knowing I'm not alone in this.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk, identifying a goal to pursue pre-pharmacy and recognizing its alignment with personal values. Confidence is at 5, indicating room for growth. They have begun considering actionable steps, such as seeking mentorship. However, confidence is not yet at 6 and ambivalence remains due to perceived obstacles. Further guiding to build confidence and reduce ambivalence is needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out and getting involved in student organizations sounds like a proactive approach. How might taking those initial steps influence your confidence level about making the switch to pre-pharmacy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think taking those steps could definitely boost my confidence, maybe pushing it to a 6 or 7. Just knowing that I'm actively working towards my goal and have someone to turn to for advice would make the whole process feel a little less intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed desire for change and identified specific goals like finding a mentor and joining student organizations to address their obstacles. Change Talk is present, and confidence is increasing. However, their confidence is still moderate at a 5, suggesting continued exploration to fully address ambivalence and potential barriers.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's encouraging to hear that taking action could elevate your confidence. What other small steps could you envision taking now that might further support this shift and enhance your sense of readiness for the journey ahead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start looking into the pharmacy school application requirements and see if I can start meeting those on my own. Also, I could spend some time researching the field more just to get familiar with what pharmacy really entails day-to-day. Having a clearer picture might help me feel more prepared and ready to commit fully.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed an increase in confidence from 5 to potentially 6 or 7, demonstrating strengthened motivation through proactive steps. They have identified specific actions, such as seeking a mentor and researching the field, to support their goal. Change Talk is present, and the discrepancy between current behavior and future goals has been explored. Despite some remaining obstacles, the conversation has effectively guided the client toward readiness for planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Exploring the specifics of pharmacy school requirements and gaining more knowledge about the field are excellent steps. To support your autonomy, possible actions include researching application steps, setting aside time each week to learn about pharmacy, or both. What feels right for you as a next step, and how do you envision tracking your progress towards these goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll start by setting a goal to research pharmacy school application requirements this week. I can dedicate a couple of hours each week to learn more about the field. Maybe I'll keep a journal or a checklist to track what I've learned and what steps I've taken, so I can see my progress and adjust my plans as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear next step to research pharmacy school application requirements and plans to dedicate time weekly to learning about the field. Additionally, they have agreed to self-monitor by tracking progress in a journal or checklist. The client exhibits confidence in taking steps, which supports advancing the counseling process.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you've mapped out a solid plan to start researching pharmacy school requirements and dedicate time each week to learning about the field. Keeping a journal or checklist is a fantastic way to track your progress and keep yourself motivated. By seeing how far you've come, you can continue building momentum. Take it one step at a time, and remember that each small action brings you closer to your goal. I'm confident in your ability to navigate this journey. Let's check in next time on how things are unfolding and explore any adjustments needed. Until then, keep believing in yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Thanks! I appreciate the encouragement. I'll start tackling those steps this week and see how it goes. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes with a clear plan outlined, strategies for overcoming obstacles, and a commitment to next steps. The client expressed readiness to start the steps immediately, and the therapist offered encouragement, indicating closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Major Advice\nI thought this was a good place to ask for advice on this topic, so here we go. I'm headed into my second year of college at a state school in PA. I am currently in their english department and planned on going into education. I have since changed my mind and I am thinking of going into Pharmacy. However, the school won't let me do the pre-pharmacy program because it was \"Designed for freshman\". The Pre-Pharmacy program is accelerated and takes a few years off your degree. I told them I was only really interested in pre-pharmacy and they said the best they could do was switch me to chemistry and then I could apply to pharmacy school and hope to get in. Should I keep trying? Am I wrong to think I should be allowed into the program since I've been a student for two years?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

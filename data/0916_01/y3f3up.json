@@ -1,0 +1,179 @@
+{
+  "id": "y3f3up",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What's on your mind today? Is there anything you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been thinking a lot about what to do with my degree in biopsychology. I’m kind of stuck on whether I should go for a master's, and if so, in what exactly.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern about deciding on pursuing further education with their degree in biopsychology. However, more exploration is needed to understand their thoughts, feelings, and context around this decision to ensure a complete understanding and build rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Deciding on the next step can feel overwhelming. You're pondering your options because you want to make the best choice for your future. What factors are most important to you in making this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I really want a career that I find interesting but also stable and well-paying. It's tough figuring out which path might offer the best of both worlds.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern and priorities regarding their career path, expressing interest in biology, neuroscience, and psychology, as well as a desire for stability and financial security. The therapist has shown empathy and understanding. While some understanding has been reached, further exploration of goals and values could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing passion with practicality is a common challenge. It seems like you're looking for a career that not only excites you but also offers financial stability. What interests or options have you considered so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): I've thought about neuroscience or psychology, but I'm not sure if either will lead to the stability I'm hoping for. I'm also considering if going straight into the workforce with my bachelor's is a better idea.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their dilemma regarding further education versus entering the workforce, along with their concerns about stability and interest. The therapist has shown empathy and understanding of the client's concerns. The goals of exploring the client's thoughts and feelings have been met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Those are significant considerations. You're weighing different paths and their potential outcomes carefully. How would a career in neuroscience or psychology align with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think they'd align with my interest in understanding how the mind and body work, but I'm worried about the job market and salary potential. I want to make sure I'm making a smart choice for the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed their interest and concerns but hasn't shown a clear preference or confidence in a specific plan. The conversation focused more on exploring options and understanding consequences, which aligns with guiding. More exploration of confidence and commitment to specific options is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your thoughtful approach shows how much you care about your future. When you imagine yourself in a career that truly aligns with your interest in the mind and body, how confident are you, on a scale from 0 to 10, that you could find a fulfilling and stable position?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Probably around a 6 or 7. I believe there's potential, but the uncertainty about job availability and salaries is holding me back.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific interests and concerns about potential career paths and has a confidence level of 6-7 regarding finding a fulfilling and stable position. There is still ambivalence about job market and salary, indicating further exploration of options and goals is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Your confidence suggests that you're seeing some possibilities, even amidst uncertainty. What might help move that confidence closer to a 9 or 10, in terms of exploring job market trends or salary expectations in these fields?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think getting more information on average salaries, job demand, and maybe even talking to people already working in those fields could boost my confidence. It would help me see if these paths truly align with what I'm looking for.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific concerns and provided a confidence level indicating some motivation to explore further. They have suggested actionable steps, such as researching job market trends and networking, indicating readiness to develop an action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Gaining insights directly from professionals and researching job trends seem like valuable steps. Based on your thoughts, you could explore options such as attending informational interviews or browsing career websites for salary data. What would be a realistic next step for you to start gathering this information, and how can we plan to track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I guess I could start by looking up some career websites and maybe set up a few informational interviews. It'd be cool to hear firsthand experiences. I could make a list of questions I have for them and maybe aim to reach out to at least one or two people in the next couple of weeks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has defined a clear goal to explore careers and gather information via informational interviews and career websites. They have also expressed a realistic plan for reaching out to professionals and self-monitoring progress. The client shows readiness with planning steps and commitment to action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You've laid out a proactive plan that aligns well with your values and goals. By setting up informational interviews and researching career websites, you're taking constructive steps toward understanding your possibilities better. Your approach to creating a list of questions demonstrates your commitment to making an informed decision.\n\nAs you move forward, remember that gathering information is a powerful way to build confidence and clarify your path. I'm here to support you as you take these steps—perhaps we can check in on your progress in a couple of weeks to see how things are unfolding and discuss any new insights you gain. It's encouraging to see you take charge of your future like this, and I'm confident you'll uncover valuable information. Keep going, and trust in the process as you explore your options!",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll start reaching out and see what I find out. Talking again in a couple of weeks sounds good to me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has successfully covered the client's goals, developed a next-step plan, and the client is clear on how to proceed. The invitation to check in a few weeks offers closure while encouraging further engagement.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What do you do with a bachelors in biopsychology to get a good career?\nI’m assuming you get your masters? I am interested in biology neuroscience and psychology. Would I just get my masters in one of those areas? Or get my masters in biopsychology?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "t67sok",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty overwhelmed right now. I'm super stressed about a bad grade I got on a paper and it's really messing with my confidence. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their concern about the bad grade and the resulting stress, including relevant context and emotions. The therapist has begun to understand the client's situation and feelings. However, empathy and rapport are still developing, and mutually agreed goals have not been established yet. There is room for further exploration of feelings and thoughts.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It must be really challenging to deal with that stress and its impact on your confidence. Can you share a bit more about what happened and how you're feeling about it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): Yeah, so I had to miss a couple of weeks of class because of some family stuff, but I thought I was keeping up pretty well. I put a lot of effort into this paper, but I missed some key points from the rubric. Seeing that grade just threw me off, and now I’m worried I’ll keep messing up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their concern, including the context of missing class due to family issues, the impact of the grade on their confidence, and their fear of future failures. The therapist has shown empathy and understanding. Mutually agreed goals have not yet been explicitly discussed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel thrown off after putting in so much effort and not getting the result you hoped for. You care a lot about your work, especially with everything you’ve been balancing. Can you tell me more about what's been going on with your family and how that might be affecting things for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): Yeah, my family went through a rough patch, and it was hard to focus on school with everything happening. It was just a lot to juggle, and I guess it's been affecting my ability to concentrate and stay organized with my assignments.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and context about their stress, family issues, and academic concerns, establishing rapport and empathy. However, mutually agreed goals for moving forward have not yet appeared, and exploring the client's emotions and context further could continue to be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Balancing family challenges and school sounds really demanding, and it's no wonder it’s been difficult to concentrate. With all these responsibilities, how have you been managing to cope with everything going on?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's been tough. I've been trying to keep up by setting small goals for myself and making lists, but sometimes it feels like I'm just barely keeping my head above water. Talking to friends helps a bit, but the stress is still there.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concern about stress over a bad grade, including contextual factors like family challenges and their coping mechanisms. The therapist has demonstrated empathy and understanding, and the client has shared detailed thoughts and feelings. It appears that the goals of the Exploring phase have been met, indicating readiness to advance to Guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you've been doing your best to stay afloat by setting goals and reaching out to friends, which shows a lot of resilience. How do you think things might be different if you weren't feeling so overwhelmed by stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): If I wasn't so stressed, I think I'd be able to focus better and trust in my abilities more. I feel like I'd have more confidence tackling assignments and not second-guessing everything I write.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun expressing Change Talk, indicating a desire to reduce stress and regain confidence. However, specific change goals or next steps have not yet been articulated. Confidence rulers or values clarification have not been used, and there's no indication of reduced ambivalence or sustained talk. Therefore, it's prudent to remain in the Guiding phase to further explore and develop readiness for specific actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Recognizing how less stress could boost your focus and confidence is really insightful. What small steps do you think might help you start to move towards feeling more confident and less overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think maybe trying to break tasks down even more could help, like setting even smaller goals, so things don’t feel so big and scary. Maybe I could also set aside specific time to relax or do something I enjoy, to give my mind a break from all the stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying small steps to feel less overwhelmed and more confident. A specific change goal (breaking tasks into smaller goals, setting relaxation time) is noted. There's evidence of a discrepancy between their current stress and desired confidence. Ambivalence is decreasing as they explore solutions. The guiding phase is effective, but more exploration of specific action plans is needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Setting smaller, more manageable goals and allowing yourself some relaxation time sounds like a thoughtful approach. How confident are you, on a scale from 0 to 10, that you can start implementing these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm around a 6 or 7. I'm hopeful but still a bit unsure if I can stick to it without getting caught up in stress again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying small steps to manage stress and build confidence. They've set a specific goal of breaking down tasks and incorporating relaxation time. Their confidence level is at 6-7, suggesting moderate readiness. Ambivalence appears reduced. These indicators suggest readiness to move to planning specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your hopefulness and willingness to try new approaches is commendable. Considering your ideas, perhaps we could create a specific action plan to make it feel more achievable. Based on what you've mentioned, possible options include setting smaller, very specific goals for your tasks, and scheduling regular time for activities you enjoy to manage stress. What do you think about this plan, and how might you track your progress to ensure you're staying on course?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I like the idea of an action plan. It feels more concrete, and maybe it'll help keep me from spiraling into stress. I could use a planner or maybe an app to track which goals I hit and make sure I’m actually carving out time for myself. Seeing progress might help boost my confidence too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear, specific action plan involving setting smaller goals and scheduling relaxation. They've discussed using tools for self-monitoring and expressed commitment to these changes, indicating readiness to advance. Confidence is moderate but the plan addresses barriers, supporting progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Creating a concrete action plan with tools like a planner or an app to track your progress is a fantastic strategy. This approach can give you a clear picture of your achievements and the time you're dedicating to self-care, which could really enhance your confidence over time. By setting those smaller, achievable goals and ensuring you take time to relax, you're setting yourself up for success. Remember to celebrate each small victory, as they all add up. I’m here to support you along the way, and we’ll check in next time to see how things are progressing. Keep being kind to yourself, and know that you're doing your best. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I’ll give it a try and see how it goes. I'm hoping this will help keep me on track.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively concluded with a summary of coping strategies and a detailed action plan. The client expressed understanding and readiness to implement changes, and closure was invited naturally.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I stop stressing over a bad grade on a paper?\nI made a stupid mistake. I had to miss 2 weeks of my English class because of a really terrible family issue. I stayed kept up on my work, and wrote what I thought was a very terrific paper. Unbeknownst to me, I didn’t fully read the rubric and I didn’t include some necessary information. I received a 50 on the paper, with my professor saying I had a fantastic prose but I was just missing content. I have the opportunity to COMPLETELY redo the paper at the end of the semester, yet seeing that F in the gradebook just makes my stomach turn. I’m stressed for absolutely no reason but I can’t stop. I keep worrying I’ll mess up the redo, or I’ll mess up my next papers. It makes me so scared because I’m normally a fantastic english student. I no longer feel confident in my work. How can I put myself in perspective here?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

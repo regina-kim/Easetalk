@@ -1,0 +1,137 @@
+{
+  "id": "10a263z",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been thinking a lot about college and whether I should move far from home or stay closer. It's kind of overwhelming trying to figure out what's best for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their dilemma, including personal motivations and external advice. The therapist has developed an understanding of the client's context and concerns. Empathy and rapport appear to be established, allowing for a transition to strengthening motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's perfectly okay to feel overwhelmed while making such a big decision. What are some of the things that are most important to you when you think about your college experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(guiding): I think being somewhere I can grow and have new experiences is really important. But I also want to be close to people I care about, like my best friend and family. It's tough to balance those.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to explore the discrepancy between the client's desire to grow and experience new things and the comfort of being near loved ones. The client expressed desire and potential goals about moving to California, implying Change Talk. However, specific change goals or next steps haven't been clearly defined yet, and confidence levels aren't explicitly stated.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to want both growth and connection. How do you see your life looking if you choose to stay close to home versus moving farther away?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(considering): If I stay close to home, I think I'd feel more secure and supported, but maybe a bit stuck, like I'm missing out on new adventures. If I move away, I might feel more independent and get to experience new things, but I'm scared of feeling lonely or homesick.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their desires for growth and connection. They have considered life both near and far from home, expressed concerns, and articulated specific desires. However, no specific change goal or next step has been clearly identified yet, and there may still be ambivalence present.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Finding that balance between security and adventure can be challenging. What values or goals do you think might guide your choice as you weigh these options?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm really focused on personal growth and building a career in entertainment, so I guess those are big factors for me. But I also value my relationships and feeling connected to people I care about, so it's hard to decide which should take the lead.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk, outlining specific goals such as personal growth and a career in entertainment, with a focus on California. They have considered life with and without change and have explored their values. The client's ambivalence is evident but has been explored, and they appear ready to discuss specific strategies and action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Considering your goals in personal growth and a career in entertainment while valuing your relationships, what might be some steps to explore both options? Possible approaches include visiting potential colleges, researching entertainment opportunities nearby and afar, or talking to people in your desired field. How does that align with what you're envisioning?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "That sounds like a good approach. I think visiting colleges and seeing what's out there could really help me visualize my options better. Talking to people in the entertainment field might also give me a clearer picture of where I should be. I just need to start somewhere and see how it feels.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of exploring college options and a concrete action plan involving college visits and discussions with industry experts. Barriers such as homesickness and logistical challenges have been discussed. The client shows readiness through commitment to take steps and a growing confidence in their decision-making ability.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've got a solid plan shaping up. Starting with college visits and connecting with people in the entertainment industry sounds like a fantastic way to gain clarity. It seems like you're open to exploring these paths, which is a great step forward. As you gather more information, you'll likely find that the decision becomes clearer. \n\nYou're committed to growing personally and professionally while maintaining those important relationships, and that's commendable. Remember to take it one step at a time, and trust that you're capable of making the right choice for yourself. \n\nFeel free to reach out if you need support along the way. What's one small action you could take soon to begin this exploration? I'm here to help you through each part of this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think I could start by setting up some college visits to get a feel for different campuses. Maybe I'll also reach out to a few people in the industry to get some insights.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan involving college visits and industry networking. Goals and coping strategies have been summarized, and the conversation naturally concludes with an invitation for further support if needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: near or far?\nthis has probably been asked a bajillion times but im starting to look at colleges to go to and i'm not sure how far from home i want to go.\n\nfor a long time i wanted to go to California, because I was born there, my best friend lives there, and if i'm pursuing a career in entertainment being near LA would be nice and convenient.\n\nI told my parents and they advised against it. California is extremely expensive and i would have to find a way to move my lizard and snake across the country from where I live in Connecticut. They also said i probably would get homesick and miss them. they said if i dont think i will that will change once i actually leave.\n\nthe problem is i really really miss california, i miss my best friend a lot. i'm just worried about the potential consequences of moving so far",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

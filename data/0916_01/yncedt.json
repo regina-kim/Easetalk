@@ -1,0 +1,389 @@
+{
+  "id": "yncedt",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you in exploring your thoughts and feelings.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been really stressed about picking the right major. I'm torn between finishing quickly with a liberal arts degree or taking longer to study computer science. I'm just worried about job prospects and making the right choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts and feelings about their dilemma, providing detailed context on their educational and career concerns. They have expressed specific worries, interests, and uncertainties, indicating a need to explore their motivations further. The exploration has captured key aspects of the client's story, but hasn't fully established mutual goals or explored deeper motivations for change, suggesting more exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can definitely feel overwhelming with so much at stake. It sounds like you're really concerned about balancing your passion with future job security. What aspects of these fields draw you to them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, exactly. I like communications because it feels more creative and broad, plus I’m already familiar with it. Computer science seems more promising career-wise, and I’m always hearing about how many job openings there are. It’s just intimidating because I don’t know if I’ll actually enjoy the tougher parts of it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed his dilemma between different major choices, detailing his thoughts, feelings, and the context behind his concerns. He has shared information about his interest in each option, job prospects, and personal circumstances. Empathy and rapport seem to be developing, but goals or direction are not yet mutually agreed upon, suggesting further exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling a bit stuck between creativity and practicality can be quite challenging. You're drawn to communications for its creativity and familiarity, but the job prospects in computer science are appealing despite the uncertainty about enjoying its more difficult aspects. What experiences have you had with each field so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): Well, I've taken a bunch of communications classes for my associate's degree, and I really liked them. I haven't done much with computer science except for a little HTML and CSS, which were okay, but I know that's just the tip of the iceberg. So it's hard to say what the more advanced stuff would be like for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared extensive background about their dilemma, concerns about job prospects, and personal interests. Empathy and rapport appear established as the therapist has acknowledged the client's feelings and concerns. A clear understanding of the client's story and context is present, indicating readiness to move to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you've enjoyed your experiences with communications so far, which can be reassuring. Trying out some basic elements of computer science has given you a glimpse, though you're unsure about the more advanced topics. How does thinking about your future with either major affect you emotionally or in terms of confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, thinking about computer science makes me feel nervous but also kind of excited because of the job stability. With communications, I feel more confident because I've done well in those classes, but I'm worried about finding a job that pays well. It's like a mix of excitement and anxiety with both options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both excitement and anxiety regarding their career options, indicating mixed emotions. While Change Talk is present, specific change goals or next steps have not been clearly established. The client remains ambivalent about their options, as evidenced by their continued uncertainty about choosing between career paths. Given this, it is best to continue focusing on strengthening motivation and addressing ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to have mixed emotions about both paths, as each offers its own set of opportunities and challenges. Considering the excitement and anxiety you feel, what do you imagine your life might look like if you pursued each path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): If I went with computer science, I imagine having a stable job, maybe working in tech, and feeling financially secure, but I also worry I might stress a lot over the workload. With communications, I picture being in a more creative role, maybe something with media or marketing, but I’m concerned about the job market and my long-term career growth. Both have such different vibes and futures, it's hard to picture myself in one over the other. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is showing Change Talk by contemplating future outcomes and expressing mixed emotions about both options. They've identified specific areas of interest and concerns, but there's no clear preference or confidence level specified. Ambivalence persists, requiring further exploration to solidify a specific change goal. Advancing to the Choosing phase might be premature as the client needs more clarity on their confidence and readiness for either path.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Painting these vivid futures really brings out the core of your dilemma. One offers stability and security, while the other nurtures your creativity and familiarity. How do these potential paths align with your deeper values or long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(reflecting): I guess stability and financial security are pretty important to me, so that's why computer science is appealing. But I also value creativity and having a job that I enjoy doing every day, which is why communications feels right. I just want to be happy and not stressed all the time, but I also want to be able to support myself comfortably.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk through excitement about job stability in computer science and values clarity regarding creativity and financial security. However, a specific change goal or next step hasn't been clearly defined, and ambivalence is still present. Confidence levels are implied but not explicitly stated. The conversation has explored life with and without change but needs more specificity and reduced ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Finding a balance between financial security and personal enjoyment in your career is truly significant. Given your values, what changes might you want to explore in your current situation, and how confident do you feel about making these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): I'm considering taking an extra semester to try out some computer science courses to get a better feel for it. That way, I can see if it's something I truly enjoy before making a big commitment. But I'm still unsure because it means spending more time in school, and I'm not totally confident in my ability to handle the more technical aspects. It's like I'm weighing the cost of time against the potential gain in clarity and confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their values of financial security and creativity, explored both life paths emotionally, and considered specific changes such as exploring computer science further. However, they still express significant uncertainty and lack confidence in their ability to succeed in computer science. Guiding should continue to further clarify values, increase confidence, and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring computer science through extra courses seems like a thoughtful step towards clarity. It's understandable to feel uncertain about the additional time and technical challenges. On a scale from 0 to 10, how confident do you feel about managing this exploration phase, and what might help boost your confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): I’d say I’m about a 5. I think actually trying out a few classes would help, maybe talking to people who are in the field or getting some advice from them too. I guess if I had more support or resources, I might feel a bit more confident in managing this whole exploration phase.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their values of stability versus creativity and has explored life scenarios with each choice. They have a specific next step to explore computer science, though confidence is moderate at 5. Change Talk is present, but confidence is not yet strong enough to transition to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Having a confidence level of 5 is a solid midpoint, and reaching out for advice and support can certainly help boost that confidence. What specific steps could you envision taking to connect with people in the field or access resources that might be helpful in your decision-making process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think I could start by joining some online forums or local groups related to computer science to get some real-world insights. Maybe I could attend a tech meetup or a seminar if there's one nearby. Also, reaching out to alumni from my community college who went on to study computer science might give me some useful perspectives. Just talking to people who’ve been through it could help me see if it’s a path I want to commit to.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their values of stability and creativity. They've explored the impact of both potential paths, showing ambivalence between options. However, their confidence is around 5, and they have not yet solidified a specific change goal. Sustained exploration is needed to fully address ambivalence and explore resources for decision-making.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Those sound like proactive and insightful steps to gather more information and perspectives. Engaging with forums, meetups, or alumni can provide real-world insights and support you in making a well-informed decision. How do you feel about taking these steps to deepen your understanding and confidence in your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about taking those steps. It seems like a practical way to get some firsthand advice and see if computer science is really for me. It’s a little intimidating to put myself out there, but I think it could really make a difference in feeling more confident about my choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in change talk, identified a specific next step, and shown openness to exploring resources to increase confidence. However, their confidence is at a midpoint, and ambivalence persists. Continuing in the Guiding phase would allow for further clarification and confidence building before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking those steps to gather firsthand advice is a commendable approach and can truly enhance your confidence in making this decision. Even though it feels a little intimidating, you're showing great courage and initiative. What do you think might encourage you as you start reaching out and exploring these new opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think having a clear plan of how to approach people and what I want to ask would help me feel more prepared and less nervous. Also, reminding myself that this is about my future and that most people are willing to share their experiences could be encouraging. Maybe setting small goals, like reaching out to one person a week, would make it feel more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal to explore computer science through courses and interactions, and has developed initial steps to address barriers. However, their confidence level is below 6, suggesting ambivalence still exists. Further Guiding is needed to strengthen confidence before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating a clear plan and setting small, manageable goals like reaching out to one person a week is a wise approach to keep things from feeling overwhelming. It's true that people are often happy to share their experiences, and focusing on your future can provide motivation. How does this approach align with your values of creativity and support in your decision-making process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): This approach seems like a good fit because it allows me to be creative in finding solutions and support. It helps me gather diverse perspectives, which is important to me. Plus, it gives me a structured way to tackle this uncertainty without rushing, so I can make a thoughtful decision that aligns with my goals and values.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in exploring computer science, identified specific steps to boost confidence, and aligned actions with their values. However, their confidence level is at 5, indicating ambivalence. The client has a plan to seek more information, showing readiness but still needs to reduce uncertainty and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "therapist(guiding): Embracing creativity and support in your approach truly aligns with your values, allowing you to thoughtfully navigate this uncertainty. It's great that you're open to gathering diverse perspectives, which can guide you towards a decision that resonates with your goals. What aspects of this exploration are you most looking forward to experiencing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I’m really looking forward to hearing different stories and learning about people's journeys into computer science. It’s exciting to think about discovering a new interest or reaffirming my current path. I’m also curious about the practical advice I might get, which can help make this whole decision-making process feel more grounded and real.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific steps to explore computer science further and seems motivated to gather information. However, the confidence level is at 5, indicating some ambivalence remains. Change Talk is present, but a specific change goal or next step is not fully established, as the client is still exploring options.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "therapist(guiding): Discovering new interests or reaffirming your path through others' stories sounds truly enriching. Hearing about real journeys and gathering practical advice can indeed make your decision feel more grounded. How might these experiences shape your view of the challenges and opportunities in the field of computer science?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(reflecting): Hearing about real journeys and practical advice might give me a better sense of what to expect and help me anticipate the challenges I might face. It could also highlight opportunities I hadn't considered before, making the field feel more attainable and less daunting. Overall, I think it would provide a more realistic picture of what a career in computer science could look like for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to explore computer science, expressed confidence in these steps, and has reflected on how this aligns with their values. However, no specific change goal has been firmly established, and confidence is at 5, below the threshold of 6. Hence, further guiding may be beneficial to solidify these plans and bolster confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gaining a realistic picture by hearing about others' journeys and advice can certainly illuminate both the challenges and opportunities, making the field feel more attainable. It's wonderful that you're open to discovering these insights and finding your path in a way that feels grounded. As you continue exploring, what aspects are you hoping to learn more about that could help shape your career decisions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): I'm hoping to learn more about the day-to-day experiences of people working in computer science, like what kind of projects they work on and what skills are most valuable. I'm also curious about the different career paths within the field and what it takes to succeed in them. Understanding these aspects could really help me decide if it's the right fit for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed increased readiness and motivation to explore computer science by planning specific actions, such as reaching out to others weekly, aligning with their values of creativity and support. The client has articulated insights about challenges and opportunities in the field. The presence of Change Talk and a specific goal indicate the client is ready to start detailing action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It sounds like gaining insights into daily experiences, projects, and valuable skills, as well as understanding various career paths, are key areas of interest for you. Based on what you've shared, some possible actions could be attending informational interviews, joining computer science forums, or taking part in workshops to explore these aspects further. Which of these options, or perhaps another strategy, do you feel drawn to starting with?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I think starting with joining computer science forums could be a good first step for me. It feels less intimidating since I can do it online and still connect with people who are already in the field. From there, I might feel more comfortable branching out to informational interviews or workshops.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear first step of joining computer science forums, aligning with their exploration goals. Self-monitoring through gradual engagement is implied, and commitment to this action is evident. However, they have not yet developed a comprehensive action plan or discussed all barriers. Continuing would allow further refinement and addressing any potential obstacles.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Joining computer science forums is a great initial step, offering you a comfortable way to connect and learn from those already in the field. It's wonderful to hear that this feels like a manageable start. How might you plan to participate in these forums to make the most of this opportunity, and what steps could you take to gradually engage more deeply, like moving on to informational interviews or workshops?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "I'm thinking of starting by just reading through discussions and getting a feel for the community. I'll try to comment or ask questions on topics that really catch my interest. After getting more comfortable, I could start reaching out to individuals for more personal insights and then eventually look for online workshops or webinars to join.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown commitment and confidence in their plan by choosing to start with computer science forums as a less intimidating first step, with plans to gradually engage more deeply. They have discussed barriers and self-monitoring through initial observations and questions in forums, leading to more personal interactions and eventual workshops. They appear ready to implement their plan, signaling readiness to terminate the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It sounds like you've got a thoughtful plan to ease into the forums by first observing and then gradually participating. This approach aligns well with the way you value creativity and support in your decision-making. Commenting and asking questions on topics of interest can gradually build your confidence, and reaching out for personal insights seems like a great next step. Your willingness to explore online workshops and webinars shows your commitment to deepening your understanding. Remember, each step you take is moving you closer to clarity in your career decisions. I'm really encouraged by your proactive approach and confident you'll find valuable insights along the way. As you move forward, let's touch base in a few weeks to discuss your experiences and any new perspectives you've gained. You're on a promising path, and I'm here to support you every step of the way. Keep up the great momentum!",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and encouragement. I'll start exploring the forums and see where it takes me. Looking forward to catching up soon and sharing what I learn.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan for exploring computer science through forums and workshops, aligning with their career decision goals. A follow-up session is suggested to review progress, indicating readiness for session closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Take an extra semester/year and study computer science, or finish faster and study communications, or black studies + gender/sexualities studies\nHi! I am currently in cc and I will be getting my associates in communications this spring. Should I continue in cc for an extra semester and take some computer science prereqs (specifically for CSUMB or CSUDH), or should I just stick with my communications degree and go somewhere like csulb for communications? I also applied to csueb for black studies (online) and would double concentrate with gender + sexuality studies if I choose to go there. An online degree would be preferable to me since I work full time and don’t drive yet. I think the csulb communications program can be completed online (it says “approved for distance education” so idk what that means). I’d love to finish my degree as soon as possible. I just don’t know what I would do with one of these liberal arts degrees. CS would guarantee me a job. I’m interested in it enough to where I think I can handle the degree, but I don’t know anything more that html and css, so I have no idea how I feel about the more intense stuff. Does anyone have some uplifting success stories for a liberal arts major? Or should I just double down on CS? Literally the only thing I’m worried about with a liberal arts degree is job opportunities. Idk what I can even do with a communications degree!!!!\n\nPlease help I’m so stuck and have had a lot of doubt in my current major career wise. I just want some info or reassurance on getting a liberal arts degree, or even reasons I should take more time in school for CS.\n\nTLDR: can either take an extra semester to a year to study comp sci, or finish faster for a liberal arts degree (comm or “identity” studies). What should I choose? Interested enough in both routes. just feeling stuck. Career options?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

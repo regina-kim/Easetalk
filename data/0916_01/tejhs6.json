@@ -1,0 +1,179 @@
+{
+  "id": "tejhs6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? Is there anything specific you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm just feeling really overwhelmed with everything going on. I'm struggling to balance being a new mom and keeping up with my classes. It's like I'm being pulled in all directions and don't know which way to go.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated her situation and feelings around her current overwhelm and indecision about withdrawing from the semester. Her story includes the context of being a new mom, academic pressures, and emotions about potential withdrawal, indicating that the essence of her experience is understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging, juggling both being a new mom and your studies. What changes would make balancing these responsibilities a bit easier for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(guiding): I guess having a more structured routine could help, but it feels nearly impossible with the kids. Maybe some extra support or help with the kids would take some pressure off, but I’m not sure how to make that happen.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some specific ideas for change, like needing a structured routine and extra support with childcare. However, there is still significant ambivalence about withdrawing from the semester, as seen in her uncertainty about managing her responsibilities. Confidence and specific change goals need further exploration.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Creating a routine sounds like a helpful step, and having support can really make a difference. On a scale from 0 to 10, how confident do you feel about finding some extra support or help with the kids?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, I'd say maybe a 3 or 4. I don't have many people around who can help, and hiring someone feels out of reach right now. It just feels like a lot to figure out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun expressing change talk by contemplating a structured routine and seeking support but remains ambivalent with low confidence. More exploration of values, goals, and confidence building is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It's understandable that it feels daunting when support seems limited. What might boost your confidence from a 3 or 4 to perhaps a 5 or 6 in finding some extra support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Maybe connecting with a local moms' group or seeing if the university has resources for student parents could help. Just knowing what's available or talking to others in similar situations might make things feel a bit more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential resources to explore, but confidence remains low. The discrepancy between her roles and values is clear, and she's considering specific steps for support. However, sustained ambivalence and low confidence indicate more exploration is needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Connecting with a moms' group or exploring university resources sounds like a promising way to find support and gather helpful information. It's great that you're considering reaching out; talking to others in similar situations can often open up new possibilities. What might be your first step in exploring these options?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think I'll start by checking if the university has any support services for student parents. After that, I'll look into local moms' groups online and see if there are any meetups or online communities I could join. Just taking those small steps might help me feel a bit more in control.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Guiding goals were effectively met: the client expressed a specific goal (exploring support options), Change Talk emerged, and ambivalence decreased. Confidence was low, but the client identified potential resources, indicating readiness to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Seeing you identify those steps is really encouraging. So, as a plan, you’re looking to first explore the university's support services, then research online for local moms' groups. What might be some obstacles you anticipate, and how could we work through them together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): I might face issues with time management or just feeling too exhausted to follow through with these actions. Sometimes it's hard just finding the energy to do anything extra, you know? Maybe we could come up with some ways to motivate myself or break things into even smaller, manageable steps.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps to explore support services and moms' groups, and has discussed potential obstacles such as time management and exhaustion. However, they are seeking further motivation strategies and ways to handle barriers, indicating the need for further discussion and support. The goal and action plan are not fully concrete, and confidence needs strengthening.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "It's completely understandable to feel that exhaustion can be a significant barrier. Breaking things into smaller steps can definitely make them more manageable. Perhaps setting a specific, small time frame each day to explore one resource or reach out to one person could help. Options might include allocating 10 minutes after a study session or during a quiet moment when the kids are occupied. How do you feel about trying this approach, and are there specific times that might work for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): That could actually work. Maybe when the kids are napping or after they've gone to bed in the evening, I could spend just a few minutes checking things out. It feels less overwhelming if I know it's just a small commitment each day. I think I can give that a shot.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan for seeking support, acknowledging barriers like exhaustion and time management. They have agreed to a self-monitoring strategy by setting small daily commitments. The client appears confident in trying this approach. These indicate readiness, thus moving forward is appropriate.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You're really taking some proactive and thoughtful steps here, and that's fantastic to hear. By setting aside just a few minutes during nap time or in the evening, you're making the task feel more doable. It's about those little victories, right? Remember, every step you take, no matter how small, is a step towards finding the balance you're looking for. Whenever you feel overwhelmed, remind yourself of the progress you're making. We'll keep checking in on how these actions are going for you. You're not alone in this journey, and reaching out for support is a strength. As you move forward, I'm here to support you in any way you need.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "I appreciate that, and knowing I'm not alone does help. I'll start with these small steps and see how it goes. Thanks for being there to support me through this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarizes the client's plan and addresses potential obstacles with coping strategies. The client acknowledges the support and is motivated to start small steps, indicating readiness to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: To withdraw or to not withdraw from the semester..\nI just had my daughter 6 weeks ago. The week my classes started, I gave birth to my daughter. I thought i could handle taking 2 classes with a toddler &amp; newborn, but god was I totally wrong. I emailed my professors &amp; told them that I just gave birth &amp; they told me &amp; I can turn in my work whenever with no penalties. I’m so in between on if I should withdraw from this semester, or if I should continue with the classes. It’s just so fucking hard being a stay at home mom with a toddler &amp; newborn + being a college student. I feel like a failure if I withdraw and I hate it. Any other moms who just had a baby &amp; are still taking classes? How are you handling it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

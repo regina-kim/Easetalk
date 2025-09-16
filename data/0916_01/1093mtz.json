@@ -1,0 +1,116 @@
+{
+  "id": "1093mtz",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been thinking a lot about my future and whether I'm on the right path with my current studies.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern about their educational path and their aspirations in humanitarian work. However, the conversation still requires further exploration of their thoughts, feelings, and context regarding this potential transition and any underlying motivations or fears. More rapport and mutual understanding need to be established before progressing to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain about your path. What about your studies is making you question if it's the right direction for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I've started to realize I'm more drawn to helping people, like in a humanitarian sense, rather than just focusing on design. It just feels like maybe I should be heading in a different direction.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase has successfully uncovered the client's main concern, thoughts, and feelings about their current and future academic path, and the client has shared their uncertainties and interests. Empathy and rapport have been established, and the dialogue has been productive without repetitive or unproductive questions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like an important realization. How do you envision your life if you were to follow this new interest in helping others?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): I imagine doing work that really makes a difference, like being involved in projects that help communities or even working with organizations that are focused on social impact. It just feels more meaningful to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in shifting towards work that aligns with their humanitarian values and has envisioned a meaningful future with this change. Discrepancy between current and desired paths is evident, and the client shows motivation to pursue a specific change goal in their studies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Transitioning into work that impacts communities sounds truly fulfilling. Considering this newfound passion, what steps might you be interested in exploring or taking to align your studies or career with these humanitarian goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I've been thinking about the possibility of doing a Master's in International Relations or Social Work to align more with my interests, but I'm just not sure how feasible that is with my current degree in Interior Design. Maybe talking to advisors or exploring programs could help me figure it out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear goals to explore a Master's in International Relations or Social Work and plans to speak with advisors. Barriers such as the feasibility of transitioning from their current degree have been discussed. The client is actively considering steps, demonstrating commitment and confidence. They are not stuck in circles.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring your interest in a Master's in International Relations or Social Work truly shows your dedication to aligning your life with your values. Taking the step to talk to advisors and explore programs will give you a clearer idea of how feasible this transition might be. It's encouraging to hear your willingness to take proactive steps toward a more fulfilling path. As you navigate these options, remember that change can be gradual and it's alright to take it one step at a time. What’s important is your commitment to finding a path that resonates with you. Keep that enthusiasm for meaningful work alive, and know that support is here for you along the way. Let’s plan to check in on your progress next time. Have a great week ahead!",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll see about setting up those meetings with advisors and start exploring more options. Looking forward to our next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included summarizing the client's goals and steps, discussing exploring programs, and encouraging progress. The client has a clear next-step plan to meet advisors and explore options. The session has naturally concluded with an invitation for follow-up.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Getting a Master’s Degree\nHi. I’m currently taking BS Interior Design. Halfway through it, I realized I had a passion for humanitarian work. I’m thinking maybe it’s too late to switch programs, and I can just study International Relations (or maybe Social Work) for my Masters. \n\nBut I’m not sure if my undergraduate degree will be qualified for that kind of masters, since it is two very different fields. May I ask if your undergraduate degree matters when educational institutions look at your application for a Master’s Degree?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "vkddsv",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been feeling kinda confused and directionless. It's like I don't really know what path to take right now, and it's been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared significant details about their feelings of confusion, interests, and concerns about the future. However, further exploration into their emotions, values, and potential barriers or supports for their decision-making process is needed to fully understand their story and build rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really tough, feeling uncertain about the path ahead. Can you share more about what areas in your life you're feeling this way about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's mostly about what to do next after high school. I love art and music, and I'm thinking about college, but I'm not sure if that's the right move or if I should be doing something else entirely.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shared their feelings of confusion about post-high school life, interests in art, music, and social desires in university. The essence of their story, context, and emotions are sufficiently elicited for rapport-building and understanding their concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a path after high school can certainly feel overwhelming. Considering your love for art and music, what would life look like if you pursued college versus exploring other opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I guess if I went to college, I'd get to dive deeper into art and music while meeting new people, which sounds exciting. On the other hand, exploring other opportunities might give me a chance to find something unexpected that I might love, but it feels kinda risky and uncertain.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to explore life with and without change, and there is clear Change Talk regarding interest in university and fears of the unknown. However, specific change goals or confidence levels have not been established, and there is a presence of ambivalence. Continuing in the Guiding phase would help clarify goals and increase confidence for decision-making.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Exploring those different paths is really insightful. What aspects of college or other opportunities align with your long-term goals or values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Thinking about it, college seems to align with my value of learning and being around people my age, which sounds fulfilling. Other opportunities might align with my goal to find a unique path that's true to myself, but it feels like a gamble.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their current feelings and their values/goals, such as wanting to pursue art and music while also valuing learning and social connections. They've considered life with and without change. Change talk is present, and specific goals like attending university are identified. Sustained talk has decreased. These signs indicate readiness to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "With both paths offering their own blend of excitement and uncertainty, it sounds like you're weighing the importance of learning and connection against the thrill of unique self-discovery. Considering these, what might be a small step you could take to explore these options further, like visiting a college or trying out a new art class?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could start by checking out some local college campuses to get a feel for them and see if I can picture myself there. I could also look into community art classes or workshops to see if they spark something in me or connect me with people who have similar interests.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of exploring college campuses and engaging in art classes to make a more informed decision. They have discussed the barriers of uncertainty and introversion, and have expressed a plan to connect with peers. The client shows motivation and steps towards change, signaling readiness to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Great plan! Exploring college campuses will give you a tangible sense of what college life might be like and could help clarify any uncertainties. Looking into community art classes or workshops is also a fantastic way to connect with others who share your passion and might lead to unexpected opportunities. It's really encouraging to see how you're creating space to explore both options thoughtfully. \n\nRemember, this journey is yours and it's okay to feel unsure at times. Taking these steps will provide valuable insights and experiences. I'm here to support you as you explore these paths. We can discuss how things are going during our next session. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll start with those steps and see where they lead me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and planned next steps for the client's exploration. Encouragement and support were expressed, and future discussions were proposed, fulfilling termination goals. Closure has been naturally achieved.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Need a direction in life\nIm 18 and graduated HS in 2021 and now I feel empty after leaving because I  feel I don’t have a direction anymore. I really enjoy art/music and I could go to community college for that, although I really feel like university seems much more fun and I would feel more fulfilled. I also love learning about everything but I don’t want to end have a conventional job, because I’m a much more creative person.\n\nI’m a little introverted meaning I don’t seek relationships but I love going out and having fun. I want to go to university because it pools a bunch of people my age together and I will obviously make friends and make great memories. It seems like just working and not attending any school would make me feel like I’m missing a chapter in my life.\n\nHas anyone else ever felt this way? I just feel really lost and lonely",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

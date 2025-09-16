@@ -1,0 +1,200 @@
+{
+  "id": "1193e5v",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? If there's anything on your mind, I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty overwhelmed right now. It's just hard to focus with everything going on at once.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story about feeling overwhelmed due to exams has been partially elicited, but more exploration is needed to fully understand the context and emotional impact. We also need to build more rapport and establish mutually agreed goals before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's understandable to feel overwhelmed with so much happening. Can you share a bit more about what's been going on that's making it difficult to focus?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, there's just a lot of pressure, you know? With exams coming up, I can't seem to get my mind to settle on studying.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has conveyed feelings of overwhelm and pressure due to upcoming exams. The therapist has shown empathy and encouraged the client to elaborate on their concerns. However, more exploration of the client's specific thoughts and feelings is needed to fully understand their context and build rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing exams and pressure can be quite challenging. What do you think is contributing to that pressure the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): I think it's just the fear of not doing well and the expectations I've set for myself. It feels like there's so much riding on these exams.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's concerns about overwhelming pressure and fear of not meeting self-set expectations have been clearly elicited. The context of exams causing stress is understood with empathy from the therapist. This indicates rapport and mutual understanding, suggesting readiness for the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Exams can indeed feel like a lot is at stake, especially with self-imposed expectations. What would it mean for you to do well, and how might that align with your broader life goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, doing well would be reassuring, like a sign I'm on the right track. It's important for my future goals, but sometimes it feels like everything hinges on these grades.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the importance of doing well in exams for future goals, indicating a discrepancy between current behavior and values. Confidence or specific change goals have not been clearly established yet, and the discussion of life with or without change hasn't been explored fully.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Doing well seems deeply connected to your future and feeling reassured about your path. How might your life look if you continue as you are, compared to if you manage to alleviate some of this pressure?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "If I keep going like this, I might just burn out and not even do as well as I hope. If I could ease up on some of the pressure, maybe I'd feel more relaxed and focused, which could actually help my performance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their current pressured state and their values of performing well and future goals. They've explored consequences of current actions versus change, and there is presence of Change Talk about easing pressure. However, a specific change goal hasn't been articulated yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're noticing a clear link between reducing pressure and potentially enhancing your performance. What small steps or changes do you think might help you create that more relaxed and focused state?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by setting smaller study goals instead of cramming everything at once. Also, taking short breaks to clear my head might help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal: setting smaller study goals and taking breaks. There is Change Talk reflecting a desire to alleviate pressure. The discrepancy between current behavior and future goals was explored. The client also expressed potential benefits of change, indicating decreased ambivalence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Tackling pressure in smaller steps sounds like a wise approach. Would you like to focus on creating a specific study schedule with smaller goals and built-in breaks? We can also explore any possible barriers you foresee and how to handle them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. I think having a specific schedule might help me feel less scattered. I'm a bit worried I might not stick to it, though.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a concern about sticking to a study schedule, indicating a potential barrier. While a specific action plan is in progress, the client has not yet demonstrated clear confidence or commitment to the plan. Further discussion on implementation and self-monitoring is needed.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Creating a specific schedule could indeed make things more manageable. How about we set a goal to draft a study schedule with smaller, achievable goals and planned breaks? We can also brainstorm strategies to stay committed, like having accountability partners or reminders. What do you think might work best for you to help stick to it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "I think setting up reminders on my phone could be helpful, like alerts for when to start and stop. Maybe I could also check in with a friend who's studying too and keep each other on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of creating a study schedule with built-in breaks and has identified barriers such as staying committed. She has proposed solutions like phone reminders and accountability with a friend. These actions demonstrate readiness through commitment and taking-steps talk, indicating progress toward implementing the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Establishing reminders and having a study buddy for accountability sound like excellent strategies to keep you on track. You're taking some thoughtful steps toward managing your study pressure more effectively. Let's look at your goals as having a structured study schedule with smaller goals, incorporating breaks, and using reminders and peer support to maintain consistency. Remember, it's about finding a balance that works for you, without adding extra stress. You're on a great path, and experimenting with these strategies can lead to a more relaxed state of mind, potentially enhancing your performance. Keep trusting in your abilities, and be kind to yourself on this journey. If you ever feel overwhelmed, know you can reach out for support. Looking forward to hearing how it goes in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks, that sounds really encouraging. I'll give it a try and see how it works for me. I'll definitely keep in touch if things get overwhelming.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a summary of goals, steps, and coping strategies, addressing the client's concerns effectively. The next-step plan was discussed, making a natural endpoint. The client acknowledged the plan and felt encouraged.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: 2 Exams tomorrow in two different shifts.\nIm 20F a final year student can’t really focus on studies despite of having 2 exams in a single day tomorrow.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

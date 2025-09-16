@@ -1,0 +1,137 @@
+{
+  "id": "1gdejl8",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Would you like to share a bit about what's been going on lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "client: Hey, yeah, I've just been feeling stuck in my current university. It feels like I'm not really learning much, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has just begun to touch upon the client's feelings of dissatisfaction with their current university experience, financial considerations, and career aspirations. However, the therapist has not yet fully explored the client's thoughts and feelings or established goals. Continuing in the Exploring phase will help in understanding the client's perspective more deeply.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, feeling like you're not getting the most out of your university experience. What's been contributing to this feeling of being stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: A big part of it is the quality of the classes and the teachers. I just think they're not really engaging or helpful, and it makes me question if I'm in the right place.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concern about feeling stuck at university due to poor class quality and mandatory attendance, as well as financial considerations. The detailed context, including their feelings towards the university and potential options, has been elicited. Empathy and rapport have been established, indicating readiness for guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough to question if you're in the right place when you're investing so much time and energy. What do you think your experience might look like if things were different and more engaging?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: If things were more engaging, I imagine I'd actually look forward to going to class and feel more confident about what I'm learning. I'd probably feel more motivated and less like I'm just going through the motions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed dissatisfaction with their university experience and considered the impact if things were different. Change Talk is present, as the client envisions a more engaging experience and contemplates self-study. However, there's no clear next step or specific change goal, and ambivalence is evident. Confidence levels haven't been clarified. Further exploration is needed to solidify motivation and potential plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Feeling motivated and looking forward to class sounds like it would be quite fulfilling for you. What do you think might be the first small steps towards making your university experience closer to that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I guess I could try to find ways to make the material more interesting on my own, like exploring projects outside of class or joining clubs. Maybe I could also talk to my professors and see if they have any resources or advice to help me get more out of the courses.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk by considering steps to enhance their university experience and expressed a specific change goal of making the material more interesting independently. Confidence in these steps appears high, and ambivalence about university is being addressed. This suggests readiness to move to the Choosing phase to develop detailed action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring projects or clubs and reaching out to your professors sound like proactive steps. How would you like to set a goal around these ideas, and what might be the first action you can take this week to start?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by researching some clubs related to programming or software engineering on campus. I'll also try to email one of my professors to schedule a chat. Doing these two things this week feels like a good start towards making my experience better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals like joining clubs and contacting professors. They have a plan for this week, indicating commitment and steps toward change. Barriers such as financial constraints are acknowledged. The client appears to have increased motivation and confidence to act on the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've really taken some thoughtful steps toward enhancing your university experience. Researching clubs and reaching out to your professor are excellent starting points. By diving into a club, you might find that excitement and engagement you're looking for, and a conversation with a professor could open up new insights or resources. I'm confident these actions will help you feel more connected and motivated. Once you've taken these steps, we can reconnect and talk about what you've discovered and how it felt. Remember, small steps are powerful when moving toward change. Keep believing in your ability to create a more fulfilling path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll try to keep moving forward with these plans and let you know how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has been guided through steps to engage more with their university experience and has set concrete actions to take. Termination goals are met, and the client plans to report back on progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Am i wasting my time in the uni im in right now? or is normal?\nI feel like im wasting my time every and each time i go to class, but attendance is mandatory..\n\nAll of our teacher are horrible and yes, i mean it.\n\n\ni feel like i should spend that time studying at home rather than wasting 1 hour going to and back from college (=2 hours) and as a matter of fact we don't even take that much in there\ni only have 4 classes, 1 class is in flipped classroom mode, 1 online class and 2 classes on campus\n\nand im studying software engineer\n\n\ni only go to this uni because i don't have to pay anything, even though universities in my country are not THAT expensive, but im already dealing with alot of financial problems\n\nand i don't want to stress about paying for college too\n\n\nbut i can't help but feel like im gaining nothing, one part of me is like, let's just study by myself, get that degree and see what im going to do later.\n\nbut i hate this uni\ni've been here for 1 years now, and i hated every moment i spent in there\n\nbut i really want to study in a college, get a degree and start working as a programmer.\n\n\nshould i just finish this year, and try moving to another uni? or stick to my free tuition?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "ucuuow",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What's been on your mind lately? Feel free to share whatever you're comfortable with.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for asking. Honestly, I've just been super stressed about school and whether I should drop out before the semester ends. My grades aren't great, and I got sick a lot, which didn't help. Plus, I'm trying to figure out all this mental health stuff too.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns about stress from school, health issues, and potential impacts on their future academic path. While the therapist understands the client's current dilemma and context, further exploration of emotions, values, and deeper motivations would be beneficial before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really overwhelming, balancing school pressures with your health. You're managing a lot at once, and it makes sense you'd feel stressed. What has your experience at school been like lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "It's been rough, to be honest. I'm just trying to keep up, but it feels like I'm constantly behind, and it's hard to concentrate on anything. The stress just makes me feel worse.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about academic struggles, health issues, and mental health exploration. There's an understanding of their stress and challenges, with rapport building seen. However, more context on their thought processes and feelings is needed to fully meet exploring goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really difficult feeling like you're always playing catch-up and struggling to focus. This situation sounds draining, especially with everything else you're dealing with. Can you share more about how you've been managing these feelings day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Well, some days I just push through and try to get things done, even if it's not perfect. Other days, it's tough to even start anything. I've been leaning on my friends a bit, and the meds are supposed to help, but it's still a work in progress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about their stress related to school, health issues, and their concern about possibly dropping out. Empathy and rapport have been established, as the therapist has shown understanding and support. The context of their struggles has been explored in depth, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It takes real strength to keep going, even on the tough days, and to reach out to your friends for support. Considering everything you're juggling, what do you think life might look like if you could better manage these feelings and stresses?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): If I could manage it all better, I imagine I'd feel less anxious and more in control. I'd probably be more focused on my classes and not always worried about falling behind. Maybe I'd even have some energy left for things I actually enjoy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has reflected on the discrepancy between their current situation and desired outcomes, indicating some initial Change Talk. However, there is no specific change goal or expressed readiness to take action. The client is still exploring their feelings and potential futures.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Imagining a life where you feel more in control and less anxious sounds really empowering. What small changes or steps do you think could start moving you toward that version of life where you're not only more focused in class but also have energy for enjoyable activities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): I think trying to stick to a routine might help a bit, like setting specific times for studying and breaks. Maybe setting small, realistic goals could make things feel less overwhelming too. I should probably keep talking to my friends and checking in with my counselor about the meds and everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of sticking to a routine and setting realistic goals, indicating readiness to move to concrete planning. Change Talk is present, exploring life with change has occurred, and the client has responded to summaries positively. The client also intends to discuss medication management with a counselor.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Creating a routine and setting small, realistic goals sound like great steps towards feeling more in control and less overwhelmed. How do you feel about starting with setting a specific study schedule and incorporating regular check-ins with your friends and counselor? We can explore what this routine might look like for you and any potential barriers you might anticipate.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that's a good idea. Having a study schedule could give me some structure, and checking in with my friends and counselor sounds helpful too. I guess the challenge is sticking to it and not getting discouraged if I mess up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan, focusing on a study schedule and regular check-ins with friends and a counselor. Barriers, such as sticking to the plan and avoiding discouragement, have been acknowledged. The client shows commitment to trying these strategies, which indicates readiness for termination.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Understanding that sticking to a new routine can come with its challenges, it's great to hear you're open to giving it a try. Remember, it's completely normal to have setbacks, and each day is an opportunity to start fresh. Consistent check-ins with your friends and counselor can provide you with the support and accountability to stay on track. You have already shown resilience by pushing through tough days, which is a strong foundation to build upon. Let's plan to touch base next time on how your new routine is working for you and explore any adjustments that might help. You're not alone in this journey, and you're making positive strides by taking these steps.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan to start with. I'll definitely try to keep that in mind, and I'm hoping to make some progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has met the termination goals by summarizing coping strategies and establishing a next-step plan with the client. The client feels optimistic about the plan, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anybody drop out of college a few weeks before the end of the semester?\nI’m a freshman who is failing in some classes but not all of them. I had a meeting today and they told me I was on the verge of getting kicked out because I was sick(physically and mentally) a lot in the middle of the semester so I didn’t go to class. There’s three weeks left and I was wondering how it would affect my GPA and would it ruin my chances of getting into a community college. I had around a 2.0 last semester because I just didn’t try hard. \n\nNote: I just got on anti-depressants and my parents want me to go see if I have ADD or ADHD. not sure if that plays into anything but yeah.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

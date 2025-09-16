@@ -1,0 +1,116 @@
+{
+  "id": "swdp6l",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've just been feeling really down about school, specifically when professors make comments that unintentionally make me feel inadequate, like when they say something is \"easy\" but it just doesn't feel that way to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully explored the client's feelings about professors' comments, providing context and emotional depth. Empathy has been demonstrated, and the essence of the client's struggle is clear. There's a risk of staying stuck in further repetitive exploration.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging, especially when those comments affect how you feel about your abilities. What would it look like for you if school became a more positive experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I think it would be great if there was more understanding and empathy from professors, recognizing that everyone learns differently and at their own pace. It would help if assignments and concepts were presented with encouragement rather than assumptions about their difficulty level.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for more understanding and empathy from professors, indicating a specific change goal towards a more supportive academic environment. However, there is no explicit Change Talk about steps they might take to address this issue, and the client's confidence level has not been assessed. Further exploration of potential strategies and confidence-building is necessary.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Having more understanding and empathy from professors could make a big difference in your experience. What changes do you imagine in yourself that might help you navigate these situations in the meantime?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): I guess I need to work on not internalizing these comments as a reflection of my ability. Maybe focusing more on what I can learn from mistakes instead of feeling bad about not getting it right away could help. Building more confidence in my own learning process is probably a good step.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed the desire for more understanding from professors and identified a personal change goal of building confidence in their learning process. Change Talk is present, and a specific change goal is identified, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Considering your thoughts, focusing on your learning journey and building confidence are valuable steps forward. To support this, you might want to explore different strategies like practicing self-compassion or setting small, realistic goals for each assignment. What are some specific actions you might take to start building this confidence?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I think starting with setting small goals is a good idea, like breaking down assignments into smaller, manageable tasks so they don’t feel as overwhelming. Also, practicing self-compassion by reminding myself that it's okay to not get everything right on the first try might help. Maybe even talking to classmates more to see if they feel the same way could provide some reassurance.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan, including setting small goals and practicing self-compassion. They've also considered discussing feelings with classmates for reassurance. Barriers such as internalizing comments and lack of confidence are identified, with strategies in place to address them. The client shows commitment and readiness to implement changes, indicating confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Breaking assignments into smaller tasks and practicing self-compassion sounds like a thoughtful and effective approach. It's wonderful that you're also considering reaching out to classmates for support, which could offer reassurance and help you feel less alone in your experience. You've identified some clear and positive steps towards building confidence and resilience in your learning journey.\n\nAs you move forward, remember that change takes time and every small step counts. Keep acknowledging the progress you make, no matter how small it seems. If you feel comfortable, you might also consider sharing your thoughts with a professor who you trust, as they might provide additional support or adjustments.\n\nThe next step could be to choose one of these strategies to focus on this week and notice how it impacts your feelings towards school. I am here to support you along the way. You're doing a great job navigating these challenges, and you have the strength to continue making positive changes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks for all the suggestions and support. I'll try to focus on breaking tasks into smaller steps this week and see how that goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session summarized goals and coping strategies, and discussed specific next steps, indicating readiness to conclude. Client expressed willingness to try strategies, showing closure and progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I hate it when professors say something is \"easy\"\nLiterally the quickest way to make a student feel bad about themselves because they don't quite understand or it's not actually \"easy\" for them.\n\nI was told recently during office hours for a CS class that the file and code I wrote was not needed and that I was doing it wrong and all I had to do was this and that and whatever and she ended by saying \"It's easy.\" \n\nThat made me feel like shit cause I didn't know how to do it despite it being \"easy\" and I was in a depressing mood for the rest of the day and the following day as well. \n\nSaying that an assignment is easy is just unnecessary. You have no idea what someone's struggles are, with the content/class **and** outside of that as well. While an assignment could technically be easy, that doesn't mean it's easy for someone to get up and sit down to do the assignment if they're struggling with their mental health, family issues etc.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

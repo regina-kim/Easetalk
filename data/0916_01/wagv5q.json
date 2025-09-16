@@ -1,0 +1,200 @@
+{
+  "id": "wagv5q",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I'm a bit stressed about my studies and worried about not passing enough credits this year. It's been tough adjusting, and I just can't shake off this feeling of being overwhelmed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns and feelings about their academic struggles and personal challenges. However, further exploration is needed to fully understand the context and emotions involved and establish rapport and mutually agreed upon goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Balancing studies can certainly be challenging. You seem to feel overwhelmed because of the pressure to pass credits, and adjusting hasn't been easy. What's been the most difficult part of this adjustment for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I think it's a mix of being away from my family and trying to handle everything on my own. Plus, the language barrier makes me feel isolated sometimes, and it just adds to the stress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, revealing stress from studies, isolation due to a language barrier, and missing family. The therapist has shown empathy and identified key concerns, but the client hasn't explored potential goals or solutions yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling homesick and managing everything alone, especially with a language barrier, can indeed feel isolating and stressful. It sounds like you're dealing with a lot all at once. How have you been coping with these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I’ve been trying to just push through and focus on my studies, but I end up procrastinating a lot. Sometimes I hang out with friends or call my family, which helps a bit, but it's still hard to stay motivated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's main concerns, emotions, and context have been clearly expressed, showing understanding and empathy. The client's coping mechanisms and challenges have been discussed, aligning with the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It seems like you're working hard to manage your stress, finding some relief in connecting with friends and family. When you think about what truly matters to you in your studies and personal life, what comes to mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I really care about succeeding in my studies because I'm passionate about my field, and I want to make my family proud. Personally, I value staying connected to the people I love, even if it's from a distance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of succeeding in studies and maintaining connections with loved ones, indicating Change Talk. Concerns and values have been explored. However, there is no specific action plan or strategy discussed yet, nor mention of confidence levels or decrease in ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your passion for your field and the importance you place on making your family proud show such dedication. Staying connected with loved ones, even from afar, holds a lot of meaning for you. How do you envision your studies and these connections helping you move closer to your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I think if I can find a balance between my studies and keeping in touch with my family, it'd help reduce my stress and maybe improve my focus. If I can get back on track with my credits, it'll bring me closer to achieving what I came here for and keep my family proud.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation and values around succeeding in studies and maintaining family connections. A discrepancy between current behavior (procrastination) and these values has been identified, and there is some Change Talk about finding balance. However, no specific change plan or goals have been articulated yet, indicating more Guiding is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing your studies while maintaining those vital connections sounds crucial to you. Finding that balance seems like it could really support your focus and reduce stress. On a scale from 0 to 10, how confident are you in your ability to find this balance and improve your focus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe around a 5 or 6. I know it's possible, but I just feel like I need some extra strategies or support to actually make it work.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their values and current behavior, such as the desire to succeed in their studies and make their family proud. They've explored life with and without change. Confidence has been expressed as 5 or 6, indicating some readiness, but there's a need for strategies. The client has a specific goal to balance studies and connections, yet still seeks more support.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "It's promising that you feel halfway towards finding that balance. A 5 or 6 shows you believe change is within reach. What might help you nudge that confidence up a point or two?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think having a structured plan or schedule could really help, and maybe some tips on better time management. Also, getting more comfortable with the language might ease some of the stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a desire for balance and strategies. They have set a goal to improve focus and reduce stress, with a confidence rating of 5-6. The client acknowledges the need for a structured plan and language improvement, indicating readiness to move to specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Creating a structured plan and improving your time management are great steps forward. It sounds like enhancing your language skills could also play an important role in easing stress. Based on what you've said, possible options could include setting up a weekly study schedule, scheduling regular calls with your family, or joining a language exchange group. What do you feel ready to try first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a weekly study schedule makes sense. Having something concrete might help me stay on track. I'll also try to set specific times to call my family each week, just to have that regular connection. Joining a language exchange group sounds helpful too, but maybe I'll start with the schedule and calls and see how that goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal (balancing studies and personal connections) and has chosen specific actions (weekly study schedule and regular family calls). They have discussed barriers and expressed commitment to the plan. Confidence in ability to change is evident, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "You've laid out some thoughtful steps to begin making this change, and that's truly commendable. Starting with a weekly study schedule and setting specific times to connect with your family can provide structure and support as you work toward your goals. Once you've got those in place, you can consider exploring a language exchange group to further enhance your skills. \n\nYour dedication to both your studies and staying connected with your family really shines through, and I'm confident these steps can help you find the balance you're seeking. Remember, it's okay to adjust your plan as needed and allow yourself time to adapt. \n\nAs a next step, you might begin drafting your study schedule and decide on the best times for those family calls. Should you feel the need for more support or new strategies, I'm here to help. Keep in mind, each small step you take is a step toward making your aspirations a reality.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your help with this. I'll definitely start drafting that schedule and set up those call times. It feels good to have a plan to work on. If I run into any bumps, I’ll definitely reach out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarizes goals, steps, and coping strategies, and discusses a next-step plan, providing closure and client satisfaction. It aligns with the termination goals, and no further immediate issues need addressing.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How bad is my situation?\nHello everyone,\n\nI am a 1st year master  student (will be 24 yo in 2 months). My 1st year is 60 credits and I only passed 18 credits (2 exams) due to various reasons : mental health, procrastination, being away from my family for the 1st time and in a country where I don't speak the language. How is\n\nI really don't want to quit because I like what I am studying. Has anyone been in the same situation as me? How bad is this? What should I do?\n\nThank you in advance",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

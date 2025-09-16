@@ -1,0 +1,200 @@
+{
+  "id": "x1krry",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you might have something on your mind. Whenever you're ready, feel free to share what's been going on or anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, yeah, I've been thinking a lot about my future and career options. I'm just not sure if I should go for a master's and a CPA or start working right after my undergrad.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their primary concern of deciding between further education or starting work. However, more context behind their thoughts and feelings, as well as any underlying motivations, has not been fully explored. Empathy and a deeper understanding of their story are needed before progressing.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a significant decision for you. You're feeling uncertain because each option has its own benefits and challenges. What are some things you've been considering in making this choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I've been weighing the potential salary boost from getting a CPA against the cost and time of more schooling. I'm also thinking about how starting work right away might give me some practical experience sooner.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's central dilemma and thoughts on future career options, including the trade-offs between further education and immediate work. The therapist has shown empathy and initiated understanding of the client's situation, setting the stage for exploring motivations and goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Those are important factors to consider. You're reflecting on the balance between further education and gaining immediate work experience. What do you imagine your life might look like if you chose one path over the other?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "If I go for the CPA, I see myself potentially having better career opportunities and maybe more financial stability in the long run. On the other hand, starting work right away could mean getting hands-on experience and earning money sooner, but I'm not sure if that might limit my opportunities later on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed potential outcomes and values related to both options but has not yet voiced specific change goals or exhibited significant Change Talk. Confidence levels or a decrease in ambivalence are not clearly stated, suggesting the client may still be processing their options and values.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "You're really considering how each path aligns with your long-term goals. Pursuing the CPA could lead to bigger career opportunities and stability, while starting work might give you immediate experience and income. How important are financial stability and hands-on experience to you when you think about your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Financial stability is pretty important to me because I want to feel secure and support myself comfortably. At the same time, getting hands-on experience seems valuable too, as it can really help me grow professionally and understand the field better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by envisioning outcomes for both career paths and has shown a clear understanding of the implications of each option. The importance of values such as financial stability and professional growth was discussed. However, a specific change goal or next step has not been articulated yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Finding a balance between financial stability and gaining practical experience seems essential to you. Reflecting on your values, which aspect feels more aligned with your personal vision for the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think financial stability might slightly edge out because it's comforting to know I'll be secure and have more options later on. But I also don't want to miss out on the growth and learning that comes with early work experience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying financial stability as a priority, indicating a specific inclination towards the CPA path. Ambivalence is reducing, with a clear reflection on values and goals. However, the client still weighs hands-on experience. Continuing in Guiding could further solidify these considerations, ensuring thorough exploration before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Your focus on financial stability as a priority shows your desire for security and future options. At the same time, you value the growth from early work experience. How do you see these values influencing your decision-making process as you contemplate your future direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm trying to figure out how to blend them or at least make sure I'm not missing out on one entirely. I want to make a decision that doesn't close doors but also sets me up for a good future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated the discrepancy between their desire for financial stability and immediate work experience, and has expressed a slight preference towards financial stability, showing movement towards a decision. Change Talk is present, but specific next steps or change goals have not been fully defined yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): You're aiming for a decision that balances both security and opportunity without closing doors. How might exploring each option more deeply help you feel more confident about choosing a path that aligns with your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think diving into more research about both paths could give me a clearer picture. Maybe talking to people who have taken each route might help, or even looking into potential job opportunities and market demand for finance grads versus CPAs.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, indicating a preference for financial stability while valuing hands-on experience. Specific goals for exploring options and making an informed decision have been identified, reducing ambivalence. The client shows motivation to research further, suggesting readiness to formulate an action plan. The client's confidence in aligning choices with values is evident, indicating readiness to move to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring both paths further could certainly provide clarity. Speaking with professionals and researching job trends sounds like a solid plan. Considering this, what specific steps might you take next to gather the information you need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "I could start by reaching out to a few alumni from my university who have gone down each path and see what insights they can share. Also, I might look into attending some career workshops or networking events where I can learn more about the industry demands and opportunities for both finance grads and CPAs.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal with steps to gather information by reaching out to alumni and attending workshops. They have discussed barriers and strategies, showing commitment and confidence in their plan. The client is prepared to make an informed decision, fulfilling the Choosing phase's goals.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "That sounds like a proactive approach. Reaching out to alumni and attending career workshops can give you valuable insights and help guide your decision. By gathering this information, you're setting yourself up for a choice that aligns with your aspirations. Remember, it's okay to take your time to explore these options thoughtfully. Trust in your ability to make a decision that honors both security and growth. As you move forward, feel free to reach out if you need further support or guidance. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I'll definitely start reaching out and doing some research. If I need more guidance, I'll make sure to get in touch.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a plan for next steps and a summary of goals and coping strategies, meeting termination goals. The client expressed readiness to proceed independently with the outlined plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Finance Undergrad options\nI am a Finance Undergrad and I am trying to decide if I want to go for a Masters in Accounting for graduates and pursue a CPA or just start working. I know with a CPA I can make a lot more money, however I dont know if it would be worth the cost incurred from extra school. Anyone have any comments or advice?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

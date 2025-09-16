@@ -1,0 +1,137 @@
+{
+  "id": "ru4apn",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I’ve been feeling really conflicted about my fashion design major and whether I should switch to something else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about their major and the conflicts they are experiencing, including their love for fashion, frustrations with their current program, and the idea of switching majors. Empathy and rapport are evident, but agreed goals haven't appeared. Exploring continues.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing a lot of uncertainty about your major. What aspects of the fashion design program are making you question your choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Well, I love fashion but the program isn't meeting my expectations in terms of skills and networking. Plus, it's consuming so much of my time that it's affecting my overall college experience.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive overview of their conflict, detailing both emotional and contextual reasons behind their uncertainty with the fashion design major. Rapport and understanding have been established. The essence of the client's story, including their thoughts, feelings, and context, has been elicited.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough feeling like you’re not getting what you hoped for from the program and it's impacting other parts of your life. What would life look like for you if you found something that met your expectations and balanced your time better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: If I found something that really clicked, I'd probably feel more motivated and less stressed. I imagine having more time for things outside of school, like hobbies and spending time with friends, without always feeling overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown change talk by expressing potential goals and alternatives, like switching majors or pursuing fashion as a hobby. However, they have not yet articulated a specific change goal or next step, nor has there been a confidence assessment. Further guiding is needed to clarify their decision and address any lingering ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "That sounds like a more fulfilling balance. What small steps could increase your motivation and reduce stress in your current situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Maybe I could try setting stricter boundaries on my study time to make room for more breaks or social activities. Also, looking into other majors or talking to people in those fields might give me a clearer picture of my options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between current academic pursuits and personal values, considering alternative paths to achieve fulfillment. They have identified potential steps to address their situation. The client also exhibits Change Talk and has articulated a specific next step, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Considering what you've mentioned, it seems like setting boundaries and exploring other fields could really help you. Possible steps might include creating a schedule that allows for breaks and social time, and perhaps scheduling informational interviews with people in other majors. How does this plan sound to you, and what would you like to prioritize first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "That sounds like a solid plan. I think I'd want to start by creating a more balanced schedule so I can get a better feel for managing my time. After that, I could focus on reaching out to people in other majors to learn more about what they do.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to explore other majors and a concrete plan to balance time, starting with scheduling. Barriers related to time and stress are acknowledged, with self-monitoring through a new schedule. The client is committed to taking steps, showing confidence in managing time better. These readiness signals suggest moving forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It’s wonderful to hear how you’re thinking about creating a more balanced schedule as your first step. By prioritizing your time, you can hopefully experience less stress and more joy from both your personal and academic life. Once you have that balance, reaching out to others in different fields can provide valuable insights and possibly open new doors for you.\n\nRemember, it’s all about small, manageable steps. You’re showing a lot of initiative and self-awareness, which is truly commendable. As you move forward, keep listening to yourself and your needs. \n\nIf you find yourself needing support along the way, don't hesitate to reach out to advisors or support staff—they're there to help guide you. Let's touch base soon to see how your new schedule is working and discuss any discoveries from your informational interviews. You're doing great, and I'm here to support you in every step of this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I’ll give the new schedule a shot and see how it goes. Should I reach out if I'm stuck or have questions?",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a summarized plan with steps to manage their current situation and explore other options. They are aware of their resources and have been encouraged to reach out for support if needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on maybe switching out of design major?\nTo keep it as brief as possible, I’m currently double majoring in fashion design and environmental sciences. I’m heading into second semester junior year. I’ve been seriously considering switching out of my design major for something else (maybe comp sci? I’m a math nerd and have picked up some coding previously).\n\nI’ve never felt so stuck on a decision before honestly. I love fashion to death, but I feel like I have too many reasons to leave and my passion is dwindling bc of college. My program isn’t teaching me the skills or getting me the connections I want/need, I feel like it’s ruining my college experience (extremely long labs, working almost constantly, and struggling to keep a social life on top of a job), and I have over a years worth of credits left in the major (~36) and most majors are 30-45 total anyways. My dream with fashion is to have some level of creative freedom or even start my own small brand/social media presence one day. I don’t even need a degree to do this, so maybe my time/money would be better spent on other things.\n\nDoes anyone have experience switching in/out (or not) of art/design? Am I being a baby and I should just finish the major? Any advice or experiences would be appreciated!\n\nTLDR; I love fashion but am frustrated with the degree, thinking about keeping it as a hobby/side hustle and switching into another major",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

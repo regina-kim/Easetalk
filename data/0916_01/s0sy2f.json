@@ -1,0 +1,200 @@
+{
+  "id": "s0sy2f",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been feeling a bit overwhelmed honestly. I've been really thinking about leaving UCSB to go back to community college, and it's been stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a significant concern about transferring from UCSB to community college, revealing emotional stress and financial considerations. However, further exploration of their feelings, thoughts, and any mutual goals is needed to ensure a comprehensive understanding and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling quite stressed by the decision about staying at UCSB or returning to community college. What's been influencing this consideration for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, it's been a lot to think about. The main thing is money, like, UCSB is expensive, and I just switched majors, so I'd be starting fresh anyway. I feel like community college might be a better move right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and concerns about leaving UCSB for community college due to financial reasons and a major switch have been elicited. Empathy and rapport are evident, as well as an understanding of the client's context. The goals are mutually agreed, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching majors and considering costs can definitely bring up a lot of thoughts. How do you imagine your life might be different if you decided to go back to community college compared to staying at UCSB?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it might be less stressful financially, and I wouldn't feel like I'm wasting time since I'm starting over with a new major anyway. Plus, being closer to home could be nice for a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of returning to community college and has articulated reasons for this choice, including financial stress and starting over with a new major. They have explored their life with and without this change. However, confidence level and further exploration of ambivalence are not evident yet, suggesting a need for more Guiding before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Being closer to home and easing financial stress sounds like it could bring some relief. What's important for you to achieve in your education, regardless of where you study?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I really want to make sure I'm on a path that feels right and that I'm not overspending on something I'm unsure about. Ultimately, I just want to get a good education in my new major without unnecessary stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear motivations for change regarding financial stress and educational goals. The discrepancy between their current situation and their values has been explored. Change talk is present with specific goals about education, suggesting readiness. However, objectives like confidence assessment and a specific change plan are not fully articulated.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Taking the right path and reducing stress are both important to you. Considering your new major, what aspects of it excite you and fit well with your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I'm really excited about diving into something that feels more aligned with my interests, you know? The new major just seems like a better fit for me and my future career goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying financial stress and alignment with personal goals as reasons for considering community college. They have a clear change goal of reducing stress and pursuing education aligned with their interests. Confidence seems implied in the alignment with interests, but explicit confidence level isn't provided. Ambivalence reduction is noted. However, exploring confidence more would be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a major that aligns with your interests and future goals sounds incredibly fulfilling. How does pursuing this new major influence your confidence in both educational and personal growth?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): It's definitely a boost to think about studying something I actually care about. I feel like it would be good for my confidence and help me grow in a way that feels more genuine and true to myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, with specific goals related to reducing financial stress and pursuing a major that aligns with personal interests. The client has explored life with and without change, showing increased confidence in their new major. Ambivalence is reducing as the client articulates clear values and goals. These indicate readiness to move to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Exploring your options is really crucial, and it’s wonderful to hear how aligned you feel with this new major. Given your thoughts about financial ease and being closer to home, what would be some steps you might consider to make a decision about staying at UCSB or transferring to community college? Possible options could involve researching both routes more or speaking with advisors.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I think talking to advisors could really help clear things up, like getting a better sense of how each path would look. Maybe also looking more into the financial aid options at UCSB, just to weigh everything out properly.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of evaluating the decision to stay at UCSB or transfer, and they are considering concrete steps like speaking with advisors and reviewing financial aid options. However, they have not yet expressed commitment or confidence in a specific path. Continuing in the Choosing phase will ensure thorough exploration of their decision-making process.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Considering talking to advisors and exploring financial aid options sounds like a great plan to gather more information. How do you feel about setting a timeline to make these inquiries and perhaps deciding on your path forward? This approach might help you feel more organized and in control.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a timeline sounds smart. Maybe giving myself a couple of weeks to gather all the info and have those conversations could help me feel less overwhelmed and more in control of the situation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan involving talking to advisors and exploring financial aid. They have also agreed to set a timeline, which addresses barriers and self-monitoring. The client shows readiness with confidence in their decision-making process.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Giving yourself that time frame to gather information and talk with advisors is a practical and empowering step. It really shows your commitment to making a well-informed decision. By allowing yourself a couple of weeks, you're creating space to reflect on what's best for you without rushing. It's encouraging to see how you're taking proactive steps towards balancing your financial and educational goals. \n\nAs you move forward, remember that each step you take, whether it's researching or having conversations, is bringing you closer to a decision that feels right for you. Keep trusting in your ability to navigate this path. We'll check in again soon to see how things are unfolding and to explore any additional support you might need. You’re doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll do my best to stay on track and see where this leads. Looking forward to checking in next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals like financial ease and education alignment, discussed steps like advisor meetings, and set a timeline for planning. The client feels prepared and supported to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Leaving UCSB to go back to community college\nI am a second year student at UCSB and want to leave this quarter and go to my local community college. I want to do this because of financial reasons and because I just switched majors meaning I have to practically start over anyways. Has anyone else had the same experience? I'm curious if this sounds crazy or if it makes sense to anyone else or if anyone else has experienced it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

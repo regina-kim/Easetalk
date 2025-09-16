@@ -1,0 +1,179 @@
+{
+  "id": "yobrpa",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just been thinking a lot about college and how I had to drop a couple of classes. I'm worried about how that might look on my record.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about withdrawing from classes and its impact on their academic record, as well as seeking validation and shared experiences. However, the exploration of the client's feelings, thoughts, and context needs further depth to build rapport and understand the full picture.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's understandable to feel concerned about how dropping classes might affect your record. What led you to make the decision to drop those classes?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I had some trouble balancing my job with my class schedule, and it just got overwhelming. I thought it was best to drop them rather than risk failing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about withdrawing from classes due to balancing work and school, revealing their feelings and context. Empathy has been shown, and the mutual goal of understanding academic impact is emerging.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you made a thoughtful decision to prioritize your well-being. How do you feel about the balance between work and school moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm trying to figure out a better way to manage everything. I don't want to have to drop classes again, but I know I need to make some changes to keep up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses a desire to change and has identified a need to manage their schedule better. There's evidence of Change Talk and decreased ambivalence. However, specific change goals or steps are not yet clarified, and there is no evidence of using confidence rulers or values clarification.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Balancing work and school can indeed be challenging. Imagine finding a way to manage both successfully—what would that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Ideally, I'd have a schedule that lets me focus on my classes without feeling like I'm drowning in work. Maybe finding a job with more flexible hours or cutting back a bit on work could help, but I'm not sure how feasible that is.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a need to change their schedule and work situation to improve their academic performance, showing recognition of a discrepancy between current behavior and desired outcomes. They have explored life with and without change. However, concrete change goals and increased confidence have not been clearly articulated. Further exploration in the Guiding phase is needed to strengthen resolve and clarify specific steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Imagining a more balanced schedule is a great start. On a scale from 0 to 10, how confident do you feel about being able to create that balance in the near future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Right now, I'd say around a 5. I know there are steps I can take, but I'm just not sure how to start or if it'll work out the way I hope.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a concern about balancing work and school and has considered possible changes like adjusting work hours. Confidence is currently at 5, indicating some uncertainty. The client has not set a specific change goal or steps yet, and ambivalence is still present.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Seeing that you're at a 5 shows you're open to the possibility of change. What could boost your confidence, even slightly, to move towards a more balanced schedule?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Maybe having a clearer plan or some advice from others who have managed a similar situation would help. I think talking to my advisor or setting small goals could make me feel more confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change and identified potential strategies such as finding a job with flexible hours. Change Talk is present, and the client has a specific goal to improve work-school balance. Confidence is at 5, indicating openness to change, and the client has ideas for boosting confidence. Thus, the client is ready to move to the Choosing phase to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Creating a clear plan sounds like a solid approach. Considering your thoughts, options could include scheduling a meeting with your advisor for guidance or setting small, achievable goals to start adjusting your schedule. Which of these do you feel ready to explore first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I think scheduling a meeting with my advisor could be a good first step. They might have insights on how to better manage my time or suggest some resources that could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear first step—scheduling a meeting with their advisor—and has acknowledged potential barriers and strategies to manage them. There's evidence of commitment and taking-steps talk. The client is ready to move forward with this action plan, signaling readiness for the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Connecting with your advisor is a wise choice. They can offer valuable guidance and resources to help you find that balance you're striving for. Taking this step shows your commitment to improving your situation, and that's something to be proud of.\n\nAs you move forward, perhaps think about those small, achievable goals you mentioned. They can help to gradually build your confidence and maintain your momentum. Remember, it's okay to take one step at a time.\n\nIf you ever feel the need to talk or reassess your plans, I'm here to support you. You're making positive steps toward your goals—keep believing in yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll go ahead and reach out to my advisor soon. It's nice to know I can check back here if I need more support along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "A summary of goals, coping strategies, and a next-step plan was discussed. The client has a clear plan to meet their advisor and feels supported. The session naturally led to a close with an invitation for future support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How many W's did you have in college?\nThis is my first semester in college and I had to withdraw from 2 classes because of some circumstances involving my job and time management. I don't want to do it again and I just wanted to know if it's a bad thing and if you guys had a similar experience before? And how many W's is too many??",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

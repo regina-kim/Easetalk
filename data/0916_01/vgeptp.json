@@ -1,0 +1,158 @@
+{
+  "id": "vgeptp",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today? I'm here to listen and understand your thoughts and feelings.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm just feeling really stuck and overwhelmed about what to do after I graduate. I have a ton of interests, but I'm not sure which direction is best for me, especially with my past struggles.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's detailed narrative and concerns have been expressed, and the therapist has shown empathy and understanding. The client’s goals and context are clear, and the conversation is not stuck in repetitive questioning. The mutual understanding allows for moving to the Guiding phase to explore motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "You've got a lot on your mind about the future and how your past experiences play into that. What are some of those interests that stand out most to you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(guiding): Right now, I'm really into music production and fashion. I've always loved music and want to learn how to create it. Fashion also seems like an exciting field to dive into. But figuring out how to pursue both is tricky.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to pursue education in music production and fashion, and explored different options. They have acknowledged barriers and expressed urgency, yet Change Talk is not strongly evident, and specific next steps are unclear. Continuing in Guiding can help evoke more Change Talk and narrow down actionable steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing music and fashion sounds both thrilling and challenging. How do you envision your life if you were to successfully integrate both passions into your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I imagine a life where I can work on music and fashion projects that inspire me. Maybe collaborating with artists or designing for musicians, something that lets me blend both worlds. It's just hard to see the path to get there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed aspirations and potential career paths, yet the session lacks explicit Change Talk indicating readiness to act or specific goals. Confidence levels and reduced ambivalence haven't been clearly assessed. It's beneficial to explore these elements further before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Envisioning a future where you're inspired by your projects and collaborations sounds truly fulfilling. What do you think are some strengths or skills you already possess that could help you move towards that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): Well, I've learned a lot about creativity and design through my graphic design degree, so I think I have a good foundation in visual arts. I'm also pretty good at problem-solving and coming up with unique ideas. Those could definitely help me in both music and fashion.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear interests and a vision for integrating music and fashion. They have identified strengths that could aid in achieving this vision. Change Talk is present, but there's still ambivalence about the specific educational path and how to manage it. They need more guidance on decision-making strategies and overcoming barriers, indicating readiness to solidify plans is not yet attained.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your foundation in visual arts and your creative problem-solving skills are great assets for pursuing a path in both music and fashion. How do these strengths align with your dreams of blending these two worlds, and what small steps might you consider to begin this journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): I guess these strengths can help me develop a unique style or brand that combines elements of both music and fashion. Maybe I could start by taking some online courses in music production to get the basics down while exploring fashion through local workshops or networking events. I feel like even small steps like these could help me start building towards my bigger goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in pursuing music production and fashion, identified strengths, and considered small actionable steps. They have also shared specific goals and a sense of urgency. Although ambivalence is present, there's a strong inclination towards change and exploration of options.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Focusing on building a unique style or brand by combining your interests could be an empowering direction. Given your thoughts, exploring online music production courses and engaging in fashion workshops or networking events seem like promising first steps. How do you feel about setting a goal to enroll in a course or attending a workshop within the next month as your initial move? What potential hurdles do you foresee, and how might you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about setting that goal. Taking a course and attending a workshop sounds like a great way to start. I guess the biggest hurdle might be managing my time and staying motivated, especially since I've had issues with mental health in the past. To overcome that, I think having a schedule and maybe getting some support from friends or mentors could really help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan to enroll in a music production course and attend a fashion workshop. They've identified potential barriers like time management and staying motivated, and have considered strategies like scheduling and seeking support. They express confidence and commitment to these steps. Transitioning to termination seems appropriate as the client is prepared to implement their plan and address challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Creating a schedule and seeking support from friends or mentors could indeed be powerful tools to stay motivated and manage your time effectively. It’s wonderful that you’ve recognized these strategies as ways to address potential hurdles. To recap, your plan involves enrolling in an online music production course and attending a fashion workshop within the next month, which sounds like an inspiring step forward. Remember, you have the passion and foundation to turn your aspirations into reality, and taking these small, manageable steps can make a difference. Lean on your strengths and the support system you’ve identified along the way. Keep reaching out as you navigate this journey, and we'll continue to explore and support your progress together.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks for your support and encouragement. I'll definitely try to take those steps and see how it goes. I'll keep in touch if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and a plan to begin exploring their interests in music production and fashion, with strategies to manage hurdles. Termination goals have been met, and the session naturally concludes with encouragement and support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm having a hard time deciding what to do after I graduate. Should I go for an associates or masters? If associates, is there a way I can do 2 at the same time with schools that don't offer dual enrollment (from what I know)?\nThis might be very detailed, and I have several dilemmas to cover. I'll try to get it all in one go.\n\nI'm graduating with a bachelors in graphic design this December, and I've been thinking of either going for associates or a masters. I don't know which one would benefit me the most, but also with a masters there's a problem: my grades have always been low. I struggle with a LOT of mental health issues and I'm lucky to even still be in school. I got myself  together and got the help I needed, but unfortunately the damage  to my GPA is already done.  I figured since I might not get into a grad school, I could just get my associates.\n\nSo since grad school might not be an option, I wanted to think of backups. I was then thinking of doing associates, and that a lot of people to multiple. I decided I could do an associates in Fashion, and one in Music production. Music has always been a huge passion of mine, I want to learn how to create beats and music and maybe a little writing. I thought I could maybe find schools in NY that offer both, but it turns out thats not so much of an easy option either. TNS offers music, but not music production (as far as I'm aware of). But their fashion program is good and you can make good connections. I looked up some CUNY schools, Queens college offers a good music program and is way more affordable, but not a fashion associates.\n\nI thought about attending both at the same time, but I don't know if either of them offer dual enrollment, and I don't know how it works if you've already graduated with a Bachelors. I don't know if I'm able to attend both or not at all. Or if there are schools that offer both at a good balance.\n\nI want to hear some advice, or if there are other programs/directions that I'm not looking at or considering. ANY advice is very much appreciated! Also I really want to get this done in as little time possible. I lost so much time due to mental illness, I don't want to feel like I'm wasting more time.\n\nTLDR (kinda): Basic list of my questions:\n\nShould I go for masters or associates in the fields I'm looking into (music production and fashion)?Do I still have a chance at getting into grad school?Am I able to do 2 associates in different schools that don't offer dual enrollment (as far as I'm aware)?Are there other schools that offer both associates or is there another way I can achieve this goal of mine that I just haven't seen yet?\n\nEdit: I REALLY want to emphasize the not wasting time part. I lost YEARS due to really bad mental illness. I don't want to wait around anymore. I'm set on continuing school on these majors that are unrelated to my bachelors. I just don't know the best way, which is what I want to know. Regardless, I still will be establishing my career, but I do want to do the rest of the things I want to do in my life. And I don't want to be \"find out later\" what works the best for me. I want to just do it all now. I hope this makes sense and thanks to everyone for the advice already given.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

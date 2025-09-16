@@ -1,0 +1,158 @@
+{
+  "id": "1205shu",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! I'm glad you reached out. How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I'm doing alright, just a bit overwhelmed with trying to decide on a major. It's a big choice and I'm not sure which path to take.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about choosing a major, including some context about their education and options. However, there's limited exploration of their thoughts, feelings, and motivations behind these choices. More discussion is needed to build rapport and understand the client's perspective fully.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a lot to juggle. What are some of the thoughts or feelings you've been having about the different options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I've been thinking about what I'd enjoy and what would set me up for a good career. Criminal justice and paralegal both sound interesting, but I'm worried about job prospects and if I'll really like the work. Business management seems practical, but I'm not as passionate about it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and explored their thoughts and feelings about different academic paths. The therapist has shown empathy and understanding. However, mutually agreed goals or deeper context behind the client's feelings haven't been fully established.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It really seems like you're weighing your interests against future job security, which is a common challenge. What are some aspects of these fields that you find exciting or concerning?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I'm excited about the idea of working in the legal field with criminal justice or paralegal, like maybe helping people or getting involved in interesting cases. But I'm concerned about the actual day-to-day work and if there are enough job opportunities. With business management, it feels safer and like it could open more doors, but I'm not sure if I'd really love that kind of work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, thoughts, and feelings regarding choosing a major. There is a clear understanding of their interests and concerns, and rapport is built. Further exploration might become repetitive, so it's appropriate to deepen the discussion by evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Choosing a path that aligns with both passion and practicality can be tricky. When you think about your future in these fields, what kind of life do you envision for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I picture myself doing something that keeps me engaged and feels meaningful, maybe in a role where I'm actively helping people or making a difference. I want stability too, but I don't want to end up in a job where I'm just counting down the hours each day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk about wanting meaningful work and stability, aligning with their values. Discrepancy between job satisfaction and security is evident. The client envisions a future where they are engaged and making a difference. Although specific change goals aren't fully articulated, they are leaning towards roles in the legal field. More exploration of confidence and addressing ambivalence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing meaning and stability in your career is important. When you imagine yourself in a role that's both engaging and impactful, what specific values or aspects stand out to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I think what stands out is a sense of purpose and the opportunity to learn continuously. I want to feel like the work I'm doing has a positive effect on others, and that I'm growing in my role rather than feeling stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully evoked a discrepancy between the client's desires for meaningful work and practical job security, alongside exploring life with and without making a change. The client expressed a specific value of having a purposeful and continuously growing career. There is presence of Change Talk and a clear vision of what the client wants, indicating readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Considering your desire for purpose and growth, what would you say are the key steps to explore these career paths further? One option might be talking to professionals in the fields you're interested in, or perhaps trying an internship to get a real sense of the day-to-day work. What do you think could be your first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): Those sound like really good ideas. I think reaching out to people who work in criminal justice or paralegal roles could give me some valuable insights. Maybe I should also look into any internship opportunities, even if it's just shadowing someone for a day.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified actionable steps to explore career paths further, such as reaching out to professionals and considering internships, which demonstrates commitment to change. Barriers like job prospects have been discussed, and the client seems confident in exploring options actively. This indicates readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach, and reaching out to professionals or exploring internships can provide you with a clearer picture of what aligns with your values of purpose and growth. It's great to see you considering these proactive steps. Remember, it's perfectly okay to take your time and explore these paths before making a decision.\n\nAs you move forward, you might find it helpful to keep a journal of your experiences and reflections as you gather information. This can help you weigh the pros and cons more clearly. And don't hesitate to lean on your support system, whether that's friends, family, or mentors who can offer guidance and encouragement.\n\nI'm here to support you as you navigate this journey. If you have any questions or need a sounding board, feel free to reach out. You're doing a great job taking these steps toward a meaningful career path!",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and those suggestions. Keeping a journal seems like a good way to organize my thoughts and all this information. I'll definitely start reaching out and see where it takes me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered a summary of goals and steps, coping strategies, and a next-step plan. The client is prepared to explore career paths, making it natural to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on criminal justice or paralegal major?\nI just turned 20 and got my GED I'm applying to an online college (Eastern Gateway Community College) I'm stuck between getting an associate in criminal justice, paralegal, or business management. Anyone got advice or major in any of these? Thank you!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

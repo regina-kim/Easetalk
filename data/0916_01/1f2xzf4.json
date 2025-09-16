@@ -1,0 +1,242 @@
+{
+  "id": "1f2xzf4",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It’s great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I guess I just really want to talk about how stressed I am about not being able to afford school this year and how it's making everything feel so overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about their financial struggles, the impact on their education and emotional state, and various considerations for action. Empathy and rapport seem established. The essence of the client's story is well-elucidated, meeting the exploring phase goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really tough, feeling overwhelmed with the stress of finances and school. What would life look like for you if managing these stressors felt more within reach?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(guiding): If I could manage these stresses better, I guess I'd feel more secure and less anxious. I wouldn't constantly be worrying about whether I can stay in school or have to take time off.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has envisioned a less anxious life if stressors are managed, indicating some Change Talk. However, no specific change goal or next step has been established yet, and confidence levels haven't been explicitly discussed or measured. The client continues to experience ambivalence, as seen in their uncertainty about whether to continue the semester. Therefore, more exploration in the Guiding phase is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling more secure and less anxious about your situation sounds like a meaningful step for you. What are some things you value most about being in school that you feel you might miss if you had to take time off?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I really value being around my friends and having a routine. Learning new things and being in that environment keeps me motivated, and I'd miss that sense of community if I had to step away.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the discrepancy between their current situation and their values, such as the importance of staying in school and maintaining routine. Change talk is present, focusing on the desire to feel more secure and less anxious. However, specific next steps or goals haven't been clearly articulated, and confidence levels haven't been assessed. Guiding should continue to solidify motivation and clarify specific steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Having that sense of community and motivation seems really important to you. How do you see these values influencing your decisions moving forward, especially when thinking about ways to manage the stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess those values remind me of why I'm pushing through all this stress. They motivate me to keep searching for solutions, like jobs or scholarships, so I can stay connected and keep learning. It's hard, but knowing what I care about makes it feel a bit more worth it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed desire for change and identified specific steps like searching for jobs or scholarships influenced by their values. Change Talk is present, and they recognize the importance of their community and education. Ambivalence is addressed through motivation to push through stress. However, specific actions and confidence levels have not been fully explored yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your determination to find solutions, despite the stress, reflects how much you care about staying connected and continuing to learn. How confident do you feel about finding options like jobs or scholarships on a scale from 0 to 10, where 0 is not confident at all and 10 is extremely confident?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm somewhere around a 4 or 5. I have some hope, but with how things have been going, it's been tough to feel really confident about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a strong emotional connection to values but is still experiencing low confidence (4-5) about finding solutions. Ambivalence is present given the potential action of taking time off. Guiding goals have been partially met, but more support is needed to strengthen confidence and decrease ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding hope despite challenges is a testament to your resilience. What might help move your confidence from a 4 or 5 to a higher number, even just one step up?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): Maybe having more information or leads on potential jobs could help, or even just getting some positive feedback on my scholarship applications. Feeling like I'm making progress, even if it's small, would definitely boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and identified specific steps they are considering, like searching for jobs and scholarships. However, the confidence level is below 6, and there's still some ambivalence. Further exploration of confidence-building strategies is needed before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Acknowledging the small victories can certainly make a difference. What might be a first step you could take to gather more information on jobs or to track the progress with your scholarship applications?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I could start by reaching out to the career center to see if they have any leads or resources on job openings. I can also maybe check in with the scholarship offices to ask about any updates or timelines.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in Change Talk, recognized values motivating change, and identified specific steps towards a goal. However, confidence is at 4-5, below the ≥6 threshold. Additional support in exploring options and boosting confidence is needed to solidify readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out to the career center and scholarship offices sounds like a proactive approach, and it aligns with your determination to make progress. How do you feel about taking these steps, considering your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "I feel a bit nervous but also hopeful about taking these steps. It feels good to have a bit of a plan, and knowing it could bring me closer to staying in school with my friends keeps me motivated.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific next steps and expressed motivation to act. However, confidence is at 4-5 and hasn't reached the threshold of 6, indicating ambivalence remains. The client still expresses nervousness, suggesting more exploration in Guiding could strengthen confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Your hope and motivation truly shine through as you take these steps forward. How does recognizing this hopeful feeling impact your overall outlook on managing the stress and staying connected to what you care about?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Recognizing this hopeful feeling makes me think that maybe things aren't as impossible as they seem. It gives me a bit more courage to face the stress, knowing there's a chance I can stay connected to everything that matters to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to express hope and motivation towards taking active steps, such as reaching out to the career center and scholarship offices. Although confidence is moderate, the client has identified specific actions to increase it and recognizes the potential for progress. This signals growing readiness to begin forming action plans, even though confidence isn’t yet high.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That sense of courage is a powerful ally in your journey. As you consider the steps you've outlined, like reaching out to the career center and scholarship offices, how would you like to track your progress and address any barriers that might come up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I'll start by keeping a simple checklist or journal where I can jot down what I've done and any responses I get. If I hit any roadblocks, maybe I can brainstorm some alternative steps or reach out for support, like talking it over with you or a friend.",
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a concrete action plan and discussed potential barriers, agreeing to self-monitor progress. They express hope and motivation, showing readiness with commitment and taking-steps talk. Their confidence is growing, and they are using strategies to manage stress. The Choosing phase goals are met, and there are no signs of being stuck in circles.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating a checklist or journal is a fantastic way to keep track of your progress, and it’s great to hear that you have a plan for finding support when needed. It shows your commitment to making informed decisions and staying proactive. As you take these steps, remember that each action, no matter how small, adds to your progress. Keep nurturing that courage and hope. For now, let’s focus on the next step, like setting a time to reach out to the career center. I'm here to support you, and you can always reach out if you want to discuss your journey further. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support. I'll try to set a reminder to contact the career center this week and see where that leads. It's nice knowing you're here if I need to talk things over.",
+      "phase": "terminating"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined specific steps to address their concerns and has a plan for tracking progress and seeking support. The session has covered goal summaries and next steps, creating a natural conclusion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can’t afford this year and it’s making me so depressed \nI had a scholarship last year so I knew this was coming but had hoped I’ll find a solution. I applied to so many teaching positions but none led to anything. Except for one professor that hired me but because her class got low enrollment it was downgraded to a grader position so I don’t get the tuition waiver. I’ve applied to a few scholarships but decisions won’t come until later in the semester. I’m not sure if I should just continue with the semester hoping for things to get better. Going to class everyday feels like a chore. I feel like an imposter and wonder if I should be here. I’m considering taking a semester off but I was advised to just take the entire year off due to the nature of my program. I’m so happy to see all my friends and thinking I probably won’t be with them for the year hurts me. I’ve been applying to jobs as plan b but even that hasn’t bored any fruits. I’m so scared yall. Just needed to rant ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "wems6e",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're thinking about something. Would you like to share what's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! Yeah, I've just been feeling really anxious about my upcoming move. I'm worried about getting along with my new roommates, and it's been stressing me out a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's story, including their thoughts, feelings, and the context of their concerns. The client's anxiety about the move and roommates, along with potential solutions, have been discussed, indicating rapport and mutual understanding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Moving can definitely bring up a lot of anxieties. What do you think life might be like if your relationship with your new roommates turns out positive?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, if things go well, I think it'd be a huge relief. It would make settling in a lot easier and I'd probably feel more at ease in my new environment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a positive outcome if things go well with the roommates, indicating some level of Change Talk. Though there are concerns about assumptions, there's no specific change goal or significant decrease in ambivalence yet. No confidence level has been explicitly expressed, and the client is still weighing options.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Creating a positive relationship with your roommates could really contribute to a smoother transition. What are some qualities you hope your future interactions will have that might help you feel at ease?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): I really hope for open communication and respect. If we can all be considerate of each other's space and boundaries, I think that would help me feel a lot more comfortable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses anxiety about new roommates and a potential room change. Change Talk is present with hopes for positive roommate interactions. Discrepancy between current anxieties and desired positive experiences is noted. However, no specific change goal or confidence assessment was discussed, and ambivalence remains high about the room change decision.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Having open communication and mutual respect sounds like a wonderful foundation for your new living situation. On a scale from 0 to 10, how confident do you feel about fostering these qualities with your new roommates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): I’d say I’m probably around a 4 or 5. I want to be optimistic about it, but I’m still feeling pretty unsure and anxious about how it’ll all play out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing ambivalence and low confidence about their upcoming living situation, with anxiety about roommate compatibility. While the client has explored how positive interactions could ease their transition, they need more guidance to boost confidence and decrease ambivalence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Therapist (guiding): It's understandable to feel that way, especially with something new and uncertain. What do you think might help increase your confidence from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(exploring): Maybe getting to know them a bit more before we move in could help. If I can find some common ground or have a good initial conversation, I might feel a bit more confident about our interactions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses some Change Talk and has identified open communication and respect as desired qualities. However, confidence in fostering these qualities is low, and there's significant anxiety about roommate compatibility. Further exploration in guiding is needed to strengthen confidence and address ambivalence about requesting a room change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding common ground before moving in seems like a great step toward building that open and respectful relationship. What might be some topics or activities you think could help spark those initial conversations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess I could start with asking about their hobbies or interests, like what they like to do for fun. Maybe even something about classes or what they’re studying, just to keep it casual and relatable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both change talk and sustain talk, indicating ambivalence. Confidence is below 6, and while there's exploration of life with improved roommate relations, a specific change goal hasn't been clearly defined. Further guidance is needed to resolve ambivalence and strengthen confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): Those sound like excellent conversation starters that could help create a friendly atmosphere. How do you feel about trying out these topics during your next interaction with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): I feel a bit better about it, actually. It seems more approachable now that I have a few ideas in mind. Hopefully, it'll help ease some of the tension and make things feel less awkward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified qualities and strategies for fostering a positive relationship with roommates, but confidence is low (4 or 5) and ambivalence remains. While some Change Talk is present, specific change goals and decreased ambivalence are not fully evident. Confidence needs to reach a higher level before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling more comfortable with conversation topics can definitely make the idea of connecting with them more approachable. What do you notice about the difference in how you feel now compared to when we first started discussing this?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): I think I'm feeling a little more hopeful and less overwhelmed. Having a plan makes it seem less daunting, and I'm starting to see that maybe things won't be as bad as I initially thought.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and shows signs of increased hope and reduced anxiety about the upcoming living situation. However, their confidence remains below 6, indicating a need for further exploration and support in the Guiding phase to enhance readiness for actionable change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's wonderful to hear that you're feeling more hopeful and less overwhelmed. Recognizing that a small plan can make a big difference is a powerful realization. What do you think it would be like to carry this sense of hope into your future interactions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): Carrying this sense of hope into my interactions might help me stay more open-minded and willing to give things a chance. I think it could make me more resilient if things get tough, too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk and specific goals for fostering open communication with their roommates. Confidence is increasing but remains below 6, and ambivalence is still present as the client considers requesting a room change. Further exploration of outcomes and confidence building is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Embracing that open-mindedness and resilience sounds like a strong foundation for navigating any challenges that come your way. How does it feel to envision yourself approaching future interactions with this mindset?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): It feels reassuring to picture myself being open and resilient. I think it could really help me face any awkwardness or difficulties with a bit more confidence and less anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to express hope and confidence in engaging with their roommates, indicating a shift in perspective. They've identified specific conversation strategies and acknowledged a shift from feeling overwhelmed to hopeful. However, there isn't a clear specific change goal or plan yet, and confidence levels haven't been explicitly measured. Exploring further could consolidate readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Therapist (guiding): It's wonderful to hear that envisioning yourself in this way brings reassurance and boosts your confidence. How might this newfound confidence influence other areas of your life or goals you're working towards?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I guess it could help me tackle other social situations with less anxiety, like meeting new people in classes or joining clubs. It might also make me more willing to step out of my comfort zone, which is something I’ve been trying to work on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed increased hope and confidence in handling social situations, indicating a positive shift in mindset. Discrepancy between current feelings and desired outcomes is clear. The client is considering actionable steps, showing readiness to form specific plans. Change Talk is present, and the client reflects on carrying newfound confidence into other life areas. Thus, progressing to Choose seems appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's encouraging to see how this confidence could ripple into other areas of your life. Considering your interest in stepping out of your comfort zone, what small, specific steps do you think you could take towards that goal, perhaps in joining clubs or meeting new people in classes? Possible options might include attending a club meeting or introducing yourself to a classmate. How do these possibilities resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): They sound like good ideas. Maybe I could start by attending a club meeting that interests me, just to see what it's like. Introducing myself to a classmate seems manageable too, even if it's just a quick hello or asking about an assignment.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated specific steps to address their social anxiety and is considering action plans. They acknowledge their evolving confidence and its impact on broader life situations. They have discussed potential barriers and seem open to self-monitoring. However, they are exploring options for a room change, which may require further discussion before finalizing plans.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Those steps sound like a thoughtful approach to stepping out of your comfort zone. Attending a club meeting and saying a quick hello to a classmate are great starting points. What might be your next step in preparing for these interactions, and how would you like to track your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(exploring): I think preparing by doing a bit of research on the clubs that interest me would help, so I know what to expect. For class, maybe I could set a goal to say hi to at least one new person each week. Keeping a small journal or note on my phone to track these interactions might be a good way to see how I'm progressing and to reflect on how they made me feel.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to improve social interactions and has developed a concrete action plan involving attending club meetings and introducing themselves to classmates. They have also discussed potential barriers and agreed on self-monitoring through journaling. The client expresses confidence in their ability to take these steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out plan! Researching clubs and setting a goal to greet a new classmate every week is a great strategy. Tracking your progress in a journal or phone note can be a wonderful way to celebrate your wins and reflect on your experiences. You're building a solid path toward greater confidence and resilience. Remember, each step you take is a step toward the growth you're aiming for. Before our next session, focus on these small actions, and feel free to jot down any thoughts or feelings that arise. You're doing an incredible job, and we're here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and encouragement. I'll definitely try to keep track and see how it goes. Looking forward to updating you on my progress next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a summary of goals, steps, and coping strategies, and a next-step plan was discussed. The client is prepared to take small actions and reflect on progress, feeling supported and encouraged.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I try to request a room change?\nSo, I’m moving out in 10 days. I’m staying at an off campus apartment because all the dorms at my college are on a waitlist. I got randomly paired with 3 girls, 1 I talked to before and 2 more that I didn’t. I’m not so concerned about the one I touched base with before as I am about the 2 others. This one girl especially just doesn’t seem like the kind of person I’d get along with at all - I know I shouldn’t be making assumptions but based off what she told me and looking at her instagram she seems like an extroverted popular party girl type. Not to trauma dump but most of the people who bullied me in the past have been those kinds of people. The other one I still am unsure about but I literally know nothing about her, she might very well be the same kind of person. I really don’t know if I’m going to be comfortable in this kind of situation. I know it’s kind of unfair for me to judge these people without having even met them but I have a bad gut feeling and I’m really anxious. I don’t want my first year away from home to be a living hell because I’m not able to get along with these people. I know I could try to set boundaries but who’s to say they’ll listen? \n\nAnyways, Im thinking about calling the rental office and asking for a room change but I’m unsure. I don’t know if it’s worth it because what if I end up in an even worse situation or I somehow lose my placement? I really want to go with my gut here but I just don’t know. Plus it may be difficult with this being a private housing complex and not a dorm.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

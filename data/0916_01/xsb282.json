@@ -1,0 +1,137 @@
+{
+  "id": "xsb282",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello and welcome! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm feeling a bit unsure and maybe a little overwhelmed. I've been thinking a lot about my major and future career paths.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and concerns are still unfolding. We have insights into their feelings about a major change, but we need a deeper understanding of their motivations, potential barriers, and thoughts on career transitions. Empathy and rapport-building are still necessary to fully comprehend their situation.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major and career path can definitely feel overwhelming. Could you share more about what's been on your mind regarding your major and career options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've been second-guessing my choice to stick with chemistry. Lately, I'm drawn more to English and writing, but I’m not sure what that would mean for my career prospects.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including thoughts and feelings about changing majors and concerns about career prospects. The therapist has shown empathy, and the client has shared their primary concern in detail. Moving to the Guiding phase can help strengthen motivation and explore career options.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It seems there's a conflict between your current path and where your interests are pulling you. What do you imagine your life might look like if you were to follow your passion for English and writing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): I picture myself working with words, maybe editing or publishing, and writing my own stuff on the side. It's exciting to think about, but also kinda scary not knowing if it's a stable path.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering a shift to English and writing, envisioning a life aligned with these interests, and is planning to discuss it with their advisor. Exploration of life with and without change has occurred. Despite expressing concerns about stability, the client appears open to change.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It takes courage to explore what truly excites you. What are some small steps you think you could take to learn more about careers in editing, publishing, or writing? We can also discuss potential barriers like uncertainty about stability and how you might address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I could start by talking to professors in the English department or maybe reach out to people in the industry for informational interviews. I think I need to research more about what jobs are out there and how people manage writing alongside other work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan of reaching out to professors and industry professionals and is researching career options. Barriers such as job stability are recognized, and the client is motivated to explore further. However, specific strategies to address barriers have not been fully developed yet.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Those sound like proactive steps. Speaking with professors and industry professionals can provide valuable insights. As you consider these steps, what might be some challenges you anticipate, and how do you think you could manage them? We can work together to create an action plan and identify ways to overcome any barriers you might face.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I worry about not having enough experience or connections in the field, which could make it tough to break in or find opportunities. I guess managing my time between writing and other responsibilities is another concern. Maybe setting up a structured plan could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and outlined specific steps for exploring a career change, including informational interviews and research. Potential barriers, like lack of experience and time management, have been discussed, and the client suggested creating a structured plan to manage these challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've identified some key areas to focus on, like building experience, connections, and managing your time effectively. Setting up a structured plan is a great approach. You might consider starting with a small, manageable writing schedule that fits into your current routine. Reaching out to professors or professionals for guidance can help you build connections and gain insight into the industry.\n\nIt’s wonderful to see your determination and willingness to explore a path aligned with your passion. Remember, taking these steps at your own pace is perfectly okay. Your interest in learning more about potential careers and managing your current responsibilities is a sign of commitment and strength.\n\nFor your next steps, let's work on creating a weekly plan to allocate some time for research and networking. You can also list potential contacts to reach out to and set some goals around gaining experience, like volunteering for writing projects or campus publications. We can revisit your plan in future sessions and adjust as needed. You’re on a promising path, and I’m here to support you through each step.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan to get started. I'm a bit nervous about juggling everything, but I guess breaking it down makes it feel less overwhelming.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has adequately addressed the client's concerns by outlining goals, coping strategies, and a next-step plan. The client has expressed an understanding and readiness to proceed with these plans.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Changing major to English?\nI’m currently a chemistry major, but I’m seriously starting to consider changing my major. I have to register for classes for the spring semester soon so I think I’ll bring it up to my advisor there but I wanted other perspectives. I want to major in english with a concentration in creative writing. The only thing I could think of career wise would be teaching  but I don’t want to do that. Is it realistic to start my career as an editor and write a book on the ride to try and get a book published?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,221 @@
+{
+  "id": "10feoil",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm doing alright. Just feeling a bit torn about which lab to choose for my thesis. It's been on my mind a lot lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's narrative reveals detailed thoughts and feelings about their dilemma, the context of their decision, and their conflicted emotions about both options. Empathy and rapport can continue to develop, but the essential story and mutual understanding are clear.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like an important decision for you. What aspects of each lab are you considering that might influence your choice?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, with one lab, I love the research, but the environment and potential co-mentoring situation make me hesitate. The other lab has a great environment and supportive PI, but the research just doesn't excite me. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear preference for lab A's research and articulated specific concerns and advantages for both labs. While there is a demonstrated discrepancy between values and behavior, there is no clear change goal or next step expressed yet, and the confidence level hasn't been assessed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing research interests and the lab environment seems challenging. What values or goals do you think are most important to you in making this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I guess it comes down to wanting a fulfilling research experience versus having a supportive and comfortable environment. I really value being excited about the work I do, but I also want to feel like I'm part of a team where I can grow and learn comfortably.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their values and their current options, showing change talk about their priorities. They have explored life with and without change, and defined specific aspects they value in a lab setting. However, they haven't established a specific next step or goal yet, nor have confidence levels been explicitly discussed or measured.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing excitement for the research against the importance of a nurturing environment. How do you see each choice aligning with your long-term goals and the kind of experience you want to have during your thesis journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "That's the tricky part. With the lab focused on the research I'm passionate about, I feel like I'd gain more specialized knowledge and skills that could help in my future career. But then, the lab with the better environment might offer a more supportive experience and help me develop softer skills like collaboration and communication, which are also important. It's hard to decide which is more crucial right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their passion for research and the need for a supportive environment. Values and goals have been explored, but there is no specific change goal or plan. Ambivalence is still evident, signaling a need for further exploration.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Choosing between these labs seems like a choice between deepening technical expertise and enhancing interpersonal skills. How confident do you feel about navigating this decision, on a scale of 0 to 10, where 0 is not at all and 10 is completely confident?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I'd say maybe a 5. I feel stuck in the middle because both options have significant pros and cons, and it's hard to weigh them against each other. It's kind of overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still experiencing significant ambivalence and has a confidence level of 5, indicating uncertainty. There's a clear discrepancy between their values and the current decision-making process. More exploration of values, goals, and potential impacts of each choice is needed to solidify their motivation and confidence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding yourself at a 5 shows there's some confidence, yet room for clarity. What aspects of each option do you think could tip the balance for you, moving you closer to a decision that aligns with your vision for both your thesis journey and long-term career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(reflecting): I think if I felt more welcomed and supported in the lab with the research I'm passionate about, it could tip the scales in favor of that option. But if I found a way to connect the methods from the more supportive lab to my interests, maybe that could be a game-changer too. I guess figuring out which environment will best support my growth in a way that matters to my future is key.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated a clear discrepancy between their values and the options available, has actively engaged in exploring life with and without change, and has expressed some Change Talk. However, confidence is still at 5, indicating that more work is needed to clarify goals and confidence. While progress is evident, further guiding may help address ambivalence and solidify a specific goal.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): You're considering how feeling supported and having connections could impact your decision. What small steps might help you gather more information about these labs and see where you could foster that kind of growth and support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Maybe I could talk to some current students in both labs to get a better sense of their experiences and how they feel about the environment and support. It might also help to have a more in-depth conversation with the PIs about their expectations and how they see my role in the lab. Getting some real insights could clear up some of the uncertainty.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still exploring the complexity of the decision between the labs and weighing pros and cons. Change talk is present, but confidence is at a 5, indicating ambivalence. The client is considering steps to gather more information, indicating progress but not yet resolution. It's prudent to continue guiding to strengthen motivation and clarity.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Reaching out to current students and having deeper discussions with the PIs sounds like a proactive approach to gaining clarity. How do you feel about taking these steps to better understand which lab might be the right fit for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about it, actually. It seems like a practical way to gather more information and see things from different perspectives. Plus, talking to others might highlight things I haven't considered yet. It's worth a shot to help me feel more confident in my decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows a clear understanding of the options and has identified specific steps to resolve their ambivalence. Change Talk is present and there's a plan to gather more information. Confidence has increased through planning, even if initially rated as 5. They are ready to explore specific strategies, indicating readiness to move to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Exploring these perspectives sounds like a valuable strategy for clarity. As you consider reaching out, what specific questions or topics would you want to cover to ensure you gather the most insightful information for your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I'd definitely want to ask about how much collaboration and support there is among the students in each lab, and how approachable the PIs are when it comes to guidance and feedback. I'd also be curious about any challenges they faced and how those were resolved, as well as what they find most rewarding about being in their respective labs. Those insights could give me a clearer picture of what day-to-day life might be like.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to gather more information about the labs by speaking with students and PIs. They’ve identified key questions to explore potential barriers and committed to these steps, indicating readiness to take action. They've also shown confidence in this approach, and the conversation has progressed beyond circular deliberation.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You're really thinking ahead about who to reach out to and what to ask, which can provide a well-rounded view of each lab's environment. Exploring collaboration, support, and the approachability of the PIs will certainly help paint a clearer picture. It's great to see you considering both the challenges and rewards—understanding these aspects can truly guide your decision. As you move forward with these conversations, trust that you're taking positive steps toward a choice that aligns with your values and aspirations. Remember, it's okay to take your time with this process. You're doing an incredible job identifying what's important to you and seeking clarity in a thoughtful manner. If there's anything else you need, I'm here to support you on this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll definitely take my time with this and see where these conversations lead me. If I have more questions or need to talk, I'll reach out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps to gather necessary information and expressed readiness to proceed. They have been reassured, and a next-step plan is in place, indicating termination goals are met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help me decide on a lab!\nSo I have two labs, A and B. Our program (bio) makes us rotate prior to choosing our thesis lab. \nI’m really, really passionate about A’s research. A is a really good lab, PI has tons of funding, great connections, great facility, awards, etc. I rotated with A, told me to go rotate with C as well since they collaborate on the project I want to join. A is also really competitive to get into, so I agreed to rotate with C in a few weeks, even though it’s an engineering lab which I’m not into at ALL, but thought maybe it’ll help me understand A’s research better. Now I learn that if I join I might need to do a comentoring situation with both A and C which I’m really not into since I don’t want to get into biomedical engineering. Theoretically I could ask to stay solely in A if I don’t end up liking C when I rotate, but I’m not sure if that’ll seem odd since I agreed to rotating with C and if it will lower my chances of getting into A. Also, I’m not really a fan of the lab environment in A, it hasn’t been super welcoming from the other grad students, but the PI is a good mentor. I won’t get a lot of guidance since she wants independence, but I feel like it will be hard but make me a “better scientist.” Also, the PI will be retiring when the grant that I’m joining will finish, so theoretically we would be leaving at the same time, which I’m not sure if that’s a problem. \n\nOn the other hand, B is a good lab, has a great lab culture, I enjoy the methods used, really sweet PI that I feel comfortable asking questions to. BUT I’m not into the overall research topic at all, and really don’t want to be stuck in that field, and when I think about research I’m SO much more into A’s research. \n\nTLDR: Which lab should I join? The lab that checks all the boxes but I don’t like the research, or the one I really like the research, but has a lot of other problems",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "11cnfgh",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here today. What's on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been feeling a bit stuck thinking about my college situation and how poorly prepared I was from high school. I'm trying to figure out how to get back into it and do better this time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed story about their college preparation struggles and expressed concerns about returning to school. The conversation has established a foundation for empathy and rapport, with mutually agreed goals forming naturally as the client's motivations and context have been explored.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're considering some changes to improve your college experience. What's driving your desire to get back into college and do better this time around?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(reflecting): I think a big part of it is wanting to prove to myself that I can actually do it and not let my past experiences hold me back. Plus, I know that having a degree will open up more opportunities for me in the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to return to college with clear goals of self-improvement and future opportunities. Discrepancy between past and desired future is evident, and there's motivation to change. However, specific steps or confidence levels weren't discussed yet, and sustain talk is present, indicating ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You're focused on proving to yourself that you can succeed and recognizing the future opportunities a degree can bring. How do you see these changes impacting your life goals and what you hope to achieve?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): I think getting a degree would definitely boost my confidence and help me feel more secure about my future. Plus, it would give me more career options and a better chance to pursue something I'm passionate about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed strong Change Talk, focusing on personal growth and future opportunities. However, there's no specific next step or concrete plan mentioned yet. Confidence levels and ambivalence haven't been explicitly assessed, suggesting a need for further exploration in these areas.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Earning a degree seems to align well with your goals for confidence, security, and career pursuits. What small steps do you think you might take to start moving toward this vision of your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I'm thinking that maybe I could start by looking into some basic courses or even online classes to ease myself back into the learning groove. Also, I might try reaching out to academic advisors to get a clearer plan and see what options I have.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific motivations for returning to college and has identified potential steps to begin this process. They are motivated to improve their situation, acknowledging opportunities a degree brings. Change Talk is present, and the client has a clear idea of initial steps, showing readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring online classes and connecting with academic advisors are great initial steps. To create a concrete plan, would you like to set a specific goal, like researching courses or scheduling a meeting with an advisor this week? We can also discuss potential barriers, like time management or financial concerns, and how to address them. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a specific goal sounds helpful. I could aim to research some online courses this week and maybe set up a meeting with an advisor next week. As for barriers, I think time management might be tricky, but I can work on setting a schedule to make sure I'm staying on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals to research courses and meet with an advisor, and has identified time management as a barrier. They are considering self-monitoring by setting a schedule. There are signs of commitment and readiness to take steps. Barriers have been discussed with a strategy in mind. The client is showing confidence and a clear plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've identified some clear goals: researching online courses this week and scheduling a meeting with an advisor next week. Focusing on time management by setting a schedule is a practical approach to help you stay on track. Remember, it's all about steady progress and being kind to yourself along the way. Taking these steps will surely lead you closer to the confidence and security you desire for your future. Keep moving forward, and know that you're not alone on this journey. If you ever feel overwhelmed or need support, I'm here to help. Let's catch up next week to see how things are going and refine your plan if needed. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and support. I'll definitely keep pushing forward, and I'll see how it goes this week. Looking forward to catching up next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals and coping strategies, including researching online courses and scheduling advisor meetings. Future sessions will refine plans as needed. Closing the session is natural and allows for progress evaluation.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what can i do if high school severely under-prepared me for college?\nto summarize, my HS was a (very brand new) trade school that had a lot of issues with classes and credits when i was enrolled there. i graduated with pretty good grades and got into a college i wanted, but upon trying to register for classes, i realized i hadn’t even met the requirements to take prerequisite courses of stuff like english and math. let alone the complete lack of any extracurriculars, since they weren’t offered in HS. i got enrolled in some of the most base level courses in college and it really demotivated me and made me feel like i wasn’t getting anywhere. that plus mental health and a few other factors made me drop out half a semester into my first year. \n\nit’s been a long while since then and i’m thinking about going back, but i still only have what i had from HS and that’s it, not even personal portfolios or anything else. is there anything i should do before i try to reenroll? or is there any strategies i could try to do what i need while also not falling behind? thank you :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

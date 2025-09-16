@@ -1,0 +1,158 @@
+{
+  "id": "yp8rfo",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and understand your story.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I've been struggling a bit with getting things done on time. It's like I know what I need to do, but I just can't seem to start or finish things.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story reveals a struggle with procrastination, but further exploration is needed to understand the underlying thoughts and feelings, and to build empathy and rapport. The goals for the Exploring phase have not yet been fully met as we need more context and mutual agreement on goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It can be really frustrating to feel like you're stuck, even when you know what needs to be done. What do you think might be holding you back from starting or finishing tasks?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I think it's just a mix of feeling overwhelmed and easily distracted. There’s always something else that seems more interesting or urgent in the moment.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shared feelings of being overwhelmed and easily distracted, providing insight into their procrastination issues. The therapist has expressed understanding but hasn't fully explored the client's emotions or context. There's room for further exploration of underlying feelings and specific situations where procrastination occurs.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Juggling feelings of being overwhelmed alongside distractions can make it really tough to focus. You feel pulled in different directions because new things always seem to pop up. Can you share a bit more about what kinds of tasks or situations make you feel most overwhelmed or distracted?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): It's mostly school stuff, like big assignments or studying for exams. Sometimes even chores feel like too much, and then I end up scrolling through my phone or doing anything else instead.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly shared their struggles with procrastination, providing context about feeling overwhelmed and distracted, especially with school tasks. The therapist has shown empathy and understanding. However, mutually agreed goals haven't been clearly established yet, suggesting the need for further exploration.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Balancing school assignments and chores with distractions like your phone can really add to the feeling of being overwhelmed. It seems like when tasks pile up, it becomes harder to get started. Could you share any experiences you've had in the past where you were able to overcome similar challenges, or perhaps times when things felt more manageable?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I remember there were times when I made a to-do list and stuck to it, and that actually helped a lot. Also, when I broke down assignments into smaller parts, it seemed less intimidating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their struggle with procrastination, including feelings of being overwhelmed and distracted, and has identified contexts like schoolwork and chores. They have also mentioned past strategies that were effective, such as using to-do lists. Empathy and rapport appear to be established, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Creating a to-do list and breaking tasks into smaller steps really helped you feel more in control and less overwhelmed. How might incorporating those strategies again impact your current situation, especially with school assignments and chores?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think going back to those strategies could really help me stay organized and keep the stress down. It might make it easier to tackle things without feeling like it's too much all at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has recognized the effectiveness of strategies like to-do lists and task breakdowns to manage procrastination and stress. They've expressed motivation to apply these strategies again, showing readiness for change. Discrepancies between current behavior and goals are acknowledged, and the client displays increasing confidence. Change talk is present with a clear direction toward implementing past successful strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Bringing back those strategies sounds like a great plan to manage your workload. It seems like we could focus on setting a specific goal to start with. How about we choose one area, like school assignments or chores, to apply these strategies? We could create an action plan that incorporates to-do lists and breaking tasks into smaller steps. What do you think would be a good starting point, and are there any potential barriers you can anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): I think starting with school assignments would be a good idea since they stress me out the most. A potential barrier might be staying consistent with the plan, especially when I'm tempted to check my phone or do other things.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of focusing on school assignments and an action plan involving to-do lists and breaking tasks into smaller parts. The potential barrier, staying consistent, has been identified. The client expresses confidence in these strategies helping to reduce stress and stay organized. They are ready to implement self-monitoring strategies like switching off their phone to overcome distractions.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Focusing on school assignments sounds like a really solid starting point. I hear that staying consistent, especially with the temptation to check your phone, might be challenging. Let's think about how you can navigate that. Perhaps setting specific times for work and breaks could help, along with keeping your phone in another room when you're working. You’ve done this before, so you know it’s possible! \n\nMaybe we could make a small action plan together: Start by listing out assignments due soon, break them into smaller tasks, and set up a schedule that includes planned breaks. Remember to celebrate your progress, no matter how small. \n\nYou're capable of managing this, and it’s wonderful that you’re taking these steps. Next time, we can talk about how this is going, and adjust the plan if needed. You're doing great, and I’m here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "That sounds like a solid plan. I'll definitely try keeping my phone away during study times and see how it goes. Thanks for your support, and I'll let you know how it works out next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have discussed strategies and an action plan to tackle procrastination, particularly focusing on school assignments. A plan for next steps, including managing phone distractions, has been outlined, meeting termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: 6 Ways to Beat Procrastination in College\n \n\nMany college students often have a problem with procrastination or putting tasks on the back burner. It could be you have procrastinated completing that term paper which is vital to your final grade, doing your laundry or cleaning your room. Procrastination can easily prevent you from achieving your full potential. While it can be a hard habit to overcome, there are certain ways you can beat procrastination.\n\n1. Prepare a To-Do List\n\nThere’s a certain feeling of satisfaction that occurs when you check off a task on your to-do list. You should always try to prepare a list of tasks, school assignments, and other chores that need to be done. This helps you to stay on track and offers a confidence boost once you complete a task on the list.\n\n* Make a Routine\n\nOne of the best ways to beat procrastination is to turn responsibilities into habits. By making habits, you will train your mind to be focused on completing a task during specific days or times. For instance, if you make a habit of doing your assignments in the evening, when that time comes, you are able to remember to do your homework.\n\n* Divide Tasks into Smaller Pieces\n\nIf you have a long assignment, it helps to break it down into smaller pieces. The assignment will also seem less daunting if tackled in small bits. If you have a long essay to write, start with just preparing the essay outline. You can then write the body paragraphs in the coming days and edit the essay on a different day. This way, you are able to enhance creativity while increasing your attention span.\n\n* Get Help\n\nIf you have an assignment that is secretly giving you nightmares and you can’t simply gather the courage to sit down and start working on it, you can ask for help. You can [**get help with your essay**](http://tutorsnest.com/), term paper, dissertation, and other assignments online.\n\n* Switch off Your Phone\n\nYour smartphone can be a great source of distractions when you’re doing an important task. You will always be tempted to check social media pages and notifications on your smartphone while working on an important school assignment. This eats into your productive time and drains your mental strength and focus. Try to switch off your phone for a couple of hours when you’re busy doing something important.\n\n* Stay Focused on the End Goal\n\nWhenever you feel like procrastinating, try to imagine the awesome feeling that you get when you reach the finish line. Think of the feeling of receiving your degree. That thought alone can be a great source of motivation to complete important tasks in college.\n\nThere you go – the top 6 tricks to avoid procrastination for college students. They all boil down to planning your tasks meticulously and using your time wisely.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

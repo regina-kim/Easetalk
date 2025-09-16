@@ -1,0 +1,137 @@
+{
+  "id": "sgylpp",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and help with anything you'd like to talk about. What’s on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I'm just feeling really frustrated with how my grades are turning out this year. It feels like no matter how much effort I put in, I can't seem to figure out what my instructors want.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed context about their concern, including their past experiences, current challenges, and emotions. The essence of the client's story and their feelings of frustration and concern have been elicited. Empathy and rapport appear to be established, as the client is openly sharing their struggles and perceptions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It must be really challenging to feel like you’re putting in so much effort without seeing the results you want. What do you think is most important for you to achieve with your grades?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I just want to pass and get my degree at this point. I came into this program wanting to do well, but now it feels like just getting through it is the goal.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's frustrations and elicited Change Talk about wanting to pass and obtain a degree. A discrepancy between initial goals and current feelings was identified, yet no specific change goal or next step has been developed. Confidence wasn't assessed, and ambivalence remains about being able to meet instructor expectations.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Getting through and earning your degree has become the primary focus for you right now. What would it look like if things were different and you were achieving the grades you initially hoped for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): If things were different, I'd feel more confident in my work and like I'm actually learning something meaningful. It would be nice to feel like my efforts match the results and that I'm on track to get the grades I know I'm capable of.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear change goal of wanting to pass and get their degree, and there is evident Change Talk about wanting to feel confident and learn meaningfully. The conversation has explored life with and without change, and there is a discrepancy between their current frustrations and their initial aspirations. Given the clarity of goals and diminished ambivalence, it's suitable to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It’s understandable to want your efforts to reflect in your grades and to feel confident in your learning. Given where you are now, what steps do you think could help you to start bridging that gap between effort and results? Maybe exploring strategies to better understand your instructors' expectations or finding study methods that work best for you could be helpful. What do you think might work for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): Honestly, I think trying to talk more with my instructors could help, even though it's been tough to get clear answers from them. Maybe I should also work on finding some study methods that help me feel more organized and less overwhelmed. It’s hard to know where to start, though.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps such as communicating with instructors and finding better study methods, but lacks a clear action plan. Barriers and self-monitoring need further exploration. The client hasn't demonstrated sufficient readiness signals like taking-steps talk or confidence in their ability to change.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Talking with your instructors and exploring new study methods are both great starting points. How about we set a goal to meet with at least one instructor this week to discuss your challenges and try out one new study technique? We can also think about barriers, like feeling overwhelmed, and plan ways to manage those. What do you think would be a realistic step to take first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I guess I could try emailing one of my instructors to set up a meeting and see if they can clarify what they're looking for. For study methods, maybe I'll try breaking down my assignments into smaller tasks to make them feel less daunting. It sounds like a good way to start tackling things.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of passing and completing their degree and has made a concrete action plan, such as meeting with instructors and trying new study methods. They've discussed potential barriers, like feeling overwhelmed, and considered self-monitoring. Readiness signals like commitment to take steps are present.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Reaching out to your instructor for clarity and breaking down assignments into manageable tasks are excellent steps forward. It's a positive move towards feeling less overwhelmed and more in control. Remember, you're taking initiative, and that’s a big step. As you try these strategies, be gentle with yourself, knowing that progress, not perfection, is the goal. Let me know how the meeting goes or if you find a study method that really works for you. I'm here to support you in this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll try to set up that meeting and see how it goes. I'll keep you posted on how things are working out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed coping strategies, set actionable goals, and offered ongoing support. The client expressed a plan to contact instructors and try new study methods, indicating readiness for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Stressing out over inconsistent grading\nI did really well as an undergrad. If I put the effort in and listened to feedback, I'd get a good grade. If I tried to wing it, I'd get a bad grade. I got a top mark on my dissertation that year and felt good going into my masters.\n\nI'm at a new uni this year and my grades are always either very high or very low. I was just given feedback on a presentation I did, and one of the comments left for me was that I should be more thoughtful as a grad student, with no further context. I was also marked down for following the outline provided to us and not adding additional slides, which we weren't asked to do. This was one of 3 assignments we were given over Christmas, during which time staff were on leave and not answering emails. I'm losing respect for my instructors, and I am kind of dreading beginning my dissertation. This presentation was a proposal for my dissertation, and based on the grading, my advisor and the instructor who grades the papers are not on the same page.\n\nI don't know if I'm just being a baby over this, but I feel like I can't anticipate what my instructors are looking for and I'm worried about my dissertation. I have a few friends in the class who are getting similar marks and I know they're putting huge efforts into their assignments. At this point, I just want to pass and get my degree.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,284 @@
+{
+  "id": "10a9o9e",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you may have some thoughts or feelings you’d like to share. Whenever you’re ready, I’m here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hi, thanks for hearing me out. I’m just feeling really overwhelmed with all these decisions about my major. It’s like I’m constantly second-guessing myself and I’m worried about whether I’ve messed things up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their detailed thoughts and feelings about their major and future plans, including concerns about job security, enjoyment, and the pressure of potentially needing to restart their academic journey. The essence of their story and context have been elicited, and rapport seems to be building.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can be really challenging. What do you imagine your life might look like if you continue with your current major versus if you decide to change it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): If I stick with my current major, I worry I might not be happy or satisfied with the career outcomes. But if I change it, I'm scared I might fall behind or end up in a field I know less about. It's just hard to know which path will lead to fulfillment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is engaged in exploring potential life paths with and without change, demonstrating ambivalence. However, specific change goals or steps and confidence assessment are not yet present. Change Talk needs further development before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating these possibilities sounds tough. When you think about what fulfillment means to you, what aspects of a career or life come to mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): I guess fulfillment for me would mean feeling excited to go to work, like I'm doing something meaningful and challenging in a good way. I also think about having financial stability and knowing that what I'm doing is appreciated or makes a difference somehow.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client discussed their concerns and envisioned life with different majors, including considering fulfillment aspects. They expressed worries but also interests in new fields, indicating some Change Talk. However, no specific change goal or strategy was established yet, and ambivalence is still present.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Those are important values to consider. As you reflect on these feelings of excitement, meaning, and stability, how do you see these fitting into the choices you're facing with your major?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): When I think about excitement and meaning, my interest in geology and business comes to mind, because they seem like they would offer those challenges I enjoy. But then, I stress over whether they’ll give me the stability and appreciation I’m looking for. It feels like a constant back and forth.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses a strong discrepancy between their values and their current academic path, with clear reflections on life with and without change. Change Talk is present, and specific potential majors (geology, business) are considered steps. The client still shows ambivalence but is moving towards clarity. Continued guidance may help solidify these emerging preferences.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems you're weighing both excitement and stability as key factors in your decision. How confident do you feel, on a scale from 0 to 10, about making a choice that aligns with these values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(exploring): Hmm, maybe around a 4 or 5? I feel like I have an idea of what I want but not enough clarity, and the fear of making the wrong choice keeps pulling me back.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is actively engaging in Change Talk by identifying their concerns and desired outcomes. However, their confidence level is 4-5, indicating moderate uncertainty. Ambivalence about choice consequences is still present. The client hasn't set a clear change goal yet, suggesting the need for further exploration and motivation strengthening in the Guiding phase before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Your awareness of what's important to you is a solid foundation. What might increase your confidence and help you gain clarity in aligning your major with your values of excitement and stability?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think talking to more people who are in those fields might help, like getting a better sense of what the day-to-day looks like and the opportunities available. Maybe also trying out more classes in those areas to see if they really match what I'm looking for.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows ongoing ambivalence about their major choice, with concerns about excitement, meaning, and stability. Although they have expressed some Change Talk and identified steps to increase clarity, their confidence level is still low (4-5). Further exploration is needed before moving to specific action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): Exploring those fields further could provide valuable insights. How might connecting with professionals or trying new classes influence your feelings of confidence and clarity about your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Connecting with people in the field could definitely give me a better perspective and maybe ease some worries about job stability and satisfaction. Taking more classes could also help solidify whether I'm genuinely interested in those subjects or just curious. It might boost my confidence to know I've explored all avenues before making a decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific values but hasn't identified a clear change goal or next step, and confidence is moderate. Ambivalence about career choices remains. The client explores options to increase confidence but hasn't fully resolved the discrepancy between current and desired states.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "By gathering more information, you're really taking steps to align your choices with your values. What strengths do you think you can draw upon as you pursue these insights and experiences in geology and business?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(exploring): I think I'm pretty good at being open-minded and adaptable, which helps when exploring new fields. I'm also a good communicator, so reaching out to people for advice or mentorship feels like something I can do well. Plus, I have a genuine curiosity that keeps me motivated to learn more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying potential steps like connecting with professionals and taking classes to explore their interests in geology and business. However, their confidence level is still at a 4-5, indicating ongoing ambivalence. More work is needed to increase confidence and resolve uncertainty before action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Your openness, adaptability, and communication skills are great assets in this exploration. How do you see these strengths supporting you as you continue to seek clarity and direction in your career path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think these strengths will help me not only connect with people and gather insights but also keep an open mind to new opportunities I might not have considered. Being adaptable means I can adjust my path if needed without feeling too thrown off track, and my curiosity will keep me engaged in learning, which feels important for making a well-informed decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown increasing self-awareness about their values and concerns, discussed potential steps for gaining clarity, and identified strengths supporting exploration. However, confidence is still below 6, and there's no clear commitment to a specific change. Continuing in Guiding can help reinforce their confidence and decision-making process.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your ability to stay open and adaptable, combined with your strong communication skills, really sets you up for success in exploring these paths. As you continue gathering insights and learning, how do you envision these strengths playing a role in achieving that balance between excitement and stability?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think these strengths will keep me grounded while exploring different options. They'll help me adapt to whatever information I find, whether it leads me to geology, business, or something else entirely. Staying open and curious can ensure that I’m not just jumping into something for the sake of it, but really finding a path that feels exciting and stable in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "While the client is exploring their strengths and potential paths, the conversation reveals ongoing ambivalence and a confidence rating that remains below 6. Discrepancies between behavior and values have been discussed, and insight into personal strengths has been acknowledged, but specific change goals or decreased ambivalence are not yet evident. Continuing in the Guiding phase could further clarify confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your perspective of staying grounded and adaptable is truly insightful. As you explore and gather more information, what aspects of either geology or business are you most excited to dive into, and how might these align with your vision of an exciting and stable future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'm really excited about the prospect of working on environmental issues in geology, like understanding earth processes and contributing to sustainability efforts. On the business side, I'm intrigued by the idea of strategy and management, where I can use problem-solving skills to help companies grow and evolve. Both seem to offer that mix of excitement and stability I'm looking for, and diving deeper into these areas might help me see which aligns better with my future goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific interests in geology and business, aligning these with their values of excitement and stability. Change Talk is present with a clear interest in exploring these fields. Confidence appears sufficient, as they are actively seeking clarity and direction. The exploration of life with and without change has been addressed. Thus, they are ready to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your excitement about environmental issues in geology and strategic roles in business shows how aligned these fields are with your values. As you consider your next steps, it might be helpful to set a goal to connect with professionals in these areas or enroll in specific courses. For instance, you could aim to arrange informational interviews or attend a workshop or class in each field. What are your thoughts on creating an action plan to explore these interests further, and how might you track your progress in doing so?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Having a clear action plan sounds like a good approach for me right now. I think setting up informational interviews could give me real-world perspectives, and attending workshops or classes will provide hands-on experience. To track my progress, I could make a checklist or timeline to ensure I'm consistently moving forward and not getting stuck in indecision.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to explore geology and business through informational interviews and workshops, along with a self-monitoring plan using a checklist or timeline. Their commitment and confidence are evident. The client is prepared to move forward with action steps to resolve concerns about their academic and career path.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Creating an action plan with a checklist or timeline is a wonderful way to maintain momentum and keep you focused on your goals. Your proactive approach of setting up informational interviews and attending workshops will surely provide you with valuable insights and experiences. Tracking your progress can be a great motivator and help you stay on course as you explore these fields more deeply. You're really taking charge of your journey, and that’s commendable. Remember, I'm here to support you as you take these steps, so feel free to reach out if you want to discuss your progress or any new experiences along the way. Keep embracing your curiosity and insights as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I really appreciate your support and knowing I can check in with you as I go. I'll definitely reach out if I hit any bumps or need to talk through things.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized the client's goals, strengths, and next steps with an action plan for moving forward, meeting the termination goals. The client is clear on their path and feels supported for future progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I feel like I screwed myself over freshman year and now I’m panicking.\n\nSo going into college I was dead set on majoring in political science. I liked it in college, I want to go into law, it seemed natural. But the more I researched and took classes I didn’t feel like it was worth it. There didn’t seem to be a lot of job security with higher pay like I was looking for, and so I wanted to switch. I really enjoyed my geology classes and it seemed like that was the route to take. But I have always wanted to double major and never even considered just majoring in one thing. So I was going to do polisci and geology.\n\n\nBut still, even after last semester, polisci just didn’t give me good feelings. I took a business class and I loved it. It was difficult but I felt like it was a fun kind of difficult that I felt proud of myself for figuring out over time. I then started thinking, would it be bad if I majored in geology and something business related? I was also looking into computer science as I love computers and such but might be going in over my head. I feel like it’s late in the game and I’m planning on transferring so I don’t want to have to restart as a freshman. \n\n\n\nIs it too late to do this? My biggest concern is transferring, as I really don’t know if switching now would be an option. I’m a sophomore planning on transferring in the fall, but this is making me sick to my stomach.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

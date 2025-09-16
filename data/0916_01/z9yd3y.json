@@ -1,0 +1,116 @@
+{
+  "id": "z9yd3y",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today? Feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I've been feeling a bit stressed about choosing a major. I mean, I really want to do screenwriting, but it's not exactly a stable career, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, thoughts, and feelings about choosing a major. However, more exploration is needed to understand the client's values, motivations, and further context, as well as to establish mutually agreed goals. It is still early in the dialogue phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can definitely bring a lot of pressure, especially when you're passionate about something like screenwriting but worried about the stability. What's drawing you to screenwriting, and what are some of the concerns you have about it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I just love storytelling and movies, and screenwriting feels like a natural way to combine the two. But I've heard it's really hard to make a living off of it, and I don’t want to end up struggling financially.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story around their concerns about choosing a major and interest in screenwriting has been clearly elicited, including the relevant context and feelings. Empathy and rapport are evident, and there is a mutual understanding of the client's goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Your passion for storytelling and movies shines through, and it's understandable to worry about financial stability. What do you think life might look like if you pursued screenwriting, and how does that compare to a path that feels more secure?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): If I pursued screenwriting, I imagine it could be really exciting but also unpredictable in terms of income. A more secure path would probably mean a steady paycheck, but maybe less excitement and creativity day-to-day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation successfully explored the discrepancy between the client's passion for screenwriting and concerns about financial stability. The client has reflected on life with and without change, demonstrating a clear understanding of the trade-offs. The client has expressed interest in screenwriting as a goal, suggesting readiness to consider specific plans or strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Considering both your passion and the need for stability, one option could be exploring screenwriting while also preparing for a more secure role that might support your financial needs. What small steps could you take to balance your interest in screenwriting with exploring other career possibilities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): That's a good idea. I could maybe join a screenwriting club or work on my scripts during my free time. For the stable career part, I could explore majors that I find interesting and that aren't too math-heavy, like communications or journalism.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal of pursuing screenwriting while considering a more stable career path and has identified concrete actions like joining a screenwriting club and exploring majors like communications or journalism. Barriers and self-monitoring strategies have been discussed, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "therapist(closing): Balancing your passion for screenwriting with exploring stable career options sounds like a thoughtful plan. Joining a screenwriting club and working on scripts in your free time lets you nurture your creativity, while considering majors like communications or journalism could offer a stable path without math as a primary focus. I’m really impressed with how you’re considering both excitement and security in your decision-making. As a next step, perhaps checking out clubs or introductory classes in both areas might help you feel more informed. Remember, you're on a journey, and it’s okay to explore different paths. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks for helping me see it that way. I’ll definitely look into those options and try out a club or two.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively addressed the client's concerns about balancing passion and stability, outlining steps to explore screenwriting alongside stable careers. Next steps were discussed, providing closure and direction, making it natural to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Don’t know what major I want yet.\nOk background, I’m a current freshman in college and I’m undecided. However, I know for a fact that I want to pursue a career in screenwriting. The only problem is that screenwriting is impossibly hard to break into and not very consistent money so I don’t plan on getting a degree in it. What kind of degree should I take on so I can hold a steady job that’ll let me be able to afford living while writing on the side? Please no STEM recommendations my math and science grades throughout high school hovered around high C’s.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

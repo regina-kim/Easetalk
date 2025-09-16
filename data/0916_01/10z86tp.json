@@ -1,0 +1,263 @@
+{
+  "id": "10z86tp",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and explore whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really alone lately and it's been getting to me. I'm worried because I'm not used to talking to new people and I'm starting to think it's affecting my social life.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of loneliness and concerns about social skills due to limited in-person interactions. The therapist should continue exploring to further understand the client's thoughts, feelings, and context before moving to the guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "You’re experiencing loneliness, and it’s concerning for you because connecting with new people feels challenging. Can you share more about what's been happening in your social life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I mostly hang out with the same group of friends, but we rarely see each other because of our schedules. I haven't really made any new connections in classes since everything's been online, so I'm kind of stuck not knowing how to branch out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about loneliness and social challenges, providing context on their social life and feelings. The therapist has shown empathy and understanding. The exploration has achieved a clear understanding of the client's thoughts and feelings, and goals have been implicitly agreed upon.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like your current situation is leaving you feeling a bit isolated, and the switch to online classes isn't helping with meeting new people. How do you envision life might be different if you were able to make more connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Honestly, I think it would feel a lot less lonely, and I'd probably feel more confident. I wouldn't be overthinking interactions as much, and it'd be nice to have some new faces to hang out with, especially with people who share my interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the desire for change and identified potential benefits of making new connections. Change Talk is present in their envisioning of less loneliness and increased confidence. However, specific change goals and strategies have not been fully developed, and ruling out ambivalence is necessary. Further exploration is needed to solidify the client's confidence in their ability to make these changes.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Meeting new people who share your interests could definitely bring more confidence and ease into your life. On a scale of 0 to 10, how confident do you feel about reaching out and forming new connections right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 3 or 4. I know it's something I need to do, but the idea of actually doing it feels pretty daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has envisioned a potential positive outcome. However, their confidence is low at 3 or 4, indicating significant ambivalence remains. Change Talk is present but not strong enough, and no specific change goal or next step has been clearly identified. Further exploration to increase confidence and clarify goals is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Taking that step can indeed feel daunting. What's one thing you've considered doing that might help move your confidence closer to a 5 or 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I've thought about joining a club or group that aligns with my interests, like maybe a language exchange or a hobby club. It seems like a less intimidating way to meet people since we’d already have a common interest to talk about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a change goal of joining a club to meet new people but still has a low confidence level of 3-4. Ambivalence remains regarding forming new connections, and the client has not yet shown readiness to make specific plans. Therefore, continue in the Guiding phase to further explore confidence and readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Considering joining a club or group is a wonderful idea, especially since you'll be connecting over shared interests. What values matter most to you when joining a group, and how might those values support you in feeling more at ease?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think inclusivity and openness are really important to me. It would help to be in an environment where people are welcoming and understanding, where I wouldn't feel judged for being a bit awkward or shy at first.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change and identified joining a club as a potential step forward. However, confidence remains low at 3-4, and ambivalence about social skills persists. The client has not yet set a specific change goal or action plan, indicating the need to continue exploring readiness and building confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling welcomed and understood can make such a big difference, especially when you're just starting out. How might these values of inclusivity and openness guide you in choosing a group or club that feels right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I'd probably look for groups that emphasize a friendly and accepting atmosphere in their descriptions or maybe even ask around to get a sense of how welcoming they are. I think knowing that people are open-minded and non-judgmental would make it easier for me to approach them and get comfortable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed both ambivalence and motivation for change, considering joining clubs to alleviate loneliness. Confidence is currently low (3-4), and actionable steps are being explored, but no specific plans are yet established. There is some sustain talk about difficulties in making new connections, indicating further exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Looking for groups that promote a friendly and accepting atmosphere sounds like a thoughtful approach to finding the right fit. What would it mean for you to be part of such a group, and how might that influence your confidence over time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(exploring): Being part of a group like that would probably make a huge difference. I'd feel more comfortable being myself and interacting with others, which could slowly build my confidence. Plus, having a regular place to go where people are welcoming might make me look forward to socializing more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of joining a club or group to alleviate loneliness and build confidence. They have shown awareness of their values and how these can guide their choices. However, their confidence level is currently 3-4, indicating they still need more support to strengthen their motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(guiding): Being in a group where you feel comfortable and accepted could indeed nurture your confidence and make socializing something to anticipate. What small step could you take this week towards finding or visiting such a group?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I could start by researching clubs on campus or looking at bulletin boards to see what interests me. Maybe I'll reach out to one or two groups online or attend a virtual meeting to get a feel for them before going in person. That way, I can ease into it without feeling too overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change steps, such as researching clubs and attending virtual meetings, indicating a clear direction towards addressing their social concerns. Values that guide these choices have been explored, and the client has shown decreased ambivalence about taking action. However, their confidence remains low, below a 6, suggesting they are not fully ready to move to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Researching clubs and attending a virtual meeting first sounds like a very manageable step to ease into socializing. How do you feel about taking this initial step, and what might help you stay motivated throughout this process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): I feel a mix of nervousness and excitement about taking this step. It's something new, but I know it could lead to positive changes. Staying motivated might come from reminding myself of the potential benefits, like making new friends and getting more comfortable with social interactions. Plus, keeping the end goal in mind—feeling less lonely and more connected—could keep me pushing forward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear change goal of joining a club or group, expressed values like inclusivity, and discussed steps to attend meetings. Change Talk and confidence are present, and ambivalence is decreasing. The client shows readiness to take steps towards change.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your mix of excitement and nervousness is completely understandable, and it's wonderful that you're keeping focused on the potential benefits. Setting a small goal, like researching a couple of clubs this week, could be a great place to start. Based on what you've mentioned, would creating a list of clubs that catch your interest and then aiming to attend at least one virtual meeting next week be a helpful plan? What possible barriers do you anticipate, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Creating a list and aiming to attend a virtual meeting sounds like a solid plan to me. The main barrier I anticipate is probably feeling too nervous or overwhelmed at the thought of joining new groups. To address that, I might remind myself that everyone was new at some point and that it’s okay to take things at my own pace. Maybe having a friend check out a group with me could also make it less intimidating.",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and concrete action plan involving researching clubs and attending virtual meetings. They have discussed potential barriers and considered strategies like reminding themselves of shared experiences and involving a friend. They express a mix of nervousness and excitement, acknowledging the potential benefits and motivation. Their readiness is indicated by commitment to the plan and confidence to address barriers.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having a friend check out a group with you is a great strategy to ease any nervousness. It's true—everyone starts as a newcomer, and giving yourself permission to go at your own pace is so important. Remember, each step you take is progress, no matter how small it feels. This week, focus on putting together that list of potential clubs and perhaps reaching out or attending one virtual meeting. You're building a foundation for more connection and confidence, and that's something to be proud of. If at any point you need support or want to share your experiences, feel free to reach out. Keep reminding yourself of the positive changes ahead, and trust in your ability to navigate this exciting journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Thanks, I really appreciate that. I'll definitely work on the list and see if I can gather the courage to check out a meeting. It's nice to know I have support if I need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan, including strategies to overcome potential barriers. They feel supported and have been encouraged to reach out if needed. The session has effectively addressed concerns and provided direction for next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I haven't been taking in-person classes, is my social life screwed?\nI'm in the middle of my 3rd year, and I have only been taking one class in person the last 2 years (and it's my second language class, which no one is fluent in so we can't exactly hold conversations)\n\nIt had only just dawned on me how alone I've felt these past 3 years. (I have a group of friends, but we can't hang out much due to our schedules.) And this loniness has only gotten worse. But the thing it, I also realized I don't even know how to talk to new people. I've never needed to in years. \n\nI'm going to take in person classes next semester, but I feel like I won't even be able to talk to people since I just don't know how, I haven't had practice with it.\n\nI'm scared of feeling even worse though, what if I do take in person classes and I'm still lonely... then what? Am I just screwed?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "tes33g",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's been on your mind lately? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I've been thinking a lot about my major and whether I should stick with physics or switch to biology. It's been a bit overwhelming, and I'm just trying to figure out what's best for me mentally and academically.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's narrative is rich, detailing their passion for physics, ongoing struggles, interest in biology, and thoughts on mental health. They provided context about their educational history and current academic challenges. There is rapport, but mutually agreed goals have not clearly emerged yet. The conversation hasn't yet explored the client's potential goals and motivations in depth.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Deciding on a major can indeed be challenging. What aspects of physics and biology are you drawn to, and how do they align with your goals and interests?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I love how physics explains the universe and the satisfaction of understanding complex concepts, but the workload has been intense. Biology feels more directly engaging and tangible, and I think it might be better for my mental health right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has provided an in-depth narrative of their concerns, motivations, and feelings about their major. They've shared their experiences, challenges, and future aspirations, as well as their mental health considerations. Empathy and rapport appear to be established, and mutual goals are emerging.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Physics seems to bring you a sense of wonder, while biology offers a more manageable path for your well-being. How do you see each path influencing your future goals and the kind of life you'd like to lead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): With physics, I think I'd gain a lot of analytical skills and maybe contribute to big scientific discoveries, which is exciting. With biology, I feel like I'd have more immediate applications, maybe in neuroscience, where I can help people directly. It's tough because I really want to make a difference either way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear interest in both physics and biology, and they are considering a switch for mental health reasons. They have explored the pros and cons of each path and expressed a potential goal of working in neuroscience. Change Talk is present with decreased ambivalence, but no specific next steps or confidence level have been discussed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Both paths offer unique opportunities to contribute meaningfully. What aspects of making a difference resonate most with you when you think about the future you envision for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): I think what resonates the most is being able to help people and have a direct impact on their lives. That's why neuroscience is appealing because it seems like a nice blend of both physics and biology, and it's about improving people's health and understanding the brain better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change talk by identifying neuroscience as a blend of their interests, showing reduced ambivalence towards biology, and has a clear goal to implement new strategies. The client also identified neuroscience as an appealing career path and feels motivated to explore this option further.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It’s wonderful you’re thinking deeply about how to make a difference. Considering your interest in helping people and your fascination with both physics and biology, exploring neuroscience further might be a path worth considering. Would you like to set a goal around researching neuroscience programs or speaking with professionals in the field to gather more insights?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. I'd love to learn more about neuroscience and see how I could fit into that field. Setting a goal to research programs and talk to people already working in neuroscience could really help me figure things out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in neuroscience and agreed to set goals around researching programs and speaking to professionals, indicating commitment. They have acknowledged barriers and are actively seeking solutions like new strategies and tutoring. Confidence and readiness are evident in their determination to explore neuroscience. Thus, it seems appropriate to advance the process.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've really honed in on neuroscience as a potential path that bridges your interests while aligning with your desire to make a direct impact. Committing to researching programs and speaking with professionals is a proactive step forward. Exploring these resources can provide you with valuable insights and clarity. Remember, taking small steps like setting aside time each week to research or reaching out to a professional for an informational chat can be incredibly effective. Trust in your ability to navigate this journey thoughtfully. I'm here to support you as you explore these options and move toward your goals.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(terminating): Thanks for the encouragement! I'll definitely start setting aside some time each week to dive into this. It's a bit daunting, but I know it'll be worth it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in setting a goal to research neuroscience, aligning with their interests and future aspirations. Steps and support systems are discussed, indicating readiness to conclude the session positively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Physics, Biology: Dilemma on whether I should switch my major ft. mental health\nTLDR is at the bottom as well as my questions. This turned out very long, I apologize.\n\nTo start out i would like to say this: I love physics, ever since i was in elementary school i've loved physics phenomena, lasers, optics and had marvelled at the fact that we can explain so much about the universe. I took physics as one of my Leistungskurse (elevated courses with more hours in German high schools), did my hs graduation exam in it and finished with an excellent score. I really did enjoy it all the way and our teacher was super chill and supportive, in general all my physics teachers were very cool and made our lessons fun with many very interesting experiments. It's a language that we can explore the universe in and that makes it very exciting.\n\nSo it's no wonder i went into university pretty determined on physics, however i didn't make my decision based on one specific job i wanted to do, but coming from a thirst for knowledge.\n\nIn high school, my strategy was to pay attention in lessons and thoroughly write everything down and take notes. I wasn't the kid that caught up to everything the teacher said in the lesson and when preparing for exams or revising I would sit and go through everything by myself. This was a very good method for me personally because i could understand the concepts and their connections in my own pace and understand things through my own methods. It might sound weird that the kid who was regarded as one of the top students sometimes couldn't have answered the most simple questions on a new topic, but that's how it was, i just needed the time.\n\nBut ever since the bridge courses before the semester i've been struggling. I'm told that it's normal for first years to feel like everyone around you knows everything and only you are behind, but after a semester the feeling is still strongly there. I will admit I have made many mistakes, like starting the more in-depth math courses from the beginning and not revising after every other class. As the workload was immense, I barely slept in the first two months. This in turn lead to me barely being able to stay awake in class and tutorials. I acknowledge these mistakes and have already made adjustments to lighten the load.\n\nNow, as for uni, the sheer amount of stuff we have to learn, on our own, at my university -which might be a normal amount, given this is university- is a lot to approach with my method. We were advised to study in groups and do our weekly exercise sheets together, and though I had some moments of victory where I could do one exercise, mostly it consisted of the other students talking about the topic like they understood it really well while I sat there and listened for any coherent crumbs of info and sometimes asked for a tip on how to proceed. Admittedly this was not a good method and I found some people closer to my pace who I could study with, but they weren't always there or we ended up sitting with our sheets well into dusk. So by the time I got home I was tired and turned to my phone for an escape lot of the time. Now I know that delaying catching up with our topics is a bad strategy due to time and the amount of material. But it seems like it's good if i take the time to catch up and revise by myself, also because the way things are explained in class don't always work for me.\n\nAs for the social aspect of it, there wasn't really a time where I felt that I fit in or that I have much in common with anyone there except maybe when we were talking about art. I also found myself rethinking my choices a lot. I missed my friends and my family immensely and honestly struggled to feel human at times. I haven't really been able to find the motivation to study beyond the desire to get through another week.\n\nWhen I look into what kind of scripts belong to classes in later semesters, the topics seem interesting, still it's pages of text with about the same amount of equations which i'm sure contain so much interesting and informative stuff.. Still right now that aspect of \"woah that's so cool\" is kind of missing. Maybe that will come later, i figure when we get to more stuff that's beyond mechanics.\n\nI suspect I might also have ADHD and may be nd in other ways which i will get checked out with a professional if i am able to. So to be clear i'm not self diagnosing, but i'm constantly reading up on these subjects and honestly everything seems to make so much more sense.\n\nSo that's a little bit on how I have felt about my first semester of physics.\n\nThe thing is, beside physics, I'm also very interested in biology. Our university has a small biology faculty and it seems to be much cozier than 200-300 people in physics. The longer i've thought about it, the more i find myself interested in life and the parts of science that deal with living things. I took biology as a Basiskurs (a course that has less lessons and is more simplified compared to Leistungskurs) and I loved it. At school i've done several presentations in both physics and biology (and ethics) and I loved doing those, I find it's so much fun to research things and share them with others in a way that's engaging and comprehensive. I watch science videos and listen to podcasts in my free time as well, like Scishow (both vids and podcasts) and books like The Selfish Gene (that i found super interesting and recommend!!), and generally beside physics, a lot of them have a lot to do with biology. I find that these pieces of media don't overwhelm me and i want to know more about them, in general all kinds of stuff that have to do with life feel like tangible things to me and they kind of fall into place in the big scheme of things. I hope i phrased that in a way that's understandable.\n\nI will implement new strategies in the coming semester and am in the process of hopefully getting a private tutor. I'm determined to go through my second semester in physics and reevaluate things after, but the way things are looking for me mentally right now, i think going with something that is naturally and directly engaging and has a sense of novelty and many little rewards that are directly applicable (so: biology) would lighten the load for now. Going into uni i talked with some advisors from both faculties on doing two bachelors, they said it was possible but i should rather wait. I would even consider doing them one after another with no overlap (of course i'd have to start working a job too eventually, to afford rent and basic expenses, right now i have a very amazing scholarship and mainly my parent's support paying for that)\n\nThe direction that would unite like, almost if not all of my interests well (given my current level of being informed) would be neuroscience. I think it's just in the sweet spot between big stuff and small stuff -ie. humans between particles and the universe and it has that direct application to life that i'm looking for as well as physics and biology. My dad is a surgeon and he has inspired me a lot to look into things that have to do with humans and with medicine, and when we learned about the brain in bio in hs i was always like \"heh i can't wait to learn more about this\". So far it's been the most definite career that i could see myself pursuing in the area of science. I want to help people and i want to feel like i am needed.  \nI still wish to pursue physics, because i love it after all and I Want To Understand Those Things!!!!(tm) also the experience and learned methods are definitely very valuable and give good prospects. I know it will remain a passion. But maybe it could be better to do it when I have the resources, support system that i also have control over, and maturity to do so.\n\nTLDR: first semester of physics was a lot to handle partly because of inexperience and partly because it's A Lot, took a toll on me mentally. Implementing new and improved strategy for second semester, will see how things turn out. However, also want to do biology at one point, maybe doing it earlier would benefit my mental wellbeing more? Would love to combine both in future job, not sure of the road to there though.\n\nQuestion to you: Have you had any experiences like this? Is it worth it to keep pushing? Will things change?  \nAlso: if you have experience starting out in physics and then going into biology later (maybe even not from a bachelors, like from a masters with overlap in bio or a job) how is that road?\n\nThank you kindly if you read this far and if you have any questions i'd gladly answer, I know my points are a little bit all over the place.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

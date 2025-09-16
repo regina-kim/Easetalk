@@ -1,0 +1,179 @@
+{
+  "id": "sglgt5",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been really stressed about this econ class I'm taking. I'm worried I might fail it, and it's been weighing me down a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concern about potentially failing an economics class, offering context about the professor's lectures and exams. There is a sense of fear and stress, but the conversation hasn't fully explored the client's thoughts and feelings nor established a clear mutual goal. Further exploration is needed to understand underlying issues and build rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like this econ class is causing you a lot of stress and worry about failing. Can you share a bit more about what's been challenging for you in the course?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Yeah, it's just that the lectures seem confusing, and I feel lost after class. Plus, I've heard the exams are tough, which doesn't help my confidence at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared concerns about feeling lost in lectures and fear of failing due to difficult exams. Their emotional response to potentially failing has been expressed. However, more exploration is needed to fully understand their coping mechanisms and underlying feelings.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be overwhelming to feel lost and uncertain after lectures, especially with the pressure of tough exams on your mind. What have you tried so far to manage or understand the course material better?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: I've tried going over the textbook and my notes after class, but it doesn't always help. Sometimes I ask friends for help, but I'm still not feeling confident about the exams.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed concerns about their stress related to a challenging econ class, including specific difficulties with lectures and exams. Empathy and rapport are evident, but mutually agreed goals have not yet emerged.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you've been really proactive in trying to understand the material better by reviewing notes and reaching out to friends. Despite your efforts, the confidence about the exams is still a challenge. What do you think makes it tough to feel more secure in your understanding?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think part of it is that the way the professor explains things just doesn't click for me, and sometimes I worry that I'm not catching on as quickly as others. Plus, the pressure of knowing the exams are tricky just adds to the anxiety of not fully grasping the material.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared in-depth about their struggles and feelings regarding the econ class. The therapist has shown empathy and understanding. The client is aware of the issues and has attempted some solutions. There's a shared understanding of the main concerns and some context. It is appropriate to move to the Guiding phase to explore the client's motivation and potential solutions further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like the teaching style isn't matching well with your learning style, and that's adding to the pressure with the exams looming. Considering your worry about not catching on quickly, how important is it for you to gain more confidence in this class, on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's like a 9 or 10. I really want to do well and not feel like I'm falling behind everyone else.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified the discrepancy between their current struggle and their value of wanting to succeed (rated importance as 9 or 10). Change Talk is present with the desire to gain confidence. However, no specific change goal or plan is articulated yet, and there's no indication of decreased ambivalence or increased confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You’re clearly very motivated to succeed and feel on track, which is important. What do you imagine would be different in your life if you felt more confident in this class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "If I felt more confident, I think I'd be less stressed overall and maybe even enjoy the class a bit more. It would probably help me focus better on other courses too, and I wouldn’t have this constant worry hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed high motivation to change with a confidence level of 9 or 10. They articulated how increased confidence would positively impact their life. Change Talk is present, and they have a strong desire to succeed, showing readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(choosing): Feeling more confident could really enhance your overall experience and reduce stress. Let's consider some steps to move towards that confidence. Based on what you've shared, options might include seeking out tutoring sessions or joining a study group. How do these ideas resonate with you, and are there other strategies you might want to explore?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I think both tutoring and study groups could be helpful. I haven't tried tutoring yet, so that might give me a new perspective. I’d be open to any other suggestions too, just to make sure I'm covering all my bases.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged a clear goal of gaining confidence in the class and identified concrete steps, like tutoring and study groups, to achieve this. Barriers such as the professor's confusing teaching style have been discussed. The client shows openness to additional strategies, indicating readiness for action planning and commitment to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring tutoring and joining a study group both sound like promising strategies to gain a different perspective and reinforce your understanding. It’s great to see your openness to trying new approaches. As you continue to explore these options, it might also be helpful to set small, achievable goals for each study session or tutoring meeting, allowing you to track progress and build confidence over time. Consider reaching out to your professor or academic advisor for additional resources they might suggest.\n\nYou've shown a lot of determination and resilience in dealing with this challenging situation, which is truly commendable. Remember, every step you take toward understanding the material better is a positive move. For now, perhaps setting up that first tutoring session could be a good next step. Your continued effort and willingness to seek support will undoubtedly help you find a way to feel more confident and less stressed. Keep going—you’ve got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely look into setting up a tutoring session and see how it goes from there.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has received a summary of coping strategies, such as tutoring and study groups, and a next-step plan to set up tutoring sessions. They expressed gratitude and readiness to act, indicating termination goals have been met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Have you ever failed a class?\nThis semester I’m enrolled in an econ class that I might actually fail if I don’t do what I’m supposed to. From what I could tell with the first two classes, is that the professor is truly knowledgeable and knows what he’s talking about. The problem is that his lectures are kind of confusing, and when the class finishes, I feel like it doesn’t help me to better understand the material. I’ve also heard his exams can be tricky. I’m scared that I’ll fail this class, I wouldn’t be able to live with myself if I failed. How have you dealt with failing a class?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

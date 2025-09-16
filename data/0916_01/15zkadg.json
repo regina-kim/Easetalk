@@ -1,0 +1,179 @@
+{
+  "id": "15zkadg",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm just really feeling stressed about starting college and balancing everything that's coming my way. It's only been a couple of days, but it's all hitting me at once, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their feelings of being overwhelmed and shared specific concerns about college, including workload and missing their parents. However, there hasn't been enough exploration of these feelings or their context, and mutual goals haven't been established yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Juggling so many new things can be overwhelming. You're feeling a lot of stress because there's so much to adjust to all at once. What are some specific things that have been on your mind with starting college?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Honestly, it's the workload and being in a totally new place without my family around. I'm worried about managing my time with all the classes and the idea of failing is really getting to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their stress and specific concerns about starting college, including workload, new environment, and fear of failure. Empathy and rapport are being built, as the therapist understands the client's feelings. However, mutually agreed goals and a deeper exploration of the underlying feelings and context seem needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Being in a new environment without your family and facing a heavy workload sounds like a lot to handle. You're feeling anxious about time management and the fear of failure because it's all unfamiliar and important to you. Can you tell me more about how you've managed such situations in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: I guess in high school, I leaned a lot on my family and friends for support. I also tried to stay organized with planners and setting small goals, but college feels like a whole different level, and I’m not sure if those strategies will be enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's main concerns have been expressed, including feelings of stress, anxiety about workload, and fear of failure. The client has shared past coping strategies and the context of being in a new environment. Empathy and rapport are established, and a mutual understanding of the client's goals seems apparent.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you value support and organization a lot. Moving to college does seem like a big leap, yet your past strategies show your strengths. On a scale from 0 to 10, how confident do you feel about adapting these skills to your new college life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm about a 4 right now. I want to believe I can do it, but everything feels so overwhelming at the moment that it's hard to see how my old methods will work here.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a low confidence level (4) in adapting previous strategies to college life, indicating low readiness for action planning. Change Talk is present but not strong enough, and the client's ambivalence remains. Continuing in guiding will help further explore and strengthen motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Acknowledging how overwhelming everything feels right now, it's understandable that adapting seems daunting. Being at a 4 suggests that you see some potential in your past strategies, even amidst the challenges. What small changes might help increase your confidence level a bit?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try reaching out to some people in my classes to form study groups, so I don't feel so alone in this. I might also try breaking down my tasks into even smaller steps to make them feel more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying potential strategies such as forming study groups and breaking tasks into smaller steps. A specific change goal is present, but confidence to adapt is currently low at 4. The conversation could benefit from further exploration of barriers and support, thus remaining in guiding is prudent.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Those sound like meaningful steps toward building a supportive network and managing your workload more effectively. Forming study groups and breaking tasks down further may help you feel more connected and in control. How do you think taking these steps could impact your confidence moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think doing those things might help me not feel so isolated and overwhelmed. If I can see progress in smaller steps, it might help me feel more capable and like I can actually handle the workload without getting lost in it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as forming study groups and breaking tasks into smaller steps, which indicate readiness. The client's confidence level, while initially low, shows potential for improvement with the outlined changes. There is a clear decrease in isolation concerns, pointing to a shift towards taking control of the situation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "These ideas of connecting with classmates and breaking down tasks are great strategies for building confidence and reducing overwhelm. Let's think about setting a goal to start with. How about focusing on reaching out to one or two classmates this week to explore forming a study group? Additionally, could planning out your tasks for the next few days in smaller steps be another option? What potential challenges do you foresee, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I can definitely try reaching out to classmates this week and see if anyone's interested in forming a study group. As for planning out tasks, I guess I just need to take it one day at a time and not look too far ahead. A potential challenge might be sticking to this approach consistently, especially if I start feeling overwhelmed again. Maybe setting reminders or having a buddy to keep each other accountable could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan and identified potential barriers, with strategies to address them, indicating readiness to progress. They showed commitment by agreeing to reach out and plan tasks, and discussed accountability measures. These actions suggest readiness to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's wonderful to hear you're open to reaching out to classmates and breaking tasks down day-by-day. These steps can make a real difference in managing your workload and reducing feelings of isolation. Setting reminders and having an accountability buddy are excellent ways to stay on track, even when things get tough. You've shown a lot of insight into what might work best for you.\n\nThis week, your focus could be on contacting a couple of classmates to form that study group and planning your tasks in smaller steps. Remember to be kind to yourself as you navigate these changes. Each small step is progress, and I believe in your ability to handle this transition.\n\nShould you feel overwhelmed, coming back to your support system—whether it's peers, a buddy, or using reminders—can help you stay grounded. You're already taking important strides toward creating a balanced college experience. Keep leaning into your strengths, and know that support is always here for you as you continue on this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks for the encouragement—I really appreciate it. I'll definitely try to focus on those small steps and use my support system when needed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, steps, and coping strategies, and a next-step plan was discussed effectively. The client expressed appreciation and understanding of support systems, indicating readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does anyone else feel overwhelmed with college?\nIt’s my 2nd day being a Freshman on campus just moving in and honestly I feel so overwhelmed. I’m overwhelmed with worrying about my classes and being in a new environment and missing my parents :( I got placed in both Bio and Chem and I’m scared it will be too much and I’m going to fail. I keep hearing all these stories of people barely keeping up and having to study late into the night. Also how my professors say for every hour of class, study for 2 outside of class, that will lead me to have to study for around 17 hours cause my labs are quite long (not even counting my 2 other classes). I’m worried I won’t have any free time or life outside of college to pursue my hobbies or just have a life in general. Does anyone have any words of advice of words of comfort, im straight up not having a good time right now :(\n\nThank you for reading this",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

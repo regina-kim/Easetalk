@@ -1,0 +1,221 @@
+{
+  "id": "11z9gmu",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I'm doing alright, but I've been thinking a lot about whether I should apply for this industry job I came across. It's a bit of a dilemma since I want to stay on track with my academic goals but the opportunity is pretty enticing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern, thoughts, and conflicting feelings about the job opportunity. However, more exploration is needed to fully understand their motivations, values, and potential impact on their long-term goals to ensure empathy and rapport are sufficiently established.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a challenging decision. You’re feeling torn between pursuing your academic goals and the exciting possibilities this job might offer. What are some of the factors that are important to you in making this choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Yeah, exactly. I guess some of the big factors are the financial aspect since the pay is way higher than my current TA position, and also how this might fit into my long-term goal of becoming a professor. I'm worried about what taking the job might mean for my dissertation and research path.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main dilemma, detailing the financial benefits of the job versus their academic goals and the potential impact on their dissertation. The therapist has established empathy and understanding of the client's situation, and the goals are becoming clear.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You're weighing the financial benefits against your long-term academic ambitions. How do you see this job impacting your journey toward becoming a professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it could offer some valuable experience and maybe even open up new perspectives on my research. But I'm concerned it might distract me from my dissertation and delay my progress towards finishing my degree.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a concern about balancing financial benefits with academic goals, indicating a discrepancy in values. There's change talk about the job offering valuable experience, but also ambivalence about its impact on dissertation work. No specific change goal or next step has been identified yet. Confidence levels are not mentioned, and sustain talk remains.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "You're considering how the job might enrich your experience and broaden your perspective, yet you're cautious about possible distractions and delays in your academic timeline. On a scale of 0 to 10, how confident are you about managing both the job and your dissertation if you decide to take it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe around a 5. I think I could manage it, but I'm not entirely sure how the balance would play out, and it feels like a bit of a gamble.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is exploring the discrepancy between the enticing job opportunity and their academic goals, but confidence is at 5, indicating hesitancy about managing both. Change Talk is present, yet it's mixed with ambivalence about the job's impact on dissertation progress. Further guiding is needed to strengthen confidence and clarify goals before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Finding that balance seems like a tricky situation. You're recognizing your ability to manage both roles but also acknowledging uncertainty in how it might unfold. What do you think would help increase your confidence from a 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client: I think having a clearer plan or timeline for my dissertation and getting a sense of how much time the job would realistically take would help. Maybe even talking to someone who's managed both an industry job and their dissertation could give me some insight.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear change goal of potentially applying for the job and discussed the benefits and challenges. Confidence is at 5, and they identified steps to increase it. Discrepancy between goals and behavior is evident, and Change Talk is present. However, confidence is below 6, and more exploration of ambivalence could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Hearing from others who have balanced similar roles could offer valuable insights. Having a clearer timeline might also strengthen your confidence. How would having this information align with your goal of becoming a professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Having that information would definitely help me see if I can still stay on track with my academic path. It might give me a better sense of whether the industry job can complement my journey to become a professor or if it would sidetrack me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a potential next step (seeking advice from others) and has articulated a specific goal related to confidence-building. Confidence is currently at 5, indicating some ambivalence remains. Since a concrete change goal (applying for the job) isn't fully established, continuing in Guiding could further clarify their decision-making.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "therapist(guiding): It sounds like gaining more clarity could really help you feel more aligned with your academic goals. As you explore these possibilities, what values are most important for you to uphold during this decision-making process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think staying true to my long-term goals of becoming a professor and contributing to academic research is really important to me. At the same time, I value financial stability and personal growth, so finding a way to balance those aspects would be ideal.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific concerns and values, explored potential impacts of the decision, and identified a need for additional information to increase confidence. However, confidence remains at 5, below the threshold for readiness, indicating continued ambivalence. The client has not yet expressed a clear change goal or next step.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing financial stability, personal growth, and your long-term academic aspirations seems crucial for you. How do you envision maintaining a balance between these values as you consider your options?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client: I feel like it might involve setting some boundaries with the job, like having a clear schedule so I don't let it take over my time for research. Also, maybe regularly checking in with myself to see if I'm still on track with my academic goals would help, sort of like making sure I'm not losing sight of what I ultimately want to achieve.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a clear discrepancy between financial stability and academic goals, explored potential outcomes of taking the job, and identified specific steps to increase confidence. Change Talk and a specific goal (balancing values) were present, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Creating boundaries and regular self-check-ins sound like great strategies to maintain focus on your goals. Would you like to explore creating a specific plan or timeline to help you balance the job and your dissertation? Possible options could include scheduling dedicated time for research or setting up regular reflection points to assess your progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: Yeah, I think having a specific plan could be really helpful. Maybe setting up a schedule where I dedicate certain days or hours just for my dissertation, and then having designated times for work could keep things organized. Also, having some kind of regular check-in, like every month or so, to evaluate how things are going and adjust if needed might be a good idea.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear plan, including setting a schedule and regular check-ins to balance the job and dissertation. They have considered barriers and developed strategies. The client shows readiness by proposing actionable steps and demonstrating confidence in managing both roles.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Establishing a structured schedule and regular reflection points sounds like a wonderful way to keep everything in balance. You've shown a lot of insight into what could work for you. Dedicating specific times for your dissertation and work can help you manage both effectively. Regular monthly check-ins will give you a chance to reflect on your progress and adjust as necessary. Remember, it's okay to be flexible and give yourself grace as you navigate this. You're taking a thoughtful approach, which is a strong asset. As your next step, perhaps jot down a preliminary schedule and action plan. You've got this, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good idea. I'll try to map things out and see how it goes. Hopefully, I can stay on course and adjust as needed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered goal summaries, coping strategies, and next steps, including a plan for maintaining balance. The client acknowledged the plan and expressed confidence in moving forward. Closure was naturally achieved.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Thinking about applying for an industry job\nI work in biology education research aimed specifically in higher education. The other day I was going through my email and saw a great job opportunity that was posted and that was a remote position. It will pay 10x more than what I am currently getting paid as a TA at my school. I just proposed my dissertation and am now a candidate. I ultimately want to become a professor and continue doing research.\n\nShould I apply for the job?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

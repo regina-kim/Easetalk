@@ -1,0 +1,116 @@
+{
+  "id": "xp5ovz",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just feeling a bit overwhelmed. I've been thinking a lot about whether I should quit my rugby team because it's been affecting other parts of my life.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has thoroughly shared their thoughts and feelings about quitting the rugby team, including issues with playing time, coaching, and its impact on their social life and work. Empathy and rapport are evident, and the client's goals are clear. There is a comprehensive understanding of the client's context and concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That's a big decision you're contemplating. What do you think your life might look like if you decided to step back from the team?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(reflecting): I think I'd have more time to focus on things that are important to me, like going to the gym, spending time with friends, and working more hours. It might reduce some stress and help me find a better balance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current rugby involvement and their values like gym time, social life, and work. They've imagined life with and without rugby, indicating a preference for more balance. Change Talk is present, implying motivation toward quitting, but there's no specific next step or confidence assessment yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're considering how stepping back might open up space for other priorities in your life. How do these changes align with your long-term goals or values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): I value my physical health and relationships, so having more time for the gym and friends aligns with that. Plus, working more could help me save money, which is important for my future plans.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a strong consideration for quitting rugby to focus on priorities like the gym, friends, and work, aligning with their values of health and relationships. They have evaluated life with and without this change, and change talk is present. The discrepancy between current activities and values is clear, and ambivalence appears reduced.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It’s great to see how you’ve connected these changes to your values and future goals. Based on what you’ve shared, a few options you could explore include gradually reducing your commitment to the team, setting specific gym and social time goals, or even trying them out for a short period to see how they fit. What steps do you feel most ready to take, and how might we plan for any challenges that could arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I'm leaning towards reducing my commitment to the team, maybe attending fewer practices to start with. I could set a schedule for gym and social time to make sure I'm balancing everything. I guess a challenge could be feeling guilty about not fully committing to the team, but I really want to prioritize my well-being.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan to reduce team commitment, focus on gym and social activities, and address potential guilt. They show readiness with commitment talk and confidence in prioritizing well-being, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Acknowledging the importance of your well-being and making these adjustments shows a lot of self-awareness and courage. You're taking meaningful steps towards aligning your life with your values and goals. Reducing your team commitment while scheduling gym and social time sounds like a thoughtful plan. To address any guilt, maybe remind yourself of your commitment to self-care and the positive outcomes you’re aiming for. \n\nMoving forward, setting small, achievable goals each week could help reinforce these changes and remember, you’re not alone in this. I’m here to support you in navigating these feelings and ensure that your actions reflect what’s truly important to you. Let’s check in regularly to see how these adjustments are working for you and tweak them if necessary. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I think having regular check-ins could really help me stay on track and adjust as needed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, steps, and coping strategies. A next-step plan was discussed, and the client expressed readiness to continue with regular check-ins, indicating preparedness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Quitting a sport\nI want to quit my club rugby team. I am a sophomore in college, and I am debating on if finishing out the season is worth it.\nI played spring semester last year, and this year hasn’t been fun. There are lots of good rookies taking up playing time, and my play isn’t as good as theirs. The coach is also an issue, as I don’t think he’s fit to coach as many people as he does, almost on his own. He doesn’t even speak to me. I love lifting in the gym, and I have had to put that second to rugby, as well as my social life and my part time job. I can only go out once a week with friends, due to practice 4 times a week and work.\nIs it a bad look to quit my team to open up more time for a social life and work?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

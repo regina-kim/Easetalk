@@ -1,0 +1,284 @@
+{
+  "id": "vdsalo",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How can I support you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I'm just really confused about what major to choose. I want to be in the pharma industry but not in the science part, more like in a managerial role.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their primary concern about choosing a major relevant to their career interests. The client’s preferences for the non-scientific, managerial aspects of the pharmaceutical industry are clear. However, more context and discussion about their feelings and thoughts on this decision and their motivations are needed to build rapport and ensure mutual understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can feel overwhelming, especially when you have a specific career path in mind. What interests you about the managerial side of the pharma industry?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I like the idea of overseeing projects and making strategic decisions. It seems exciting to be involved in the bigger picture without having to do the science stuff myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and some insights into their interests and career aspirations. There's a clear understanding of their desire to pursue a managerial role in the pharma industry rather than a scientific one. However, more exploration of their feelings and considerations regarding their major choice could further solidify rapport and mutual goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's great that you have a clear vision of what excites you in a career. What experiences or skills do you already have that you think will help you in a managerial role?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I've taken some leadership roles in group projects and clubs, and I really enjoy organizing and planning. I think I have good communication skills, too, which might help in those roles.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story is clear, including their interest in a managerial role within the pharma industry and relevant skills. Empathy and rapport are established, and the client has shared thoughts and feelings. Mutually agreed goals, such as exploring suitable majors, are apparent.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Those leadership experiences and communication skills sound like strong assets for a managerial role. Considering what excites you and the skills you already possess, how do you envision your life changing if you were to find a major aligned with those interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think I'd feel more confident and motivated if I knew my major was setting me up for something I'm passionate about. It would be a relief to have a clearer path, instead of feeling stuck between different options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific interest in a managerial role in the pharma industry and recognized the benefits of aligning their major with this goal. They also identified relevant skills, indicating motivation for change. However, no specific change goal or next step has been established yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Having a clearer path aligned with your passions seems important to you. How might your confidence and motivation grow if you were actively working toward that path every day?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think I'd feel more driven to put in the effort because I'd know it's for something I really want. It would probably make me more excited about my classes and future career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by articulating how a suitable major will increase their confidence and motivation. They've visualized life with a clear path, aligning their career with their interests. However, there's no specific next step or change goal established yet, and the client still shows some ambivalence. Continuing in the guiding phase will help explore these aspects further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Feeling driven and excited about your classes and future seems very motivating. On a scale from 0 to 10, how confident do you feel about choosing a major that aligns with your passions and strengths right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(reflecting): Maybe around a 5? I still feel kinda torn between pharmaceutical science and finance, but I know I want to end up in a managerial role in the pharma industry.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence about choosing a major and has a confidence level of 5. Discrepancy between current indecision and desired managerial role is noted. However, the client hasn't yet set a specific change goal or next step, and sustain talk is still present. Further exploration of ambivalence and confidence-building is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Balancing those interests can indeed be challenging. What might help you move from a 5 to a higher confidence level in choosing the right major for your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): Maybe talking to people who work in those areas or taking introductory courses could help. I think getting a better sense of what each path involves would make the decision clearer for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk about feeling more confident and motivated with a clear path and has identified a potential step to increase confidence. However, their confidence is at 5, indicating ambivalence. More exploration is needed to reduce ambivalence and increase confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Connecting with people in the field and exploring introductory courses seem like practical steps to gain clarity. How might taking these actions influence your decision-making and confidence in choosing the right path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): I think they'd give me a more realistic idea of what to expect in each field, which could make me feel more certain about what aligns with my interests and strengths. It might also reassure me that I'm making a well-informed choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a desire to align with a specific career path, expressed Change Talk, and suggested actionable steps like reaching out to professionals and taking courses. However, confidence is at 5, suggesting some ambivalence remains. Further exploration in Guiding may be needed to increase confidence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gaining a realistic understanding of each field sounds like it could really boost your confidence. What values or personal strengths do you think will guide you as you explore these options further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): Probably my curiosity and determination. I mean, I want to make sure I'm choosing something that fits me well, and I usually stick with things once I decide on them. Guess I want to be certain I'm heading in the right direction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client exhibits Change Talk, exploring the impact of aligning their major with passions, and identifies concrete next steps like consulting professionals. However, confidence is at 5, and ambivalence between options persists. Further exploration of values might be necessary to solidify motivation and decrease ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your curiosity and determination are wonderful strengths to rely on as you explore these options. How do you think these qualities will support you in feeling more certain about your direction in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): I think my curiosity will push me to learn as much as I can about each option, and my determination will help me stay focused on finding the right fit. Hopefully, they'll keep me motivated to dig deeper and not settle for something that doesn't truly align with what I want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change, detailed specific actions to explore options, and demonstrated a decrease in ambivalence. However, confidence is still at a 5, indicating readiness to explore further and not yet ready to make decisive action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Embracing your curiosity and determination can certainly keep you on track and motivated. As you continue exploring, what small steps might you take to use these strengths in your journey toward clarity and confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I guess I could start by reaching out to people in the pharma industry to hear about their experiences. Maybe I could also sign up for a couple of introductory classes in both pharmaceutical science and finance to see which resonates more with me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific actions like reaching out to industry professionals and taking courses. Confidence remains at 5, signaling room for more guiding, but a clear path for exploration has emerged. Ambivalence has decreased with a preference for aligning interests with available majors. This suggests readiness to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking these proactive steps sounds like a great plan. How about setting a goal to reach out to a few industry professionals and sign up for those classes within the next month? What kind of support or resources might you need to help make this happen?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): That sounds manageable. I think I might need help finding people to talk to, like maybe through a school alumni network or career services. As for the classes, I'll need to check my schedule and see what's available next semester.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and an action plan to explore both fields through industry connections and introductory courses. Barriers, such as finding contacts and scheduling classes, have been identified, and self-monitoring steps are implied. The client shows readiness with commitment and confidence in taking steps forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Starting with your school's alumni network and career services is a smart move. Reaching out to those who have walked the path you're considering can offer valuable insights. Checking your schedule for the next semester's classes shows you're taking thoughtful steps forward. It's great to see you planning proactively, keeping your curiosity and determination at the forefront. Remember, each small step brings you closer to clarity and confidence in your decision. You've got this! As we wrap up today, continue to lean on your strengths and take it one step at a time. Should you need any more guidance or assistance, I'm here to support you in this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely look into the alumni network and see what classes are available. I'll try to take it step by step and check in if I get stuck.",
+      "phase": "terminating"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear plan involving specific steps and resources to explore their options, showing progress towards their goals. They have been encouraged to use their strengths, and an open invitation to return if needed remains.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what major should i take for my undergraduate\nshould i take pharmaceutical science/finance\ni'm really torn apaarttt TT I actually wanna be involved in the pharma industry, but not part of the R&amp;D, more like managerial",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

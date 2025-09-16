@@ -1,0 +1,158 @@
+{
+  "id": "xqs485",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Would you like to share what's been happening recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey. Yeah, I've just been feeling really overwhelmed with all the coursework this semester. It's like I'm constantly working and still can't keep up with everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has provided a detailed account of their overwhelming experience with coursework, including the emotional and practical challenges they face. The essence of the client's story and relevant context have been sufficiently elicited, and there is a clear rapport and understanding developed between the therapist and client.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging, managing such a heavy workload. What do you think life would be like if you found a way to balance your coursework more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, it would be such a relief. I'd probably feel less anxious and actually have time to take care of myself and do things I enjoy. It would be nice to finally breathe a little.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their values (healthy lifestyle, personal time) and current behavior (overworking). They've imagined life with a better balance, showing motivation for change. Change Talk is present, and although specific steps are not yet defined, there's high awareness of the need for change. Nonetheless, more exploration of confidence and specific plans is needed before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Imagining that relief sounds wonderful. What do you think might be different for you if you had more time to focus on things you enjoy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): I think I'd feel a lot more like myself again. I miss writing and making art without the pressure of a deadline. Plus, I'd probably feel happier and not so stressed all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a strong desire for change, envisioning a life with less anxiety and more time for personal activities. The specifics of how life would improve with change were discussed, and the client showed some motivation. However, specific change goals or next steps, confidence assessment, and reduction in ambivalence were not yet evident.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Having more time for yourself and your passions seems really important to you. How might reconnecting with writing and art influence your overall well-being and motivation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Reconnecting with those things would definitely lift my spirits. It'd give me something to look forward to amidst all the stress and might even help me manage it better. Just having something I love to turn to would make a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified the relief and benefits of balancing coursework more effectively. They have shown reduced ambivalence by discussing positive outcomes of change, like reconnecting with art and writing. Change Talk is present, focusing on the positive impact of change on overall well-being.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "If reconnecting with your passions could lift your spirits, what small steps might you consider to create more time for writing and art amidst your coursework? Based on what we've discussed, possible options include setting aside a specific time each week or integrating short creative breaks during your study sessions. What do you feel ready to try?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think I could try scheduling a specific time each week, maybe just an hour or two, dedicated to writing or art. Even if it's just a small chunk of time, it could really help me recharge and bring some balance back. I'll start by looking at my schedule to see where I might fit it in.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of scheduling time for personal projects and acknowledged the challenges they face. They are taking steps to examine their schedule and integrate self-care. However, further exploration of confidence and commitment to this plan would be beneficial before moving forward.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Therapist(choosing): That sounds like a thoughtful approach. Scheduling a specific time each week for your creative outlets can be a step toward finding balance. As you look at your schedule, what might be some challenges you anticipate, and how can you navigate them to protect this time for yourself?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): I'm worried that once I start, I'll feel guilty for not doing schoolwork, or something might come up that pulls me away from it. Maybe I can try to remind myself that taking care of myself is important too, and set boundaries to protect that time as sacred. I'll try to treat it like any other important commitment.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of scheduling dedicated time for creative activities and has identified potential barriers along with strategies to address them, such as setting boundaries and viewing self-care as important. The client shows commitment to trying this approach and acknowledges the value of balance, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Therapist(closing): It's wonderful to see you acknowledging the importance of self-care and setting boundaries for your creative time. Recognizing this time as sacred and treating it like any other commitment is a valuable mindset. As you move forward, remember that giving yourself permission to recharge can ultimately help you manage your coursework more effectively.\n\nYou've identified some great strategies, like scheduling and setting boundaries. If ever you feel the guilt creeping in, try reminding yourself of the bigger picture: nurturing your well-being supports your academic success, too. \n\nI'm here to support you in this journey. Our next step could be to check in on how your plan is working for you, and we can explore any adjustments if needed. Keep embracing those moments that bring you joy and balance. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll definitely give it a shot and check in with you next time to see how it's going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps to manage their workload and acknowledged the importance of self-care. Next steps have been discussed, and the client plans to check in on progress, indicating readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Overwhelmed\nI (19TM) am currently in my sophomore year of college. I just started the fall semester and I'm drowning.\n\nLast year I had a decent amount of homework but I never had trouble getting it turned in on time. And I had plenty of time to see my friends, relax, eat, and work on personal projects that interest me. This semester has been different. I have 3+ assignments due every single day, I'm in two art studios that are only worth three credits each, but you have to be in for six hours every week. I've had assignments I had to turn in incomplete because I ran out of time. And it's not for lack of trying, I'm doing homework literally every free second I get between class, meals, and sleep. I don't get enough sleep, I don't eat enough, and I have exactly zero time for personal creative endeavors.\n\nI'm exhausted all the time, I have days where my anxiety gets so bad I burst into tears just from stress, and yet I haven't been able to slow down even a bit. It's this, or drop out. The only way out is through.\n\nI'm writing this post as I wait for my computer to update so that I can finish a writing assignment and a quiz that are both due tonight, and I have some art project stuff that's due in class tomorrow, which means it needs to get done tonight. I'll probably be up late trying to finish it which means I won't get enough sleep again. Tomorrow evening I need to start working on an essay that's due Friday (it's currently Wednesday), and I also have a workbook page due that day. And it doesn't get any better after that. Every class has loaded me down with more assignments than is even remotely reasonable, and I'm only taking four classes because I had to drop one. I was originally taking five, but it quickly became apparent it literally was not going to be possible to complete all five of them and balance all the work. But I'm starting to get worried even four is going to be too much with the ungodly amount of work these professors assign. My dishes have piled high, my laundry has been sitting in my corner unfolded for days, I desperately need a shower, and I have online job training I need to complete at some point. I haven't had even a second to spare for any of it because every second has been dedicated to homework. If I do get a second to breath, I'm so desperate to finally relax and get even a moment to not be working that I cannot summon the will to do chores.\n\nI know that the way I'm living right now is not healthy, but what's the alternative? Stop turning in assignments and fail my classes? Drop out of school? Neither of those are possible for me. As stressful as it is, I love school and one hard semester would never be enough to make me accept failure.\n\nYou might suggest I drop another class, but that's not an option either. If I go down to three classes I'll become a part-time student which means I would lose my scholarship. And I can't afford college without it.\n\nThere's really not much I can do other than tough it out, I just desperately needed to complain about my situation somewhere. It's been weighing on me for awhile. I would go to therapy, but I don't have time. I've had to postpone doctor's appointments of all kinds, I haven't been able to hangout with friends unless it's study session, and I haven't been able to work on my book that I'm writing or make any new art without sacrificing homework time that invariably ends up hitting my grade in that class. It's currently week 6 of 16 at my university, plus finals week. So I'm not even halfway done and I'm already crippled by how much work I have, and it's not going to slow down anytime soon.\n\nThis just really, truly sucks.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

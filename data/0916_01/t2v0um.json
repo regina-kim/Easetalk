@@ -1,0 +1,200 @@
+{
+  "id": "t2v0um",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Welcome! I'm glad you're here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've just been feeling really stuck with my studies lately, like no matter how hard I try, it's not clicking. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's main concern and feelings about their studies have been identified, but more context and understanding of their thoughts and feelings are needed to build rapport and mutually agree on goals before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really frustrating. Can you share more about what's been happening with your studies and how it's making you feel?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just been a struggle. I spend hours studying but barely remember anything. It's making me feel pretty stressed and kind of hopeless about keeping up with everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's concern about feeling stuck with studies has been expressed, including feelings of frustration and stress. However, only part of the context and emotions has been explored, and there is no sign of mutually agreed goals or deeper exploration yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling like you're putting in a lot of effort without seeing results must be incredibly disheartening. What aspects of your studies are causing you the most stress and why do you think they're affecting you this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): I think it's mainly the workload and pressure to do well. It feels like there's so much to keep up with, and I worry about not meeting expectations.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's core concerns, feelings of frustration and stress related to their studies, have been articulated. The context of heavy workload and pressure has been established, and the client has shared their feelings of hopelessness. Rapport seems to be building well, with the client openly sharing. However, mutually agreed goals or clear understanding of all aspects of the situation have not yet fully emerged.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "The weight of the workload and the pressure to excel can feel overwhelming. It's understandable that this worry about expectations is adding to your stress. Have you faced similar challenges in the past, and if so, what helped you manage them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, I've had tough times before, but it wasn't as intense as this. Usually, things like taking breaks or talking to friends helped, but those aren't really cutting it right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their experience of feeling overwhelmed and stressed due to their studies, including the workload and pressure to meet expectations. The client has also discussed previous coping strategies that are currently ineffective. This provides a comprehensive view of their situation and feelings, allowing for transition to evoking motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's tough when usual strategies don't seem to be working as they used to. What do you think it would look like if you found a way to manage this stress more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Honestly, I think it would feel like a huge weight lifted off my shoulders. I'd feel more focused and maybe even start enjoying what I'm studying again, instead of dreading it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has begun to articulate benefits of managing stress. However, there is no specific change goal or next step identified, and no confidence measure has been used. The client may still be ambivalent about how to proceed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a way to lift that weight sounds incredibly freeing. What do you think might need to change to help you enjoy your studies again and feel more focused?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think I might need to find a new approach to studying, maybe something more engaging or effective. Also, figuring out how to manage my time better so I don't feel so overwhelmed might help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential strategies like finding new study approaches and managing time better. They have shown increased awareness of the discrepancy between current and desired states, indicating readiness to explore specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "You've identified a couple of areas to focus on: exploring new study techniques and managing your time more efficiently. Would you like to brainstorm some specific strategies for each of these? Options could include trying active learning methods, creating a more structured schedule, or setting specific, manageable goals for study sessions. What are your thoughts on these or any other ideas you might have?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): Yeah, brainstorming sounds good. I've heard about active learning but never really tried it, so maybe that's worth a shot. As for my schedule, I guess having some kind of plan might stop me from feeling like I'm drowning in tasks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific goals, such as exploring active learning and creating a structured schedule. They are open to brainstorming strategies, indicating a readiness to take steps. While barriers like feeling overwhelmed are acknowledged, further discussion on self-monitoring and commitment would solidify progress. It's best to continue in Choosing to ensure a comprehensive action plan.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Trying out active learning and creating a structured schedule could be promising steps forward. How about setting a goal to try one active learning technique this week, like teaching back what you've learned or using flashcards? For your schedule, we could consider a planning tool or app to organize your tasks. What do you think would work best for you in setting these up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of teaching back what I’ve learned, maybe to a friend or even just out loud to myself. For scheduling, using an app sounds helpful—I’ve heard of a few that might work, so I could try one out and see how it feels.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving trying active learning techniques and using a scheduling app. They have discussed barriers, such as feeling overwhelmed, and agreed to self-monitor by trying out these strategies. The client is showing readiness through commitment and confidence in applying these new approaches.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Giving teaching back a try can really reinforce your understanding, and experimenting with an app could help bring some clarity to your workload. You've got a good sense of what might work for you, and that's a great start. As we wrap up today, remember that taking these small steps can build momentum. Be gentle with yourself as you try these new approaches. If you find yourself stuck or needing to adjust, that’s perfectly okay. We're here to figure it out together. Check back in next time to see how things have gone, and we'll continue to support you on this journey. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I'll give these things a try and see how it goes. I'll let you know how it all works out next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have collaboratively developed a plan involving active learning techniques and scheduling apps. The therapist provided encouragement and invited a future follow-up, addressing the client's primary concern effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Hitting a wall in my studies\nThis semester has been hard on me. I keep hitting a wall in my studies, I keep forcing myself to study but it's not really helping if Im only absorbing just a small amount of knowledge from hours of studying. Have u guys been in these situation? And if u have been in this situation how do u get out of it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

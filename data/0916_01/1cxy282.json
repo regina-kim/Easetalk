@@ -1,0 +1,137 @@
+{
+  "id": "1cxy282",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been going on in your world recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. Just feeling a bit overwhelmed with school and work, you know? Trying to figure out how to balance everything and not feel so burnt out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about feeling overwhelmed, burnout, academic performance, and relationship issues. These details provide a clear understanding of the client's thoughts and feelings. Empathy and rapport seem established, and goals are mutually acknowledged.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Balancing school and work can definitely be challenging. What are some changes you imagine could help ease that feeling of burnout?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(guiding): I guess maybe cutting back on work hours could help, but I worry about finances. Also, maybe I need to figure out better study habits or time management skills so I don't feel like I'm just coasting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential strategies, indicating initial Change Talk. However, there's still some ambivalence and no specific plan or confidence level has been discussed yet. The client needs more exploration of potential solutions and confidence building before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's great that you're considering ideas like adjusting work hours and improving study habits. How important is it for you to find that balance right now, on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): Honestly, it's probably a 9. I feel like finding that balance would help reduce a lot of stress and maybe help me focus better on my studies.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a strong motivation (rated at 9) to find balance and reduce burnout, with specific ideas for change such as cutting work hours and improving study habits. Change Talk is present, and there is a clear goal to improve academic performance. The client's ambivalence is lessening as they identify potential steps forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Finding that balance seems really significant for you right now. Considering your thoughts, possible steps could be exploring ways to manage your current workload more effectively or learning new time management skills. What do you feel ready to focus on first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I think I might want to start with time management skills. If I can use my time better, maybe I won't feel like I'm drowning in tasks all the time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed readiness to focus on time management skills to alleviate burnout, indicating a clear goal. However, specific strategies and barriers regarding finances and workload adjustments have not been fully explored. Continued focus on creating a detailed action plan and discussing self-monitoring is needed.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Improving time management skills seems like a practical first step. You mentioned feeling overwhelmed by tasks, so a structured plan might help. Possible options could include setting specific study times or using a planner to organize your week. What approach do you think would fit best into your life right now?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I've never really used a planner before, but it sounds like a good idea. I think having a visual guide could help me see where my time goes and what I need to focus on each day. Maybe I could start there and see how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of improving time management and has agreed to start using a planner as a concrete action plan. The client has expressed readiness to tackle this approach and has shown commitment. Barriers such as workload and time management have been discussed with a plan to self-monitor using a planner.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Using a planner sounds like a promising start. Visualizing your schedule can often bring clarity and calmness, helping to organize and prioritize tasks effectively. Starting with this approach, you could gradually align your study sessions with energy peaks throughout your day.\n\nRemember, it's perfectly okay to experiment with different methods until you find what suits you best. I admire your willingness to try something new—it's a strong step towards managing stress. As you begin using the planner, you might also notice patterns or areas you want to adjust further, which is all part of the process.\n\nFor now, focus on getting comfortable with your planner over the next week. Feel free to jot down any observations or challenges you come across. We can discuss these in our next session to tweak and reinforce your strategy. You're making great progress by taking these steps, and I’m here to support you as you explore these new skills. Keep up the good work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll give the planner a try and see how it feels to have my week laid out like that. I'll let you know how it goes in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered summarizing steps towards managing time better and setting a plan with using a planner. The client agrees with the plan and will report back, indicating readiness to move forward. Termination goals have been met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feeling depressed because I feel burnt out and didn't do as well as I wanted to this semester\nI basically just coasted the entire time... I got a 3.0 G.P.A but that isn't good enough for what I want to do... I'm disappointed in myself.\n\nI was going to school fulltime and working full time so I always felt like I had no time for myself and halfway through the semester I got burnt out.\n\nMy girlfriend also broke up with me and the break up and my relationships were giving me un needed stress.... I felt like I didn't learn anything at all.\n\nMy counselors have said I need to get As in the classes, not Bs... and here I am getting Bs and I feel so dissapointed... I need to do better next time",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

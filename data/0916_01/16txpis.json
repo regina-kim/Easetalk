@@ -1,0 +1,116 @@
+{
+  "id": "16txpis",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Would you like to share a bit about what you're experiencing right now? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, yeah, I'm just really stressed about graduating soon and figuring out how I'm going to manage my student loans, especially with the private one looming over me. Everything feels overwhelming because I need a plan but have so many uncertainties about my future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns, thoughts, and feelings about graduation, loans, and future plans, providing detailed context. Rapport is established as they express vulnerability about their situation and seek support. This understanding sets the foundation to explore motivations and change talk in the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Graduating and managing those uncertainties sounds like a lot to handle. What are some things that you hope to achieve after graduation that align with your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Well, I really want to start working in a field related to my environmental biology degree, and maybe even find something that lets me contribute positively to the environment. I also want to get into a good Master's program eventually, but I just don't know how to balance all that with the financial stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals related to their career and education. There is evidence of Change Talk as they discuss their aspirations and values. While they recognize their financial stress, they remain focused on their goals. Additional exploration of confidence and ambivalence is needed to ensure readiness for concrete planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "The desire to work in a field you're passionate about and contribute to the environment speaks volumes about your values. What do you think might be different if you could find a way to balance your career aspirations with the financial challenges you're facing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): If I could find that balance, I think I'd feel a lot more at peace and less anxious about the future. It'd give me some confidence to pursue the things I really care about without feeling trapped by my financial situation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to balance career goals with financial challenges, aligned with their values. They have considered how achieving this balance could reduce anxiety, indicating increased readiness. Change Talk is present, focusing on career plans and overcoming financial stress. Confidence is implied in pursuing career goals if balance is achieved. The exploration of life with and without change has been addressed.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Creating a balance between your aspirations and financial responsibilities could indeed bring a sense of peace and confidence. Considering your goal to work in environmental biology, perhaps we could explore options like internships or entry-level positions that align with your degree, which might also offer loan assistance programs. How does this idea resonate with you, and what other steps might you consider to move forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): That actually sounds like a good idea. It might help me get my foot in the door and reduce some of the financial pressure. I guess I could also look into part-time work or freelance gigs related to my field to start chipping away at my loans, even if it's just a little bit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to work in environmental biology and pursue a Master's degree. They have a concrete action plan, including exploring internships and part-time work to manage financial stress. Barriers, such as financial pressure and job searching, have been discussed. The client shows readiness to act on solutions, indicating progress. Confidence in the plan is evident, making it appropriate to move to termination.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're exploring some practical and thoughtful ways to ease the financial pressure while staying connected to your passion for environmental biology. Considering internships or entry-level positions, alongside part-time work or freelance gigs, is a proactive approach to both career building and financial management. It's heartening to see you take such meaningful steps that align with your values.\n\nAs we close our session today, let's summarize your goals and action steps: securing opportunities in your field, exploring part-time or freelance work, and looking into loan assistance programs. These efforts will help you gain experience and reduce financial stress. Remember, balancing these responsibilities may take time and patience, but your commitment to your future is clear and inspiring.\n\nFor the next steps, you might consider researching local job boards, reaching out to your college's career services, or networking with professionals in your field. These can be great resources and provide further support in your journey. \n\nKeep holding onto that vision of contributing positively to the environment, and remember, every small step forward is progress. You're doing great, and I'm here to support you as you continue navigating these challenges.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your guidance. I'll definitely start looking into those resources and see how I can make this work.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully covered a summary of goals, steps for handling financial stress, and next-step plans, addressing the client's primary concerns. There's a natural closure point, with the client expressing appreciation and readiness to take action.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Graduating soon and worried about repaying loans. Any advice?\nI am absolutely terrified to graduate simply because of only having six months to find a job and establish myself before starting repayment. I know federal loans can be based on income, but I also have a huge private loan because of an error with my university’s financial aid office ($30k). I’m going to be graduating with a not so useful environmental biology/zoology degree. The reason why I felt secure in this degree is because I absolutely do plan to go for my Master’s, but I’d really like to take a yearlong break. On top of this, I plan to move out of state (permanently) to attend school for my Master’s since there’s a ton of universities in the state with great programs, and also because this state has way more job opportunities for my degree. A ton more than my home state. \n\nI’m in my early 20s and I feel like I should have learned how to be an adult by now but I feel everything I’m talking about and my expectations for my future may be immature and naive. Reality is probably going to hit me like a truck.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

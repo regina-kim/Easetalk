@@ -1,0 +1,116 @@
+{
+  "id": "vnvujj",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here to share something. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, so I'm a bit torn about my major right now. I really want to focus on computers, but my advisor thinks I should stick with an associates in arts for transferring out of community college. I'm not sure which path to take.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and the context regarding their major choice dilemma. However, further exploration of their thoughts, feelings, and potential impacts of each choice is needed to fully understand their perspective and build rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major is a big decision and it's understandable to feel torn. You feel uncertain because you value both your interest in computers and your advisor's guidance. What draws you to focus on computers?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've always been fascinated by technology and how computers work. I just imagine myself working in a tech field and doing something I'm passionate about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story, including their thoughts and feelings about their major, has been elicited. The client has expressed a conflict between their interest in computers and their advisor's recommendation. Empathy and rapport have been established and the relevant context has been provided.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "The thought of working in a tech field clearly excites you and aligns with your passion. Considering this, how do you envision your future if you were to pursue a career in technology compared to staying on your current path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I see myself diving into projects that challenge me and working with others who share similar interests. With tech, I feel like I'd be more engaged and satisfied in my career compared to following a more general arts path.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed passion and vision for a career in technology, indicating Change Talk. They have identified a specific change goal: pursuing a tech career. Ambivalence seems reduced as they express more engagement with the tech path. These suggest readiness to move to the Choosing phase to develop actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're leaning towards a career in technology, which you associate with engagement and satisfaction. Let's explore some possibilities. You could consider starting with tech-related courses while still pursuing your current path to test the waters. Alternatively, you might look into tech internships or part-time work for hands-on experience. What steps do you think could help you gain clarity on this decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): That's a good idea. I think taking a few tech courses could really help me see if it's the right fit. Maybe I should also talk to people who are already in the field or try to find a part-time job related to tech to get some real-world experience.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of exploring a career in technology and has articulated specific actions, such as taking tech courses and seeking field experience. Barriers have been addressed, and the client is willing to self-monitor by consulting with professionals. The client shows commitment and readiness to take steps, indicating confidence in their ability to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your plan to take tech courses and seek real-world experience sounds like a solid approach to gaining clarity on your path. Engaging with those already in the field and testing the waters could really help solidify your decision. Balancing both paths at first can give you insight without closing any doors prematurely. You're making thoughtful steps towards your future, and that's truly commendable. As you move forward, remember to be patient with yourself and open to what you discover. What's one small step you could take this week to start on this journey?",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think I'll start by looking up some tech courses that I can take next semester. Maybe I’ll also reach out to any tech clubs or groups on campus.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear plan to explore tech courses and gain real-world experience, addressing their primary concern and indicating readiness to make an informed decision.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Associates in arts or Associates in science? Transfer out of community college.\nSo I want to major in computers which is associates in science but my advisor wants me to stay in associates in arts and use it to transfer out of community college.\n\nShould I listen to my advisor and stay in associates in arts or go into associates in science and follow the computers path way in the college.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

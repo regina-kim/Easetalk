@@ -1,0 +1,116 @@
+{
+  "id": "y65uct",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. What's been going on for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, yeah, I've just been feeling a bit anxious about my future. It feels like I'm not really gaining any useful skills in college, and I'm worried about how that's going to affect my job prospects.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about their concerns regarding college education and job prospects, providing context about their academic experiences and self-driven efforts. The therapist has built rapport and the client's story is well-understood. They have shared mutually agreed upon goals like gaining useful skills.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "What skills do you envision gaining that would align with your future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: I guess I was hoping to get more practical programming skills, like being able to work on real-world projects or understanding how to build complex software. Right now, it just feels like I'm missing out on the kind of experience that would make me job-ready.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear discrepancies between their current skills and their future career goals. They have identified a need for practical programming skills, explored life without change, and have shown some initiative in learning HTML/CSS. However, specific change goals and confidence levels are not clearly established yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Gaining practical programming skills sounds important to you for feeling job-ready. How different do you think life might be if you were working on real-world projects?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it'd make a huge difference. I'd feel more confident about applying for jobs and like I actually have something to offer. Plus, having that kind of experience would probably ease a lot of my anxiety about the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current skills and career goals, indicating motivation for change. They've explored how gaining practical skills could positively impact their job confidence and future. Decreased anxiety is linked to acquiring these skills, signaling a decrease in ambivalence. Although no specific next step was discussed, the client is ready to consider actionable plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It appears that gaining practical experience could significantly boost your confidence and ease your anxiety. Let's explore some options together. Based on what you've shared, potential steps might include seeking out internships, joining project-based clubs, or even finding online platforms that offer real-world projects. Which of these, or perhaps another idea, resonates most with you as a goal to work towards?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I think seeking out internships sounds like a good start, but I'm also interested in joining some project-based clubs. Maybe doing both could give me a better sense of what it's like to work on actual projects and help build some skills.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear goals, such as seeking internships and joining project-based clubs, and has shown commitment by expressing interest in pursuing these options. Barriers have been discussed, and the client is motivated to take action, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's great to hear that you're considering both internships and project-based clubs as pathways to building practical skills. This dual approach can offer you a broad range of experiences and help boost your confidence. Let's summarize your next steps: you'll start exploring internships that align with your interests and look into joining clubs that focus on real-world projects. Another key strategy might be to break these goals into smaller tasks, like researching potential companies or clubs and reaching out for more information.\n\nIt's commendable that you're taking proactive steps toward your future—this shows a lot of determination. Remember, it's okay to take things one step at a time. If you ever feel overwhelmed, revisiting your priorities can be helpful.\n\nGoing forward, perhaps setting a goal to apply to a certain number of internships or attend a few club meetings each week could keep you on track. I'm here to support you, and we can review your progress together. How does that sound as a plan to move forward?",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "That sounds like a solid plan. I feel a bit nervous about reaching out, but I know it’s a step I need to take.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals and steps, addressed coping strategies, and established a clear next-step plan for internships and clubs. The client has expressed understanding and motivation to proceed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feel like my college is useless\nI’ve been getting As and A+s since college started, and I’m almost never getting challenged. This isn’t to brag, I’m not that smart, but I am diligent. It’s more like most of my classes are online and most of those are evaluated based on coursework and final “reports” rather than exams, which makes it very easy to get very good grades for me, since I don’t actually have to study at all, except for the week I’m writing the report.\n\nI have literally not had a single in person exam since I got into uni, and even courses where I barely understand anything I get an A or A+ on. I’m in CS, and I was expecting to learn some actually useful skills. Now I’m in 3rd year, supposed to be looking for jobs and internships, but feel woefully unprepared for anything. Literally feels like I haven’t learned a single useful thing since high school. We did have some programming courses, but the most complex thing they had us build is an angry birds clone in Java. \n\nI’ve started to learn HTML/CSS on my own time just so I can have SOME form of marketable skill, but I’m always worrying about my future. Idk if I’ll find a job at this rate. This is supposed to be a top 10 school in Japan too….",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

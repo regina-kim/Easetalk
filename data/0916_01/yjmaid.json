@@ -1,0 +1,179 @@
+{
+  "id": "yjmaid",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been going on in your life lately that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I'm feeling a bit anxious lately. I've been thinking a lot about starting college at my age and it's making me feel kind of behind compared to everyone else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared her main concern about starting college later than usual, along with the emotions of anxiety and feeling behind. However, the conversation needs more exploration of her feelings and thoughts regarding the steps ahead and her motivations before proceeding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Starting college can indeed bring up a lot of emotions, especially when you're feeling behind. What is it about starting college at this time that makes you feel anxious?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: I guess it's just seeing my friends who are already graduating and starting their careers. It feels like I've missed out on time or experiences that I should have already had.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, revealing thoughts and feelings about starting college later than peers. The therapist has demonstrated empathy and understanding. However, mutually agreed goals have not been clearly established yet in the conversation.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel like you're missing out when you compare yourself to others. You might be feeling anxious because you're worried about being on a different timeline than your friends. What are some experiences or goals you hope to achieve by going to college now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: I really want to focus on learning and getting a degree in something I’m passionate about. Plus, I hope to build some new friendships and maybe figure out what kind of career path I want to take.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story including their anxiety about starting college later than peers, comparisons with friends, and goals for college. Rapport and empathy have been established, and mutually agreed goals about exploring college motivations have appeared.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Pursuing a degree in a field you're passionate about can be really rewarding. Building new friendships and exploring career paths are wonderful goals. On a scale from 0 to 10, how confident do you feel about achieving these goals through college?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Maybe around a 6? I feel like I can do it, but the idea of actually starting and going through the whole process is kind of intimidating. It's just a big change, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear change goal of pursuing a degree and building friendships, with confidence at 6, indicating a moderate belief in their ability. Ambivalence is present but shifting. Discrepancy between past obstacles and future aspirations has been explored, with the client showing signs of readiness to address their anxiety about starting college.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Starting something new can definitely feel intimidating, especially when it's a big change like college. You mentioned wanting to learn and make new friendships. Would you like to explore some specific steps or strategies to help you get started on this journey with confidence?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Yeah, that sounds helpful. I think having some sort of plan or steps to focus on might make everything feel a bit more manageable. It's just hard to know where to start sometimes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still in the process of developing a concrete action plan and exploring specific strategies to build confidence for starting college. While the client has expressed readiness to begin, they have not yet detailed the steps they will take or how they will handle potential barriers. Continuation in the Choosing phase is needed to solidify these plans.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Creating a plan can definitely make things feel less overwhelming. Since you want to focus on learning, making friends, and figuring out your career path, possible first steps could be joining study groups or campus clubs to meet people with similar interests. How does that sound, and are there other steps you might want to consider?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Joining study groups and clubs sounds like a great idea. I think maybe attending some orientation events could help too, just to get a feel for the campus environment.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to start college and an initial action plan to join study groups, clubs, and attend orientation events. Barriers like feeling behind are acknowledged, and the client seeks a structured plan. Confidence is at a 6, showing readiness but needing reinforcement. The conversation has progressed positively but would benefit from further strengthening of detailed plans and confidence before moving to Terminating.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Attending orientation events is a great way to get familiar with the campus and meet new people. Joining clubs and study groups can definitely help in building those friendships and connections. What kind of clubs or activities are you interested in that could align with your passion or career goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I'm really into writing and the arts, so maybe joining a creative writing club or something related to theater could be fun. Also, anything that could give me some insight into potential career paths would be awesome.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated clear goals and an action plan involving joining clubs, study groups, and attending orientation events. Barriers such as feeling intimidated have been discussed and strategies to overcome them have been agreed upon. The client is showing readiness and commitment by refining action steps and expressing interest in specific activities.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Diving into writing and arts clubs sounds like a perfect way to align with your interests and explore career possibilities. It's great to see you considering activities that could offer both personal fulfillment and professional insights. As you explore these opportunities, remember that taking small steps can gradually build your confidence over time. You've got a solid plan that includes attending orientation events, joining clubs, and engaging in study groups. These actions can create a supportive network and help you feel more at ease with this transition. \n\nYou're stepping into this new phase with thoughtful intentions, and that's something to be proud of. As a next step, it could be helpful to jot down a list of any clubs or events that catch your eye and start reaching out or attending those that resonate with you. Remember, it's okay to take things one step at a time. If you ever feel unsure along the way, know that support is always available to you. You’re embracing change, and you’ve got what it takes to navigate this journey. ",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, I'll try to keep that in mind and not rush things. I'll start by checking out some of those clubs and orientation events.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The termination goals are met, as a summary of the client's goals, steps, and coping strategies has been discussed. A next-step plan has been formulated, addressing the client's primary concerns and providing closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Starting college at 22/23\nHi ya'll, due to a number of obstacles in the past few years, I haven't gone to college at a 'normal' age. I think I'm ready to do it, but I feel so behind and weird about starting as an older student (22F). It's weird for me to start when most people are finishing up. I'm already accepted at my local community college and can enroll anytime, but I'm really anxious about it. How common is it for students to start later in life? Thanks!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

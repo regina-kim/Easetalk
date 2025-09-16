@@ -1,0 +1,158 @@
+{
+  "id": "tv2z3q",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. Feel free to share anything on your mind or any thoughts you might want to explore together.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I'm just feeling a bit unsure about what major to choose. I tried computer science, but it was too tough, and I'm considering business administration now. Just trying to figure out if it's the right path for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their initial thoughts and concerns about choosing a major but hasn't delved deeply into their feelings or the context influencing their decision. Empathy and rapport are still being established, and more exploration is needed to understand the underlying motivations and concerns.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can definitely feel overwhelming. You're feeling unsure because computer science didn't seem like the right fit, and now you're exploring business administration as a possibility. What are some things about business administration that interest you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I guess what interests me about business administration is that it seems practical and useful in a lot of career paths. I like the idea of learning about how businesses run and maybe working in a management role someday. But I've also heard mixed things about it, so I'm not totally convinced yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their concern about choosing a major and provided relevant context about their thoughts, feelings, and considerations regarding business administration. The therapist has shown understanding and empathy. The conversation has established a foundation for exploring motivations and considerations further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's great that you're considering how practical business administration could be for your career aspirations. Imagining yourself in a management role seems exciting. What would life look like for you if you pursued this path, and how does that align with your long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Well, if I pursued business administration, I think I'd like to work in a company where I can help things run smoothly and maybe even lead a team. It seems like a flexible degree that could open up different opportunities, but I'm not entirely sure how it fits with my long-term goals yet. I guess I'm still trying to figure out what those goals really are.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed uncertainty about aligning business administration with long-term goals, indicating exploration of values and goals is incomplete. While future possibilities were considered, confidence and specific change goals are not clearly established. Ambivalence remains, as evidenced by concerns over mixed reviews and academic requirements. Guiding should continue to clarify goals, confidence, and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Exploring what leading a team and ensuring smooth operations could mean for you seems important. How do you envision your career and personal growth with these responsibilities, and how do they connect with the life goals you wish to achieve?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I think having those responsibilities could help me grow a lot, both professionally and personally. It would push me to develop leadership skills and maybe give me more confidence. As for life goals, I just want to find a stable career that I enjoy and that offers good opportunities, but I'm still trying to nail down exactly what that looks like. Right now, I'm just trying to make sure I take the right steps towards that.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific interests and potential career goals related to business administration. Change Talk has emerged, and the client is examining life with and without pursuing this path. However, as the client remains uncertain about how it aligns with their long-term goals, further exploration of these goals and confidence building is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your desire for growth and stability in your career is evident, especially with the idea of developing leadership skills. As you think about the steps to take, what aspects of a career would make you feel truly fulfilled and aligned with your life goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I think I'd feel fulfilled if I was doing something I enjoyed and felt challenged by, but also had a balance where I wasn't constantly stressed. I want to feel like I'm making a difference, even if it's just in a small way, and have the chance to advance and learn new things. Stability and good work-life balance are important too, so I can enjoy life outside of work.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, exploring both current interests and goals, and how business administration could fit. They have identified aspects of a fulfilling career and are actively considering next steps. Confidence in their potential growth and desire for stability are evident, and ambivalence appears to be decreasing. These indicate readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a fulfilling career that balances enjoyment, challenge, and stability is a thoughtful goal. Given your interest in business administration, let’s explore some specific steps you could take towards this path. You might consider researching companies or industries that value work-life balance and offer opportunities for advancement. Alternatively, you could look into internships or talk with people in the field to get a better sense. How do these options sound to you, and what might be your first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): Those options sound really helpful, actually. I think researching companies and industries could give me a better idea of where I might fit in. Talking to people already working in the field seems smart too, like getting some real-world insight. Maybe I can start by reaching out to my university's career services to see if they have any resources or contacts in business administration.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps, such as researching companies and contacting career services, indicating a clear action plan. The client has also discussed potential barriers, demonstrating readiness to take next steps with confidence. These indicate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "That's a proactive and insightful plan. Reaching out to your university's career services is a fantastic first step. It reflects your dedication to making an informed decision about your future. By exploring these resources and engaging with people already in the field, you can gain valuable perspectives that align with your goals for stability, growth, and work-life balance. Remember, each step is progress towards clarity and fulfillment. You're doing great, and I'm here to support you as you navigate these choices. Keep me updated on how it goes, and we'll continue building on this together.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely keep you posted on how things go with career services. It's good to know I'm heading in the right direction, and having someone to talk things through with really helps.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly identified specific steps to take toward exploring business administration, including engaging with university career services and networking for insights. Termination goals are met with a summarized plan and supportive closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I Major in business administration ( B.A)\nHey everyone, \n\nI am a first-year student at a university and I am still not sure what major should I select I tried Computer science but it was way too hard for me, and of the other majors  Business administration stood out to me as something useful, but I have read on Reddit and other forums by some people that it is not very good of a major, I am thinking of doing a minor in French ( French is an official language here in Canada so this is something that is pretty useful to study here )  and Psychology ( minor ) to go with it? And also is Business administration something that is very hard? Because my degree required me to have B- in every business course I think. I appreciate your answers and am sorry for any typos or mistakes English is not my first language.\n\n&amp;#x200B;\n\nThanks.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

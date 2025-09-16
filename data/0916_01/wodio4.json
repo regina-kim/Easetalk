@@ -1,0 +1,158 @@
+{
+  "id": "wodio4",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Kinda overwhelmed, to be honest. I thought transferring my credits would be smoother, but it's been a headache.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has initiated the conversation and the client has shared their main concern about transferring credits and feeling overwhelmed. However, more dialogue is needed to fully understand the client's thoughts, feelings, and context behind their situation to build rapport and agree on goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really stressful. You're feeling overwhelmed because the process of transferring your credits hasn't gone as smoothly as you hoped. What's been the most challenging part for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, I thought they would've accepted more credits, but they only took 27. It feels like all the work I put into my Associates is just wasted.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story and their feelings of being overwhelmed and discouraged regarding credit transfers. Though there is an understanding of their main issue, more exploration is needed to fully understand their emotions and potential goals before shifting to strengthening motivation.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It makes sense that you're feeling like your hard work isn't being recognized as you expected. The frustration of not getting as many credits accepted as you thought can feel disheartening. What are your thoughts on your next steps or how you'd like to handle this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Right now, I'm just really unsure. Part of me is thinking about just giving up on the whole bachelor's thing, but I know that's not really what I want. It's just tough to stay motivated when it feels like I'm starting from scratch.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of overwhelm and frustration over the credit transfer process, communicated their discouragement, and expressed uncertainty about continuing with their bachelor's degree. The therapist has demonstrated empathy and understanding, but there is a need to deepen understanding of client's feelings and thoughts to support goal setting.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "It sounds like you're caught between the feeling of wanting to continue your education and the discouragement of what feels like a setback. It's understandably tough to stay motivated when it seems like you're back at the starting line. Have you experienced any similar situations before where you felt unsure, and how did you handle them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "There have been times in the past where things didn't go as planned, like when I was applying to colleges initially. I usually deal with it by taking a step back and trying to focus on the bigger picture, but this feels bigger, you know? It’s like I’m questioning if it’s worth it to push through.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including feelings of being overwhelmed and discouraged by the credit transfer process. They have expressed thoughts of wanting to give up but also recognize their desire to continue. The therapist has shown empathy and understanding. The session has built adequate rapport and identified key concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Reflecting on past experiences where you stepped back to see the bigger picture shows resilience. It seems like considering the larger goals has been helpful for you in the past. How do you think reconnecting with your long-term goals might influence your motivation now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Yeah, you're right. Focusing on those long-term goals usually helps me put things in perspective. I just need to remind myself why I wanted to get my bachelor's in the first place and that it’s just a bump in the road, not the end.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by reconnecting with their long-term goals and recognizing the setback as a temporary obstacle. They have acknowledged past resilience strategies, and their motivation is being recalibrated. Although more exploration in Guiding could be beneficial, the client seems ready to move forward given their openness to change and reflection on their goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Recognizing that this is just a bump in the road brings a sense of perspective. As you think about reconnecting with your long-term goals, what specific steps might you take to keep that focus and motivation alive? Perhaps exploring options like setting short-term milestones or seeking support from advisors could be helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): Setting some short-term goals sounds doable, like focusing on a few classes at a time instead of the whole program. Maybe talking to an advisor could give me better insight into what to expect and how to navigate these requirements. It might help to break it down into manageable pieces.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to focus on individual classes and consider advisor support. They have discussed potential barriers and expressed willingness to self-monitor through short-term goals. The client shows readiness by acknowledging the situation as a temporary setback and focusing on long-term benefits, indicating motivation and confidence to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "You've come up with some really proactive steps that can make a big difference. Setting short-term goals and focusing on a few classes at a time can make the journey feel less overwhelming. Reaching out to an advisor could provide clarity and guidance, helping you see a clear path forward. It's great to hear you're considering these strategies to break things down into manageable pieces. Remember, this journey is about progress, not perfection.\n\nAs you move forward, continuing to connect with your long-term goals and reminding yourself why you started this journey will be key. You've shown resilience before, and you're doing it again now. I'm confident you have what it takes to push through these challenges. Let's check in during our next session to see how things are going. Until then, feel free to reach out if you need support or want to share any updates. Keep being kind to yourself—you're doing an incredible job.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I'll try to keep my goals in mind and take things step by step. I'll definitely reach out if I need to talk.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a summary of strategies and a plan for next steps, including setting short-term goals and consulting an advisor. The client expressed understanding and readiness to proceed, indicating closure has been achieved.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Transfered my Associates degree\nAnyone else transfer an Associates only to have the next school nitpick what credits they would take? Im feeling extremely discouraged that only 27 credits were accepted. Honestly don’t even want to bother starting my bachelors anymore",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "st3p0e",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks. I'm feeling a bit mixed today, just kind of reflecting on the past and wondering if I've missed out on some important experiences.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about missing out on typical teenage experiences, including their emotions and context, such as friendships and college. There's a sense of reflection and potential regret, but more exploration is needed to fully understand their feelings and thoughts.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Reflecting on the past can bring up a lot of emotions. You're feeling mixed because you're contemplating the importance of experiences you might have missed. What kind of experiences are on your mind right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I've been thinking about the things people usually associate with being a teenager, like going to parties, dating, and all that. It just feels like I missed out on those typical moments.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and feelings about missing out on typical teenage experiences have been clearly shared, including the relevant context of friendships and college life. Empathy is established, and the client’s concerns are well-articulated. The mutual understanding of the client's reflective state suggests readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be tough to feel like you've missed out on those classic experiences. When you think about what you want for your future, how do these reflections on your past influence your goals or hopes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): I guess I'm hoping to be more open to new experiences and not hold back as much. I want to make sure I don't look back on my twenties feeling the same way I do about my teens.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified a specific goal of being more open to new experiences. Ambivalence seems to be decreasing as the client is focusing on future aspirations. Change talk is present, suggesting readiness to discuss actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Embracing new experiences and ensuring you don't have regrets in the future is a meaningful goal. Based on what you've shared, some options might include exploring new social activities or trying things you've always been curious about. How do you feel about setting a specific goal to start this journey, and what steps might you consider taking first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): Setting a specific goal sounds like a good idea. Maybe I could start by joining a club or group on campus to meet new people and try something different. That seems like a manageable first step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of embracing new experiences and proposed a concrete action plan to join a club or group on campus. Barriers have been considered as they acknowledge a manageable first step, indicating readiness with commitment and confidence in change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Joining a club or group on campus sounds like a wonderful and manageable step towards opening yourself up to new experiences. This could be a great way to meet new people and explore areas of interest you haven't yet tapped into. \n\nLet's summarize your goal and the actions you'll take: You've decided to become more open to new experiences by joining a club or group. This step is about trying something different and meeting new people, which aligns perfectly with your desire to not look back with regrets.\n\nIt’s encouraging to see you taking such proactive steps toward your goals. Remember, it's all about taking small steps and enjoying the journey. If you ever feel unsure or need support, we're here to walk alongside you. Keep reflecting on your values and what truly matters to you as you move forward.\n\nFor the next step, perhaps you could research a few clubs or groups and decide which ones resonate most with your interests. Keep in mind that it’s okay to try more than one until you find the right fit. You've got this, and I'm excited for you to begin this new chapter.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll definitely start looking into some clubs and see what piques my interest.",
+      "phase": "terminating"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a specific goal to join a club or group, aligning with their desire to open up to new experiences. The therapist summarized the goal, steps, and coping strategies, and discussed next steps, providing closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Did I waste my teen years?\nI turn 20 tomorrow and I’ve been thinking back and reflecting on my life as a teenager and there really isn’t much there. I feel like I didn’t do the things that you’re supposed to do as a teenager. I’ve never been to a party, I don’t drink or smoke and never have, I’ve never been in a relationship or even been on a date. I spent most of my time in high school at home and same with the first year of college since it was online. I have a group of 6 close friends but now that we’re all in college we aren’t talking much. I just feel like I’ve missed out on some of the experiences people generally have growing up.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

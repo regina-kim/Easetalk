@@ -1,0 +1,137 @@
+{
+  "id": "192yl8y",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today? What's been going on in your life lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I’ve just been struggling to stay motivated with my last semester of school. It’s only been a couple of days, and I already feel like I’m dragging my feet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to unveil the client's concerns and context, such as lack of motivation and social isolation, but more detailed exploration is needed to fully understand the feelings and thoughts behind these issues.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It can be really tough to keep that motivation up, especially when you're so close to the finish line. What do you think might be contributing to this feeling of dragging your feet?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I think part of it is that I'm kind of burnt out from all the school work over the years. Plus, not having my friends around this semester makes it feel even harder to stay focused.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation successfully elicited the essence of the client's story, including their thoughts and feelings about motivation and burnout. The context of being the only one in school among friends and the struggle with motivation towards the end has been understood. Empathy and rapport are established.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It’s understandable to feel burnt out after all the hard work you’ve put in. Being without your friends can definitely make things feel more challenging. How would things be different for you if you found a way to regain some motivation and focus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "If I could regain some motivation and focus, I think I'd feel more confident and less stressed about finishing my degree. It would be nice to look forward to graduation without feeling overwhelmed by everything leading up to it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to regain motivation and focus, showing some Change Talk. However, specific change goals or next steps have not been identified. Ambivalence about finishing the semester still seems present, given the initial concerns of burnout and isolation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Regaining that motivation and focus seems really important to you and could bring a sense of relief and confidence. What strengths or past experiences do you have that might help you tap into some of that motivation again?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): I've always been pretty good at pushing through when things get tough, like during finals in previous semesters. I guess I could try setting small goals again to make everything feel more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses Change Talk by identifying the benefits of increased motivation and considering small goals to manage stress, showing engagement with potential changes. There's a specific change goal of regaining motivation. The conversation explores discrepancies and strengthens motivation, indicating readiness for planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Setting small goals sounds like a great way to make things feel more manageable. Would you like to explore creating an action plan that incorporates setting small goals? We could also identify any potential barriers and ways to overcome them. What are some specific small goals you might consider starting with?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): Sure, I think an action plan could be really helpful. Maybe I could start with setting daily goals for my assignments, like dedicating specific times for studying, and then reward myself when I stick to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a specific action plan involving setting daily study goals with rewards. They've discussed possible barriers, like burnout and lack of social support, and agreed on self-monitoring through setting and achieving manageable goals. The client has shown commitment by engaging in the planning process, indicating readiness for transition.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds like a solid start to your action plan – setting daily goals and rewarding yourself for sticking to them can really boost your motivation. You're drawing on your past successes, which is a powerful strategy. It's great to see you acknowledging your ability to push through tough times. \n\nLet's summarize the key goals and steps you've decided on: you're aiming to stay motivated by setting daily goals for your assignments and dedicating specific study times. Rewarding yourself is a great way to keep things positive and give you something to look forward to.\n\nFor coping strategies, remember that reaching out to friends, even virtually, could help lessen the feeling of being overwhelmed. \n\nYou're doing a fantastic job recognizing what's worked for you before and applying it now. As your next step, consider writing out your daily goals for the week ahead and choosing small, meaningful rewards. Remember, I'm here to support you as you work through this. You've got the tools and strength to make it to graduation. Keep going!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and guidance. I'll definitely try to set up those daily goals and rewards. Let's see how it goes this week!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a summary of goals and strategies, an action plan, and encouragement, meeting termination goals. The client is set to implement the plan, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How the hell do you stay motivated to finish?\nIt’s my last semester of school and I have absolutely no motivation to finish. We’re only two days into the semester and if it’s already this bad, I can only imagine what it’s going to be like as the semester progresses. It doesn’t help that I am the only one of my friends in school this semester. How do I stay motivated and finish strong? Any advice is appreciated",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

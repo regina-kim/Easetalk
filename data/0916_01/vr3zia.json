@@ -1,0 +1,137 @@
+{
+  "id": "vr3zia",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm feeling a bit overwhelmed and anxious today. I've been really stressed about how I did last semester and it's been hard to shake off those feelings as I start this new semester.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed and personal account of their struggles with anxiety and burnout, providing insight into the context of their feelings. Rapport appears to be established, and the client has clearly articulated their concerns and goals. This satisfies the criteria for transitioning to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It can be tough starting fresh when past challenges linger. What would it mean for you to approach this semester differently?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I think it would mean trying to be more forgiving of myself and finding a way to manage my stress better. I really want to focus on being consistent and not letting my anxiety hold me back from taking on the semester head-on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a desire for change and identified specific goals like managing stress better and being more forgiving. They showed determination to tackle the semester. Though the past was discussed, no specific action plans were formed yet. The conversation hasn't fully clarified discrepancies or used confidence rulers.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Acknowledging your desire to forgive yourself and manage stress shows courage. How might these changes impact your daily life and your sense of accomplishment this semester?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): If I could be kinder to myself and manage stress well, I think I'd feel way less overwhelmed and more in control of my day-to-day life. It'd probably help me stay on top of my studies and feel proud of what I'm achieving, instead of just worrying all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for self-forgiveness and stress management, acknowledging how these changes could improve their daily life. They show determination and reflect on the impact of change, indicating readiness. Change Talk is present, and ambivalence seems reduced. The next step is to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Exploring ways to feel more in control and proud sounds empowering. What steps do you think you could take to start being kinder to yourself and managing stress? Some possibilities might include setting aside time for relaxation or developing a consistent study schedule. How do those options resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): Yeah, those sound like good ideas. I think setting a consistent study schedule could help me feel more organized, and making time for relaxation might help with the stress. Maybe I could try scheduling some breaks to do things I enjoy or even just to breathe for a bit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific actions to manage stress and be kinder to themselves, such as setting a study schedule and relaxation breaks. Barriers are understood, and they express determination and strategies to move forward. However, the client exhibits substantial anxiety about facing peers and opening emails, indicating the need for further support in managing these emotions before advancing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Creating a consistent study schedule and taking time for relaxation both sound like promising steps. Developing a plan that includes scheduled breaks to enjoy activities or simply unwind can be very beneficial. What specific times or activities do you think you'd like to incorporate into this plan to ensure you have a balance between study and relaxation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think I'd like to set aside some time in the evenings for myself, maybe an hour or two before bed to just unwind. As for activities, I enjoy reading, listening to music, or even taking a short walk. I think mixing those into my routine could help me relax and reset after a day of classes and studying.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear action plan involving a study schedule and relaxation activities. They have also discussed barriers like anxiety and made commitments to relaxation techniques. Confidence in these changes is evident, with the client expressing determination and a desire to prevent past anxieties from affecting the current semester.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Incorporating evening wind-down time sounds like a wonderful way to nurture yourself and manage stress. Reading, music, and walks can offer that much-needed mental refreshment. Balancing your study routine with these relaxing activities could really enhance your feeling of control and reduce overwhelm. Creating a consistent pattern could also help you approach each day with more calmness and confidence. It takes strength to prioritize your well-being in this way, and it's impressive to see you taking these steps.\n\nTo wrap up, you've decided on a consistent study schedule, with intentional breaks for relaxation activities you enjoy. Moving forward, you might consider tracking how these changes impact your stress levels and feelings of accomplishment. Remember, it's okay to adjust your plan as you learn what works best for you. I'm here to support you along the way, and we can discuss your progress and any adjustments next time. Take care and keep believing in your ability to navigate this semester.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll give this new plan a try and see how it goes. Looking forward to talking more about it next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, coping strategies, and next steps. The client has a plan for managing stress and appears ready to implement it. Termination goals have been met with closure invitation.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Tips on overcoming burnout + anxiety over previous semester results\nlong tory short I had a pretty traumatic previoos semester (went through a miscarriage and a bad breakup all within the last 6-7 weeks of school) and might have fumbled my first semester of the year cause my mental health went to shit and I felt so burntout by the time exam's had rolled around - I didn't work as hard as l should've/would've under normal circumstances. \n\nthis week is the first week of my second semester of the year and although I feel mentally stronger than I did previously &amp; actually quite determined to deal with the semester, im also experiencing extreme crippling anxiety over my performance and results of the previous semester (like I literally can't bring myself to open my student email and today, which was the first day of school, I just sat in my car in the uni carpark for almost 2 hours before ultimately driving home because I was afraid to see my peers &amp; lecturers - I don't know why lol). i really don't want to let the burnout i experienced in the previous semester &amp; thr anxiety over it all spill over into the present and affect my studies this semester. \n\nany tips on getting over burnout as well as dealing with/letting go of anxiety surrounding performance in the previous semester?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

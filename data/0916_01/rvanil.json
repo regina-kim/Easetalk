@@ -1,0 +1,137 @@
+{
+  "id": "rvanil",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to meet you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, nice to meet you too. I just feel really overwhelmed with the start of the new semester, especially with everything being online for the first two weeks. It's hard to figure out where to even begin.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and provided some context about the online semester's impact. However, further exploration is needed to understand deeper motivations, specific stressors, and goals before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Starting a new semester online can indeed feel overwhelming. You're feeling this way because the shift to online learning has created uncertainty about how to organize and get started. What's been the most challenging part for you so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, it's been trying to keep track of everything with different syllabuses and deadlines. It feels like everything's happening at once, and I can't seem to focus on just one thing without worrying about everything else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and the context, expressing feelings of being overwhelmed by the new semester and online transition. The counselor has demonstrated empathy and understanding, but mutual goals haven’t been clearly established yet. To ensure a comprehensive understanding, continuing in the Exploring phase would be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really tough to juggle multiple deadlines and syllabuses, especially when everything feels like it's happening simultaneously. You feel scattered because there's so much to manage at once. How have you managed in similar situations before, or is this experience new for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I’ve definitely felt overwhelmed before, but it feels more intense this time with everything online. Usually, I try to make a schedule or a to-do list, but even that feels like a lot right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about feeling overwhelmed with the transition to online learning, difficulties with managing schedules, and a sense of increased intensity. The therapist has empathized and explored past coping strategies. The client's story, context, and feelings have been elicited clearly, and rapport seems established.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Creating a schedule or a to-do list has been helpful for you before, though it seems more daunting now. What do you think might help to make that process feel more manageable this time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Maybe breaking things down into smaller steps could help, like focusing on just one day's tasks at a time. I guess trying to set shorter, more specific goals might make it seem less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to articulate specific ideas for change, like breaking tasks into smaller steps and setting shorter goals. There is evidence of Change Talk and a specific change goal, indicating a shift towards readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Focusing on smaller steps and setting specific, shorter goals sounds like a solid strategy. To help make this feel manageable, you could consider setting a goal to focus on one day's tasks each morning. Another option might be to create a simple checklist for daily tasks. Which of these, or perhaps another approach, would you like to try first as your next step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I think starting with a simple checklist for daily tasks might be a good place to begin. It sounds less intimidating, and I can just take it day by day without getting too caught up in everything else.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and a concrete action plan of using a simple checklist for daily tasks. Barriers like feeling overwhelmed have been discussed, and the client seems confident in starting with manageable steps. The client shows commitment and readiness to take steps. Therefore, it's reasonable to consider moving to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Starting with a simple checklist each day is a wonderful approach to manage your tasks without feeling overwhelmed. You've made a thoughtful decision, and breaking each day into manageable parts can bring clarity and calm. Remember, it's perfectly okay to take things one step at a time. I admire your willingness to find strategies that work for you. As you begin this process, it might be helpful to reflect on what you accomplish at the end of each day, which could boost your confidence moving forward. We'll check in next time to see how this strategy is working for you. You've got this, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll give the checklist a shot and see how it goes. I'll try to focus on what I get done each day, and let's see how it feels by next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next step with a daily checklist strategy and has expressed a willingness to reflect on daily accomplishments. The session concluded with a supportive reflection, meeting the termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I’m feeling so overwhelmed on the first day again\nWho else feels this way on the first day? I am kind of lost because there are so many syllabuses to read and things to plan out. I just can’t focus on one class without worrying about the other. Idk what class to work on. I usually get into the flow of it but especially moving online for the first 2 weeks it is not fun",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

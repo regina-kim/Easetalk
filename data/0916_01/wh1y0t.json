@@ -1,0 +1,179 @@
+{
+  "id": "wh1y0t",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? I'd love to hear more about your story and what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've just been feeling super stressed with juggling work and school. I worry a lot about not doing well in my classes and letting my parents down.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern about managing stress related to school and work, fear of disappointing parents, and challenges with time management. However, deeper exploration of feelings, values, and any previous strategies attempted would further enrich understanding of the client's situation.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Balancing work and school sounds really challenging, and it's understandable to feel stressed about it. Could you share more about what aspects of this situation are most on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Lately, it's mostly about finding time to study and getting my assignments done. I always feel like I'm running out of time, especially since I'm not great at studying in the first place.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern about balancing work and school, and their fear of disappointing their parents. The therapist has shown empathy and understanding. However, the conversation may benefit from further exploration to fully understand the client's context and emotions.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds overwhelming, trying to manage your time while worrying about your study skills. You seem to feel anxious because there's pressure to meet deadlines and perform well. How do you typically manage when you feel like time is slipping away?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Honestly, I usually end up staying up really late trying to cram everything in, but then I'm exhausted the next day. It's like a cycle I can't break out of.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns and emotional state, including stress from balancing work and school, fear of disappointing parents, and ineffective study habits. The therapist has demonstrated empathy and understanding, and the client has provided context on their challenges and feelings. This suggests the Exploring phase goals have been met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Pulling those late nights to catch up really drains your energy. I'm wondering, what would life look like if you could break free from that cycle?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: If I could break free, I'd probably feel a lot more relaxed and maybe even enjoy what I'm studying. I'd have more energy during the day and wouldn't feel like I'm constantly behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific challenges and the desire for change, along with the benefits they perceive from breaking the cycle. Although change talk is present, a specific change goal or next step is not yet clear. Confidence levels have not been explicitly measured, and further exploration can clarify goals and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Imagining a more relaxed and engaging study experience sounds appealing. What do you think it would take for you to move towards that more balanced life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I guess it would take some serious organization skills and maybe learning how to study better. It might help to find a routine that works for me and stick to it, but I’m not really sure where to start.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a discrepancy between their current behavior and desired outcome. They have expressed Change Talk by envisioning a more balanced life and identified potential steps like organization and study skills. However, specific change goals or next steps have not been clearly defined, and confidence in achieving this is uncertain. Further exploration of strategies is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a routine that works could really transform your experience. What small changes do you think could boost your confidence in organizing your time or improving your study habits?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Maybe I could start by setting specific times for study and breaks so it's not all crammed into one late-night session. I could also try breaking assignments into smaller tasks to make them feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivations for change and identified specific steps like setting study times and breaking tasks into smaller parts. There is noticeable change talk and reduced ambivalence about finding solutions. The conversation has addressed life with and without change, discrepancy between current behavior and goals, and possible strategies to increase confidence. This readiness suggests moving towards developing actionable plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Creating a study routine with set times and breaking assignments into smaller tasks sound like promising steps forward. What would you like to aim for as your first goal in this process? We can brainstorm some options to support you in achieving it, such as using a planner or digital tools to manage your schedule. What are your thoughts on this?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I think using a planner could be a good start. I've never really stuck with one before, but if I get into the habit of writing down what I need to do, it might help keep me on track and reduce some of the stress. Maybe I could also try some apps that send reminders or help with organizing tasks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal of using a planner and possibly apps to organize their study schedule. They've identified a specific action plan to set study times and break tasks into smaller parts. Barriers like lack of habit sticking are acknowledged, with self-monitoring tools proposed. The client shows commitment and readiness by considering new strategies to manage time effectively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That's a great plan! Starting with a planner and exploring apps for reminders can definitely help make things more manageable and less stressful. It sounds like you're on the path to creating a routine that works for you. Let's summarize what we’ve discussed: Your main goal is to develop better study habits and time management. Your action steps include using a planner consistently and trying out digital tools to keep track of tasks and deadlines. By breaking assignments into smaller tasks and scheduling regular study sessions, you might find yourself more relaxed and capable of enjoying your studies.\n\nYou've already taken a significant step by identifying these strategies, and it's inspiring to see your commitment to making changes. Remember, it's okay to take it one step at a time and adjust as you learn what works best for you. As you start this new routine, feel free to reach out for any support or adjustments you might need. You've got this, and I'm here to support you along the way. Looking forward to hearing how things go for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll give it a shot and see how it goes. Hopefully, I'll be able to stick with it and feel less stressed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals are met with a summary of goals, action steps, and coping strategies. A next-step plan using a planner and apps for task management is discussed, with positive encouragement for support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Studies\nSo I’m a sophomore at my local cc and last year with a job I did fairly well with three classes though I did fail one (the teacher seemed like a general jerk anyway) but part of it was also the fact that I couldn’t really understand the assignments and the teacher was never much help. \nThis year I have two jobs and am taking four classes (3 in-person and 1 online) and I’ve never been really been really good at studying and generally slotting my time between classes and work for homework and such. Does anyone have any suggestions for being able to do schoolwork and getting it done well especially late at night when libraries and quiet places outside of home are closed?\nI’m afraid of flunking out of college and disappointing my parents",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

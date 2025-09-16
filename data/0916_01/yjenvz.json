@@ -1,0 +1,137 @@
+{
+  "id": "yjenvz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've been thinking a lot about going back to school for an MPH, but I'm feeling a bit unsure about the whole process and whether it's the right move for me right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has effectively elicited the client's story, including their thoughts and feelings about pursuing an MPH. The client has shared relevant context about their career and education, and there is a clear mutual focus on exploring their educational options and concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "What do you think pursuing an MPH could bring into your life? I'm here to explore those thoughts with you.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(guiding): I feel like it could open up new career paths, maybe in health policy or data analysis, which I find really interesting. Plus, I just want to get out of the rut I'm in with my current role, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed interest in pursuing an MPH, identifying potential benefits and a desire for career change. Change Talk is present, but there is no clear next step or goal, and confidence or ambivalence hasn't been explicitly addressed. It is prudent to continue exploring and evoking more detailed planning and confidence assessment before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be exciting to think about new career paths that align with your interests. What do you imagine your life might look like if you went ahead and pursued this change?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I picture myself working more on the bigger picture side of healthcare, like helping shape policies or analyzing data trends. I'd have more chances to make a broader impact than what I'm doing now, and hopefully, it wouldn't feel as stagnant as my current job.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in pursuing an MPH and identified benefits like escaping a career rut and aligning with their interests. However, a specific change goal or next step is not clearly defined yet, and confidence level hasn't been assessed. Ambivalence is still present regarding program difficulty and costs.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Envisioning a role where you can make a broader impact and feel more fulfilled sounds motivating. How does the idea of making a difference align with your personal values or long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Making a difference has always been important to me, and I think focusing on health policy could help me create positive changes on a larger scale. It aligns with my long-term goal of contributing to better healthcare systems and outcomes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in pursuing an MPH with specific career goals in mind, indicating a readiness to develop action plans. Change Talk is evident, and there's alignment with personal values. The conversation has effectively explored discrepancies and projected positive outcomes, suggesting readiness to advance to specific planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Choosing to focus on health policy for a greater impact speaks volumes about your dedication to your long-term goals. Considering your interest, what steps could you take to start exploring this path, like researching programs or connecting with professionals in the field? These could be some options to consider as you move forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I've actually started looking into some online and hybrid MPH programs like UMD and BU, mostly because they seem flexible and not too expensive. I'm also thinking about reaching out to people working in health policy to get their insights. It's just a bit overwhelming figuring out where to start.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of pursuing an MPH with a focus on health policy. They have started researching programs and are considering reaching out to professionals. Barriers such as program admission concerns and starting steps have been discussed. The client shows readiness by taking steps such as program research, indicating a commitment to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Exploring online and hybrid MPH programs and reaching out to professionals for insights indicates you're taking thoughtful steps toward change. Navigating these choices can understandably feel overwhelming, yet you've already shown great initiative. Breaking these tasks into smaller, manageable steps might help ease that feeling. Perhaps setting a goal to research one program a week or schedule one conversation with a professional can make the process more manageable.\n\nYour commitment to aligning your career with your values is inspiring. As you continue on this path, remember that support is available, whether it's through advisors, mentors, or resources. It sounds like you're on a meaningful journey, and taking it one step at a time can lead to fulfilling outcomes. I'm here to support you whenever you need to revisit and refine your plans.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, that's helpful. It feels a bit more doable when I think about breaking it down like that. I'll reach out if I get stuck or need to talk it through again.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan to research programs and connect with professionals. Coping strategies to manage feelings of overwhelm are discussed, and the client expressed understanding and agreement.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: MPH at 37? Currently an RN looking for a change\nI am strongly considering getting an MPH with an emphasis in health policy/data analysis. I am currently an RN case manager at a hospital and I'm tired of being \"bedside\" even though I don't work as directly with patients anymore. The role does not provide much growth unless I want to be in management and hospital management sounds like a nightmare to me. I'd like to go into health policy with some data analysis. I haven't been back to school since I graduated undergrad in 2007. Spent time staying home with my kids and I've been working regularly for almost four years now. \n\nAre the MPH programs hard to get into? I'm hoping my job experience gets me in. I left undergrad with a 3.3 GPA. Currently looking for an online or hybrid program, so far UMD (u of Maryland or BU online seem to have good options).  Any other suggestions for programs?  I'm hoping to stay under 40k.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

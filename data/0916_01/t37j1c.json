@@ -1,0 +1,221 @@
+{
+  "id": "t37j1c",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! Feel free to share what's on your mind or anything you'd like to discuss today. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really unsure about my next steps after high school. I've got a few options, like taking a gap year or going to college, but I'm not sure what's best with my family situation and all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their uncertainty about post-high school options and family dynamics, but more exploration is needed to fully understand the context and emotions involved. Further discussion is essential to build rapport and clarify mutually agreed goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing between a gap year and college sounds like it's weighing on you, especially with your family situation in the mix. What are some things that are important to you when considering these options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I guess I'm trying to figure out what'll give me the most freedom and also help me discover what I'm really passionate about. I don't want to feel stuck or pressured into something that's not right for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about uncertainty regarding post-high school options and relevant context about family pressures. However, to build a deeper understanding and rapport, further exploration of feelings and values is needed before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It seems like finding a path that offers both freedom and the opportunity for self-discovery is really important to you. You're aiming to avoid feeling pressured or stuck in a choice that doesn't resonate with who you are. Can you share a bit about what freedom and passion mean to you in this context?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I guess freedom means having the space to explore and make my own decisions without feeling trapped by expectations, especially my parents'. As for passion, it's about finding something that genuinely excites me, not just going through the motions because it's what I'm expected to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns and desires regarding post-high school plans and family expectations. The therapist has successfully elicited the client's story and feelings on freedom and passion. Rapport appears to be established, but no mutually agreed goals have been explicitly set. Thus, continuing in the Exploring phase is appropriate to further define goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "therapist(exploring): You're really seeking the ability to make choices independently, away from external expectations, and also aiming to engage in something that truly excites and fulfills you. What have you explored or considered so far in terms of finding that passion or areas that spark your interest?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I've thought about a few things, like maybe traveling or volunteering during a gap year to see what I really enjoy. As for majors, I'm leaning towards something creative like media or design, but I'm not entirely sure yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns and personal context, including familial expectations and the desire for independence and self-discovery. They have explored potential options and interests. Empathy and rapport appear to be established, with a clear understanding of the client's needs and goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Traveling or volunteering during a gap year could be a great way to explore your interests and what excites you. Leaning towards creative majors like media or design shows you're already considering paths that align with your desire for passion. On a scale from 0 to 10, how confident do you feel about exploring these options further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I’d say maybe a 5? I’m curious and excited about the possibilities, but there’s also a lot of uncertainty and fear about making the wrong move or having my parents disapprove.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client displays ambivalence and uncertainty, with confidence rated at 5. Discrepancy and exploration have begun, but more guidance is needed to strengthen change talk and confidence for setting specific goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's understandable to feel both excitement and uncertainty when thinking about these choices, especially with concerns about approval. You've already identified some exciting possibilities, like traveling, volunteering, and creative majors. How might these options align with what you envision for your future self?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think traveling or volunteering could help me figure out what I truly enjoy and even learn more about myself. As for creative majors, they feel like they could lead to a career that doesn’t feel like “just a job.” I want my future to be something I look forward to each day, even if it means taking a risk.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client exhibits Change Talk and has identified options aligned with their values, like traveling, volunteering, and creative majors. However, their confidence is moderate at 5, and there's still ambivalence due to fear and parental approval. Further exploration in the Guiding phase can strengthen confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Envisioning a future that excites you and doesn't feel like \"just a job\" is a wonderful aspiration. Taking risks now could really set the stage for a fulfilling career and life. How do these thoughts about risk and excitement influence your confidence in pursuing these paths, maybe moving that 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): Thinking about the potential for an exciting future does boost my confidence a bit. Maybe it edges me towards a 6 or 7. I guess it’s just reassuring to know there’s a chance for things to really work out and align with what I want, even if it feels a bit scary.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown change talk, expressing potential excitement for future paths and a confidence increase from 5 to 6 or 7. However, while they've acknowledged discrepancies between current situations and desired outcomes, specific next steps or goals haven't been clearly outlined, suggesting more time in the guiding phase could solidify their direction.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Acknowledging that potential for an exciting future can indeed be motivating, even with the fear involved. It's great to hear that your confidence is growing. What do you think could help you feel even more assured about moving forward with these paths?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(guiding): I think talking to people who’ve taken similar paths could be really helpful, like hearing their experiences and maybe getting some advice. Also, having a better understanding of what each option could realistically lead to might make things feel less uncertain.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed increased confidence from 5 to 6 or 7, indicating progress in motivation. They have specific change goals, like considering a gap year and creative majors, and have self-reflected on their values. Change Talk is present, with reduced ambivalence about pursuing paths that align with personal desires rather than parental expectations.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Connecting with others who have taken similar journeys and gaining insights from their experiences could provide valuable perspective and guidance. It might also help clarify what each option could lead to, reducing some of that uncertainty. Based on what you've shared, possible steps could include reaching out to people in creative fields or those who have traveled or volunteered. How do you feel about starting with one of these actions, and what support might you need to make it happen?",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty positive about reaching out and learning from others; it seems like a good first step. I might just need a bit of help in finding the right people to talk to or knowing where to look for these connections.",
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of exploring interests through travel or volunteering and creative majors. They feel positive about reaching out for guidance and have acknowledged potential support needs. The client is showing commitment and a willingness to take steps. They demonstrate growing confidence and are open to reducing uncertainty through conversations with others.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You're taking a really proactive approach by considering reaching out to learn from others' experiences. This step could truly open up new insights and directions for you. We can definitely work together to brainstorm how to find the right connections, perhaps through networking events, online communities, or even asking around in your current circles. It’s wonderful to see you leaning into this, trusting the process, and embracing the journey ahead. Remember, each step you take is progress towards a more fulfilling future. Let’s plan to touch base soon and see how things are going. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll start looking into some options and maybe we can discuss what I find next time. Appreciate the support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The termination goals have been met, with a summary of goals, steps, and coping strategies discussed, along with a next-step plan to reach out for guidance. The client feels positive and supported moving forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is taking a gap year worth it?\nI’m a Highschool senior and I’m not sure if I want to take a gap year, go to community college, or go to a 4 year. I’m in a bit of a tough situation since I live in an Asian household and staying home with my parents isn’t ideal. I’d like some advice on how to pick out my major any feedback and advice is needed :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

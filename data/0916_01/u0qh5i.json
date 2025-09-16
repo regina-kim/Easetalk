@@ -1,0 +1,179 @@
+{
+  "id": "u0qh5i",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've just been feeling a bit lost about my major and future career. I thought I had it all figured out with marine biology, but now I'm considering a different path and it's kinda stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has just begun, and more exploration is needed to fully understand the client's thoughts, feelings, and context regarding their major and career concerns.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's understandable to feel stressed when you're rethinking something as important as your major. Can you tell me more about what made you start questioning marine biology?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Well, I originally chose marine biology because I love the ocean and marine life, but lately, I've realized that I might be more interested in understanding how substances affect the brain. It feels like a big shift, and I'm just not sure if I'm making the right choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their initial concern and the context behind their feelings. They have expressed uncertainty and the reasons for considering a change. Empathy and rapport seem to be established. Moving can help explore motivations for the change further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like an exciting new interest you're discovering. How do you imagine your life might change if you pursued this new path in understanding substances and the brain?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "If I go down this new path, I think I'd be more engaged with my studies and future career because it's fascinating to me. But it's also nerve-wracking since it means leaving behind something I've been working towards for a while.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed interest in a new field and how it aligns with their engagement and values, showing some Change Talk. However, there is no specific goal or step identified, and their confidence level has not been explored. Continued guidance is needed to solidify their decision and plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "There's a lot to consider when you're thinking about such a significant change. On one hand, there's the excitement of pursuing something that truly fascinates you, and on the other, the uncertainty of leaving your current path. Where do you see the biggest gap between your current path and this new interest?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): The biggest gap for me is probably the coursework and skills required. Marine biology and psychopharmacology seem like such different fields, and I'm worried about having to catch up on new science courses, especially if it involves a lot of chemistry.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by exploring a new path and its potential engagement benefits. They have identified a specific change goal: considering a major in chemistry. However, there is some ambivalence about the coursework difference and no clear next step or confidence assessment, suggesting more exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It makes sense to have concerns about shifting to a field with different requirements. What strengths or skills do you think you already have that could help you bridge this gap between marine biology and psychopharmacology?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Well, I think I'm pretty good at research and analyzing data, which seems like it would be useful in both fields. Plus, I've got a solid science background from my marine bio classes, so maybe that can help me transition more smoothly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed excitement about a new path and identified strengths to bridge gaps between fields. Change Talk is evident, with a clear interest in pursuing psychopharmacology. However, specific change goals and strategies for overcoming barriers are not yet fully developed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Research and data analysis are powerful skills that can support you in any scientific field. How does recognizing these strengths impact your confidence in making this transition?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I guess it does help a bit, knowing that I have some skills that could be useful no matter what path I choose. It's comforting to think I wouldn't be starting from scratch entirely, but I still feel a bit of anxiety about the unknowns.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk with interest in pursuing psychopharmacology, identified potential strengths for the transition, and demonstrated a reduction in ambivalence. The client acknowledges skills that could aid in bridging the gap, boosting confidence. These factors suggest readiness for planning, despite lingering anxiety.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Embracing your existing strengths can certainly provide a solid foundation as you explore this new path. Considering your concerns about the coursework and the transition, how would you feel about setting a goal to research specific programs or classes that might bridge that gap? This could help in developing a clearer picture of what's involved and perhaps ease some of your anxieties. What are your thoughts on taking this step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea, actually. If I can find out more about the specific classes and requirements, it might make the whole thing feel less overwhelming. Plus, it could help me decide if this is really what I want to do.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has agreed to a goal of researching specific programs to bridge the transition from marine biology to psychopharmacology, indicating a clear action plan. They have expressed confidence by recognizing their transferable skills. The discussion of barriers has been initiated, demonstrating readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Taking that step to research specific programs and classes seems like a constructive way to address your concerns and clarify your decision. By understanding the requirements more deeply, you'll not only gain insights but also empower yourself to make a well-informed choice. It’s great to see you considering this approach. As you move forward, remember that it's okay to feel uncertain, and using your strengths in research can guide you through this exploration. Taking it one step at a time can help manage the anxiety around the unknowns. \n\nFor now, setting a goal to gather information could be your next step. Perhaps starting with a few university websites or talking with advisors can provide some clarity. I'm here to support you, and you're not alone in this process. You've got this, and I'm confident you'll navigate through this transition with resilience.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, that makes me feel a bit more at ease about it all. I'll start looking into some programs and talk to an advisor to get more info.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals and coping strategies, and a clear next-step plan was discussed and agreed upon. The client expressed feeling more at ease about their concerns.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What should I major in?\nI am currently a second year marine bio major, but am now thinking of changing to a different major. Right now I believe I want to become a psychopharmacologist, but I am not really sure what bachelors degree that would require. I was wondering if anyone on here had any ideas. I’m currently thinking a BS in chem would be best, but I am unsure.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

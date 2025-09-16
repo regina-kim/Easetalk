@@ -1,0 +1,179 @@
+{
+  "id": "11it5ia",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just kind of stressed about picking my major concentration. I really can't decide between accounting and finance and it's been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to explore the client's dilemma, but essential details such as deeper feelings, specific concerns, and the client's goals have not been fully elicited yet. More exploration is needed to build rapport and understand the client's perspective comprehensively.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing between accounting and finance must feel overwhelming because it's such an important decision for your future. What are some of the things that are making it difficult to decide?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Well, I enjoy both subjects, and I've heard that with an accounting concentration, I could still get into finance jobs later on, but not the other way around. But then, I worry about choosing something that might not fit me perfectly.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story about their difficulty in choosing a major concentration and the relevant context, including concerns about future job opportunities and time constraints, have been elicited. There is empathy and rapport, as the therapist acknowledges the client's stress. The mutually agreed goal to explore this decision further appears. It is reasonable to move to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a challenging decision, especially when you're considering the flexibility and fit for your future. How do you see your life and career evolving with each path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client: Honestly, I can see myself enjoying and succeeding in both fields, but I'm unsure which would offer more opportunities or make me happier in the long run. It's tough to picture myself 10 years down the road and know which choice was the right one.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence and explored life with both options but has not yet articulated specific change goals or expressed sufficient confidence in a decision. There is some Change Talk, but the client's decision-making process is still in development.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Imagining your future can be both exciting and daunting. What do you value most in a career, and how might each path align with those values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think I value stability and growth, like having room to advance and learn new things. I feel like accounting might offer more stability, but finance could be more exciting with the potential for growth. It's tough trying to balance those two.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals and discussed values and potential opportunities with each path. However, ambivalence is present, with concerns about long-term happiness and career stability. The client's confidence level hasn't been explicitly assessed, and sustain talk is noted. It would be prudent to continue exploring and strengthening the client's motivation and confidence before progressing to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing stability and excitement is indeed a complex decision. Reflecting on what you've shared, how do you feel about exploring what a typical day in each field might look like? This could help clarify which aligns more with your vision for stability and growth.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): Yeah, that might be helpful. I've done some research, but it's hard to really picture what day-to-day life is like in each field. Maybe I should try talking to a few people who work in accounting and finance to get a better sense of it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed initial change talk, exploring differences between accounting and finance concerning values like stability and growth. They are considering action (talking to professionals in each field) to resolve their ambivalence. However, no specific change goal or confidence level is clearly established yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Connecting with professionals in both fields sounds like a great step forward. Gaining firsthand insight could really help you picture what aligns with your values for stability and growth. How confident do you feel, on a scale from 0 to 10, about reaching out and having those conversations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 or 7. I mean, I'm a bit nervous about reaching out since I'm not sure who to contact or what to ask, but I know it's important if I want to make a well-informed decision. Plus, it might help ease some of this stress I'm feeling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by exploring and comparing career paths in terms of stability and growth. They have identified reaching out to professionals as a potential next step and expressed confidence rated at 6 or 7. Ambivalence seems to be reducing with a clear interest in exploring these options further.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Reaching out can indeed feel a bit daunting, but it's a crucial step in making a well-informed decision. Let's consider some potential steps to help you move forward. You could start by identifying professionals through your school's alumni network or LinkedIn. Another option might be asking professors if they can connect you with someone in the field. How does that sound as a starting point?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): Yeah, those sound like good ideas. I think I could start by checking out the alumni network and maybe asking my professors for help. It feels a bit more manageable when I break it down like that, instead of trying to figure it all out at once.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with steps like using the alumni network and speaking with professors to connect with professionals. Barriers of nervousness in reaching out were addressed, and the client feels more confident and in control. This indicates readiness to advance as they have committed to taking steps forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're finding a practical way to tackle this decision by breaking it into smaller, manageable steps. Knowing that you'll reach out to the alumni network or speak to your professors for guidance is a positive move forward. You're taking control of the situation, which is an empowering position to be in. \n\nAs you embark on this journey, remember that you have the strength to navigate each step. Acknowledging your nervousness is brave, and it's okay to feel that way when trying something new. You've got the right attitude, and you're clearly on the path to finding clarity.\n\nThe next step could be drafting a brief message or list of questions for when you reach out. This might help lessen any anxiety about these initial conversations. You're doing great, and I'm here to support you as you continue exploring these paths. Keep trusting yourself and your process.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, that really helps. I'll start thinking about some questions and maybe draft a message. It definitely feels a bit easier knowing I have a plan now.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified practical steps to explore career options, like reaching out to professionals and utilizing networks, addressing their core concern. They feel more manageable about the decision, indicating readiness to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Cant decide on Accounting vs Finance\nIm a Business Administration major but cant decide on my concentration I really enjoy both accounting and finance. Im leaning more towards accounting because ive heard you can still get into finance jobs but its harder vice versa. Is this true and do any of you have advice? I really only have these next couple months to decide but im stuck.\n\nIm also aware you can do a dual concentration but ive taken long enough with school; im currently 23 and it would take alot longer to do a dual concentration.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

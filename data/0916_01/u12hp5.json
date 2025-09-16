@@ -1,0 +1,137 @@
+{
+  "id": "u12hp5",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! I'm here to listen and learn more about what's on your mind. Feel free to share anything that's important to you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've just been feeling really overwhelmed with my classes, especially physics. It's been tough trying to juggle everything and still feel like I'm not making the progress I want.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their struggle with balancing coursework, feelings about their physics class, and concerns about their capacity to succeed. They've expressed feelings of being overwhelmed and uncertain about continuing with the class. The essence of their story has been elicited, including context and emotions, and there is empathy shown by the therapist.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds tough managing all of that. What would it mean for you if things were different with your physics classes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(reflecting): If things were different, I feel like I'd have a lot less stress and maybe even enjoy learning again. It would be nice not to feel like I'm constantly fighting an uphill battle, especially when I really want to become an engineer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and articulated a specific goal related to reducing stress and enjoying learning again. Change Talk is present, highlighting a discrepancy between current struggles and future aspirations as an engineer. However, specific action steps and confidence levels have not yet been explored, suggesting further guiding is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Being an engineer is a meaningful goal for you. What do you think could help you feel more in control and less stressed about your physics classes right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(considering): I think having more support or resources for understanding the material would help a lot. Maybe finding a study group or a tutor who can explain things better than just reading the textbook. Also, managing my time better might make a difference, so I'm not always scrambling to catch up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to change and identified specific steps, such as finding a study group or tutor, to improve their physics performance. They have also expressed a clear goal of becoming an engineer, showing motivation. Although they have not used confidence rulers, their consideration of concrete steps suggests readiness to plan actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Having support and time management are great strategies. Let's explore some actions you might take. Would you like to set a goal for finding a study group or tutor, or perhaps focus on a time management plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(deciding): Yeah, setting a goal to find a study group or tutor sounds like a good start. I think having people to learn with could really make a difference and maybe I can pick up some new study techniques too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have identified a clear action plan regarding finding a study group or tutor, addressing the client's main concern. Barriers such as time management were discussed. The client has shown commitment to taking action. However, confidence in overcoming barriers related to the professor's teaching style and exam structure needs further exploration in Choosing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Creating a supportive learning environment can really enhance your understanding. To get started, would you like to focus on reaching out to classmates or checking with your professor about any study groups or tutoring resources available? We can also discuss how to monitor your progress and adjust as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(deciding): I think reaching out to classmates might be a good first step. Maybe there are others who are struggling too and we could help each other out. I'll also see if there's any info on tutoring resources at the college. Keeping track of what's working and what's not sounds like a solid plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to improve their physics understanding via a study group or tutor, and they are ready to take the first step by reaching out to classmates. They've also agreed to self-monitor their progress. The client shows commitment and confidence in executing these actions. This readiness suggests advancing.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You've got a solid plan moving forward. Reaching out to classmates is a proactive step, and it's wonderful that you’re open to collaboration—it often leads to sharing new perspectives and strategies. Checking in with college resources for tutoring can provide additional support too. Remember, monitoring your progress will help you adapt and find what works best for you. \n\nWith your dedication to becoming an engineer, it's clear you're motivated to tackle these challenges. Take it one step at a time and allow space for learning and growth. You're not alone in this, and the support of peers and resources can make a significant difference. \n\nAs your next step, try reaching out to a few classmates this week and maybe set up a small study session. Feel free to keep me updated on how it's going, and we can adjust plans as needed. You're making a great start, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll give it a shot and see who might be interested in teaming up. I'll definitely keep you posted on how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has addressed the client's concern by summarizing steps and coping strategies. A plan was made to reach out to classmates and explore tutoring. The client is motivated and has been given support strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Withdrawing vs. Failing Physics (Mechanics)\nThe grade scale is curved at my community college so that an 88%+ = A, 76%+ = B, 64%+ = C, and so on for the other two grades. I currently have a 63% in the class. I was almost on my way to reaching a B, but FAILED the mid term three weeks ago, along with more than have the class. This is the second time I almost reached a B, only to get dropped back down to a 62%.\n\nI want to be an engineer, but this class is the most draining I have ever taken and my first physics course. I put in many hours of the week into other classes such as General Chemistry I (5 credits) and Calculus II (4 credits) (both which I have borderline Cs in). I dedicate mostly to physics (5 credits).\n\nI’m sure to blame for the strenuous amount of work I attempted to do this semester, but I would like to (stereotypically) put some of it on the  professor. He assigns homework but no explanations are given when not answering the problems correctly, you lose points on your grade after a certain amount of attempts. Mid term was a disaster since we did not have enough time. He does not curve exams or quizzes.\n\nDrop date is April 15th. Advice? Should I just stick with it and try to pull through? I just feel lost and down on myself now. Professor was pretty demeaning other day when he said if we don’t get a B or A in this course, we will really struggle in the next physics class (electricity and magnetism).",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

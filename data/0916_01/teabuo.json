@@ -1,0 +1,263 @@
+{
+  "id": "teabuo",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've been feeling a bit anxious and overwhelmed. I keep worrying about whether I'll actually be able to graduate and move on to this next chapter in my life.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their feelings of anxiety and provided context regarding their academic journey and future plans. However, empathy and rapport have not been fully developed, and mutually agreed goals have not yet emerged. Therefore, continuing in the Exploring phase is appropriate.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Graduating and stepping into a new phase can feel really daunting. You're feeling anxious because it's such a significant transition, carrying lots of hopes and uncertainties. What's been contributing to these feelings of overwhelm for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I think it's just the pressure of finishing everything on time and making sure everything is perfect. Plus, I can't shake off this feeling that something might go wrong last minute.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of anxiety and overwhelm about graduating, capturing the essence of their story and the context of their concerns. Both the pressure to finish and fear of unexpected issues were discussed, establishing rapport and a mutual understanding of the client's goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That pressure to have everything perfect can really weigh heavy on you. You're managing a lot right now, and it's understandable to feel like things might not go as planned. How do you think life might be different if you felt more confident in handling these uncertainties?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): If I felt more confident, I think I’d be a lot less stressed and anxious right now. I’d probably be able to focus more on enjoying the process and looking forward to what’s coming next instead of worrying about all the things that might go wrong.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses clear Change Talk by envisioning a less anxious future with increased confidence. They've begun identifying goals, such as focusing on enjoying the process. However, there's no specific change plan or confidence assessment yet, and ambivalence is still apparent. Continuing in the Guiding phase would help further reduce ambivalence and strengthen confidence before progressing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Imagining a less stressed version of yourself sounds quite freeing. Enjoying the process and feeling excited about the future is such a positive outlook. On a scale from 0 to 10, how confident do you feel about your ability to manage these uncertainties right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm somewhere around a 4 or 5. I do have moments where I feel more optimistic, but the anxiety tends to creep back in and make me doubt everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by envisioning a less stressful future and acknowledged the benefits of feeling more confident. However, their confidence level is around 4 or 5, indicating they are still dealing with significant doubt and anxiety. Moreover, they have not set a specific change goal or next step. Therefore, it's best to continue in the Guiding phase to further explore and strengthen motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That 4 or 5 shows there's already some belief in your ability to handle things, even amidst doubt. Those moments of optimism can be really powerful. What do you think helps boost your confidence during those times, even if for a short while?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): When I manage to check things off my to-do list or get good feedback from my advisor, it definitely makes me feel more capable. Sometimes just talking about my worries helps too, like now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and identified moments that boost confidence, yet their confidence is still relatively low, and anxiety persists. They haven't clearly articulated a specific change goal or next step. Continuing in the Guiding phase could help further enhance their confidence and decrease ambivalence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Acknowledging your accomplishments and hearing positive feedback can really lift your spirits. It's great that you're finding these moments where you feel more capable. Talking about your worries seems to also bring some relief. How might these experiences shape your approach to future challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(reflecting): I guess these experiences remind me that I am capable and have the skills to get through tough spots. Maybe I can start applying this mindset proactively when I face future hurdles, rather than letting doubts take over.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, recognizing they are capable and have the skills to face challenges. Although confidence is at a 4-5, they have identified moments that boost confidence, suggesting potential for growth. A specific change goal is emerging in managing uncertainty proactively. Ambivalence is reducing as they formulate a positive mindset for future hurdles. Further exploration of actionable steps is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Recognizing your capability and skills can truly empower you to tackle challenges head-on. Embracing this proactive mindset sounds like a wonderful strategy. How do you see aligning this mindset with your longer-term goals and the future you're working towards?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): If I can keep focusing on my strengths and what I’ve already accomplished, it might help me stay on track with my goals. Maybe I can use this mindset to feel more secure about graduating and starting my new job, knowing I've handled big challenges before.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a proactive mindset and recognizing strengths and achievements. However, confidence is at 4 or 5, and the client is still experiencing ambivalence with anxiety creeping in. While specific goals and proactive strategies are emerging, the confidence score suggests further strengthening is needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your idea of focusing on strengths and past accomplishments can indeed provide a strong foundation for feeling secure about the future. Aligning this mindset with your goals seems like it could offer a solid sense of reassurance. How does thinking about your past successes change your perspective on the upcoming transition into your new job?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(reflecting): Thinking about my past successes helps me see that I've been through a lot and come out the other side stronger. It makes the new job feel like the next step in my journey rather than something overwhelming. I guess it shows that I've earned this opportunity and can handle what's coming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows emerging Change Talk and has begun identifying how their strengths and past successes can help with future challenges. However, their confidence is still low, indicating they are not ready for action planning. Further exploration of their self-doubt and strategies to boost their confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Realizing that your past successes contribute to your strength is truly empowering. Seeing the new job as a continuation of your journey rather than something intimidating highlights your resilience. How does this shift in perspective affect your feelings about the upcoming transition?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): It definitely makes the transition feel less daunting and more exciting. Instead of focusing on the fear of the unknown, I feel a bit more ready to embrace the change and see it as an opportunity to grow even more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a shift towards seeing the upcoming job as a continuation of their journey rather than an overwhelming task, indicating a decrease in ambivalence and increased readiness for change. However, their confidence level is at a 4 or 5, which is below the 6 needed to move to Choosing. More work on enhancing confidence and solidifying change goals is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "therapist(guiding): Embracing the change as an exciting opportunity for growth shows a remarkable shift in mindset. As you look forward to this new chapter, what aspects of this journey are you most excited about?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): I'm really excited about the chance to work with a team at a place I've always admired and to apply everything I've learned during my PhD. I think it’ll be great to see how my skills translate into real-world projects and to learn from the people around me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear plan to focus on their strengths and past accomplishments to face future challenges, showing increased confidence. Their reflection on past successes has shifted their perspective on the upcoming transition into a more positive and proactive one, reducing ambivalence and focusing on change. These factors suggest readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "The excitement of working with a team and applying your skills in real-world projects sounds incredibly promising. As you prepare for this next step, what specific goals or actions could you set to ensure a smooth transition and further enhance your growth in this new position?",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think setting some short-term goals for the first few months, like getting to know my team and understanding the workflow, would be a good start. Also, maybe finding a mentor at the new place could help me navigate any challenges and learn faster.",
+      "phase": "choosing"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with short-term goals and has discussed potential barriers with finding a mentor. They are reflecting positively on their past achievements and expressing readiness to embrace upcoming challenges. This indicates readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating short-term goals such as familiarizing yourself with your team and understanding the workflow is a fantastic strategy for easing into your new role. Seeking a mentor can certainly provide valuable guidance and support. It's wonderful to hear that you're approaching this transition with such thoughtful preparation. Your proactive attitude and openness to learning will undoubtedly serve you well. As you embark on this next chapter, remember to celebrate small victories along the way and stay connected to your strengths. Please know that I'm here to support you, and we can discuss any new steps or reflections in our next session. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and encouragement. It's good to know I have a plan to start with, and I'll definitely keep in touch if I need more guidance. See you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 12,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has summarized their goals, coping strategies, and next steps for transitioning into their new job. A plan is discussed, and the client expresses confidence and readiness for future challenges. The session has naturally reached a closure point.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help me convince myself I will graduate\nI am a 6th year PhD candidate. I have passed my prelims, passed my proposal (Oct), I have 3-4 articles published as a first author. I have finished 2 out of 3 experiments proposed. The last experiment is scheduled to be done in April.\nI have a job offer from a very reputable place which is like a dream job for me... Yet I still cannot convince myself that I am actually going to graduate soon. I feel like the rug will be pulled from under my feet. \nPlease help me convince myself.\nAppreciate in advance.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

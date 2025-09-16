@@ -1,0 +1,137 @@
+{
+  "id": "11dku84",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "I've been feeling a bit up and down. I did really well on one midterm but totally bombed another, and it's just got me thinking about my strengths and what I should really focus on in school.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a significant part of their story, including thoughts and feelings about academic performance and future focus. However, the detailed relevant context behind these thoughts and feelings has not been fully explored yet. More rapport-building and understanding of goals would be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's understandable to feel mixed emotions when facing these results. You're reflecting on your strengths and considering where to focus your energy in school. Can you tell me more about what you're thinking regarding your strengths and areas you might want to focus on?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I think I’m definitely better at subjects that let me be creative, like English, where I can express myself more. Math just feels like a whole different language that I can’t seem to get the hang of, no matter how much I study.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and feelings about their academic strengths and weaknesses have been clearly elicited. The client has identified areas of interest and frustration, and goals regarding their focus in school are emerging. Empathy and rapport are evident.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're recognizing your creativity as a strength, especially in subjects like English. How do you feel when you're engaging with these creative subjects compared to when you're working on math?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(guiding): When I'm writing or doing something creative, it feels more natural and less like a chore. But math just drains me and makes me feel like I'm constantly hitting a brick wall.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing a clear discrepancy between their strengths in creative subjects and their struggle with math. Ambivalence is evident, but there's emerging clarity about pursuing a path aligned with their strengths, indicating some movement towards change. Confidence rulers haven't been used yet to assess readiness, and more exploration of change talk and values could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Engaging in creative activities seems to bring you a sense of ease and enjoyment. What would it be like if you could integrate more of that creative energy into your studies or other parts of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It would honestly be amazing to have more of that creative vibe in everything I do. I think I’d feel more motivated and less stressed if I could find ways to bring that into my daily routine and future career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to integrate more creativity into their studies and life, highlighting a specific change goal. There's a recognition of strengths in creative subjects and a desire to reduce stress, indicating reduced ambivalence. Change Talk is present, focusing on integrating creativity for motivation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like finding ways to incorporate creativity into your daily life and studies could boost your motivation and reduce stress. Let's explore some options to bring that creative vibe into your routine. Based on what you’ve mentioned, possibilities could include setting a goal to dedicate more time to creative writing or finding ways to approach math with a creative mindset. How does that resonate with you, and what are some steps you might consider taking?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea. I could try setting aside time each week to write for fun, just to keep that part of me active. As for math, maybe finding some creative methods or tools to study could help make it less daunting and more engaging.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to incorporate creativity into their routine and has outlined a concrete action plan. They have also discussed potential barriers in math and proposed a self-monitoring strategy by setting aside dedicated writing time. The client expresses commitment and readiness to implement these strategies.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Dedicating time each week to fun writing is a wonderful way to nurture your creative side, and exploring creative methods for math could indeed make it feel less overwhelming. Your plan reflects a thoughtful approach to balancing your strengths with areas that challenge you. As you take these steps, remember you’re making informed choices that align with your aspirations. Keep an open mind to what you discover along the way. \n\nFor your next steps, consider identifying specific times for your creative writing sessions and researching tools or resources that could make math more approachable. Feel free to reach out if you need support or want to share your progress. You're doing a great job navigating this journey, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks! I’ll definitely try to set some time aside and look into those resources. Hopefully, it’ll help me keep a good balance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covers a summary of goals, coping strategies, and next-step plans. The client feels positive about implementing creative strategies. Since the goals for termination are met, it is natural to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: The Duality of Man\nJust made a 117 on my English Composition II midterm.\n\nAlso made a 60 on my College Algebra midterm.\n\nThis is why I'm going into liberal arts...",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

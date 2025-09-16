@@ -1,0 +1,200 @@
+{
+  "id": "10yn4af",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I’ve been all right, but kind of confused about what direction to take with my major. I keep going back and forth on whether I should stick with Theater Arts or consider something else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and thoughts are being explored, revealing their confusion about their major and the influence of their mother's opinion. However, more can be learned about the client’s feelings and context to build rapport and establish mutual goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can feel quite overwhelming, especially with all the possibilities. What’s been drawing you to Theater Arts, and what’s making you reconsider?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I've always loved performing and the idea of being on stage, singing, and acting. But now I'm second-guessing if I'm actually good at it or if there's something else I might be better suited for, especially since my mom brought up some doubts.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's concerns, thoughts, and feelings about their major. The client has expressed the internal conflict and contextual details, including the influence of their mom's opinion. Empathy and rapport are demonstrated, and the client's story is clear, allowing for the transition to guiding motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be tough when self-doubt creeps in, especially when influenced by others. What do you imagine your life would be like if you pursued Theater Arts compared to trying a different path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I imagine pursuing Theater Arts would be exciting and fulfilling, as I'd be doing something I love and working towards teaching it someday. But if I chose a different path, I'd hope it would still allow me to express myself creatively, though it might feel less personal or connected to my passion.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in Theater Arts but is experiencing self-doubt and external influence leading to ambivalence. Change Talk is present, as they describe a fulfilling future in Theater Arts. However, no specific change goal or next step has been identified, and confidence hasn't been explicitly measured or increased. Continuing in Guiding will further explore and address these areas.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Pursuing something you love sounds truly fulfilling, and it's understandable to seek creative expression regardless of the path. How confident do you feel, on a scale of 0–10, in your ability to make a decision that aligns with your passion and long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I’d say I’m at about a 5. I really want to make the right choice and not regret it later on, but I'm just so unsure about what direction to take.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a significant amount of ambivalence and self-doubt about their major, and their confidence level is at 5. The conversation has touched on life with and without change, but more exploration is needed to clarify values and boost confidence. Change Talk is present, but a specific change goal hasn’t been clearly articulated.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Acknowledging your desire to make the right choice is important, and being at a 5 shows you're halfway there in terms of confidence. What might help you feel even more confident about your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(guiding): I think getting more experience in both theater and other creative fields could help. Maybe talking to people who’ve been through this or trying out different classes could give me more clarity.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by exploring potential paths and seeking experiences for clarity. They have a specific change goal of gaining more experience in theater and other creative fields. However, confidence is at 5, indicating ambivalence persists. Further guiding is needed to increase confidence and reduce ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like gaining more experience and hearing from others who've faced similar choices might provide the clarity you're seeking. Engaging with different classes and people could open up new insights about what truly resonates with you. What value do you find in exploring these options to help guide your decision-making process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): Exploring these options could give me a better sense of where my strengths lie and what genuinely excites me. It might also help me feel more secure in my choice, knowing I've considered different perspectives and possibilities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to explore more options and gain experience, but their confidence is at a 5, indicating ambivalence. The client has yet to articulate a specific change goal. Further exploration and support in building confidence are needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Feeling more secure in your choice by exploring your strengths and what excites you sounds empowering. What steps might you take next to start exploring these options and gain that clarity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by taking a few different classes next semester to see what really clicks for me. Also, reaching out to professors or professionals in both theater and other creative fields could give me some valuable insights.",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both Change Talk and specific next steps, indicating readiness for a change. Confidence is at a moderate level, but the client has articulated a plan to explore further. Discrepancy between values and behavior has been explored, and the client has reacted to summaries. Movement forward to action planning is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Taking classes and seeking advice from those in the field can be great ways to gain clarity. Let's consider how you might approach this. You could start by selecting a mix of classes that interest you for next semester and plan to connect with at least one professor or professional in each field. This could be done through informational interviews or casual conversations. What do you think about setting a goal to engage in these steps, and how might you track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I can definitely start by looking at the course catalog and seeing what classes are available, then maybe schedule some time to chat with professors during office hours. As for tracking progress, I might keep a journal or set reminders to check in with myself regularly about how I'm feeling in each class and what I'm learning from these conversations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of exploring different classes and seeking advice from professionals to gain clarity on their major. They have discussed potential barriers and agreed on self-monitoring through journaling. The client shows commitment to taking steps and has confidence in their plan. They are ready to advance from Choosing to Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Journaling your reflections and setting reminders sounds like a thoughtful way to track your journey and insights. Engaging with professors and exploring classes will likely provide valuable perspectives and help you feel more confident in your next steps. It's wonderful to see your proactive approach to navigating this decision. Remember, each step you take is a step towards clarity and aligning with your passions. As we wrap up today, know that you're making progress, and I'm here to support you along the way. Let's touch base soon to see how things are unfolding and what new insights you're discovering. Keep going—you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(terminating): Thanks, that really means a lot. I'll definitely get started on this and see where it takes me. I'll keep you updated on how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 9,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to explore different fields through classes and professional connections, with methods for tracking progress. Termination goals are met, and the session ends on a positive note with future support mentioned.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I change my major? Need Help!\nFor those of us studying to get a BFA (Bachelor of Fine Arts) degree or those of you who already have one I initially started studying Theater Arts to get a BFA because I read up on it and wanted to do theater and teach it someday. Do I need to be studying something else to teach it or can I just get a BFA, and take a teaching program after? I also need some help on deciding on what I should study mainly because all my life I've loved singing, and as I got older I realized that I love theater and how I always loved performing at home for no one, but as of today my mom brought up the point that I maybe don't like acting just singing because I'm not as good or I don't know if I'm as good as acting, but I can remember when I was little trying to recreate scenes from T.V. and wanting to sing and dance like the people in the movies and wanting a role that would challenge me emotionally and I would put all I have into it but I'm stumped so I'm not sure if maybe I should change my major because maybe just maybe I'm not good at acting I don't know.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

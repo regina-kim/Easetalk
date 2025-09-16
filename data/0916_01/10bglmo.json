@@ -1,0 +1,137 @@
+{
+  "id": "10bglmo",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What's on your mind today? Feel free to share anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! I've been feeling a bit uneasy about my living situation. My roommate's been having her friend over a lot, and it's starting to make things uncomfortable for me. I'm not sure if I should say something or just let it slide.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly shared their thoughts, feelings, and context about their concern with their roommate, and the therapist has acknowledged and listened to the client's story, building empathy and rapport. The client has expressed uncertainty about how to address this situation, indicating readiness to discuss motivations and explore potential changes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a tricky situation. On one hand, you might want to maintain peace, but on the other hand, it's important to feel comfortable in your own space. How do you think speaking up might change things for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(reflecting): I guess speaking up could help set some boundaries and hopefully make me feel more at ease in my own room. But I'm also worried it might create tension between us, and I don't want to make things awkward or strained.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence about their living situation and its effect on their comfort. They have considered the potential positive outcomes of setting boundaries, indicating some Change Talk. However, the client is still worried about potential tension, suggesting unresolved ambivalence. The guiding phase goals have not been fully met as there's no clear change goal or action plan yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Finding a balance between setting boundaries and maintaining harmony is indeed challenging. What might it look like for you to have a living situation where you feel both comfortable and at ease with your roommate?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): Ideally, I'd like to have a space where I can relax without feeling like I'm intruding on their time together. Maybe if there were some ground rules about how often her friend stays over or having some nights where it's just us, I could feel more comfortable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by recognizing the need for boundaries and envisioning a more comfortable living environment. She suggested specific ground rules as a next step, indicating readiness for change. While some ambivalence remains, her confidence in pursuing change seems sufficient, and her discomfort with the status quo is evident.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Creating those ground rules sounds like a path toward feeling more settled. Based on what you've shared, one option could be having a calm, open conversation with your roommate about scheduling nights for just the two of you. Another possibility might be discussing a maximum number of nights her friend can stay over each week. What steps do you feel ready to explore, and how might you approach any barriers that could come up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a conversation about having some nights for just us sounds like a good first step. I could mention how I need some space to unwind too. As for barriers, I’m worried about how she'll react, but I guess I could frame it as needing personal space rather than a complaint about her friend.",
+      "phase": "choosing"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to have a conversation with her roommate about setting boundaries. She has also identified a strategy to frame the discussion positively, acknowledging potential barriers and showing readiness to take steps. However, to ensure confidence and commitment, further support is needed in planning the conversation and handling potential outcomes.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Having that conversation sounds like a thoughtful way to approach things. Framing it around your need for personal space can help keep the tone positive. If any tension arises, what strategies might you use to keep the conversation constructive? Also, how can you track progress to ensure the situation feels more comfortable for you over time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(reflecting): If things get tense, I think staying calm and focusing on my feelings instead of blaming her could help. Maybe suggesting we check in with each other regularly could be a way to make sure things are getting better. Keeping an open dialogue might help us adjust as we go.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and a concrete action plan to address their roommate issue, along with strategies to handle potential barriers. The client has expressed readiness to start a conversation, showing commitment. Confidence is evident by their openness to check in regularly and keep the dialogue open. The client has accepted action reflections, demonstrating their readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Wrapping up our time today, it seems you've really thought through how to approach the situation with your roommate. Emphasizing your need for personal space while maintaining a positive dialogue is a great strategy. You've identified some constructive steps, like staying calm and focusing on your feelings, which can help keep conversations open and productive. Checking in regularly with your roommate is a wonderful way to ensure that your living situation feels more comfortable over time.\n\nConsidering these steps, I encourage you to set a time for that conversation when you feel ready. Remember, it's okay to express your needs. You're making strides towards a more comfortable living environment, and having a plan is a solid start. If you need support or want to talk through any updates, I'm here for you. Keep being kind to yourself—you’re doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks for the encouragement! I’ll try to set up a time to chat with her soon. I appreciate your support—it helps a lot to have a plan moving forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a plan for addressing their concern, including strategies for maintaining a constructive dialogue and a method to monitor progress. Termination goals are met, and the session has a natural closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Roommate brings her friend to sleep at our dorm every other night\nI know these kinds of posts show up every day on this sub and that if I have a problem with my roommate I should talk to them about it, but I can’t help but wonder if I’m being over dramatic. \n\nMy roommate for the past few months has been bringing her friend to sleep in our dorm. At the beginning, she asked me if it was okay and I said yes. And at first, everything was fine. She’d bring this friend every so often to our place and they would sleep the night with us. \n\nBut more recently, she’s been bringing them almost every other day and it’s starting to get quite unnerving to say the least. Mind you, I am 18F and her friend is 18M so it makes it kinda awkward for him to be sleeping here. \n\nAnd this would all be fine if we lived in a suite of some sort, but our dorm is traditional style and so we don’t have the luxury of our own private rooms. In fact, I can literally see her bed right across from mine while she is sleeping with her friend.\n\nBefore, she used to put a mattress on the floor next to her bed for him to sleep on, but now it’s literally them both sleeping together in the same bed which has made it even more uncomfortable. \n\nIs this a normal thing to do in college? I don’t really know if this is something I should tolerate or how to go about confronting this issue if it’s something I shouldn’t.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

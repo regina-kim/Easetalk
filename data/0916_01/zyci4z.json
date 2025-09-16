@@ -1,0 +1,158 @@
+{
+  "id": "zyci4z",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What would you like to share today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've been struggling to balance my personal life and school, and it's really affecting my mental health. I'm just looking for ways to cope better next semester.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shared their struggle with balancing personal life and school, affecting mental health and academic performance. The therapist has acknowledged this, but the conversation hasn't yet delved into the client's deeper thoughts and feelings or mutually agreed upon goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds like a lot to handle, and it's understandable to feel overwhelmed. What are some specific challenges you're facing with balancing everything right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): It's like my personal issues just keep distracting me from getting any schoolwork done. I can't seem to focus, and it just leaves me feeling more stressed and anxious.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern about balancing personal life and school, affecting mental health and academics. They shared their feelings of distraction, stress, and anxiety, providing a context. The therapist has shown empathy and understanding. Mutually agreed goals are implied as the client seeks coping skills. It's appropriate to move to Guiding to explore motivation and potential changes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing personal life and school can be really tough, especially when distractions get in the way. What do you imagine your life might look like if you were able to focus more on your schoolwork and manage your stress better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(reflecting): If I could focus better, I'd probably feel a lot less anxious about deadlines and exams. I think I'd be more confident in my abilities and maybe even have some time left over to enjoy college life a bit more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to improve mental health and identified a positive outcome with improved focus. Change talk is present, but specific change goals or next steps have not been established, and confidence has not been assessed yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "You paint a picture of a more confident and enjoyable college experience. What do you think are some small steps you might take to move closer to that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess maybe setting a routine could help, like having a specific time for study and breaks so I don't get too overwhelmed. Also, finding some activities that help me relax and clear my mind might make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as setting a routine and finding relaxing activities, and has envisioned life improvements with these changes. There is a decrease in ambivalence and presence of change talk. The motivation for change is articulated clearly, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Creating a routine and finding relaxing activities both sound like great steps forward. Would you like to explore setting a specific goal for your routine, or perhaps we could look at different relaxation activities you might enjoy?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think setting a specific goal for my routine would be a good start. If I have a clear plan, it might be easier to stick to it and not let distractions take over.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a commitment to setting a specific routine as a goal, indicating progress towards an actionable plan. However, barriers and self-monitoring strategies need further exploration to ensure sustainable change. Continuing in the Choosing phase will allow for a detailed discussion of potential obstacles and the development of comprehensive coping strategies.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Developing a structured routine could definitely bring some clarity and focus. What specific goal would you like to set for your study routine? Perhaps starting with a manageable daily schedule or identifying key times for breaks could be helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a daily schedule sounds good, maybe planning out blocks of time for studying and making sure I fit in some breaks to recharge. I'll need to figure out what times work best for me, though.",
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of creating a structured routine with study and break times, discussed potential barriers, and expressed confidence in starting this plan. This indicates readiness to advance, as there's commitment and steps identified.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful plan. Establishing a daily schedule with dedicated study blocks and breaks can really help in managing your time effectively. As you explore what times work best for you, remember that it's okay to adjust things as needed. Finding a routine that fits your natural rhythm is key. Alongside this, incorporating activities you enjoy during breaks can provide a refreshing pause and help in maintaining focus.\n\nYou've taken an important step by identifying this approach, and it's clear you're committed to making positive changes. As you put this plan into motion, I’m here to support you in any way you need. Let's look at setting a date soon to check in on how your new routine is working and make any adjustments you feel might be necessary. You've got this, and I'm here cheering you on!",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Thanks, that really helps me see a way forward. I'll give it a shot and see how it goes. Let's definitely check in soon to make sure I'm on track.",
+      "phase": "terminating"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, outlined concrete steps, and developed a next-step plan for a structured routine and check-in, meeting the termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what are good coping skills for college when your personal life is affecting you emotionally and mentally causing poor academic performance?\nI didn't do so well during this semester due to my personal life issues. It affected me mentally and emotionally causing me to do poorly in school. What are good coping skills for college when feeling this way? I want to improve my mentally health for next semester",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

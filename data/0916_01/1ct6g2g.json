@@ -1,0 +1,137 @@
+{
+  "id": "1ct6g2g",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Whenever you're ready, feel free to share what's been going on or what you'd like to explore today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey! Yeah, I’ve been feeling pretty overwhelmed lately with work and school. It’s like I bit off more than I could chew, and now I'm just constantly stressed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including feelings of being overwhelmed and stressed due to overcommitment. The relevant context and emotions have been expressed, and empathy has been established. It seems appropriate to explore their motivation for change and guide them towards solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "That sounds really challenging, balancing both work and school can be tough. What are some of the things that keep you going despite the stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(reflecting): I guess I just really want to succeed and make the most of the opportunities I have. Plus, I’m passionate about what I’m studying and my work, so that keeps me motivated.",
+      "phase": "guiding"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to succeed and acknowledged being overextended, showing awareness of the discrepancy between current behavior and their goals. However, no specific change goal or next step has been articulated yet, and confidence levels have not been assessed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Your passion and drive to succeed are truly inspiring. How do you envision life being different if you could manage the stress more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "client(exploring): Thanks, I appreciate that. I think if I could manage the stress better, I'd feel more in control and maybe enjoy the process more instead of just getting through it. It would be nice to have some time to relax and not feel guilty about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a strong desire to succeed and highlighted the discrepancy between current stress levels and desired enjoyment of their work and studies. They discussed life with reduced stress and showed motivation. However, specific change goals and confidence levels weren't discussed yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Finding a balance where you can enjoy the journey without guilt sounds important to you. What might be some small steps you could take to move towards that feeling of control and enjoyment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by setting some boundaries with my work hours or taking more regular breaks. I could also try to be more intentional about scheduling downtime, so I don't feel like I'm always on the go.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown insight into the need for change by identifying their stress management desires and suggesting specific steps like setting work boundaries and scheduling downtime. Change Talk is present, indicating readiness, and the client seems motivated to pursue a better work-life balance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Setting boundaries and scheduling downtime are great starting points. Based on what you've mentioned, we could consider options like creating a weekly schedule that includes breaks and relaxation time, or perhaps setting specific hours for work and study to ensure they don't overlap excessively. What do you think would be a realistic first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think creating a weekly schedule could be a good first step. If I can see everything laid out, it might help me manage my time better and make sure I actually get some breaks in there. It's worth a shot, right?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal (better work/life balance) and a concrete action plan (creating a weekly schedule). Barriers like time management and burnout are acknowledged, and self-monitoring through a schedule is agreed. The client's commitment and confidence are evident.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Absolutely, giving it a shot sounds like a practical and empowering step forward. Creating a weekly schedule will help you visualize your time, making it easier to incorporate those much-needed breaks and downtime. It’s wonderful that you’re willing to try this as a way to regain some control and enjoyment in your routine. If challenges arise, remember that adjusting and refining your schedule is part of the process. I’m here to support you as you make these changes, and we can check in on how it's working for you. Keep nurturing that passion and drive—it’s a vital part of your journey. Let’s touch base on how your new schedule is going at our next session. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, I'll give it a try and see how it goes. Thanks for your support—I'll let you know how it works out next time we meet.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has reflected on their stress and identified steps to manage it, such as creating a schedule. They have a plan to follow up, indicating readiness for termination.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Failed my first class\nI work in industry currently doing about 60/70 hour weeks while working on a couple masters degrees. I think I found my limit trying to take four classes while having zero free time. Burn out is way too real. I feel horrible… I feel  my professors hate me tbh… Any tips to take my mind off my shortcoming and how to build a better work/life/school balance?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

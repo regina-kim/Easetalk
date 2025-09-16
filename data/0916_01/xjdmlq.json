@@ -1,0 +1,137 @@
+{
+  "id": "xjdmlq",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What's been going on for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey. Well, it's been rough. I was really looking forward to parents weekend, but I just couldn't handle the thought of them fighting in front of my friends. It's been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's primary concern regarding their parents' behavior and the associated emotional impact. However, more exploration of feelings, thoughts, and context is needed to fully understand and build rapport before moving forward.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a lot of stress and disappointment because you wanted to enjoy the weekend with your parents but were worried about their arguments. What else has been on your mind about that situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): Yeah, exactly. I just wish things were different between them. It's hard to see everyone else having a good time with their parents while I have to manage all this tension.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern about their parents' fighting and how it affects them emotionally. The essence of their story, the relevant context, and their feelings have been communicated. Empathy and rapport are evident, suggesting readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Seeing your friends enjoy time with their parents while you're handling tension must feel really isolating. How do you think things might change for you if the situation with your parents were different?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "Yeah, it does feel isolating. If things were different, I think I'd feel more at ease and be able to actually enjoy these moments instead of worrying about the next fight. It'd be nice to just focus on having a good time without all the extra stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by imagining a more positive scenario without parental conflict, suggesting a desire for change. However, specific goals or steps have not yet emerged, and there is no mention of confidence regarding potential changes.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Imagining a scenario where you can simply enjoy the moment sounds liberating. What are some small changes you think might lead to a sense of ease during these times?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting boundaries with them about what topics are off-limits when we're all together could help. Also, finding ways to spend time with them separately might reduce the tension.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific strategies like setting boundaries and spending time separately with parents, showing change talk and a potential plan. There's a noticeable decrease in distress and focus on actionable steps, indicating readiness to move towards specific action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Setting boundaries and spending time with your parents separately are thoughtful strategies. Based on this, would you like to focus on creating a plan to communicate those boundaries or brainstorm ideas for enjoyable separate activities? Let's think about which step feels more manageable for you.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): I think starting with setting some boundaries sounds more manageable. It's something I can try to communicate before the next visit, and hopefully, it'll help reduce the stress when we're all together.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal to set boundaries with their parents and suggested a concrete action plan to communicate these boundaries before the next visit. They have discussed the barrier of parental tension and shown readiness by focusing on a manageable step, indicating progress in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Setting boundaries before your next visit sounds like a practical first step. By establishing these limits, you are taking proactive measures to protect your peace and potentially enhance your time with them. As you consider how to communicate these, remember the importance of expressing your needs clearly and compassionately. You’ve been very thoughtful in identifying this approach, and it's commendable.\n\nNext, let's think about how you might prepare for this conversation. If you find it helpful, you could write down a few key points or practice what you want to say. Remember, it's okay to prioritize your well-being. As you move forward, know that I’m here to support you through each step. You’re doing great work, and I’m confident that by taking these steps, you’ll find more moments of ease and enjoyment.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thanks, I appreciate your guidance. I'll try writing down what I want to say and see how that feels. I'll keep you posted on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals have been met: the client has a plan to set boundaries and communicate with parents, and coping strategies have been discussed. Closure has been naturally invited, making it appropriate to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I told my parents not to come to parents weekend because every time they’re together they fight and it’s too much stress (they’re separated). It’s making me sad that I couldn’t take it.\nAnyone else?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

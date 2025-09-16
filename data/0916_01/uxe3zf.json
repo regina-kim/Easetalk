@@ -1,0 +1,179 @@
+{
+  "id": "uxe3zf",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, I've just been feeling a bit stressed about choosing my major. I really like biochemistry, but people keep telling me it's super tough and I'm kinda second-guessing myself now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concern and some context has been provided, but we need more exploration of their feelings and thoughts about biochemistry and other potential majors. Exploring additional aspects like personal interests, values, and long-term goals would help before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "Choosing a major can definitely feel overwhelming, especially when others are weighing in. You seem to enjoy biochemistry, but the opinions around you are making you rethink your choice. Could you tell me more about what draws you to biochemistry?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've always been fascinated by how living things work on a molecular level, like how cells and DNA function. It's just really interesting to me, and I feel like it connects with a lot of what I enjoyed in my science classes.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about choosing a major and is feeling stressed due to external opinions. They have shared their interest in biochemistry and the reasons behind it. The therapist has shown empathy and understanding. However, more exploration of the context and client's feelings is needed before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Your fascination with the molecular workings of life and how it ties into your science interests sounds truly captivating. It's understandable why you'd feel drawn to biochemistry. What are some of the thoughts or feelings that come up when you hear others say it's a tough path?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I start doubting myself and wonder if I'm setting myself up for failure. It makes me question whether I can actually handle the workload or if I'm just being naive about it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully explored the client's interest in biochemistry, their doubts stemming from external opinions, and their self-questioning about their capabilities. Empathy has been shown, and a mutual understanding of the client's concerns has been established. It's appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Facing self-doubt can be really challenging, especially when pursuing something you're passionate about. Your interest in biochemistry shows a strong connection to your love for science. On a scale from 0 to 10, how confident do you feel about your ability to succeed in biochemistry, despite these doubts?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say around a 5 or 6. I mean, I know I'm capable when I put in the effort, but the warnings from others make me hesitate.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed self-doubt and an interest in biochemistry, with confidence around 5 or 6. While some Change Talk is present, the confidence level suggests further exploration of motivation and values is warranted. Decreasing ambivalence and strengthening confidence are needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Acknowledging your capability and effort is important. You're balancing confidence with uncertainty, which is understandable given the input from others. How might your life look if you took on biochemistry compared to choosing something else?",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "I imagine if I went with biochemistry, I'd be really engaged and excited, even if it gets challenging. But if I choose something else just because it's supposedly easier, I might end up feeling bored or regret not taking the chance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific interest in biochemistry and detailed the internal conflict between passion and doubt. Confidence was gauged at 5-6, and some Change Talk is present, highlighting an engaged life if choosing biochemistry. However, readiness indicators are not fully met, as ambivalence and reliance on external opinions persist.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Exploring that passion and excitement despite potential challenges paints a vivid picture of your motivation. It seems that being engaged in what you love could offer a fulfilling path. What aspects of your life goals align with pursuing biochemistry, and how might they help you overcome the hurdles you anticipate?",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(guiding): I think pursuing biochemistry could really set me on a path towards a career in research or something in the medical field, which I've always imagined myself doing. Having a clear goal like that might help me push through the tough parts because it's something I genuinely want to achieve.",
+      "phase": "guiding"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by envisioning engagement and excitement in biochemistry and aligning it with their life goals. They acknowledged their confidence level and the potential hurdles, indicating a move towards setting specific goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "therapist",
+      "statement": "Diving into biochemistry certainly aligns well with your career aspirations in research or the medical field. Your enthusiasm and clear career vision can indeed be strong motivators. Considering your desire to pursue this path, what are some specific steps we could outline to support your journey into biochemistry, and how might you handle any potential doubts or obstacles that arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(choosing): I think mapping out a study plan or finding study groups might be helpful, plus talking with professors or other students who have been through the major. As for handling doubts, maybe setting small, manageable goals to keep track of progress and build confidence could work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of pursuing biochemistry and has outlined specific actions such as mapping out a study plan and finding study groups. They have also discussed handling potential doubts by setting small, manageable goals. These indicate readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Planning a study schedule and connecting with peers or professors sounds like a great way to immerse yourself in biochemistry. Setting small, manageable goals will definitely help keep track of your progress and boost your confidence along the way. You've thought of some solid strategies to address doubts and stay on track. Remember, every step forward, no matter how small, is progress. \n\nLet’s make sure you have a support plan. Perhaps you could start by setting a short-term goal, like reaching out to a professor for advice or joining a study group this week. Celebrating these small victories can act as reminders of your capability and dedication. Your passion for biochemistry is a wonderful guide, and it's clear you're motivated to actively pursue your goals. You're on the right path, and it's exciting to see where it will lead you!",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "client",
+      "statement": "Thanks, those sound like good steps to start with. I'll try reaching out to a professor and see if there's a study group I can join.",
+      "phase": "terminating"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan, including reaching out to a professor and joining a study group, and coping strategies like setting small goals. These discussions adequately address the termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: is biochemistry that tough?\nI was trying to apply for college this year. I was looking for major that always had my interest but people around me told me that the major I was trying to take is hard and tedious. I don't know what to do now, can someone help me biochem major, seniors....",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

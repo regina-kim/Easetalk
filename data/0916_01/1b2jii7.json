@@ -1,0 +1,137 @@
+{
+  "id": "1b2jii7",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might be thinking about something or have something to share. I'd love to hear what's on your mind, whenever you're ready. How can I support you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I’m just feeling really bummed about bombing this anatomy and physiology midterm. I thought I did okay, but it turns out I was way off. It’s just hard not to feel like a failure right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 1,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their immediate concern and emotional reaction, providing some context about their academic performance and goals. However, further exploration of their feelings, thoughts, and detailed context behind their study strategies or past successes is necessary to build deeper rapport and understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "therapist",
+      "statement": "It's really tough to feel like you've worked hard and not see the results you expected. You're feeling down because you put effort into the midterm, and the outcome didn't match your expectations. What do you think might have contributed to this?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client(exploring): I guess I might have underestimated some of the material. Maybe I didn't focus enough on certain areas or got too confident in what I thought I knew. It's just frustrating because I thought I was prepared.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been clearly elicited, including their thoughts and feelings about the exam and its impact. The context of their disappointment and the specific concern about their academic performance have been explored. Empathy and rapport appear established. The conversation is ready to transition to addressing motivation and potential changes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really frustrating when you realize that your preparation didn't align perfectly with what was needed. What does this experience tell you about how you might approach your studies differently in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "client",
+      "statement": "I think it tells me that I need to be more thorough and maybe adjust how I review material. Maybe focus more on areas that seem less familiar, even if I feel confident overall. I guess I need to find a balance between confidence and caution.",
+      "phase": "guiding"
+    },
+    {
+      "index": 3,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to express Change Talk by identifying a need for a balanced study approach. However, a specific change goal or next step is not clearly defined. Confidence levels are not explicitly stated. Given these factors, it is prudent to continue guiding to strengthen motivation and clarify goals further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "therapist",
+      "statement": "Finding that balance between confidence and caution sounds like a valuable insight. How do you think making this adjustment in your study approach might impact your performance and feelings about future exams?",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it could help me feel more prepared and less anxious going into exams. If I can cover all my bases, I might have more confidence in my answers and hopefully improve my performance. It might also help me not feel so crushed if things don't go perfectly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 4,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed insights about their study habits and potential adjustments, indicating Change Talk. They have identified a specific change goal of improving exam preparation. Confidence seems sufficient for planning, and sustain talk has decreased. While detailed plans are not yet discussed, the conversation is ready to progress to developing specific strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Creating a study plan that covers all your bases sounds like a strong way to boost your confidence and reduce anxiety. Would you like to set a specific goal for your next study session, perhaps focusing on those less familiar areas? We could also explore ways to track your progress and handle any barriers you might encounter. What are your thoughts on this approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. Setting a goal to tackle those weaker spots could really help. Maybe I could start by outlining what topics I struggled with the most on the midterm and then create a schedule to review them more thoroughly. Tracking progress sounds useful, too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of creating a specific study plan to address weaker areas, and has also agreed to track progress, indicating a strong commitment to change. Barriers such as overconfidence have been discussed, and the client is motivated to adjust their study approach. The client demonstrates readiness by expressing confidence that the new approach could improve future performance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Creating an outline to pinpoint those challenging topics is a fantastic starting point. By breaking it down, you’re setting yourself up for success. As you make this study schedule, perhaps you could incorporate some checkpoints to review your progress. This could not only bolster your confidence but also give you a clearer view of your improvement. Remember to be kind to yourself and celebrate small victories along the way. How about we set a specific time for a follow-up session to discuss how your new approach is working and address any challenges you might encounter? You’re showing great determination and insight, and I'm here to support you through this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, I think a follow-up could really help keep me on track and motivated. Having a set time will give me something to work towards. I'll try to focus on the small wins, too. Thanks for the encouragement.",
+      "phase": "terminating"
+    },
+    {
+      "index": 6,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has covered the client's concerns, developed a study plan, and scheduled a follow-up, meeting termination goals. The client seems motivated and ready to implement new strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can I bounce back from this\nI want an A in this class so bad, I was doing so good, And then I bombed the mid term yesterday , even though I walked out feeling like I missed maybe 10% tops.\nTurns out I missed 28%\n\nSo now my A is a B in the class over all\n\nAny advice for getting over feeling like a failure and pulling it together enough to get the A still? \nAnyone ever bomb a mid term and still get an A before?\nIts anatomy and physiology 1",
+  "is_completed": true,
+  "current_phase": "terminating"
+}
