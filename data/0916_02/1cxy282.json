@@ -1,0 +1,278 @@
+{
+  "id": "1cxy282",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It’s great to have you here. What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I'm just feeling really down about how this semester went. I feel like I didn't do as well as I should have and it's been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It feels like you're carrying a lot of disappointment about your semester. Can you share more about what specifically has been weighing on you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, it's just that I really wanted to excel and get those As, but I ended up with Bs. Plus, juggling school and a full-time job left me feeling like I had no time to breathe or focus properly.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of disappointment related to academic performance, burnout, and personal relationship issues. They expressed a need for improvement and support. Rapport and empathy are established, and the client's concerns and context are clear, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing school and a full-time job seems incredibly challenging. When you think about your goals, what would achieving those As mean to you and your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Getting those As would mean I’m on the right track for my career goals, like keeping my options open for grad school or a better job. It feels like a kind of validation that I’m capable and moving in the right direction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "The desire for validation and being on the right track is so important for you. What might things look like if you were able to find a better balance between work and school, and how would that impact your sense of capability and direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I could find a better balance, I think I'd feel less overwhelmed and more in control. Maybe I'd have more energy to actually focus on my studies and hopefully improve my grades.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, recognizing the need for a balance between work and school to improve grades. The client has articulated specific career goals, and there's a clear connection between achieving better grades and feeling more in control. However, no specific action plans or strategies have been discussed yet, indicating a need to continue exploring readiness and confidence further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding that balance could indeed bring a sense of control and energy back into your life. On a scale from 0 to 10, how confident do you feel about being able to create a better balance between work and school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I'd say around a 4 or 5 right now. I want to believe it's possible, but it just feels really tough when there’s so much going on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and discussed potential positive outcomes but lacks confidence in making the change. Discrepancy has been explored but confidence is low, with no specific change goal identified yet. The client is still expressing ambivalence and the exploration of strategies for change hasn't been sufficiently addressed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It's understandable to feel it's tough with so much happening. What do you think might help boost that confidence from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): Maybe finding a way to reduce my work hours or getting better at managing my time could help. It might also help to talk to my professors or advisors for more support or advice on handling my workload.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying goals and potential strategies for improvement. The discrepancy between current behavior and goals has been discussed, and some potential steps to boost confidence were mentioned. However, confidence is currently low, and no specific change goal or next step has been clearly defined yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): Exploring ways to reduce work hours or seeking guidance from your professors sounds like a proactive approach. How do these ideas align with your values and goals for the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): They align pretty well, actually. I value education and know it's key to reaching my career goals, so managing my time better and reducing work stress can help me focus more on what truly matters for my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential strategies to address their concerns and recognizes how these align with their values. However, their confidence remains low (4-5), and there's significant ambivalence towards achieving a better work-school balance. Further exploration and reinforcement of confidence and strategies are needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It sounds like education truly holds a significant place in your life, and aligning your actions with these values could make a big difference. What do you think your first step might be in exploring these possibilities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(exploring): I guess the first step could be having a conversation with my boss about potentially cutting down on my work hours. Then, I should probably meet with my professors or an advisor to discuss my situation and see what advice they might have.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of reducing work hours and seeking academic support. They have shown alignment between their values and actions, and have outlined potential next steps. However, their confidence level is 4-5, indicating room for further exploration of ambivalence and boosting confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Discussing work hours with your boss and seeking advice from professors seems like a thoughtful approach. How do you feel about taking these steps, and what support might you need to move forward with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(feeling): I'm a bit nervous about talking to my boss, but I know it's necessary. As for speaking to my professors, I feel more hopeful about that because they might understand the academic pressures I'm facing. I think having someone to talk to about my progress and hold me accountable might help me follow through with these steps.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential steps, like discussing work hours and seeking advice, and understands their alignment with values. However, confidence is still moderate at 4-5. More support and clarification on implementation strategies may boost confidence further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Having someone to support and hold you accountable sounds like a great idea. Who in your life might be able to offer that kind of support, and how could they help you stay on track with your plans?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think a close friend or maybe even a family member could help keep me accountable. It would be nice to have someone check in on me, remind me of my goals, and provide a bit of encouragement when I'm feeling overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying potential steps to address their concerns, such as reducing work hours and seeking academic guidance. They recognize the alignment of these steps with their values and career goals. However, confidence is still low, and they have not fully resolved their ambivalence, especially concerning the conversation with their boss. Additional guiding may strengthen their confidence and commitment.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Having a close friend or family member to encourage you sounds like a wonderful source of support. How might you initiate that conversation with them to ensure they understand the kind of support you're looking for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I think I could start by being open about what I'm going through and explaining the importance of my goals to them. I'd let them know that having someone to check in and give me gentle reminders would really make a difference for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change steps, such as reducing work hours and seeking professor support, aligning these with their values. Change Talk and a clear plan are present, indicating readiness to move to the Choosing phase to develop concrete action plans and address anticipated barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Expressing your needs openly and explaining your goals to someone close sounds like a positive step. What specific goals would you like to set to manage your time better, and how do you plan to monitor your progress with these?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(exploring): For sure, I'd aim to set specific time blocks for studying and relaxation so I don't feel overwhelmed. Maybe using a planner or an app to track my schedule and tasks could help me stay organized. Checking my progress weekly would help me see if I'm sticking to my goals and if any adjustments are needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Creating specific time blocks for studying and relaxation sounds like a practical approach to manage your time effectively. Would using a planner or an app to track your schedule be more appealing, and how do you envision handling any obstacles that might arise as you work towards these goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I think an app might be more convenient for me since I always have my phone on me. If obstacles come up, like unexpected work shifts or just feeling burnt out again, I think I need to be flexible and adjust my schedule instead of getting discouraged. Maybe setting some buffer time in my plan could help me deal with surprises without throwing everything off.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified goals, created a concrete action plan, and discussed potential barriers with solutions. They have shown commitment and self-monitoring strategies. The client has expressed confidence and readiness to proceed with these plans.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Choosing an app for convenience and including buffer time in your schedule is a smart strategy. Addressing unexpected obstacles with flexibility shows great foresight and resilience. As you move forward, remember acknowledging small victories along the way can boost your confidence. It seems like you're setting yourself up for success with these thoughtful strategies. Keep in mind that reaching out to your support network and staying organized will be key. You’re on the right path, and I believe you have what it takes to achieve your goals. Your next step could be setting up your app and reaching out to your support person. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll go ahead and get started on setting up the app and having that conversation with my friend. Appreciate the encouragement!",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session includes a summary of goals, coping strategies, and a next-step plan, indicating that termination goals are met. The client has a clear plan and support system to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feeling depressed because I feel burnt out and didn't do as well as I wanted to this semester\nI basically just coasted the entire time... I got a 3.0 G.P.A but that isn't good enough for what I want to do... I'm disappointed in myself.\n\nI was going to school fulltime and working full time so I always felt like I had no time for myself and halfway through the semester I got burnt out.\n\nMy girlfriend also broke up with me and the break up and my relationships were giving me un needed stress.... I felt like I didn't learn anything at all.\n\nMy counselors have said I need to get As in the classes, not Bs... and here I am getting Bs and I feel so dissapointed... I need to do better next time",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

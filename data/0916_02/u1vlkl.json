@@ -1,0 +1,194 @@
+{
+  "id": "u1vlkl",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling overwhelmed and unsure. Trying to figure out how to take a break without feeling like I'm messing everything up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be tough to balance taking a break with feeling responsible for everything. What's been going on that's making you feel overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, it's mainly just trying to juggle school and family stuff. I feel like I can't give my best to either, and it's stressing me out big time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and conflicted about taking a break for family reasons, indicating some thoughts and context. However, empathy, deeper exploration of feelings, and mutually agreed goals have not been fully developed. More rapport-building and understanding are needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're caught between school and family responsibilities, which is causing you significant stress. Can you share more about what aspects of school or family life are contributing to this feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, it's like everything is happening at once. Family needs my support right now, and school is just relentless. I feel like I'm being pulled in all directions and can't focus on what really matters.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their struggle with balancing school and family, expressing feelings of being torn in multiple directions. The conversation has delved into the stressors and the personal impact, indicating a good understanding of the client's situation. Empathy and rapport have been established, and mutually agreed goals seem to be forming regarding the client's need to address their overwhelm. The stage is set to strengthen motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Managing multiple responsibilities can certainly pull you in different directions. What do you think would change for you if you could focus more on what truly matters?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I'd feel a lot more at peace if I could just focus on one thing at a time. Like, if I took a break from school, I could really be there for my family without feeling guilty about falling behind academically.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking a break to focus on family sounds important to you right now. On a scale of 0 to 10, how confident do you feel about making a decision that aligns with this priority?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 6? I know it's what I need to do, but there's still that worry about the academic consequences and how it might play out in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal of taking a break and has identified the impact of this decision. They've rated their confidence at a 6, indicating moderate readiness. Change Talk is present, and ambivalence has decreased as the client leans toward prioritizing family. The client seems prepared to discuss specific strategies, suggesting readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Finding peace by focusing on one thing sounds like a meaningful goal for you. Given your concern about academic consequences, we could explore options like taking a temporary break or reducing your course load. What steps do you think you might take to move forward, and how might you address potential barriers?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think starting with a break makes sense. I've looked into my school's policies, and there's room for a leave of absence, but I'm just worried about how professors will react. Maybe I could have a conversation with them first, get their thoughts, and hopefully find some understanding.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Discussing your plans with your professors sounds like a constructive step. It's great that you've already investigated the leave of absence policy. How do you feel about reaching out to them, and what support might you need to make that conversation smoother?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I feel a bit anxious about it, honestly. I'm not great with having these kinds of conversations, but I know it's necessary. Maybe drafting some key points beforehand could help, and just having a friend or someone to practice with would make me feel more prepared.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of taking a break from school and has a concrete plan to discuss it with professors. They have also expressed potential barriers and considered steps to overcome them, like drafting key points and practicing with a friend. However, the client feels anxious and ambivalent, indicating that more support might be needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Drafting key points and practicing with someone sounds like a supportive strategy. What specific points would you want to cover with your professors, and who might be a good person to practice this conversation with?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I'd want to cover why I need the leave, how I plan to return and stay on track afterward, and express gratitude for any support they can offer. I think practicing with a friend who's been in a similar situation, or even someone from my department who understands the norms, would be really helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to take a leave of absence and developed an action plan to discuss it with professors. They have identified potential barriers and strategies to address them, such as drafting key points and practicing conversations. However, the client still expresses ambivalence and anxiety about the decision, indicating a need for more support and confidence-building before progressing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "therapist(choosing): You've identified some key points that will be crucial in your conversation with your professors, and practicing with someone who understands your situation can provide valuable perspective. What steps will you take next to prepare for this conversation, and how can you ensure you have the support you need throughout this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by drafting an email with those main points in mind. Then, I'll ask a friend if they can help me practice. Maybe I'll even see if there's someone in my department who's been through this before. Ensuring I have support means staying in touch with friends and maybe setting up more frequent counseling sessions. It feels like a lot, but taking it step by step seems like the way to go.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan, including steps to discuss leave with professors and seek support. They've identified potential barriers and strategies to overcome them, like drafting key points and practicing conversations, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "You've laid out a thoughtful plan to navigate this transition, and taking it step by step is indeed a wise approach. Drafting your email with key points and seeking support from a friend for practice will certainly help build your confidence. Keeping in touch with supportive friends and considering more frequent counseling sessions can provide the steady encouragement you might need. It's clear you're committed to making well-informed decisions, and that's a powerful stance. Remember, you're not alone in this; you've got a support network to lean on. For now, focusing on the email and reaching out to a friend are great next steps. You've got this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your guidance. It feels good to know I'm on the right track, even if things are a bit overwhelming. I'll keep you updated on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified their plan, outlined specific steps, and acknowledged support needs. The therapist reinforced these and highlighted the client's progress. The session naturally reached closure with clear next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I am out\n4am and I can't sleep. I'm drafting an email for the one class I can't auto pilot. I'm workshopping the nicest ways to say \"I don't got it in me, thanks so much, but I'm taking leave for at least a year and don't have the will to finish strong. You can be nice and accommodate me or don't and I'll just fail.\" \n\nHave to take off to help family. Pretty likely I can get rehired as a TA and finish after, but, still. Feeling ambivalent, low, blech. \n\nAnybody else taken a grad gap year? I don't have feasibility questions, I know my school's policies. But did you make it back? Was it all cool in the end? Not really even worked up about either of those things. Just figure there needs to be room for discussion.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

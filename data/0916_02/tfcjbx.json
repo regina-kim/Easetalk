@@ -1,0 +1,152 @@
+{
+  "id": "tfcjbx",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. Honestly, I'm feeling pretty overwhelmed and stuck right now. School's been rough, and I can't seem to get motivated or on top of things like I used to.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really tough when things feel overwhelming and you feel stuck. You're feeling this way because school has been rough and motivation is a challenge right now. Can you tell me more about what's been happening with school and how it's affecting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's like I lost my spark or something. I was always so on top of things in high school, but now the workload feels never-ending and I'm just not keeping up. I'm worried about falling behind and it's stressing me out even more.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their concerns, including feelings of being overwhelmed, motivation struggles, and specific challenges with coursework. The therapist has acknowledged and validated these feelings, building rapport. The essence of the client's story, including thoughts and feelings, has been well-explored. The stage is set to transition to the Guiding phase to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds frustrating to feel like you've lost that spark you once had. You're concerned about falling behind due to the overwhelming workload, and that stress is adding to the challenge. What would it look like for you if you could regain some of that motivation and feel more in control of your school work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: I think it would feel like a huge weight off my shoulders. If I could get back to being on top of my assignments and actually understand the material, I’d probably feel a lot more confident and less stressed out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Reclaiming that confidence and reducing stress sounds really meaningful to you. What small steps do you think might help you move towards feeling more on top of your assignments and understanding the material better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Well, maybe I could try setting up a more consistent schedule or routine to get myself going. I also think finding a study group or someone to work with might help me grasp the material better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a meaningful goal of regaining control and confidence in their studies and suggested specific steps like setting a routine and joining a study group. Change talk is present, and there's a clear discrepancy between their current and desired state. The client appears ready to move towards planning specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating a consistent schedule and connecting with a study group both sound like positive steps forward. Considering these options, how would you like to start? Perhaps setting up a specific time each day for studying or reaching out to peers to form a group could be initial actions. What do you think might be the best first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: I think I’ll start with setting up a study schedule first, maybe dedicate certain hours each day to focus on schoolwork. Once I get that going, I can see if anyone in my classes is interested in forming a study group.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "A study schedule sounds like a solid foundation to build on. Dedicating specific hours for schoolwork each day can really help create routine and structure. What kind of time slots do you think would work best for you during the day? And how would you like to track your progress to ensure you’re sticking with it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: I think I should try to study in the afternoon since I'm not much of a morning person right now. Maybe like 2-4 PM? As for tracking, I could use a planner or maybe an app to keep tabs on what I accomplish each day, just to make sure I'm keeping up with my goals.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete plan to create a study schedule and use a planner or app for self-monitoring. Although they have identified initial steps, barriers such as understanding course material and participation in classes require further exploration and strategies. For now, continuing in the Choosing phase allows for deeper discussion on these aspects.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Having a set time like 2-4 PM in the afternoons sounds like a practical choice, especially since it aligns with when you feel more productive. Using a planner or an app to track your accomplishments can give you a clear picture of your progress and help maintain your motivation. How do you feel about starting with this schedule tomorrow, and perhaps reviewing your progress at the end of the week to see how it's working for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. I'll give it a shot starting tomorrow and see how it goes. Reviewing it at the end of the week could help me figure out what's working and what isn't, so I think that’ll be really helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear action plan: setting a study schedule from 2-4 PM and using a planner or app for tracking. They are committed to starting this plan and will review their progress weekly. Confidence in their ability to follow through is evident, suggesting readiness to transition from planning to action. The goals of the Choosing phase have been met effectively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That's a great plan, starting tomorrow with your dedicated study time from 2-4 PM and then checking in at the end of the week to reflect on how it went. It shows a lot of initiative to adapt and improve. If certain parts aren't working as well as you'd hoped, it’s all part of finding what fits you best. Remember, each step you take is progress, and you’re actively working towards regaining that confidence and reducing stress. You've got this, and I'll be here to support you along the way. Feel free to reach out whenever you need to talk or adjust your plan. You've taken important first steps, and I believe in your ability to follow through.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the support. I'll try to keep moving forward and see how this schedule works out for me. If I need help or adjustments, I’ll definitely reach out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to regain motivation, established a study schedule, and plans to review progress. This aligns with addressing their concern of overcoming procrastination and stress, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: i’ve been skipping classes and putting little to no effort into assignments and idk how to get outa the hole im in\ni need advice \n\ni’m a college freshman in my second semester and i haven’t had any motivation to get any of my work done for my college courses. in highschool i was on top of my stuff all the time and looking back i don’t know how i managed to work part time and take 7 classes. I’m only taking 4 classes (16 credits) and i feel so unmotivated and overwhelmed.  my earliest class is at 11am and i can’t get myself up out of bed to go every morning. i don’t know what to do or how to get out of the funk i’m in. \n\nOne of my college professors emailed me saying that I need to be more active and participate in class because my grade is low. The course material have the time is completely difficult for me to understand and I always attend office hours to try and get more help but I just can’t seem to graph the concept sometimes. it just makes me feel guilty and then when I do attend class I feel like I’m the only person that’s not understanding what’s being taught.  I had to drop one my labs the semester because I didn’t have the time and I stopped putting in the effort to try and get all of the work done. I was putting in about three hours of prep work for a class that I only had once a week, which I think is absolutely ridiculous. The lecture for that class takes about nine hours of work outside of the lectures. \n\nat this point I just have no idea what to do and how to get out of this hole that I’m in\n\n\nTLDR , I’ve been procrastinating course work and have had little motivation when it comes to school and I don’t know what to do.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

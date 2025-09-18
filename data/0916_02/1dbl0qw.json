@@ -1,0 +1,236 @@
+{
+  "id": "1dbl0qw",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to meet you. How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, it's nice to meet you too. Honestly, I'm feeling really anxious about my grades and how it's all going to turn out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Grades can definitely be stressful. You're feeling anxious because there's a lot riding on how things turn out, right? Can you share more about what's making you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's that pressure to make sure I graduate on time and not mess things up again. I just can't stop worrying about what will happen if I don't get the grades I need.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their anxiety and fear about grades and graduation, detailing their GPA and history of repeating classes. The therapist has shown empathy and understanding. However, further exploration is needed to uncover more about the client's feelings, thoughts, and any supportive resources or coping mechanisms they have.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like there's a lot of pressure on you to succeed academically, and the fear of not meeting expectations is weighing heavily on your mind. Can you tell me about your experiences with your grades in the past and how they've impacted you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've always tried my best, but sometimes it feels like my efforts aren’t enough. Past grades have been rough, and it's like a never-ending cycle of stress and worry about the future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their anxiety about grades and pressure to graduate, and some context about past academic challenges. However, more detailed exploration of feelings and motivations is needed before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It seems like you've been in a challenging cycle where your hard work doesn't always reflect in your grades, leading to ongoing stress and worry about what lies ahead. What has helped you cope with these feelings in the past, or are there things you've considered trying?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): I've tried talking to friends and family sometimes, which helps a bit. But mostly, I just keep trying to push through and hope for the best. I'm not really sure what else to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern about academic pressure and fear of failure, providing context about past experiences with grades. The therapist has shown empathy and understanding, establishing rapport. However, more exploration is needed to fully understand coping mechanisms and goals before advancing.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You're finding some relief by talking to friends and family, but it seems like you're also shouldering a lot on your own and hoping for the best. It must be tough not knowing what else to try. What do you think might happen if you explore other ways of managing this stress, or is there something specific that you're curious about trying?",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Yeah, talking to others does take some of the edge off, but I guess I've just been sticking to what I know. I'm open to trying new things if it might help, but I'm not really sure where to start or what would work for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about academic pressure and stress, and the therapist has built rapport and understanding of the client's situation. However, specific mutually agreed goals or a deeper exploration of emotions are not yet evident.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(exploring): It's great that you're open to exploring new ways to manage stress, even if you're unsure where to start. Navigating this can feel overwhelming, especially when you're used to relying on familiar strategies. What are some things you've heard about or noticed others doing that you might be curious to explore further?",
+      "phase": "exploring"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(exploring): I’ve heard about meditation and mindfulness, but I'm not sure if they’re for me. I’ve also seen people keep planners and schedules to stay organized, but I tend to forget or just not stick to them.",
+      "phase": "exploring"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, thoughts, and feelings about their anxiety and pressure related to grades, and has expressed openness to exploring new coping mechanisms. Empathy and rapport have been established, and there is mutual understanding of the client's challenges and openness to change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Exploring new strategies like meditation or using planners shows your willingness to find what suits you best. It's okay if you're unsure; trying them out could give you more clarity. How might your life look different with some of these practices in place, and what might be the benefits if they do work for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): If I get into something like meditation or become more organized, maybe I'd feel less overwhelmed and more in control of things. It might help me focus better and keep track of my work, which could ease some of this stress about grades.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Imagining a future where meditation or organization helps you feel more in control sounds promising. What parts of your life or values would align with feeling less overwhelmed and more focused?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I think being less overwhelmed would help me enjoy my time at university more, like actually experiencing things instead of being in my head all the time. Plus, being focused would probably make me feel more capable and confident, like I actually have a handle on things.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk, imagining a future with reduced stress through practices like meditation and organization. They have identified benefits such as feeling more in control and aligning with their values of enjoying university life more. However, the client hasn't expressed a specific change goal or next step yet, and confidence levels haven't been explicitly addressed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Enjoying university and feeling more capable and confident in your abilities sounds important and fulfilling. As you think about aligning your daily life with these values, what small steps or changes do you imagine could start moving you toward that more balanced experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Maybe starting small, like setting aside just a few minutes a day for meditation or trying to stick to a simple planner. I could also try focusing on one class at a time to make things less overwhelming. Small steps, I guess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation for change, articulated specific steps to try, and linked these changes to personal values and benefits. Change Talk is present, indicating readiness to move towards planning concrete actions. The client shows reduced ambivalence with a focus on small, achievable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Starting with small, manageable steps like dedicating a few minutes a day to meditation or using a simple planner can make a big difference. Tackling one class at a time also seems like a practical approach to reducing overwhelm. Based on what you've shared, possible options include establishing a brief daily meditation routine or setting weekly planner goals. What do you think would be a good starting point for you, and how might you keep track of your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): I think starting with the planner might be easier for me. I could set a goal to write in it at the start of each week and then check it every day. Maybe I could use an app to remind me, so I don't forget. It feels like a good way to start organizing and managing things better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Using a planner and setting weekly goals sounds like a practical and achievable first step. An app reminder is a great idea to help you remember to check it daily. How would you like to monitor your progress, and what might be some indicators of success for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): I think I'll track my progress by noting down how often I stick to my planner and if it helps me keep up with assignments. Success might be feeling less stressed and more on top of deadlines, or noticing I'm not forgetting things as much. Maybe I'll jot down a few thoughts about how it's going each week to see any changes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of using a planner with an organized action plan involving weekly goals and an app for reminders. They've identified monitoring strategies, like tracking planner usage and stress levels. The client expresses commitment and confidence in their plan, reflecting readiness to act. The focus has shifted to implementing the plan effectively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Tracking your progress by noting how often you use your planner and reflecting on its impact is a thoughtful approach. Feeling less stressed, more organized, and on top of deadlines can be excellent indicators of success. Jotting down weekly thoughts is a wonderful way to observe any positive changes and adjustments needed. I'm confident that these small steps can lead to greater balance and fulfillment in your university experience. It's truly inspiring to see your commitment to making these changes. As you embark on this, remember I'm here to support you. Shall we set a time to catch up on how things are progressing?",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Yeah, setting a time to catch up sounds good. It'd be great to get your input on how things are going and maybe troubleshoot if I hit any snags.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals, steps, and coping strategies, and a follow-up plan is in place. The client is open to continuing with a catch-up session. Overall, closure has been adequately addressed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Please help me Reddit\nI have a 2.9 gpa and I’m repeating 3 classes. I got an F a D- and a D+ in these classes. What grades do I need to get a 2.5. I’m repeating them in one semester. I’m so scared. I just want to graduate. ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

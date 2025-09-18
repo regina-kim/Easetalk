@@ -1,0 +1,173 @@
+{
+  "id": "ucuuow",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I'm just feeling really overwhelmed with everything going on at school and worried about how it's going to affect my future, especially if I end up dropping out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like school is really weighing on you and you're concerned about the impact on your future. What specifically is overwhelming you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's just a mix of failing some classes, dealing with being sick, and now feeling pressured about my grades and what that means for my future, like if I'll even be able to get back into another school.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of being overwhelmed and specific concerns about academic performance, health issues, and future educational prospects. The therapist has acknowledged these concerns but has yet to fully explore emotions, motivations, and the detailed context around the client's mental health and potential ADD/ADHD diagnosis. More exploration is needed to build rapport and understand the client's story fully.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing health issues and academic pressures seems incredibly challenging. You're feeling this immense pressure because of both your health and your grades, and it's leading to concerns about your future options. How have you been managing these feelings and situations up to this point?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Honestly, not very well. I've been trying to handle things on my own, but it's just been really hard to keep up, and now I'm feeling stuck. I've started talking to you and taking meds, so maybe that'll help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively elicited the client's story, including thoughts and feelings about academic pressures, health issues, and future concerns. Empathy and rapport have been established, and the client has taken initial steps towards managing the situation. The exploration of concerns has been thorough and goals are apparent.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Your decision to reach out and start medication shows a lot of strength and self-awareness. Considering how life might be different if things started to feel more manageable, what would be the most important changes for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I think the biggest thing would be just feeling less stressed and like I have a handle on things, maybe have some sort of plan or path forward. It’d be nice to feel confident about school again and not constantly anxious.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Imagining a future where you feel less stressed and more confident about school sounds like a meaningful goal. What's one small step you think you could take that might help move you in that direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I guess I could try talking to my professors and see if there's anything I can do to improve my grades or get some extensions. Maybe they’ll be understanding about my situation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a step towards improving their situation, such as talking to professors. There's a clear discrepancy between their current situation and desired future. The client's confidence and motivation seem to have increased, and ambivalence appears reduced. The guiding goals have been met, indicating readiness to form specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It’s great that you’re considering reaching out to your professors; that sounds like a proactive step. As you think about starting this conversation, what specific questions or requests might you want to bring up with them? Additionally, how do you plan to approach them in a way that feels comfortable for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I might ask if there's any chance to make up missed work or if they have any advice on focusing better on upcoming assignments. I'd probably email them first to explain my situation and then maybe meet during office hours if they seem open to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Reaching out via email to explain your situation sounds like a well-thought-out approach. You could ask about making up missed work and seek advice on focusing better. As you prepare for these conversations, what support or resources might help you feel more confident? Would you like to explore different ways to monitor your progress or any potential barriers you might face?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I think having a clear picture of what my deadlines are and maybe setting up some reminders could help. It might also be good to have someone who can keep me accountable, like a study buddy or someone from my support system. I'm not sure about barriers, but staying motivated is definitely one of them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific actions such as contacting professors and setting reminders. There is acknowledgment of potential barriers like motivation, and a support mechanism is considered. However, confidence in overcoming barriers is not fully established, and self-monitoring plans need more clarity.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a clear understanding of deadlines and using reminders sounds like a solid plan. Setting up a system of accountability with a study buddy or someone from your support network could provide that extra motivation. As we think about potential barriers, what strategies do you think could help maintain your motivation when things get tough? Would you like to consider scheduling regular check-ins to assess how things are progressing?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, regular check-ins could be helpful, maybe just to talk about what's working and what's not. For motivation, maybe breaking tasks into smaller parts so they don't seem so overwhelming could work for me. Having little goals to hit might make things feel more doable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving reaching out to professors, using reminders, and setting up accountability. They have identified potential barriers, such as staying motivated, and discussed strategies like breaking tasks into smaller parts and scheduling regular check-ins. Confidence in the plan is evident through the client's engagement and acceptance of action reflections.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a fantastic approach—breaking tasks into smaller, manageable parts can definitely make them feel less overwhelming, and those little goals can really boost your motivation. Having regular check-ins to reflect on your progress and adjust as needed sounds like a great way to stay on track. You've identified some key strategies to help you manage both your academic and personal pressures, and it's impressive to see your proactive planning.\n\nAs you move forward, remember that it's okay to reach out for support when you need it. You're taking important steps toward creating a more balanced and manageable routine. Keep nurturing that self-awareness and self-compassion you're demonstrating. I'm here to support you along your journey, and I look forward to hearing about the progress you make.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and support. I'll definitely try to keep these strategies in mind and reach out if I need to.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session includes a summary of strategies, coping plans, and future steps. The client has specific actions and support systems in place, indicating readiness to move forward with confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anybody drop out of college a few weeks before the end of the semester?\nI’m a freshman who is failing in some classes but not all of them. I had a meeting today and they told me I was on the verge of getting kicked out because I was sick(physically and mentally) a lot in the middle of the semester so I didn’t go to class. There’s three weeks left and I was wondering how it would affect my GPA and would it ruin my chances of getting into a community college. I had around a 2.0 last semester because I just didn’t try hard. \n\nNote: I just got on anti-depressants and my parents want me to go see if I have ADD or ADHD. not sure if that plays into anything but yeah.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "vrj8dk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's good to have you here. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've just been really stressed trying to figure out if I should stick with computer science or switch to business. It's been tough, and I'm kinda lost on what to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a difficult decision weighing on you. What is it about both computer science and business that draws your interest?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, with computer science, there's the promise of future job security and good pay, which is appealing. But business seems more approachable and less stressful, even though I've heard it's not as valued. I'm just trying to figure out which one suits me better.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, thoughts, and feelings have been thoroughly elicited, including the context of their educational journey, personal struggles, and external opinions influencing their dilemma. Empathy and rapport appear to be established through understanding and validating the client's stress. It's time to guide towards clarifying their values and motivations.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be really challenging to balance security with personal satisfaction. What would life look like for you if you chose computer science versus if you chose business?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I stick with computer science, I imagine feeling more secure about job prospects, but I worry I'd constantly be stressed and overwhelmed. On the other hand, if I switch to business, I think I'd feel more at ease with the coursework, but I'm scared I might regret it if I don't find a decent job.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's understandable to feel caught between security and ease. Considering your values and long-term goals, how do you see each option aligning with what's most important to you in life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I value feeling fulfilled and not constantly stressed, but I also want to be able to support myself comfortably in the future. Computer science seems to align more with financial stability, which is important, but I don't want to sacrifice my well-being either. It's tough to figure out which path will give me a balance of both.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in discussions about life with and without change, expressed a clear discrepancy between values and behavior, and discussed long-term goals. Change talk is present, and the client has articulated their concerns and values regarding both options. However, there's no specific change goal identified yet, making it prudent to continue guiding to solidify readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding that balance between financial stability and personal well-being indeed poses a challenge. On a scale from 0 to 10, how confident do you feel about finding a way to integrate these values as you explore your options?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe around a 4 or a 5. I know it’s possible, but right now it just feels like a lot of uncertainty and pressure, so it's hard to feel fully confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence and uncertainty about their options, indicating that they do not yet have a clear change goal or sufficient confidence for action. The confidence level is between 4 and 5, which is below the threshold indicating readiness. Additionally, sustain talk about the difficulty of computer science persists.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Navigating uncertainty can be overwhelming, yet your awareness of the importance of both financial stability and well-being is a strong foundation. What small steps might you consider to increase your confidence in integrating these values as you move forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): I think maybe researching more about both fields and talking to people who are already in them could help. Also, I might try to find some hands-on experiences or internships to get a better feel for what I'd actually be doing day-to-day. That way, I can see which path aligns more with what I truly want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still exploring their feelings of ambivalence and uncertainty about switching majors. They have identified conflicting values but have not fully resolved the discrepancy between their desire for financial stability and personal well-being. The confidence level is at 4-5, indicating a need for further guidance and support. Small steps have been identified, but the client requires more clarity and confidence before creating a specific action plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring your options through research and real-world experiences sounds like a thoughtful approach. How do you feel about taking these steps to help clarify your direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): It feels like a practical move, I guess. It might help me feel less stuck, and I think getting some real insights from people in those fields could make a big difference. It's still kind of daunting, but it seems like a good way to get closer to a decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored their values, clarified the discrepancy between desired financial stability and personal well-being, and identified steps to move forward. However, confidence is currently low, and ambivalence persists, indicating more guidance is needed to strengthen decision-making confidence and reduce uncertainty.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Finding clarity through practical steps can indeed help reduce that sense of being stuck. Your willingness to seek insights and experiences shows a proactive mindset. What might be one initial step you'd feel comfortable taking to begin this process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by reaching out to a few people in both computer science and business fields, maybe alumni or professors, and see if they’d be open to chatting. Just having some conversations might give me a better sense of what each path looks like day-to-day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a change goal of exploring both fields more deeply to inform their decision. However, their confidence is still at a 4-5, indicating uncertainty. The client has identified practical steps but requires more support in building confidence before moving to action planning. Additional guiding will help solidify their direction and readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out to alumni or professors for conversations is a great first step towards gaining clarity. Your initiative in seeking firsthand perspectives shows your commitment to finding the right fit for you. How does the idea of having these conversations make you feel about the journey ahead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, it makes the journey feel a bit more manageable and less isolated. Knowing I can talk to people who’ve been through this might give me a clearer vision and ease some of the pressure. It's still nerve-wracking, but having that support could make a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific steps to explore both fields, indicating a developing change goal. However, their confidence is below 6, and there's still uncertainty and ambivalence about the decision. To further strengthen motivation and confidence, remaining in the Guiding phase is recommended.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Building a support network by connecting with those who've traveled similar paths can indeed lighten the load and provide guidance. Your openness to seeking support reflects your resilience and resourcefulness. What might be the next step to initiate these conversations, and how can you support yourself through any nerves that might arise?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think I might start by emailing some professors or checking if there are any alumni networking events coming up. To handle the nerves, maybe I'll jot down a few questions beforehand and remind myself it’s just a conversation, not a decision I have to make on the spot. Plus, it helps to think about it as an opportunity to learn rather than something to stress over.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific step of reaching out to professors and alumni, indicating a move toward actionable change. The client still shows some ambivalence with confidence around 4-5, having practical next steps and a proactive mindset suggests readiness to explore action planning. However, confidence needs enhancing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Creating questions and viewing these conversations as learning opportunities is an empowering way to manage any nerves. Jotting down questions shows your foresight and preparation. As you consider your next move, would setting a timeline for reaching out to people help you stay on track? And how might you celebrate each step you take along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, setting some mini-deadlines could definitely keep me motivated and on track. Like, maybe aim to send out a few emails by next week. For celebrating, I think giving myself some downtime or treating myself to something small with each step I take could keep things positive and rewarding.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Scheduling mini-deadlines and rewarding yourself along the way are fantastic strategies to maintain motivation and positivity. Recognizing your progress with small treats or downtime is a wonderful way to celebrate your commitment to this journey. How do you see yourself monitoring your progress and ensuring you stay aligned with your goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "I guess I could keep a simple journal or checklist to track who I've contacted and any responses I get. That way, I can see what I've accomplished and what’s next. Also, reflecting on these interactions might help me notice any patterns or insights that come up, so I stay aligned with whatever feels right for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan with defined steps, such as reaching out to professors and alumni, creating questions, setting mini-deadlines, and using a journal for self-monitoring. They have discussed potential barriers like nerves and proposed strategies to manage them, indicating a readiness for action. The client shows commitment and confidence to proceed, suggesting the Choosing phase goals have been met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Using a journal or checklist to track your contacts and responses is an excellent way to stay organized and visually see your progress, which can be very motivating. Your plan to reflect on these interactions shows a thoughtful approach to discovering insights that align with your personal goals. You've put together a solid framework to guide you through this exploration phase. Feel proud of your initiative—you’re paving a path towards greater clarity. Remember, I'm here to support you as you take these steps. As your next step, perhaps begin by drafting those emails or identifying the first networking event to attend. And take a moment to acknowledge the courage it takes to reach out and seek out the wisdom of others. Keep moving forward at your own pace, and celebrate each step!",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks for your support and encouragement. I'll definitely start drafting those emails and see what networking events are available. Feeling a bit more motivated now!",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has met termination goals by summarizing goals, discussing steps, and coping strategies. The client has a next-step plan and strategies to stay motivated with support acknowledged, making it natural to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Stay in computer science or switch to business?\nI’d appreciate any sort of help as I’m lost. I’m currently in Turkey on vacation with my parents but I need to decide what I want to do so I can make it to the fall term. \n\nI started my computer science major online in 2020 in a university for one year, than switched to a different university for applied computer science for another year first semester online, second in person. I’m going into my third year after the summer and I barely have any knowledge of the subject I’m doing. I’ve had a difficult time learning online and learning computer science in general. \n\nI did some thinking and the only reason I want to switch is because I find computer science hard, which I don’t think is a valid reason for me, and it’s only going to get harder as I’m closing in on the major. I can’t decide if I want to switch to business or not. People say that business is useless and a waste of money, while computer science is the future and has well paying jobs. \n\nI’m so lost at what I’m supposed to be doing and it’s so stressful. I’d kindly appreciate any kind of input.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

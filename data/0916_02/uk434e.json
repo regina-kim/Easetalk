@@ -1,0 +1,152 @@
+{
+  "id": "uk434e",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It’s great to meet you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for meeting with me. I'm really struggling with feeling burnt out from school and stressed about whether I should take the summer off or not.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Taking a step back to consider your options seems important to you right now, and it's understandable to feel overwhelmed. Could you share more about what’s contributing to the burnout and stress you're experiencing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just been a crazy year with writing my thesis and handling extra work at my campus job, which has just left me feeling drained. The thought of having to apply for jobs or internships for the summer just adds to the stress, especially when I know grad school is right around the corner.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, thoughts, and feelings regarding burnout and stress, providing detailed context. Empathy and understanding are evident, with rapport being established. The main concern involves balancing guilt and the need for rest. Goals for the session could include exploring these feelings further. Advancing to the Guiding phase could help strengthen motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Thinking about how full your plate is, it's clear why you're feeling drained. Reflecting on your goals and what you value most in these next steps might help clarify your path forward. How do you envision your summer aligning with your long-term aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I just want to rest and recharge, but I also want to make sure I'm not missing out on any opportunities that could help me in the future. I guess I'm trying to balance giving myself a break with not falling behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding a balance between rest and future opportunities seems crucial for you right now. Imagine a summer where you feel both rested and prepared for grad school. What might that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think I'd like to spend more time doing things that I enjoy and just having a bit of freedom to not be constantly working or studying. Maybe catching up on some reading, traveling a bit, or just relaxing at home. I want to feel refreshed and ready to tackle grad school when it starts.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk about wanting to rest and recharge over the summer. There's a clear exploration of life with and without change, showing a desire to feel refreshed for grad school. While confidence hasn't been explicitly rated, the client seems to lean towards a decision. However, ambivalence persists regarding guilt about taking a break, suggesting the client needs further guidance to solidify the decision.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "therapist(guiding): It sounds like having some freedom and engaging in activities you love could really help you recharge. Balancing that with preparation for grad school feels important. On a scale from 0 to 10, how confident do you feel about finding this balance in your summer plans?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): I'd say I'm at about a 6 right now. I know what I want, but I still feel unsure about whether I'll actually be able to take this break without feeling guilty or anxious about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk regarding wanting to take a break over the summer and has a specific vision for how they want to spend their time. They rate their confidence at 6, which indicates some readiness. Discrepancy between the desire to rest and the guilt about not working has been explored. The conversation can advance to developing specific action plans to address guilt and solidify the decision.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "therapist(choosing): It's understandable to feel a bit uneasy about fully stepping back. One approach could be to create a plan that includes both rest and some light preparation for grad school. Options might include setting aside specific days for relaxation and others for minimal tasks like reading on topics that interest you. How does this idea resonate with you, and what barriers do you anticipate in achieving this balance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea, having some structure without it being overwhelming. I guess the biggest barrier is just my own guilt and fear of not doing enough. I'm worried I'll start feeling like I'm wasting time when I should be productive.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "I hear that managing those feelings of guilt and fear is a real concern for you. To address this, perhaps you could focus on setting clear intentions for your rest days, reminding yourself that recharging is also a productive activity. Would it be helpful to explore strategies for gently challenging those thoughts when they arise, and what kind of support or reminders might help you stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that could really help. Maybe having some affirmations or reminders of why rest is important could keep me grounded. Also, talking to people who understand my situation might keep me from spiraling into guilt. ",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to balance rest and light preparation for grad school, and they have identified potential barriers such as guilt. They have agreed on strategies to manage these barriers, including affirmations and seeking support. The client shows commitment and confidence in this plan, indicating readiness to transition to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It’s wise to consider using affirmations and staying connected with supportive people who understand what you're going through. Together, these can be powerful allies in managing those feelings of guilt. Creating reminders of the value of rest and how it contributes to your long-term success can keep you grounded. You’ve outlined a thoughtful plan for your summer, balancing both rest and preparation. This sets a strong foundation for tackling grad school. Remember, it’s okay to prioritize your well-being. As a next step, maybe outline some affirmations that resonate with you and identify who you might lean on for support. You're doing great, and it's okay to take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll work on those affirmations and think about who I can reach out to for support. It's good to know that resting is part of the plan, not just an afterthought.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session meets the termination goals: a summary of coping strategies, such as using affirmations and seeking support, and a next-step plan for achieving balance this summer were discussed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: super burnt out, but i feel guilty about taking the summer off\nhey guys, so i graduate next weekend from my undergrad and as I'm finishing up my finals I'm facing a huge dilemma. This year has been particularly difficult in terms of coursework as I've been writing my thesis, but I've also had a lot going on with my campus job (i work in an office) as someone else quit and left me and one other person with their huge list of responsibilities that has taken up a lot of my time. I feel so miserably burnt out trying to get through the rest of this semester and the idea of applying and interviewing to get a temporary summer job before I start grad school in August sounds like a nightmare. I would love to use this summer as a break before my rigorous grad program that runs all year long for about 3 years, but I also feel guilty about the idea of not having a summer job (I'd get an internship but jfc there are none in my area that will allow anyone who isn't already a grad student in, plus my program will put me into an intership position anyways). My family keeps telling me that they're glad I'll finally have a break but I'm worried about being dead weight, have any of you been in this position before? Am I being overdramatic in one way or another? This might just be the finals stress rotting my brain but I really can't stop worrying about it. Any advice is appreciated :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,236 @@
+{
+  "id": "yrzyye",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you might have something on your mind. How can I support you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Yeah, I’m feeling pretty overwhelmed about choosing a grad school. The deadlines are closing in, and I just can't figure out which option is best for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Deciding on something as significant as a grad school can certainly feel overwhelming. You're feeling this way because you want to make the best choice for your future. What factors are most important to you in making this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's like a mix of finances, potential job benefits, and just having some sort of social life. Plus, healthcare is a big deal for me, given my recent diagnosis. It’s all just so much to weigh.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their situation, including the factors influencing their decision and their feelings of being overwhelmed. The therapist has shown empathy and understanding. The client’s goals and concerns are clear, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Choosing a grad school sounds like a complex decision, especially with so many important factors to consider. You're balancing finances, career prospects, social life, and health care needs. How do you envision your life looking if you choose one school over the others?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): If I pick UF, I might have a shot at some funding and a teaching gig later, but I'd be starting out with loans. At UCF, I see myself juggling a job and classes, but at least I’d have a friend around for a bit. CCNY would mean a tough commute but living rent-free. I guess it comes down to how much I value having less debt versus a more manageable daily life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You're weighing debt against a more manageable day-to-day experience, which is a significant consideration. Reflecting on your priorities, what aspects of your life post-graduation feel most important to you when you think about your future self?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I want to be in a stable financial position where I'm not drowning in debt, but I also need to be healthy and have a decent support system. I guess I want to look back and feel like I made a choice that wasn't just smart financially but also didn't burn me out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has voiced a clear discrepancy between their values (stability, health, social support) and the options available. They've explored potential life scenarios and priority areas post-graduation. Change Talk is present as they express a desire for a balanced decision. However, no specific change goal or next step has been committed to yet, indicating the need for further exploration and confidence building.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like stability, health, and a balanced support system are key priorities for you. Considering these aspects, where do you see the greatest alignment with your long-term goals among the options you're pondering?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): It's tough to say. CCNY aligns with the financial stability since I'd avoid rent, but the commute might mess with my health and balance. UF could offer some funding later, which is tempting, and UCF has the immediate social support, which is nice. It's just hard to see which one strikes the best balance right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed clear values and concerns regarding debt, health, and support systems, alongside potential benefits of each option. There's been substantial exploration of life with and without change, highlighting discrepancies between goals and options. However, specific change goals or next steps aren't evident yet, and the client is still ambivalent about options. Hence, further guidance is needed to solidify a decision.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Balancing these priorities can indeed be challenging. When you imagine your future success and wellbeing, what elements do you feel you might regret not prioritizing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I feel like if I don't prioritize my health and social life, I might end up regretting it because those are things I really need for my overall happiness. But at the same time, I don’t want to be overwhelmed by debt because that would stress me out in the long run. It’s hard to tell which sacrifice would weigh heavier on me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear values and discrepancies between options, considering financial, health, and social factors. They have articulated priorities and potential regrets. While there's prominent Change Talk, a specific change goal or next step hasn't been clearly decided, and ambivalence remains.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Finding the right balance between immediate happiness and long-term security can be quite a dilemma. You're contemplating the potential impact of each choice on both your happiness and financial stress. What small step could you take to clarify which of these factors might matter most to you in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try talking to some current students or alumni from each program to get a sense of how they balanced everything and what they found most challenging. Hearing their experiences might help me figure out what aspects I'm overlooking or underestimating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear values and priorities, exploring the implications of each grad school option. Change Talk is present, but no specific change goal or next step is articulated yet. The client remains ambivalent about which option aligns best with their long-term goals and identifies an exploratory action (talking to students/alumni) to gain clarity.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "therapist(guiding): That sounds like a thoughtful approach to gather insights. Connecting with students and alumni can definitely provide a clearer picture of the experiences you're considering. What do you hope to learn from those conversations that could guide your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(exploring): I'm hoping to learn more about their day-to-day life, like how they managed their workload with personal stuff and what they wish they'd known before starting. It would be great to hear about any unexpected challenges or benefits they encountered, so I can better anticipate what might lie ahead for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client demonstrates a clear expression of values and goals, including the importance of financial stability, health, and social support. They have explored the implications of each choice and identified potential steps to clarify their decision, showing decreasing ambivalence and increased focus on priorities. They have mentioned a specific next step to gather more information, highlighting readiness to move to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Gaining insights from current students or alumni could reveal valuable perspectives on daily life and potential challenges. To create an action plan, what would your next steps be in reaching out to these individuals, and how might you prepare for those conversations to ensure you gather the information you need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(planning): I think I'll start by checking out online forums or LinkedIn groups related to each school and program, and maybe message a few people who seem active. I could create a list of questions to ask them, like what a typical week looks like, how they handle their finances, and any advice they might have for someone in my position. That way, I can make the most out of each conversation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan to gather meaningful insights. Creating a list of questions can certainly help you focus your conversations and get the information you need. As you reach out to these contacts, how might you stay organized and track the insights you gain from each conversation to help guide your decision-making process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(planning): I'll probably make a spreadsheet or something to jot down notes from each conversation, so I can compare the different insights side by side. Maybe I'll highlight key points or recurring themes that stand out, and see if there's a pattern in what people are saying. That way, I can have a clearer picture when it comes time to make my decision.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to reach out to current students and alumni for insights and has strategies to manage potential barriers, like organizing information. However, the client has not yet shown readiness signals such as commitment or taking-steps talk regarding a decision. Continued exploration in the Choosing phase is advisable.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating a spreadsheet to organize and highlight key insights is a great strategy to visualize the information and identify patterns. How do you plan to check in with yourself throughout this process to ensure you're staying aligned with your priorities and feelings as you gather this information?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(planning): I'll try to set some time aside each week to reflect on what I've learned and how it aligns with what I want. Maybe I'll journal a bit about my thoughts and feelings, just to make sure I'm not getting too caught up in all the details and losing sight of what truly matters to me. Checking in with myself like that should help keep me grounded.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan for reaching out to current students and alumni, including creating a list of questions and using a spreadsheet to track insights. They have also discussed self-monitoring by reflecting on their insights and aligning them with their priorities. Although they are facing a tight deadline, they are prepared to make an informed decision utilizing the insights they gather.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Taking time each week to reflect and journal can really help you stay connected to what's important for your happiness and future. It sounds like you have a thoughtful approach to balancing information with personal reflection. As you move forward, remember that this process is a journey of self-discovery. You're doing a great job preparing for your decision, and it's clear you are considering all angles thoughtfully. Keep up that self-care and reflection. If you ever feel stuck or need to talk, I'm here to support you. Looking forward to hearing about what you uncover and how you feel about it all. You're on a positive path, and I believe in your ability to make the right choice for yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll definitely keep everything in mind and reach out if I need to. I'm hoping things get clearer soon, but knowing you're here helps.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a plan for gathering insights and self-reflection, meeting the termination goals. They have a next-step plan and coping strategies. The session naturally concluded with positive reinforcement and an open invitation for further support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can someone help me chose a grad school, the deadline for one of them is tomorrow\nI’ve been fighting demons these past night trying to come to a decision. I got into these three schools for a masters in mechanical engineering with thesis option. None are offering any money or assistance, this makes sense though since  I’m coming into a spring semester. I would need to take out loans my first semester regardless of where I go and get a part time job. All locations have accommodations for a hobby I have but I would like a friend to be able to hang out with, I’m too lonely in undergrad lol.\n\nOptions and some notes: \nUniversity of Florida- cheapest housing and some good possible opportunities for funding later down the line. Also has grad housing which is even cheaper if I manage to get one of those. I also have a chance at maybe getting a teaching position in the chem department as I teach chem at my current undergrad. Has cool labs and research in my concentration of controls and robotics.\n\nUniversity of central Florida- good school and a lot of jobs around the area that have benefits. I have a friend there so I’ll have someone to hangout with for about two semesters before they graduate. Cheapest tuition, housing can be as expensive as Manhattan although there can be plenty of options found.\n\nCity college of New York- very good school but they said they do not have a track record of offering assistantships for masters but almost all masters students come out nearly debt free. I’ll be able to live by my Aunty, which covers housing and food, on Long Island but the commute will be very long(~2.5 hour train ride or 1-1.5 hour drive during morning rush). I feel like the commute after working might take too much time from working on my thesis but I don’t really know how much time grad students actually have and I’m sure I’d adapt to it though. There are a lot of part time jobs in New York and CCNY federal work studies( I know other schools offer that as well).\n\nHealthcare is also very very important since I have recently been diagnosed with a few illnesses and need insurance to afford the medicine. This makes getting a job with benefits important if I stay in Florida whereas New York i can apply for Medicaid.\n\nI don’t know which one to choose, I like them all and each have their own cons. I also self toured all schools but it was kind of rushed since my parents was rushing to leave. \n\nI did apply to some scholarships and fellowships but they are for fall 23 school year. I would appreciate anyone’s help, I know it’s last minute but I just can’t make a set decision.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

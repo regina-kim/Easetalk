@@ -1,0 +1,215 @@
+{
+  "id": "u1hjl9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've been feeling pretty overwhelmed and stressed. School's just been a lot, and I'm starting to doubt if I'm even in the right major. It's like I'm constantly tired and just can't seem to catch a break.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a heavy load with school and questioning your path, which must be exhausting. What aspects of your major are making you feel uncertain or stressed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's just the constant pressure to keep up with everything. The workload feels endless, and I'm not sure if I'm even interested in what I'm studying anymore. It's hard to stay motivated when I'm not sure if it's what I really want.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared specific concerns and feelings about their major, workload, and motivation. However, further exploration of their feelings, context, and goals is needed to build a comprehensive understanding and rapport before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like the pressure from your workload and doubts about your major are really weighing on you. It's understandable to struggle with motivation when you're unsure about your interests. What initially drew you to this major, and how does that feel to you now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I guess I was initially drawn to it because it seemed like a stable career path, and I thought it would be interesting. But now, it just feels like I'm dragging myself through it rather than enjoying any of it. The stability is still appealing, but I'm not sure if that's enough to keep me going.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their feelings of stress, doubt about their major, and the pressure of academic performance. The client has shared their motivations and disillusionment with their chosen major, providing context for their concerns. Empathy and rapport have been established, and the client's needs are clear, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It's a tough spot to be in when what once seemed appealing now feels like a burden. You're considering whether stability alone is worth pursuing. On a scale of 0 to 10, how confident are you in exploring other options that might align more with your interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 4? Part of me wants to look into other options, but I'm also scared of making the wrong choice again or ending up in the same situation. It feels like a big risk.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking risks can indeed feel daunting, especially when considering change. It sounds like there's a part of you that's curious about what could be different. What might life look like for you if you found a path that truly sparked your interest and motivation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): If I found something that really interested me, I think I'd feel a lot more excited and less drained all the time. I imagine waking up eager to learn and actually enjoying what I'm doing, rather than dreading assignments and exams. It sounds like a dream, honestly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing strong change talk by envisioning a more fulfilling academic path and acknowledging the limitations of their current situation. However, with confidence at 4, they're still ambivalent and fearful of change. They haven't established a specific change goal. More time in Guiding can help strengthen confidence, reduce ambivalence, and clarify next steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Imagining a future where you're genuinely excited about your studies can be quite inspiring. It seems like this vision of finding true interest could enhance your life considerably. What small steps might you consider taking to start exploring those areas that could ignite this kind of enthusiasm?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by looking into different courses or fields that have always intrigued me, even if they're just electives for now. Maybe talking to advisors or people in those fields could give me a better idea of what to expect. It seems like a lot, but I think it's worth a shot to see what's out there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is struggling with stress and doubts about their major, showing some Change Talk with an interest in exploring new paths. While they have considered small steps, their confidence in change is low (4/10). Ambivalence remains significant, as fear of making the wrong choice persists. Confidence needs to be bolstered before advancing to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring new avenues sounds like a promising way to uncover what truly resonates with you. It's encouraging to hear you're open to taking steps like researching courses and speaking with advisors. How does it feel to start considering these possibilities for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): It feels a bit relieving, honestly. Just the idea that there might be something out there that's a better fit gives me a bit of hope. I know it's going to take some effort and courage, but I think it could be worth it if it leads to feeling happier and more fulfilled.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk through recognizing dissatisfaction and potential benefits of a new path. They identified initial steps like exploring courses and consulting advisors, showing some readiness for change. Confidence level is low (4), suggesting more support might be needed to solidify plans and address ambivalence. Overall, they have not yet set a specific change goal or shown high confidence, indicating a need to continue guiding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Feeling a sense of relief and hope is a promising start. It sounds like you're recognizing the potential for a more fulfilling path. How might that hope and motivation help guide you as you begin exploring these new possibilities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): client(guiding): I think that hope could act like a little push forward when I'm feeling unsure or scared about making changes. When things get tough, reminding myself of the potential for a more fulfilling experience might help me stay on track and not give up too easily.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by discussing specific actions they are considering, such as exploring new courses and speaking to advisors. They also described a future vision that aligns with their interests, and they feel hopeful about it. Although the confidence level is still low at 4, there is a specific goal of exploring other fields. Given that ambivalence has decreased and a specific next step is identified, moving to Choosing seems appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "That little push from hope and motivation can indeed be a powerful ally as you navigate this journey. With this in mind, how about setting a goal to explore one new course or talk to an advisor within the next week? This could help you take concrete steps toward discovering what truly excites you. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(considering): Yeah, I think I can do that. Taking one step at a time seems less overwhelming and more manageable. I'll look up some courses and reach out to an advisor to see what's possible. It feels good to have a plan, even if it's just a small one for now.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Making a small, manageable plan is a great way to start, and it's wonderful to hear you're ready to take these steps. What might be some challenges you anticipate as you reach out to advisors or explore new courses, and how could you prepare for them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(considering): I guess I might feel a bit intimidated talking to advisors or worried I'll get overwhelmed by all the options. To prepare, maybe I can jot down some questions or topics I want to discuss so I don't freeze up. And reminding myself that it's okay to not have everything figured out immediately might help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan to explore new courses and talk to advisors, and has self-identified potential barriers with strategies to manage them. They are showing commitment and readiness to take initial steps towards change, suggesting readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Having a plan to jot down questions and reminding yourself that it's okay not to have everything figured out sounds like a thoughtful approach. You're showing great insight into how to handle these potential challenges. It's important to be patient and kind to yourself throughout this process. As you take these steps, remember you're not alone—I'm here to support you in any way I can. It seems like you're well on your way to identifying and pursuing what truly ignites your passion. Keep hold of that hope and take things one step at a time. Looking forward to hearing about how things progress in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely try to take it one step at a time and keep you updated. It's nice to know I have your support as I figure this out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan and coping strategies to explore new courses, overcoming challenges with advisor meetings. Hope and motivation are acknowledged as guiding factors. The session concluded with supportive remarks, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is this normal?\nI literally feel depressed and tired every single semester and wonder if I have chosen the wrong major....\n\nThe grade scale is curved at my community college so that an 88%+ = A, 76%+ = B, 64%+ = C, and so on for the other two grades. I currently have a 63% in the class. I was almost on my way to reaching a B, but FAILED the mid term three weeks ago, along with more than have the class. This is the second time I almost reached a B, only to get dropped back down to a 62%. \n\nI can not just drop out for so many reasons. I was just wondering if it is normal to feel like this ?\n\nDoes anyone have any experience with taking classes online vs in person? I just... I can't focus on my professor, he is so boring. Ugh...",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

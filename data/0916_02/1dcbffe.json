@@ -1,0 +1,278 @@
+{
+  "id": "1dcbffe",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for chatting with me. I've just been really stressed about picking the right college for computer science, and whether Michigan Tech or staying in-state would be the better choice for my future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing between Michigan Tech and an in-state option seems like a significant decision for you. What aspects are you considering most important for your future when thinking about these options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm mostly thinking about the quality of education and how that will impact my career, like internships and job opportunities. Plus, there's that personal connection with Michigan because of my dad, but I know in-state could be cheaper.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern regarding choosing the right college, including personal and educational priorities. The therapist has shown empathy and understanding but has not yet fully explored the client's feelings or goals. Additional exploration is needed to deepen rapport and clarify goals before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing the quality of education with the cost and personal ties sounds like a challenging decision. You're considering both the career implications and the financial aspects. How do you feel about the connection you have with Michigan because of your dad?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It's kind of a big deal to me, like a tie to family history, which makes it feel special. But at the same time, I don't want it to cloud my judgment if staying in-state ends up being the smarter move financially and career-wise.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns, including educational quality, financial aspects, and personal ties. Empathy and rapport are established, and the client has detailed their thoughts and feelings. However, mutually agreed goals haven't been clearly defined yet, so it's best to continue exploring to deepen understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Your connection to Michigan seems really meaningful, like a piece of family heritage. Yet, you're weighing that against practical factors like finances and career opportunities. How does this blend of emotions and considerations affect your current stress levels?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "It's definitely adding to my stress because I'm trying to balance what feels right with what might be the best for my future. It's just hard not knowing if I'll regret passing up one option for the other.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's concerns about choosing a college, considering emotional ties and practical implications. The client has shared thoughts, feelings, and context. Empathy and rapport have been established, making it suitable to move to the Guiding phase to strengthen motivation and explore change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Navigating these feelings and uncertainties must be quite overwhelming. Balancing your strong family ties with the practicalities of your future is no small task. What would be different in your life if you found a clearer path through this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(exploring): If I had a clearer path, I think I'd feel a lot more at ease and focused. It would be nice to just dive into what I need to do without second-guessing if I made the right choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Finding clarity seems like it would bring you a lot of peace and focus, freeing you from second-guessing. Reflecting on your values and what truly matters to you might help illuminate that path. What aspects of your career and personal life do you value most in the long term?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think I value stability and making a positive impact through my work, while still enjoying what I do. Personally, staying connected to family and having new experiences are important too. Balancing all that with a good education is what I'm aiming for.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed important values such as stability, impact, and family connections. They've explored life with and without change, showing some clarity. Change Talk is present, but specific goals or confidence levels are not clear yet. There's still ambivalence as they weigh options.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Balancing stability, impact, family connections, and new experiences with quality education is quite insightful. How do you imagine these values shaping your decision between Michigan Tech and the in-state option?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I guess if I imagine my future with those values, I'd want a place that offers good career opportunities and also feels like an adventure. But I can't ignore the financial side, so I'm trying to see which school aligns best without sacrificing too much in any area.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed values and concerns about stability, impact, and family ties. They recognize the discrepancy between desires and financial practicality. Change Talk is present, but a specific change goal or plan hasn't been established yet. The client demonstrates increased clarity but still weighs options without a clear next step.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Seeing how your values align with each choice is a thoughtful way to approach this decision. When you consider each option, which one feels like it strikes a balance between offering career opportunities and a sense of adventure while also respecting your financial concerns?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): That's the tricky part. Michigan Tech feels like it might offer more in terms of adventure and family connection, but Alabama schools might be smarter financially. I'm trying to figure out if the adventure is worth the extra cost or if I can find that experience closer to home.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their values, such as stability, making a positive impact, and family connections, and is evaluating how these align with their options. There's some exploration of life with and without change, and they've considered financial concerns versus personal ties. However, no specific change goal or decision has been firmly established yet, and ambivalence remains. Continuing in Guiding could help further clarify and solidify their goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Weighing these options certainly involves a lot of reflection. You’re considering the adventure and family connection Michigan Tech offers against the financial practicality of staying in Alabama. What aspects of adventure and connection do you feel are most crucial to your decision, and how might you fulfill those closer to home?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Adventure to me is about exploring new places and experiences, which feels exciting. The family connection is more about honoring where I come from and maybe building new memories there. If I stay in Alabama, I'd need to find ways to create those experiences and connections here, maybe by getting involved in local tech communities or exploring Alabama more fully.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is actively exploring their values and how these align with educational options, showing a good understanding of their priorities. They're evaluating adventure, family ties, and financial pragmatism but haven't yet set a specific change goal or decision. Confidence levels are not explicitly mentioned, and ambivalence is still present as they weigh options.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Exploring the potential for local adventures and building connections seems like a meaningful way to honor your values. Considering the idea of immersing yourself in tech communities and exploring Alabama, how does this possibility influence your thoughts on staying in-state?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): It makes staying in-state feel a bit more appealing, knowing I can still have those experiences and connections without moving far away. I guess it's about finding the right balance and opportunities wherever I am.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in exploring the discrepancy between their values and options regarding college choices. They have considered life with and without change, and have expressed specific aspects they value. However, the conversation did not clearly indicate a specific change goal or next step, and the confidence level wasn't assessed. There is still ambivalence due to financial and experiential considerations, suggesting further exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's encouraging to hear that you're open to creating meaningful experiences and connections locally. How does this growing appeal of staying in-state influence your confidence in making a decision that aligns with both your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I'm starting to feel a bit more confident about the idea of staying in-state because it seems like I can still achieve my goals here. It's reassuring to know that my values don't have to be compromised, and I can still work towards a fulfilling career and personal life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored their values and how they align with each option, expressed a clearer preference for staying in-state, and feels more confident about the decision aligning with their goals. They have considered how to achieve their desired experiences locally. These indicate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Your confidence about staying in-state while aligning with your values and goals is heartening. As you consider this path, what specific steps or actions could you take to ensure you build those meaningful experiences and connections here in Alabama?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think I could start by joining tech clubs or groups at whichever university I choose, and maybe look for internships or job shadowing opportunities in local tech companies. I could also make a point to travel around Alabama more, maybe do some weekend trips to places I haven't been yet, to keep that sense of adventure alive.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Joining tech clubs and seeking internships or job shadowing opportunities are excellent steps toward building connections and gaining experience. How do you plan to keep yourself motivated and track your progress as you embark on these actions and explore Alabama further?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(choosing): I think setting some goals and timelines could help keep me on track. Like aiming to join a club by a certain date or applying for a certain number of internships each semester. I'll probably keep a journal or something to reflect on my experiences and how they're helping me grow. Keeping a list of places I want to visit in Alabama and checking them off could be a fun way to stay motivated, too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan involving joining tech clubs, seeking internships, and exploring Alabama to maintain a sense of adventure. They have discussed potential barriers and proposed self-monitoring strategies, such as setting goals and timelines. The client shows confidence and readiness to act on their decision to stay in Alabama, aligning with their values and goals.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Setting goals and timelines while journaling your growth sounds like a fantastic way to stay motivated and reflect on your journey. You've come up with thoughtful strategies to nurture both personal and professional development. Remember, it's okay to adjust your plans as you go along, staying flexible to new opportunities. As you move forward, reach out if you need support or just want to share how things are going. You've got a solid plan, and I'm confident you'll create rewarding experiences and connections right here in Alabama.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks for your support and encouragement. I'll definitely keep what you said in mind and reach out if I need to.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear plan with goals and steps to make a decision aligned with their values and goals. Coping strategies and next steps have been discussed, signaling readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Computer Science?\nI live In Alabama and I want to major in computer science and later get into a field. I know that in state tuition is a big factor when choosing ,but I really like Michigan Tech. Michigan is a place I've always wanted to visit and live in, it is also when my dad grew up and recommends going there. My high school stats are considered above average but barely, luckily Michigan tech is not extremely competitive either. So should i either go to Michigan tech or University of Alabama Huntsville (maybe Auburn as well). I want to be creditable and go to a good school but I don't know which one is objectively better for internships and overall teaching.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

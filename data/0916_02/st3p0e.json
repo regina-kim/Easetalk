@@ -1,0 +1,173 @@
+{
+  "id": "st3p0e",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? If there's anything on your mind that you'd like to talk about, I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I’ve just been thinking a lot about how my teenage years went by and I didn't really do much. It feels like I missed out on a lot of things people usually experience growing up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be tough reflecting on missed experiences. What specifically stands out to you about those teenage years?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it’s mostly about not doing the typical things like parties or dating. It just feels like I didn’t live up to what being a teenager is supposed to be like, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about missing out on typical teenage experiences and not living up to societal expectations. However, the context around these feelings and their impact on the client's current life has not yet been fully explored. Further exploration can enhance understanding and rapport before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Thank you for sharing that with me. It makes sense to feel like you missed out when comparing your experiences to those typical teenage milestones. Can you tell me more about how these thoughts are affecting you now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): It's just making me feel kind of behind in life, like I haven't really grown up in the way I should have. I worry that I might not be ready for what's next because I didn't have those experiences.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of missing out on typical teenage experiences and its impact on their sense of readiness for adulthood. There's an understanding of their concern, but further exploration could deepen understanding of their feelings and context, so continuing in the Exploring phase is beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds challenging to feel like you're playing catch-up. You're experiencing this sense of being 'behind' because you feel those typical experiences might have helped prepare you for adulthood. How do you see this impacting your day-to-day life now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I guess it makes me second-guess myself a lot, like I doubt my social skills or how I handle new situations. It makes me nervous about trying new things or meeting new people because I feel like I'm lacking something others have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration effectively uncovered the essence of the client's story, including their thoughts, feelings, and context around missed teenage experiences. The client expressed how these reflections impact their current self-perception and social interactions, and a sense of rapport and understanding is evident. Goals relating to understanding the client's concern are mutually agreed upon. Thus, it is appropriate to transition to the Guiding phase to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems like this self-doubt is holding you back from fully engaging with new experiences. I'm curious, what would life look like if you were to feel more confident in your social skills and ability to handle new situations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(exploring): If I felt more confident, I think I'd be more open to putting myself out there, maybe join more clubs or try new activities without overthinking everything. It'd be nice to feel like I belong and can keep up with everyone else.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Imagining a life where you're more open and engaged sounds quite empowering. What steps do you think might help bridge the gap between where you are now and that more confident version of yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Honestly, I think starting small would help. Maybe I could try joining a club or group that aligns with my interests, something low-pressure to ease into things. Also, working on not comparing myself to others so much might stop me from overthinking everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk by identifying specific steps they believe could increase their confidence and social engagement. They have a specific change goal of joining clubs or groups and reducing self-comparison. The conversation explored life scenarios with and without change, and the client has shown motivation for change, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Joining a club that aligns with your interests sounds like a valuable first step. What kind of clubs or groups are you considering? We can explore options together. Also, recognizing the need to reduce comparisons is insightful. Would you be interested in discussing strategies to help with that?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I was thinking about maybe a book club or something related to art since I enjoy those things. It feels like a good way to meet people with similar interests. And yeah, I'd definitely be interested in working on not comparing myself to others so much. It'd be good to focus more on my own growth.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "A book club or an art group sounds like a wonderful way to connect with like-minded people. How does attending a first meeting feel to you? As for reducing comparisons, perhaps setting personal growth goals could be beneficial. Would you like to brainstorm some specific goals together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Attending a first meeting feels a bit nerve-wracking, but I think it's manageable if I remind myself it's just about enjoying shared interests. Setting personal growth goals sounds like a good plan. I'd love to brainstorm some ideas with you to keep me focused on my own progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to join social groups like a book club or art group and has shown a willingness to set personal growth goals. They have acknowledged and discussed barriers, such as nerves about attending a meeting, and are open to strategies for reducing self-comparisons. The client demonstrates readiness with manageable plans and motivation to focus on personal growth.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Absolutely, focusing on enjoying shared interests can make those first steps feel more approachable. We'll work on some personal growth goals together, aiming to build your confidence and lessen the impact of comparisons. Maybe committing to attending a certain number of meetings or trying a new activity every month could be a start. It's encouraging to see your willingness to take these steps. Remember, growth is a journey, not a race. As you embark on this path, know that I'm here to support you every step of the way. Keep nurturing your interests and celebrating your unique journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll try to focus on the journey and not stress too much about the outcome. Let's work on those goals next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session is concluding with encouragement and setting specific goals for personal growth, attending activities, and reducing comparisons. The client is open to these steps and expresses interest in future discussions, which aligns with termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Did I waste my teen years?\nI turn 20 tomorrow and I’ve been thinking back and reflecting on my life as a teenager and there really isn’t much there. I feel like I didn’t do the things that you’re supposed to do as a teenager. I’ve never been to a party, I don’t drink or smoke and never have, I’ve never been in a relationship or even been on a date. I spent most of my time in high school at home and same with the first year of college since it was online. I have a group of 6 close friends but now that we’re all in college we aren’t talking much. I just feel like I’ve missed out on some of the experiences people generally have growing up.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

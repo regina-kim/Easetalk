@@ -1,0 +1,278 @@
+{
+  "id": "yqw2cg",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I assist you today? Feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I’m just feeling really lost right now with school and my future. Everything feels out of place and I’m not sure how to fix it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be tough feeling like everything is out of place. Could you tell me more about what's been happening in school and what you're experiencing about your future?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I’m really struggling with my grades and I’m not involved in anything that could help my career. It feels like I'm just not getting anywhere and it makes me worry about my future and if I'll ever be successful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and context about their academic struggles, feelings of inadequacy, and career concerns. Empathy and rapport have been established, and the client's goals and concerns are clear. The conversation has not become repetitive or unproductive. It is appropriate to move to the Guiding phase to explore the motivation for change and address the possibility of transferring.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "What you're experiencing sounds quite overwhelming. When you think about the possibility of things being different, what comes to mind for you about how you’d like your school and future to look?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I wish I could feel more accomplished, like having better grades and getting into clubs or internships that could actually help me. In the future, I just want to be successful in my career and be able to support myself and my family without constant stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining a future where you feel accomplished and successful is a powerful vision. What strengths do you think you have that could help you move towards those goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess I’m pretty good at problem-solving and can work really hard when I set my mind to it. I just feel like I’m not seeing any results from those efforts right now, which is frustrating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows strong Change Talk about wanting to feel accomplished, improve their situation, and has identified problem-solving and work ethic as strengths. They express a clear vision of future success but are frustrated with lack of results. However, there is dominant sustain talk about feeling stuck and inadequate. Confidence hasn't been explicitly measured. To ensure readiness, further exploration of specific next steps and confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Recognizing your skills in problem-solving and hard work shows great self-awareness. When you reflect on times you've successfully used these strengths, what stands out about how they contributed to overcoming challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Well, back in high school, whenever I faced tough classes or projects, I managed to push through and even excel by staying focused and persistent. I just feel like in college, that same effort isn’t paying off the way it used to.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk regarding feeling accomplished and successful and identified strengths like problem-solving and persistence. The client is considering a significant change by transferring colleges, indicating a specific change goal. However, ambivalence remains due to guilt and uncertainty about the future. The discrepancy between current struggles and desired success has been highlighted. Further exploration of readiness and confidence is needed to ensure the client is prepared for action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Shifting from high school to college can indeed come with different challenges. Considering your past successes, how do you think applying your focus and persistence could impact your current situation and future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think if I could somehow channel that focus and persistence the way I did before, I might be able to turn things around. But it feels like there's just so much more pressure now, and I'm not sure how to handle it all.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of change, identified strengths, and discussed past successes. However, they exhibit significant ambivalence about their current path, with no specific change goals yet formed. Confidence in applying their strengths is present but not strong. It seems prudent to continue exploring their ambivalence and clarifying their values to support a more robust commitment to change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Navigating the pressure you're feeling now sounds intense, especially when comparing it to past successes. What small step could you take that aligns with your focus and persistence, which might help lessen that pressure and move you closer to feeling like you're on track?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by setting smaller, more manageable goals for myself, like improving in just one class or reaching out to a club or organization I'm interested in. It might help me feel like I'm making progress without feeling overwhelmed by everything at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal (setting smaller goals) and identified strengths (problem-solving, persistence). Change Talk is present, but ambivalence remains regarding transferring. Confidence level is unclear, and sustain talk about pressure persists. Exploring concrete steps and resolving ambivalence about transferring may benefit from continued guiding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Taking those smaller, manageable steps sounds like a thoughtful way to use your strengths and make progress. How might achieving one of these smaller goals influence your confidence and motivation moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): If I can achieve even one small goal, I think it would really boost my confidence and show me that I am capable of making positive changes. It might motivate me to keep going and tackle other areas that need improvement.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identified specific small goals, and demonstrated confidence in achieving them. However, the conversation has not yet solidified a specific action plan for managing the pressures of college or addressed the transfer decision directly. Continuing in the Guiding phase would allow further exploration of these areas and develop a clearer path forward.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): That's a wonderful insight about how achieving a small goal could uplift your confidence. Reflecting on this, how does it feel to imagine the momentum building as you start making those changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(exploring): Honestly, imagining that momentum feels pretty encouraging. I think seeing some positive results, even if they're small, could really change my outlook and make me feel like I'm not just spinning my wheels anymore.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing Change Talk by considering smaller goals to manage pressure and build confidence. They've identified strengths and a specific initial step, but their overall confidence still seems tentative given the complex concerns about transferring colleges and career goals. Clarifying confidence levels and exploring ambivalence further are necessary before moving to actionable planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling encouraged by the possibility of positive results is a great start. What do you think might be the first step you could take to begin creating that momentum, using your strengths in focus and persistence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(exploring): I guess the first step could be to pick one class where I feel like I could realistically improve and focus my efforts there. Maybe I could also try to attend a meeting for a club that seems interesting, just to see if it fits. Starting small seems less intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified initial steps, such as focusing on one class and trying a club. They recognize the potential positive impact of small successes, showing some decrease in ambivalence. However, more exploration of their confidence and additional specific action plans are needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "therapist(guiding): Starting small by focusing on one class and exploring a club sounds like a practical and less overwhelming approach. How do these steps align with your vision of success and the life you want to lead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): These steps might not seem huge, but they feel like a way to start bridging the gap between where I am and where I want to be. By improving in one class or finding a club that fits, I might start building the skills and network I need to succeed, which aligns closely with my goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific small goals and expressed motivation to tackle these steps, showing a shift from ambivalence to readiness for change. Confidence and motivation are evident, and they articulated a vision for how these changes align with their larger goals. The client's engagement in change talk and identification of initial steps suggest they are poised to transition to planning specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Those steps indeed seem like meaningful ways to begin bridging that gap. How about we set a specific goal for improvement in that class and decide on a club to attend a meeting for? By doing so, you can create a clear path forward. What specific actions do you plan to take to move forward with these goals, and what might be some potential barriers you foresee?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think for the class, I could start by dedicating extra time each week to review the material and maybe even reach out to the professor or a TA for guidance if I'm struggling. As for the club, I'll look up a few that align with my interests and see when their next meetings are. One potential barrier might be my tendency to overthink or doubt whether I'm making the right choices, which sometimes stops me from taking action.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "It’s great to hear you're considering dedicating time for review and seeking help when needed, along with exploring club options that spark your interest. These are solid steps. To help manage potential barriers like overthinking or self-doubt, perhaps setting a specific schedule for review sessions or club meetings could keep you focused, while reminding yourself of your strengths in persistence could counter doubts. Would you like to discuss ways to monitor your progress and celebrate your accomplishments along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think having a schedule could keep me on track, and maybe I could set some small milestones to hit so I can see the progress I'm making. Celebrating accomplishments sounds nice too, even if they're small wins. Any ideas on how to track progress or celebrate success without it feeling forced?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific goals and actions, discussed potential barriers, and considered self-monitoring their progress. They express confidence and commitment to their plans. Although the client's underlying concerns about transferring remain, the immediate action plan is clear and actionable, indicating readiness to advance to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Setting small milestones is a fantastic way to see your progress and keep momentum. Perhaps you could use a journal or a digital planner to note each step you've taken, like attending a club meeting or completing a study session. As for celebrating, choose something that feels rewarding to you, like treating yourself to a favorite snack or enjoying some downtime with a book or show you love. Keeping it simple and enjoyable can make it feel less forced and more like a natural acknowledgment of your hard work. How does that sound as a way to acknowledge your progress?",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(terminating): Yeah, that sounds pretty doable. I like the idea of using a journal or planner to track things, and rewarding myself with something small that I enjoy seems like a nice way to celebrate. I'll give it a try and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation addressed the client's goals of improving academically and socially, explored steps to take, and discussed strategies to manage potential barriers. Progress monitoring and celebratory suggestions were provided, aligning with termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I transfer halfway through college\nThis has been a thought that keeps popping into my head and I want to know what others think.\n\nI’m currently a sophomore at a large (hard to get into / very “good”) public university. Engineering major with a minor, consulting/big tech company/a less technical job that makes good money is the goal.\n\nI’m someone who never would have thought i’d ever consider something like this, in no way am I seeking “the college experience” or anything like that, to start. I see the (fun) social aspect of college to be quite superficial, and in no way is that playing into this idea. All of this in centered around being successful / not failing life. \n\nA little background for how college has been so far:\nI’m not doing great and I have nothing going for me / to assure me i’m going to do well at all. GPA is currently at a 3.4 calculated before this semester ends (don’t expect it to hurt it much more but it def won’t get better). In terms of classes, I feel as though i’m doing poorly, even at the things that shouldn’t be too difficult, and I feel as though i’m in a huge academic hole. I don’t see how much grades could really improve. Extracurriculars: none. I gave it my all in applying to professional clubs that would have very much helped my ass but I was never accepted, and that was when I didn’t look like a dumbass in comparison to my competition (a lot of people). Professional experience: I’ve had a couple stupid summer jobs but nothing ever remotely relating to my major or area or interest i.e. working at a restaurant. so none. social/networking: none. I have an extremely limited social circle, messed up and got “stuck” with a lot of higschool friends, have no connections to any job/internship/good club prospect and my parents/family have no such connections either. I can talk to people and make a good impression, but i’m bad at “putting myself out there”. \n\nMy concerns for my situation:\nI need to be good at something (grades, knowing people, etc) but none of that is going well and I don’t see how I could improve it. I’m ambitious and to get to where I want to be in my adult life I need to be good at something. when it comes to a job or an internship or any future prospect I don’t see why anyone would ever pick me, I know I wouldn’t.\n\nI used to be extremely successful with everything I did. I had very very good grades at a well renowned private high school and got into many very good universities (didn’t attend because of money and I thought this “made sense”). I was on par or better than all the peers I can’t remotely compare myself to now (at the same college where they are doing just fine). I am extremely unhappy with my life now. I don’t do anything fun, I just work. My university is very work hard play hard, but all I do is work without success. I hate that I see zero indication of being the person I want to be in terms of success. making money matters to me. my parents worked their asses off for me and put a massive investment into my education and I couldn’t feel more guilty with myself for fucking it up especially when I used to go above and beyond for them before. I wish I could start all over from scaratch. if I had no one counting on me I seriously would consider dropping out with how much I hate this. i’m reaching a limit with how much effort i’ve been giving to and idk how much I can keep going. \n\nI find this school very unsupportive of students like me and again I feel really stuck in terms of the people I know and the social situation i’ve put myself in . Another goal of mine is to live somewhere else. my thought is that if I transfer away I can be someone i’m not, and at least attempt to build a network of people I know in a place where my desired field is much more accessible as an attempt to increase chances of being hired. even if that doesn’t work and I fuck that up too I could start my failed adult life in a place I want to live?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

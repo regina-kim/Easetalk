@@ -1,0 +1,320 @@
+{
+  "id": "11ebs6r",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. What's been going on for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. Yeah, I've been really struggling with my mental health and it's affecting my academics. I feel like I'm stuck in this cycle and I'm not sure how to get out of it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, and it must be tough to feel stuck like that. Could you share a bit more about what's been happening with your mental health and how it's impacting your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, it's like this heavy cloud that's just sitting over me all the time, making it hard to focus or care about stuff I usually would. I missed out on a lot of studying early on, and now it feels like I'm constantly playing catch-up but never really getting anywhere.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has provided a detailed account of their mental health struggles, academic concerns, and feelings of apathy. The therapist has shown empathy and understanding. However, the discussion lacks mutually agreed goals, and further exploration could help clarify the client's feelings and thoughts more comprehensively.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed by this persistent heaviness, which is making it difficult to focus and keep up with your studies. You might feel discouraged because no matter how much you try, it seems like you're not making any progress. What has your experience been when you've faced challenges like this before?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): In the past, I've kind of just pushed through until things got better, but this time, it feels different. It's like I'm stuck in quicksand, and the more I try to dig myself out, the deeper I sink.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their struggle with mental health and its impact on academics, expressing feelings of being overwhelmed and stuck. The therapist has shown empathy and understanding, and there is a clear mutual goal of addressing the client's academic challenges. However, the root causes of the client's mental health issues have not been fully explored, and further exploration could enhance understanding and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It must be really distressing to feel like you're sinking deeper despite your efforts. It seems like in the past, persistence helped, but this situation feels much more challenging. What do you think makes this time feel different for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think it's partly because it's impacting my grades so much, and there's this pressure to not mess up my academics. Plus, it just feels like my mental health dipped suddenly, without any clear reason, which makes it even harder to figure out how to deal with it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed insights into their mental health struggles, its impact on academics, and their feelings of being trapped. The essence of their story is clear, with empathy and rapport established. The conversation has moved past repetitive questions and could benefit from strengthening motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "The pressure to maintain your grades seems overwhelming, especially when there's no clear reason for this sudden dip in mental health. In these moments, what values or goals are most important to you, and how might they guide you through this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess staying true to my long-term goal of graduating and doing something meaningful with my degree is important to me. But right now, it feels like just getting through each day is the priority, and it's hard to see how to align these big goals with the struggle I'm facing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Balancing your day-to-day priorities with your larger goals can indeed feel daunting, especially when you're just trying to make it through each day. When you think about the future and your goal of graduation, what small steps or changes might bring you closer to feeling aligned with that vision, even amidst the current challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe trying to get back into a study routine, even if it's just a little each day, could help me feel more connected to my goals. Also, reaching out to professors or academic advisors for support might be a good step, even though it feels a bit intimidating right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of getting back into a study routine and reaching out for academic support. Change Talk is present, and there's a focus on aligning daily actions with long-term goals. However, there is a lack of confidence assessment, and while ambivalence is addressed, it may need further exploration to ensure readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Taking small steps like re-establishing a study routine and seeking support from professors or advisors could be meaningful ways to reconnect with your goals. It's understandable to feel intimidated, but reaching out could provide valuable guidance. On a scale from 0 to 10, how confident do you feel about taking these steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Honestly, maybe like a 4 or 5? I want to do it, but the thought of actually reaching out or starting a routine feels kind of overwhelming right now. It's hard to shake off this feeling of being stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed some ambivalence about taking action, with their confidence level indicated as a 4 or 5. While some Change Talk and tentative goals like re-establishing a routine were identified, the client's low confidence suggests they are not fully ready to move on to the Choosing phase. Further confidence-building and exploration of ambivalence are needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It's completely normal to feel a bit overwhelmed when considering new steps, especially when things feel stuck. A confidence level of 4 or 5 shows that there's a part of you that's willing to try. What might help increase your confidence just a bit, perhaps moving from a 4 or 5 to a 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I guess breaking things down into really tiny tasks might help, like just writing an email to a professor without worrying about the whole conversation yet. Also, maybe setting up a specific time each day to study, even if it's just 15 minutes, could make it feel more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential steps, such as setting a study routine and reaching out for support. However, their confidence level is below 6, and they still feel overwhelmed. Ambivalence is present as they feel stuck. Further support in clarifying values and increasing confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): Breaking tasks into smaller steps can be a great way to make them feel more manageable. Writing a simple email or setting a brief, dedicated study time each day could help ease that overwhelming feeling. Reflecting on this, how do you feel about these small changes, and how might they fit into your current routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I feel like these changes are doable and could fit into my day without adding too much pressure. The idea of just focusing on one small thing at a time makes it seem less daunting, and I think it could help me start to get back on track without feeling too overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified their long-term goals and explored small steps, yet their confidence remains low due to feeling overwhelmed. Change Talk is present, but their confidence is 4-5, below the threshold for moving to the Choosing phase. The focus should remain on building confidence and resolving ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "These small, manageable steps sound like a promising way to gradually reconnect with your goals while minimizing pressure. Focusing on one task at a time can help reduce the feeling of being overwhelmed. How do you imagine these steps might influence your overall sense of balance and progress in your life right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(guiding): I think taking it slow with these steps could help me feel a bit more in control and maybe even more hopeful about turning things around. If I can start feeling like I'm making some progress, even if it's small, it might boost my mood and motivation to keep going.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation revealed change talk and identified specific steps like establishing a study routine and contacting professors. However, confidence is at 4 or 5, indicating additional support is needed to enhance readiness. The client still feels overwhelmed, necessitating further exploration to bolster confidence and mitigate ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Feeling more in control and hopeful can certainly spark motivation and help you gradually move forward. Seeing even small progress can be encouraging. What other benefits might you notice as you start to feel more aligned with your goals through these small steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(guiding): I might start feeling less anxious about my classes and exams, which could help me focus better when studying. Also, feeling like I'm making progress could make it easier to reach out for support when I need it, since I’ll see that change is possible.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing Change Talk, identifying small steps like establishing a study routine and reaching out for support. They have a confidence level of 4-5, with potential to increase. Ambivalence is decreasing, as evidenced by a focus on manageable changes. However, the confidence level is still below 6, indicating they are not yet fully ready to take action on their own.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Feeling less anxious and more focused can certainly enhance your study experience and overall well-being. Recognizing that change is possible might make reaching out less intimidating. How does the idea of experiencing less anxiety and being able to reach out for support resonate with you, and how might it impact your journey towards graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "I think experiencing less anxiety would definitely make the whole college experience feel more manageable and less like an uphill battle. Being able to reach out for support without feeling intimidated could open up more opportunities to succeed and stay on track for graduation, which would be a huge relief.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in significant Change Talk and identified specific steps, such as writing an email and setting study times, demonstrating a willingness to try new behaviors. Confidence is increasing, though not yet at 6. Ambivalence has decreased, as they express hope and see benefits in the changes discussed. The client has not yet set a specific change goal and confidence needs boosting, so it's best to continue guiding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Feeling that college could become more manageable and less intimidating sounds incredibly empowering, and reaching out for support might indeed open doors to success. As you envision these changes, what strengths or past experiences can you draw upon to support you in this journey toward graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "I think I can draw on times when I've overcome tough situations before, like when I pushed through challenges in high school to get here. I've managed to bounce back from setbacks in the past, so maybe I can tap into that resilience now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 37,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is showing readiness to change through expressing potential benefits of taking small steps and reflecting on past resilience. A specific change goal of breaking tasks into smaller steps has been set, and the client's confidence is increasing. The conversation has effectively addressed discrepancies and evoked Change Talk, indicating readiness to move to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Your resilience and ability to overcome past challenges are powerful strengths to rely on. Building on this, let's consider creating an action plan focused on taking those small steps. Based on your ideas, you could start with writing that email and setting a study time. How do these fit into your schedule, and what might be some barriers you can anticipate along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client: Writing the email and setting a study time seem manageable, maybe I could fit them in after lunch when I'm usually free. Some barriers might be procrastination or feeling too low to get started, but if I keep the tasks small, that might help overcome those feelings.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "It's great that you see those tasks fitting into your schedule after lunch. Keeping the tasks small can indeed help minimize procrastination and low mood. How might you set reminders or create a supportive environment to overcome these potential barriers?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client: I could set alarms on my phone or use sticky notes as reminders. Also, having a designated study spot might help me get into the right mindset and make it easier to start working.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan and identified potential barriers, such as procrastination and low mood, with strategies to address them, like setting reminders. The client displays confidence in their ability to change by recalling past resilience and overcoming challenges. The commitment to taking steps to improve their situation is evident.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Setting alarms and using sticky notes sound like practical ways to keep yourself on track, and having a designated study spot can certainly help create a conducive environment for studying. As you move forward, remember it's okay to adjust your steps and strategies based on what feels right for you. Drawing on your resilience, you're equipped to handle any ups and downs. With your plan in mind, this week, focus on sending that email and carving out that study time. Reach out anytime you feel the need for support or further guidance. You're doing a great job taking these mindful steps toward your goals. Keep believing in yourself—you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the encouragement. I'll try to keep everything in perspective and take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, discussed next steps, and addressed coping strategies. The client appears to have a plan and confidence moving forward. Termination has effectively addressed the primary concern with actionable steps and support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Thanks to poor mental health, I’ve letted myself go for the first month of the semester. I’m now failing two classes after failing two major exams this last week. What do I do?\nI’ll admit, much of this is my fault. Mental health should never be an excuse for apathy, and this is a lesson that kept fucking me over through the years. \n\nBut here I am now, failing two major exams(one where I got the lowest score in the class) and feeling complete apathy towards everything. It’s so maddening that I’ve even allowed it happen, allowed yet another opportunity slip away due to allowing my poor mental health to completely control me. \n\nAnxiety, depression, etc. are all so bad at the moment. I don’t really know the root cause of it. It just came a couple months ago and has completely taken my over since.\n\nWhat should I do? I really feel lost. Can I even recover from this and save my grades for the semester? I know it sounds foolish asking strangers on the internet for advice, but I simply don’t know what to do and need quick advice on how to turn things around.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

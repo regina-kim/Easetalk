@@ -1,0 +1,215 @@
+{
+  "id": "s703ms",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for meeting with me. I'm just feeling pretty overwhelmed with my schedule and all the demands on my time, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really challenging trying to juggle so many responsibilities. Can you share a bit more about what's been particularly overwhelming for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, it's mostly the crazy schedule and lack of sleep. Between classes, homework, and my job, I feel like there's just not enough hours in the day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their overwhelming schedule and sleep issues, providing insights into their academic and work pressures. There's empathy and understanding from the therapist, but goals and specific motivations for change haven't been outlined yet. The dialogue still needs further exploration to solidify the client's feelings and establish rapport before moving forward.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing all of that sounds incredibly exhausting. You feel overwhelmed because there's such a high demand on your time with school, work, and everything else. How have you been managing all these demands so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I'm kind of just winging it. I try to prioritize the most urgent tasks, but it feels like I’m constantly playing catch-up and there's no real break.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, including their challenges with managing time and sleep, has been explored with empathy and understanding. The context of their schedule, academic pressures, and work demands are clear, and there is mutual rapport. Goals have not been explicitly agreed upon, so continuing exploration may be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Navigating through that kind of pressure without a break sounds really tough. You're feeling overwhelmed because it's a constant effort to keep up with everything, almost like you're in a never-ending cycle. Have there been any strategies or moments in the past where you felt a bit more in control of your schedule?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Not really, to be honest. It's usually just a temporary fix before I'm back to scrambling again. I haven't found anything that really sticks or makes a real difference.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their challenges clearly, describing a demanding schedule, insufficient sleep, and a constant feeling of playing catch-up. Empathy and rapport have been established, and there is a mutual understanding of the client's struggle. However, there is no indication yet of mutually agreed goals, which suggests continuing in the Exploration phase to further deepen understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, having short-term fixes that don’t seem to last. You're feeling stuck because nothing seems to consistently work. Can you think of any small changes or adjustments that have given you even a slight sense of relief in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Not much, but occasionally trying to schedule things in a planner helps a bit, at least for a day or two. It doesn't last long, though, because things come up and I just fall behind again. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively elicited the client's story, highlighting their overwhelming schedule and sleep deprivation concerns. The client has shared thoughts and feelings about temporary solutions they've tried without lasting success. The essence of their challenges has been captured, and rapport is evident. Goals have started to be mutually discussed, indicating readiness to move to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Using a planner seems to offer you some relief, even if only temporarily. What do you think it would look like if this sense of control from planning could be extended in a way that fits your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Honestly, if I could make planning stick, maybe I'd feel less like I'm drowning. I guess a system where I could adapt to changes easily might help, but I've never really nailed that down.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Envisioning a planning system that adapts to life's changes sounds promising. What aspects do you believe could make it more adaptable and effective for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Probably something flexible that lets me move things around without losing track. It'd need to be simple enough not to take more time than it's worth, but still keep me organized. Maybe incorporating some tech could help with that. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has displayed Change Talk by expressing a desire for a more adaptable planning system to cope with their schedule. There's a specific goal of creating a flexible system that incorporates technology. However, confidence and commitment to change have not been clearly addressed, and there's still room to explore ambivalence and strategies further. Staying in the Guiding phase is prudent to solidify motivation and plan details.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Incorporating technology for flexibility and organization sounds like a step toward finding what works for you. How do you think using tech might align with your goal of feeling less overwhelmed and more in control?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): Using tech could definitely make things easier to rearrange and keep track of deadlines. If I could get notifications or reminders, it might help me stay on top of things better and not feel so buried under everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk about exploring a flexible tech-based planning system to better manage time and reduce overwhelm. A specific change goal is starting to develop, and ambivalence seems reduced. These indications suggest readiness to collaboratively develop an action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Exploring how tech can enhance your planning sounds like a great step forward. Considering what you've shared, possible options include trying out digital planners or apps that offer reminders and flexibility, or even setting up a system of notifications on your phone. What do you think might be a good first step to experiment with this approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I think trying out a digital planner app could be a good start. I've heard good things about some of them, and if it can send reminders, it might help me keep things in check without adding more stress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Choosing a digital planner app sounds like a practical first step toward enhancing your planning system. To move forward, you might explore a few different apps to see which best suits your needs for flexibility and reminders. What’s your plan for selecting an app, and how would you like to check your progress with it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): I guess I'll start by researching a couple of the top-rated planner apps, maybe read some reviews or ask for recommendations from friends. Once I pick one, I'll give it a try for a couple of weeks and see if it helps at all. As for checking progress, maybe I'll note any changes in how overwhelmed I feel or how well I stick to my schedule.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has chosen a specific action plan involving a digital planner app and has outlined a method to monitor progress. They've also discussed barriers and strategies to overcome them using technology. The client demonstrates readiness by committing to try the app and self-monitor progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful and well-rounded plan. Trying out a couple of top-rated apps and seeing what resonates with you is a great approach. Tracking how you feel and how your schedule adherence improves over time can give you valuable insights into what works best for you. Remember, adjusting to a new system can take some time, so be gentle with yourself in the process. It’s wonderful to see you taking steps toward greater organization and control. Whenever you’re ready, feel free to share how it goes, and we can reflect on any adjustments or support you might need. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll let you know how it turns out, and hopefully, it'll start making a difference soon.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered goals, steps, and coping strategies with a clear next-step plan regarding a digital planner. The client seemed ready to try the new approach, indicating a natural conclusion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: It’s fine, sleeps overrated\nMy classes Monday- Thursday start at 8 am end at 6pm. With one 2 hour break for hw and study. Calculus, Chem, Assembly, Accounting, Chem lab, and a supply chain management course this semester. \n\nLooking at the syllabus with due dates for homework amount of tests and quizzes and everything else outside of self study is going to suck especially since I have to wake up at 5:30 each day. So assuming I’ll end up in bed by 12:30am and it takes me 1-2 hours to sleep I’ll average 3-4 hours a night with weekends being third shift physically intensive job 11-12 hours a shift to cover expenses. \n\nBut you know it’s not like sleep is needed to function fml.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

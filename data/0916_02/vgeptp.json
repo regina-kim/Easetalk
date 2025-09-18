@@ -1,0 +1,152 @@
+{
+  "id": "vgeptp",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just a bit overwhelmed. I've been trying to figure out what to do next after I graduate, and it's been stressing me out a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduation can bring a lot of uncertainty and pressure. You're feeling overwhelmed because you're trying to find the right path forward. What's been stressing you the most about this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's just that I want to make the right choice without wasting any more time. I lost a lot of time dealing with mental health stuff before, and now I just feel this urgency to figure things out quickly.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's detailed thoughts, feelings, and context regarding their post-graduation concerns. The client has clearly expressed their dilemmas and the urgency they feel due to past mental health challenges. Empathy and rapport have been established, and the client's goals for advice and direction are clear.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Graduation and the urgency you're feeling can really weigh heavily. It's understandable that you want to make up for lost time. What would life look like for you if you found a path that felt right?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): If I found the right path, I'd feel a lot more confident and secure. I'd be learning things I'm passionate about and making progress towards a career that excites me, without feeling like I'm falling behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That vision of feeling confident and secure in a path you're passionate about sounds really fulfilling. How does your current situation compare to that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Right now, it feels like I'm stuck at a crossroads, not moving towards anything specific. It's frustrating because I know what I want to do, but figuring out how to get there feels really complicated and overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of a desired future and identified barriers. There are specific change goals, such as pursuing further education in music and fashion, but the client lacks clarity on how to proceed. The client feels ambivalent and overwhelmed by options, needing further guidance on strategies before choosing specific actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Navigating that crossroads must feel daunting, especially when you know what you want but the path seems unclear. What small steps could make the journey feel less overwhelming and more in line with your vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by reaching out to some advisors or career counselors to get a clearer picture of my options. Also, doing some research on schools and programs that might align with my interests could be helpful. Taking it one step at a time might make it feel less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear vision of change, expressed desire for specific educational paths, and identified initial steps like consulting advisors and researching programs. Confidence is reflected in their proactive planning despite past setbacks. Change Talk is present as they express readiness to pursue their goals immediately, with reduced ambivalence. The conversation has transitioned from exploring to identifying actionable next steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Those steps sound like a great way to start making progress, one step at a time. Reaching out to advisors and researching schools could really help you feel more in control. Based on that, possible options include setting a goal to contact at least one advisor this week or dedicating an hour to researching programs. What do you think would be the most helpful step to take first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think starting by reaching out to an advisor would be the best first step. They might help clarify what options I could realistically pursue, especially with my current academic record. Once I have that guidance, I can dive into researching programs with a clearer focus.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Reaching out to an advisor sounds like a solid first step toward gaining clarity. Setting a goal to contact an advisor this week seems manageable and proactive. How do you plan to go about arranging this meeting, and what potential barriers do you anticipate in reaching out?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I plan to check with my university's advising office to see if I can set up a meeting or maybe even just send an email to get the conversation started. The main barrier might be finding the time to fit it into my schedule, but I think if I prioritize it, I can make it happen.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear initial action plan and identified reaching out to an advisor as the first step. They have also anticipated barriers and expressed a strategy to overcome them by prioritizing the meeting. Their commitment and proactive approach suggest readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Prioritizing this step is key, and it's encouraging to hear you're taking the initiative to reach out to your university's advising office. Scheduling that meeting or sending an email is a meaningful action toward your goal. Balancing your schedule can be a challenge, but knowing that you're committed to making time shows your dedication. When you take these steps, remember to acknowledge the progress you're making, even if it feels small. You're actively moving towards a clearer path, and that's a significant achievement. If you need support or want to talk through any challenges, I'm here for you. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, that really helps me feel more motivated to tackle this. I'll try to get the ball rolling this week and see where it leads.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear initial step (contacting an advisor) to address their goals, and they have a plan to prioritize this action. The conversation has naturally moved towards action planning, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm having a hard time deciding what to do after I graduate. Should I go for an associates or masters? If associates, is there a way I can do 2 at the same time with schools that don't offer dual enrollment (from what I know)?\nThis might be very detailed, and I have several dilemmas to cover. I'll try to get it all in one go.\n\nI'm graduating with a bachelors in graphic design this December, and I've been thinking of either going for associates or a masters. I don't know which one would benefit me the most, but also with a masters there's a problem: my grades have always been low. I struggle with a LOT of mental health issues and I'm lucky to even still be in school. I got myself  together and got the help I needed, but unfortunately the damage  to my GPA is already done.  I figured since I might not get into a grad school, I could just get my associates.\n\nSo since grad school might not be an option, I wanted to think of backups. I was then thinking of doing associates, and that a lot of people to multiple. I decided I could do an associates in Fashion, and one in Music production. Music has always been a huge passion of mine, I want to learn how to create beats and music and maybe a little writing. I thought I could maybe find schools in NY that offer both, but it turns out thats not so much of an easy option either. TNS offers music, but not music production (as far as I'm aware of). But their fashion program is good and you can make good connections. I looked up some CUNY schools, Queens college offers a good music program and is way more affordable, but not a fashion associates.\n\nI thought about attending both at the same time, but I don't know if either of them offer dual enrollment, and I don't know how it works if you've already graduated with a Bachelors. I don't know if I'm able to attend both or not at all. Or if there are schools that offer both at a good balance.\n\nI want to hear some advice, or if there are other programs/directions that I'm not looking at or considering. ANY advice is very much appreciated! Also I really want to get this done in as little time possible. I lost so much time due to mental illness, I don't want to feel like I'm wasting more time.\n\nTLDR (kinda): Basic list of my questions:\n\nShould I go for masters or associates in the fields I'm looking into (music production and fashion)?Do I still have a chance at getting into grad school?Am I able to do 2 associates in different schools that don't offer dual enrollment (as far as I'm aware)?Are there other schools that offer both associates or is there another way I can achieve this goal of mine that I just haven't seen yet?\n\nEdit: I REALLY want to emphasize the not wasting time part. I lost YEARS due to really bad mental illness. I don't want to wait around anymore. I'm set on continuing school on these majors that are unrelated to my bachelors. I just don't know the best way, which is what I want to know. Regardless, I still will be establishing my career, but I do want to do the rest of the things I want to do in my life. And I don't want to be \"find out later\" what works the best for me. I want to just do it all now. I hope this makes sense and thanks to everyone for the advice already given.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

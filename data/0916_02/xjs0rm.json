@@ -1,0 +1,152 @@
+{
+  "id": "xjs0rm",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've been feeling kinda uneasy about this situation with my professor lately and it's starting to stress me out a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging. Would you like to share more about what's been happening with your professor and how it's making you feel stressed? I'm here to help you work through it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's just that he's been way more personal with his emails and in class, and it's making me super uncomfortable. I don't know how to handle it because I need his recommendations but it's getting too weird.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their discomfort with the professor's behavior, including context and emotional impact. The therapist has shown empathy and understanding. The goals of the Exploring phase appear to have been met, with the client's story and feelings clearly elicited.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds like a tough spot to be in, balancing your needs for recommendations with feeling uncomfortable. How do you imagine things might change if this situation were resolved in a way that feels right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I imagine feeling a lot more at ease going to class without worrying about his behavior. I'd like to maintain a professional relationship where I can still get the recommendations I need, but without the awkwardness and discomfort.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like having a more professional relationship would really ease your stress and create a better environment for you. What are some steps you think you might take to move towards that sense of ease and professionalism with your professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess I could try setting boundaries, like maybe being more formal in my email responses. I could also limit communication to just class-related stuff. But if things get worse, I might need to talk to someone at the university about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed discomfort and a desire for change, and they have suggested potential steps like setting boundaries and limiting communication. However, there is significant ambivalence and anxiety about addressing the situation. Change Talk is present but the confidence in taking action needs support. Further exploration of barriers, potential university resources, and confidence building are needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful steps towards creating a more comfortable relationship with your professor. How confident do you feel, on a scale from 0 to 10, about taking these actions to set boundaries and seek further help if needed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe around a 6 or 7. I'm a bit nervous about how he'll react to me setting boundaries, and I'm worried about escalating it to the university if it doesn't get better. But I know it's important to try.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed clear Change Talk by identifying steps to address the situation, such as setting boundaries and seeking help if necessary. Their confidence level is between 6 and 7, indicating readiness for action. The discrepancy between their current discomfort and the desired professional relationship is evident. Given these indicators, it seems appropriate to move to the Choosing phase to develop a concrete action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Considering your feelings, it's great that you're already thinking about setting boundaries and seeking help if needed. Let's explore ways to support you in this process. One option might be to draft a more formal email template to use when responding to him. Another could be identifying a trusted faculty member or counselor at the university to discuss your concerns if needed. How do these ideas sit with you, and are there any other steps you'd like to consider?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): Those ideas sound pretty solid. Drafting a formal email template could definitely help keep things professional, and knowing I have someone at the university to talk to if needed makes me feel a bit more secure. Maybe I should also think about how to approach that conversation if it comes to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Having a plan for approaching a conversation can indeed be very helpful. Would you like to brainstorm some key points or strategies for that conversation, just in case it becomes necessary? Additionally, would you like to set a timeframe for when you might want to check in on how these steps are working for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): Yeah, brainstorming some key points sounds like a good idea, just to be prepared. And setting a timeframe for checking in could help me stay on track. Maybe we could aim to check back in a couple of weeks to see how things are going?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving drafting formal emails, discussing concerns with university authorities, and brainstorming conversation strategies. The client feels a moderate level of confidence and has agreed to self-monitor by setting a check-in timeframe. Commitment and taking-steps talk are evident. The goals of the Choosing phase have been met with readiness signals present.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Absolutely, setting a timeframe to check in a couple of weeks sounds like a great way to evaluate the steps you're taking and adjust as needed. Having those key points ready can offer reassurance and clarity if you need to have that conversation. You're really taking proactive steps, and that's commendable. Remember, you're not alone in this, and you have support both here and potentially at the university. Let's plan to touch base in two weeks to see how you're feeling and how these strategies are working for you. You've got this, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(terminating): Thanks, that really means a lot. I'll try to work on those emails and think about what to say if it comes to a conversation. I'll see you in a couple of weeks, then.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized the client's goals, steps, coping strategies, and a next-step plan, including a follow-up timeframe. Ending here is natural as the client feels supported and has agreed to check-in later.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Weird professor. not sure what to do\ni’m a 4th year student and i’m taking a class that’s required for graduation with a professor i took 2 summers ago for an online class. that summer i had a rough time and was going through some things, and my professor was very understanding and kind. he was quick to respond to emails and worked with giving me extensions and stuff, and after the class ended we periodically emailed about school and life and i always thought he was very kind and compassionate. he has great ratings on rate my professor and up until now i have never felt uncomfortable or creeped out by him. as time went on, the emails from him became more consistent and long. this man would write me novels and send random “how are you doing” at 12 and 1am. well, last spring he recommended me for a scholarship and to be in a mentor program and one day i was on campus and decided to stop by his class quickly to formally introduce myself in person and thank him for the opportunity. i then received and email almost immediately after and one of the BOLD captions was “Meeting you: please do not be offended” and he went on to talk about how beautiful i was on the inside and out and how my eyes were beautiful (all in the school email, and i was wearing a mask). fast forward to now, i have him in person on mondays and wednesdays and in class yesterday he was staring at my the entire lecture and he emailed me today and was talking about my looks and that he “loved” seeing me in class. sometimes if i take too long to reply to the emails he will say something like “i miss our emails” like bro is down bad and also married with 4 kids. the biggest downfall is that i have had many opportunities open up because of his recommendations and i plan on going to law school and could really use him for that but i also have an entire semester of class with him and i feel like he’s undressing me with his eyes every time i see him so i don’t know what to do 🥴",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

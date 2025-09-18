@@ -1,0 +1,173 @@
+{
+  "id": "ta8hy7",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've been feeling pretty anxious about the whole college thing. It's like there's this pressure and I'm worried I've missed my shot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "College decisions can feel overwhelming, especially with so much pressure. It sounds like you're anxious because you're worried about missing an opportunity. What's been happening that makes you feel like you've missed your shot?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, I just keep thinking about how I didn't go right after high school. Now I'm almost 24, and it feels like everyone else has already started their careers. I just don't want to be left behind, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to establish the client's concerns and feelings about college and career timelines, but more exploration of thoughts and context is needed to fully understand the client's story and build rapport before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be tough when you feel like you're on a different timeline than others, especially with college and careers. You feel this pressure because you compare your path to others, and worry about being left behind. Can you tell me more about how this comparison affects you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I mean, it's hard not to look at friends and people my age who are already moving up in their careers. It kinda makes me feel like I'm playing catch-up and that I've wasted so much time. It's just frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story and emotions related to anxiety about college and career timelines. The therapist has reflected feelings and sought deeper understanding of comparisons affecting the client. However, the client’s specific goals and motivations for change are not fully explored.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Feeling like you're playing catch-up can be really frustrating, especially when you see others moving forward. It seems that these comparisons make you feel like you're not where you want to be, and that adds to the pressure. What does the idea of catching up mean to you, and how do you see it impacting your choices?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Catching up feels like trying to get back on track, like reaching a point where I can feel confident in my career path and not feel like I'm lagging behind. It's pushing me to consider going back to school, but I'm also scared of what if it doesn't work out and I'm just older with no real progress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively uncovered the client's concerns about feeling behind in their educational and career path, along with emotional impacts like anxiety and frustration. The client has shared their thoughts, feelings, and context about comparisons with peers and career aspirations. Rapport has been established, and the client's goals are clear. It's appropriate to move to the Guiding phase to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems there's this strong desire to feel confident and on track with your career path, which is pushing you towards considering going back to school. At the same time, there's also fear about whether it will lead to real progress. What's most important to you about feeling on track, and how might pursuing school fit into that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(exploring): I guess feeling on track would mean having a clearer direction and some stability, like having a plan and working towards something meaningful. Going back to school might help me gain the skills and experience I need, but it's scary to think about the time and effort if it doesn't lead anywhere.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Pursuing a clear direction and stability is really significant for you, especially in gaining skills through school. It sounds like the idea of working towards something meaningful resonates with your values. How do you envision your life changing if you found that stability and direction, and what could be different for you then?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): If I found that stability and direction, I think I'd feel more secure and less anxious about the future. I'd probably have more confidence in myself and my choices, and it wouldn't feel like I'm just drifting through life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for stability and direction, linking it to values of confidence and security. They've identified going back to school as a potential step and discussed how it aligns with their goals. While there's fear about the outcome, readiness indicators like Change Talk and specific goals are present, suggesting readiness to explore action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Finding that stability and direction could really boost your confidence and reduce anxiety, making your future feel more secure. As you consider going back to school, what specific steps might you take to explore this option further, and how could we plan for any obstacles you might face?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think starting with some research into programs that match my interests, like writing or design, would be a good first step. Then maybe talking to some advisors or people in those fields to get a better idea of what to expect. It'd be helpful to figure out financial stuff too, since that can be a big roadblock.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Exploring programs in writing or design and talking to advisors sounds like a solid beginning. Considering finances is crucial, too. Options to address this could include scholarships, financial aid, or part-time work. How do these possibilities feel to you, and what first step would you like to focus on?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Looking into scholarships and financial aid seems like a smart move. I think my first step should be researching programs and reaching out to advisors. Getting a clearer picture of what's out there could help make the whole thing less intimidating.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of researching programs and exploring financial options for returning to school. They have recognized specific barriers, such as financial concerns, and have agreed on steps to overcome them. The client is showing readiness through commitment to starting research and exploring financial aid options.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Taking that step to research programs and connect with advisors is a great way to start clarifying your path, and it might ease some of that intimidation. Exploring scholarships and financial aid alongside this will help you build a realistic plan without unforeseen surprises. You've got a promising direction here, and you're taking thoughtful steps toward it. Remember, you’re not alone in this – I’m here to support you. Your next step could be setting a timeline for your research and reaching out. This could help guide your progress and keep things manageable. You’re making great strides, and it’s inspiring to see your commitment to building a meaningful future for yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll start setting up a timeline for my research and reach out to advisors soon. It's nice to know I have support along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan for exploring education options, understanding financial implications, and seeking support, indicating readiness to move forward. The session ends positively with encouragement and a tangible next step.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I go back at 23 soon to be 24?\nI never really liked school but now I’m kicking myself for not having a degree behind me and the experience of college. I don’t know exactly what I want to do but time just keeps ticking by and I really regret not going. I feel like life is already over because I messed up the timeline so badly.\n\nMy interests kind of lean towards writing, design, journalism, and social media management type things but would they even want me by the time I’m finished with school? Because of what my age will be compared to other people applying for the jobs?\n\nAny advice is appreciated and any tips to graduate fast are too",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

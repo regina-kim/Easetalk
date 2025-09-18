@@ -1,0 +1,131 @@
+{
+  "id": "swdp6l",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here today. What's on your mind, and how can I support you in your journey?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been feeling a bit down lately because of some things happening in class. It's just frustrating when professors assume something is easy when it's really not for everyone.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating those feelings can be tough. You're feeling frustrated because it seems like the professors aren't recognizing the different challenges students face. Would you like to share more about your experience in class?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it just feels like there's this expectation to get things right away, and when I don't, it kinda makes me question if I'm cut out for this. It's like, I'm trying my best, but it doesn't always click immediately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concern and frustration about the professor's expectations and its impact on their self-esteem. The conversation has developed empathy and rapport, and the client’s underlying feelings and context have been well explored.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds challenging to feel that pressure and uncertainty. When you think about what it would be like if things changed for the better, what comes to mind for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think it would be really helpful if there was more understanding from professors that everyone learns at their own pace. Maybe if they acknowledged that not everything is straightforward for every student, it would make class feel more supportive and less intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining a more supportive and understanding classroom environment sounds like it would make a big difference for you. What do you think it would mean for your confidence and motivation if professors recognized and valued different learning paces?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it would definitely boost my confidence and make me more motivated to engage with the material. Knowing that it's okay to not understand something right away, and that professors are aware of that, would take a lot of pressure off. It would make me feel more comfortable asking questions without worrying about being judged.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of professors recognizing individual learning paces and its impact on their confidence. Change Talk is present, with the client discussing potential positive changes in their motivation and engagement. The discrepancy between current challenges and desired class environment has been explored. Client's confidence in potential improvements is implied but not explicitly measured. Moving to Choosing may help solidify action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Envisioning that supportive environment seems really empowering. As we think about moving forward, what specific steps could you take to address these challenges? Based on our conversation, possible options might include seeking additional resources or discussing your learning needs with professors. How do these ideas resonate with you, or is there another approach you'd prefer to explore?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Those ideas sound helpful. I think reaching out for additional resources or maybe even talking to professors about how I learn could be beneficial. It might be a bit nerve-wracking to discuss my needs, but it seems like a step in the right direction to help bridge that gap in understanding.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Taking those steps could really help bridge that understanding. To make it more manageable, what would be a realistic goal to start with—maybe identifying which professors you feel comfortable approaching or exploring specific resources? Also, how might you prepare for any challenges, like feeling nervous, when discussing your needs?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): I think a good start would be figuring out which professors I feel most comfortable talking to about this. I could also look into tutoring sessions or study groups for extra support. To prepare for feeling nervous, maybe I'd write down what I want to say beforehand or even practice with a friend. That way, I'd feel more confident going into those conversations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps, like reaching out to professors and utilizing resources, and is preparing for challenges by writing down thoughts and practicing conversations. There's a clear goal, an action plan, and acknowledgment of barriers. The client shows commitment and readiness to act, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "You've really thought this through, and it's great to see your proactive approach. Identifying comfortable professors and seeking tutoring or study groups sounds like a solid plan. Writing down your thoughts and practicing with a friend can definitely ease the nerves and build your confidence in those discussions. \n\nYou've got a clear path forward with these steps. Remember, each small step you take is progress, and you're not alone in this journey. I'm here to support you, and we can check in on how these steps are unfolding. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I'll start mapping out my plans and reach out for support. I'll keep you updated on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to address their concern, such as identifying approachable professors and using resources. They have coping strategies for nervousness and a plan to update the therapist on progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I hate it when professors say something is \"easy\"\nLiterally the quickest way to make a student feel bad about themselves because they don't quite understand or it's not actually \"easy\" for them.\n\nI was told recently during office hours for a CS class that the file and code I wrote was not needed and that I was doing it wrong and all I had to do was this and that and whatever and she ended by saying \"It's easy.\" \n\nThat made me feel like shit cause I didn't know how to do it despite it being \"easy\" and I was in a depressing mood for the rest of the day and the following day as well. \n\nSaying that an assignment is easy is just unnecessary. You have no idea what someone's struggles are, with the content/class **and** outside of that as well. While an assignment could technically be easy, that doesn't mean it's easy for someone to get up and sit down to do the assignment if they're struggling with their mental health, family issues etc.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

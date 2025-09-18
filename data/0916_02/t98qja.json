@@ -1,0 +1,131 @@
+{
+  "id": "t98qja",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you might have some things on your mind. Whenever you're ready, feel free to share anything you'd like to talk about today. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for that. Yeah, I've been really torn between sticking with Mechanical Engineering or switching to Facilities Engineering. It's kind of stressing me out because I need to decide soon, and I'm not sure which path will better align with my career goals.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating such an important decision can indeed feel overwhelming. You're feeling stressed because you're trying to figure out which path aligns best with your career aspirations. Can you share more about what draws you to each option?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, Mechanical Engineering appeals to me because of its broadness and the flexibility it offers in terms of career options. On the other hand, Facilities Engineering seems more aligned with the hands-on, practical skills I want to develop, especially since I plan to work on ships initially.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and context about their dilemma between Mechanical and Facilities Engineering, including career goals and educational background. Empathy and rapport appear established through the therapist's reflective listening. Thus, the goals of the Exploring phase seem to be met, allowing a transition to focus on strengthening motivation and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Choosing between these paths seems to highlight important aspects of your career goals—flexibility versus practical, hands-on skills. How do you see each option impacting your future on a scale from 0 to 10 in terms of confidence that you'll achieve your long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "That's a good way to look at it. I'd say Mechanical Engineering is maybe a 6 or 7 in terms of confidence for future flexibility and options. Facilities Engineering might be more of an 8 because it feels like it directly supports my immediate goal of working on ships and getting that practical experience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Recognizing those ratings, you're leaning slightly more towards Facilities Engineering due to its direct alignment with your immediate goals. What aspects of your long-term career vision are most important to you, and how might each option help you fulfill those?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I really value the idea of gaining practical experience and becoming skilled at working on ships, which is why Facilities Engineering seems like a good fit. But long-term, I want the flexibility to possibly transition to land-based roles or other engineering fields, and that's where Mechanical Engineering might come in handy. It's tough balancing immediate and future goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client recognizes a clear discrepancy between their immediate and long-term career goals and has shown a preference towards Facilities Engineering for immediate goals. Confidence in this choice is higher than in Mechanical Engineering. Change Talk is present, and ambivalence is being reduced as the client clarifies their values and goals. Given the progress and clarity achieved, it is appropriate to move forward to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "You’re weighing the immediate benefits of Facilities Engineering with its alignment to ship work, against the long-term flexibility that Mechanical Engineering offers. Given these priorities, what goals would you like to set for the near future to help you move forward? Possible steps could include researching more about each field or speaking to professionals in each area. What do you think might be most helpful in making your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I think talking to professionals who are already working in both fields could give me better insights into the day-to-day realities and future opportunities. Maybe setting up informational interviews or even job shadowing could help. Also, doing a bit more research on potential career paths with both degrees might give me a clearer picture.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Having conversations with professionals and exploring career paths in both fields sounds like a solid plan. To move forward, would it be helpful to set a goal of arranging a certain number of informational interviews or job shadow days over the next few weeks? Additionally, what resources or strategies might you use to gather more information about the career opportunities each degree offers?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Setting a specific goal for informational interviews sounds like a great idea. Maybe I could aim for at least two or three interviews or job shadowing experiences in the next month. As for resources, I could look at online forums, talk to my advisors, or reach out to alumni from my program to get their perspectives on each career path.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to conduct informational interviews and job shadowing, indicating commitment. They have identified resources for gathering information and have set a goal for a specific number of engagements. This shows readiness to take steps towards decision-making, addressing both immediate and long-term career considerations.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "You've already crafted a thoughtful action plan to help make your decision. Connecting with professionals through at least two or three interviews or job shadowing experiences will provide valuable insights, and utilizing online forums, advisors, and alumni for further information sounds very proactive. You're clearly committed to ensuring you're making a well-informed choice, and that's truly commendable.\n\nFor the next steps, focusing on scheduling those interviews and gathering insights from your advisors and alumni are good places to start. Remember, you're not alone on this journey, and reaching out is a great way to gather support and advice. Every step you take is a step closer to clarity.\n\nI believe in your ability to navigate this decision with confidence and resilience. When you're ready, feel free to reach out again to discuss your progress or any new thoughts that arise. You have the tools and determination to make a choice that's right for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "I really appreciate the encouragement and support. I'll definitely start organizing those interviews and reach out to alumni and advisors soon. Thanks for reminding me I'm not alone in figuring this out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a concrete action plan involving informational interviews, job shadowing, and leveraging resources like alumni and advisors. Termination goals of summarizing steps and discussing next steps are met, indicating readiness to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Facilities Engineering or Mechanical engineering\n\nSo this semester (last semester of sophomore year) I have the option of switching between Mechanical Engineering or Facilities Engineering before I'd get behind if I decided to switch beyond this point. I'm very divided on what type of engineering I want to focus on and I know it's for me decide on what I really want to do. I just want to see what peoples thoughts are when they are stuck in this type of predicament and what I should weigh when deciding.\n\nBackground: I go to SUNY Maritime and instead of a minor I am trying to pursue a USCG 3rd engineers license. For those of you who have no idea what it is, it allows people to work and run a power plant (steam, diesel, diesel electric, nuclear if you get certified but not many civilian ships use nuke) on a ship along with HVAC, plumbing, fresh water generation, electrical work, etc. I plan on using this license to ship out for at-least 5 years after I graduate in hope to be able to sit for my chief engineers exam. I'm worried I'll fall behind the curve with a mechanical engineering degree as I won't have as polished skills when I leave compared to my peers who go immediately to land side jobs. With facilities engineering I feel like I would be building work experience with it. The thing I like about mechanical is the flexibility and broadness that comes with it. \n\nI am also happy to answer any questions you have about the program I am in :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

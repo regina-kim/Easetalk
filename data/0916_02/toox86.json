@@ -1,0 +1,131 @@
+{
+  "id": "toox86",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen to your story and support you. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling pretty overwhelmed trying to decide between CMU CS and UC Berkeley EECS. It's such a tough choice because both schools are amazing, but I'm worried about making the wrong decision.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing between such prestigious programs must feel quite daunting. You're feeling overwhelmed because you want to make the best decision for your future. What are some of the key factors you're considering in your decision-making process?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, definitely the cost since UC Berkeley is way cheaper for me. But then, I'm also thinking about the reputation of the programs, potential job opportunities, and just the overall experience at each school. It's a lot to weigh.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, factors influencing their decision, and emotions involved. The therapist has shown empathy and understanding, and the client's thoughts and feelings are clear. This foundation allows for moving to Guiding to explore motivations and potential outcomes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be challenging to balance all these important factors. You've highlighted cost, program reputation, job opportunities, and overall experience as crucial elements. Let's explore how each of these aligns with your long-term goals. Which factor do you feel most connected to in terms of your future aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, the job opportunities really stand out to me. I want to make sure I'm well-prepared and have good prospects after graduation. But at the same time, I don't want to miss out on the overall experience, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing strong job prospects and a fulfilling experience is important for you. Imagine yourself at each school—how do you see these factors playing into your life after graduation? What would a successful outcome look like for you in terms of job readiness and personal growth?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I picture myself getting a solid foundation and making connections that'll help me land a good job, maybe through internships or networking. At the same time, I want to have memorable experiences, meet diverse people, and just enjoy my time in college. Ideally, I'd leave feeling confident and well-rounded.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified key factors, expressed Change Talk regarding their priorities, and visualized outcomes. They've shown readiness by specifying job opportunities and experiences as important for decision-making. Confidence and goals seem adequate to proceed.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you're envisioning a college experience that not only prepares you for a successful career but also enriches your personal life. Let's work together to create an action plan that considers both job readiness and personal growth. Based on what you've shared, potential steps might include researching internship opportunities and networking events at each school, as well as exploring student organizations and activities that match your interests. What do you think about starting with these options, and are there any other steps you'd like to include?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "That sounds like a really solid plan. I'd definitely want to dive into researching internships and networking potentials at both places. Also, checking out the student organizations and events could give me a better sense of the campus vibe. Maybe even talking to current students or alumni could help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Engaging with current students or alumni sounds like a great additional step. So, your action plan could include researching internships, exploring student organizations, and connecting with people who have firsthand experience at these schools. How do you feel about setting some specific timelines for these activities, and how would you like to track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Having timelines could definitely help keep me on track, so I'm not just endlessly weighing options. Maybe I could set weekly goals, like reaching out to a couple of people or finding out about certain opportunities. Keeping a checklist or journal might help me see where I stand and make the whole process feel a bit more manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and concrete action plan, including researching internships, networking, and exploring student organizations. Barriers like indecision are addressed with timelines and self-monitoring through checklists. The client expresses commitment and readiness to take steps towards their decision.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Establishing weekly goals and using a checklist or journal sounds like a practical approach to managing your decision-making process. By breaking it down into smaller, actionable steps, you're giving yourself the chance to explore your options thoughtfully without feeling overwhelmed. Remember, this is about discovering where your aspirations align with what each school can offer. You've shown a lot of insight and commitment to making an informed choice, which is commendable. As you move forward, know that it's okay to take it one step at a time, and I'm here to support you on this journey. Take confidence in your ability to make a choice that feels right for you. Keep me updated on your progress, and we'll continue to work through any challenges together.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely start taking those steps and keep you posted on how things go. It's nice to know I'm not navigating all this alone.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with steps, timelines, and tracking strategies in place. They have expressed understanding and commitment to the plan. The session has reached a natural conclusion with supportive closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: CMU CS or UC Berkeley EECS?\nSo I got into both programs, and I'm having a really hard time deciding what to choose. I'm in-state for UC Berkeley, so tuition would be significantly cheaper. But other than this, I love both schools, and I don't know what to choose!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

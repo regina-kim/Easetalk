@@ -1,0 +1,278 @@
+{
+  "id": "1193e5v",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just really stressed about these exams tomorrow. It's like my brain is on strike and just won't focus.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed because of the exams and your mind's struggle to concentrate. What do you think might be contributing to this stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, I think it's just a mix of everything piling up. There's a lot going on with school, and I just can't seem to settle down and study properly.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern and associated feelings, and the therapist has acknowledged the stress and explored underlying factors contributing to it. However, more context and exploration of feelings could enhance understanding and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be challenging to have so much on your plate, making it hard to focus on studying. Can you tell me more about what's been piling up for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It's a bunch of stuff—assignments, deadlines, and just trying to keep up with everything. Plus, I guess there's the usual life stuff, you know? It's like juggling too many balls at once.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and feelings about stress due to upcoming exams have been elicited. The client has shared detailed context about the academic pressure and life challenges leading to stress. The therapist has shown empathy, and there's a clear understanding of the client's current concerns. The goals of this phase appear to be met, suggesting readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like you're really juggling a lot right now, and it's understandable that it's impacting your ability to focus. How do you imagine your life might be different if you were able to manage this stress more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "If I could manage the stress better, I think I'd feel more in control and less panicky. Maybe I'd actually get some quality studying done without my mind wandering every few minutes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Managing stress effectively seems important to you, as it could lead to feeling more in control and focused. What have you found helpful in managing stress before, or what ideas do you have that might support you in this?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Sometimes, taking walks or just stepping away from everything helps a bit. I’ve also tried deep breathing, but it's hit or miss. Maybe I need to try something new?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified stress management as a key goal and expressed some Change Talk by considering life improvements with stress management. However, no concrete plan or goal has been established yet, and confidence has not been measured. Ambivalence about current strategies remains.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Taking walks and stepping away seem to offer some relief, even if it's just a bit. Trying something new could open up more possibilities for managing stress. On a scale from 0 to 10, how confident do you feel about trying a new stress management technique?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 5? I’m open to new things, but I’m not super sure what exactly to try or if it'll really work for me right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has engaged in Change Talk regarding stress management. They have identified potential steps, yet their confidence level is low (5). There's an indication of uncertainty about next steps, suggesting the need for further exploration within the Guiding phase to build confidence and clarify strategies.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "A 5 shows you're open to exploring new options, even amidst uncertainty. It's a great starting point. What small step do you think you could take to explore a new technique, and how might that align with your goal of feeling more in control?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could look up some quick mindfulness exercises or apps tonight, something I can squeeze in between study sessions. It might help me feel a bit more grounded and less scattered.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk, a desire to manage stress more effectively, and identified a specific small step to explore new techniques. However, confidence remains at 5, indicating uncertainty. Continuing in the Guiding phase can help build confidence and clarify specific goals before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring mindfulness sounds like a promising step towards feeling more grounded. Taking this small action could bring you closer to your goal of gaining control. What do you think might motivate you to actually try out one of these exercises once you find something that catches your interest?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I guess thinking about how much better it’d feel to be a bit calmer might push me to try it. Plus, if it helps me focus even a little, it’d make studying less of a hassle.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a desire to manage stress for better focus, expressed openness to trying new techniques, and identified a small actionable step. Confidence is moderately indicated, and motivation is linked to potential positive outcomes. Change Talk is present, but confidence is below 6, suggesting the need to continue exploring confidence-building strategies before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Recognizing the potential benefits of feeling calmer and more focused can be a powerful motivator. Reflecting on how these exercises might ease your study sessions is a great way to encourage yourself. What values or goals do you have that this new sense of calm might support or enhance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I really value doing well in my academics and being present for my friends and family. If I can manage to stay calm, I think I'd be better at juggling all of that without feeling overwhelmed all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed Change Talk by identifying a specific change goal of exploring mindfulness exercises to manage stress, which aligns with her values of academic success and being present for loved ones. However, her confidence level is at 5, indicating some ambivalence. Further exploration is needed to build confidence and solidify commitment before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Balancing academics and relationships is clearly important to you, and managing stress could truly enhance that balance. How might feeling more present and less overwhelmed benefit your interactions with friends and family, as well as your academic performance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(guiding): I think if I'm less stressed, I'd be more attentive and supportive with my friends and family, you know? And academically, I might be able to absorb information better and not just get by on cramming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal to explore mindfulness exercises and has identified the potential benefits of feeling calmer and more focused. Change Talk is present, and there's a decrease in ambivalence. However, confidence in trying a new technique is at 5, which suggests continuing to support and build confidence before advancing to planning specific actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Feeling less stressed could indeed improve your attentiveness and support for those you care about, and enhance your learning by reducing the need to cram. How might this vision of a calmer, more balanced life motivate you to keep exploring and trying out new stress management techniques?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "Honestly, just picturing a more relaxed version of myself is kinda nice and motivating. It makes me want to give these techniques a real shot so I can actually enjoy both studying and hanging out with people.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific goals (trying mindfulness exercises) and is motivated by the potential benefits of reduced stress, aligning with her values. Change Talk is present with decreased ambivalence and a confidence level of 5, indicating openness to action. The conversation has addressed the discrepancy between behavior and values, explored outcomes of change, and received client reactions to summaries. This suggests readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Imagining a more relaxed and balanced life seems to really resonate with you and could drive you to experiment with different techniques. Let's create a simple action plan: Tonight, you'll look up a few mindfulness exercises or apps. How about setting a specific goal to try one exercise tomorrow? What do you anticipate might be a barrier, and how could you address it if it arises?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(choosing): Sure, trying one tomorrow sounds doable. I might get too caught up in nerves about the exams and forget, so maybe setting a reminder on my phone could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Setting a phone reminder is a practical way to ensure you don't forget amidst exam nerves. It's great to see you taking proactive steps. To keep you on track, how would you like to monitor your progress with these mindfulness exercises?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Maybe I could jot down how I feel before and after trying the exercises, just to see if they actually help. It'd be nice to have something to look back on and see any changes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to try a mindfulness exercise with a practical reminder set. Barriers were anticipated and addressed, and self-monitoring was agreed upon. The client has shown commitment and motivation for change, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Tracking your feelings before and after the exercises is a fantastic idea. It’ll give you tangible evidence of how these practices might be helping you. You've shown so much insight into what could work for you, and that’s truly commendable. As you move forward, remember every small step counts. Tonight, just focus on finding a few exercises and set that reminder. You’re building a foundation for more calm and balance. If you ever feel unsure or need support, I'm here for you. Keep in mind, you’re making meaningful progress towards a calmer life. Looking forward to hearing how it goes for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely start with finding some exercises tonight and see how they go. I'll keep you posted on how everything turns out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a clear plan and coping strategies for stress management, alongside an invitation for future support. The client expressed understanding and readiness to implement the plan, fulfilling termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: 2 Exams tomorrow in two different shifts.\nIm 20F a final year student can’t really focus on studies despite of having 2 exams in a single day tomorrow.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

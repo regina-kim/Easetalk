@@ -1,0 +1,173 @@
+{
+  "id": "vlhnel",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just a bit stressed out. I've been thinking a lot about my major and whether I made the right choices, especially with the whole pharmacy situation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can definitely be overwhelming, especially when you're facing uncertainties like the pharmacy situation. What about this situation feels most stressful for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's the feeling of being stuck and not having the options I want. I just don't get why I can't join the pre-pharmacy program now and it feels like it's making everything more complicated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern and the background context, including their current major, desired change to pre-pharmacy, and the university's response. There's a clear expression of feelings and perceived barriers. However, more exploration is needed to fully understand the emotional impact and broader context before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's understandable that feeling stuck and limited in your options can be really frustrating. You might be feeling overwhelmed because this unexpected hurdle is complicating your plans. Could you share more about what joining the pre-pharmacy program means for you and your goals?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It's really important to me because it feels like the most direct path to my career goal. Pharmacy school is already a long process, so anything that speeds it up is a big deal. Plus, I feel like starting in chemistry just to switch later feels like a detour that might not even work out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concerns about their major and the obstacles they face with the pre-pharmacy program. They shared thoughts, feelings, and context regarding the stress and importance of this decision. Empathy and rapport are evident, and understanding of the client's goals is emerging, suggesting readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Choosing the right path to reach your career goals in pharmacy must feel crucial, especially if you value efficiency and a clear direction. How do you envision your life and career if you do manage to join the pre-pharmacy program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I'd definitely feel more at ease, knowing I'm on the quickest path to my goal. It would give me a sense of direction and purpose, rather than feeling like I'm just trying out different things. I think I'd feel more confident about my future too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Having a clear direction sounds incredibly important to you, and it seems like joining the pre-pharmacy program would bring you peace of mind. What steps do you think could help increase your confidence in moving towards this goal?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I guess talking to my advisor more could help, maybe they have some suggestions or ways around it that I haven't thought of. Also, looking into other schools that might accept transfer students into their pre-pharmacy programs could be an option. It might also help to network with current pharmacy students to understand their journeys and see if there are any insights they can share.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's values and discrepancies between their current path and desired goals. The client has expressed Change Talk by discussing steps like consulting advisors, researching other programs, and networking. A specific goal is mentioned, and the client's confidence seems to be growing, signaling readiness to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring options with your advisor and networking with current pharmacy students sound like great steps. You also mentioned the possibility of looking into transfer options at other schools. Based on your thoughts, which of these steps would you like to focus on first, and how do you see yourself taking the first action?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think talking to my advisor is the most practical first step. I'll try to set up a meeting with them soon to discuss my concerns and see if they have any advice or alternatives. After that, I can start reaching out to pharmacy students and maybe look into other schools if necessary.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Setting up a meeting with your advisor sounds like a proactive first step toward clarifying your options. It's great that you're considering reaching out to pharmacy students afterward, as they might provide valuable insights. How do you plan to approach this meeting with your advisor, and what would you like to achieve from it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I'll probably make a list of questions and concerns to bring up during the meeting, so I don't forget anything important. I want to understand why the pre-pharmacy program isn't an option for me and see if there are any loopholes or advice they can offer. Ideally, I'd come out of the meeting with a clearer plan or at least some new ideas to consider.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and an action plan to meet with their advisor and gather insights from pharmacy students. They've discussed potential barriers and strategies to overcome them, such as preparing questions for the advisor meeting. However, self-monitoring and further steps toward networking need refinement, and confidence in ability to change is still developing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a list of questions and concerns sounds like a thoughtful way to ensure you cover everything important in your meeting. Gaining clarity and exploring possible loopholes with your advisor could certainly help shape your next steps. As you prepare, what do you think might be some challenges you could face in this process, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think one challenge might be if the advisor doesn't have any new information or suggestions for me, which would be really disappointing. To address that, I could prepare by having a backup plan, like asking about resources for transferring or getting recommendations for pharmacy student networks. Also, I might have to manage my expectations and be ready to look at alternative paths if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear action plan to meet with their advisor, discuss specific concerns, and explore alternatives. They are prepared with questions and potential challenges have been anticipated with strategies. Confidence in moving forward is evident, showing readiness for termination of Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Therapist: Preparing for potential challenges shows a lot of foresight and resilience. Having a backup plan, like exploring transfer options and connecting with pharmacy networks, can provide additional pathways. Being open to alternative paths might keep you adaptable along your journey. Your readiness to manage expectations and remain flexible is remarkable. As you move forward, remember that each step is a part of your learning and growth. Feel free to reach out if you need more support or just someone to talk to. You've got this, and I'm here whenever you need.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I'll keep all this in mind and reach out if I need some more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan and coping strategies, such as meeting with their advisor and considering alternatives. The session concluded with support and encouragement, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Major Advice\nI thought this was a good place to ask for advice on this topic, so here we go. I'm headed into my second year of college at a state school in PA. I am currently in their english department and planned on going into education. I have since changed my mind and I am thinking of going into Pharmacy. However, the school won't let me do the pre-pharmacy program because it was \"Designed for freshman\". The Pre-Pharmacy program is accelerated and takes a few years off your degree. I told them I was only really interested in pre-pharmacy and they said the best they could do was switch me to chemistry and then I could apply to pharmacy school and hope to get in. Should I keep trying? Am I wrong to think I should be allowed into the program since I've been a student for two years?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

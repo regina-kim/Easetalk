@@ -1,0 +1,236 @@
+{
+  "id": "tejhs6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It’s nice to meet you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Nice to meet you too. I'm just really overwhelmed right now, trying to juggle being a mom and a student at the same time. It's like I can't find the balance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, trying to balance those big responsibilities. What has your experience been like trying to manage both roles?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's been chaotic, to say the least. I thought I could manage it, but the reality is I barely get any sleep, and finding time to study is almost impossible. It feels like I'm constantly drowning in responsibilities.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern and the context behind it, revealing feelings of overwhelm and indecision. There is an understanding of their situation, but empathy and rapport need further solidification. More exploration of thoughts and emotions is necessary before moving to guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Navigating through all those responsibilities does sound overwhelming. You feel like you're drowning because sleep is scarce and there's so little time left for studying. How have you managed to keep going despite these challenges?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I'm just taking it day by day. There's a lot of coffee involved and I'm really leaning on whatever support I can get from family and friends. It's like surviving, not really thriving, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared her overwhelming experience balancing motherhood and studies, revealing thoughts and emotions behind her struggle. Yet, the conversation hasn't fully explored her feelings about withdrawing from the semester or continuing. More exploration could strengthen understanding and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It seems like you're really relying on your support system and doing what you can to get through each day. You're surviving with the help of coffee and support from loved ones because thriving feels out of reach right now. What do you think would help you feel like you're thriving instead of just surviving?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think having more time for myself would be huge, even if that's just an extra hour of sleep or uninterrupted study time. Maybe figuring out a better schedule or routine could help too, but right now everything just feels like one big blur.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared significant details about her challenges, feelings of being overwhelmed, and her reliance on support systems. There is mutual understanding and empathy from the therapist. However, deeper exploration of the client's internal conflict regarding whether to withdraw from the semester is needed to fully understand her motivations and feelings about potential failure.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding more time for yourself and creating a better routine seems important to you. Right now, it all feels like a blur because there’s so little personal time and structure. What routines or moments have worked in the past to help you feel a bit more in control?",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Well, before the baby, I had a decent routine with my toddler, like nap times and scheduled study periods. It wasn’t perfect, but it gave me some sense of control. Now, it’s like all of that has been tossed out the window, and I’m struggling to find a new rhythm.",
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared her overwhelming experience of balancing motherhood and studies, expressed feelings of survival, and identified potential needs for improvement. However, her underlying conflict about whether to withdraw from classes remains unaddressed. Exploring her specific concerns and emotions related to this decision further is necessary before moving to Guidance.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(exploring): It must be tough to see that previous routine slip away, especially when it gave you some control. You had a routine with your toddler that brought some stability, and now it's challenging to establish a new one. What aspects of that old routine did you find most helpful or comforting?",
+      "phase": "exploring"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(exploring): I really relied on those nap times; they were like my sacred moments to catch up on study or just breathe a bit. Having a set time each day to focus on schoolwork or myself was comforting. Now, it feels like those moments are gone, and I miss that predictability.",
+      "phase": "exploring"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and emotions about her struggle, highlighting the lack of control and need for routine. Empathy and rapport have been established through understanding her need for balance. The client has also identified potential goals, like finding personal time and creating a new routine. The essence of her story is clear, moving from managing to thriving.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having those sacred moments for yourself, especially during nap times, seemed to be a real anchor for you. The predictability and the chance to focus were comforting and gave you some breathing space. Considering what you miss about that predictability, what small steps do you think you might take to bring some of those moments back into your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Honestly, I’m not sure where to start, but maybe trying to sync up nap times again could help. Even just getting the kids down at the same time might give me a window of quiet to regroup or study. It’s small, but I guess it could make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Finding a small window of quiet during synced nap times could indeed make a big difference for you. Even a brief period to regroup or focus on studies might bring back some of that predictability you found comforting. On a scale from 0 to 10, how confident do you feel about trying to sync those nap times again?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6. It's not going to be easy with the newborn's unpredictable schedule, but it's worth a shot. If I can get even a little bit of that quiet time back, it might help me feel more balanced.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering syncing nap times, a small step toward reestablishing predictability. A confidence level of 6 shows moderate belief in this step. However, the client is still exploring options and managing ambivalence about withdrawing from the semester. More exploration of specific action plans is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Your confidence at a 6 shows you see some potential in this idea, even though it might be challenging with a newborn's unpredictable schedule. You believe that getting back even a little of that quiet time could help restore some balance. What might help boost that confidence level a bit higher?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): Maybe having a backup plan or some flexibility when things don't go as planned could help. I think knowing that I have options or a way to adjust might make me feel more confident about trying to sync those naps. Plus, getting some tips from other parents who’ve been there could give me a boost too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a potential step to improve her routine, albeit with challenges. She rates her confidence as a 6, showing moderate belief in her ability to try syncing nap times. The conversation has explored both the current challenges and potential benefits of change, suggesting readiness to develop specific strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Having a backup plan and being flexible sounds like a solid approach, especially with young kids. Gathering tips from other parents who've navigated similar challenges might also provide valuable insights and reassurance. Based on what you've shared, you could aim to sync nap times, and also explore options like joining a local parenting group to exchange ideas. How does this plan feel to you, and what steps might you consider taking first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good starting point. I think I'd start by talking to some other parents I know to see what they've done in similar situations. Joining a parenting group could be helpful too, just to get some ideas and feel a bit more connected. Once I have some suggestions, I can try implementing them and see how syncing those nap times goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "It sounds like reaching out to other parents for suggestions and joining a parenting group could provide a supportive network and some new strategies, which might help you feel more connected and prepared. Starting with these conversations is a great first step. How will you plan to check in with yourself to see how these actions are working and make adjustments if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): I think I'll try to journal a bit each day, just to jot down what worked and what didn't with the nap timing and any new ideas I get from others. It doesn't have to be anything long, just enough to keep track and notice any patterns or improvements. That way, I can adjust things as I go and see what's actually helping.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan to sync nap times and seek support from other parents, including joining a parenting group. She plans to self-monitor through journaling to track progress and make adjustments. She shows commitment to the plan with a readiness to take steps and a mechanism to boost confidence. These indicate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Journaling daily sounds like a wonderful way to track your progress and insights. It gives you the chance to reflect on what’s working with nap timing and any new strategies you pick up, helping you notice patterns and make adjustments as needed. This thoughtful approach not only provides clarity but also allows you to celebrate small successes along the way.\n\nYour plan to reach out to other parents and consider joining a group sounds like it could offer both practical advice and a sense of community, which can be really encouraging. Remember, you're making thoughtful steps towards finding that balance you seek, and acknowledging your efforts is important.\n\nAs you begin this journey, know that you’re doing a great job navigating these changes. If you ever feel the need to revisit or tweak your strategies, I'll be here to support you. Keep trusting yourself and take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks! I'll give it a shot and see how it goes. It's nice to know I have some direction now, and I'll definitely reach out if I need more support.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to address their concern, including steps and coping strategies. The client feels more directed and supported, and the session naturally concludes with an invitation for further support if needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: To withdraw or to not withdraw from the semester..\nI just had my daughter 6 weeks ago. The week my classes started, I gave birth to my daughter. I thought i could handle taking 2 classes with a toddler &amp; newborn, but god was I totally wrong. I emailed my professors &amp; told them that I just gave birth &amp; they told me &amp; I can turn in my work whenever with no penalties. I’m so in between on if I should withdraw from this semester, or if I should continue with the classes. It’s just so fucking hard being a stay at home mom with a toddler &amp; newborn + being a college student. I feel like a failure if I withdraw and I hate it. Any other moms who just had a baby &amp; are still taking classes? How are you handling it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

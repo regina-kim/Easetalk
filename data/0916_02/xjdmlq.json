@@ -1,0 +1,194 @@
+{
+  "id": "xjdmlq",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It's great to have you here today. What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've just been feeling a bit overwhelmed with my parents' situation and how it affects me, especially since they're separated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging. You're feeling overwhelmed because the separation is impacting you in significant ways. Can you tell me more about how it's affecting you personally?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's just been really intense. Whenever they're around each other, there's this tension, and it makes me anxious. I just feel like I'm caught in the middle sometimes, and it’s exhausting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and anxious due to their parents' separation and tension, revealing the impact on them. The therapist has shown empathy and understanding. However, there's a need for further exploration of the client's feelings and thoughts to build a deeper rapport and understanding before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like being in the middle of their tension is really taking a toll on you. It's understandable to feel anxious and exhausted with everything that's happening. How have you been managing these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've been trying to keep myself busy with schoolwork and hanging out with friends to distract myself, but it's hard not to think about it. Talking to you helps a bit, too, just to get it off my chest.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's thoughts, feelings, and context regarding their parents' separation. The client has openly discussed their emotional state and coping mechanisms, indicating good rapport and understanding. The goals of the exploring phase seem to be met, allowing a move to strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It's great that you're finding ways to manage, like staying busy and reaching out for support. Talking can be a powerful way to process these emotions. Imagine if things were a bit different—how would you feel if this tension wasn't part of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I'd feel a lot more relaxed and able to focus on my own stuff without that weight hanging over me. It would be nice not to have that constant worry about them fighting when they're together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Visualizing a more relaxed life shows just how significant that weight has been. Feeling more at ease sounds like a wonderful goal. On a scale of 0 to 10, where do you feel your confidence is in moving towards that sense of relaxation, even with the situation as it is?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I guess I’d say I’m around a 4 or 5. It feels pretty tough right now, but I’m hoping with more time and talking things through, I can start to feel more confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing significant stress due to their parents' separation and has not yet expressed clear Change Talk or a specific change goal. Confidence is below 6, indicating the need for further exploration of motivations and potential strategies to increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Acknowledging that you're at a 4 or 5, it's clear you're already making some progress toward feeling more relaxed. What do you think might help boost your confidence by even just a small amount?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting some boundaries with my parents could help, like deciding when and how much I'm willing to engage with their issues. Also, just continuing to talk about it here might help me sort through my feelings and build up that confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed Change Talk by identifying a specific change goal: setting boundaries with parents and continuing therapy to build confidence. Confidence is at a 4 or 5, indicating some progress but not yet at a level for full readiness. Ambivalence remains as the client hopes for increased confidence. Guiding techniques like visualization and confidence rulers were used, but the client needs further support to strengthen their plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): Those are insightful ideas. Setting boundaries can be empowering, and continuing to talk here can definitely support you in processing your feelings. Reflecting on your values, how do they align with this vision of setting boundaries and taking care of your own well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I value peace and being able to focus on my goals, so I think setting boundaries aligns well with those. Taking care of myself feels important, even if it’s hard to step back from their issues sometimes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal (setting boundaries) and identified how it aligns with their values. Confidence is indicated at a 4 or 5, showing some progress. Change Talk is present, and ambivalence appears reduced with a focus on personal well-being. These indicators support readiness to begin developing specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It’s great to see you connecting your values of peace and self-care to setting boundaries—it shows your commitment to your well-being. To move forward, what specific steps could you take to set those boundaries with your parents? Maybe starting small could be more manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I might start by having a conversation with each of them separately, just to let them know how their arguments make me feel. Maybe I can also decide on certain topics or times that are off-limits for discussion, so I’m not always in the middle of things.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having those conversations with your parents sounds like a positive step toward setting boundaries. Discussing how you feel and setting limits on topics or times can help you create that much-needed space. What do you think could be some potential challenges in taking these steps, and how might you plan to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I worry that they might not take it well or could react defensively, which could make things awkward. To address that, I think I could write down what I want to say beforehand, so I stay focused and calm, and maybe talk to my therapist for more strategies on how to approach it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of setting boundaries with their parents and outlined specific steps, such as having conversations and setting limits. They have also considered potential challenges and strategies to address them, indicating readiness to proceed. The client exhibits commitment and confidence, suggesting readiness to move to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Writing down what you want to say beforehand is a thoughtful way to prepare for conversations that can feel challenging. It's understandable to be concerned about their reactions, and having a plan can help you feel more grounded. Consulting with your therapist for additional strategies sounds like a solid step to support you. You're focusing on your goals and exploring new strategies for self-care, which is truly commendable. Remember, each small step you take is a step towards more peace in your life. As you continue this journey, know that support is always here for you. Keep reaching out and keep taking care of yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely keep working on it and reach out when I need to.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation includes a summary of goals, coping strategies, and a next-step plan, indicating readiness for closure. The client has expressed gratitude and commitment to the process, suggesting a natural conclusion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I told my parents not to come to parents weekend because every time they’re together they fight and it’s too much stress (they’re separated). It’s making me sad that I couldn’t take it.\nAnyone else?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

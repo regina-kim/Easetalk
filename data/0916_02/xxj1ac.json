@@ -1,0 +1,152 @@
+{
+  "id": "xxj1ac",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I'm just feeling really overwhelmed trying to juggle work and school. I can't seem to find the energy to keep up with everything. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and school can indeed feel overwhelming. You're feeling drained because there's a lot on your plate right now. Can you tell me a bit more about your daily routine and what's been going on lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, basically, I work full-time, so that's four days a week, and then I have classes two days a week. On top of that, there's homework and an online class I have to keep up with. By the time I'm done with work or classes, I'm just too exhausted to do anything else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their thoughts and feelings about balancing work and school, providing detailed context about their daily routine and struggles. Empathy and rapport have been established, and the main concern is identified. It's appropriate to move to the Guiding phase to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be really tough to manage so many responsibilities without a break. What would life look like if you had more energy and balance between your commitments?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Honestly, I'd love to be able to come home and still have enough energy to do my homework without feeling completely drained. Maybe even have some time to relax and not feel like I'm constantly racing against the clock.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining having that energy and time for yourself sounds really appealing. What do you think might be different in your life if you started feeling less rushed and more in control?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I'd probably feel a whole lot less stressed and anxious. Maybe I'd actually enjoy my classes more and not dread them. I'd love to have some time for myself without feeling guilty about not doing work or school stuff.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of desired change, noting reduced stress and more control over their schedule. There's also been a decrease in ambivalence, with a focus on positive outcomes. However, specific goals and confidence levels haven't been explicitly discussed yet. The conversation should continue in Guiding to clarify a specific change goal and assess confidence levels.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Feeling less stressed and anxious while enjoying your classes sounds like a positive shift. What might be some small steps you could take to gradually move towards that sense of balance and control?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: I guess I could try setting up a little more structure with my time, like maybe dedicating specific hours just for homework or relaxation. Maybe even trying to get some schoolwork done during breaks at work, if possible. But it's just hard to not feel overwhelmed looking at the big picture.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by envisioning a less stressful life and identified potential steps to achieve it. They acknowledged the value of balance and energy. The client also set a specific goal to structure time better. Ambivalence has decreased, and readiness to address barriers is evident, suggesting readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Therapist(choosing): It sounds like creating a structured plan for your time might help reduce some of that overwhelm. Based on what you've shared, options could include setting specific hours for homework, relaxation, or utilizing work breaks for school tasks. What are your thoughts on trying one of these strategies, or is there another approach you might prefer?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client: I think trying to set specific hours for homework and relaxation could be helpful, but it's gonna be a challenge to actually stick to it. Utilizing work breaks for schoolwork sounds like a good idea too, but I worry I won't have enough time to really get into anything meaningful. It's just hard to know where to start without feeling like I'm gonna burn out even more.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Finding a starting point that feels manageable is key. Setting specific hours for homework and relaxation sounds like a promising step, and it’s okay to start small. Perhaps you could begin with dedicating just 15-30 minutes during a work break for quick tasks or reviewing notes to see how it feels. What do you think about trying this for a week and then we can discuss how it went?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client: Yeah, I can try that. Starting with small chunks sounds less intimidating. I'll give the 15-30 minute break thing a shot and see if it helps. It's worth a try, at least.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan of setting specific hours for homework and relaxation, with additional strategies like utilizing short work breaks. Barriers are acknowledged, and the client has agreed to self-monitor by trying the plan for a week. The client shows readiness with commitment and willingness to take steps. The goals of the Choosing phase appear to be met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That's a great approach! Starting small can make a big difference, and it shows your willingness to explore new strategies. By dedicating those short bursts of time, you might find it easier to manage your workload without adding extra stress. Remember, it's all about finding what works for you and adjusting as necessary. You're taking an important step towards finding balance. Let's catch up next time to see how this new routine felt and what adjustments you might want to make. You're doing a fantastic job navigating this journey, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the support. I'll try to see how this goes and hopefully, it makes things a bit easier. I'll let you know how it turns out next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has agreed to try a new strategy of dedicating short study periods during work breaks, and both parties have agreed to follow up on this progress in the next session. Termination goals have been met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College isn't conducive to those who work full time\nI work four days a week, which is full time in my state, and I go to college two days a week (two out of three of my days off). During the week, I still have homework to do, but I work all day and then come home absolutely exhausted. I have no motivation or energy to do said homework and usually wait until the day before to do everything. Taking three classes (a full time schedule) is what is needed to keep my financial aid, and while that's all well and good, I don't know how other people who work even more than I do can do this. I am at work for 8-9hrs each day, and at school for about 5.5hrs each of my two days, plus an online class. I have such a hard time doing school after work because I am so mentally checked out by that point that even getting myself to take a shower can be a struggle. And I have a hard time doing homework after I get home from school because I just spent all day at school. I'm just so over everything. I wanna go back to being five again.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

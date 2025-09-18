@@ -1,0 +1,194 @@
+{
+  "id": "sglgt5",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today? I'm here to listen and explore whatever you'd like to share.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I'm just really stressed about this econ class I'm taking. I'm worried I might actually fail it, and that thought is just eating away at me lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed with stress about your econ class and the fear of failing. Could you share what's been happening in the class that's leading to these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client (exploring): Well, the lectures are confusing even though the professor knows his stuff, and I leave class not understanding things any better. Plus, I've heard his exams are tricky, so I'm worried I won't do well on them.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively elicited the essence of the client's concern about possibly failing a class, including thoughts and feelings. Empathy is shown, but goals aren't yet mutually agreed upon, suggesting more exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "The lectures seem confusing despite your efforts to understand, which only adds to your worry about the exams being tricky. What strategies have you tried so far to get a better grasp on the material?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've tried reviewing my notes after class and looking up additional resources online, but it still feels like I'm missing something. I even thought about forming a study group, but I'm not sure if that'll help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their concerns about the econ class, including feelings of stress and fear of failing. Some context has been provided about their struggles with understanding lectures and their attempts to address the issue. However, deeper exploration of emotions and additional context may still be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like you're really putting in effort by reviewing notes and seeking extra resources, yet still feeling like there's a gap. Considering a study group shows you're open to trying new strategies. What are your thoughts on what might be missing or what a study group could offer?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I'm hoping a study group might give me different perspectives on the material and help fill in the gaps. Maybe talking things through with others could make things click better, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's concerns and feelings about the econ class have been thoroughly explored, including attempts to manage the situation and an openness to trying new strategies like a study group. The conversation has established rapport and mutual understanding of the client's situation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "A study group might indeed provide those fresh perspectives you're looking for and help the material resonate more. How do you feel about the idea of reaching out to classmates to form this group, and what impact do you think it might have on your understanding of the class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think reaching out to classmates could be a good move, but I'm a bit anxious about how it'll go. If it works out, it might really help me feel more confident and less stressed about the class.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Forming that study group seems like a promising step toward easing your stress and gaining confidence. On a scale from 0 to 10, how confident do you feel about reaching out to your classmates and starting this group?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6? I'm a bit nervous about it, but I know it's probably a good idea. I just need to get past that initial awkwardness of reaching out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a willingness to take action by considering forming a study group, and they have set a confidence level at 6. There is a reduction in stress with a potential solution discussed. However, further exploration of potential barriers and more specific planning for implementation is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your honest reflection of feeling a bit nervous yet recognizing the potential benefit shows courage and insight. What might help move your confidence from a 6 to, say, a 7 or 8 in reaching out to classmates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I had a plan or knew exactly what to say, I'd feel more confident. Also, reminding myself that they're probably in the same boat as me might help ease the nerves.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in Change Talk shown by their willingness to try a study group and has a confidence level at 6 about reaching out to classmates. They have identified a specific change goal of forming a study group and exploring ways to increase their confidence. These signs indicate readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "A plan and a reminder that your classmates might feel the same way could indeed boost your confidence. How about we work on a goal and action plan together? One approach could be drafting a message to send to your classmates. We could also think about ways to handle any initial awkwardness. What do you think of these options?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think drafting a message sounds like a solid idea. It would definitely help me feel more prepared. And maybe coming up with a few icebreaker topics or questions for the group could help with the awkwardness too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Drafting a message and preparing icebreaker topics sound like practical steps toward forming your study group. How about we set a goal to send the message within the next few days? For the icebreakers, you might consider asking about study techniques or favorite topics in class. What are your thoughts on these ideas, and how will you monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Sending the message in a few days sounds doable. I like the idea of using study techniques or favorite topics as icebreakers; it could get everyone sharing right away. I guess I could keep track of how many people respond and if they seem interested in joining. That'll help me know if we're heading in the right direction.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan to form a study group, has discussed potential barriers (awkwardness in reaching out), and has agreed on self-monitoring by tracking responses. This indicates readiness for commitment and taking steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It's great to hear that you're ready to take these steps. Drafting the message and using those icebreakers like study techniques or favorite topics should really set a positive tone. Tracking responses is a smart way to gauge interest and adjust as needed. Remember, it's perfectly normal to feel a bit anxious—acknowledging it is part of the process. You're showing a lot of initiative by planning this. Keep that momentum going, and know that every small step counts toward building your confidence and easing stress. As you move forward, feel free to revisit our conversations for support. You've got this, and I'll be here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that really helps to hear. I'll definitely keep all this in mind and try to stay positive. Appreciate your support—I'll keep you posted on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals, outlined coping strategies, and discussed a next-step plan with the client. The client expressed readiness and gratitude, indicating closure. The client's concern has been addressed comprehensively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Have you ever failed a class?\nThis semester I’m enrolled in an econ class that I might actually fail if I don’t do what I’m supposed to. From what I could tell with the first two classes, is that the professor is truly knowledgeable and knows what he’s talking about. The problem is that his lectures are kind of confusing, and when the class finishes, I feel like it doesn’t help me to better understand the material. I’ve also heard his exams can be tricky. I’m scared that I’ll fail this class, I wouldn’t be able to live with myself if I failed. How have you dealt with failing a class?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

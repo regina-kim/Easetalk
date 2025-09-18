@@ -1,0 +1,194 @@
+{
+  "id": "sss0p9",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've just been feeling pretty frustrated lately with some of my classes. It seems like I'm constantly running into unclear instructions from my professors and it's really stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, trying to navigate unclear instructions would be frustrating. What has this experience been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's been super confusing and kind of overwhelming, to be honest. I keep second-guessing myself and spending way too much time just trying to figure out what the professors actually want from us. It feels like I'm missing something or I'm just not getting it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed experiences and feelings regarding unclear instructions from professors, demonstrating openness and rapport. The therapist has empathized but not yet explored mutually agreed goals or next steps. Staying in the Exploring phase allows for further understanding of the client's context and establishing goals before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It makes sense that you're feeling overwhelmed and second-guessing yourself in this situation. It's tough when the expectations aren't clear, and it can feel like you're left in the dark. Can you tell me more about how this has been impacting your daily life or your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): It's been making me a lot more anxious about assignments, and I find myself procrastinating because I'm not sure how to approach them. Plus, it just takes a toll on my motivation when I'm constantly worried that I'm doing things wrong.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared specific examples and feelings regarding frustration with unclear instructions from professors, indicating understanding and empathy. However, further exploration of their thoughts on potential solutions, self-reflection, or their interactions with professors could provide additional context for their concerns.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like the uncertainty is really affecting your ability to stay motivated and focused, leading to anxiety and procrastination. This must be quite exhausting for you. How have you been managing these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): Honestly, not very well. I've mostly just been trying to power through it, but it's not really working. I sometimes talk to my friends about it, but they seem to be in the same boat or just as confused. So it doesn't really help much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their frustrations with vague instructions in classes, providing specific examples. They've expressed feelings of confusion, anxiety, and a lack of effective coping strategies. Empathy and rapport have been established, but mutually agreed goals or direction for the conversation have not yet emerged.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems like you've been trying to push through on your own, but it's been difficult to find a solution. Sharing with friends who are also struggling might feel validating, but it hasn't provided much clarity or relief. What other resources or strategies have you considered to help manage this confusion and stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(exploring): I've thought about maybe going to office hours more, but I'm worried I'll just end up feeling more confused if I don't ask the right questions. I haven't really tried talking directly to the professors about it yet, though. Maybe that could help?",
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns regarding unclear instructions from professors, its emotional impact, and ineffective current coping strategies. The client's feelings of confusion, anxiety, and frustration are clear, and they have begun to consider potential solutions. Exploration goals have been met, enabling a transition to guiding the client towards change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching out to professors could indeed offer some clarity, and it's great that you're considering this option. What do you think might make you feel more comfortable or prepared for those conversations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(exploring): I guess having a list of specific questions or examples of where I got confused might help. That way I can be more focused and hopefully get clearer answers. I'm just worried about coming off as annoying or like I'm complaining.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your idea of preparing specific questions and examples to discuss with your professors sounds like a thoughtful approach to gain clarity. It's understandable to worry about how you'll be perceived, but seeking clarity to improve your understanding shows commitment. How do you think addressing these concerns directly with your professors could make a difference in your experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(exploring): I think it could help me feel a bit more confident about what I'm doing. If I know exactly what's expected, it'll probably reduce a lot of the anxiety and make me procrastinate less. Plus, if professors see that I'm trying to understand better, maybe they'll be more willing to help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown signs of readiness by expressing Change Talk about reaching out to professors and preparing specific questions. They recognize the impact of unclear instructions on their anxiety and motivation, indicating a clear discrepancy between current behavior and desired outcomes. The client also acknowledged that addressing the issue directly with professors may improve their situation. This suggests readiness to move to developing specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It sounds like having clear expectations could really boost your confidence and ease some of your anxiety. Setting aside time to talk to your professors could be a valuable step. Based on what you've shared, options such as preparing your questions beforehand or scheduling regular office visits might help. What do you think about setting a goal to attend office hours at least once a week with your prepared questions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. I think setting a goal to go at least once a week could keep me on track and make it easier to address things as they come up. Preparing questions in advance should help me make the most of the time, too. I'll give it a shot and see how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a solid step forward. Setting a goal to attend office hours weekly with prepared questions can really help clear things up and reduce stress. Let's consider any challenges you might face, like finding the time or gathering specific questions, and how you might handle these barriers. How do you plan to keep track of your progress and adjust if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by setting reminders on my phone for when office hours are, and maybe keep a running list of questions in a note-taking app. If I notice I'm struggling to find time, I could try rearranging my schedule or cutting down on some other activities. Keeping track of what works and what doesn't might help me tweak things as I go along.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to attend office hours weekly with prepared questions, discussed potential barriers, and proposed a self-monitoring strategy. They expressed commitment and readiness to try this plan, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Planning to use reminders and a note-taking app is a great way to stay organized and consistent. Rearranging your schedule shows a proactive effort to prioritize these office hours, which can provide the clarity and confidence you're aiming for. Keeping track of what's effective and making adjustments as needed is a smart approach. You're setting up a system that can really support your goals.\n\nAs we close today, remember that your willingness to explore these strategies and make adjustments is a strong foundation for your progress. You're taking meaningful steps, and it's important to acknowledge that. If you encounter any challenges or need further support, feel free to reach out. Keep nurturing your commitment to understanding and growth, and take things one step at a time. You've got this, and I'm here cheering you on.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and encouragement. I'll try to keep this momentum going and reach out if I hit any roadblocks.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered the client's main concern about unclear instructions, explored potential solutions, and set a clear plan with office hours and prepared questions. The client acknowledged challenges and expressed readiness to apply strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Professor's instructions often unclear? What's the deal?\nI keep running into this issue where instructors will often give vague instructions on assignments and I'm not sure what to do about it. Do I just need to get better at navigating vague teachers? Or is this not supposed to be happening?\n\n___\n\n**Exhibit A:**\n\nFor example, I just got my grade back for a programming project in which I was apparently not allowed to edit certain parts of the code that was provided. I got docked quite a few points for this mistake so I double checked the grading rubric and there is no mention of any restrictions on editing the prewritten code. I scroll down to the very bottom and of course, hidden in the middle of an FAQ section, is the warning to not edit prewritten code. Yes, I should probably be reading every single word of every piece of instruction just in case, but isn't the FAQ generally optional reading? Why is there crucial grading criteria in an FAQ section and but nowhere to be found in the actual \"Grading Criteria\" section?\n\n___\n\n**Exhibit B:**\n\nAnother professor, this same quarter, docked me for not formatting the output of a program in exactly the right way. The rubric does mention that \"the output must be in the required format\" but it didn't specify what the format is. While I was working on this assignment, I read through the whole rubric a couple of times and couldn't find any other mention of a \"required format\". When I turned it in, I added a note on canvas that basically read: \"I wasn't sure what you meant by required format. Please let me know if there are any issues. I can send you the source code if you need to look at it for grading purposes\".\n\nShe graded the assignment with a very dismissive response saying simply \"Numerical output was not in the required format\". I had to ask her again about this \"required format\" and she  responds with \"There was a sample line of code provided in the PDF file\". I look back at the instruction PDF and there is an example piece of code much later in the assignment that states \"you ***may*** use fprintf() to output a ***desired*** format\" but the wording does not suggest in any way that this ***is*** the ***required*** format above. The wording makes it seem like a completely unrelated suggestion or helpful tip rather than a strict requirement, especially since it appears many paragraphs after any mention of a ***required*** format.\n\n___\n\nAm I losing it? If this is happening in multiple classes in the same quarter then it must be me right? But I feel like there are *definitely* some huge communication issues going on. I'm not really sure what to think. Hopefully this post doesn't come off too ranty. I'm just not sure what to do. Why does this keep happening? Is interpreting vague instruction just a skill I need to develop? Or should I be talking to my teachers about this?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,194 @@
+{
+  "id": "sml4oj",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I guess I'm just feeling really overwhelmed with everything right now. Balancing school, sports, and work is just getting impossible.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing so many responsibilities can definitely feel overwhelming. What has been the most challenging part for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's the lack of sleep that's really getting to me. I just can't seem to catch up on rest, and it's making everything else feel so much harder.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about balancing responsibilities and lack of sleep, along with their feelings of stress and frustration. However, we have not yet fully explored the context or their emotional state, nor established mutually agreed goals. Continuing to explore will allow for a deeper understanding of their situation and feelings.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the lack of sleep is really impacting how you're handling all these responsibilities. What's been preventing you from getting the rest you need?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's a mix of things. My schedule is packed, and even when I have the chance to sleep, stress keeps me up. My mind just doesn't shut off, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's story, highlighting their struggles with balancing multiple responsibilities and the impact of sleep deprivation. The client has expressed thoughts and feelings, and there's a clear understanding of their primary concern. Empathy and rapport seem established, and mutually agreed goals are implied by the focus on addressing stress and sleep. The conversation is ready to transition towards strengthening motivation for change and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Balancing a packed schedule along with stress sounds really challenging. Imagine a routine where sleep comes easier and you feel more rested. How might that change things for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I'd have a lot more energy and focus for everything. It'd probably make handling my classes, practices, and work less overwhelming. Plus, I'd just feel better overall, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Feeling more rested sounds like it could make a big difference in your energy and focus. What are some small steps you believe could help you move toward that more restful routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting a consistent bedtime or finding some sort of bedtime routine to help me unwind. I’ve also heard that cutting down on screen time before bed might help, but haven’t tried it yet.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying potential steps towards a more restful routine and recognized the positive impact of improved sleep. However, there is no specific change goal or next step with details yet. Although some ambivalence is present, confidence hasn't been explicitly measured. Continuing to explore these ideas could better prepare the client for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring different ways to unwind before bed sounds promising. On a scale from 0 to 10, how confident are you about trying these changes, like setting a consistent bedtime or reducing screen time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 or 7? It feels tough to commit to a strict bedtime with my schedule, but I'm definitely willing to give it a shot and see if it helps.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying potential steps like setting a consistent bedtime and reducing screen time. The client is moderately confident (6 or 7) in making these changes. The discrepancy between current behavior and desired outcomes has been explored, and there is a specific change goal to work towards. These guiding phase goals suggest readiness to move to planning specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Finding that willingness to try is a great step. Given your busy schedule, we could explore creating a flexible bedtime routine that adapts to your different commitments. Options might include setting a regular wind-down time each night or experimenting with activities that help you relax. What do you think would be most manageable for you to start with, and how could we plan for any obstacles you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, a flexible routine seems like a good idea. I could start by setting aside 30 minutes before bed to just chill, maybe read or listen to calming music, instead of scrolling on my phone. I guess the biggest obstacle might be those nights when I have late practices or assignments, but maybe I can just adjust the wind-down time on those days.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a flexible routine that adapts to your needs sounds like a thoughtful approach. Committing to those 30 minutes of calming activities is a wonderful start. On nights with late practices or assignments, adjusting your wind-down time shows great adaptability. How would you like to track your progress and stay motivated as you try this new routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could keep a journal or use an app to log my sleep and how I feel each day. Seeing any improvements might keep me motivated. Plus, it'd help me notice any patterns or things that really help me unwind.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of establishing a flexible bedtime routine and a concrete plan to set aside 30 minutes for unwinding activities. They have discussed obstacles and agreed to self-monitor through journaling or an app. The client shows commitment and action-taking steps, but confidence is moderate. Staying in the Choosing phase can solidify the plan and boost confidence before moving to termination.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Tracking your progress through a journal or an app sounds like an excellent way to stay motivated and aware. Noticing patterns or activities that help you unwind can be very insightful. Would you like to set a specific goal for how many nights a week you'd like to follow your new routine, and how often you'd like to review your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds helpful. Maybe start with aiming for four nights a week? Then, I could check in on my progress every weekend to see how things are going and if I'm noticing any changes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and concrete action plan with a flexible bedtime routine. Barriers like late practices or assignments have been discussed, and a self-monitoring method through journaling or an app is set. The client has shown readiness through commitment and planning to track progress and set specific weekly goals, demonstrating confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Setting a goal of four nights a week for your new bedtime routine sounds like a realistic and encouraging plan. Checking in on your progress every weekend is a great way to reflect on your experiences and make any needed adjustments. It's wonderful to see your proactive approach to enhancing your rest and well-being, even with a busy schedule. Remember, every small step you take is progress. If you find any part of this challenging, or if you just want to talk through how it's going, I'm here to support you. You’ve got this, and I’m confident in your ability to make these positive changes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I'll definitely give it a try and see how it goes. I'll let you know if I run into any bumps along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully addressed the client's primary concern with a structured plan: setting a flexible bedtime routine, tracking progress, and setting achievable goals. The client feels supported and ready to try the plan, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice for busy full time students?\n\nI urgently would love tips that worked for you. Sleep tips/ study tips/common college programs for these/ etc..\nFull time student athlete who works here. I’m literally getting 4 hours of sleep avg. Been getting less recently.  Sometimes because of these there are labs that you can work on for straight 12 hours for 3 days and not be enough, and at times because I’m so stressed that I can’t fall asleep. Told few of my professors about this and their replies were to just manage my time well and “study ahead of time” like I’m not already studying here till 6am with my current classes. I totally would love to study ahead of time if humans didn’t need sleep and function well. Wish more professors cared sometimes. Professor who care thank you for understanding .\nSo any tips/advice would be greatly appreciated.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

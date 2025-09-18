@@ -1,0 +1,131 @@
+{
+  "id": "z2m99s",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm feeling really overwhelmed with the pressure of finishing my thesis while trying to juggle work. I'm starting to think it might be better for me to quit the thesis altogether, but I'm not sure if that's the right move.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and your thesis sounds incredibly challenging. You're feeling overwhelmed because of these pressures and are considering whether quitting might be a solution. Can you share more about what aspects are most difficult for you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's mainly the constant stress and lack of progress that's getting to me. I feel like I'm stuck in this endless loop of trying to write and revise, but never actually finishing anything. It's frustrating and really draining.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has adequately explored the client's concerns about balancing work and thesis, including emotional and contextual factors. Empathy and rapport appeared to be established. The client has articulated their struggle and potential goals. It's suitable to transition to Guiding to strengthen motivation for a decision.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "The stress and feeling stuck must be exhausting. You're working hard, yet seeing little progress is frustrating. As you consider your options, what would life look like if you continued with your thesis versus if you decided to step away from it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I continued, I'd probably keep feeling stressed and tired, juggling both things without much relief. But if I stepped away, I imagine having more energy and focus for my job, though I'd be concerned about regretting not having the degree later.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining life with more energy and focus for your job sounds appealing, yet there's a worry about future regret if you don't finish your degree. What are some values or goals that are most important to you right now, and how do these choices align with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Right now, my top priority is my well-being and being able to thrive in my job. I value feeling balanced and not constantly overwhelmed, but I also think about how having the degree might support my career long term. It's tough to weigh these against each other.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering quitting the thesis to focus on well-being, with a clear goal of prioritizing job performance. Discrepancy between current stress and values of balance and career aspirations has been explored. The client has not shown significant ambivalence in recent statements, indicating readiness to decide. Further exploration of strategies for potential barriers to quitting can be initiated.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Considering your priorities, maintaining well-being and thriving at work is crucial, and the degree may benefit your career long-term. Given these values, what specific steps could help you manage both your thesis and job more effectively, or possibly reevaluate your thesis timeline? Options might include setting smaller, achievable milestones for your thesis or discussing workload adjustments with your employer.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I could try breaking down my thesis into smaller goals to see if that helps, but honestly, every time I think about it, I feel anxious. I guess I could also talk to my employer about adjusting my workload, though I'm worried about coming across as unreliable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Breaking your thesis into smaller, manageable goals might reduce anxiety, and discussing workload adjustments could lighten your load. Your willingness to explore these options shows courage. How do you feel about starting with one of these steps, or is there another approach that feels more comfortable for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "I'm leaning towards talking to my employer about my workload first, even though it makes me nervous. I think getting that conversation out of the way might give me a clearer picture of what's feasible. Maybe their support will make tackling the thesis feel a bit more manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to manage their workload and thesis stress, including discussing workload adjustments with their employer. The client is leaning towards taking action, showing commitment and readiness. Barriers and potential solutions have been acknowledged, and the client seems confident in starting with this approach.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Taking the step to talk with your employer is a brave move, and it could indeed provide some valuable clarity and support. It's understandable to feel nervous, yet this conversation might open up possibilities for a more balanced approach to handling both your job and thesis. Remember, advocating for your well-being is an important part of thriving in both areas. Once you've had that discussion, you could then reassess your thesis goals with a fresh perspective. Trust that you're making thoughtful decisions, and it's okay to take things one step at a time. I'm here with you on this journey, ready to support whatever your next steps may be.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll try to have that conversation soon and see how it goes. Hopefully, it'll help clear things up a bit.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified next steps, including talking to their employer, and feels supported. There's a summary of goals and coping strategies, and a plan for reassessment. Thus, termination goals are sufficiently met to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Quitting my masters?\nThis will require some context but I am interested in people’s opinions. \n\nI was hired for my current job about a year ago. The expectation was I would finish my master’s in August and start my job in October. I did not end up completing my thesis by then, but I kept the same timeline with my job. My company was extremely understanding and left it up to me if i wanted to start full time, part time, or delay my start until I finished my thesis. I started part time in october and after a month have not made any more thesis progress. I really really want to give up on my thesis and just work full time.\n\nThe thesis has always caused an immense amount of stress for me and it only gets worse with time. At this point I have to think that the mental and physical (namely sleep) benefits of quitting my thesis far outweigh the benefits of completing my degree. Is this something I can bring up to my boss or do you think I should stay silent on this?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "wagv5q",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm just really stressed about my academics right now and feeling overwhelmed with everything going on. It's tough balancing my mental health and school, especially being in a new place.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Adjusting to a new environment while managing academics sounds really challenging. You're feeling stressed because everything feels overwhelming and it's hard to find that balance. What's been the most difficult part for you so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think the hardest part has been dealing with procrastination and not being able to focus. It's like I know what I have to do, but I just can't get myself to start, and then it all piles up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings, identified challenges, and provided context about academic stress and procrastination. However, empathy and rapport need further development, as well as mutually agreed goals. Continuing exploring will allow deeper understanding of the client's emotional state and context.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be really frustrating when procrastination makes it difficult to focus and tasks start feeling like they're piling up. You're facing this because it can be tough to find the motivation to begin when you're overwhelmed. Have you encountered anything similar in the past, or is this new for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I’ve struggled with procrastination before, but it feels way more intense now. Maybe it's just everything happening at once, but I haven't felt this stuck before.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their core concerns about academic stress, procrastination, and adjustment challenges. The therapist has shown empathy and explored past experiences, establishing rapport. While goals are not explicitly agreed upon, the client's struggle and emotional context are clear, suggesting readiness to address motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Finding yourself more stuck than before can be quite tough, especially with so much going on at once. How do you see your life changing if you were able to manage procrastination more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think if I could get a handle on procrastination, I'd feel way less stressed and probably more confident. It would be nice to finally be on top of my work instead of always feeling like I'm playing catch-up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking charge of procrastination might really boost your confidence and reduce stress. What might increase your confidence in making this change, let's say on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 4 or 5 right now. I know what I need to do, but actually doing it is the hard part.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a low confidence level (4 or 5) in managing procrastination, and while some Change Talk is present, specific change goals or next steps are not yet identified. Ambivalence persists, particularly in enacting change, and guiding techniques like confidence rulers have not effectively increased readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Therapist(guiding): It's understandable to feel that way, knowing what to do but finding it hard to take action. A 4 or 5 shows you're considering the change, which is a great start. What do you think could help move that number a little higher for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe having a solid plan or some small goals to start with might help. Also, having some accountability could push me to actually get things done. It's just hard to figure out where to begin.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to change and identified procrastination as a key issue impacting their stress and academic performance. Change talk is present, and a confidence level of 4-5 indicates some motivation for change. However, the client is seeking help to increase their confidence and develop specific plans, indicating that further guiding is necessary.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Thinking about small goals and accountability could really help in moving forward. Imagine starting with just one manageable task—how might that impact your motivation and confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Starting with something small seems like it would make things feel less overwhelming. If I could accomplish just one thing, it might give me a little boost to tackle more, you know? It’s like a stepping stone.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to change and has started to explore potential strategies like small goals and accountability. However, the confidence level is still at 4 or 5, indicating ambivalence. The client is considering change but hasn't committed to specific steps yet. Therefore, continuing in the Guiding phase will help further strengthen motivation and clarify next steps before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Taking that first step with a small task could indeed act as a stepping stone, giving you a sense of achievement. How do you feel this approach aligns with what you value most in your academic and personal life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "Client(guiding): I think it aligns well because I really value being able to learn and grow through my studies. If I can take small steps and see progress, it’ll feel like I’m actually moving forward and not just stuck in the same place. Plus, it would help me feel more connected to the goals I set for myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated the discrepancy between their current procrastination and their values of learning and progress. They've identified potential strategies like small goals and accountability, indicating a specific change goal. However, their confidence is at 4-5, below the threshold for moving forward. There's a clear need to reinforce confidence and reduce ambivalence further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Seeing progress through small steps aligns beautifully with your values of learning and growth. It sounds like feeling more connected to your goals could make a significant difference. What might be the first small step you'd consider taking to get started?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "Client(guiding): I think starting by organizing my study schedule for the week could be a good first step. It’s something tangible and doable, and it might help me feel more in control of my time. Plus, it’ll give me a clear path to follow instead of just winging it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown awareness of the discrepancy between their current situation and their values of learning and growth. They expressed readiness to take a specific small step towards change, indicating a decrease in ambivalence. Confidence is at a 4 or 5, suggesting room for further strengthening, but momentum and a clear starting point are present.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Organizing your study schedule sounds like a practical first step. It could indeed help you feel more in control and provide a clear path. How would you like to proceed with creating this schedule, and what kind of support or accountability would be helpful along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "Client: I guess I could start by setting aside some time this weekend to map out my week. Maybe breaking down tasks into smaller, specific goals for each day. It would be great if I could check in with someone, maybe a friend or a study buddy, to keep me accountable and motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Mapping out your week and breaking tasks into smaller, daily goals is a proactive approach. Checking in with a friend or study buddy for accountability could be really supportive. How does setting a regular time to connect with them sound, and would you like any other ideas to keep you motivated?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Client: Setting a regular time sounds like a solid plan. I think having that consistency will make a big difference. I'm open to any other ideas you might have for staying motivated, maybe some tips on how to keep my energy up and not get too bogged down.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving organizing their study schedule and has discussed accountability with a friend. They have demonstrated commitment by setting a regular check-in time. However, additional motivation strategies are still being sought, indicating the client may benefit from further planning and barrier discussion.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Maintaining consistency with regular check-ins is a strong foundation for staying motivated. Alongside this, some options could include setting small rewards for yourself after completing tasks or incorporating short breaks to recharge your energy. Which of these, or any other ideas, resonate with you to help maintain your momentum?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Client: I really like the idea of setting small rewards for myself after finishing tasks. It could be a fun way to stay motivated. Taking short breaks sounds good too, just to clear my head and come back refreshed. I think both could help me keep the momentum going without feeling too overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of organizing a study schedule and has a concrete plan to set aside time for it. Barriers such as motivation and accountability have been discussed, with strategies like regular check-ins, rewards, and breaks agreed upon for self-monitoring. The client demonstrates commitment and readiness to take steps, suggesting confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Incorporating small rewards and breaks into your routine sounds like a fantastic way to keep your energy up and stay motivated without feeling overwhelmed. Balancing work with these little incentives can indeed make a big difference. As you prepare to organize your study schedule, remember that each small accomplishment is a step forward in your journey. Your plan to connect with a friend or study buddy regularly for accountability is a great idea, and it sounds like you're setting yourself up for success with these strategies. Keep believing in your ability to move forward, and remember I’m here whenever you need support or want to share your progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks for all the support and suggestions; I really appreciate it. I'll give this a shot and see how it goes, and it's good to know you're here if I need to check in.",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, steps, and coping strategies, with a next-step plan discussed. The client expressed understanding and readiness to proceed, indicating termination goals were met naturally.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How bad is my situation?\nHello everyone,\n\nI am a 1st year master  student (will be 24 yo in 2 months). My 1st year is 60 credits and I only passed 18 credits (2 exams) due to various reasons : mental health, procrastination, being away from my family for the 1st time and in a country where I don't speak the language. How is\n\nI really don't want to quit because I like what I am studying. Has anyone been in the same situation as me? How bad is this? What should I do?\n\nThank you in advance",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

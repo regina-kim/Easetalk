@@ -1,0 +1,131 @@
+{
+  "id": "xaa9qk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I assist you today? Feel free to share what's on your mind. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've been feeling really overwhelmed with school lately and it's taking a toll on my mental health. I'm just not sure I'm in the right place right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and mental health can become challenging. You're feeling overwhelmed because there's a lot on your plate, and it sounds like you're questioning if this path is right for you. What aspects of school are weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it's mainly the pressure to succeed and keep up with everything. I feel like I'm constantly stressed and it's just not sustainable for me right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their thoughts and feelings about being overwhelmed with school, the pressure they feel, and their concerns about their future. They have also outlined a plan and received some support from family, indicating progress toward clarity and decision-making.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "The pressure to succeed can certainly feel overwhelming and unsustainable. I'm curious, if things were different and you felt more at ease, what might your experience in school look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think I'd be more engaged and actually enjoy learning again. I'd have the mental space to focus and maybe even participate more in classes without feeling so anxious all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining a more engaging and enjoyable school experience sounds refreshing. What would need to change to create more of that mental space you mentioned?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I would need to reduce the workload somehow, maybe take fewer classes or get extensions where possible. Also, having more time for self-care and addressing my mental health would really help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals and steps, such as withdrawing from school, working at a retirement home, and seeking mental health help. They have identified a discrepancy between their current stress and desired ease, and their confidence appears adequate. Change Talk is present and sustain talk has decreased, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking fewer classes and prioritizing self-care are great strategies to create more mental space. Considering these ideas, what specific step would you like to take first? Would you prefer to focus on adjusting your class load or explore self-care routines?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I think I’d like to start by adjusting my class load. If I can manage that, it'll give me more time to develop a self-care routine and work on my mental health without feeling overwhelmed by schoolwork.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Focusing on adjusting your class load sounds like a practical first step. How do you see yourself going about this? Would you consider speaking with your academic advisor about dropping a class or finding alternatives to lighten your workload?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): Yeah, talking to my academic advisor makes sense. I think exploring the possibility of dropping a class or even taking a temporary break might help. I just need to figure out what will really give me the breathing room I need.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, including adjusting their class load and exploring temporary work while addressing their mental health. They've discussed potential barriers, such as disappointing others, and have begun taking steps by requesting withdrawal forms and speaking to family. Confidence in their decision is evident through the support from family and their plan to seek mental health help. The client is ready to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Speaking with your academic advisor about these options seems like a thoughtful approach to finding some breathing room. It's important to explore what truly works best for your well-being. Remember, you're making these decisions to support yourself and create a more sustainable path forward. I'm really impressed by your insight and willingness to prioritize your mental health.\n\nAs you consider speaking with your advisor, perhaps think about what specific outcomes you'd like from that meeting. This could help you convey your needs more clearly. Also, keep in mind that strengthening your self-care routine will be an ongoing process, and it's great that you're already thinking about it.\n\nA good next step could be setting a time to talk with your advisor and preparing what you want to discuss. You're moving forward in a great direction, and I'm confident you'll find a balance that works for you. Remember, I'm here cheering you on and ready to support you whenever you need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll make sure to set up a meeting with my advisor soon and jot down what I need to discuss. It's comforting to know I have your support in this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has effectively discussed adjusting their class load and exploring self-care, with a plan to meet their academic advisor. Termination steps and coping strategies have been covered, aligning with their primary concern of balancing mental health and academics.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Will I be a failure for dropping out and working a minimum wage job?\nMy mental health has been really bad. I’m able to get a refund on tuition if I drop now. I’ve only been here three days (I’m in my second year) and I already am having mental breakdowns. My other option is to work at a retirement home, which honestly I don’t mind. I feel like it would relieve a load of pressure and stress off of me. \n\nBut I know I’d disappoint everyone in my life but honestly I’m used to that. Idk. I haven’t talked with my professors or anything. Idk anymore. I get so upset I feel sick. I really feel I’d be happier just going to a better school later while building my skills through some online stuff and books in my spare time (I’m in a tech program) and saving up for a course better suited for me when I’m ready and can take care of my health.\n\nIdk :(\n\nEdit : thank you all for the advice. \nI’ve made my plans. I’ve requested withdrawal forms. I talked to my mom and grandmother and they supported my decision, so I can live with them with low rent now. I plan to work and pay off my loans (they weren’t very much) the first year and then I plan to work for another year or two and save up for a school better suited for a program that I would be happier pursuing. I hope to seek mental health help too so I can function and gain life experience before going back. Thank you guys again. I read all replies and appreciate them all.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

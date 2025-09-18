@@ -1,0 +1,173 @@
+{
+  "id": "17103cd",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! Welcome to our session today. What would you like to talk about or explore? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Lately, I've been feeling really overwhelmed and exhausted, like I can't clear my head or find any motivation. I just want to figure out how to feel better and get back on track.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's tough to feel overwhelmed and exhausted, and it sounds like it's been weighing on you. What do you think might be contributing to these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's a mix of things like constant schoolwork, not having much of a social life, and just feeling stuck in a routine. It's like everything is piling up and I can't catch a break.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and exhausted, providing context around schoolwork, social life, and routine. There is a mutual understanding of the client's concerns, but more exploration is needed before moving to guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Dealing with constant schoolwork and a lack of social life can really make you feel stuck and overwhelmed. It seems like the routine is becoming exhausting for you. What aspects of your routine feel most challenging to manage right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's the never-ending cycle of assignments and studying. It feels like there's no time to breathe, and without friends around, it's hard to break the cycle and do something different.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of overwhelm and exhaustion, along with key contributing factors like constant schoolwork and lack of a social life. The therapist has shown empathy, and there is a mutual understanding of the client's challenge. However, the exact details of the client's thoughts and feelings could be further explored to deepen the understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "The ongoing cycle of assignments and studying sounds quite draining, especially without the support of friends to help break it up. It seems like you're longing for some balance and relief. How have you managed such situations in the past, if at all?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): In the past, I would try to take breaks and do things I enjoy, like watching a show or going for a walk, but lately, even those don't feel as refreshing. It's like I've forgotten how to reset.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been effectively elicited, revealing their feelings of burnout, lack of social life, and constant exhaustion, along with context on their attempts to manage it. Empathy and understanding are demonstrated, and key aspects of their experience are identified. These interactions suggest readiness to focus on motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking breaks and doing enjoyable activities used to help, but now they don't seem to offer the same relief. You're searching for a way to reset and recharge. When you think about feeling more balanced and energized, what does that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess feeling more balanced would mean having some energy and motivation to not just get through my tasks, but to actually enjoy parts of my day. It'd be nice to have some time to relax without feeling guilty or stressed about what I should be doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Enjoying parts of your day and having guilt-free relaxation sounds like it would bring a lot more balance and energy into your life. Imagine having that energy and motivation—what small changes do you think could start moving you toward that reality?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think setting some boundaries with my workload and maybe scheduling dedicated time to unwind could help. Also, trying to slowly reconnect with a hobby or finding new ways to socialize, even if it's virtual, might start making a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown Change Talk by identifying potential steps like setting workload boundaries and scheduling relaxation time. They expressed a vision of feeling balanced and energized. There's a clear change goal emerging, aligning with at least one specific next step. The discussion around feeling more balanced and energized shows a decrease in ambivalence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting boundaries with your workload and creating dedicated time to unwind sound like practical steps towards feeling more balanced. Reconnecting with a hobby and exploring virtual social opportunities could also provide a refreshing change. Based on what you've shared, we could consider creating an action plan that incorporates these ideas. Possible options might include setting specific times for study breaks, scheduling regular social check-ins, or designating weekly hobby time. What do you think about starting with one of these steps, or do you have another idea in mind for a first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Starting with setting specific times for study breaks sounds manageable. I think if I can get into the habit of actually stepping away for a bit, it might make other changes feel more doable too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Scheduling specific times for study breaks seems like a solid first step to gradually introduce more balance into your routine. It could be the foundation that helps other changes fall into place. How do you envision structuring these breaks? Would it be helpful to discuss how long they might be or what activities you could try during them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I think starting with short breaks after certain study intervals—like a 10-minute break every hour—could be manageable. During these breaks, I might try stretching, getting some fresh air, or maybe even listening to music to clear my mind a bit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of setting specific study break times and has outlined a concrete action plan for 10-minute breaks with activities like stretching or listening to music. Barriers and self-monitoring have been discussed, and the client shows readiness with ideas on how to implement changes.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Incorporating short breaks like a 10-minute pause every hour, while engaging in activities like stretching, getting some fresh air, or listening to music, sounds like a wonderful way to recharge and clear your mind. This routine can help you feel more refreshed and perhaps even make studying more effective. You've really thought this through, and it's great to see you taking proactive steps towards your well-being.\n\nTo support this plan, consider setting reminders or alarms to prompt these breaks, ensuring they become a regular part of your day. This could be a helpful nudge to maintain your new routine and prevent getting lost in the cycle of work. Remember, it's all about taking it one step at a time, and you're doing a fantastic job of that.\n\nAs you begin this new approach, know that it's perfectly okay to adjust as needed. I'll be here to support you on this journey, and we can explore any challenges or adjustments together. You're definitely on the right path, and I believe you'll find more balance and enjoyment along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll try setting alarms for the breaks and see how it goes. It's nice to know there's room to adjust if needed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully concluded with a clear action plan for study breaks, and the client expressed readiness to implement it. Next steps were discussed, providing closure and direction on coping strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help with Mental Health and Health Overall During College\nHi all! \n\nI am a junior and feel completely burnt out. I have no social life (literally only one friend who lives on the other side of the state and even then we haven't hung out in almost 2 years). I feel like my brain is full, kinda like brain fog, so I cannot focus on what I need to be focusing on. I have no energy. It doesn't matter how much I sleep, I never feel alright. I have no motivation to keep on going because of all of this. I want to do good, and I know I can do good, but I feel so weighed down in my mind that I can't. \n\nHow can I remedy this? How can I get a clearer mind and feel better so that I can do better?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

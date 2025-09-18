@@ -1,0 +1,152 @@
+{
+  "id": "u1q8an",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! Welcome. How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm okay, I guess. Just feeling really overwhelmed and stuck with everything going on at school.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "School can definitely be overwhelming at times. Tell me more about what’s been making you feel stuck.",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's mostly the environment, I think. I'm just not clicking with the people around me, and it's making everything feel so much harder to deal with.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to elicit the client's story, revealing feelings of being overwhelmed and dissatisfaction with their environment. However, more context on their thoughts and feelings about taking a year off and its implications is needed before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the social dynamics at school are adding to your stress. Feeling disconnected from those around you can really amplify the challenges you're facing. What's been your experience with this in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): It's kind of been a recurring thing for me. I've struggled to find my place in groups before, but I thought college would be different. It's just frustrating to feel like I don't belong.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the essence of the client's story, including their feelings of disconnection and frustration at school. The context behind the client's thoughts is clear, and empathy and rapport appear to be established. The client's concerns about taking a year off and working on personal development have been articulated, indicating readiness to explore motivation and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Navigating relationships in a new environment can indeed be frustrating. What changes do you think might help you feel more connected and comfortable in your college environment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Honestly, I feel like taking some time off might help. I just need a break to reset and focus on myself without all this pressure hanging over me. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking some time to reset sounds like it could be really rejuvenating for you. How do you envision your college life changing if you were to take this break and focus on yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I imagine coming back feeling more refreshed and maybe with a clearer sense of what I really want. I also hope I’d be less stressed and more prepared to deal with the social stuff since I’d have had some time to grow and learn about myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of taking a year off. They have developed ideas about how this change could positively impact their mental health and motivation. Confidence in making this change appears implicit in the detailed vision of life with the change. While ambivalence remains regarding potential future impacts, substantial Change Talk has been present.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Imagining a break as a time for growth and self-discovery seems like a meaningful step. Considering this, what actions do you think you might take to plan this break effectively? Possible steps could include speaking with a counselor about academic options or exploring activities that help you reconnect with yourself. What feels right for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think talking to an academic advisor would be a good start, just to see how it would impact my studies. I'd also like to plan some travel and maybe look into courses or activities that focus on self-improvement, like workshops or learning a new language. ",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Exploring your options with an academic advisor sounds like a wise first step, and planning travel or engaging in self-improvement activities could be very fulfilling. What resources or strategies do you think you might use to explore these opportunities? Additionally, how would you like to monitor your progress and ensure this break remains beneficial for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I'll probably start by researching online for travel options and any language programs that interest me. Maybe I'll set some goals like visiting a certain number of places or having basic conversations in a new language. Keeping a journal might also help me track my progress and reflect on my experiences along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to take a year off and has developed a concrete action plan, including talking to an academic advisor and planning travel. Barriers such as academic impact have been considered, and self-monitoring through journaling is agreed upon. The client shows readiness through commitment to taking steps and confidence in the plan's benefits.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Journaling is a fantastic way to reflect and track your growth, and setting goals for travel and learning adds a sense of purpose to your break. Exploring online for resources can open up exciting possibilities for you. I'm confident that taking these steps will provide clarity and enrich your experience. As you move forward, remember that it's okay to adjust your plans based on how you're feeling. If you ever need extra support or want to share your journey, reaching out to your counselor or support network is always a good idea. You've got a solid plan in place, and it's inspiring to see your commitment to self-discovery. Take care and I look forward to hearing about your progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and I'll definitely keep that in mind. It feels good to have a plan and I'm hopeful this'll be a step in the right direction.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals, coping strategies, and next steps, providing closure and a forward-looking plan, making it natural to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: i want to take a year off of my second year in college\nI really regret not taking this year off but I'm passing it because I have a good grades, but i really want to take the next year off i want to travel around the world and work on myself, learn another languages , and most importantly work on my mental health, i also can't stand my classmates and my professors i hate every minute I'm spending it with those fu*kers, i just want to take a full year off, is that bad am i ruining my future",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

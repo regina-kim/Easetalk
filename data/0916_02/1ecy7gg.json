@@ -1,0 +1,131 @@
+{
+  "id": "1ecy7gg",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm glad you're here today. What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've been feeling pretty stressed about choosing a major and figuring out what I want to do, especially with all the pressure from my parents and financial stuff. It's just a lot to think about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be overwhelming to have so many big decisions on your shoulders while feeling such pressure from your parents and financial concerns. What aspects of this situation are weighing on you the most right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's mostly about not wanting to disappoint my parents but also wanting to do something I actually like. Plus, the whole money situation adds another layer of stress because I don't want to burden them financially.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their dilemma involving academic and parental pressures, financial constraints, and personal interests. The therapist has shown empathy and understanding of the client's situation. This sets a solid foundation, enabling the transition to the Guiding phase to explore motivations and begin evoking change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing your desires with your parents' expectations and financial concerns sounds challenging. What's important to you when thinking about your future career and the life you want to lead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I really just want to pursue something that I'll enjoy and that will keep me interested in the long run. I want to be financially stable, but also not regret my choices later on. It's about finding that balance, I guess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding a balance between passion and practicality is key. What would your life look like if you were doing something you truly enjoyed and found fulfilling?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I were doing something I truly enjoyed, I think I'd wake up excited for the day and not dread going to work. I'd feel proud of what I do and like I’m making a difference, even if it's just in small ways.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to pursue a field they are passionate about, highlighting discrepancy between their goals and parental expectations. They've envisioned a fulfilling future and acknowledged personal strengths in decision-making. While ambivalence persists, they demonstrate readiness for change with specific interest in engineering and a step towards resolving internal conflict.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Those are wonderful goals to aim for in your career. As you think about your next steps, what actions could you take to explore fields that might meet your interests and values? Perhaps considering internships or informational interviews might be a way to start. How do those options sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): Those sound like great ideas, actually. I've never really thought about doing internships or informational interviews, but they could give me a better sense of what different fields are really like. It might help me figure out if engineering or maybe something else is a good fit for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring internships and informational interviews can certainly provide valuable insights. How about setting a goal to research opportunities in fields like engineering or others that interest you? You could plan to reach out to a couple of professionals for interviews this month. What might be some challenges you anticipate, and how could you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I guess the main challenge would be finding people to reach out to and maybe feeling a bit nervous about doing interviews. I could start by asking around if anyone I know has connections or look online for professionals who are open to these kinds of conversations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of exploring careers through internships and informational interviews, with an action plan in place. They have identified potential barriers, such as finding contacts and interview anxiety, and have discussed strategies to address these. The client shows commitment and understanding of their plan, indicating readiness to move towards implementing it.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It’s great to hear that you're open to exploring these new avenues. Reaching out for connections and doing informational interviews is a proactive step toward clarity. Feeling nervous is completely normal, and it shows you care. Perhaps you could prepare some questions ahead of time to ease those nerves. \n\nYou've identified clear goals: researching opportunities and reaching out to professionals. As a coping strategy, leaning on your existing network or online platforms like LinkedIn could help you find people to connect with. \n\nYou're making thoughtful decisions about your future, and that's commendable. As your next step, maybe set a timeline for when you'd like to have reached out to a couple of potential contacts. Remember, I'm here to support you as you navigate this process. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll start by setting up a timeline and see how it goes. I'll try not to let my nerves get the best of me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals and steps for exploring careers, and the client identified coping strategies and potential challenges. A next-step plan was discussed, providing closure and setting future actions.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: how did you guys choose your major?\nso apparently, I finished my exams and got 84%. in my country, applying to universities depends on the mark you get. apparently I really don't know what should I do. I don't like med school so we leave this option behind. I'm interested in engineering, literally any engineering field but specifically rn I have mechatronics engineering in mind. my parents on the other hand don't really support my decision about engineering. universities are completely free, except for the private universities of course. my parents want to get me into a private university but tbh my family is not that financially stable and my parents already have plans of moving out of our apartment, get a house and a new car. I really don't want to trouble them with my uni fees especially that they've spent 7000$ on my tuitions and school stuff. my boyfriend is saying that this is an opportunity that I shouldn't miss but he doesn't get it, his family is rich and they plan on sending him to study medicine in another country so he doesn't understand why I feel so guilty. my mom said I should study English and since I'm already good at it I won't have much trouble. to me, I'm flexible, I don't mind studying anything but it's still a hard decision to make\n\nedit: I really didn't think anyone would notice this post but I need to thank you all. I read every single comment and they're all so helpful. the reason I don't have a major in my mind is because I'm good at any subject in hand and maybe, just maybe because my parents always decided everything on my behalf lol. My parents are against engineering is because they believe I'm a lazy one and won't be able to put up with how hard it is all because of my high school grades (apparently i have adhd and depression but im off meds which affected my grades). I know there's nothing like an easy major and that's what I've been trying to tell them but yeah. my mother only suggested studying English so I could be an English teacher. i mentioned that in my country we can apply to universities depending on our marks, the less you get the less options you have. also studying in another country or in another city in my country is not an option lol. again, thanks a lot for your help",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

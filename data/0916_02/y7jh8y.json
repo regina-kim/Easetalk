@@ -1,0 +1,173 @@
+{
+  "id": "y7jh8y",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling a bit worried about my college experience. I just don't think I'm getting as much out of my classes as I should be.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You're feeling concerned because you sense you're not fully benefiting from your classes. What aspects of your college experience are weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's just this feeling that I'm going through the motions without really absorbing anything. Like, I'm doing everything to get the grades but not much of it seems to stick with me long-term.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed concerns about their academic experience, identifying specific feelings about not retaining knowledge, which affects their future plans. The client has shared their thoughts and context, and rapport seems established. However, the discussion hasn't yet explored mutually agreed goals or deeper feelings. Thus, it’s best to continue in Exploring to ensure a comprehensive understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're putting in effort for your grades, but you're not experiencing the lasting understanding you'd hoped for. What do you think might help you feel more engaged or connected with your learning?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've thought about trying different study methods or maybe joining study groups, but I'm not sure where to start. I just want to feel like I'm really learning and not just memorizing stuff temporarily.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared concerns about their college experience, feeling disconnected from their learning. The counselor has successfully elicited the client's feelings and thoughts, and there's a clear understanding of the issue. Empathy and rapport are established, with the client considering potential solutions. It's appropriate to begin guiding the client towards strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Finding ways to make learning more meaningful for you seems important. Joining study groups or exploring new study techniques might feel like a good step. On a scale from 0 to 10, how confident do you feel about trying these new methods to enhance your engagement with your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I guess I'd say maybe a 5 or 6. I'm open to trying, but I'm also worried that it won't make much of a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Exploring these new methods shows your willingness to enhance your learning experience. What aspects of trying something new make you feel hopeful, and what concerns linger about whether it will be effective?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I feel hopeful because I want to find a way to make my learning more meaningful and not just for exams. But I'm concerned that I'll put in the effort and still feel like I'm not retaining anything, which might just add to my stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential strategies, but confidence remains moderate at 5 or 6. No specific change goal has been finalized and ambivalence about the effectiveness of new methods persists. Continued exploration can help address these concerns while solidifying motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Your desire to make learning more meaningful is really motivating. It’s understandable to be concerned that efforts might not bring the changes you hope for. How might aligning your learning methods with what you find genuinely interesting or valuable lessen the stress and increase retention?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think if I can connect the material to real-life situations or topics I'm passionate about, it might help me remember better. But sometimes it's hard to see the relevance, and I don't always have the time to dig deeper when I'm swamped with assignments.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for meaningful learning and identified potential strategies, indicating readiness for change. They've shown Change Talk regarding aligning study methods with interests and have a confidence level of 5-6. While concerns persist, there is enough motivation and a specific change goal to move to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It’s great that you’re thinking about tying your learning to real-life passions and interests. Considering your current workload, what small steps could you take to integrate some real-world connections, or perhaps prioritize assignments that relate more to your interests? Options might include setting aside brief periods to explore these connections or joining a project that aligns with your passions. How do these ideas resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Those sound like good options. Setting aside a little time to explore how what I'm learning applies to real life could be helpful. I just need to figure out how to manage it with my schedule so I don't get overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Balancing your schedule while making learning meaningful is a thoughtful approach. What small, manageable steps could you take to set aside time for exploring real-life applications? Maybe scheduling short, focused sessions or aligning a specific project with your interests could work. What are your thoughts on these ideas, or do you have other strategies in mind that might suit your needs?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of scheduling short, focused sessions. Maybe I can start by setting aside 15 minutes a day to connect what I'm learning to real-world situations. I think starting small will help me manage my time better and not feel too overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to make learning meaningful and has developed a concrete action plan to set aside time for this purpose. They have recognized potential barriers, such as managing time with assignments, and have agreed on self-monitoring through short sessions. The client expresses commitment and readiness to take steps, showing confidence in managing their change process.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Starting with short, focused sessions sounds like a practical and manageable plan. You've got a great strategy in mind by dedicating just 15 minutes a day to exploring real-world connections. This small step can make a big difference in making your studies feel more relevant and engaging. Remember, it's perfectly okay to start small. You're showing initiative and commitment, which will help you build momentum over time.\n\nAs you begin this process, if you ever feel stuck or need to adjust your approach, we can revisit and refine your strategies together. You're not alone in this, and support is always available. Keep nurturing your curiosity and let it guide you. I believe in your ability to create a learning experience that truly resonates with you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and your belief in me. I'll try to keep at it and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to explore real-world applications of their studies through scheduling short sessions, addressing their concern about meaningful learning. Support and next steps were discussed, providing closure for the current session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm a junior psychology major and I feel like I haven't really learned anything\nI started college in 2020, when COVID had us doing zoom classes. Since then I feel like I've done enough to turn in assignments and get good grades, but I feel like I haven't really retained anything from classes. I plan to go to grad school to become a therapist after I graduate. Is this normal? Does it get better?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

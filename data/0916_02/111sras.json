@@ -1,0 +1,152 @@
+{
+  "id": "111sras",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been feeling super overwhelmed lately with everything on my plate. I'm struggling to figure out how to fit everything in and keep myself from burning out. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really tough trying to balance everything and avoid burnout. What are some of the things that have been weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, I think it's the constant back-and-forth and never having a moment to just breathe. Between school, work, taking care of the animals, and everything else, it's like I'm always on the go.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and concerns about feeling overwhelmed have been elicited, including specific responsibilities and activities. There's an understanding of the client's context and a clear concern about time management. However, empathy and rapport need further development and no mutually agreed goals have been defined yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're juggling a lot of responsibilities, and it's leaving you without much time to catch your breath. How does it feel when you think about all these commitments you have?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It feels like there's this constant pressure, like I'm just barely keeping my head above water. It's overwhelming, and sometimes I worry that I might drop the ball on something important.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concerns and provided a detailed context about their commitments and feelings of being overwhelmed. The conversation has effectively elicited the client's story and emotions, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It's understandable to feel that way when you're handling so many things at once. What do you think life might look like if you found a bit more balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I imagine it would be way less stressful, and I'd have more time to relax and focus on stuff I enjoy. Maybe I'd actually feel more in control and not like I'm just reacting to everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding more balance could indeed lead to feeling more in control and less reactive. What small changes do you think might help you move towards that vision of having more time to relax and focus on what you enjoy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe cutting back on the hours I spend with my boyfriend or asking for more help around the house could help. I think even just setting aside specific times for studying and self-care might make a difference too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully explored the client's vision of a balanced life, and she has suggested specific changes such as cutting back on time with her boyfriend and setting times for studying and self-care. These are indications of readiness, as the client has articulated motivation and identified potential next steps toward change.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Considering those ideas, we could look at setting some specific goals to help you find more balance. Options could include prioritizing which activities to reduce, like the hours with your boyfriend or asking for more help at home. You could also schedule dedicated times for studying and self-care. What do you think would be a good first step to take?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Yeah, I think asking for more help around the house might be a good start. It's kind of hard to cut back on time with my boyfriend, but maybe we can plan more efficiently. Also, I should really try to stick to a schedule for studying and self-care.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It sounds like asking for help and planning your time more efficiently could really support you in managing your responsibilities better. How about we set a goal to talk with your housemates or family about dividing chores more evenly? Additionally, we could outline a study and self-care schedule that fits your routine. What do you foresee as potential challenges with these plans, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I think the biggest challenge might be feeling guilty about asking for help. I worry that people might think I'm not pulling my weight. As for the schedule, sticking to it might be tough with unexpected things popping up, but maybe flexibility can help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific goals (asking for help, planning time more efficiently) and acknowledged potential barriers (feeling guilty, unexpected events). They have also expressed potential strategies to address these challenges (flexibility in scheduling). This indicates readiness to advance as goals and planning have been established.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Those feelings of guilt about asking for help are really common, but it's important to remember that sharing responsibilities can be a healthy choice for everyone involved. Flexibility can definitely be key in keeping your schedule realistic and adaptable. Let's summarize our plan: you'll start by having a conversation to evenly divide chores, and work on a flexible study and self-care schedule. To support you, perhaps you could remind yourself that asking for help is a form of self-care and could make your relationships stronger. It's great that you're open to adapting your schedule when things pop up. Keep believing in yourself and taking these steps at your own pace. We'll touch base next session to see how things are progressing and adjust as needed. Remember, you're doing a great job by taking steps to make positive changes for yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks. I'll try to remind myself that asking for help doesn't mean I'm not doing enough. I'll do my best to stick to the plan and be flexible when things come up. See you next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session summarized goals, coping strategies, and a next-step plan, indicating readiness for a natural conclusion. The client is prepared to implement the discussed changes and revisit progress in the next session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Time management\nHello all! \n\nMy situation: \n-go to class Tues, Wed, Thursday all day. \n-days not at school working (20-25hr a week) \n-feed and maintain for 6 animals at home\n-am the main “cleaner” at my house\n-pick up and drop off my sister to school every week day\n-have a bf that I spend about 4-8 hrs a day with\n-need to meditate and journal daily to maintain sanity \n-need to study \n\nMy question:\nHow am I able to maintain something like this? Wat needs to be cut out?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

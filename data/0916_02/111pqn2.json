@@ -1,0 +1,173 @@
+{
+  "id": "111pqn2",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling kind of overwhelmed and tired. It's like every semester around this time, I just hit a wall and it gets really tough to keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really challenging when that wall hits, especially consistently each semester. What are some of the things that contribute to that feeling of being overwhelmed for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I guess it's just the constant studying and keeping up with assignments. It feels like there's always something due, and I start to lose motivation after a while.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and concerns about feeling overwhelmed each semester have been clearly elicited. The relevant context, including course load and feelings of burnout, has been discussed. Empathy and rapport appear to be established, with a shared understanding of the client's challenges. It is appropriate to start guiding to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing all those demands can definitely feel exhausting. Reflecting on your experience, what might life look like if you felt more motivated or had more energy during the semester?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think I'd be able to manage my time better and not feel so stressed out about deadlines. Maybe I'd even have some time to relax or do something fun without feeling guilty.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having more time to relax and enjoy activities sounds really meaningful. What impact do you think having that balance might have on your overall well-being and goals for the semester?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think it would make a huge difference. If I could find that balance, I might be able to keep my grades up without burning out, and feel more positive about school in general.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear discrepancy between their current state and desired semester experience. They expressed motivation for change, envisioning a balanced life with more relaxation and less stress. Change Talk is present, indicating readiness to explore specific actions. However, specific goals and confidence levels were not discussed, suggesting further guidance may be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding that balance seems like a significant step towards achieving your goals and maintaining your well-being. On a scale from 0 to 10, how confident do you feel about your ability to start making changes to find that balance this semester?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Maybe a 5 or 6? I'm kind of in the middle. I want to make changes, but I'm not sure where to start or if I have the energy to follow through.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a desire for change and identified the benefits of achieving better balance. However, their confidence level is moderate, indicating they may need further support to solidify commitment and readiness for change. There is a need for additional exploration of specific strategies and boosting confidence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Navigating this starting point can be challenging, but recognizing the desire to change is an important step. What small steps or changes might you consider that could increase your confidence level from a 5 or 6 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think maybe setting aside specific time to relax or do something I enjoy each week might help. Also, maybe trying to organize my study schedule better so I don’t feel like everything’s piling up all at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change, acknowledging the benefits of achieving balance, and has proposed potential steps, indicating emerging Change Talk. Confidence is moderate (5-6), suggesting readiness to develop concrete action plans. Existing ambivalence appears to be decreasing, indicating progression from exploring change to preparing for action.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a plan to set aside time for relaxation and organizing your study schedule sounds like a proactive approach. What specific steps could you take to start incorporating these changes into your routine this week? Perhaps we can explore some options together, like scheduling a regular break or using a planner to manage deadlines. How do those ideas resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Those ideas sound pretty helpful, actually. I think setting a regular break could give me something to look forward to and using a planner might keep me on track with deadlines. I just worry about sticking to it, you know?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Your openness to try setting regular breaks and using a planner is a positive step forward. Let's think about how you might start small, like picking one day this week to schedule a 30-minute break for something enjoyable. With the planner, maybe jotting down just the upcoming week’s deadlines could be a manageable start. What are your thoughts on these steps, and what could help you stick to them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Starting with a small step like a 30-minute break sounds doable, and just focusing on the week’s deadlines seems less overwhelming. I think reminders on my phone or even telling a friend about my plan might help me stay accountable and actually stick to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan involving regular breaks and a planner. Barriers like accountability have been discussed, with strategies proposed. The client expresses readiness through acceptance of action reflections, indicating a readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Therapist: Your strategies to start small and use reminders are thoughtful and practical. This approach can make your goal feel more attainable, and involving a friend for accountability adds a positive support system. Giving yourself permission to enjoy those breaks and focusing just on one week at a time can help build your confidence and energy. You've set a clear action plan: a 30-minute break and organizing weekly deadlines using a planner. Remember, every step you take counts and brings you closer to finding that balance. I'm here to support you, and we'll check in on how this goes in our next session. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and the plan feels realistic. I'll give it a shot and see how it goes this week.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session includes a summary of goals and coping strategies, a specific plan, and a supportive conclusion. The client acknowledges the plan as realistic and is prepared to try it, indicating readiness to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you deal with the mid semester blues. I’m finding it harder and harder to study and I notice at this point in every semester this happens and I have failed classes in the past because of this.\nI’m taking microbio, chem, stats, and college algebra. I have been keeping up really well and have good grades in all my classes, but I’m feeling really burnt out and don’t know how to reduce this.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

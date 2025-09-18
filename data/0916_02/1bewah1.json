@@ -1,0 +1,173 @@
+{
+  "id": "1bewah1",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been thinking about graduation and how I feel really awkward about wearing any of those honors items. It's weird 'cause I feel proud seeing others wear them, but not when it comes to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduation can bring up a lot of mixed emotions. You feel awkward about wearing honors items because it feels different when it's about you, even though you feel proud seeing others wear them. What do you think makes it feel different for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess part of it might be that I'm uncomfortable drawing attention to myself. It feels like I'm boasting or something, even though I know that's not really the case.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concern about feeling awkward and embarrassed about wearing graduation honors, despite feeling proud of others. The therapist has demonstrated understanding and built some rapport. However, more exploration is needed to fully understand the client's feelings and thoughts before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be tough to feel like you're drawing attention to yourself, especially if you're not used to it. You're uncomfortable wearing honors items because it feels like boasting, even though you logically know it isn’t. What do you think might help you feel more comfortable in this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I'm not entirely sure, but maybe if I shifted how I think about it, like seeing it as just a part of the ceremony instead of something that spotlights me. Or perhaps if I focus on celebrating with my family and friends, it wouldn't feel so much about just me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their mixed feelings about graduation regalia, highlighting discomfort with drawing attention to themselves. They have started considering cognitive shifts to manage their feelings. Still, more exploration is needed to fully understand and address these feelings before moving to the next phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Recognizing a different perspective can sometimes change how we feel about a situation. You're considering viewing the honors items as just part of the ceremony and focusing on celebrating with loved ones to ease that awkwardness. How do you feel about trying these approaches, and is there anything else you think might help?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think those approaches could definitely help. Focusing on the bigger picture, like celebrating the day with everyone who's supported me, might make it feel less like I'm in a spotlight. I might also try reminding myself it's okay to be recognized for my hard work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been well-explored, with an understanding of their feelings of discomfort with self-recognition and potential strategies for change. The conversation has established empathy and rapport, and mutual goals for addressing the concern have been discussed.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Acknowledging your achievements as part of the bigger picture and celebrating with those who've supported you seems like a meaningful way to look at it. Reminding yourself it's okay to be recognized for your hard work can be empowering, too. On a scale from 0 to 10, how confident do you feel about embracing these perspectives at your graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say I'm probably around a 6 or 7. I feel like I can work on it and be more comfortable by the time graduation comes around, but it still feels a bit awkward. There's definitely room for growth there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Being at a 6 or 7 shows there's a hopeful path forward. You're open to growth and change, which is a great start. What’s one small step you could take to boost your confidence level even higher before graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Maybe I could start by talking to my friends about it and see if anyone else feels the same way. Hearing their perspectives might make me feel less alone in this, and it could also help to practice wearing the regalia at home just to get used to it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows Change Talk and has identified specific steps to boost confidence. Confidence is at 6-7, indicating readiness. They've engaged with exploring perspectives and practical steps toward comfort with graduation regalia.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Talking to friends and practicing at home are practical steps. Connecting with others might offer some reassurance, and familiarizing yourself with the regalia could ease the discomfort. Based on what you've said, possible options for steps forward could be having conversations with your friends about their feelings or setting aside time each week to try on the regalia. How do you feel about setting those as goals, and is there anything else you'd like to add to your plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Those sound like solid goals. I'm definitely on board with chatting with friends and trying on the regalia to get more comfortable. I think I'll also try to attend any pre-graduation events, like rehearsals, to get more used to the whole vibe.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Attending pre-graduation events and rehearsals could indeed help you acclimate to the environment and reduce any nerves. It's wonderful that you're being proactive about this. So, here's a potential action plan: start by chatting with friends, practice wearing your regalia at home regularly, and attend any rehearsals or related events. How would you like to monitor your progress, and is there any support you might need along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Monitoring my progress could be as simple as keeping a journal about how I feel each time I try on the regalia or go to an event. I think just reflecting on those experiences might help me see any changes. As for support, maybe just having check-ins with you would be helpful to talk about how it's going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal with a concrete action plan involving conversations with friends, practicing wearing regalia, and attending rehearsals. They have discussed potential barriers and agreed on self-monitoring through journaling. The client expresses commitment to the plan and confidence in their ability to make changes.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Journaling your feelings and experiences sounds like a thoughtful way to track your progress. It can really highlight the changes you're making over time. And I'm so glad you're open to having regular check-ins for extra support—I'll be here to walk alongside you through this journey. Just remember, it's perfectly okay to be proud of your achievements and to share those moments with the people who care about you. Taking these steps, you're setting yourself up for a graduation experience that celebrates you and your hard work. Keep up the great efforts, and we'll touch base soon to see how things are unfolding.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, that all sounds like a solid plan. I'll start working on those steps and look forward to updating you on how it's going. Appreciate the support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with steps to take, including talking to friends, practicing with regalia, attending events, and journaling. Regular check-ins are agreed upon for support, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does anyone else not like the idea of graduation regalia for themselves?\nMaybe it's just me, but I don't see the point in spending money on a stole, cords, medallion, or a special tassel just to show off academic accomplishments. I feel embarrassed when they're pointed out, anyway, so I can't imagine willingly wearing that stuff to draw attention to myself.\n\nThe weird thing is, I only feel this way when it comes to myself. Seeing other people in their regalia makes me happy and proud of them, so why can't I feel that way for myself?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

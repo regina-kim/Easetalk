@@ -1,0 +1,152 @@
+{
+  "id": "10if09e",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to meet you. Is there anything specific on your mind you'd like to discuss today? I'm here to listen and support you in any way I can.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for meeting with me. I've just been feeling a bit stuck when it comes to making friends at my university. It's been tough adjusting, and I'm not sure how to break out of this rut.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really challenging to adjust to a new environment and form connections. You might feel stuck because adapting to university life and making new friends can sometimes feel overwhelming. What has your experience been like so far in trying to meet new people?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's been a bit frustrating, honestly. I haven't really clicked with anyone in my classes, and since I don't spend a lot of time on campus, there aren't many opportunities for me to meet people naturally.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their experiences and feelings about struggling to make friends at university, providing context and expressing the challenges they face. Empathy and understanding have been established, focusing on exploring their current situation. However, more exploration of specific feelings and details might benefit understanding their social awkwardness.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, especially when it feels like there aren't many chances to connect with others. You might feel this way because the limited time on campus makes it harder to naturally form connections. What activities or places do you usually find yourself spending time at when you're not on campus?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, when I'm not on campus, I'm mostly at home. I'm either doing schoolwork, hanging out with my family, or just relaxing on my own. I wish I had more places to go where I could meet people, but it's just not easy with my schedule right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's difficulties in making friends at university, including their feelings, experiences, and contextual obstacles. The goals of the Exploring phase have been met, providing a detailed understanding of the client's situation and challenges.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like your current schedule makes it challenging to find opportunities to meet new people. I'm curious, what do you think might change in your life if you were able to connect with more people at university?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I'd feel a lot less isolated if I had a few friends at university. It'd be nice to have someone to chat with about classes or just hang out with during the day, you know? Just having those connections would make everything feel a bit more balanced.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Feeling less isolated and having those connections at university could really add a sense of balance and support to your life. What might be some small steps or changes that could help you start to build those connections, even with your current schedule?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I've been thinking about trying to be more open in my lab class, like maybe starting small conversations with classmates. I could also try sitting in common areas during breaks to see if I naturally bump into people. It’s tough with time constraints, but small efforts might help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to address their goal of making friends, such as being more open in class and utilizing break times, showing readiness to plan actions. Change Talk is present, and they have reflected on life with improved connections. Although confidence wasn't explicitly measured, they show proactivity. Further clarification of steps and confidence can occur in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Those sound like great small steps towards building connections. You mentioned starting conversations in your lab class and spending time in common areas. Based on these ideas, we could explore options like setting a goal to initiate a conversation with at least one classmate each week or dedicating a specific break time to be in common areas. What do you think would be a realistic goal to start with, and how might you track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think trying to start a conversation with one classmate each week seems doable. Maybe I could just ask them about the lab or something casual. I'll keep track of how often I do it, and see if it leads to anything more. It’d be nice to have some progress to look back on.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That sounds like a solid and achievable plan. Initiating conversations about the lab or other casual topics can be a great way to start. You could note down each interaction to track your progress, which might help in motivating you as you see the connections forming. What strategies do you think might help you if you encounter any barriers, like feeling nervous or unsure about starting a conversation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I think if I feel nervous, I could remind myself that everyone else might be feeling the same way. Maybe preparing a few simple questions or comments about the lab beforehand could give me some confidence. I guess I just need to push through the initial awkwardness and not overthink it too much.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan to start conversations weekly with classmates, has considered self-monitoring by tracking interactions, and has discussed strategies for overcoming barriers like nervousness. There is commitment and confidence present, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Those are really insightful strategies to prepare yourself for those initial conversations. It's true that many people feel nervous, so you're not alone in that. Reminding yourself that others might be experiencing similar feelings can be comforting. Preparing a few questions or comments about the lab sounds like a practical approach, and it might ease the pressure you feel. Pushing through the initial awkwardness is often the key to more natural interactions. \n\nAs you work on this, remember to be patient with yourself and acknowledge each small success. You've set an achievable goal, and your willingness to step out of your comfort zone is truly commendable. As your next step, perhaps reflecting on those interactions weekly could help you notice patterns and progress. If you ever feel the need for more support or just a space to reflect, I'm here to help you along the way. Keep up the great work—you're moving in a positive direction!",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I really appreciate that. I'll definitely keep these tips in mind and try to be patient with myself. It's good to know I can reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes with a clear plan and coping strategies for the client's concern about making friends. The therapist has offered support and encouragement for future interactions, addressing potential barriers.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I make friends in a commuter university?\nI know I'm not the first person to ask this nor will I be the last, but I need advice. To be brief, I didn't really make new friends in my first two semesters of college (in-person) nor in my third semester (all online). I'm finally going back after a semester of taking classes at home, but only once a week for lab. I don't have time to join a club or go to school events, so that's not an option for making new friends. I don't plan on joining a fraternity nor do I intend on going to parties. I live somewhat far from campus, the city is big, and I don't drive nor do I want to spend money on Uber rides, so making plans (if I actually make new friends) would be hard. Basically, I want to see if I can make new friends in my lab class or whenever I get lunch, but I'm just socially awkward. It's not the same as making friends in K-12.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

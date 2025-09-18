@@ -1,0 +1,278 @@
+{
+  "id": "tjhrqe",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm alright, just been feeling a bit overwhelmed. I've been thinking a lot about whether staying in NYC for school is the right choice for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a lot to weigh on your mind. What's been contributing to this feeling of being overwhelmed about your decision to stay in NYC for school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it’s a mix of not feeling like I fit in here and being unsure if the school's the right fit. It's tough to figure out if the opportunities are worth the stress I'm feeling.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of his concerns about school and living in NYC, including emotional aspects and context. Rapport seems to have been built as the client feels comfortable sharing personal thoughts and feelings. Eliciting further exploration may not add new insights.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Deciding whether to stay can indeed feel overwhelming. If you imagine your life continuing here versus making a change, what do you notice about how each path aligns with your long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): When I think about staying, it feels like I might have better job opportunities in the future, but it also feels stressful and lonely. Going back to Connecticut seems more comfortable and familiar, but I'm not sure about the job prospects there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing those potential job opportunities with feelings of stress and loneliness is definitely challenging. What do you think might help you feel more at ease with the stress of staying, while considering the comfort and familiarity of Connecticut?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think if I could make more friends or find a community here, it might help with the loneliness. But it's hard to know if that would actually happen or just make things a bit better temporarily.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has explored the client's ambivalence and life with and without change, showing awareness of discrepancies between values and current situation. Change Talk is present, but no specific change goal or increased confidence is evident yet. Ambivalence remains noted by evaluating benefits and drawbacks of both options.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Building a sense of community can really make a difference. What are some ways you envision making connections here, and how might that impact your feelings about staying in NYC?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I could try joining some clubs or groups at school, maybe something related to my major, or explore interests outside of class. It might help feel more connected and less isolated, but I'm worried it might not be enough to change how I feel about living here.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing ambivalence about staying in NYC for school versus moving back to Connecticut. Change Talk is present with ideas about joining clubs to build community. However, there's no specific change goal or step decided yet, and uncertainty about making friends persists. Confidence is not clearly established. Further guiding is needed to solidify goals and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Finding those connections can indeed offer a sense of belonging. On a scale from 0 to 10, how confident do you feel about taking steps to join these groups or clubs, and what might increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 5. I kind of feel stuck between wanting to try and not really believing it'll make a big difference. I think having a friend to go with or some reassurance that I'd fit in would help boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between desires and current feelings, and has explored life scenarios with and without change. Change Talk is present, but the confidence level is 5, indicating ambivalence and a need for further exploration. Specific change goals are tentative and lack the necessary confidence for action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): Having a friend along or some reassurance sounds important for you. What small step could you take, even from a 5, that might help you feel a bit more comfortable in reaching out or attending a group?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by just going to one meeting of a club that sounds interesting, even if it’s just to check it out. If I find something I enjoy, it might make it easier to go back again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific concerns about staying in NYC versus moving to Connecticut, but still shows ambivalence and low confidence about taking steps toward change. Although some Change Talk is present, the confidence remains at 5, indicating uncertainty. Further exploration and strengthening of motivation are needed to increase readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Starting with just one meeting sounds like a flexible and manageable approach. How might taking that first step align with your goals of feeling more connected and seeing if NYC could be the right fit for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(exploring): Going to a meeting could help me see if there are people I can connect with, which might make staying here feel less lonely. If I find some common ground with others, it could make NYC feel more like home and align with my goal of sticking it out for the opportunities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence about staying in NYC but has identified a specific next step (attending a club meeting) that aligns with their goals. They have also articulated the impact of this step on their feelings about NYC. However, their confidence is rated at 5, indicating low readiness for action, and there is still significant ambivalence present. Thus, it is prudent to continue guiding to address these issues further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Exploring those connections sounds like it could really support your longer-term goals. It's great that you're open to seeing how this step might bring a sense of belonging. How does thinking about this potential shift in your experience of NYC resonate with you now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflective): It feels like it could be a step in the right direction, but there's still that uncertainty. I want to be hopeful that it might change things for the better, but it's hard to shake off the doubt.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is engaging in Change Talk, recognizing potential actions like joining clubs to address loneliness, but confidence remains low at 5. Discrepancy between current feelings and desired goals is explored, and ambivalence persists due to doubt. Specific change steps are emerging but not solidified. Continuing to strengthen motivation and confidence is necessary before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Doubt can be a challenging companion when navigating change. What aspects of giving this a try feel most hopeful or promising to you, even amidst the uncertainty?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflective): I guess the idea of possibly meeting people who share my interests and are going through similar experiences is reassuring. Just knowing there might be others who also feel a bit out of place could make it easier to connect and find some comfort in that shared understanding.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying a specific step to improve their situation: attending a club meeting to build connections. While confidence is currently at 5, the client has explored potential benefits and expressed hope. There is still ambivalence and uncertainty present, indicating the guiding phase should continue to further strengthen confidence and reduce sustain talk.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "therapist(guiding): Finding others who share your interests and experiences sounds like it could provide a real sense of comfort and belonging. It seems like there's genuine potential for connection there. What might you remind yourself of to keep this hopeful perspective in mind as you take that first step?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(considering): I think reminding myself that a lot of people probably feel out of place at first might help. Knowing I'm not alone in this and that others have likely found their people eventually could be encouraging when I try something new.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in Change Talk, identified a specific next step to attend a meeting, and has a confidence level of 5, indicating progress. Ambivalence is still present, but there's a hopeful perspective emerging. Given these markers of readiness, it's appropriate to move to the Choosing phase to solidify a plan and address remaining uncertainties.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Thinking that others have felt the same way and found their community is a reassuring reminder. As you plan your next steps, would you like to consider exploring a club that aligns with your interests or maybe practice reaching out to someone who might share this experience with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(considering): Yeah, I think looking into some clubs related to graphic design or art could be a good start. It might also help to reach out to classmates I've talked to a bit before and see if they want to check out the club with me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Exploring clubs related to graphic design or art sounds like a great way to find those shared interests. Reaching out to classmates to join you shows initiative and could make the experience more welcoming. What specific steps do you think you could take to start with this plan, and how might you handle any challenges that arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(considering): I guess I could start by checking out the list of clubs at my school and see which ones catch my eye. Maybe I'll email the club leaders to find out more about their meetings. If I get nervous, I'll remind myself that trying something new is part of the process, and it's okay to feel a little out of my comfort zone.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to explore clubs that align with their interests and to reach out to classmates, addressing social isolation. They acknowledge potential nervousness and have strategies to manage it, reflecting readiness for action. Their commitment and steps talk suggest movement beyond Choosing.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Checking the club list and emailing leaders sounds like a solid and proactive plan. It's wonderful to hear you're prepared to acknowledge those nerves as a natural part of stepping into new experiences. In moments of doubt, remembering that everyone starts somewhere can be comforting. Taking small steps like these can lead to meaningful connections. As you embark on this journey, keep reminding yourself of the potential for growth and community. You're taking important steps toward feeling more at home in NYC. Looking forward to hearing about all the connections and opportunities this path might open for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks! I really appreciate your support and encouragement. I'll keep you updated on how it goes and hopefully, I'll have some good stories to share next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has provided a summary of goals, steps, and coping strategies. A next-step plan was discussed, focusing on exploring clubs and reaching out to peers, aligning with the client's concern and offering closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Im unhappy with my college and its location, but is it worth leaving\nI’m currently a 18M freshman at Parsons The New School of Design in NYC as a Communication Design major (graphic design). This has been my dream school since I was 10 years old but unfortunately after being here for almost 2 semesters, I don’t like it. The classes aren’t as engaging/ geared towards my field of study as I hoped they would be. I find myself being forced to take a lot of useless classes when I could be taking more graphic design oriented courses. \nI’m from Connecticut and used to a suburban lifestyle. I enjoy having the option of driving my car places. I thought the New York lifestyle would be something new and exciting for me because it’s something i’ve always dreamed of, however I just don’t seem to fit in. It’s not enjoyable for me and im usually scared anywhere I go after dusk. It’s very hard to make friends here, and having that handicap has made it hard to venture out and enjoy the city. I feel very alone and isolated here. However, New York is an amazing place for opportunities, especially in the art field, and I’m wondering if i’m throwing away my dream/ chances at a good job by moving back to Connecticut to go to an art school there? I don’t know what jobs would be available for me in CT, and i’m worried i’ll fail and not make money if I move back there. Should I find a way to enjoy New York so I can continue going to school here, or should I move to somewhere I’m comfortable? Is New York really worth the job opportunities for graphic design artists?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

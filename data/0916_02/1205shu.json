@@ -1,0 +1,194 @@
+{
+  "id": "1205shu",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just a bit overwhelmed. I've been thinking a lot about which major to pick for college and it's stressing me out a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel overwhelmed when making such an important decision. What aspects of choosing a major are most on your mind right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, I'm really worried about picking something that won't pay off in the future. I want to make sure I choose a path that offers good job opportunities and aligns with my interests.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern regarding selecting a major and their worry about future job opportunities. However, more exploration is needed to fully understand their interests, values, and any other influences on their decision before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing future job opportunities with your interests can indeed be challenging. What are some of the majors you're considering, and how do they align with your interests and goals?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I'm looking at criminal justice, paralegal studies, and business management. I'm interested in law and how the system works, but I'm also drawn to the idea of managing a business someday. It's just hard to figure out which one would be the best fit for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about choosing a major, expressing specific interests and future job considerations. The therapist has shown empathy and understanding, and the client's relevant context and feelings have been elicited. However, mutual goals have not been clearly established yet, indicating more exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like you have a keen interest in both law and business, which can be exciting but also a bit challenging when deciding. What do you envision for yourself in the future, and how do these fields fit into that vision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I guess I see myself in a role where I can make a difference and have some stability. Law feels like it could be impactful, but business seems more flexible and versatile, so I'm torn between having a stable job and the chance to explore different opportunities.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about choosing a major, including thoughts, feelings, and relevant context. There is rapport, and mutual understanding of the client's dilemma. The therapist has a clear understanding of the client's interests and concerns, making it suitable to move toward strengthening motivation and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "There's a lot to consider, and it's great to hear how thoughtful you are about these choices. How do you picture your life if you pursued a career in law versus a path in business management?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "In law, I imagine being part of something that upholds justice, possibly working with legal cases or helping people navigate the legal system. With business management, I picture myself having the flexibility to work in various industries and maybe even starting my own business someday. Both paths have their appeal and challenges.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Both paths indeed offer unique opportunities. When you think about the kind of impact you want to make or the lifestyle you aspire to lead, which aspects resonate more with your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think the impact and sense of purpose that comes with law really resonate with me. At the same time, the freedom and creativity that business management offers seem to align with how I want my life to be more flexible. It's tough because I value both stability and the ability to explore different avenues.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed values and goals related to both law and business, showing some Change Talk. However, they remain ambivalent about which path to choose. Specific change goals or confidence levels have not been clearly established, indicating the need for further exploration and confidence building.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your values of impact and freedom are clearly important to you. How do you feel about the possibility of combining these elements in your career path, perhaps finding a way to pursue both interests over time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): That's an interesting thought. Maybe starting in one area and gradually incorporating the other could work. I hadn’t really considered that I might not need to choose just one path forever.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by reflecting on the possibility of integrating both interests over time. They are considering specific paths and how these align with their values. The conversation has effectively explored the discrepancy between their current indecision and the desired future. No confidence ruler was used, but the client shows readiness to explore combined solutions, indicating readiness to move to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Thinking about combining both paths sounds like a creative solution that could fulfill both your desire for impact and flexibility. How would you feel about setting a goal to explore ways to integrate these interests, like internships or dual-degree options, and what might be your first step in that direction?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): That sounds like a good idea. Maybe I should look into internships or talk to people in both fields to get a sense of what it's like. I could also see if there are any programs that let me explore both areas before making a final decision.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Exploring internships and speaking with professionals could offer valuable insights and help you make an informed decision. What steps do you think you might take first to gather this information, and how would you like to keep track of your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think starting with some online research to find internships and reaching out to people on LinkedIn might be good first steps. I could keep a journal or spreadsheet to track what I learn and who I speak to, so I can see which path feels like a better fit as I go along.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a goal to explore both law and business fields and created a concrete action plan including online research and networking through LinkedIn. They have also agreed on a self-monitoring strategy using a journal or spreadsheet. The client shows readiness by reflecting on steps and demonstrating commitment. The goals of the Choosing phase have been met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It’s wonderful to hear your proactive approach to exploring both law and business through research and networking. Starting with online research and reaching out on LinkedIn sounds like a solid plan to gather insights. Keeping a journal or spreadsheet to track your progress and findings is a great strategy for reflection and decision-making. You're setting a strong foundation for understanding which path aligns best with your values and goals. Remember, it's okay to take your time as you explore these options. Feel free to reach out anytime if you need support or want to discuss your discoveries. You've got this, and I believe in your ability to find a path that feels right for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your confidence in me. I'll definitely start exploring these options and see where it takes me.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan with actionable steps and coping strategies discussed, and the therapist has provided closure and support, making it natural to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on criminal justice or paralegal major?\nI just turned 20 and got my GED I'm applying to an online college (Eastern Gateway Community College) I'm stuck between getting an associate in criminal justice, paralegal, or business management. Anyone got advice or major in any of these? Thank you!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

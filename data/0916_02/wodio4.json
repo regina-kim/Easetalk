@@ -1,0 +1,236 @@
+{
+  "id": "wodio4",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and help explore anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've just been feeling really down about my college situation. It's like I put all this effort into my associate's, and now it feels like it barely counts.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be frustrating to feel like all your hard work for your associate's isn't being acknowledged as much as you'd hoped. Can you tell me more about what's been happening with your college situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's like I transferred my associate's degree expecting a clean transition, but the new school only accepted a small portion of my credits. It just feels like I've wasted so much time and energy.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed frustration and discouragement about their college credit transfer issues, with the relevant context of feeling that their effort was wasted. However, the therapist has only begun to explore these thoughts and feelings. Further exploration is needed to fully understand the client's story and establish rapport and mutually agreed goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds really disheartening, especially after putting in so much effort. You feel like this transition hasn't gone as smoothly as you anticipated because of the credit issue. How has this situation impacted how you feel about your future studies or career plans?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It's making me question if I even want to continue with my bachelor's. I'm worried about more setbacks and feeling like I'm starting over again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story about transferring credits and its emotional impact has been elicited. The client expressed frustration, disappointment, and doubt about continuing their education. Empathy and rapport have been established. Goals to explore how these feelings affect future studies could be mutually agreed upon next.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It seems like you're at a crossroads, and the thought of starting over is daunting. What do you think might need to change for you to feel more confident about continuing your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I guess I need assurance that my efforts will be recognized and not feel like I'm just going in circles. Maybe if I saw a clearer path to achieving my bachelor's without more roadblocks, I might feel better about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Having a clear path and feeling assured in your efforts can make a big difference in your motivation. On a scale from 0 to 10, how confident do you currently feel about navigating these challenges and working towards your bachelor's?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say around a 3. I just feel like every step forward might come with two steps back, and it's hard to stay positive.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses significant ambivalence and low confidence (rated 3) about continuing their studies, with a desire for clearer paths and recognition of efforts. While change talk is present, the client's confidence is low, indicating a need for further exploration and strengthening of motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain when facing setbacks. A 3 shows there's still a bit of belief in moving forward, despite the challenges. What might help shift your confidence from a 3 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe talking to an advisor who can really map out my options might help. Or hearing from students who have been through the same thing and made it work could be encouraging.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a need for assurance and identified potential steps (talking to an advisor, learning from peers). However, their confidence is low (3), and there's no specific change goal yet. Change talk is emerging but not strong. Continuing with guiding could further solidify motivation and clarity before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Reaching out for guidance and hearing success stories from others can truly provide reassurance. Connecting with an advisor or peers might help you see a more hopeful path forward. How does the idea of seeking support from others resonate with you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): It actually sounds like a good idea. I think hearing about other people's experiences and getting some advice could give me a better perspective and maybe even some hope.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some Change Talk by considering actions like speaking with an advisor and hearing from peers. However, their confidence is low, rated at a 3, and no specific change plan or goal has been established yet. Ambivalence remains, indicating the need for further exploration and support before moving to planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Seeking out others' experiences and advice can be a powerful way to gain perspective and hope. It's great to hear that you're open to exploring these options. What are some steps you might consider taking to connect with an advisor or reach out to students who've faced similar challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by emailing my academic advisor to set up an appointment and see if they can help map things out for me. Maybe I'll also join a student group or forum to connect with others who might have had similar experiences.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific next step by considering reaching out to an academic advisor and joining student groups. However, their confidence in navigating challenges is low at 3, indicating a need for further confidence-building and reduction of ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Connecting with your academic advisor and joining a student group or forum are proactive steps that could offer valuable insights and support. What are you hoping to gain from these interactions, and how might they help you feel more confident about your path forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "I'm hoping to get a clearer understanding of my options and maybe some encouragement from others who have been in the same boat. If I can see that there's a way forward and I'm not alone in this, it might help me build the confidence to keep going.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client identified specific steps to increase confidence, such as contacting an advisor and joining a student group. They expressed openness to seeking support and mentioned potential gains, such as encouragement and clarity, indicating readiness to develop action plans. The confidence level remains low, but there's a positive shift towards exploring change, suggesting a move to Choosing phase is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Working towards a clearer understanding and gaining encouragement from others are wonderful goals. To turn this into an action plan, you could start by scheduling that meeting with your advisor this week and researching student groups or forums you might join. How do you feel about taking these steps, and what might be some barriers you anticipate along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(guiding): I'm feeling pretty okay about taking those steps. The only barriers might be finding the time with my current schedule and maybe feeling a bit awkward reaching out to new people. But I figure it's worth a shot if it could help me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Finding time in a busy schedule and overcoming initial awkwardness are common challenges, and it's great that you're willing to give it a shot. Based on what you've shared, possible strategies might include setting aside a specific time slot each week for these activities or starting with smaller, low-pressure interactions. How do these options sound to you, and are there any other strategies you might consider to make this process easier?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Setting aside a specific time each week actually sounds pretty doable; maybe it’ll help me stay on track without feeling overwhelmed. Starting with smaller interactions feels less intimidating too. I'll try these out and see how it goes. ",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan and discussed potential barriers, agreeing to self-monitor. They've expressed commitment and willingness to take steps, with strategies to address challenges. Confidence and readiness for change are evident.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Setting aside dedicated time each week and starting with less intimidating interactions are excellent strategies for easing into this process. It shows your commitment to taking manageable steps toward your goals. As you explore these options, remember to be kind to yourself and celebrate small victories along the way. If you notice any other strategies that work well for you, don't hesitate to incorporate them. You've got this, and I'm here to support you as you move forward. Let's plan a follow-up to check in on your progress and discuss any new insights or adjustments you'd like to make.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Sure, that sounds good. I'll give these strategies a try and see how things unfold. A follow-up would definitely help keep me on track—thanks for your support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan, coping strategies, and a scheduled follow-up. Closure has been effectively reached, making it appropriate to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Transfered my Associates degree\nAnyone else transfer an Associates only to have the next school nitpick what credits they would take? Im feeling extremely discouraged that only 27 credits were accepted. Honestly don’t even want to bother starting my bachelors anymore",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

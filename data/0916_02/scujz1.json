@@ -1,0 +1,152 @@
+{
+  "id": "scujz1",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've just been feeling really anxious since I got this postdoc offer. It should be exciting, but I'm just feeling overwhelmed and kind of scared for some reason.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough having mixed emotions about something that's supposed to be exciting. You're feeling anxious and overwhelmed, possibly because this opportunity brings new challenges and changes in your life. What's been the most concerning part for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's mostly the fear of the unknown. Like, I'm stepping into a new environment with new expectations, and I keep worrying about whether I'm actually ready for it or if I'm going to mess up somehow.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and underlying feelings, and the therapist has acknowledged these emotions and context. However, more exploration is needed to fully understand the client's thoughts and goals before moving to the next phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Facing the unknown can indeed be daunting, especially when there are new expectations involved. It's understandable to worry about readiness and performance in a new role. What do you think might help you feel more prepared or confident about this next step?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I guess finding a way to trust in what I've already accomplished might help. Also, maybe talking to people who have been through something similar could give me some perspective and reassurance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and emotions have been clearly elicited, revealing anxiety about new challenges and the fear of the unknown. There is empathy and understanding, and the client has started identifying potential solutions, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Reflecting on your accomplishments and seeking advice from others who've faced similar transitions could really bolster your confidence. How do you envision your life if you manage to embrace this change, and what might it be like if you don't take this step?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): If I embrace it, I can see myself growing and learning a lot, maybe even finding a new level of fulfillment in my work. But if I don't, I might always wonder \"what if\" and feel stuck or regretful for not taking a chance on something I wanted for so long.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Embracing the change could indeed lead to growth and fulfillment, while not taking the step might leave you with lingering questions and regret. What aspects of your past achievements give you the confidence that you can handle this new challenge?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): When I look back, I've overcome a lot of hurdles to get where I am now, like completing my degree and navigating the whole application process. Those experiences showed me that I can handle tough situations, even when they seemed overwhelming at first.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by envisioning a positive future and recognizing past achievements that build confidence. The client's confidence in handling challenges is apparent with no ambivalence present. A specific goal of seeking advice from peers has been considered. These suggest readiness to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You've shown great resilience and capability by overcoming past hurdles, which suggests you have the strength to tackle this new challenge too. As we move towards making a plan, what are some steps you might consider to manage this transition smoothly? Options could include setting small goals, creating a support network, or finding stress management techniques.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(planning): Setting small, manageable goals sounds like a good idea to keep from getting overwhelmed. I think creating a support network would be really helpful too, like reaching out to friends, mentors, and maybe even connecting with others at the new place. And maybe I could explore some stress management techniques, like mindfulness or exercise, to keep my anxiety in check.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Those are all excellent strategies to help navigate this transition. Setting small goals can help make the process feel more manageable, while a support network can provide guidance and encouragement. Stress management techniques like mindfulness or exercise can definitely play a key role in keeping anxiety at bay. How do you feel about writing down these steps as an action plan, and what would be a realistic first step for you to take?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(planning): Writing down these steps sounds like a solid plan; it might help make everything feel more concrete and achievable. As a first step, I think reaching out to a couple of mentors or friends to talk about my feelings and get their insights would be a good start.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan with manageable steps, discussed potential barriers, and agreed to self-monitor through writing down steps. The client exhibits readiness through planning and commitment to taking initial steps, indicating confidence in managing the transition.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Reaching out to mentors or friends is a wise first step, providing that initial layer of support and perspective. You've got a strong foundation with your past achievements and a thoughtful approach to tackling this transition. Writing down your plan will indeed make it feel more tangible and set a clear path forward. Remember, you're not alone in this journey. The steps you're considering, like setting small goals, building a support network, and exploring stress management techniques, are all moves toward a positive change. Trust in your resilience and know that each step, no matter how small, brings you closer to embracing this exciting new chapter. Keep believing in yourself and remember, you can always reach out here if you need more support along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your guidance. I'll definitely start reaching out and putting my plan into action. I'll keep in mind that I can come back if I need more help.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively covered the client's concerns, explored coping strategies, and developed a next-step plan with clear, actionable steps. The client feels appreciated and has acknowledged readiness to move forward with their plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I just got the postdoc of my dreams so why am I panicking?\nPretty much the title. After several months of working on applications and convincing myself that I was not going to get any offers and this was the end of my academic career, last week I got my dream offer at my dream institution, the place I've wanted to go for years. So why am I terrified instead of excited? I thought this would mean I could finally breathe, but if anything my anxiety is worse. Does anyone else relate to this and if so, how did you address it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

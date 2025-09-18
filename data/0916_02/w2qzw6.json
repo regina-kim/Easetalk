@@ -1,0 +1,194 @@
+{
+  "id": "w2qzw6",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really unsure about my decision to pursue this non-clinical psychology PhD. I'm kind of overwhelmed and doubting if this was the right path for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It looks like you're facing some uncertainty and feeling overwhelmed about your PhD journey. What do you think is contributing to these feelings of doubt?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it's a mix of feeling like my passion for the subject is fading and not really knowing what kind of job I can get after all this. It's tough when the program isn't exactly what I expected either.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about their PhD journey, including feelings of doubt, fading passion, and unclear job prospects. The therapist has acknowledged these feelings, and there's a clear understanding of the client's context and emotions, establishing empathy and rapport. Mutually agreed goals for future exploration of these feelings could be beneficial.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're grappling with a shift in passion and some ambiguity about future job prospects. On a scale from 0 to 10, how confident do you feel about finding your way through this uncertainty?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Honestly, I'd say I'm at about a 4. I have some hope that things will get clearer, but right now, I just feel lost more often than not.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Recognizing that sense of feeling lost is important. What do you imagine life would be like if you had more clarity and passion, compared to how things are now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I had more clarity and passion, I think I'd feel a lot more motivated and excited about what I'm doing. It would be nice to wake up and actually look forward to my research, instead of dreading it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses significant ambivalence and low confidence about their path, indicating a need for further exploration of values and goals. Change Talk is present but not yet strong, and confidence is at 4, suggesting that more guidance is needed to clarify their direction and enhance motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Feeling motivated and excited about your research sounds really fulfilling. What aspects of this journey do you think could help reignite your passion or bring some clarity to your path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think maybe connecting more with mentors or people who are in the field might help. Also, just exploring different areas within psychology that I haven't considered yet might spark some interest.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering actions like connecting with mentors and exploring different psychology areas. However, their confidence is low at a 4, indicating ongoing ambivalence. While some elements of Guiding have been addressed, further exploration and confidence building are needed before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Building connections and exploring new areas within your field can indeed open up exciting possibilities. How do these ideas align with your core values and long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think they fit pretty well with my core values of learning and growth. I want to make sure that whatever I end up doing, it feels meaningful to me, and connecting with others could help guide me towards that.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential steps to explore new interests and connect with mentors, aligning with core values. However, confidence is still low (4/10) and no specific change goal is articulated. Ambivalence remains as doubts about the program persist. More focus on strengthening motivation and clarifying specific goals is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): Aligning your journey with your values of learning and growth is a powerful guide. How do you envision taking small steps toward these goals, while keeping these values in mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe starting with reaching out to one or two professors or professionals whose work I admire could be a good first step. I could also try sitting in on different lectures or seminars to get a feel for other areas in psychology. Just small, manageable steps to see what resonates with me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a clear change goal of reaching out to mentors and exploring new areas within psychology. They also aligned these actions with their core values and long-term goals. While confidence is currently low, the conversation has moved towards specific steps and reduced ambivalence, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Reaching out to professionals and attending different lectures sound like actionable and purposeful steps. As you think about taking these steps, what potential barriers might you anticipate, and how could you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client: I guess feeling intimidated or worried about not having enough experience to engage with these professionals could be a barrier. I might also feel overwhelmed with everything else going on. Maybe preparing some questions or topics in advance and setting small, specific goals could help me manage those feelings.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Preparing questions in advance and setting specific goals sounds like a great strategy to address those feelings. What specific steps do you feel ready to commit to this week to start engaging with professionals or exploring other areas in psychology?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client: I think I could start by identifying one or two professors whose work I find interesting and sending them an email to introduce myself and express my interest in their work. I'll also check out the schedule for any upcoming lectures or seminars and pick one to attend. Those seem like doable steps for this week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving reaching out to professors and attending lectures. Barriers like intimidation have been discussed, and strategies such as preparing questions and setting specific goals have been agreed upon. The client shows readiness by committing to specific actions this week, indicating commitment and confidence in their ability to progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful and manageable plan for the week, reaching out to professors and attending a lecture or seminar. It's wonderful to see you taking these proactive steps that align with your values of learning and growth. As you move forward, remember that it's okay to feel a bit unsure; these feelings are just part of the journey. I'm here to support you as you take these steps, and I'm confident in your ability to navigate these challenges with the strategies you've created. Let's touch base next time to reflect on how these steps have felt and what you've discovered along the way. Keep up the great work, and enjoy this exciting exploration phase!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support and encouragement. I'll give it a try and see how it goes, and I'll definitely share how it turns out next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and steps, addressed coping strategies, and set a clear next-step plan for the client, aligning with their values. Client shows readiness to implement strategies, indicating a natural point to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Job prospects for a non-clinical masters or PhD in psychology?\nOriginally I did not want to go to school for non-clinical degree but after much discussion with advisors i ended up in a non-clinical psychology phd.  I have regular doubts about if this was the right choice.  \n\nCurrently have almost completed the masters portion of my program.  \n\nIt honestly feels like the longer i am here the more I doubt my decision to come here.  I feel like I had a lot of passion prior to coming here that school has now squashed.  \n\nI was always encouraged to just pursue my area of interest and I think the general area of research i am interested in but it i feel like I was deceived about the nature of the program and the research I would be allowed to do.\n\nIts never been clear exactly what job prospects exist and anytime i talk to someone I get told wildly different things and I dont really know what to believe anymore.\n\nAnyways any thoughts are much appreciated.  Thank you for your time.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

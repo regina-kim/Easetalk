@@ -1,0 +1,173 @@
+{
+  "id": "v5ig2r",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, it's nice to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I guess I'm just really struggling with dealing with a rejection from grad school, and I'm not sure how to process it or what to do next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Facing rejection can be really tough, and it's understandable to feel unsure about what steps to take next. How has this experience been affecting you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, it's been weighing on me pretty heavily. I feel a bit lost and like I'm constantly questioning my decisions and capabilities.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has elicited the client's core concern and context, and the client has shared their thoughts and feelings about the rejection. There's a foundation of empathy and rapport, but mutually agreed goals have not clearly emerged yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's tough when something important doesn't work out as planned, and it's understandable that you might feel lost and uncertain about your path. Can you share more about what you've been questioning about your decisions and capabilities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I've been wondering if I should have done things differently during undergrad, like maybe focused more on research. I'm also doubting whether I'm even cut out for grad school if I couldn't get in this time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concern, thoughts, and feelings about the rejection from grad school, and how it impacts their daily life. There's a sense of rapport and empathy, but no mutually agreed goals for change talk have emerged yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "These thoughts of doubt can be really challenging to navigate, especially when you're reflecting on past decisions and future possibilities. It sounds like you're feeling uncertain about your path because of this recent rejection. Can you tell me more about what your initial goals were for pursuing grad school and how you envisioned your future?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I've always seen grad school as the next step in reaching my career goals, like a crucial part of the plan. I imagined it as a way to deepen my knowledge and specialize in my field, but now I'm not so sure about the path I should take.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's initial reaction to the rejection, their feelings, and the context of their doubts and future concerns. The client's goals and understanding of the situation are clear, showing a good rapport. There's enough information to begin discussing motivation and change strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Grad school seems to have been a key part of shaping your future career vision. Reflecting on this, what aspects of your career goals are most important to you, regardless of the path you take?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I really want to make an impact in my field and become an expert in my area, and also have opportunities for research and growth. Those are the things that motivate me the most, even if I'm unsure about how to get there right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Your drive to make an impact and become an expert is a strong motivator. Considering these goals, what do you think might be some steps or options that align with these aspirations, even if grad school isn't the current path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could look for work or internships that give me hands-on experience and allow me to build my skills. I could also explore other educational opportunities, like workshops or certifications, to keep learning and growing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for impact, expertise, and growth in their field and has started exploring alternative steps, showing readiness to consider changes. The client acknowledges the rejection's impact but is motivated to reapply, indicating openness to action. These signals of change talk and goal articulation suggest readiness to move to the Choosing phase for concrete planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring work opportunities and educational avenues seems like a constructive way to move forward. Considering these options, what specific steps would you like to focus on first? For instance, you might start by researching internships or listing potential workshops. What do you think might be a good initial step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think starting with researching internships makes the most sense. I can see what opportunities are out there that match my interests and would help me gain more experience. Then maybe I'll look into workshops that can build on my existing skills.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Researching internships sounds like a practical and focused step to take. As you begin this process, what resources or strategies do you think could help you find opportunities that align with your interests? Perhaps using career websites or networking with professionals in your field could be useful. What are your thoughts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think using career websites like LinkedIn or Indeed could be a good start to see what's available. Plus, reaching out to some of my professors or past classmates might help, since they could have connections or know of some openings.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of researching internships and has outlined an action plan utilizing career websites and networking. They have also shown readiness by expressing commitment to take steps and exploring additional educational opportunities. Barriers were discussed, and self-monitoring strategies were considered. The client appears ready to advance beyond the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It seems like you've outlined a well-rounded approach by utilizing career websites and leveraging your network for potential opportunities. These steps can really help you uncover meaningful internships that align with your goals. Remember, every bit of progress is a step toward your vision of becoming an expert and making an impact in your field. You’ve got a solid plan in place to start exploring internships, and that’s a great initial step. Keep in mind that these efforts can open doors to new learning experiences and professional growth. You're taking proactive steps, and that's truly commendable.\n\nAs you embark on this journey, know that support is available whenever you need it. Feel free to reach out to discuss any experiences or challenges you encounter along the way. You’re on a path that holds potential and promise, and your dedication is key. Looking forward to hearing about the opportunities you discover!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the support and encouragement. I’ll definitely keep you updated on how things go with the internships and any challenges I face.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored alternative paths, set specific actionable steps, and discussed coping strategies while expressing readiness to move forward. Termination goals are met, and the client feels supported and prepared.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Rejection from grad school\nHi thanks for taking the time to read this, I'll make it brief.\n\nI just graduated college and I applied to graduate school for that same program. Well, I was denied. This came as a complete shock to me, as I have never really been rejected from anything in life. Not to say I always get want I want, but whenever I set out to do something, I get it. So this was big.\n\nI emailed the MS program director as well as other professors in the program asking what I could do better. I got responses like \"it's competitive\" or \"a higher gpa is usually the case\" (even though I was above average) and things like people had more research experience in their undergrad. I want to apply again. I can't change my grades but I can change my resume, educational personal statement, my writing examples and my references.\n\nI am trying to keep an open mind but I feel defeated. I was applying for the fall now I need to wait until the spring semester and even then, I don't know if ill be accepted. I really have come at a crossroads in my life but I am taking it as an opportunity to learn. I feel pretty sad and rejected and unsure about the immediate future. I am going to gun for this though and try for spring.\n\nI want this so bad and I have told them this. Any advice?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

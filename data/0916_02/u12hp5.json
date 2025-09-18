@@ -1,0 +1,236 @@
+{
+  "id": "u12hp5",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Honestly, I'm just feeling really overwhelmed with my classes, especially physics. It's like no matter how much effort I put in, I just can't seem to get the grades I need, and it's stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really frustrating to put in so much effort and not see the results you're hoping for. What's been going on lately with your classes and physics that makes it particularly challenging?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's just been a tough semester. Physics is just a whole different beast compared to my other classes. I thought I'd be managing it better, but between the tricky assignments, the heavy workload, and the midterm that didn't go well, it's been a struggle to keep up. Plus, the professor's attitude isn't really helping either.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed detailed context, emotions, and specific concerns about their physics class, indicating a comprehensive understanding of their situation. The conversation has effectively built rapport and empathy, meeting the goals of the exploring phase, and is ready to move towards evoking change talk in the guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds like a lot to handle at once, especially with the added pressure of a challenging class and a tough midterm. What changes would you like to see in how you're managing your physics class, or even in the professor’s support, that could make things a bit easier for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I wish there was more guidance or feedback on assignments so I could know where I’m going wrong. It would be great if the professor could be a bit more understanding and supportive, maybe like adjusting deadlines or giving more time for tests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having more guidance and support from your professor could really make a difference in how manageable the class feels. How confident do you feel, on a scale from 0 to 10, about approaching your professor to discuss these needs?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 3 or 4. I'm not super confident about it because every time I've tried to bring up concerns, it seems like they just brush it off or don't really consider making changes. It's a bit intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed significant ambivalence and low confidence in approaching their professor for support, with no specific change goal achieved yet. The discrepancy between the client's current situation and their values/goals has been explored, but not fully resolved or translated into actionable steps. It's essential to strengthen motivation and explore more options before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Approaching your professor feels intimidating, especially when previous attempts haven’t led to changes. What might boost your confidence a bit more in having this conversation, or are there any small steps you believe could help you express your concerns more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Honestly, having a clear plan or maybe bringing some specific examples of where I'm struggling might help. Maybe even having a peer or someone from the academic advising office back me up could make it less daunting. Just knowing I have some support would probably make a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified the professor's support as a key issue. However, the client’s confidence is low (3-4), indicating unresolved ambivalence and uncertainty about next steps. The client's self-identified need for support and a clear plan suggests more guidance is needed before proceeding to specific action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having a clear plan and support from others could certainly help bolster your confidence. Bringing specific examples and possibly having a peer or advisor with you sounds like a thoughtful approach. What values or goals do you have that could guide this conversation with your professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I really value honesty and open communication, so I want to make sure I'm clear about what I need help with. My main goal is to do well enough in physics to build a solid foundation for my future classes since I want to be an engineer. I think expressing that this is about my long-term success and learning might make the conversation more productive.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a lack of confidence in approaching the professor, indicating a need for further guiding. They have identified values and goals, but confidence is low, and specific change steps are not fully developed. Sustained exploration of the professor's role and client support options is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Being honest and clear about your needs aligns well with your goal of building a strong foundation for your future as an engineer. Expressing that this is about your long-term success could indeed make the conversation more productive. How do you feel about framing your discussion with your professor around these values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I think framing it around my long-term goals and being transparent about what I need makes a lot of sense. It might help the professor see where I'm coming from and why it's important for me to get the support I need. I’m still a bit nervous, but focusing on my future might help keep the conversation on track.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and discussed specific steps they might take, such as forming a plan and seeking support. However, their confidence in approaching the professor is still quite low, at a 3 or 4. While values and goals were discussed, the client's strong ambivalence indicates the need for further exploration to increase confidence and reduce sustain talk.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Emphasizing your future goals can indeed provide clarity and purpose in your conversation. Being a bit nervous is natural, but keeping your focus on why the support matters for your journey as an engineer might help guide you. How does considering this perspective shift your confidence level in having this discussion?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): Thinking about it this way actually makes me feel a bit more confident, maybe bumping it up to a 5 or 6. It gives me a clearer sense of purpose and reminds me why I’m pushing for this conversation in the first place. It’s not just about the grade, but about setting myself up for success in future classes and my career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown Change Talk by recognizing the need to approach the professor and has considered specific strategies and support to do so. Discrepancy between goals (becoming an engineer) and current performance is clear. Confidence has increased to a 5 or 6, showing readiness to act despite ongoing ambivalence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "You've shifted your perspective, and it's boosting your confidence to a 5 or 6, which is a positive step forward. Now that you're clearer on your purpose, let's create an action plan. You mentioned having specific examples and possibly support from a peer or advisor. Based on what you said, options could include drafting a list of examples to share, contacting an advisor for support, or rehearsing the conversation with a friend. What do you feel most ready to start with, and how can we plan to overcome any potential barriers you might anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I think starting with drafting a list of specific examples where I've struggled would be a good first step. That way, I have something concrete to present. I'll also reach out to an advisor to see if they can offer any advice or even join me in the conversation if needed. As for potential barriers, I’m worried the professor might not be receptive. Maybe preparing some responses or solutions to likely pushbacks could be useful, so I feel ready to address any resistance.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "therapist(choosing): Crafting a list of specific examples is a great starting point, and reaching out to an advisor for support shows you're proactively preparing. Considering potential pushbacks and having responses ready can certainly help in navigating any resistance. Would it be helpful to jot down a few possible responses together, or is there another way you'd like to approach preparing for those reactions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): I think jotting down a few possible responses together could be really helpful. It’ll make me feel more prepared and less likely to get flustered if things don’t go as planned. Having a sort of \"cheat sheet\" of responses might keep me calm and focused during the conversation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving specific examples and reaching out for support. They have identified potential barriers and discussed strategies to overcome them, such as preparing responses to possible pushbacks. The client's confidence has increased, and there is a commitment to take steps. Progress has been made, but further reinforcement of the action plan is beneficial.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating a \"cheat sheet\" of responses sounds like a solid plan to help keep you calm and focused. Let's brainstorm a few possible responses together. How about we start with a potential pushback you might anticipate, and then we can think of a thoughtful response to address it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Sure, one pushback I anticipate is the professor saying something like, \"You should have understood the material by now if you want to succeed.\" Maybe I could respond with something like, \"I understand the importance of mastering the material, and that's why I'm reaching out for guidance on where I'm going wrong and how I can improve.\" What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan, including drafting examples and seeking advisor support. They've discussed potential barriers and planned responses, showing readiness to face challenges. The client exhibits confidence and commitment, especially in preparing for professor interactions. These elements suggest they've met Choosing phase goals.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "That response is both respectful and constructive, highlighting your commitment to improvement. Acknowledging the importance of mastering the material while expressing your willingness to learn creates a positive dialogue. This approach aligns well with your value of open communication. As we wrap up, it's clear you've set a strong foundation for your conversation with the professor, focusing on long-term success. Remember, taking these steps demonstrates dedication to your goals. The next step is to finalize your list and perhaps practice with a friend. You've got this, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I really appreciate your help. I'll work on finalizing my list and maybe run through it with a friend. Feeling a bit more equipped for this now. I'll let you know how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan and strategies for addressing potential challenges with their professor, demonstrating progress and readiness to undertake the next steps. The session has naturally reached closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Withdrawing vs. Failing Physics (Mechanics)\nThe grade scale is curved at my community college so that an 88%+ = A, 76%+ = B, 64%+ = C, and so on for the other two grades. I currently have a 63% in the class. I was almost on my way to reaching a B, but FAILED the mid term three weeks ago, along with more than have the class. This is the second time I almost reached a B, only to get dropped back down to a 62%.\n\nI want to be an engineer, but this class is the most draining I have ever taken and my first physics course. I put in many hours of the week into other classes such as General Chemistry I (5 credits) and Calculus II (4 credits) (both which I have borderline Cs in). I dedicate mostly to physics (5 credits).\n\nI’m sure to blame for the strenuous amount of work I attempted to do this semester, but I would like to (stereotypically) put some of it on the  professor. He assigns homework but no explanations are given when not answering the problems correctly, you lose points on your grade after a certain amount of attempts. Mid term was a disaster since we did not have enough time. He does not curve exams or quizzes.\n\nDrop date is April 15th. Advice? Should I just stick with it and try to pull through? I just feel lost and down on myself now. Professor was pretty demeaning other day when he said if we don’t get a B or A in this course, we will really struggle in the next physics class (electricity and magnetism).",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

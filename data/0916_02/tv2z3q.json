@@ -1,0 +1,173 @@
+{
+  "id": "tv2z3q",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, thanks. I've just been stressed about choosing a major. I thought I wanted to do computer science, but it was too difficult, and now I'm considering business administration. I've been worried if it's the right choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can certainly feel overwhelming. It seems you're feeling stressed because you want to make sure you're picking the right path. What are some things you enjoy about business administration, or maybe some concerns you have?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I like that it seems practical and could open up a lot of job opportunities. But, I've heard mixed things about it being too general or not as respected, and I'm worried about keeping a B- in every business course. I just want to make sure I'm not setting myself up for trouble later on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their stress about choosing a major and provided specific concerns and considerations. The therapist has begun to understand the client's thoughts and feelings, but further exploration of the client's motivations and values related to their choices could enhance rapport and goal alignment.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing the potential opportunities with some uncertainties can indeed feel challenging. You're drawn to business administration because it offers practicality and diverse career options, yet you're concerned about its reputation and maintaining your grades. What aspects of your past experiences or subjects have you enjoyed or excelled in that might align with business administration?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I've always enjoyed working with people and organizing things, like when I was involved in school events or group projects. I think I'm good at planning and coordinating, and I like the idea of understanding how businesses operate. But I'm just not sure if that's enough to succeed in this major.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concerns about choosing a major, specifically regarding computer science and business administration. The therapist has successfully elicited details about the client's experiences, interests, and concerns, demonstrating empathy and understanding. The conversation has revealed enough about the client's motivations and uncertainties to consider moving to the Guiding phase to explore motivation and evoke change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "You've got some great skills in organizing and working with people, which are valuable in business administration. Your interest in planning and understanding business operations aligns well with the field. How do you see these skills fitting into your future aspirations or career goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I guess I could see myself in a role where I manage projects or maybe even work in human resources since I like the idea of helping teams work better together. I just hope that choosing business administration will give me the foundation I need to pursue those kinds of roles, but I'm worried about whether it's respected enough to get me there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you're envisioning a future where your skills in project management and teamwork can really shine. Your interest in human resources and project management ties nicely with business administration. On a scale from 0 to 10, how confident do you feel about business administration helping you reach those career goals, and what might move you closer to a 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm around a 6 right now. I think if I had more reassurance about the major's reputation and maybe talked to some people who have successfully gone down this path, it might boost my confidence. I just want to be sure I'm making a decision that's going to benefit me in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client articulated specific career aspirations within business administration and expressed a moderate confidence level (6) about reaching these goals. However, they still seek reassurance about the major's reputation and career viability. While there is Change Talk present, the client needs more information to solidify their confidence and commitment. As such, further exploration of these uncertainties can strengthen their motivation before progressing to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring ways to gain more confidence in your decision is really insightful. Connecting with people who've had success in business administration could certainly provide reassurance. What steps do you think you could take to learn more about the experiences and outcomes of others in this field?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I could probably reach out to the career services at my university to see if they can connect me with alumni who majored in business administration. Maybe I could also look for online forums or LinkedIn groups where people share their career journeys. I think hearing real stories would help me get a better sense of what to expect.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of exploring business administration by reaching out to career services and online forums for more information. Change Talk is present, and the client's confidence is at 6, with ideas for increasing it. These indicators suggest readiness to move to the Choosing phase, where specific action plans can be developed.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Connecting with alumni and exploring online communities sounds like a solid plan to gain insights and reassurance. As you consider these steps, setting a goal might help you stay focused. Perhaps you could aim to connect with a certain number of alumni or read a few success stories each week. What do you think about setting up a small action plan, and what barriers might you anticipate along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Setting up an action plan sounds like a good idea. I could aim to reach out to maybe two or three alumni and read a couple of success stories each week. As for potential barriers, I guess time management could be an issue, fitting this in with my current classes and everything. Plus, there's always that little fear of reaching out to people I don't know, but I think I can manage that if it helps me feel more sure about my choice.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating an action plan with specific goals is a great approach to gaining confidence in your decision. Reaching out to two or three alumni and reading success stories weekly seems manageable. Considering your concerns about time management, maybe scheduling these activities for a specific time each week could help. As for reaching out to new people, it can be daunting, but remember, many are eager to share their experiences. How might you monitor your progress, and what support do you think could help you stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Monitoring my progress could be done by keeping a simple checklist or journal where I note down each person I contact and the stories I read. I think having some accountability from a friend or mentor could help keep me on track too. Maybe I could check in with someone weekly to share what I've learned and stay motivated to continue with the plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with specific goals and has considered potential barriers like time management and reaching out to new people. They have also agreed on self-monitoring through a checklist and seeking support from a friend or mentor for accountability. These elements indicate readiness for moving forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your idea of using a checklist or journal is an excellent way to visualize your progress and stay organized. Checking in with a friend or mentor for accountability is another great strategy to keep you motivated and provide support. It's fantastic that you're taking such proactive steps to ensure your decision benefits you in the long run. Remember, this process is about gathering information to make an informed choice that aligns with your goals. As you embark on this journey, know that it's perfectly okay to adjust your plan as needed. I'm here to support you and can offer guidance whenever you need it. Keep moving forward, and trust that you're taking meaningful steps toward clarity and confidence.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and the ideas you've given me. I'll definitely start working on this and see how it goes. If I need any more help or get stuck, I'll reach out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively addressed the client's concerns about choosing a major, outlined a concrete plan for gaining confidence, and provided coping strategies. With goals articulated and next steps clear, natural closure has been reached.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I Major in business administration ( B.A)\nHey everyone, \n\nI am a first-year student at a university and I am still not sure what major should I select I tried Computer science but it was way too hard for me, and of the other majors  Business administration stood out to me as something useful, but I have read on Reddit and other forums by some people that it is not very good of a major, I am thinking of doing a minor in French ( French is an official language here in Canada so this is something that is pretty useful to study here )  and Psychology ( minor ) to go with it? And also is Business administration something that is very hard? Because my degree required me to have B- in every business course I think. I appreciate your answers and am sorry for any typos or mistakes English is not my first language.\n\n&amp;#x200B;\n\nThanks.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

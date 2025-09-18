@@ -1,0 +1,131 @@
+{
+  "id": "11dku84",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay. Just been thinking about how I crushed my English midterm but then totally bombed my algebra one. It's like I'm meant for the arts, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling proud of your success in English but also a bit frustrated with how algebra went. What do you think makes English click for you more than algebra?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, words and stories just come naturally to me, like I can express myself and understand things better through them. Math feels like a foreign language that just doesn't stick.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts and feelings about their strengths in English and struggles with algebra, providing context for their academic journey and future aspirations. There is rapport and understanding of the client's perspective. The essence of the client's story is elicited, aligning with Exploring phase goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Feeling at ease with words and stories seems to bring you a lot of comfort and confidence. Imagine a future where math feels more approachable or enjoyable—what might that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Maybe if math felt more like solving a mystery or telling a story, I could get into it. Right now, it's all numbers and rules, and it just feels so rigid and unforgiving.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Creating a narrative or story around math could be an interesting way to connect with it differently. How does the idea of transforming math into a mystery or a story fit with the goals you have for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): That actually sounds kind of cool, like if I could see math as a puzzle rather than a chore. It might help me feel less intimidated and more willing to tackle it head-on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown interest in transforming their approach to math by viewing it as a puzzle or story, indicating a specific change goal. Confidence in tackling math appears to have increased, and ambivalence about math is decreasing. The client has positively reacted to summaries and ideas presented by the therapist, showing readiness to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Thinking of math as a puzzle could definitely make it feel more engaging for you. If you're open to it, we could set a goal to approach math this way. How about creating a specific plan to incorporate this storytelling technique, or perhaps find resources that teach math in a more narrative style? What steps might you take to put this idea into action?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): That sounds worth a shot! Maybe I can start by looking for videos or books where math problems are explained as stories or real-life scenarios. I could also ask around to see if any tutors or classmates have tips on viewing math this way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring resources that present math in a story-like format sounds like a great starting point. How does setting a goal to find one or two videos or books to begin with feel to you? Additionally, reaching out to classmates or tutors for their insights could expand your approach. What potential challenges do you foresee in implementing this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): Finding a couple of videos or books sounds manageable, and I’m curious to see if it changes my perspective. The challenge might be finding the right resources or making time amidst other assignments, but I think it's doable if I stay organized.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan to approach math differently. They have identified potential challenges and appear confident in their ability to implement the plan, expressing curiosity and commitment to finding resources. These elements suggest readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "therapist(closing): You're setting a solid plan by seeking out those narrative-style resources, and staying organized sounds like it will be key in juggling everything. Remember, this is a step towards making math feel more approachable and even enjoyable for you. It’s impressive how you're willing to try new methods to shift your perspective. If you ever feel overwhelmed, don't hesitate to find small breaks or moments to regroup. Keep in mind, reaching out to classmates or tutors for support can offer fresh insights and keep you on track. Let's touch base next time to see how it's going and celebrate any progress. You're taking positive steps, and that's something to feel good about.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll start looking into those resources soon and see how it goes. I'll definitely keep you posted on my progress next time we talk.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to seek narrative-style math resources and maintain organization. Next steps and coping strategies were outlined. The client expressed appreciation and readiness to proceed, indicating closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: The Duality of Man\nJust made a 117 on my English Composition II midterm.\n\nAlso made a 60 on my College Algebra midterm.\n\nThis is why I'm going into liberal arts...",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

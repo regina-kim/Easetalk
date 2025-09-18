@@ -1,0 +1,194 @@
+{
+  "id": "ru4apn",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. What's been going on with you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I've just been feeling really stuck and conflicted about my majors in college. It's like I'm torn between sticking with fashion design or switching to something else like comp sci, and it's stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a tough spot to be in, feeling pulled in different directions with your majors. What do you think is contributing to this feeling of being stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I think it's partly because I love fashion but I'm not getting what I hoped for from the program. Plus, the workload is intense and leaves me with little time for anything else, which is making me wonder if my efforts and money would be better spent elsewhere.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, underlying feelings, and context about their struggle with choosing a major. Empathy and understanding are evident. However, more exploration of feelings and motivations is needed before moving to strengthen motivation for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing your passion for fashion with the realities of the program and workload sounds really challenging. You might be wondering if there's more fulfillment or balance in a different direction, like comp sci. What are some aspects of each major that draw you or hold you back?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "For fashion, it's the creativity and the dream of starting something of my own that really draws me in, but the program's lack of connections and practical skills is frustrating. With comp sci, I'm drawn to the logical problem-solving and potential career opportunities, but I'm worried about leaving behind something I love.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their conflict, feelings, and context regarding their majors, expressing a need for advice and deeper exploration of motivations. There's strong rapport and understanding from the therapist, but the client hasn't yet expressed clear motivation for change or decision-making. Further exploring the client's values and priorities is needed before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "therapist(exploring): It sounds like you have a deep passion for fashion's creativity and the dream it holds, yet the program's limitations feel discouraging. On the other hand, comp sci's logical challenges and opportunities are appealing, but there's a fear of abandoning what you love. What experiences have you already had in either area that might help clarify your feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): I've done some fashion projects on my own which I really enjoyed and felt proud of, but I end up feeling pretty isolated since it's so time-consuming. With coding, I've just dabbled here and there, but I find it satisfying and it fits better with my schedule. It's just tough to know if I could be as passionate about it as I am about fashion.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their thoughts and feelings regarding their conflict between majors, revealing a deep understanding of the situation and emotional context. The conversation has explored the client's experiences with both fashion and computer science, along with the impact on their college experience and satisfaction. Empathy and rapport are evident, and mutually agreed goals have emerged, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "The projects you've completed in fashion brought you pride, despite the isolation, while coding offers a satisfying balance and fits your schedule better. Reflecting on these experiences, what do you think they'd say about where your heart and mind might align most closely?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, it's hard to say. My heart leans towards fashion because of the excitement and creativity, but my mind appreciates the practicality and balance coding offers. I feel like I'm caught between following my passion and making a smart choice for my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Navigating the excitement of fashion and the practicality of coding can feel like a tough balancing act. On one hand, there's the thrill of creativity, and on the other, the appeal of balance and opportunities. How might your personal values or long-term goals help guide you in this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I guess my long-term goal is to have a career that feels fulfilling and also allows me some personal freedom. I value creativity and expression, but I also don't want to be stressed all the time or financially unstable. I just want to find a path that aligns with both those values.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their passion for fashion and the practical benefits of comp sci. They have articulated the pros and cons of each choice and how they align with their values. Change Talk is present, particularly in terms of long-term career fulfillment and personal freedom. However, a specific change goal or next step hasn't been articulated, and confidence levels are unclear.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Seeking a balance between fulfillment and stability is a very thoughtful approach. Considering your values of creativity and personal freedom, how do you envision a future that integrates both your passion for fashion and the practicality of coding?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I've been thinking that maybe I could keep fashion as a side hustle or passion project, like working on my own brand or social media stuff, while pursuing a more stable career in coding. This way, I could have the best of both worlds, but it still feels like a big decision to make.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and a specific change goal to keep fashion as a side project while pursuing coding. They have articulated values and goals, and ambivalence has decreased as they envision integrating both interests. The client appears ready to move forward with action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a promising plan, balancing both worlds. To move forward, we could explore setting a goal to try this dual approach. What specific steps do you think could help you start pursuing coding more seriously while keeping your fashion passion alive on the side?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I could start by taking a few more coding classes to see how I like it and maybe work on some small projects to build my skills. For fashion, I could dedicate a set amount of time each week to focus on my projects and social media presence. It might help to talk to people in both fields to get their perspectives too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your plan to take coding classes and engage with small projects while dedicating time to fashion projects weekly sounds like a great start. To make this plan more concrete, would setting a specific number of hours for each activity per week be helpful, or perhaps identifying people in both fields you'd like to reach out to?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting specific hours could help me stay on track, maybe like 10 hours a week for coding and a few hours for fashion. I'll also make a list of people to reach out to, like professors or industry folks, to get some real-world insights.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and a concrete action plan, including starting coding classes and setting time for fashion projects. Barriers such as time management have been anticipated, and the client has agreed to self-monitor by setting specific hours and seeking advice from professionals. With commitment and confidence in implementing the dual approach shown, they demonstrate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That's a thoughtful way to balance your interests—allocating specific hours to coding and fashion while planning to connect with industry professionals. You've laid a solid foundation to explore both paths without feeling overwhelmed. Remember, this journey is about exploration and growth, so allowing yourself to adapt and adjust is key. \n\nIt can be helpful to revisit what you’ve accomplished in a few months to see how you feel about the direction you're heading. Your openness to learning and seeking guidance from others will certainly serve you well. \n\nAs a next step, keep track of your progress and reflections, and don't hesitate to reach out if you need support along the way. You've got this, and I believe in your ability to find a path that truly resonates with you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks! I'll definitely try to keep track and stay flexible. It's reassuring to know that I can always reach out if I need some guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively addressed the client's career decision, summarizing goals and coping strategies. A next-step plan was discussed, aligning with termination goals. The client has a clear path forward and support option if needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on maybe switching out of design major?\nTo keep it as brief as possible, I’m currently double majoring in fashion design and environmental sciences. I’m heading into second semester junior year. I’ve been seriously considering switching out of my design major for something else (maybe comp sci? I’m a math nerd and have picked up some coding previously).\n\nI’ve never felt so stuck on a decision before honestly. I love fashion to death, but I feel like I have too many reasons to leave and my passion is dwindling bc of college. My program isn’t teaching me the skills or getting me the connections I want/need, I feel like it’s ruining my college experience (extremely long labs, working almost constantly, and struggling to keep a social life on top of a job), and I have over a years worth of credits left in the major (~36) and most majors are 30-45 total anyways. My dream with fashion is to have some level of creative freedom or even start my own small brand/social media presence one day. I don’t even need a degree to do this, so maybe my time/money would be better spent on other things.\n\nDoes anyone have experience switching in/out (or not) of art/design? Am I being a baby and I should just finish the major? Any advice or experiences would be appreciated!\n\nTLDR; I love fashion but am frustrated with the degree, thinking about keeping it as a hobby/side hustle and switching into another major",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

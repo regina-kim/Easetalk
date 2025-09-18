@@ -1,0 +1,173 @@
+{
+  "id": "ry038n",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today? Feel free to share anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! So, I got into an Ivy League school on a big scholarship, which is amazing, but I'm freaking out a bit. I'm worried about not keeping up academically because my high school wasn't very challenging.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Congratulations on your scholarship and acceptance! That's an incredible achievement. It sounds like you're feeling a mix of excitement and anxiety because you're concerned about how you'll manage with the academic demands. Can you tell me more about what specifically worries you about keeping up?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Thanks! It's just that I feel like I missed out on having a strong foundation in some subjects, especially math. I'm scared I'll fall behind because other students might have had better prep.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive story about their concerns, including the achievement, fear, and specific academic anxieties along with financial worries. The conversation has established empathy and understanding, with a clear focus on the client's goals and concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's understandable to feel concerned about stepping into a new academic environment. You're expressing a real desire to succeed, which is important. What do you think would be different about your experience at the Ivy League if you felt more confident in your math skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I felt more confident in my math skills, I think I'd be less stressed about the coursework and more focused on learning instead of catching up. It would probably make the transition smoother and I'd feel more comfortable participating in class.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining that smoother transition and increased participation seems really encouraging. What are some steps you might consider taking to build that confidence in math before classes start?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think maybe taking some extra courses over the summer could help, like at a community college or online. I just need to find options that won't cost much since I have to be mindful of my expenses.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of taking additional courses to improve math skills and has shown motivation to explore options. Change Talk is evident as the client envisions a smoother transition with increased participation. However, concerns about costs and specific steps to take require further exploration, suggesting continued guidance is needed to solidify action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Investing time in strengthening your math skills sounds like a proactive step toward feeling more prepared. Exploring low-cost or free resources could be a great way to start. How might your confidence level change if you succeeded in completing these courses before you begin your classes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): If I completed those courses, I'd probably feel a lot more prepared and less anxious about starting classes. It might boost my confidence knowing I took steps to improve and be on par with others.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal of strengthening math skills and expressed a plan to take extra courses. They indicated increased confidence if this plan succeeds, but confidence levels have not been explicitly quantified. The client has shown decreased anxiety through proactive planning. More exploration of specific resources and potential barriers would solidify readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "therapist(guiding): That sense of preparedness and reduced anxiety sounds really empowering. Your drive to improve is evident. What would it mean for you to begin your new academic journey with that boosted confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): Starting with boosted confidence would mean a lot. I'd feel more capable of handling challenges and be more open to engaging with my peers and professors. It would definitely set a positive tone for my college experience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear change goal of improving math skills through summer courses. Change Talk is present, with the client showing motivation and confidence that these steps will help. The client seems ready to engage in specific planning for overcoming potential barriers like cost. Thus, advancing to Choosing to develop concrete action plans is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "To embark on your academic journey with that increased confidence sounds truly motivating. Let's look at creating a plan to achieve that. What actions do you think you could take to find affordable or free math courses? Perhaps options like community college offerings or online platforms could be explored. How do you feel about setting a goal to complete one or two of these courses before school starts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think I'll start by checking out local community college websites and maybe some online learning platforms like Khan Academy or Coursera. Setting a goal to finish a couple of courses before classes begin feels doable and it's definitely something I want to aim for.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out plan. Checking local community colleges and platforms like Khan Academy and Coursera is a great starting point. To make this goal more manageable, would it be helpful to set specific milestones for each course, like dedicating certain hours each week to studying? What potential challenges do you think you might face, and how could you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting specific milestones sounds smart. I could try dedicating a couple of hours every day to studying, just to keep a routine. As for challenges, I might struggle with finding time if any unexpected things come up, but I guess I could plan ahead or adjust my schedule if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan to improve math skills by exploring affordable courses. The client has agreed to self-monitor through setting milestones and dedicating study hours. Potential barriers are recognized with strategies to address them. The client shows readiness with a commitment towards the plan. It's appropriate to advance to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Committing to a routine by setting aside a couple of hours daily for studying is a strong step. It's wonderful to hear you're already thinking about how to address potential challenges by planning ahead and being flexible with your schedule. This kind of proactive problem-solving is key. Remember, it's perfectly okay to adjust your schedule as needed. Your adaptability and determination to succeed are truly commendable. As we wrap up, consider keeping a journal to track your progress and reflect on your learning journey. You've got a clear goal and a solid action plan. Lean on your support network if you need encouragement along the way. Would you like to set a date to check in on your progress?",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I think setting a date to check in would be helpful to stay on track. A journal sounds like a good idea too; I'll give it a try to keep myself motivated and see how far I've come.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to improve math skills, acknowledges potential challenges, and commits to a routine. A follow-up check-in is agreed upon, satisfying termination goals of a next-step plan and summarized strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Paranoid and Concerned Low Income Student\nOkay so I’m a low income student and I’ve recently been admitted to an Ivy on a really big scholarship (basically full ride) and I’ve been having concern about my academic performance. My school is a pretty non-competitive school and most of the curriculum we’re taught is pretty much dumbed down to ensure everyone passes and graduates. I’m scared that I won’t be able to handle the curriculum thrown at me at an Ivy because I didn’t have a good foundation from my high school compared to other students. So my questions are: \n\n1. Are remedial courses included in my scholarship? If I have to take a remedial math course but I can’t afford then what 🥲🥲😳😳😳\n2. Are there free college courses anywhere I can take over the summer to supplement my learning? I was thinking about my local community college but I don’t to spend too much since I’m kinda broke😅\n\nPls help",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

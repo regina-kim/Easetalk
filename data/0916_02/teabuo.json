@@ -1,0 +1,173 @@
+{
+  "id": "teabuo",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's good to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've just been feeling super anxious about graduating. I can't shake the feeling like something's going to go wrong last minute.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduating is such a big step and it's understandable to feel anxious about it. You're feeling worried because it's a major transition and there's a lot riding on it. What do you think might cause something to go wrong?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess part of me worries that I'll mess up the last experiment or that my dissertation won't be up to standards. Like, maybe I missed something crucial and it'll all fall apart.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about anxiety regarding graduation, provided context about their academic achievements, and expressed feelings of doubt despite having a job offer. The therapist has empathized and started exploring underlying fears. However, a deeper understanding of the specific thoughts and feelings connected to these fears is still needed to build rapport and mutually agree on goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're concerned about the possibility of things not going as planned, especially with your experiment and dissertation. It's a big responsibility and being thorough is really important to you. Can you tell me more about the steps you've taken so far and any past experiences with similar situations?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Sure, I've been really meticulous with planning and running my experiments, and I've double-checked my data a ton. In past projects, I usually overthink things, but they generally turn out fine in the end.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase effectively captured the client's anxiety about graduation, their concern about potential failure, and past experiences. Rapport and mutual understanding were established. The focus has shifted toward addressing the client's readiness for graduation and their achievements. The essential elements of the client's story and context have been elicited, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "You've put a lot of effort into being thorough and it seems like you've seen positive outcomes from your diligence in the past. How might you feel if you trusted your process a bit more this time around?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): If I trusted my process more, I think I'd feel a bit more at ease. I know deep down that I've done everything I can, but it's just hard to let go of the worry.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Trusting your process could bring a sense of relief, knowing you've done everything you can. Reflecting on your values, why is being diligent important to you, and how does it align with your goals for graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Being diligent is important to me because I want to make sure my work is solid and stands up to scrutiny. It aligns with my goal of graduating because I really want to feel proud of what I've accomplished, and make sure I'm ready for my dream job.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk by expressing a desire to trust their process and recognizing the alignment of diligence with their goals. They have a specific concern about graduation and have reflected on their values. While confidence in graduating is implied, explicit measures or specific next steps still need clarity. Further reduction of ambivalence and a specific action plan would solidify readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Your diligence in ensuring your work is solid and up to standards truly reflects your commitment to your goals. How would achieving graduation and securing your dream job influence your sense of fulfillment and future aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Graduating and landing my dream job would be a huge milestone for me. It would feel like all the hard work has paid off and give me confidence moving forward in my career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated change talk and discussed the discrepancy between current worries and their values and goals. They have expressed a specific change goal of trusting their process more and acknowledged past successes. Ambivalence around their concerns is decreasing, and confidence is present. These indicate readiness to move to the Choosing phase to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Graduating and achieving your dream job are powerful motivators, and feeling that sense of fulfillment can boost your confidence significantly. As you prepare for these milestones, what specific steps do you think could help you manage the anxiety and trust your process more, especially when those worries arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think setting a routine with small, manageable tasks could help, like breaking down the last experiment into chunks and focusing on each part. Also, maybe regular check-ins with my advisor or peers to reassure myself that I'm on track would be helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a routine with manageable tasks and seeking support through regular check-ins sounds like a solid plan to help manage your anxiety. Based on what you've shared, possible options for moving forward could include setting specific times for each task or scheduling weekly meetings with your advisor or peers. How do you feel about selecting one or two of these to start with, and how might you track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about starting with those steps. I can set up a calendar with deadlines for each chunk of the experiment, and I'll ask my advisor if we can have weekly check-ins. To track my progress, I could update a checklist or a journal with what I accomplish each week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with manageable steps and has considered using a calendar and regular check-ins for self-monitoring. The client expresses confidence in these plans and is ready to begin implementing. Barriers have been discussed, and the client shows readiness through commitment to taking steps and confidence in the action plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a wonderful plan! You've clearly put thought into creating a manageable structure, which can be a great way to ease your worries. By setting up a calendar and having those weekly check-ins, you’re not only keeping on track but also building a support system to remind yourself of your progress. Updating a checklist or journal each week is a fantastic strategy to visually see how far you've come, which can boost your confidence even more. Keep up with these steps, and remember to be kind to yourself throughout this process. If you ever feel overwhelmed, we're here to support and celebrate your achievements with you. Looking forward to hearing about your progress in our next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that means a lot to me. I'll give these steps a try and see how it goes. Hopefully, I'll have some good news to share next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully addressed the client's concerns, provided actionable steps, coping strategies, and a next-step plan. The client expressed readiness to proceed, indicating the session goals were met with optimism for progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help me convince myself I will graduate\nI am a 6th year PhD candidate. I have passed my prelims, passed my proposal (Oct), I have 3-4 articles published as a first author. I have finished 2 out of 3 experiments proposed. The last experiment is scheduled to be done in April.\nI have a job offer from a very reputable place which is like a dream job for me... Yet I still cannot convince myself that I am actually going to graduate soon. I feel like the rug will be pulled from under my feet. \nPlease help me convince myself.\nAppreciate in advance.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,236 @@
+{
+  "id": "u3tk43",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for meeting with me. I've been feeling a bit overwhelmed trying to decide between different master's programs related to software and game development, and I'm really unsure which path to take.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a path can definitely be overwhelming, especially when both options seem appealing. What aspects of each program are you considering most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I'm trying to figure out which one would be the best fit for my career goals. I want a program that will help me land a good job as a software or game programmer, but I'm also interested in what the actual coursework and learning experience will be like in each.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about choosing a master's program and what factors are important for them, such as career goals and learning experience. However, more exploration is needed to fully understand their motivations, feelings, and any potential barriers they foresee.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It's great that you're thinking about both career outcomes and the learning experience. What are some of your career goals, and how do you see each program helping you achieve them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've always wanted to work in tech, ideally as a software engineer or game programmer. The software engineering program might give me a broader skill set, but the game development program seems more tailored to my interest in games. I'm just not sure which would offer better opportunities after graduation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about career goals and program options, and the therapist has started to explore them. However, more exploration is needed to fully understand the client's feelings and the detailed context behind their decision-making process before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "You're weighing the broader skill set of software engineering against your passion for games in the game development program. What excites you most about each program, and how does that relate to your vision for your future career?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I get really excited thinking about the creativity and innovation in game development, like bringing ideas to life and creating fun experiences. On the other hand, the software engineering program excites me because of the chance to build a strong foundation in various tech areas, which might give me more versatility in my career.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their main concern, provided details about their career goals, and reflected on the pros and cons of each option. The therapist has built rapport and demonstrated empathy. The client's thought process and context have been explored, focusing on career and educational aspirations.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you're drawn to both creativity and versatility in your career. How do you picture your day-to-day life in each path, and what role do you see creativity playing in your future work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): In game development, I imagine a lot of brainstorming and collaborating with other creatives, which sounds really fulfilling. I'd love to work on projects that push my creative limits. In software engineering, I picture more problem-solving and possibly working on a variety of projects, which could keep things interesting and help me adapt to different challenges. Creativity would be there too, but maybe in different ways, like finding innovative solutions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Both paths seem to offer exciting opportunities for growth and creativity. What do you imagine your life would look like five years down the road if you pursued each path? How do these images align with what you truly value and want in your career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): If I went with game development, I see myself working at a gaming company, contributing to some really cool projects and maybe even seeing my ideas come to life in games people love. In software engineering, I imagine having a role in a tech company, working on diverse projects that impact a wide range of industries. Both paths align with my values of innovation and creativity, but the game path leans more into my passion for gaming, while software engineering offers a broader arena to apply tech skills.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has explored the client's values and life with and without change, showing excitement and alignment with both paths. Change Talk is present, as the client has specific goals and future images for each path. However, there's no indication of using confidence rulers or a specific next step yet, suggesting a continued focus on exploring motivations and potential discrepancies.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It sounds like both paths align well with your values of innovation and creativity, each offering unique opportunities. When you think about these possible futures, what feelings or thoughts come up for you about the alignment with your deeper career aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): It's exciting to think about both options, but also a bit nerve-wracking because I want to make sure I choose the one that really fits me. The thought of working in game development really energizes me because of my passion for gaming. Yet, the idea of having diverse tech skills and career flexibility through software engineering is appealing too. I guess I'm trying to figure out which choice will make me happiest and help me grow the most in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated the discrepancy between their passion for game development and the versatility of software engineering. They have explored life scenarios for both paths and how each aligns with their values and goals. However, while Change Talk is present, the client remains ambivalent about choosing the right path, indicating the need for further exploration and confidence building.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Both paths seem truly exciting and hold potential for personal and professional growth. When thinking about happiness and growth, what elements of each path do you believe would contribute most to your long-term satisfaction and fulfillment in your career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I think in game development, the chance to work on something I'm genuinely passionate about would be really fulfilling. Seeing a project come to life and knowing I had a hand in creating something enjoyable would be amazing. With software engineering, the growth comes from the versatility and adaptability I could gain, which seems valuable because it might open up more opportunities to explore different aspects of tech. I guess I'm looking for a balance between passion and practical growth.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed values related to creativity, innovation, and versatility, and has explored life with each option. Change Talk is present, but a specific change goal or next step needs clarification. Continuing in the Guiding phase can further explore these aspects to clarify a direction.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Both passion and practical growth are important elements you've identified for your long-term fulfillment. Considering the balance you're seeking, what might be some ways to incorporate both creativity and adaptability into your career, regardless of the path you choose?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by choosing one path, like game development, and then keep learning new tech skills on the side to stay adaptable. Or if I go with software engineering, I could focus on projects that have a creative edge, like those involving design or user experience, to keep that passion alive. I guess it’s about finding opportunities within whichever path I choose to nurture both my love for creativity and my desire for a versatile skill set.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific elements they value in each career path and has discussed ways to incorporate both creativity and adaptability into their career. They have explored life with each path and shown a preference towards a balance of passion and growth. The conversation has achieved its goals, indicating readiness to move to developing action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "How insightful! You've identified ways to incorporate both creativity and adaptability, which can indeed enrich your career experience. Based on your reflections, potential options might include pursuing game development while continuously expanding your tech skills, or embracing software engineering with a focus on creatively engaging projects. What are your thoughts on shaping an action plan to explore these options, and what might be some steps you could take to move forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(thinking): I think shaping an action plan could definitely help me make a more informed decision. Maybe I could start by reaching out to professionals in both fields to get a sense of their day-to-day work and what they find most rewarding. Also, looking into internships or part-time opportunities in both areas might give me some practical experience to see which one I enjoy more. I might also consider online courses or workshops to build skills that can overlap both fields, like learning new programming languages or game design concepts.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating an action plan sounds like a constructive approach. You've thought of some excellent steps such as networking with professionals, exploring internships, and enrolling in relevant courses. How do you feel about setting a timeline for reaching out, securing opportunities, and deciding on courses to help maintain momentum in this exploration?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(thinking): Setting a timeline seems like a smart idea to keep me on track and avoid procrastination. Maybe I can aim to connect with a few professionals in the next month and start applying for internships around the same time. For courses, I could set a goal to enroll in one by the end of the semester, so I have something new to work on during breaks. Having these milestones might make the whole process feel a bit less overwhelming and more manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear actions such as reaching out to professionals, exploring internships, and enrolling in courses, along with a timeline for these steps. They demonstrate commitment and confidence in their plan, meeting the Choosing goals. Progressing to Terminating seems appropriate.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "You've laid out a thoughtful and actionable plan with clear milestones—connecting with professionals, applying for internships, and enrolling in courses. This approach can certainly help in managing the process, making it more structured and less daunting. It's great that you're setting a timeline to keep the momentum going and avoid procrastination. As you move forward with reaching out and exploring these opportunities, remember to celebrate the small wins along the way. You're taking meaningful steps towards aligning your passion with practical growth, and that's something to be proud of. If at any point you need support or wish to revisit your plan, feel free to reach out. You're on a promising path, and I'm confident you'll find the direction that truly fulfills you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your guidance and encouragement. I’ll definitely reach out if I need any more support or if I get stuck. I'm hopeful about where this leads, and having a plan makes it all feel a bit more real.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed an action plan with clear steps and a timeline, and they have been invited to seek further support if needed, meeting termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Master's in Software engineering or game engineering (game development?) or Master's in Computer Science?\n Hi there all!\n\nI'm soon to begin university, so I was wondering about these two, which one to choose?\n\nI can show a few pics of what they will teach you:\n\nSoftware development: [https://prnt.sc/3BAw70TuvCs9](https://prnt.sc/3BAw70TuvCs9) (first four semesters)\n\nGame development: [https://prnt.sc/T3vfvgOZ8nTB](https://prnt.sc/T3vfvgOZ8nTB)\n\nComputer Science: [https://prnt.sc/wCmE-GLbjPfn](https://prnt.sc/wCmE-GLbjPfn)\n\nP.S: I'm from Sweden, so how they setup courses to go through may be a bit different. Sorry for the bits that did not get translated. If there are words in swedish, I'll happily translate for you!\n\nAppreciate any answers!\n\nThe plan is to work either as a software engineer/programmer or game programmer. So which would be the most preferable to pursue?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

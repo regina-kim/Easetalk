@@ -1,0 +1,173 @@
+{
+  "id": "15xhln6",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? Is there anything on your mind that you'd like to talk about? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling super nervous about starting college. I'm just really worried I won't keep up or that people will judge me for not knowing stuff.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college can definitely bring up a lot of uncertainty and anxiety because it's such a big change. You're concerned about keeping up and how others might perceive you. Would you like to share more about what's making you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I guess it's just that I didn't have the best preparation in high school, and I’m scared of feeling behind compared to everyone else. Plus, I'm worried my ADHD and memory issues will make things even harder.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, including thoughts, feelings, and relevant context about starting college and concerns with ADHD, anxiety, and academic preparedness, has been clearly elicited. Empathy and rapport are established, and goals about addressing these challenges are mutually understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Your concerns about keeping up academically and managing ADHD are really understandable. You're thinking about how these challenges could affect your college experience. What do you imagine college life could be like if you found ways to manage these concerns effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, if I could manage these concerns, I think college might actually be kinda fun and fulfilling. I imagine being able to engage more in classes and maybe even making some friends without feeling like I'm always two steps behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's great to hear that you're envisioning a fulfilling college experience when your concerns are managed. You see potential for engaging with classes and forming meaningful connections. On a scale from 0 to 10, how confident do you feel about finding effective ways to manage these challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 4 or 5. I want to believe it's possible, but I'm still unsure about how to actually make it happen.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a vision for a fulfilling college experience if concerns are managed and has shown some confidence (4 or 5). However, there is still significant ambivalence and uncertainty about how to achieve this, with confidence below the threshold 6. More exploration of how to increase confidence and reduce anxiety is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your desire to find ways to manage these challenges is a strong starting point. While you currently feel at a 4 or 5, what steps or resources do you think could help increase your confidence in tackling these concerns?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think maybe getting some tutoring or academic support could help, especially with math and writing. I should probably look into resources for ADHD too, like maybe apps or techniques to help with focus and memory.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed some Change Talk by considering the potential for a positive college experience with effective management of challenges. They identified specific steps, like seeking tutoring and ADHD resources, indicating a move towards action planning. However, their confidence level is moderate, at 4 or 5, and they still express doubts about feasibility. Therefore, continuing in Guiding could further strengthen their confidence and readiness for planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "therapist(guiding): Exploring tutoring and ADHD resources seems like a positive direction. You've identified specific areas where support could make a big difference. How do you feel about taking the first steps to explore these options?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I feel a bit overwhelmed thinking about it, but I know it's important, so I guess I just have to push through. It'd probably be helpful to start small, like checking out the campus resources or setting up a meeting with someone who can guide me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of seeking tutoring and ADHD resources, which aligns with their concerns. While confidence is moderate at 4-5, the client recognizes potential steps to take. Change Talk is present, and there's a shift towards planning, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Starting small by checking out campus resources and scheduling a meeting with someone for guidance sounds like a manageable first step. How about setting a goal to visit the student services office next week and explore what support they offer? You might also consider researching apps for ADHD management. What do you think about these options, and are there any barriers you anticipate in taking these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal to visit the student services office next week sounds doable. I'll try to see what support they offer and maybe find some apps that help with ADHD. I guess the main barrier is just that initial push to get started, but I'll try to remind myself how much it could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Recognizing that initial push as a barrier is an important step. Visiting the student services office and exploring ADHD apps are great actions to begin with. How about setting a reminder or enlisting a friend's support to help you take that first step? What kind of support or monitoring would make this process feel more manageable for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Setting a reminder sounds like a good idea, and maybe I can ask a friend to come with me for some support. I think just having someone to help keep me accountable and check in with me about it would make a big difference.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and action plan: visit student services and find ADHD apps. Barriers like initial hesitation have been discussed, and self-monitoring strategies such as reminders and friend support are considered. The client is showing readiness to move forward by expressing determination to overcome barriers and engage with support systems.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a friend support you and setting reminders are excellent strategies. They can make the process of visiting the student services and exploring resources feel less daunting. You've already taken significant steps by identifying what you need and planning how to get there. Remember, even small actions can lead to meaningful change. As you move forward, keep in mind that reaching out for support shows strength. You’ve got this, and I'm here if you need to talk more about your progress. Let's check in again soon to see how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely try to make it happen and keep in touch about how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps, coping strategies, and has a plan to visit support services. The session concluded with encouragement and an invitation to check in, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Too stupid for college?\nHi, so honestly I never thought i would go to college but here i am and my first class is tomorrow. I was homeschooled all through out high school, which wasn’t the best for me and honestly I didn’t learn much. On top of that, my ADHD and depression have given me severe memory loss, so i don’t remember much that i did learn. I’m horrible at simple math, i still have to count on my fingers, and i have trouble spelling and sounding words out. I’m just really scared i’m going to look like a dumbass and it makes me not want to go. I was picked on in middle school for having learning troubles and i’m worried it’s going to be the same. That my professors or the students will think i’m stupid. What if they call on me during lecture and i don’t know the answer then everyone thinks i’m dumb lol. Please help, my anxiety is so bad i want to skip my first day.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

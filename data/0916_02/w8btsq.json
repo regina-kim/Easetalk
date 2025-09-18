@@ -1,0 +1,278 @@
+{
+  "id": "w8btsq",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've been feeling pretty anxious about not doing an internship this summer. It seems like everyone else is doing one, and I'm worried that I'm falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling like you're falling behind can indeed create a lot of anxiety, especially when it seems like everyone else is moving forward. What's been important to you about doing an internship this summer?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it feels like an internship is a step towards building my career and gaining experience. Also, it seems like everyone treats it as this crucial thing to do for the future, so missing out feels like I'm not keeping up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about missing an internship and their anxiety around it. They have also outlined future plans and current activities, indicating some context and thought behind their feelings. However, more exploration is needed to fully understand their values and goals concerning their career and internships.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're really valuing the opportunity to build your career and gain experience through an internship. At the same time, there's a lot of pressure when it feels like everyone else sees it as essential. How have you been managing these feelings of pressure and anxiety?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I've been trying to focus on what I am doing, like the volunteer work and learning coding. But, honestly, every time someone talks about their internship, I can't help but feel like I'm not doing enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story, thoughts, and feelings about missing out on an internship, along with relevant context and coping strategies, has been elicited. Empathy and rapport seem established, and there are hints of underlying goals regarding career and academic plans.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It can be tough when comparisons make you question your efforts, even when you're contributing in meaningful ways through volunteering and learning. What would be different for you if you focused more on your progress rather than comparing yourself to others?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): I guess I'd probably feel less stressed and more confident in what I'm doing. It might help me realize that these other experiences are valuable too, even if they aren't internships.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Recognizing the value in your current experiences could indeed help ease some of that stress. On a scale of 0-10, how confident do you feel about focusing more on your own progress and less on comparisons?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): Maybe like a 5? It's hard not to compare myself, but I do want to get better at appreciating what I'm doing now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged the value of their current activities and expressed a desire to focus on them, but their confidence level is at 5, indicating some ambivalence remains. There is a specific change goal to focus on self-progress, but further exploration and strengthening of confidence are needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Acknowledging what you're already doing is an important step. A 5 shows you're open to shifting your focus more towards your progress. What do you think could help increase your confidence in appreciating your current path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): Probably reminding myself of the skills I'm gaining and how they can be useful in the future, even if they're not from an internship. Maybe talking to people who have gone through similar paths might help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses some confidence in focusing on their progress but remains ambivalent about comparisons, with a confidence level of 5. Their exploration of future steps is still tentative and lacks a specific change goal, suggesting the need for further guiding to solidify motivation and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Connecting with others who have taken similar paths could definitely provide encouragement and perspective. Reflecting on your skills and their future value can be empowering. What might be one small step you could take to start seeing the value in your own experiences more clearly?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): I could try writing down what I've learned from my volunteer work and coding studies each week, just to remind myself that I'm growing in my own way. Maybe even setting some personal goals to track my progress could help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by acknowledging the value in their current activities and identifying strategies to appreciate their progress. They've set a specific goal of writing down skills learned, indicating openness to change. However, their confidence level is at 5, which suggests more support is needed to strengthen motivation and decrease ambivalence before advancing to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Keeping a weekly record of your growth sounds like a great way to recognize your accomplishments. Setting personal goals could further enhance your awareness of your progress. How does the idea of tracking your achievements feel to you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): It actually feels pretty motivating. I think having something tangible to look back on could help me see that I'm moving forward and making progress, even if it's not through an internship.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by contemplating a shift in focus towards personal progress rather than comparisons. They've identified specific steps like tracking achievements weekly and setting personal goals. Confidence is at 5, indicating openness to change, but further guidance is needed to elevate confidence and reduce ambivalence. Continuing in the Guiding phase would help solidify motivation and address remaining uncertainties.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling motivated is a wonderful sign that you're on the right path. Having a tangible record of your progress can offer a clear perspective on how far you've come. What part of this idea excites you the most about seeing your growth in this new way?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I think the idea of actually seeing my progress, like having something concrete to look at, is really exciting. It's like proof that I'm not just stuck in one place and that I'm achieving things that matter to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk by expressing motivation to document their progress and set personal goals. They have identified a specific action (writing down weekly learnings) that could enhance their confidence. However, their confidence level is still around a 5, indicating room for further strengthening of motivation. To ensure robust readiness for the Choosing phase, we should continue in Guiding to further address any lingering ambivalence and bolster confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "The thought of having visible proof of your achievements can indeed be quite empowering. Knowing that you're moving forward and achieving things that resonate with your values is significant. How do you think this new perspective might influence your daily approach to your activities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): It might help me feel more motivated to engage with what I'm doing every day and take it more seriously. Having that perspective could remind me to appreciate each step I'm taking towards my goals, no matter how small.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation and has identified specific steps such as writing down learned skills and setting personal goals. Change Talk is present, and the client feels motivated by the idea of tracking progress. However, confidence is still at a 5, indicating that further exploration may be beneficial to fully solidify motivation and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "therapist(guiding): Embracing each small step can lead to greater appreciation for your journey. Feeling motivated to engage daily is a powerful shift. In what ways do you anticipate this perspective could enhance your sense of satisfaction with your progress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I think it could help me feel more content with where I am right now, instead of always worrying about where I should be. It might make my accomplishments feel more meaningful, even if they're not what everyone else is doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation through Change Talk, identified specific steps like tracking progress and setting goals, and has shown increased confidence in their path. The conversation has effectively explored life values and reduced ambivalence, meeting the goals of the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Recognizing the value in your own path and feeling content with your unique progress sounds truly empowering. As you consider these thoughts, what specific goal could you set that would help maintain this positive perspective on your journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could set a goal to update my progress journal weekly and at the end of each month, review it to see how far I've come. I think having that regular reflection could keep me grounded and focused on my personal growth.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Your idea of regularly updating your progress journal is a meaningful goal that aligns well with maintaining a positive outlook. Reviewing it monthly can truly help you stay grounded in your personal growth. What steps do you envision might help ensure you stick to this plan, and what potential barriers might you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): I might set a reminder on my phone or calendar to check in each week and write down what I've done. But I think I could get lazy or just forget about it if I get too busy with other things, so reminding myself why it's important could help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of maintaining a progress journal and identified both supportive steps and potential barriers. The discussion shows commitment and motivation to take these steps, with confidence in their ability to change. They acknowledge barriers and propose solutions to overcome them, indicating readiness for action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Setting those reminders sounds like a proactive strategy to keep you engaged with your progress journal, and knowing why it's important can anchor your commitment. It's normal to face moments of busyness, but having your 'why' will help you navigate those times. You're demonstrating a lot of insight and dedication. As we wrap up today, I'm really encouraged by your plan and the steps you're taking. Let's make sure you have support when you need it, so feel free to reach out if you hit a snag or need encouragement. I'm here to support you on this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and knowing I can reach out if things get tough. I'll definitely keep that in mind.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes with a clear plan and steps for maintaining the client's progress, addressing their anxiety by focusing on personal growth and strategies for coping with challenges. Support availability is also confirmed, inviting closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm worried that I didn't do an internship in my first year.\nI do have three more hears left (I will be getting my degree by the end of two years but have a research project and thesis to finish the year after that) so I thought I'd take it easy this summer and do internships from the next summer but almost everyone I know around me is doing an internship this summer and it's giving me serious anxiety. I did a volunteer program for four months during my semester and I'm working on learning (and hopefully getting some sort of certification) for coding during the summer. \n\nAs of now my plan is to go to grad school after I finish my undergrad. \n\nI'm an economics major if it helps.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

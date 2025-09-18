@@ -1,0 +1,173 @@
+{
+  "id": "z1f861",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've been feeling a bit anxious about graduating soon. I've really enjoyed my time here and I'm worried about losing the connections I've made.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduating can bring a mix of excitement and anxiety, especially with the thought of leaving meaningful connections. What has been your favorite part of your time here?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, it's been the people. I've met some really amazing friends who make me feel seen and supported. It's like I've finally found my place, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of anxiety and conflict about graduating, shared their positive experiences and connections, and revealed their concern about growing apart from friends. The therapist has shown empathy and initiated rapport-building, but the client's deeper motivations and potential goals haven’t been fully explored yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a sense of belonging and support can be really fulfilling. You cherish these friendships because they make you feel understood and valued. How do you imagine maintaining these connections after graduation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I’ve thought about visiting during breaks or trying to plan trips together, but it’s tough to imagine how often that might actually happen with everyone moving to different places. Keeping in touch online is something too, but it's not quite the same.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about graduating and losing connections, detailing emotions and context, including considerations about taking a minor. Empathy and rapport are evident, but specific goals have not been mutually defined yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like you've really thought about ways to stay connected, and maintaining those friendships is important to you. You feel a bit uncertain because while online communication is an option, it doesn't quite capture the same depth as in-person interactions. How have you managed staying connected in the past when distance was involved?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): In the past, I've mostly just stuck to texting or the occasional video call, but it's easy for those to become less frequent over time. I guess it can be challenging to keep up when life gets busy, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concern about graduating, feeling anxious about losing connections, and considered options for staying connected. The counselor has empathetically reflected on these feelings. The client has shared thoughts on maintaining relationships and past challenges, indicating a comprehensive story. This suggests readiness to explore guiding where motivation can be strengthened.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It can indeed be challenging to keep up with friendships when life gets busy, yet it's clear how much these connections mean to you. What do you think might help you keep these relationships strong despite the distance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think setting regular times to catch up could help, like having a monthly video call or something. It might also be fun to have a group chat where we can share random stuff from our day-to-day lives to keep the connection alive, even if we're not physically together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Those are great ideas, and they show how much you value staying connected. Regular video calls and sharing everyday moments can help bridge the gap. What might motivate you to keep up with these practices even when life gets hectic?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I guess just reminding myself how happy these friendships make me and how important they are to my well-being could be a good motivator. Like, if I prioritize them, then even when life gets busy, I'll remember it's worth it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identifying specific strategies to maintain connections and acknowledging their motivation. They've addressed their ambivalence, showing a commitment to strengthen friendships post-graduation. The conversation has explored life with and without these changes, meeting guiding goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Thinking about how these friendships enhance your happiness and well-being can definitely keep you motivated. As we consider your next steps, would you like to set a specific goal for maintaining these connections, like scheduling those regular calls or setting up the group chat? We can also think about possible barriers and how you might overcome them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds good. I think starting with scheduling those regular calls would be a solid first step. For barriers, maybe just being open about our schedules and trying to be flexible with each other could help when things get busy.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Scheduling regular calls is a wonderful starting point, and being open and flexible with each other's schedules shows a proactive approach. How about we create an action plan together? You could decide on specific days or times for these calls and discuss with your friends to find what works best. Additionally, having a backup option, like sharing updates in your group chat if a call gets postponed, might help. Would you like to explore any other strategies to address potential challenges?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Creating an action plan sounds like a good idea. I think having set days for calls would really help, and the backup option in the group chat is smart. Maybe learning to be okay with calls that have to reschedule would be good too, instead of feeling let down when things don't go as planned.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal and action plan for maintaining friendships after graduation, including scheduling regular calls and using a group chat as a backup. They have discussed potential barriers and strategies to address them. The client shows commitment and confidence in maintaining these connections. Thus, moving to Terminating is appropriate.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Embracing flexibility and understanding that life can be unpredictable will definitely help you maintain those connections without added stress. Remember, it's important to be gentle with yourself and your friends when plans need to shift. You've shown great insight into what strengthens these bonds and how they contribute to your well-being. \n\nAs a next step, scheduling those regular calls and setting up the group chat are practical actions you can take. Keep your motivation in mind by reflecting on how these friendships make you feel. You’re doing a great job prioritizing your relationships, and that’s truly commendable. Remember, I’m here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate it. I'll start setting up those calls and chats soon and keep leaning on these friendships to stay connected.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific strategies and an action plan for maintaining friendships post-graduation, addressing the primary concern of emotional connection after college. Termination goals have been met with clear next steps outlined.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I don’t want to leave College yet.\nI’ve been feeling really conflicted lately about graduating. I graduate in just a few weeks, but I have had such a blast this semester and made so many friends whom I feel actually care about me. I have depression but this is the happiest I’ve ever been. It may be silly and stupid to want to stay another semester to be with my friends, but I’m really afraid of growing apart from them especially since I live multiple states away from everyone. I’ve been wondering if I should take a minor in Graphic Design (Which is something I’ve been interested in for a while now) but I just don’t know if in the long run it would be worth it. Has anyone else been in this situation before and has some advice?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

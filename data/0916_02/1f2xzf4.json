@@ -1,0 +1,257 @@
+{
+  "id": "1f2xzf4",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It's great to see you. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, it's just been pretty overwhelming, you know? Just trying to figure out how I'm going to afford this year and feeling stuck. It's all just weighing on me a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really tough feeling overwhelmed and stuck while trying to manage finances. Can you share more about what's contributing to those feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just the uncertainty of everything. I thought I'd have things figured out with a job or a scholarship, but nothing's worked out so far. It's just frustrating and makes me doubt myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern, detailing the financial uncertainty and emotional distress it causes. Empathy is evident, and a mutual understanding of the problem is established. The conversation is ready to progress to exploring motivations for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're facing a lot of uncertainty and doubt, especially when your plans haven't unfolded as expected. What are some things in your life that might change if you were able to find a job or secure a scholarship?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think having a job or a scholarship would take a huge weight off my shoulders. I’d feel more secure about staying in school and maybe even enjoy going to classes more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding a job or scholarship does seem like it could bring you a lot of relief and allow you to fully engage with school. What are some steps you think you might take toward that goal, and how confident do you feel on a scale of 0 to 10 about making it happen?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I've been applying to jobs and more scholarships, and I'm trying to network a bit more with professors and classmates. Confidence-wise, maybe a 4 or 5? Some days I feel like it's possible, but other days it just feels so far out of reach.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk regarding the desire for a job or scholarship and has considered steps like applying and networking. However, their confidence is at 4 or 5, and they still exhibit significant ambivalence and self-doubt. More guiding might strengthen motivation and confidence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "That's great that you're taking proactive steps like applying and networking. It shows your commitment. On those tougher days when confidence feels low, what keeps you moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Honestly, I think it’s the hope that something will eventually click. Plus, I really want to stay with my friends and finish what I started. It’s hard, but I guess I’m not ready to give up just yet.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by acknowledging proactive steps such as applying for jobs and scholarships and networking. They've identified a specific change goal of securing a job or scholarship but expressed only moderate confidence (4-5) in achieving it. Ambivalence is still present, suggesting a need to strengthen confidence and resolve. Continuing in Guiding will help further address ambivalence and reinforce motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Your hope and determination to stay with your friends and complete what you've started are truly inspiring. It sounds like these connections and your goals are important to you. As you continue to move forward, what small successes or moments of progress have you noticed, even if they seem minor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Well, I did manage to get a grader position, even if it wasn’t exactly what I hoped for, so I guess that’s something. Also, a professor gave me some positive feedback on an assignment, which was nice to hear. Little things like that help keep me going.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has taken steps towards it, such as applying for jobs and scholarships. However, confidence remains low (4 or 5), and ambivalence is present. The conversation has elicited change talk but lacks a specific change goal or next step with high confidence. Continuing in the Guiding phase will help strengthen motivation and clarity.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): Those are meaningful achievements that reflect your efforts and resilience. Even small wins like getting a grader position and receiving positive feedback can really boost your momentum. How might recognizing these successes influence your confidence moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I guess acknowledging those wins helps me see that I'm making some progress, even if it's not exactly what I had planned. It reminds me that I'm capable of achieving things and maybe gives me a bit more motivation to keep pushing through.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified specific actions they are taking to achieve their goals, such as applying to jobs and networking. Ambivalence has decreased, with an acknowledgment of small successes boosting motivation. However, the confidence level is below 6, indicating that the client may need further support to strengthen confidence and resolve ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Celebrating these wins indeed seems to boost your motivation and remind you of your capabilities. Recognizing your progress, even in unexpected areas, can really build confidence. What might be some other areas of your life where you've noticed growth or change recently?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "I've noticed I'm getting better at managing my time and responsibilities, especially with all the job and scholarship applications I've been juggling. Also, I've been more open about my struggles with friends, which has surprisingly helped me feel more supported and less alone.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed specific change goals (applying for jobs and scholarships) and showed motivation to persist. Change Talk was present, and the client acknowledged small successes, which enhances confidence. However, the confidence level is around 4 or 5, indicating some ambivalence remains. It's best to continue guiding to strengthen confidence and resolve ambivalence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's wonderful to see how you've grown in managing your time and opening up to your friends. These changes highlight your adaptability and the strength in seeking support. Reflecting on these areas of growth, how do they reinforce your journey toward your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I think seeing that I can adapt and lean on my friends shows me I have a good support system and skills that can help me get through tough times. It makes the journey feel a bit more doable, like I’m not in this alone and can actually tackle these challenges.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of securing a job or scholarship and has shown progress in networking and managing responsibilities. They express both hope and determination. Confidence remains moderate and fluctuating, indicating some remaining ambivalence and areas to reinforce. While progress is evident, further strengthening of confidence and reduction of ambivalence is needed before proceeding to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Recognizing your adaptability and the support you have really seems to reinforce your ability to face challenges head-on. Knowing that you're not alone and equipped with valuable skills can make a big difference. As you continue this journey, what possibilities do you see emerging from this support and newfound confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "With this support and confidence, I feel like I might actually land a job or scholarship soon, and maybe even find unexpected opportunities that could fit me better. Plus, I sense that I'm building relationships that could lead to more chances to succeed in the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed increased confidence and support, identifying specific progress and potential future opportunities. The conversation has explored discrepancies between their current situation and desired outcomes while reducing ambivalence. The client has articulated change talk and specific steps, indicating motivation and readiness to plan concrete actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Your confidence and the strong support system around you indeed open up exciting opportunities. Considering these possibilities, what specific goal would you like to focus on next? You might aim for applying to a certain number of jobs each week, reaching out to more connections, or enhancing a skill. Whatever feels right for you, I'm here to help you plan the steps forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "I think setting a goal to apply to a certain number of jobs each week sounds like a good step. Maybe also reaching out to my professors more to see if they have any leads or opportunities I hadn’t considered. It feels like a concrete way to move forward without getting too overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Setting a weekly job application goal and reaching out to your professors for additional opportunities sounds like a solid plan. These steps seem to align with your strengths and the support you've built. What number of job applications per week feels achievable for you, and how might you approach reaching out to your professors? This way, we can anticipate any potential barriers and think of strategies to handle them together.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(choosing): I think aiming for around five job applications a week feels manageable. As for reaching out to professors, I might start by sending emails to a couple of them who seem approachable and have mentioned opportunities in the past. I guess the challenge might be finding the time to fit all this in, but I’m hoping with better time management, I can make it work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and action plan which involves applying for a certain number of jobs and reaching out to professors for opportunities. Potential barriers, such as time management, have been discussed, and the client demonstrates confidence in managing these challenges with improved time management. Commitment to the action plan is evident through their willingness to take concrete steps forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Five job applications a week is a realistic and promising target, and reaching out to those approachable professors could unlock some great opportunities. You're clearly using your time management skills well, and it's great to see you connecting with your network. To tackle any time management challenges, it might help to set specific times during the week for applications and emails. Remember, you’re not alone in this. I'm here to support you as you navigate these steps. When you feel ready, sharing any barriers you encounter would allow us to brainstorm solutions together. Keep believing in your progress and resilience. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely try setting specific times for those tasks and let you know if I run into any issues.",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific, realistic goals and strategies for managing their situation and feels supported. They've outlined a next-step plan, addressing the primary concern. The session naturally moves toward closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can’t afford this year and it’s making me so depressed \nI had a scholarship last year so I knew this was coming but had hoped I’ll find a solution. I applied to so many teaching positions but none led to anything. Except for one professor that hired me but because her class got low enrollment it was downgraded to a grader position so I don’t get the tuition waiver. I’ve applied to a few scholarships but decisions won’t come until later in the semester. I’m not sure if I should just continue with the semester hoping for things to get better. Going to class everyday feels like a chore. I feel like an imposter and wonder if I should be here. I’m considering taking a semester off but I was advised to just take the entire year off due to the nature of my program. I’m so happy to see all my friends and thinking I probably won’t be with them for the year hurts me. I’ve been applying to jobs as plan b but even that hasn’t bored any fruits. I’m so scared yall. Just needed to rant ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

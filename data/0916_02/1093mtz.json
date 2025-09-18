@@ -1,0 +1,194 @@
+{
+  "id": "1093mtz",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling kind of lost about my future lately. I'm studying Interior Design, but I've realized I'm really passionate about humanitarian work and I'm not sure how to bridge that gap.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain when you're drawn to two different paths. You're feeling lost because you're passionate about humanitarian work while studying Interior Design. What does each path mean to you personally?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, Interior Design has always been about creativity and making spaces beautiful, which is cool. But humanitarian work feels like it has more purpose and impact, like I’d be contributing to something bigger than myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts and feelings about their educational path and the desire to bridge their passion for humanitarian work with their current studies. Rapport is developing, but exploration may benefit from further understanding of potential goals or influences. Staying in Exploring will help elicit more details on the client's values and aspirations before advancing to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "The appeal of creativity and beauty in Interior Design is clear, while humanitarian work offers a sense of purpose and contribution to a greater cause. What experiences have you had that sparked your passion for humanitarian work?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I haven't had a lot of direct experience yet, but I've always been drawn to volunteering and helping people out. I guess seeing the impact of small community projects and how they can change lives just makes me want to do more in that area.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, thoughts, and feelings about their career path conflict. Empathy and rapport are evident, and goals are mutually agreed upon in exploring their passion for humanitarian work. The therapist has effectively elicited the client's concerns about the future and career alignment.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "The impact of community projects truly resonates with you and fuels your desire to contribute in meaningful ways. Reflecting on your life goals, what changes do you envision if you pursued more humanitarian work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): If I pursued humanitarian work, I see myself being more fulfilled, knowing I'm making a real difference in people's lives. I imagine being part of projects that bring about positive change, which feels like it would be so rewarding.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Picturing yourself in humanitarian work and experiencing fulfillment from meaningful contributions really excites you. Considering your current path in Interior Design, where do you see opportunities to integrate that fulfillment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): I guess I could look for ways to incorporate humanitarian aspects into Interior Design, like working on projects that focus on sustainable living or designing spaces for community centers. It might be a way to bring some purpose into what I'm already doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential change goal by considering ways to integrate humanitarian aspects into Interior Design. Change Talk is present, with a focus on fulfillment and meaningful contributions. However, the client has not yet specified a concrete next step or expressed confidence in their ability to achieve their goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Integrating elements of humanitarian work into your Interior Design projects, such as through sustainability or community-focused spaces, sounds like a creative way to combine both interests. On a scale from 0 to 10, how confident do you feel about exploring this integrated path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): Maybe around a 6 or 7? I think it's possible, but I'm still unsure how to really make it happen or if it would fully satisfy my humanitarian interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has voiced change talk and has a specific change goal of integrating humanitarian work into Interior Design. They exhibit a moderate confidence level and have envisioned life with change. The client seems uncertain about achieving full satisfaction but has decreased ambivalence about direction. Further exploration of specifics in the Choosing phase could solidify plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring this integrated path feels promising yet leaves some uncertainty for you. Given your confidence level of 6 or 7, let's brainstorm some steps you might take. Options could include researching design firms with a focus on sustainability, volunteering for community projects related to design, or even networking with professionals in both fields to learn more. What small step do you feel ready to take toward this integration?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think starting with some research might be a good first step. I could look into design firms that have a focus on sustainability or community impact and see what kind of projects they're involved with. It feels like a manageable way to start exploring how I might combine these interests.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Researching firms with a focus on sustainability and community impact sounds like a practical starting point. This step can give you insight into how others have merged these interests, setting a foundation for your own path. What barriers might you anticipate in taking this step, and how do you plan to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I might get overwhelmed with all the information out there or not know where to start. Maybe I could set some time aside each week just to focus on research and take notes on what I find. That way, it doesn't get too overwhelming, and I can gradually build my understanding.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear initial action plan to research firms focused on sustainability and community impact. They have acknowledged potential barriers and suggested a strategy to manage information overload. However, further discussion on self-monitoring and refining of action steps might benefit the process. Confidence in their plan and steps talk are present, but continued exploration could strengthen commitment.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting aside dedicated time each week for research seems like an effective way to manage potential overwhelm and gradually gather insights. Establishing a consistent routine can help maintain momentum. How would you like to monitor your progress, and what signs will indicate that you're moving in the right direction?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(planning): I think I'll keep a simple journal or spreadsheet to track the firms and projects I come across. Seeing the list grow will show me that I'm making progress. If I start finding projects that really excite me or lead to potential opportunities, that'll be a good sign I'm moving in the right direction.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan and has discussed barriers with strategies for overcoming them. They are committed to researching firms, have a plan to self-monitor progress, and show confidence in moving forward. They exhibit readiness signals suitable to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Keeping a journal or spreadsheet to track your findings sounds like a solid plan. Watching that list grow can certainly serve as a motivating sign of progress. Noticing projects that spark excitement or open up opportunities will be an encouraging indicator of your movement toward integration. Remember, this journey is about gradual exploration and discovery, and you're already setting a great foundation.\n\nAs we wrap up, continue to embrace each step with curiosity and patience. I'm here to support you as you venture into this new path. Would you like to set a time to check in on how your research is going or to discuss any new insights or questions that arise?",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Yeah, that sounds good. Maybe we could check in a couple of weeks from now to see how things are going and if I've come across anything interesting.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has summarized goals, coping strategies, and discussed a next-step plan for integrating humanitarian interests with Interior Design. The client has a plan for research and future check-ins, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Getting a Master’s Degree\nHi. I’m currently taking BS Interior Design. Halfway through it, I realized I had a passion for humanitarian work. I’m thinking maybe it’s too late to switch programs, and I can just study International Relations (or maybe Social Work) for my Masters. \n\nBut I’m not sure if my undergraduate degree will be qualified for that kind of masters, since it is two very different fields. May I ask if your undergraduate degree matters when educational institutions look at your application for a Master’s Degree?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

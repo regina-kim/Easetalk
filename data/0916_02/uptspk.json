@@ -1,0 +1,236 @@
+{
+  "id": "uptspk",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I'm doing okay, just kind of bummed out lately. Being back home for the summer has me feeling pretty down and disconnected.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Returning home for the summer seems to have left you feeling a bit low and distanced. What's been going on that's contributing to these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, at school I had all these friends and activities, but at home, it feels like I'm just stuck. I don't have many friends here, and I can't really get out and do much on my own.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed feelings and context regarding their summer break depression and loneliness, including limited mobility and social interactions. Empathy and rapport appear to be building, but further exploration of underlying emotions and thoughts could be beneficial before moving to the next phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like being at home feels isolating compared to the vibrant life you had at school. What are some activities or connections you miss the most from when you were there?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: I really miss spontaneously hanging out with friends and the energy of always having something to do. Even just sitting around in the common areas and chatting with people passing by was nice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared feelings of isolation and disconnection since returning home. The context of their concerns and feelings of loneliness during summer break has been detailed, and the therapist has shown empathy and understanding. There's a mutual understanding of the client's situation, but more rapport and exploration are needed before transitioning.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "The spontaneous hangouts and lively atmosphere of school life really added a lot to your daily experience. What are some feelings you notice when you think about these changes between school and home?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client: I feel kind of trapped and like I'm missing out on all the fun stuff. It's like there's this big gap between what I want to be doing and what I actually can do here.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, feelings of isolation and disconnection due to being home for summer, and contrasts with their active college life have been explored. Empathy and rapport seem established, and the client has shared their concerns and context. The goals of the Exploring phase appear met, and it seems appropriate to advance.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That gap between what you wish for and your current situation seems quite significant. How do you think bridging this gap might change your experience at home?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client: If I could bridge that gap, I think I'd feel a lot more engaged and less restless. It would be nice to have some of that spontaneity and connection, so I don't feel like I'm just passing time until school starts again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having more connection and spontaneity seems important to you for feeling engaged and less restless. On a scale from 0 to 10, how confident do you feel about finding ways to bridge that gap while you're at home?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 5. I feel like it's possible, especially since I have that one friend nearby, but it's still a bit tough to figure out how to really make it happen.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a significant gap between their desired and current experiences, and they have a plan to connect with a nearby friend. However, their confidence level is only at 5, and they are experiencing some ambivalence and confusion about their feelings. Continuing in the Guiding phase to further explore these feelings and strengthen their confidence could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Finding ways to connect and feel engaged while at home seems within reach. What might increase your confidence from a 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I had more ideas for things to do or ways to meet people around here, that would help. Being able to get around more easily would boost my confidence too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of increasing engagement and connection while at home. There is some Change Talk with a confidence level of 5, indicating potential but not yet strong readiness for action planning. The client identified factors that could increase confidence, indicating more exploration is beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring new activities and mobility could really boost your sense of connection and spontaneity. What small steps could you take towards discovering or creating opportunities to meet people and engage in activities closer to home?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I could start by looking into local events or meetups that are happening nearby. Maybe I can also ask my friend if they know of any cool spots or activities we could try out together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to bridge the gap between their current situation and desired engagement. They have identified a specific change goal: exploring local events and activities. Change Talk is present, but their confidence is at a 5, indicating ambivalence. The client has also identified a barrier (mobility) and potential support (local friend). Staying in Guiding is recommended to strengthen confidence and explore strategies further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Exploring local events and leveraging your friend's knowledge sounds like a great start. How do you feel about taking these steps to create more opportunities for connection and engagement at home?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): It feels pretty hopeful, actually. Like, just having a plan makes me feel a bit more in control and less stuck. Plus, it could be fun to explore new stuff with my friend.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of exploring local events and leveraging a friend's knowledge to increase engagement and connection. Confidence is at a 5, showing some ambivalence but hopefulness. Change Talk is present, and a plan is forming. Although confidence isn't above 6, the client is hopeful and has identified actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "What a great attitude toward exploring new possibilities! Let's build on this plan. You mentioned looking into local events and asking your friend for suggestions. Would setting a goal, like attending one event or trying one new activity each week, feel achievable to you? And what might some potential barriers be, like transportation or time, that we could plan for together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(deciding): Yeah, setting a goal like that seems totally doable. The main barrier would probably be transportation since I can't drive, but maybe I can work out a schedule with my friend or look into public transit options. Time-wise, I think I can make it work, especially if I plan it out a bit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Finding ways to navigate transportation sounds like a solid plan. Working out a schedule with your friend or exploring public transit options can help overcome that barrier. How about you aim to research and discuss these options with your friend in the next few days? This could set you up for attending one event or activity each week. How will you check in with yourself to see how things are progressing?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(deciding): I'll probably keep a little journal or just jot down some notes on my phone about what I find and how things go. That way, I can look back and see what's working and what’s not. Maybe even chat with my friend about it, so we can keep each other motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of attending local events and engaging in activities weekly, with a concrete plan to address transportation barriers and self-monitor progress using a journal. They express commitment and readiness to implement these steps, indicating confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "That's a fantastic approach. Keeping notes and having a chat with your friend can really keep up the momentum and motivation. You've set some wonderful goals: looking into local events, coordinating with your friend on transportation, and trying out new activities every week. Remember, it's about enjoying the process and learning along the way. You're building a solid foundation for more connection and spontaneity at home, and that's truly commendable. Let's plan to touch base soon to celebrate your progress and adjust the plan if needed. You're doing great, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks! I'm feeling a bit more optimistic about this plan. I'll give it a shot and see how things go. I'll check in with you later on how things progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to explore local events, manage transportation, and keep motivated with a friend. Goals and next steps have been discussed, providing closure and direction.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do yall cope with summer break depression/loneliness?\nI just finished with my first year of college and it was amazing. I lived on campus so I went out a bunch and made new friends and passed all my classes. But I'm back home and home is where I'm lonely af because I don't have many friends here and I can't drive so I can't go out anywhere by myself. \n\nThe good thing is that one of the friends I made only lives 10 minutes away and we're planning on hanging out every so often and I'm part of a club that meets to do stuff every Wednesday evening on campus (same friend is also part of it and will drive me there) but still. I'm not sure why I'm feeling depressed and lonely despite this but how do y'all cope with it especially since summer break is so long.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

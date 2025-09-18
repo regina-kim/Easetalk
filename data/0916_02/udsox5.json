@@ -1,0 +1,131 @@
+{
+  "id": "udsox5",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've just been feeling kinda stuck. Like, I want to do so much in college but can't seem to find the confidence or motivation to actually do it. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit overwhelmed by the possibilities in college, and it's affecting your confidence and motivation. Can you tell me more about what's been going on that's making you feel stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's like there's all this stuff I want to join and try out, but then I get in my head about not being good enough or not having the time. I plan things, but then I can't seem to stick to them.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully brought out the essence of the client's concern, detailing their thoughts and feelings of lacking confidence and motivation in college activities. There's been an establishment of understanding and empathy, and the client has shared relevant context about time management and self-doubt. Goals have been implicitly identified, indicating readiness to begin strengthening motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be tough when doubts and time feel like barriers to your goals. What's most important to you about the things you want to try in college?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think it's about making the most of this whole experience, you know? Meeting new people, learning different things, and just stepping out of my comfort zone a bit. I don't want to look back and feel like I missed out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Those college experiences sound meaningful, and stepping out of your comfort zone can lead to growth. What would it look like for you if you started exploring those opportunities despite the doubts?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess it would mean just going for it, even if I feel a bit unsure. Maybe trying one thing at a time so it's not too overwhelming, and hoping I find my footing along the way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses an increasing openness towards change, evident in their desire to not miss out on college experiences and their willingness to try despite doubts. Change Talk is present, indicating readiness. The client has articulated a specific goal of trying one thing at a time to manage overwhelming feelings. Ambivalence is decreasing as the client envisions acting despite doubts.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Trying one thing at a time sounds like a manageable approach. Based on what you've mentioned, options could include joining a club, attending an event, or taking a new class. Which of these feels like a good first step for you? And how might you plan to overcome any doubts or time constraints you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I think joining a club might be a good first step. It seems like a fun way to meet people and get involved. As for doubts, I guess I could remind myself that everyone starts somewhere, and maybe set small goals to manage my time better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Joining a club sounds like an exciting way to connect with others. By reminding yourself that everyone begins somewhere, you're grounding your efforts in reality and kindness. In terms of setting small goals, perhaps you could decide on specific times each week to dedicate to club activities. Would monitoring your progress through a weekly check-in help keep track of how you're managing both your time and doubts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): Yeah, a weekly check-in sounds like a good idea. It might help me see what I've accomplished and where I can improve. I think having something tangible to look back on could keep me motivated and accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of joining a club and laid out an action plan involving small goals, reminders, and weekly check-ins. They discussed potential barriers such as doubts and time constraints and agreed on self-monitoring to address them. The client expressed a commitment to taking steps, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "therapist(closing): A weekly check-in is a great way to celebrate your progress and identify areas for growth. Embracing this supportive routine could really help in maintaining motivation and staying accountable to your goals. You're taking thoughtful steps toward making the most out of your college experience. Remember, every small step forward is an achievement in itself. If you ever feel the need for a bit more support or encouragement, feel free to reach out. Keep believing in your potential and take it one day at a time. Looking forward to hearing about your journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(closing): Thanks, I really appreciate that. I'll definitely try to keep taking those small steps and see how it goes. I'll let you know how I'm doing.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation reached a natural closure with a summary of goals, steps, and coping strategies, alongside a next-step plan for joining a club and weekly progress check-ins.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: how to be more confident in college and believe in myself?\nI really wanna participate in all the activities but don't have the confidence to do anything, also the skill. Time management also becomes a problem,i make the most perfect of the routine to follow in which I can also practically be comfortable but then i end up doing nothing at all.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

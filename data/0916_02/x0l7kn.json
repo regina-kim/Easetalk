@@ -1,0 +1,320 @@
+{
+  "id": "x0l7kn",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been thinking a lot about going back to school and I'm pretty torn between two programs at Stanford. It's been stressful trying to figure out which would be the best fit for my career goals.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a big decision, and I can understand why it feels stressful. What is it about each program that draws you in?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, the MBA has a great reputation and could open a lot of doors, especially if I want to reach high-level positions. On the other hand, the MS in MS&E is shorter and offers more technical knowledge, which could be really useful if I decide to start my own data insights company.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared significant details about their decision-making process and concerns regarding the two programs, including career aspirations and potential outcomes. The therapist has acknowledged the stress but hasn't delved into deeper exploration of feelings or long-term goals. More discussion could further clarify these aspects, aiding the client in understanding their own priorities and motivations better.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like each program offers unique opportunities that align with different career paths you’re considering. You seem to appreciate the prestige and potential advancement the MBA offers, while the MS in MS&E aligns with your entrepreneurial goals. How does each of these align with your long-term vision for your career?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "That's exactly it. I have this vision of either climbing the corporate ladder to a C-level position or using what I learn to start my own company. The MBA seems like the safer bet for the corporate route, but the MS in MS&E might equip me better for entrepreneurship. It's tough to decide which side of my career aspirations to prioritize.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about the two educational programs and their career aspirations, revealing the context and dilemma comprehensively. Empathy and rapport are evident, and the therapist has helped clarify the client's perspective while exploring their long-term vision. The conversation is ready to transition from exploring the dilemma to guiding change talk and motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "What an exciting yet challenging position to be in! Considering your long-term vision, how confident do you feel right now in making a decision between these programs on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I'd say maybe a 4 or 5. I keep going back and forth, and it feels like there's a lot riding on this choice. I want to make sure I'm setting myself up for success either way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It's understandable to feel caught in the middle when both paths offer such promising futures. What aspects of each program inspire you the most, and how might those align with your personal values and aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): With the MBA, it's definitely the network and prestige that stand out, which aligns with my value on building strong professional connections and credibility. For the MS in MS&E, it's the technical growth and flexibility in coursework that inspire me, and I value being hands-on and innovative. Both programs speak to different parts of what I want in my future, so it's tough to choose.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current uncertainty and their career goals, explored the implications of each choice, and demonstrated some ambivalence with confidence at a 4 or 5. More exploration of values and potential outcomes is needed before action planning can begin.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Both paths clearly resonate with important values and aspirations in your life. Reflecting on how each aligns with what you deeply value, how might each choice impact the person you aspire to become?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): Choosing the MBA might help me become someone who is well-connected and respected in the corporate world, which is something I see as valuable for long-term career security and influence. On the other hand, the MS in MS&E could turn me into an innovator and a leader in the tech space, empowering me to create something new and impactful from scratch. It's like choosing between being a part of an established system or building my own.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence between the two programs but has not yet clearly articulated a specific change goal or next step. Their confidence is rated at 4 or 5, indicating uncertainty. While values have been discussed, there's still a significant level of indecision present, suggesting the need for further exploration to solidify motivation and confidence before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Both options offer a powerful vision of your future self, each shaping you in meaningful ways. Considering these distinct futures, what would it mean for you to embrace one path over the other in terms of your personal growth and satisfaction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): Embracing the MBA might mean growing into a more traditional leadership role with a focus on stability and influence, which could be fulfilling in its own right. Going with the MS in MS&E might push me towards innovation and entrepreneurship, which is exciting but also a bit daunting. It kind of feels like choosing between stability and creativity, and each has its own appeal in terms of personal growth and satisfaction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence but has also identified specific values and aspirations tied to each program. However, confidence is between 4 and 5, indicating a low readiness for decision-making. There is some Change Talk, but the client is still exploring impacts on personal growth and satisfaction. Continuing in Guiding would help build more confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "therapist(guiding): Each path offers unique opportunities for personal growth and fulfillment, tapping into different strengths and aspirations you hold. As you weigh these options, how do you see yourself managing the potential challenges and rewards of each choice, and how might that influence your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I guess with the MBA, the challenges might be more around fitting into established systems and navigating corporate politics, but the rewards could be big in terms of career stability and growth. For the MS in MS&E, the challenge might be the uncertainty and risk of starting something new, but the reward of creating something impactful is super enticing. I think how I handle these risks and rewards will play a huge part in my decision, and maybe I need to think about which challenges I'm more ready to tackle right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Discrepancies between behavior and values were identified, and the client explored potential lives with each choice. However, confidence is around 4-5, with significant ambivalence remaining. Change Talk exists, but the client hasn't settled on a specific goal or next step. Continued exploration and strengthening of confidence are needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "You're envisioning how each choice will uniquely challenge and reward you, aligning with your readiness to embrace certain difficulties. Considering how you're inclined to tackle these challenges, what strengths or past experiences might you draw upon as you make this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Looking back, I've always been pretty good at adapting and learning new things quickly, which has helped me in my current job and could be a big plus if I go the MS in MS&E route. On the other hand, I've also managed to build strong professional relationships and navigate office dynamics successfully, which would definitely be useful in the MBA path. I think these strengths give me some confidence that I could manage either path, but it's still about deciding which one plays more to my current goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has not yet expressed a specific change goal or a next step. While they have explored values and envisioned futures, their confidence remains low and ambivalence persists. More exploration of specific goals and building confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Your adaptability and relationship-building skills are wonderful assets to have, providing confidence in your capability to thrive in either program. As you reflect on how these strengths relate to your current goals, how do you envision them shaping the journey you most desire to embark on?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think my adaptability would really support the MS in MS&E journey, allowing me to tackle technical challenges and innovate effectively. Meanwhile, my relationship-building skills would be crucial in an MBA setting, helping me network and navigate the corporate landscape. Envisioning how these strengths align with each path, I'm leaning towards where I see the most growth potential, but it's still a tough call.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in exploring the implications of both the MBA and MS in MS&E programs on their future, considering their personal values, strengths, and goals. Change Talk is evident, with a focus on managing challenges and aligning strengths with goals. Specific next steps or a change goal is not yet articulated, suggesting continued exploration and clarification is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Your ability to adapt and build relationships truly aligns with both paths, offering exciting opportunities for growth. Reflecting on where you see the most growth potential, what might tip the balance for you when considering which journey to pursue, keeping in mind your current goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I think what might tip the balance is considering which path aligns more with my long-term vision and what I want to achieve. If I dig deep, the idea of building something new and putting a unique mark in the tech space feels thrilling and aligns with my passion for innovation. But at the same time, the security and influence of the MBA route hold a strong allure. It's probably going to come down to where I see myself in a few years and what kind of legacy I want to start building now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in envisioning different futures, weighing challenges and rewards, and reflecting on personal strengths and goals. Change Talk is present, and the client has identified potential paths forward. Confidence appears strong as the client leans towards innovation and building something new, suggesting readiness to move to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Both paths resonate deeply with your vision and values, and it's clear you're contemplating the kind of legacy you want to create. Given this, how might setting a specific goal for the next few years help clarify your decision, and what initial steps do you see yourself taking to move toward this goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think setting a specific goal for the next few years could definitely help me weigh my options more clearly. Maybe focusing on whether I want to establish my own venture or aim for a leadership role in a big company could guide my choice. As for initial steps, I should probably start by reaching out to alumni from both programs to hear their experiences and maybe even seek mentorship from someone who has taken a similar path.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Connecting with alumni and seeking mentorship are excellent first steps to gain insights and clarify your path. As you consider setting a specific goal, would you like to explore options around establishing a venture or stepping into a leadership role, and how you might integrate these insights into your decision-making process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, exploring those options more deeply sounds like a smart move. I think balancing the idea of starting a venture with the skills and network I might gain from the MBA could give me a clearer picture. Integrating insights from people who've been there and done that could really help solidify what direction aligns best with what I ultimately want to achieve. Maybe setting some short-term milestones could also help in shaping this goal, like identifying specific industries or roles that excite me within each path.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear decision-making path involving career goals and is actively considering initial steps like seeking alumni insights and mentorship. They are also contemplating short-term milestones to further clarify their direction. However, specifics on the concrete action plan and self-monitoring remain vague, indicating the need to continue refining these elements.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Setting short-term milestones sounds like a strategic approach to guide your decision-making. Exploring industries or roles that excite you can provide clarity on how each path aligns with your aspirations. As you integrate insights from alumni and mentors, what steps might you take to identify and pursue these milestones, ensuring they align with your long-term vision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(reflecting): I think the first step would be to really dig into the industries that interest me and see how they align with each program. I could start by researching companies or sectors that are innovating in data insights and see where I might fit in. From there, setting milestones like securing informational interviews or attending relevant networking events could help. Matching these experiences against what I'm hearing from alumni and mentors should help me see which path offers the most promising trajectory toward my long-term goals.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear goals and initial steps, such as reaching out to alumni and setting short-term milestones. Barriers, such as weighing program options related to their long-term vision, have been discussed. They have shown readiness through commitment talk about exploring specific industries and roles. However, since the action plan could be further detailed, it is prudent to continue in the Choosing phase to ensure comprehensive planning.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Your plan to dig into industries and set milestones like informational interviews and networking events sounds proactive and insightful. To ensure these steps align with your long-term vision, how might you plan to track your progress and adjust your goals based on what you discover?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(reflecting): Tracking my progress could involve keeping a journal or digital log of the insights I gain from interviews and events, noting any recurring themes or advice that resonates with me. Reflecting on these notes regularly could help me adjust my goals as needed. I also think setting check-in points every few months to evaluate where I stand in relation to my long-term vision could be helpful. This way, I can remain flexible and pivot if I find that one path is aligning more closely with what I ultimately want to achieve.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal, set specific action steps, and plans to self-monitor progress with reflection and check-ins. Commitment to pursuing informational interviews and networking indicates readiness to proceed. The client demonstrates confidence and understanding of how to adjust goals as needed, suggesting readiness to transition to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Your approach to tracking insights and setting regular check-in points is thoughtful and aligns beautifully with your goal-setting process. Keeping a journal to capture recurring themes and advice will provide clarity as you reflect on which path resonates most with your goals. As you continue to explore and adjust, trusting your instincts and remaining open to new possibilities will guide you toward a fulfilling decision. I'm here to support you as you embark on this exciting journey—feel free to reach out whenever you need guidance or encouragement.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks so much for all your help and support. I feel better equipped to tackle this decision now, and I'll definitely reach out if I need any more guidance along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes with a clear summary of the client's goals and a proactive next-step plan, including tracking progress. The client feels more equipped to make a decision and has been invited to reach out for further guidance if needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: 1.5-year MS MS&amp;E vs 2-year MBA (Stanford)\nHello all, looking for some guidance on a career pivot and would appreciate your opinions. I'm interested in going back to school next year for both networking and career growth. I have 6 years of work experience with a BSc in Engineering Management and currently work at a MANGA company and make a good salary. As mentioned previously the draw for school is in networking but more specifically also gaining additional skills to potentially create my own \"data insights\" company. \n\nI'm looking at two full time programs from Stanford - the MS Management Science &amp; Engineering (MS&amp;E) and the MBA. I was also looking into the MSCS program but fear it might be too technical and not provide enough of the financial and managerial science needed to build a for-profit company from the ground up. While taking 2 years away from work would a massive loss in earning potential, I've read the Stanford MBA completely overshadows the MS in MS&amp;E in terms of prestige (goes a long way for career opportunities and negotiations at the C-level). On the other hand, the 1.5 year MS MS&amp;E program is very flexible in terms of direction in the degree and would provide more technical courses which could come handy in the eventual creation of a data-focused company. \n\nAny graduates from these programs or people who've hired them present here and willing to chime in? Any and all thoughts/opinions are welcome!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

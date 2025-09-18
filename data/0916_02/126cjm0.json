@@ -1,0 +1,278 @@
+{
+  "id": "126cjm0",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you're ready to share your story. Whenever you're comfortable, feel free to tell me about what's been going on. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I’m just feeling really lost right now, like I’m stuck doing something I don’t even want to do. It's been hard trying to balance everything, and my grades are just reflecting how overwhelmed I feel.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing everything sounds incredibly challenging, and it makes sense that you're feeling overwhelmed. Can you tell me more about what's been contributing to this feeling of being stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's like, I'm only here because of family pressure, not because I actually chose this path. I don't even know if this is what I want, and that uncertainty just makes everything harder to deal with.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story about feeling lost due to family pressure and academic struggles is emerging. There's a deep context of uncertainty about their educational path, but further exploration of feelings and goals is needed to solidify understanding and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds really tough, feeling unsure about your own path because of family expectations. It must be difficult to manage those feelings of uncertainty and pressure at the same time. What has this experience been like for you, and how have you been handling it so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It’s been pretty rough, honestly. I’ve been trying to just push through and hope things get better, but it’s not really working. It feels like I’m just going through the motions without any real direction or motivation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed, uncertain about their path, and pressured by family expectations. There's a clear understanding of their internal conflict and its impact on their academic performance. Empathy and rapport are established, and the relevant context has been explored. The client’s goals and feelings are well-articulated.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "That must be exhausting, going through the motions without feeling truly motivated. You're doing your best to cope with these pressures. Imagine a future where you feel more aligned with your own choices and values. What do you think would be different in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I'd feel a lot more energized and excited about what I'm doing. If I was following a path I chose myself, I might be more motivated to actually succeed and enjoy the process, rather than just doing it for the sake of doing it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Envisioning a future that excites you sounds inspiring. Feeling energized and motivated from making your own choices seems like a fulfilling goal. On a scale from 0 to 10, how confident do you feel about moving towards a path that's more aligned with your own desires?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Honestly, probably around a 3 or 4 right now. It feels like there are so many barriers, like the family's expectations and just not knowing exactly what I want yet.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their current situation and their personal values and goals. There's some change talk about wanting to be energized and motivated by their own choices. However, their confidence level is low at 3-4, and ambivalence is still present. It's important to further explore barriers and strengthen their confidence before they are ready to choose specific actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Feeling a 3 or 4 shows you're aware of the challenges, yet you're considering a different path. It's understandable to feel uncertain with family expectations and unclear goals. What small steps might increase that confidence, even slightly?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Maybe starting with researching my interests and seeing what's out there could help. Also, talking to my family about how I'm feeling might be a good step, even though it's kind of intimidating. Just taking it slow seems like all I can handle right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed discrepancy between their current path and personal values, explored a future without change, and identified potential steps forward. However, their confidence is low, indicating a need for further exploration to boost confidence and resolve family-related ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Researching your interests and considering a conversation with your family are thoughtful steps toward clarity and confidence. It's understandable to take things slowly, given the weight of the situation. As you think about this, what values or interests would you like to explore more deeply?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I think I'd like to explore creative fields a bit more. I've always been interested in art and design, but never really pursued it seriously. I guess I'm curious about whether I could actually turn that into something real.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and identified initial steps, like researching interests and communicating with family. Confidence is low at 3-4, and specific change goals are still forming. The client is exploring values and interests but needs more clarity and confidence to solidify action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring creative fields like art and design sounds exciting and aligns with your curiosity. Your interest in seeing if this passion could become something real is inspiring. As you consider exploring this path, what aspects of art and design most capture your imagination?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I’ve always been drawn to graphic design and illustrations. I love how you can communicate ideas visually and create something that resonates with people. It’s just really cool how much impact design can have on the way we experience things.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by identifying interest in exploring creative fields and considering small steps like researching interests and talking to family. They are still showing ambivalence with low confidence (3-4) and uncertainty about goals. We should continue in the Guiding phase to further reduce ambivalence and build confidence before moving towards specific plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Graphic design and illustration indeed have a profound impact, and your passion for visual communication is palpable. It's exciting to think about pursuing something that truly resonates with you. As you reflect on these interests, what might be a way to further explore or engage with graphic design and illustrations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(exploring): I could maybe start by taking some online courses or workshops to get a feel for what it's really like. I've seen some free resources and communities online where people share their work and give feedback. Starting small like that might make it feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is considering changes and has expressed interest in exploring creative fields, but confidence is low (3-4). There's a plan to research interests and talk to family, showing progress. However, without a specific change goal or higher confidence, more guidance is needed to strengthen motivation and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "therapist(guiding): Taking online courses or joining creative communities sounds like a fantastic way to immerse yourself in graphic design and illustration. Starting small with free resources makes it manageable and encouraging. What do you think might be the most exciting part about diving into these learning opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(exploring): I think the most exciting part would be seeing my skills improve and being able to create stuff that I’m proud of. Also, connecting with other people who are into the same things could be really inspiring. It'd be cool to be part of a community that shares the same passion.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored interests and values, identified potential steps towards change, and expressed a desire to explore creative fields. However, confidence remains low (3-4) and ambivalence about family expectations persists. Further guiding is needed to strengthen confidence and resolve ambivalence before developing specific action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Witnessing your skills grow and creating work that fills you with pride sounds incredibly rewarding. The idea of connecting with others who share your passion for graphic design and illustration adds a wonderful layer of inspiration and support. How do you imagine being part of such a community might influence your journey toward this exciting path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(exploring): I think being part of a community like that could really keep me motivated and inspired. Having people to share ideas with and get feedback from would make the whole learning process more fun and less lonely. Plus, seeing others' work and progress could push me to keep improving.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown interest in exploring creative fields and identified specific steps like researching interests and taking online courses. They express curiosity about graphic design, a specific change goal. The client shows decreased ambivalence by focusing on motivation and excitement about community involvement. Change talk is present, indicating a shift towards readiness.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "The idea of being inspired and motivated by a community is truly empowering. It sounds like connecting with others could enhance your learning experience and keep you engaged in your journey. Based on what you've shared, would you like to set a goal to explore graphic design and illustration further? Possible options might include enrolling in an online course, joining a design community, or starting a small project. What feels like a good first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(exploring): I think starting with an online course could be a good first step. It'd give me some structure and help me learn the basics. From there, I could look into joining a design community to share my work and get feedback. That way, I'm learning and connecting at the same time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Choosing an online course as a first step sounds like a great way to gain structure and foundational skills. It's wonderful how you've thought about combining both learning and community involvement. As you plan to take this step, what are some of the resources or platforms you might consider for your course, and how do you envision staying motivated throughout this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(choosing): I’ve heard about platforms like Coursera or Skillshare that offer courses in graphic design, so I might start there. To stay motivated, I’ll try setting small goals like completing a lesson each week and maybe keeping a journal of my progress. Plus, I’ll remind myself that every step brings me closer to doing something I actually enjoy.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and a concrete action plan by choosing an online course and engaging with a community. They've acknowledged potential barriers and developed a self-monitoring strategy by setting small goals and keeping a progress journal. Confidence in their ability to change is reflected in their motivation strategy.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Those sound like excellent resources to kickstart your journey into graphic design, and setting weekly goals is a smart way to maintain momentum. Keeping a progress journal will also be a great way to reflect on your growth and keep your spirits high. Remember, every small step counts toward doing something you love. Your proactive approach is inspiring. As you embark on this path, feel free to reach out if you need support or want to share your achievements. You're paving a hopeful path toward a fulfilling passion, and that's truly commendable.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "I appreciate that. I'll definitely keep that in mind as I dive into this new adventure. Thanks for all the guidance!",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly identified steps toward their goal, including choosing platforms for courses and strategies to maintain motivation. They've expressed readiness to engage with their passion, indicating session objectives are met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I drop out of community college?\nI just found out I got a D+ in one of my end early classes which brought my gpa to a 2.4. I already failed one class and now I failed this one. I honestly have no idea what I want to do in life and am only attending to make my family members shut up. Should I just power through it or drop out? Or attend a college that I ACTUALLY wanted to go to. (Im also attending the cc to be closer to home)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

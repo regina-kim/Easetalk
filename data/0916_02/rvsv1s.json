@@ -1,0 +1,236 @@
+{
+  "id": "rvsv1s",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really unmotivated about my studies lately. It's like I can't find any purpose in what I'm doing, and it's been affecting my work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Thanks for sharing that; it's important to understand how you're feeling. What do you think might be contributing to this lack of motivation in your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's just that the course feels kind of pointless to me right now, like I can't see how it really applies to anything I want to do. It's hard to get excited about putting in the effort when it doesn't feel meaningful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their feelings and concerns about their lack of motivation and how it affects their studies. However, more exploration is needed to fully understand the underlying causes and context of their feelings. Establishing empathy and setting mutually agreed goals can be further developed before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Hearing you say that, it sounds like you're struggling to connect your studies with your future goals, and that's making it hard to find motivation. Can you share more about what you find meaningful or exciting outside of your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I'm not even sure what excites me right now. I used to love reading and writing, but lately, it feels like a chore. I just want to find something that sparks that passion again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been explored, revealing a lack of motivation linked to their perception of their studies' relevance, and the client's feelings toward their assignments. Empathy and rapport have been established, and the client has expressed a realization about needing to put in effort. This suggests readiness to explore motivations and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "You really want to rediscover that passion and excitement you once felt. Could you imagine what it might be like if you were to reconnect with that spark? What would be different in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think if I could reconnect with that spark, I'd feel more engaged and enthusiastic about my day-to-day work. It would probably make my studies feel less like a burden and more like something I actually want to invest time in.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Reconnecting with that spark sounds like it could bring a lot of positive change. On a scale of 0 to 10, how confident do you feel about finding a way to reignite that passion? What might increase your confidence a little more?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Right now, I'd say I'm at about a 4. I think just exploring different interests or finding a way to make what I'm learning feel more relevant to me might help bump that confidence up a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses some Change Talk by recognizing the need to put effort into assignments and expresses concern about failing a module. However, their confidence to change is low (4), and they are unsure how to reignite their passion. More exploration and support are needed to strengthen motivation and clarify values before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You're open to exploring new interests and making your studies feel more relevant, which could boost your confidence. What current aspects of your life align with your values or goals? How might these connections help you move forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Honestly, my friends and family are super important to me, and I value those relationships a lot. Maybe finding ways to incorporate more social or community aspects into my studies could make it feel more aligned with what I care about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential strategies, such as exploring new interests and incorporating social aspects into studies. However, the client's confidence is low at 4, which may not yet support the transition to action planning. Further exploration of how to increase this confidence and decrease ambivalence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your relationships hold great value for you, and it sounds like integrating social or community elements into your studies might make them more engaging and meaningful. How would you feel about exploring ways to connect your studies with those important relationships or community aspects?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): That sounds like a great idea, actually. It might make everything feel more purposeful and less isolated. I'm definitely open to exploring how I can bring those connections into my work.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some willingness to explore new strategies to make their studies feel more meaningful and aligned with their values, but their confidence in reigniting their passion is still low. They have not yet identified a specific change goal or next step, and their confidence is at 4. It would be beneficial to continue exploring and guiding to strengthen their motivation and readiness for change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring those connections seems promising and could definitely make a difference. What small steps do you think you could take to begin integrating those social or community elements into your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by joining a study group or a club related to my course. That might help make the work feel less solitary and more collaborative. Plus, getting different perspectives could be inspiring.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed intentions to make their studies more engaging by integrating social or community elements and identified initial steps like joining study groups. However, confidence is at 4, and more exploration of interests and relevance to values might be needed. Continuing in the Guiding phase could strengthen motivation and reduce ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Being part of a study group or club sounds like a great way to make things feel more collaborative and engaging. How do you feel about reaching out to find these groups or clubs, and what might be your next step in doing so?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(exploring): I'm feeling pretty good about the idea. I think I'll start by checking out the university's student groups and maybe asking around in class if anyone else is interested. It feels like a manageable first step.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown readiness signals such as envisioning life with change, identifying specific next steps, and expressing openness to taking actions like joining a study group. Although confidence is currently at 4, they have articulated steps to increase it and are actively engaging in the process of change. It's appropriate to advance to the Choosing phase to develop concrete action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Exploring student groups and asking classmates is a proactive start. What timeline do you envision for yourself to reach out, and how do you see yourself keeping track of your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(exploring): I think I can start looking into it this week, maybe attend a couple of club meetings to see what they're like. I'll just keep a note on my phone or something to track which groups I check out and how I feel about them. Hopefully, I can find something that clicks soon.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Attending club meetings this week and tracking your experiences on your phone sounds like a solid plan. What kind of reminders or support might help you keep up with this approach, and how would you like me to assist as you move forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Maybe just having a regular check-in with you would help keep me accountable. If you could remind me to reflect on how the group experiences are going, that would be great. I think knowing that someone else is keeping tabs might motivate me to stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear goals and a concrete action plan to integrate social aspects into their studies. They've discussed potential barriers, agreed on self-monitoring methods, and expressed commitment through taking steps. Regular check-ins for support are also planned, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Having regular check-ins sounds like a wonderful way to stay motivated and reflect on your journey. I'll be here to remind you to take a step back and consider how these group experiences are resonating with your goals and values. You've taken a thoughtful approach to make your studies more interactive and meaningful, and I believe this will bring about positive changes for you. So, let's schedule our next check-in and keep this momentum going. You've got this, and I'm here to support you every step of the way!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I really appreciate it. Let's definitely set up that next check-in so I can stay on top of things. I'm looking forward to seeing how this all plays out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully summarized goals and coping strategies, and discussed a next-step plan. The client feels motivated and supported, with plans for accountability through check-ins. Thus, it's appropriate to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Submitting a barely started assignment\nSoo , I’m in second year of university studying English Language and Linguistics .. since I started second year I’ve been thinking that my course is just so useless and have had no motivation to do the work so I have just been starting them the day before and submitting barely finished work. For my first one I got 58% (for one module) then I got 68% (for another module) .. I still have one more assignment for each module (so two left)\n\nHowever for another module I had two assignments literally wrote like 500 words out of 2000 for each and just submitted it … I’ll probably get like 20% on them both .. I’ve realised after this, I might as well just start putting in effort again .. if I do well in my other courses , do you guys think I will be able to retake the module that I failed?\n\nThanks",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

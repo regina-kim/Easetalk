@@ -1,0 +1,173 @@
+{
+  "id": "t2v0um",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What brings you in today? I'd love to hear more about what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've just been feeling really stuck with my studies, like no matter how much I try, I'm not getting anywhere. It's been super frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, feeling like you're putting in effort but not seeing the progress you want. What do you think might be contributing to this feeling of being stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm not entirely sure, but I think it might be a mix of stress and maybe just feeling overwhelmed with everything that's going on. It's like there's so much to do and not enough time to really grasp it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about feeling stuck in studies due to stress and being overwhelmed. The therapist showed empathy and explored contributing factors. However, there is no clear mutual goal or deep context about the client's feelings and thoughts yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like the stress and feeling overwhelmed are really weighing on you, especially with everything you need to manage. How does this stress and overwhelm typically show up for you in your day-to-day life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I guess it makes me feel pretty anxious and exhausted most of the time. I find it hard to focus or stay motivated, and sometimes I just end up procrastinating because it feels easier than facing it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being stuck, stressed, and overwhelmed. They've also expressed how these feelings manifest in their daily life, indicating an understanding of their situation. Empathy and rapport are established through the therapist's reflections.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It must be really tough to cope with those feelings of anxiety and exhaustion, especially when you're trying to focus on your studies. What would it be like for you if things were different, and you were able to manage this stress and overwhelm more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Honestly, it would be such a relief. I'd probably feel a lot more confident and maybe even enjoy my studies again. It'd be great to actually absorb and remember what I'm learning instead of just feeling lost and behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like finding ways to manage your stress could really transform your experience with your studies and bring back some enjoyment and confidence. On a scale from 0 to 10, how confident do you feel about finding new strategies to help with this stress and overwhelm?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Right now, I'd say maybe a 4 or 5. I know I need to make some changes, but I'm not quite sure where to start or what will really work for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and the potential positive outcomes of managing stress but expresses only moderate confidence (4 or 5) in finding strategies to manage it. We have not yet explored specific change goals or next steps, indicating the need to continue focusing on building confidence and clarifying goals before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Your openness to making changes is a great starting point. Considering where you are now, what small steps do you think could help increase your confidence from a 4 or 5 towards a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe starting with some time management techniques could help, like breaking tasks into smaller pieces or setting specific goals for each study session. Also, trying out some stress-reduction practices like deep breathing or short breaks might make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific ideas for change, such as time management techniques and stress-reduction practices, indicating readiness to develop an action plan. Change Talk is present, and confidence, while not high, is moving towards a specific strategy. The discrepancy between current struggles and desired outcomes was explored, and the client articulated a vision of relief and confidence with change.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It’s inspiring that you’re considering practical steps like time management and stress-reduction techniques. To support you in moving forward, what specific goal could you set around trying one or more of these strategies? Would it help to explore potential barriers and how you might overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think setting a goal to try at least one new time management technique this week could be a good start. Maybe I’ll start with breaking tasks into smaller chunks. As for barriers, I often get sidetracked by distractions, so figuring out how to minimize those would be helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Breaking tasks into smaller chunks sounds like a manageable and concrete step. To address potential distractions, perhaps options like setting up a distraction-free workspace or scheduling specific times for focused study could be explored. How does that sound as part of your action plan, and what might help in monitoring your progress with this new strategy?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That sounds pretty doable. I could try finding a quiet place in the library or using apps to block distracting sites during study time. Keeping a journal to track how well I stick to my plan and how it's affecting my stress levels might help me see if it's working.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan to try a time management technique, addressed potential barriers by planning to minimize distractions, and agreed to self-monitor their progress. They show commitment and readiness to take steps forward, indicating readiness to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Utilizing a quiet library space and apps to minimize distractions, along with journaling your progress, forms a strong foundation for your action plan. It's impressive how you're taking proactive steps to manage your stress. As you explore these new strategies, remember you have the ability to make adjustments along the way. Celebrating small victories could help maintain your motivation. For our next step, maybe set a time to review how these strategies are working for you and discuss any adjustments needed. You're on the path to regaining enjoyment and confidence in your studies, and I'm here to support you in this journey. Keep going, you're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll try to keep track of my progress and see how it goes this week.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan with steps to manage stress, including using apps and journaling. A follow-up plan to review progress is set. The session naturally concludes with encouragement and support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Hitting a wall in my studies\nThis semester has been hard on me. I keep hitting a wall in my studies, I keep forcing myself to study but it's not really helping if Im only absorbing just a small amount of knowledge from hours of studying. Have u guys been in these situation? And if u have been in this situation how do u get out of it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

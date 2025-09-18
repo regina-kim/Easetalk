@@ -1,0 +1,152 @@
+{
+  "id": "xp5ovz",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Would you like to share what’s been going on in your life recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just been feeling a bit overwhelmed lately. I've been juggling rugby, school, work, and trying to have some sort of social life, and it's starting to feel like too much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're managing a lot of responsibilities all at once, and that can certainly feel overwhelming. What has this experience been like for you, balancing all these different areas of your life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's been really tough. I feel like I'm constantly running from one thing to the next and don't have any time to just relax or do things I really enjoy, like hitting the gym or just chilling with friends.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns about feeling overwhelmed and contemplating quitting rugby. The conversation has successfully uncovered the client's thoughts and feelings about their current situation, balancing responsibilities, and the impact on their life. The therapist has validated these feelings. Goals and context have been mutually agreed upon.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds really exhausting, trying to keep up with everything without a moment for yourself. If you could imagine a change, what would an ideal balance look like for you, where you can enjoy both your responsibilities and your personal interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think an ideal balance would be having more time to hit the gym regularly and hang out with friends without feeling guilty or stressed about missing rugby practice. I'd like to have my job and studies prioritized, but still have enough downtime to not feel burnt out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like having that balance would give you more peace and energy. How important is it for you to work towards this ideal balance? On a scale from 0 to 10, how confident do you feel about being able to make some changes to move towards that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): It's really important to me, probably like an 8 or 9. But honestly, my confidence in being able to make those changes is maybe a 5. It's hard to imagine stepping back from rugby, even though I know it might help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed an ideal balance and a desire for change, with importance rated highly. However, confidence is still low, and ambivalence about rugby persists, indicating ongoing exploration of change options is needed. Moving to Choosing prematurely might not address these underlying issues sufficiently.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Rugby seems to hold a significant place in your life, even as you try to find a better balance. What do you think might help increase your confidence from a 5, to feel more capable of making those changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think getting some reassurance that it's okay to make decisions for my own well-being would help. Talking to someone who’s been through something similar or hearing from the coach or teammates that they understand might make it easier to step back if I choose to.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change, identified an ideal balance, and acknowledged the importance of change (8 or 9), though confidence is lower (5). Exploring support and reassurance indicates readiness to move forward. Change Talk is present, and a specific goal of reevaluating rugby involvement has been identified. The focus can shift to developing action plans and strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring the possibility of discussing your situation with your coach or teammates seems like a step that could help bolster your confidence. Would you like to plan how you might approach that conversation, or consider other options like scheduling specific downtime for yourself?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): Yeah, planning it out sounds like a good idea. Maybe figuring out how to bring it up with my coach and teammates so they know where I'm coming from could help. Scheduling some definite downtime for myself would also be really beneficial, I think.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Creating a plan to talk with your coach and teammates sounds like a constructive step forward. Perhaps you could outline what you want to express about your need for balance and well-being. Additionally, considering your schedule, what might be some ways to carve out that downtime for yourself each week? We can explore these steps together and come up with an action plan that feels right for you.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): That sounds good. I think I’d want to express to them that I appreciate the team but need to prioritize other parts of my life right now. As for downtime, maybe I could set specific days aside just for myself, like non-practice days, to relax and do things I enjoy. That might help me feel less stretched thin.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of discussing with the coach and teammates, and scheduling downtime. Barriers are acknowledged, and self-monitoring through a weekly schedule is considered. The client expresses commitment and confidence in making changes. These indicate readiness to transition to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It's really positive to hear that you're thinking about how to express your needs to your coach and teammates. Acknowledging your appreciation for the team, while explaining your need to focus on other areas, sounds like a thoughtful approach. Scheduling specific days for yourself, especially on non-practice days, could indeed offer that much-needed space to relax and enjoy the activities you love. \n\nYou're making great strides by identifying these steps, and your commitment to finding balance is evident. As you move forward, remember that prioritizing your well-being is a strength, not a weakness. If you ever feel like you need a bit more support or want to revisit your plan, we can always come back to these discussions. You're doing an amazing job, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I feel a bit more hopeful about managing everything better now. I'll definitely keep in touch if I need more help with this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively addressed the client's concerns by outlining steps and a plan for discussing their needs with the coach and teammates. Termination goals are met, and the client feels supported and hopeful.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Quitting a sport\nI want to quit my club rugby team. I am a sophomore in college, and I am debating on if finishing out the season is worth it.\nI played spring semester last year, and this year hasn’t been fun. There are lots of good rookies taking up playing time, and my play isn’t as good as theirs. The coach is also an issue, as I don’t think he’s fit to coach as many people as he does, almost on his own. He doesn’t even speak to me. I love lifting in the gym, and I have had to put that second to rugby, as well as my social life and my part time job. I can only go out once a week with friends, due to practice 4 times a week and work.\nIs it a bad look to quit my team to open up more time for a social life and work?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

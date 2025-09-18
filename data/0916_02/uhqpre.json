@@ -1,0 +1,131 @@
+{
+  "id": "uhqpre",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. Honestly, I'm feeling pretty overwhelmed and lost right now. It's been tough to even figure out where to start fixing things.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling overwhelmed can make it hard to know where to begin. Can you share more about what's been going on for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I just failed an entire semester at university, and it's like everything's piling up. I can't seem to break out of this cycle of procrastination and self-doubt.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's deep concerns and emotions about academic failure, procrastination, depression, and family expectations have been thoroughly explored. The client's narrative is detailed, revealing the context and depth of their struggles, and empathy and rapport appear established. This suggests readiness to shift towards strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds really tough, dealing with both academic pressure and self-doubt. What might life look like for you if you could break free from procrastination and gain more confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): If I could break free from this cycle, I feel like I'd be more engaged and actually enjoy my studies again. It'd be great to set goals and actually work towards them instead of just dreaming about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining that change, feeling more engaged and finding enjoyment in your studies, can be really inspiring. What do you think is one small step you might take to move toward that more confident, goal-oriented version of yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I guess a small step could be trying to set a routine or schedule to follow, even if it's just a little bit each day. Maybe starting with manageable tasks will help me feel a bit more in control.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of setting a routine to address procrastination and self-doubt. Change talk is present, and the client has reflected on the benefits of change. Although confidence was not explicitly measured, the client's willingness to consider a small step indicates readiness to move forward. Progress has been made in exploring life with and without change, and sustain talk has decreased.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating a routine sounds like a positive step toward feeling more in control. Based on what you've mentioned, we could explore options like setting specific study times or breaking down tasks into smaller goals. What do you think might work best for you in terms of structure?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I think breaking down tasks into smaller chunks could really help. Setting specific study times sounds good too, but I feel like if I can just get started on something small, it might be easier to build some momentum.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Breaking tasks into smaller chunks and getting started with those can definitely help build momentum. To develop this further, we could think about setting a goal for the week, like completing one small task each day. How does that sound, and what might be a good first task to tackle?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): That sounds reasonable. Maybe I could start with organizing my notes from this past term. It's a small task, but it might help me feel a bit more prepared and clear-headed moving forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan, breaking tasks into smaller chunks and setting specific study times. Barriers are discussed, such as procrastination and self-doubt. The client expresses commitment and readiness to start with organizing notes. This indicates readiness to move forward, despite ongoing emotional challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Organizing your notes is a great, manageable first step. It can really set the tone for feeling more prepared and clear-headed. Embracing this approach of breaking tasks down can contribute to building your confidence and momentum. As you move into this, remember to be kind to yourself and celebrate the small victories along the way. We've outlined this as a key goal, and setting those specific study times can also support your routine. If things feel challenging, remind yourself of why this matters to you and the positive future you're working towards.\n\nI'm here to support you as you take these steps. Perhaps you could check in with me next week about how organizing your notes went and how you're feeling about your progress. It's encouraging to see you taking charge of your path, and I'm confident in your ability to make thoughtful decisions that align with your goals.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely try to tackle the notes this week and see how that goes. I'll check in with you next week and let you know how it's working out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has discussed steps toward their goal, including task breakdowns and setting routines. Coping strategies and future check-ins are in place. They've committed to next steps, indicating progress towards closure of the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: after getting through school with increasingly worst habits, I have officially failed an entire semester.\nI should've known it was coming. I am so stuck, and beyond knowing what to do. \n\nSince the second semester of 10th grade, I have been depressed. I had spent about a year and a half obsessed with overachieving, eager to perform well, terrified of not living up to my father's expectations - and it had led me to a bunch of self-destructive study habits, that I didn't realize was harmful because it worked. Because I was GOOD at school, I was great at drawing, I was great at essays, I was lazy, but still determined and managed to get around to getting what I wanted out of myself. This is starting to sound like a very typical 'gifted' kid situation. But I really was good at a lot of things.\n\nI have this vivid memory of the first time I realized my body was *tired*. I had a deadline coming up for one of my classes, it was the night before, and I remember sitting in my chair, realizing that I wasn't stressed. That last-minute surge of energy I used to get hours before a deadline, that stress that I used to rely on, it didn't come. It was only after the deadline had passed, that my body sprang into action.\n\nBut I was lucky back then. The tenth grade and the years following. Granted countless extensions, had understanding and generous teachers - and at the end of the day, even if it was as if I had no stress or motivation left in my body, I would still get it done at some point. I didn't realize though, that even though I got through those assignments, it had made me insanely ashamed. I spent my eleventh grade suicidal because of how much I hated my brain for not working normally, for not being the way it used to be. I would have breakdowns every night before a deadline.\n\nWith every semester, it had gotten worse - I almost didn't graduate high school because I had waited till the day before the very last day of an online class to do an entire course's work.\n\nThen when I got to university, I barely scraped by. My first year had earned me a warning about my gpa. And I'd been so determined to do better. So determined to change - I've always been. The pandemic had torn my mental health apart - but it was okay, because now my classes were going to be in person, there was no excuse to not do well.\n\nFor the first time, this year, during the first semester of my second year of university, I failed every single class I attended.\n\n37 minutes ago was my final extended deadline to hand in a term paper. I am majoring in something I love, in something I'm privileged to be able to study.\n\nBut I stood there in front of a blank screen and did everything I could to distract myself from working. Going on my phone, scrolling through Twitter, playing games, apartment hunting, daydreaming while I listen to music, getting up to make food. Anything to keep myself from feeling any dread, and that would enable me to stay comfortable in my little bubble of self-hate and procrastination.\n\nIt's as if my brain cannot fathom putting in effort into *anything* anymore. I'd like to take a moment that this burnout has impacted all areas of my life. I don't draw. I don't write. I can hardly muster up the strength to write emails. I want so much for myself but it's as if this parasite in my brain manages to manipulate me into doing absolutely nothing. And now I've thrown away four months of dragging my feet through courses for nothing.\n\nI don't know how to change. I love studying literature, and I love the idea of school, but what's the point if I barely put effort into it? If I'm wracking up student debt just to fail? Just to throw it all away.\n\nI don't even know what to do. I'm afraid to tell my mother. She'll be so devastated, and she'll just blame herself. \n\nI don't even know the point of living if I'm just going to be on autopilot my whole life. If I'm just going to dream about reaching my goals, and never actually put the work to it.\n\nI wasn't even spoiled growing up. I was raised by a strong single mother that did everything to make sure I could have a life that I flourish in - but all I do is disappoint her. And my father. \n\nI'm sorry this was really long, but I can't talk to anyone about it and needed to just get it out there.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

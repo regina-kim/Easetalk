@@ -1,0 +1,173 @@
+{
+  "id": "10bglmo",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling a bit stressed out. I've just been dealing with some awkwardness in my dorm situation, and I'm not sure how to handle it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating dorm life can certainly be challenging. What about the situation feels most awkward or stressful for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's mainly the lack of privacy and the feeling of being intruded upon. It's hard to relax in my own space when there's someone else there so often.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, including her stress around lack of privacy due to her roommate's guest. The detailed context and feelings of awkwardness are clear, but mutual goals or deeper motivations haven't been explored yet. Further exploration is needed to fully understand the client's perspective.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Feeling like your personal space is being intruded upon must be really difficult. It makes sense that you might feel stressed when you can't fully relax in your own environment. Can you tell me more about how this affects your day-to-day life or any particular moments that stand out?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "It's like I can't really unwind or focus on my own stuff because I'm always aware there's someone else there. It's especially tough when I want to study or just have some quiet time to myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's core concern about dorm privacy has been clearly articulated, including emotional impact and specific context. The therapist has shown empathy and understanding, but there's a need to delve deeper into exploring feelings and thoughts before moving to motivation for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like having that lack of solitude is impacting your ability to concentrate and find peace. How do you usually manage when you notice these feelings coming up, or have you found anything that helps even a little bit?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): Sometimes I try to go to the library or find another quiet place on campus, but it’s not always convenient. I’ve also tried using headphones to block out the distractions, but it doesn’t really solve the feeling of having no privacy.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's narrative has been elicited, including the context of dorm life challenges, thoughts on privacy invasion, and feelings of stress and awkwardness. The therapist has expressed empathy and understanding of the impact on day-to-day life. Mutually acknowledged concerns and exploration of current coping strategies are evident. Goals for addressing the situation appear implicitly discussed, suggesting readiness for deeper exploration of motivations and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding ways to cope with limited privacy can be tough. It seems like you're really making an effort to manage it, though. When you think about changing this situation, what comes to mind as a step that might lead to feeling more at ease?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I've thought about talking to my roommate about it, but I’m worried about making things awkward or causing tension between us. I just don't want to overstep or seem unreasonable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It's understandable to feel concerned about how a conversation like that might affect your relationship. What would it look like for you to communicate your needs in a way that aligns with how you value harmony and respect in your living space?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I guess I'd want to approach it in a calm and understanding way, like maybe starting by acknowledging that I agreed to it at first but now it's starting to affect me differently. I’d try to express how I feel without making it seem like an attack, just to see if we can find a compromise that works for both of us.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal: discussing the issue with her roommate. The conversation explored her feelings, concerns, and potential steps while acknowledging her values of harmony and respect. Confidence and readiness to approach change are evident. The client has moved past ambivalence, indicating readiness for the Choosing phase to develop strategies for the conversation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach, aiming for open communication while maintaining the harmony you value. Based on your ideas, options might include setting a time to talk with your roommate, writing down your thoughts to express them clearly, or perhaps proposing specific quiet times. Which of these or any other ideas do you feel ready to turn into an action plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think setting a time to talk would be the best first step. It feels more personal and gives us both a chance to express how we feel. I might also jot down some key points beforehand, just to help me stay focused on what I want to say.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Setting a time to talk seems like a carefully considered choice, and preparing your thoughts beforehand can really help you express yourself clearly. How might you decide on the best time for this conversation, and what key points do you feel are most important to address?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I'll probably try to find a time when we're both relaxed, maybe during the weekend when we don't have classes. The key points would be how the situation affects my ability to focus and relax, and the need for some quiet time or boundaries that can work for both of us.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan: setting a time to talk with the roommate and preparing key points for discussion. They have discussed anticipated barriers and strategies to manage them, such as finding a relaxed time and preparing beforehand. The client has expressed readiness to take action and confidence in their approach.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Choosing a relaxed time during the weekend sounds like a great plan to ensure both of you are in a good frame of mind. Highlighting the impact on your focus and relaxation, and discussing the need for some mutual boundaries, shows you’re aiming for a respectful dialogue. As you prepare for this conversation, remember that expressing yourself with honesty and openness can pave the way for a supportive outcome. You're taking a positive step towards improving your living situation, and that's commendable. After your conversation, feel free to reach out if you'd like to discuss how it went or explore further strategies. You're doing a great job navigating this, and I’m here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll definitely let you know how it goes and reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has covered goal-setting with steps for resolving the client's concern, including communication strategies and timing. The client is prepared to discuss with their roommate and feels supported, indicating readiness for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Roommate brings her friend to sleep at our dorm every other night\nI know these kinds of posts show up every day on this sub and that if I have a problem with my roommate I should talk to them about it, but I can’t help but wonder if I’m being over dramatic. \n\nMy roommate for the past few months has been bringing her friend to sleep in our dorm. At the beginning, she asked me if it was okay and I said yes. And at first, everything was fine. She’d bring this friend every so often to our place and they would sleep the night with us. \n\nBut more recently, she’s been bringing them almost every other day and it’s starting to get quite unnerving to say the least. Mind you, I am 18F and her friend is 18M so it makes it kinda awkward for him to be sleeping here. \n\nAnd this would all be fine if we lived in a suite of some sort, but our dorm is traditional style and so we don’t have the luxury of our own private rooms. In fact, I can literally see her bed right across from mine while she is sleeping with her friend.\n\nBefore, she used to put a mattress on the floor next to her bed for him to sleep on, but now it’s literally them both sleeping together in the same bed which has made it even more uncomfortable. \n\nIs this a normal thing to do in college? I don’t really know if this is something I should tolerate or how to go about confronting this issue if it’s something I shouldn’t.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

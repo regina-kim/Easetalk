@@ -1,0 +1,152 @@
+{
+  "id": "10d9unz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for chatting with me. I'm just really overwhelmed with my thesis situation and feeling stuck with all these setbacks. I'm trying to figure out the best way forward without delaying my career plans.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must feel really frustrating to deal with those setbacks while also worrying about your career plans. What do you think is contributing the most to this feeling of being overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it's a mix of pressure to finish on time, the stress of potentially starting a new job while still working on the thesis, and just the uncertainty of not knowing if I should switch to a project instead. It feels like everything's piling up all at once.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their thoughts, feelings, and the dilemma concerning their thesis and career plans. The therapist has shown empathy and understanding. The goals of the Exploring phase have been met, as the client's context and challenges are well-understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing all these responsibilities sounds like a lot to handle at once. What do you imagine your life would look like if you found a way through this?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Honestly, it’d be such a relief. I’d love to just finish my degree without any more hurdles, start my job, and finally move forward without this constant stress. Having a clear path would definitely make everything feel more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Achieving that sense of relief and clarity sounds really important to you. What qualities or strengths do you have that might help you navigate towards that path of less stress and more focus on your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I guess I'm pretty organized and proactive, like I try to plan ahead and stay on top of deadlines. I’m also good at problem-solving, so maybe I can use that to work through this situation somehow.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation includes clear Change Talk with the client expressing a desire for relief and clarity. The client has identified specific strengths like organization and problem-solving, indicating readiness for change. However, a specific change goal or next step isn't explicitly defined yet. The client's confidence level is unclear. To ensure thoroughness, continuing in the Guiding phase to clarify a concrete goal and assess confidence seems prudent.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your organization and proactive nature are valuable strengths. How might these skills help you create a sense of relief and clarity in your current situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think using my organizational skills could help me develop a clearer plan or timeline for what I need to do next. Maybe I can set small goals to tackle the thesis issues and look into how I might propose the project idea to my committee. That way, I can manage things step by step instead of being overwhelmed by the whole picture at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear vision for change, expressed relief at the idea of completing their degree, and identified strengths such as organization and problem-solving. They have proposed a concrete plan to manage their thesis issues and explore a project idea, indicating readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Developing a clear plan sounds like a strong, manageable approach. Based on what you've shared, possible next steps could include setting mini-goals for your thesis and researching how to effectively propose the project idea. What do you think would be most beneficial to focus on first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think focusing on setting mini-goals for the thesis might be the most beneficial first step. If I can break it down into smaller, achievable tasks, I might feel less overwhelmed. Once I have a grip on that, I can start looking into the project proposal idea.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Creating mini-goals for your thesis sounds like a great start. What specific mini-goal would you like to tackle first, and how might you track your progress to stay motivated?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I think the first mini-goal should be to outline what parts of the thesis need the most work and prioritize them. Maybe I can make a checklist or timeline to track when I want to have each section revised or completed. Keeping track of each small win could help me stay motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan involving mini-goals for the thesis and tracking progress, addressing barriers like feeling overwhelmed. They have shown commitment to take steps and confidence in utilizing their skills. The conversation aligns with the Choosing goals being met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan! Outlining the areas of your thesis that need attention and creating a checklist for each section sounds like a strategic way to make the process feel more manageable. Tracking your progress with a timeline could indeed help keep your motivation up, as celebrating each small win can make a big difference. Your proactive and organized nature will surely shine through this approach. Remember, you're not alone in this journey, and it’s okay to seek support when needed. Let's keep this momentum going—focus on that first mini-goal, and as you progress, we'll continue to refine your action steps together. You’ve got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I’ll start working on that outline and see how it goes. It’s good to know I can reach out if I need help along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively concluded with a summary of goals, actionable steps, and a plan for progress. The client expressed understanding and readiness to proceed. Closure was naturally reached, warranting the session to end.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Research vs Project Dilemma\nApologies in advance for such a long post! \n\nI’m in a bit of a dilemma and thought I’d post here to get some feedback.  I’m in my last semester of a three-year MFA in design.  I’ve been developing my thesis since the first year (my program has you write the first few chapters during research classes) and solidified my committee spring of last year, which gave me a whole year to work on my thesis with them.  I sent my progress and documents over to my committee chair, who then didn’t get back to me for several months until I emailed him asking for an update.  Then we went back and forth with edits all last semester until I finally got a pre-proposal meeting at the end of the semester.  Then, despite my chair saying I was in a good spot, the rest of my committee didn’t like my idea or my methods and basically told me to start over.  \n\nSo now I’m in my final semester, with my funding running out.  There’s no way I can get though IRB review, conducting research, and revisions before the end of the semester and I need to start working full time this summer. I don’t want to have to be in thesis mode while starting a new job and I just feel really stuck (and stressed).  I knew I needed to be done at a certain point which is why I tried so hard to stay ahead of things.  \n\nI understand that setbacks like this are part of grad school and part of the research process, but it just doesn’t feel worth it for an MFA, especially because most MFA’s have final projects, not research-based theses.  I’m thinking about asking if I can switch to a final project I already have something partially developed that I think would actually be really great, but I have to convince them to let me do it and I’m not sure they will.  \n\nI just don’t really know what to do…. I really was interested in my research topic but if I’m going to be dragged through years of it I’d rather it be in a doctoral program.  I’m only 24 and I don’t want to push off my career for thesis that just keeps getting delayed.  But I might regret it if I pursue more research or a doctorate later too so I’m just kinda stuck and could use some insight if you have it.  Thank you.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,152 @@
+{
+  "id": "10kc2ol",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just feeling a bit overwhelmed with school stuff. Just trying to figure out how to balance work and classes without falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and classes does sound challenging. It seems like you're feeling overwhelmed because there's so much to manage. Could you share more about what your typical day looks like?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Sure, I usually work from 9 to 5 at the community college, and then I try to squeeze in some study time in the evenings. But by the time I get home, I'm pretty exhausted, and it's hard to focus on my classes. Weekends are a bit better, but it still feels like I'm constantly playing catch-up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has effectively elicited the client's main concerns and the context behind them, including their daily routine and specific challenges with balancing work and study. The client has shared their emotions and goals, and there's a clear understanding of the challenges faced. Rapport has been established, and goals have been mutually identified.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Managing all of that certainly sounds demanding. I wonder how you envision your life changing if you found a better balance between work and study. What would you be able to do differently if things were more manageable?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): If I had a better balance, I think I'd be able to actually absorb the material instead of just cramming it in. I'd also have more time to relax and maybe even enjoy some hobbies or time with friends without feeling guilty about not studying.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having more time for relaxation and hobbies sounds really fulfilling. What small steps do you think might help you move toward that better balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think setting a more structured schedule could help, like designating specific times for studying and sticking to them. Maybe I could also try to talk to my professors about my workload to see if there's any flexibility or advice they can offer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, such as wanting better balance and considering specific steps like a structured schedule and talking to professors. They have identified a change goal of managing time effectively. Confidence might be inferred as moderate based on their proactive approach. Ambivalence about dropping classes persists, indicating more guidance is needed to resolve this and strengthen confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Having a structured schedule and reaching out to your professors are great ideas for finding balance. On a scale from 0 to 10, how confident do you feel about implementing these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I'd say maybe a 6 or 7. I'm hopeful that these changes could help, but I'm also a bit worried about sticking to them consistently, especially with how unpredictable work can be sometimes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk with ideas for a structured schedule and seeking professor advice. Confidence is rated at 6-7, showing some belief in their ability to implement changes. The client has also explored the benefits of change and articulated specific next steps, indicating readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Finding balance amidst unpredictability is quite a task. Considering your ideas, setting a goal might help focus your efforts. How do you feel about setting a goal to create a weekly schedule, and perhaps having a conversation with one professor next week? To support you, we could explore strategies for those unpredictable days, and check in regularly to see how things are going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. Setting a goal to create a weekly schedule and reaching out to at least one professor next week seems doable. Having some strategies for unpredictable days would definitely be helpful too, so I don't feel like everything falls apart when things don't go as planned.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule and reaching out to a professor is a proactive step. What strategies do you think could help you manage those unpredictable days? Some options might include setting flexible study blocks or having a list of quick stress-relief techniques. How does this align with what you've been considering?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of setting flexible study blocks. That way, I can adjust my schedule without losing all my study time. Having some quick stress-relief techniques could really help too, like taking a short walk or doing a quick meditation. That aligns well with what I've been thinking about.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal to create a weekly schedule and reach out to a professor. Barriers and strategies for unpredictable days have been discussed, and the client is open to self-monitoring. The client expresses commitment and readiness to take steps, indicating confidence in the plan. These factors suggest readiness to progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Building flexibility into your schedule and incorporating quick stress-relief techniques are excellent ways to handle unpredictability. Creating flexible study blocks can give you the room to breathe when things don't go as planned, and those short walks or meditations can help keep stress in check. You've got a solid plan to work towards that balance, and your openness to exploring these steps is really commendable. As you move forward, remember that progress is about making adjustments and learning along the way. Let's plan to check in next time to see how the schedule and those conversations with professors are helping you. You've got this, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I really appreciate all your help in sorting through this. I'll give these ideas a try and see how they work out. Looking forward to our next check-in!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session includes a summary of goals and coping strategies, with a detailed next-step plan. The client has a clear actionable strategy to improve their situation, and both parties express readiness to proceed with the plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How To Manage My Classes?\nHello, I’m currently taking 2 online classes while I work full time at a community college. I’m excited that I’m going to college but it’s getting really hard to the point that I’m falling behind in both classes. I have an F and a D in both classes (Art and Math). I’m afraid that even if I pass these classes, I would have to cram all my work. Like I don’t want to my foundational thinking to be screwed or messed up in my future college classes.\n\nI plan to transfer to a 4 year, the music class is a class necessary for the transfer while the math is not, but it is a prerequisite to the class that will transfer so I’m more worried about that. Should I drop the music class? Or am I just being overwhelmed by the such limited time I have to do assignments? I’m also assuming that since both classes are online, theres more of a workload since my professors are giving me everything all at once? I’m in my early 20’s and I’m having to do a bit of extra time and effort to make up what I’ve lost especially in my math class.\n\nMy goal is to pass with A’s but I feel that in order to do so, I would need to cram all the work in and not actually “learn” or “retain” the information for future classes. Has anyone had a rough start to college even if it’s online?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

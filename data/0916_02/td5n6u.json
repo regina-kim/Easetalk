@@ -1,0 +1,215 @@
+{
+  "id": "td5n6u",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to meet you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, nice to meet you too. I just had an internship interview and now I'm feeling incredibly nervous about the whole thing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It’s understandable to feel nervous after an interview. What's making you feel anxious about it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I guess it's just that the idea of actually working there freaks me out. Like, what if I mess up or can't handle it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has begun to uncover the client's nervousness and fear about the internship. However, the therapist needs to explore more about the client's feelings, thoughts, and context surrounding the fear of leaving their comfort zone and the potential impact on their future. More exploration is needed to fully understand and validate the client's experience before moving to the next phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It makes sense that you might worry about stepping into a new environment. It sounds like you're concerned about the possibility of making mistakes or the pressure of handling new responsibilities. What's most concerning for you about these possibilities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: I think it's mostly the fear of failing and not being able to meet their expectations. In college, I know what I'm doing, but with this job, everything feels unpredictable.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their nervousness about the internship and fear of failing. Context behind their feelings was elicited, and rapport seems established. However, mutually agreed goals are not yet apparent. Further exploration is needed to deepen understanding and clarify goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Facing a new and unpredictable situation can indeed feel daunting. It seems like you're feeling this way because you're stepping into unfamiliar territory and there's a lot of uncertainty involved. How have you managed similar feelings or situations in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): In the past, I've usually just focused on my studies and stuck to what I know best. That's kind of my safe zone, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's concerns about fear of failure and moving out of their comfort zone, as well as the relevant context of their feelings about the internship and college. Empathy and rapport are evident, but there is room to further explore before transitioning to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Relying on what you know best has been a comforting strategy for you, staying within your safe zone. It sounds like diving into new experiences brings a different kind of challenge. What aspects of your studies give you that sense of safety and confidence?",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(exploring): I think it's because I know the structure and what to expect. Like, I can prepare for exams and assignments, but I don't know how to prepare for this job.",
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the essence of the client's concern about transitioning from a familiar college environment to a new job. The client has shared feelings, thoughts, and context about fear of failure and preference for familiar academic settings. Rapport has been established, and the therapist has demonstrated understanding, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Having a clear structure and expectations certainly brings comfort. Transitioning to a job feels less predictable. What might it mean for you to embrace this uncertainty, and what small steps could help bridge the gap between your current strengths and this new role?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): Embracing uncertainty sounds terrifying, but maybe it's about taking things one step at a time. I guess I could start by learning more about the role and what skills I might need, sort of like studying for a new subject.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach—treating the new role like a subject to learn about gradually. What skills or resources do you currently have that might assist you in this learning process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): client(reflecting): I guess I have pretty good research skills from all the essays I've done, and I'm not afraid to ask questions if I need to. I could probably use those to get a better understanding of the job.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to consider embracing uncertainty and identified skills such as research and asking questions to manage potential challenges, indicating a shift towards change. Although there is some Change Talk and initial steps, confidence levels and specific change goals have not been fully established. Continuing in the Guiding phase will help solidify these elements and further reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Your research skills and willingness to ask questions are valuable assets that can support you in this new role. How do you envision these strengths helping you as you move forward with this job opportunity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I imagine I could use them to really dig into what the job requires and maybe even reach out to people who have done similar work. It might help me feel less overwhelmed and more prepared.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by suggesting a plan to approach the job like a new subject. They've identified strengths such as research skills and asking questions, which they can use to prepare for the job. This indicates readiness with a specific goal and reduced ambivalence, suggesting they are ready to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Using your skills to research the job requirements and connect with others who've been in similar positions is a proactive strategy. As you consider moving forward, what specific goal would you like to set for yourself in the first few weeks of this job, and how might you use your strengths to achieve it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I think a good goal would be to get a handle on the basics of the role and try to understand the main tasks. I could use my research skills to gather as much information as I can and maybe set up some time with a mentor or someone who's done this before to ask questions and get advice.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Setting a goal to grasp the basics and understand the main tasks is a great start. To support this, you could consider creating a plan where you allocate specific times for research and reaching out to a mentor. What potential obstacles do you anticipate in this process, and how could you prepare for them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): I guess one obstacle might be feeling too overwhelmed or anxious to follow through with my plan. If that happens, I could take a step back and break tasks down into even smaller pieces, or just remind myself to take it day by day.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and concrete action plan for transitioning into the job, including using research skills and mentorship. They have also discussed potential barriers, such as feeling overwhelmed, and have strategies in place to address them. The conversation reflects readiness to move forward, with commitment to steps and confidence building.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "It's insightful to acknowledge that breaking tasks into smaller pieces can alleviate overwhelm and anxiety. Taking things day by day is a powerful strategy for managing stress. As you embark on this journey, remember that it's okay to take pauses and recalibrate your approach when needed. You've already shown resilience and adaptability in your studies, and these qualities will serve you well. Keep utilizing your research skills and don't hesitate to reach out for support when you need it. Moving forward, setting up a timeline for your research and potential meetings with mentors can keep you on track and motivated. I'm confident in your ability to navigate this transition with the thoughtful steps you've planned. Remember, support is always here when you need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I’ll try to keep all that in mind. It’s reassuring to know I don’t have to have it all figured out immediately. I'll start setting up that timeline and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals, discussed strategies to overcome potential obstacles, and seems motivated to start implementing their plan. The session has provided closure and encouragement, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College is my comfort zone\nIm a college freshman and I just finished my first internship interview... im shakin... \ni also feel like i dont want to get the job because it sounds so scary... what if i fail? Id rather just focus on my studies which im always good at... i wanted the job so bad before but now im so fucking terrified i feel like if they give it to me I'll say no.\nIm good at college and everything is going great i wanted this internship to have experience under my belt but im so fucking scared and nervous now i think i should ditch it\n\nIs this what growing up feels Iike?????",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

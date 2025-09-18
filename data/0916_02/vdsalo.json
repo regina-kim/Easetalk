@@ -1,0 +1,152 @@
+{
+  "id": "vdsalo",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Whatever is on your mind, I'm here to listen and explore it with you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just a bit stressed about choosing my major. I'm really unsure whether to go with pharmaceutical science or finance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can be a significant decision and it's understandable to feel stressed about it. What's been influencing your thoughts on pharmaceutical science and finance so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess I'm drawn to the pharma industry because it's where I see myself career-wise, but I'm not into the technical lab stuff. Finance seems more straightforward, but I'm afraid it might steer me away from the pharma field.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has elicited the client's primary concern and some context, but has not fully explored the client's feelings and thoughts about these options or established mutually agreed goals for the session.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing your interest in the pharma industry with the practical aspects of each major. What is it about the pharma industry that you find appealing, even though you're not into the lab work?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think it's the idea of being part of something that helps people and makes a difference. The business side of things, like strategy and management, really intrigues me more than the science itself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts and feelings about their dilemma, and relevant context has been explored. The therapist has shown empathy and understanding, and the client's preferences and values are becoming clearer. A foundation has been established for strengthening motivation and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "The way you’re drawn to making a difference while being intrigued by strategy and management is really insightful. How do you imagine your life looking if you pursued a path that combined these interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I picture myself in a role where I can oversee projects or lead teams, maybe working on bringing new products to market or improving healthcare systems. I want to feel like I'm contributing without being stuck in a lab.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Imagining a role where you lead and contribute to meaningful projects sounds exciting. How does the thought of bringing new products to market or improving healthcare systems align with where you see yourself in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "It definitely aligns with where I see myself because I want to be part of impactful projects without the technical side. It feels like a way to blend my interest in business with a cause I care about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk by envisioning a future role that combines interests in strategy, management, and contributing to impactful projects, aligning with their core values. They have a specific change goal of finding a major that supports this vision, with decreased ambivalence about the technical aspects of lab work. The client appears ready to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Focusing on impactful projects that blend business with a cause you care about is a wonderful direction. To help solidify this path, what specific steps might you consider to explore or prepare for such roles, possibly within both pharmaceutical science and finance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I might look into internship opportunities in pharma companies to get a sense of their business operations. I could also take some business courses or talk to professionals in the field to better understand what roles are available that don't involve lab work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Exploring internships and taking business courses are great steps toward your goal. As you consider these actions, what potential challenges do you foresee, and how might you plan to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I think a challenge might be feeling out of place if I'm not as technical as others in the pharma field. I guess I could address it by focusing on building my strengths in management and strategy, and maybe finding mentors who can guide me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan involving internships and courses. Barriers like feeling out of place and strategies like focusing on management strengths and finding mentors were discussed. They express confidence in navigating challenges, showing readiness to take actionable steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Recognizing that challenge shows a lot of self-awareness, and focusing on your strengths in management and strategy is a wise approach. Seeking mentors is another excellent way to navigate this journey. You've outlined some clear action steps by considering internships, courses, and connecting with professionals. Remember, it's okay to feel out of place at times; what's important is your commitment to learning and growing in the areas that truly interest you. Keep building on that enthusiasm for strategy and management, and you'll find your niche. For your next steps, maybe start by researching potential internship opportunities and reaching out to professionals who can offer insight and guidance. You've got a solid plan, and I'm here to support you as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll start looking into those internships and reaching out to people. It's a bit daunting, but having a plan makes it feel more manageable.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined clear action steps, including internships and courses, and has a plan to address potential challenges. The session naturally concluded with the client's readiness to start these steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what major should i take for my undergraduate\nshould i take pharmaceutical science/finance\ni'm really torn apaarttt TT I actually wanna be involved in the pharma industry, but not part of the R&amp;D, more like managerial",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

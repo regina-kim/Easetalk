@@ -1,0 +1,299 @@
+{
+  "id": "uy7d6w",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Would you like to share what's been going on for you recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, I've just been thinking a lot about my future and whether I'm on the right path with school. I'm not sure if continuing with my studies is the best choice for me right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling uncertain about your path and are considering whether school is the right fit for you at this moment. What has been leading you to question this direction?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, my grades haven’t been great, and I’m starting to doubt if I’m really cut out for this. It’s making me wonder if I should be focusing on something else, like getting a job instead.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns and context about their academic performance and future, with some emotional insight. However, more exploration of emotions, deeper values, and potential goals is needed before transitioning to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You're feeling doubt about your studies because of your grades, and that's leading you to consider other options like working. What aspects of getting a job appeal to you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I guess the idea of having some financial independence and getting real-world experience is pretty appealing. Plus, maybe I’d find something I’m actually good at and enjoy doing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their doubts about continuing education due to unsatisfactory grades and is considering working for financial independence and real-world experience. The essence of the client's story, including thoughts, feelings, and context, has been elicited, and the goals are mutually explored. The conversation is ready to transition to strengthening motivation for change and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "The thought of financial independence and gaining real-world experience seems to really resonate with you. What do you think your life might look like if you decided to explore the working world instead of continuing school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I imagine I'd feel a bit more self-reliant, and maybe more confident if I found a job I liked. It'd be nice to have some clarity on what I enjoy doing, but I'm also worried about what kind of jobs I could even get with my current qualifications.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Gaining self-reliance and confidence through work sounds important to you. If you consider the potential changes, what would life look like if you continued with school instead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I think staying in school might feel like more of the same struggle, trying to keep up with grades and not really knowing if it'll pay off in the end. But there’s always the chance that I could figure things out and find something I'm passionate about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by considering the appeal of financial independence and real-world experience through work. They have a specific concern about whether to continue studying or seek employment. However, there's no clear commitment to a change goal yet, and their confidence level hasn't been explicitly assessed. Continuing in the Guiding phase would help further explore these aspects.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "therapist(guiding): There's a real tension between the struggle with school and the hope of discovering something you're passionate about. On a scale of 0 to 10, how confident do you feel about making a decision that aligns with your goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I’d say maybe around a 4 or 5. I’m not entirely sure of what my goals are right now, which makes it tough to feel confident about any decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses significant ambivalence and has a low confidence level of 4-5 about making a decision. There is exploration of life with and without change, but no specific change goal is set, and the client's confidence is below 6. Continued exploration of values and goals is needed to address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Recognizing the uncertainty you're feeling about your goals is an important step. What values or aspects of life feel most important to you at this moment that might guide your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): I think what matters to me the most is feeling like I'm making progress in some way, whether that's in school or at a job. Security and stability are big too, but I want to make sure I'm not just settling for something that doesn't make me happy in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their current academic path and their values of financial independence and self-reliance. However, their confidence in making a decision is low (4-5), and they are still uncertain about their goals. More exploration of values and strengthening confidence is needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Progress and happiness seem to be key values for you, alongside security and stability. As you think about these values, what kind of life do you envision for yourself where these are all aligned?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I picture a life where I feel like I'm moving forward, maybe in a career path that challenges me but also makes me excited to get up in the morning. I'd want to feel stable, like I'm making enough to support myself comfortably, but I also don’t want to look back and regret not trying to find what genuinely makes me happy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed ambivalence and uncertainty about goals, with a confidence level of 4 or 5. While values and desired outcomes have been explored, a specific change goal or next step hasn't been established yet. Continuing in the Guiding phase would help solidify their readiness for change and define actionable goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "It sounds like you're envisioning a life where growth and genuine happiness are central, alongside stability. Exploring what truly excites you while ensuring you're moving forward financially is a strong foundation for your decision-making. What small steps could you consider taking to explore these interests or potential career paths further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by talking to people in fields I'm curious about, get their take on what they do. Internships or part-time jobs might help too, just to get a feel for different environments. I guess starting with a bit of research to see what's out there could help narrow things down.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific values and concerns, explored life scenarios with and without change, and identified next steps for exploration. However, confidence is below 6, and ambivalence about goals persists. Further guiding to boost confidence and clarify specific goals is needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Exploring different fields and gaining insights from others sounds like a thoughtful approach. Engaging in internships or part-time jobs could indeed provide valuable experiences and clarity. What aspects of this exploration feel most exciting or motivating to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think just the idea of potentially finding something I really click with is exciting. The chance to try different things and see what fits feels like it could be a refreshing change from the routine of school. It's motivating to think there might be a path where I can grow and be happy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified core values like progress, happiness, security, and stability, yet lacks a specific change goal or sufficient confidence (4-5) for making a decision. While there's motivation (Change Talk) and exploration of life with and without change, the client needs further guidance to clarify goals and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "The possibility of discovering a path that resonates with you and brings happiness sounds truly inspiring. Embracing this journey of exploration can indeed lead to fulfilling growth. How might this motivation influence your next steps in pursuing these opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I guess it makes me want to be proactive about reaching out and asking questions. Maybe I'll start with researching some industries and setting up informational interviews. Just taking those first few steps seems less daunting when I'm thinking about the possibility of finding something that really fits.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some reflection and motivation toward exploring career paths, yet confidence levels remain low, around 4 or 5, and no specific change goals are set. Ambivalence is still present regarding pursuing education versus working. Thus, the goals of the Guiding phase are not fully met yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "therapist(guiding): Taking those proactive steps seems like a great way to begin this journey of exploration. Your willingness to reach out and learn more shows a commendable drive towards finding a fulfilling path. How do you feel about setting some time aside to plan these initial steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, setting some dedicated time to plan sounds like a good move. It'll help me feel more organized and less overwhelmed. Maybe I can schedule a couple hours each week to focus on this, so it's manageable and feels like I'm steadily making progress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific steps such as researching industries and setting up informational interviews. The ambivalence about their path has decreased as they articulate a clear motivation to explore and find a fulfilling career. The conversation has shifted from uncertainty to proactive planning, indicating readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "That sounds like a practical and manageable approach. Scheduling a couple of hours each week for research and planning can help keep you focused and organized. Based on what you've mentioned, possible options could include creating a list of industries you're interested in and identifying people you might reach out to for informational interviews. How does this plan feel to you, and what might be some potential barriers you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(reflecting): The plan feels pretty solid and manageable. I like the idea of creating a list and having a clear focus each week. As for barriers, maybe just finding the right people to talk to or feeling nervous about reaching out could be a bit challenging, but I guess that's part of the process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "It's great that the plan feels solid and manageable for you. Creating a list and maintaining focus each week can indeed make the process smoother. As for feeling nervous about reaching out, it's completely natural. Perhaps practicing what you'd like to say or having a trusted friend review your approach could help ease those nerves. Would you like to brainstorm some strategies for overcoming these barriers?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that could be really helpful. I think having a bit of a script or some key points prepared would boost my confidence. Maybe we could also talk about some ways to find the right people to contact, since that's something I'm not super familiar with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving research and networking, with identified barriers and strategies to overcome them. The client expresses commitment and feels confident about the plan, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Having a script or key points ready is a practical way to boost your confidence when reaching out. To find the right people, you might consider leveraging professional networks like LinkedIn, or asking people in your existing network if they know anyone in the fields you’re interested in. As you prepare, remember that your curiosity and willingness to learn are strengths. You've got a strong foundation with your thoughtful planning. Keep reaching out and exploring with an open mind. You're on a good path, and I believe in your ability to make meaningful connections. Let's continue to build on these steps together and check in on how things are progressing as you put them into action.",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll definitely give LinkedIn a try and see who I can connect with. I'll keep you posted on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has naturally moved towards planning actionable steps and addressing potential barriers, aligning with the client's primary concern about career exploration. Next steps and coping strategies have been discussed, making it reasonable to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I stop after my foundation and just get a job instead?\nI'm in Foundation in Science and have just finished my 2nd semester and am on a break now. My results were also just released this afternoon and I have to say that it's not what I would imagine it to be. Currently my CGPA is 2.5 for my 1st and 2nd semester. This got me thinking, \"Should I go work instead or pursuing my undergraduate program?\"  And if I wanted to apply for a job after my 3rd semester, What can I do and How?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "17otv5s",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling really overwhelmed with school lately. I'm in a program I don't want to continue, and I'm thinking about withdrawing, but I'm not sure if it's the right move.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating feelings of overwhelm can be tough, especially when you're uncertain about your next steps. You're considering withdrawing because this program doesn't feel like the right fit for you. Could you share more about what aspects of the program are causing you to feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I originally thought the MSW program would be a good fit, but I've realized my interests align more with public health. On top of that, my mom's been really sick, and that's taken a lot out of me emotionally. It's hard to focus on classes when my mind is elsewhere.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including their thoughts, feelings, and context about their academic decisions and personal challenges. Empathy and rapport seem to be established, and goals regarding their dilemma have been mutually identified. Further exploration might risk becoming repetitive without new insights.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing your studies with family concerns sounds incredibly challenging, and it's understandable you're feeling pulled in different directions. You're recognizing a shift in your interests toward public health, and that's important. How might aligning your education with your interests and current circumstances affect your stress and overall well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think aligning my education with my true interests would definitely reduce some of the stress. It feels like a step in the right direction for my future. But right now, it’s just hard to focus on anything with everything going on with my mom.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough managing such a heavy emotional load while trying to find the right path forward. Shifting your focus to align your studies with your interests could relieve some of that stress. On a scale from 0 to 10, how confident do you feel about taking steps toward this change in your academic path, considering your current situation with your mom?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I'd say around a 6. I’m pretty sure I want to make the change and that it’s the right move, but my mom's situation makes everything feel more uncertain. It's hard to feel fully confident when I'm so emotionally scattered.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated change talk by acknowledging the potential benefits of aligning education with interests and has identified a specific change goal: considering withdrawing from the MSW program. Confidence is at 6, indicating readiness. Discrepancy between current behavior and values has been explored. Ambivalence remains due to familial concerns, but not prominently. Thus, readiness to discuss plans and address barriers is indicated.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Choosing to shift your academic path while supporting your mom is indeed a courageous step. With your confidence at about a 6, it sounds like you’re leaning toward making this change, but understandably, there are emotional hurdles. Considering your situation, what kind of small, manageable steps do you think you could take to start aligning your studies with your true interests? Some options might include speaking with an academic advisor or exploring public health programs online.",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I think talking to an academic advisor could be a good start. They might have insights or advice on transitioning smoothly. Also, looking into the MPH program more deeply might help solidify my decision and give me a clearer picture of what to expect.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Connecting with an academic advisor and exploring the MPH program seem like thoughtful, proactive steps. These actions can provide clarity and direction at your pace. How do you feel about setting a goal to reach out to an advisor within the next week, and perhaps dedicating some time to researching MPH programs? Are there any barriers you anticipate, and how might you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): I feel good about setting that goal. Reaching out within the next week sounds doable. The biggest barrier might be finding the energy to do it with everything else going on, but maybe breaking it down into smaller tasks could help. I could start by just drafting an email to the advisor and setting aside a little time each day to research.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified goals and a concrete action plan, addressing potential barriers by breaking tasks into smaller steps. They are committed to taking steps, such as reaching out to an advisor, and have expressed confidence in proceeding with their decision. This indicates readiness for termination as they are actively taking steps toward their new academic path.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That sounds like a practical and gentle approach to take on these tasks. Drafting an email and setting short, achievable research sessions can make it more manageable amidst everything happening with your mom. Recognizing the need to break things down shows self-awareness and adaptability. As you go through this, remember to be kind to yourself and acknowledge the effort you're putting in. You've got a good plan and are taking steps towards aligning with your interests. I'm here for you, supporting each step of your journey. Let's touch base soon to see how it's going and explore any new thoughts or feelings. You're doing great.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I’ll try to take it one step at a time and see how things go. I’ll reach out if I need more guidance before our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session includes a comprehensive summary of the client’s goals, steps, and coping strategies. A specific next-step plan is discussed, with the client expressing readiness to act. The session seems naturally concluded with closure addressed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I withdraw from my classes?\nLong story short... \n\nI am currently enrolled in a MSW program, but will not be pursuing it any longer. I'm starting an MPH program in the Spring at a different school. \n\nThere are only about 5 weeks of the semester left (this was my first semester), and I'm exhausted. My mom has been critically sick, and I've gotten really behind in some of my classes. I could email professors and probably get extensions, but I'm ready to drop out. I never plan on going back to the MSW program and I lack any motivation to finish. Although, I could push through.  \n\nMy gut instinct is to just withdraw, but my first thought is not always my best. :) \n\nWhat would you do if you were me? ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

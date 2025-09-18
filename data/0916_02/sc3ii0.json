@@ -1,0 +1,131 @@
+{
+  "id": "sc3ii0",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Is there something specific you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. I've been struggling with feeling inadequate in the lab because I can't seem to get the hang of surgeries, and it's really affecting my confidence.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, especially when it affects how you see yourself. You're feeling inadequate because mastering surgeries is taking longer than you expected. What has this experience been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's been really frustrating and disheartening. I just feel like I'm falling behind everyone else, and that's a tough pill to swallow.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story about feeling inadequate in the lab and the context related to struggles with mastering surgeries have been clearly elicited, including emotional impact and situational details. There seems to be a mutual understanding of the issue, and empathy has been established. It appears productive to move towards strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like this frustration is weighing heavily on you. When you think about what it would be like to feel more confident in your surgical skills, what comes to mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): Honestly, just being able to keep up with my peers and not feel like the odd one out would be amazing. I think I'd feel more like I actually belong in this field.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining that sense of belonging must feel encouraging. What do you think might help you start to bridge the gap between where you are now and where you'd like to be with your skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think having more structured guidance or mentorship could help, but I also know I need to work on being kinder to myself about where I am right now. Maybe I could find some ways to practice these skills in a less pressured environment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of increasing their surgical skills and identified potential strategies, like seeking mentorship and practicing in low-pressure scenarios. Change Talk is present, and there's a reduction in ambivalence, indicating readiness for planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Based on what you've shared, possible options to consider could be seeking out a mentor for structured guidance and creating opportunities to practice in a supportive setting. What specific steps do you think you could take to pursue these goals, and how might you prepare for any challenges that come up along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I could start by looking into whether there are any workshops or resources outside my lab where I can practice surgeries. Also, reaching out to someone more experienced for some one-on-one mentorship might be a good idea. As for preparing for challenges, I guess staying patient and reminding myself that improvement takes time would be key.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring workshops and mentorship sounds like a thoughtful plan. To make it concrete, what steps will you take first, and how can you monitor your progress in this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): I’ll start by researching any workshops available at the university or nearby institutions and reach out to my network to see if anyone can recommend a good mentor. I'll track my progress by setting small, achievable milestones and checking in with myself regularly to see how I'm feeling about my development.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified actionable steps such as researching workshops and seeking mentorship, and has considered monitoring progress through milestones. They discussed barriers and strategies like being patient and self-kind. The client shows readiness by committing to these actions. This aligns with the goals of the Choosing phase, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It's wonderful to see how proactive you've become in planning these steps for yourself. Looking into workshops and connecting with your network for mentorship can provide both the practical skills and the support you're seeking. Setting small milestones to monitor your progress is a great way to motivate yourself and recognize your achievements, no matter how incremental. Remember, being patient with yourself is just as important as your external efforts, so continue to practice that kindness. \n\nAs you move forward, if you ever feel like you're hitting a roadblock or just need someone to talk things through, know that support is always available. Your determination and commitment to growth are truly commendable. Keep taking those steps, and take pride in each one. Let's touch base in our next session to reflect on your progress and adjust your plan if necessary. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support and encouragement. I'll definitely start working on those steps and see how things go. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Goals and coping strategies were summarized, and specific next steps were discussed. Client has a plan for progress and self-monitoring. It feels natural to conclude this session and follow up later on their progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone else struggle with lab techniques?\nHey, Neuroscience Ph.D. candidate here. I work in a systems neuroscience lab. Therefore, one of the things you probably guess that we do are surgeries, except I could never learn how to do them. In short, the post-doc who taught me was not a very good teacher and the lab environment has not been the best for learning. I was taking so long to learn them that my PI basically said that the staff research scientist would do all my surgeries while I focused on building other skills. This has been probably one of the single biggest blows to my confidence as a researcher. A skill that I was sure I could learn. Everyone else in my cohort was able to learn them but me, and I cannot get over this. I hate being the only one who seems to not be able to do a very core thing in systems neuroscience. \n\nAny advice is welcome. I am trying my best to look past this, but it's hard. I am not particularly good at anything else. So, I am not bringing some other core skill to the lab that makes up for this deficiency.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

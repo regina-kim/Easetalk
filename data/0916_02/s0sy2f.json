@@ -1,0 +1,341 @@
+{
+  "id": "s0sy2f",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you doing today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay. I've just been thinking a lot about my decision to leave UCSB and go back to a community college. It's a bit stressful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a big decision weighing on you. What has been on your mind about making this change?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it feels pretty huge. I'm mostly worried about whether I'm making the right choice financially and academically. It's stressful to think about starting over with a new major, but also wanting to save money.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concern about leaving UCSB, touching on financial and academic worries. However, more exploration is needed to fully understand their feelings, thoughts, and the context of their decision before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Switching schools and majors is significant, and it's understandable to feel stressed about the financial and academic aspects. You're considering how this decision might impact your future in both areas. What are the main factors you're considering as you weigh this choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Well, I'm really thinking about how much debt I'll have if I stay at UCSB versus going to a community college. Plus, with switching majors, I feel like I might be able to figure things out better at a community college without the pressure of university costs. It's just hard to know if it's the best move in the long run.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including their thoughts and feelings about financial concerns and academic changes. Rapport is being built, and the therapist has a good understanding of the client's context. However, mutually agreed goals have not clearly emerged yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Navigating these decisions can feel overwhelming, especially when weighing debt against future opportunities. You're evaluating both financial implications and the chance to explore new academic paths with potentially less pressure. What experiences or insights have you gathered so far about the impact of these choices on your overall goals?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I've talked to a few people who left university for community college, and they said it helped them financially and gave them time to figure things out. It makes me hopeful, but I'm still unsure if it'll align with my long-term goals or if I'll miss out on something important by leaving UCSB now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's main concerns, thoughts, and feelings regarding leaving UCSB, focusing on financial and academic implications and future goals. There's a clear understanding and empathy established, and the client has also shared insights from others' experiences. Goals are mutually discussed.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Leaving UCSB for community college offers both opportunities and uncertainties, and it's great you've sought others' insights. Balancing hope with uncertainty is part of this decision. What aspects of your long-term goals are most important to you, and how might each option support or challenge those priorities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'm really focused on graduating with minimal debt and finding a career I enjoy. I think community college could help with the debt part and give me time to explore more options. But I'm worried that leaving UCSB might set me back in terms of networking or certain opportunities that come with a university.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Graduating with minimal debt and finding a fulfilling career are admirable goals. It sounds like community college might offer some financial relief and flexibility to explore various paths. On the other hand, you're weighing the potential networking and opportunities at UCSB. How confident do you feel about either option supporting what truly matters to you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "It's tough to feel totally confident because both options have their pros and cons... I mean, the financial relief from community college is appealing and could really help me in the long run. But then, UCSB has those connections and resources that could be valuable. It's like, I'm trying to see which one aligns better with what I really want for my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is weighing the pros and cons of two major educational paths and has expressed an understanding of how each aligns with their financial and career goals. They have considered insights from others with similar experiences and articulated specific change goals. However, the client is still expressing ambivalence about the decision, indicating there is room to further explore their confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Choosing between these paths is a complex decision, with enticing benefits on both sides. It’s wise that you’re considering how each aligns with your future aspirations. On a scale from 0 to 10, how confident do you feel about making a decision that supports your true goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm around a 5 right now. I'm split down the middle because both choices seem to have pretty significant implications for my future. I guess I'm hoping to gain more clarity soon to tip the balance one way or the other.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing ambivalence about leaving UCSB for community college due to financial and career considerations. While some Change Talk is present, the confidence level is 5, indicating uncertainty. The client’s ambivalence has not sufficiently decreased, making it premature to move to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Reaching a 5 shows that you're keenly evaluating both paths and their impact on your future. It's understandable to seek more clarity. What would need to happen for you to feel more confident about moving towards a decision that’s in line with your true goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I think having more information about how either choice would affect my career prospects and financial situation would help. Maybe talking to advisors or people who've been through something similar could give me better insight. I just need more concrete examples or stories to see which option might suit me best.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has not yet expressed a clear change goal or next step, and their confidence is at a 5. Ambivalence remains as they weigh financial relief against university opportunities. More exploration is needed to increase confidence and reduce ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gathering stories and advice from advisors or those who've experienced similar situations sounds like a practical step toward clarity. It seems like understanding the real-world outcomes can guide you in aligning your choice with your goals. What insights or questions do you hope to explore further with them to feel more confident in your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I really want to know how switching to community college impacted their career paths and if they felt like they missed out on any big opportunities by leaving a university. I'm curious about how they managed their finances and if the decision helped them in the long run. Basically, I want to hear if they felt like the move was worth it and aligned with their personal and professional goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still exploring the implications of both choices and expresses a confidence level of 5. There is no specific change goal or next step decided, and the client is seeking more information to resolve ambivalence. The conversation is appropriately progressing in the Guiding phase, and more clarity is needed before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Seeking real-life experiences about career impacts and opportunities after switching schools sounds like a valuable approach. You're looking for insights on how these choices affected long-term outcomes. How do you see these conversations influencing your perspective on aligning your education path with your personal and professional aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflective): I think hearing those firsthand stories could really help me see the potential long-term impacts of either choice. It might either reassure me that community college is a solid stepping stone or confirm that staying at UCSB is worth the financial strain for the benefits it offers. Overall, it might help me feel more at peace with whatever decision I make.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence with a confidence level of 5, exploring both options' impacts on finances and career, but lacks a specific change goal or decision. The client seeks more clarity through additional information and advice, indicating the need for further exploration before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Hearing those experiences could indeed provide clarity and peace of mind as you navigate this decision. It's insightful that you're open to both reassurances and confirmations about your educational path. What are some initial steps you could take to start gathering these stories and insights?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflective): I guess reaching out to academic advisors at both UCSB and the community college would be a good start. Maybe they could connect me with students who've been through this. I could also try finding forums or groups online where people share their experiences about transferring from a university to a community college.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still evaluating options and needs more information to make an informed decision. Confidence is at 5, indicating ambivalence. The client is considering steps to gather insights but hasn’t set a specific change goal or shown decreased ambivalence. Guiding should continue to solidify this process.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Reaching out to advisors and exploring online communities sounds like a proactive way to gather the insights you're seeking. You're taking meaningful steps toward understanding how each choice might align with your aspirations. How might gathering these insights impact your confidence in making a decision that feels right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflective): Gathering these insights could boost my confidence a lot because I'd be making a decision based on real experiences and not just assumptions or fears. I think it would give me a clearer picture of what to expect and help me weigh the pros and cons more effectively.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored the discrepancy between behaviors and goals, and has begun outlining specific steps to gather insights. Change Talk is present, but confidence is only at 5. Further exploration is needed to strengthen confidence and decrease ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "therapist(guiding): Engaging with those real experiences to inform your decision seems like a powerful way to shift from uncertainty to clarity. It's great that you're focused on gathering meaningful information to weigh your options. How do you feel about taking these steps toward a decision that aligns with your goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(reflective): It feels a bit daunting but also necessary. I'm a bit anxious about what I might find out, but I know the information will ultimately help me make a better choice. It's a step I'm ready to take, even if it feels overwhelming right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 37,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in gathering information to help make an informed decision and has identified specific actions to take. There is a decrease in ambivalence, and the client is open to change. However, further exploration of the insights from these actions is needed to strengthen commitment and plan specifics.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Acknowledging those feelings of anxiety and taking the step forward despite them shows a lot of courage and determination. You're ready to embrace the insights you'll gain, even if the process feels overwhelming. What might help you stay grounded and supported as you explore these stories and insights?",
+      "phase": "guiding"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client(reflective): I think having a support system in place would be really helpful, maybe talking things through with family or friends who know me well. Also, reminding myself that it's okay to feel unsure and that I'm doing this to make a more informed decision should keep me grounded.",
+      "phase": "guiding"
+    },
+    {
+      "index": 40,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals and next steps, such as gathering insights from advisors and online communities, indicating progress towards decision-making. They also recognize the impact of these steps on their confidence, showing a decrease in ambivalence. Although they feel anxious, their determination to proceed with informed decision-making is evident.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 41,
+      "role": "therapist",
+      "statement": "Having a support system of family and friends sounds like a wonderful resource as you navigate this process. Reminding yourself that feeling unsure is part of this journey can indeed keep you centered. Considering your approach to gathering these insights, what specific steps would you like to focus on first, and how can we plan to check in on your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "client",
+      "statement": "client(casual): I think I'll start by setting up meetings with the academic advisors to get some guidance and see if they can point me to students who've transferred before. I can also block some time to dive into forums or Reddit threads where folks talk about their experiences. Maybe we can check in after I've had a couple of those conversations to see where I'm at with things.",
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Those sound like well-thought-out steps to begin gathering valuable insights. Setting up meetings with advisors and exploring online forums is a proactive approach. How about we plan to check in after you've had a chance to speak with a few people? This way, we can reflect on what you've learned and adjust your approach if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "client(casual): That sounds like a good plan. I think having those check-ins will help me stay on track and make sense of everything I'm learning. I'm hoping it gives me some clarity and maybe even some peace of mind about all this.",
+      "phase": "choosing"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined clear goals by deciding to meet with advisors and explore forums, and they have a specific plan for checking in on their progress. They have indicated readiness to take these steps and have a support system in place. This shows they are prepared to begin enacting their plan and monitor their progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 46,
+      "role": "therapist",
+      "statement": "Having those check-ins to process your thoughts and insights will surely help you stay centered and informed. You're taking thoughtful steps toward gaining clarity, and it's okay to take your time with this process. Remember, you're doing this to align your choices with what truly matters to you. Keep reaching out for support from those who know you well, and be kind to yourself as you navigate through this decision. Looking forward to our next chat and hearing about the progress you've made. You're on the right path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 47,
+      "role": "client",
+      "statement": "client(casual): Thanks, that really means a lot. I'll try to keep reminding myself of that and take it one step at a time. Looking forward to catching up next time and hopefully having some good insights to share!",
+      "phase": "terminating"
+    },
+    {
+      "index": 48,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively reviewed goals, steps, and coping strategies, and established a clear next-step plan with check-ins. The client feels supported and ready to move forward, making it appropriate to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Leaving UCSB to go back to community college\nI am a second year student at UCSB and want to leave this quarter and go to my local community college. I want to do this because of financial reasons and because I just switched majors meaning I have to practically start over anyways. Has anyone else had the same experience? I'm curious if this sounds crazy or if it makes sense to anyone else or if anyone else has experienced it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

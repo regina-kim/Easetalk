@@ -1,0 +1,215 @@
+{
+  "id": "xpwwx3",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling a bit torn lately. I'm trying to decide between taking a job that would boost my resume or one that pays more and has a flexible schedule. It's just been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing career decisions can be challenging. You're feeling torn because both options have significant benefits that are important to you. Could you tell me more about what each job offers and what matters most to you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, so there's this IT job on campus, which seems like it would really help me gain some relevant experience. But then there are jobs like Doordash that pay more and give me more control over my schedule. Right now, I think flexibility and money are pretty important since I have a lot on my plate with school.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their dilemma and important factors influencing their decision. The therapist has acknowledged the complexity and sought further details, which the client provided. Empathy and rapport are evident, and the client's key concerns and context have been explored. However, mutually agreed goals have not emerged clearly. Further exploration may reveal additional insights or priorities.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're managing a lot with school, and having flexibility and financial stability is crucial for you at the moment. Can you share more about what aspects of the IT job appeal to you and how they might fit into your current priorities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, the IT job could really help me get some practical experience in my field, which feels important for the future. Plus, it might look good when I start hunting for internships. But fitting that around my classes and everything else is what's tricky.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's thoughts and feelings regarding their job decision dilemma, with detailed context about the importance of flexibility, financial stability, and practical experience for future goals. Empathy and rapport have been established, and the client's primary concerns and values are understood, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Balancing future benefits with present needs can be tough. You're contemplating how the IT job might pave the way for future opportunities, while also trying to manage your current commitments. How do you see each option aligning with your long-term goals and the life you're aiming for outside of school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Well, in the long run, I really want to land a solid internship and eventually a job in tech. So, the IT job seems like it could set me up nicely for that. But, outside of school, I need to make sure I can handle my expenses and have time for my studies and some downtime, which makes those flexible jobs tempting. It's like a tug-of-war between what's good now and what's good later.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It's clear you're weighing both immediate needs and future aspirations, which is a thoughtful approach. Considering the importance of both your academic success and career trajectory, how confident do you feel about managing your current commitments while pursuing the IT job? On a scale of 0 to 10, where do you place yourself, and what might help increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm probably at a 5 right now. I think if I could figure out a way to manage my time better or maybe find some support with my coursework, that might help bump up my confidence. It's just a little overwhelming trying to juggle everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses ambivalence between current flexibility and future career benefits, with Change Talk around long-term goals. Confidence is at 5, indicating uncertainty. Exploring discrepancies and potential strategies for increasing confidence should continue. To ensure the client is sufficiently prepared for the Choosing phase, more work is needed on ambivalence and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It's understandable to feel overwhelmed when juggling so much. You're at a 5 right now, and finding ways to manage your time and seek support could really make a difference. What small steps or resources do you think might help you move closer to feeling more confident in taking on the IT job?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client: I think setting up a proper schedule could be a good start, just to see where all my time is going. Maybe even reaching out to classmates or professors for advice on handling coursework more efficiently might help. Having a clear plan might make it feel less chaotic.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk, highlighting both options' alignment with long-term goals. A specific next step was discussed: creating a schedule and seeking coursework advice. Confidence is at 5, which indicates some ambivalence, but actionable steps to increase confidence were identified. The client is not fully confident yet, suggesting a need for more guiding before proceeding to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a structured schedule and seeking advice are great ideas that can offer more clarity and control. By identifying where your time goes and tapping into support from those around you, you're already moving toward an organized approach. How do these steps align with the life goals you’re working toward, and what impact might they have on your journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): I think having a schedule and reaching out to others could really help me stay on top of things and not feel so scattered. It's like laying a foundation for my future goals by making sure I'm not just scraping by now. If I can get a handle on my time and workload, I think it could really help me keep my eyes on the prize, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering small steps like scheduling and seeking advice. They recognize the benefits of the IT job for long-term goals but feel overwhelmed, with confidence at a 5. Ambivalence is still present, as the client considers both immediate financial needs and future career benefits. Therefore, it would be beneficial to continue guiding to bolster confidence and resolve ambivalence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "By setting a solid foundation now, you're effectively positioning yourself for success in both your immediate and future pursuits. The steps you're considering can keep you focused and balanced, aligning with your overarching goals. How does it feel to recognize these connections between your present actions and future aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, it feels kind of reassuring. Knowing that what I'm doing now can actually make a difference later helps take a bit of the pressure off. It's like there's a purpose to all this juggling, and that makes it a bit more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of the discrepancy between immediate financial needs and long-term career goals. Change Talk is evident as the client has identified specific steps like scheduling and seeking support to boost confidence. Although confidence is currently at 5, the client has recognized actionable strategies to increase it. The client has started to see the connection between present actions and future aspirations, indicating readiness to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Your sense of reassurance is a powerful motivator as you navigate these decisions. Let's work on an action plan to support your goals. You mentioned setting up a schedule and seeking advice from classmates or professors. Would you like to explore these steps further, or perhaps consider other options, like finding a study group or time management tools? How would you like to move forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(deciding): I think diving into setting up a schedule is a good first step, and maybe looking into some time management tools could help make it more efficient. I’ll also try talking to some classmates to see if they're up for forming a study group. It sounds like a solid plan to start with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a well-rounded plan to get started on. By creating a schedule and exploring time management tools, you'll be setting yourself up for more efficient use of your time. Engaging classmates for a study group adds a collaborative layer of support as well. How would you like to track your progress or adjust your plan if needed, and what might be some potential barriers you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(planning): I think I'll keep a journal or maybe use an app to track how well I'm sticking to my schedule. If something's not working, it might help me spot it early and tweak things. As for barriers, I guess motivation and unexpected assignments or changes in workload might throw me off, but hopefully, being more organized will help me deal with those better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan involving a schedule, study group, and time management tools. They have identified potential barriers and agreed on self-monitoring strategies. They are demonstrating commitment and readiness to implement these steps, showing confidence in their ability to adapt if challenges arise.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Keeping a journal or using an app to track your progress is a proactive way to stay on top of things. You're showing great foresight in planning for potential barriers like motivation dips or sudden changes in workload. By staying organized, you’re giving yourself room to adapt smoothly. Remember, it’s perfectly okay to adjust your plan as you go—you’re learning what works best for you. It’s inspiring to see your commitment to these steps. Keep nurturing that balance between structure and flexibility. How does it feel to have this plan laid out, and what’s one immediate step you’re excited to take after our session?",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "It feels pretty good to have a plan; it gives me something concrete to work with. I'm excited to start setting up my schedule right after this session—feels like a good way to hit the ground running.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete plan and coping strategies, and they express readiness to implement these changes. The session concluded with a clear next step. It is appropriate to end the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Choosing between jobs that are better financially and one’s that add to your resume\nThis decision has been bothering me for the past couple of days. I’m a computer science major who is studying for my masters (am a freshman atm) but choosing where to work during the school year isn’t exactly as easy as your summer job, obviously. My school has an IT department that students can work for that seems like pretty great experience and allows a little bump to my resume when I am to apply for internships in the tech field. \n\nOn the other hand though, you have jobs like Doordash that allow more flexibility in your schedule (which would be extremely helpful) and just pay significantly more. I’m not just referring to Doordash but many jobs in the area. This is not a straightforward do this or do that question of course, but I’m just stuck at a cross roads and am having a hard time choosing. Anyone got any pointers on what I should choose here? This isn’t going to be a full commitment, I hope to get an internship instead as I progress through college, but the choice still matters, thanks so much for the help in advance.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

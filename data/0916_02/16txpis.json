@@ -1,0 +1,299 @@
+{
+  "id": "16txpis",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, I guess. I've just been really stressed out about graduation and the whole loan situation. It's been weighing on me a lot lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduation and student loans can definitely be overwhelming. It sounds like you're feeling stressed because of the uncertainty and financial pressures. What's been particularly challenging for you in this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I guess it's the pressure of finding a job quickly, especially with that big private loan hanging over my head. Plus, I'm worried about whether my degree will actually help me land something decent before the payments kick in.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared significant details about their concerns, including financial pressures, educational goals, and future plans. Rapport appears to be building, but there are no mutually agreed goals yet, and more exploration of underlying feelings and thoughts is necessary to deepen understanding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Navigating the pressure of job hunting while facing loan responsibilities can be really daunting. It seems like you're feeling anxious because of the urgent need to secure employment and the uncertainty about how your degree will impact your job prospects. How have you been managing these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: Honestly, I've just been trying to focus on finishing my classes and not think too far ahead, but it's hard not to worry. Sometimes I talk to friends about it, but it feels like we're all in the same boat and not really sure what to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about graduation, loans, and future plans, providing both thought and context. They expressed feelings of stress, anxiety, and uncertainty. Empathy and rapport have been established as the therapist reflected these feelings back. The client has also shared their strategy of talking to friends, though it feels insufficient. Mutually agreed goals for exploration are not overtly stated, but an understanding of the client’s concerns is evident.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like you've been trying to take things one step at a time by concentrating on your classes, yet it's challenging to keep the worry at bay. Sharing your concerns with friends who are in a similar situation might offer some comfort, even though it doesn't always provide the answers. How do these conversations with your friends make you feel?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): They help a bit because we can relate to each other, but sometimes it feels like we're all just venting without actually solving anything. It’s like we’re all worried but don’t have any solutions to offer each other.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has provided a detailed account of their concerns about graduation, job pressure, and financial anxiety, including feelings and situational context. The therapist has acknowledged and empathized with these concerns, engaging in a mutual conversation. The goals of the Exploring phase appear to have been met, suggesting readiness to transition to Guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems like talking with your friends provides some relief through shared understanding, but also leaves you feeling stuck without clear solutions. How do you imagine your life might be different if you had a clearer path or plan for after graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): If I had a clearer plan, I think I'd feel a lot more at ease. Like, knowing exactly what steps to take next might make everything feel less overwhelming and maybe even a bit more exciting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having a clearer path could indeed make things feel more manageable and even spark some excitement about the future. On a scale from 0 to 10, how confident do you feel about being able to create that clear plan for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe around a 4 or 5? I feel like there are a lot of unknowns, but I think with some guidance and research, I could figure things out. Still, it's tough to see the full picture right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing a moderate level of confidence (4-5) and has not expressed any specific change goals or next steps. While there is some acknowledgment of potential benefits from having a clearer plan, they remain uncertain and ambivalent about their future steps. The guiding phase should continue to further explore and consolidate their motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): It sounds like you're recognizing the potential for clarity with some guidance and research, even though the road ahead seems unclear. What do you think might boost your confidence from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I think doing more research on job opportunities and talking to people who've been through this might help. Maybe even reaching out to career services at school or networking with alumni could give me some direction and boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential change goal (developing a clear plan for post-graduation) and recognized strategies to enhance confidence (research, networking). However, confidence is rated at 4 or 5, indicating ambivalence and need for further exploration of barriers and strategies. The client shows insight but still requires strengthening motivation and reducing ambivalence further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring job opportunities and connecting with people who've been in your shoes sounds like a proactive approach that could indeed enhance your confidence. What values or goals are guiding you as you consider these next steps in your career journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): Well, I really value stability and feeling secure, especially financially. I want to make sure I'm working towards a career that I enjoy, but also one that allows me to live comfortably and not worry about money all the time. Plus, I want to make a positive impact on the environment, so finding a balance between passion and practicality is important to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to take proactive steps and has identified specific actions, such as researching job opportunities and networking, to increase confidence. There's Change Talk with a focus on balancing passion and practicality, yet confidence is still moderate. These indicate readiness but more support could enhance confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Your desire for stability and security, both financially and in terms of making a positive environmental impact, is quite clear. Balancing passion with practicality seems to be a guiding principle in your career journey. How might aligning your next steps with these values influence your confidence and motivation moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I think aligning my steps with these values would make me feel more purposeful and driven. It’d remind me why I chose this path in the first place, and maybe that sense of purpose could help boost my confidence and keep me motivated in my job search.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to express Change Talk and has identified specific steps to boost their confidence, such as researching job opportunities and networking. They have also articulated values that align with their career goals. However, confidence is still at 4-5, indicating the need for further strengthening before moving to action planning. Thus, staying in the Guiding phase to solidify motivation and confidence is advisable.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Having a strong sense of purpose that aligns with your values can indeed be a powerful motivator, helping you stay focused and driven throughout your journey. What small steps do you think you could take right now to start aligning your actions with these values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(guiding): I could start by setting aside some time each week to research job opportunities in the state I want to move to and maybe reach out to people in my field for informational interviews. Also, I should definitely check in with career services at my school to see what resources they offer for alumni.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated values and goals, explored life with and without change, and identified potential steps to align actions with values. However, confidence is at 4 or 5, below the threshold for moving to action planning, and ambivalence remains regarding their capability. Further exploration in the Guiding phase is needed to strengthen confidence and reduce sustain talk.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Setting aside time for research and reaching out for informational interviews are excellent steps to align with your values and goals. Checking in with career services can also provide valuable support and guidance. As you think about taking these steps, what do you think might help you stay motivated and keep track of your progress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(guiding): I think setting some small, achievable goals each week could help keep me on track. Maybe even journaling about my progress or having a checklist could help me see how far I've come, which might keep me motivated. Plus, having a friend or family member to check in with could give me some accountability and support.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown insight into aligning actions with values and identified specific steps (research, networking, career services). Confidence is 4-5, indicating ambivalence. Change Talk is present, but confidence is below 6. More exploration of barriers and support may benefit the client.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Setting small, achievable goals each week, along with journaling and maintaining a checklist, seems like a great way to stay organized and inspired. Having a support system for accountability can add an extra layer of encouragement. Reflecting on your progress, how do you envision these strategies impacting your overall confidence and momentum in your job search?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "I think having a clear view of my progress would definitely boost my confidence, seeing that I'm actively working towards my goals. It could also serve as a reminder that even small steps are still steps forward, which could help me keep the momentum going and not get too discouraged if things don't happen right away.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of their values and goals, articulated specific steps they can take, and demonstrated motivation and confidence in their path forward. Confidence has increased, and ambivalence is not apparent, indicating readiness to transition to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Recognizing that even small steps are progress is a wonderful mindset that can really sustain your momentum. Based on what you mentioned, possible options to support your journey include starting with a weekly research schedule, reaching out to potential contacts for informational interviews, and engaging with career services. What specific goals would you like to set for this week, and how might you plan to monitor these steps moving forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(choosing): This week, I’d like to dedicate a couple of hours to researching job opportunities in the state I want to move to. I’ll also make it a goal to reach out to at least two people in my field for informational interviews. To keep track, I think I’ll use a journal to note down what I’ve done and any insights I get from the interviews. I’ll try to check in with career services to see if they have any workshops or resources that could help me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Those goals are a fantastic start. Dedicating time to research and connecting with professionals in your field can create a strong foundation for moving forward. Using a journal to reflect on your progress and insights sounds like a solid plan. Checking in with career services could also unlock additional resources. How do you envision overcoming any potential barriers that might arise as you work through these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "I guess the biggest barrier might be my own fear of rejection or feeling overwhelmed by everything I need to do. Maybe if I remind myself that reaching out to people or applying for jobs isn't a personal risk but a necessary step, it could help. Breaking tasks into smaller bits might make them feel less daunting too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan that includes research, networking, and utilization of career services. They have discussed potential barriers, like fear of rejection, and proposed solutions. The client expresses confidence in their plan and is motivated by tracking progress. These factors indicate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Acknowledging fears and finding ways to manage them shows a lot of self-awareness. Remembering that reaching out is a step, not a reflection of your worth, is a healthy perspective. Breaking tasks into smaller, more manageable bits can reduce overwhelm and make progress feel more achievable. As you continue this journey, focus on those small victories. I'm confident that with your resilience and commitment, you'll navigate these challenges effectively. Keep celebrating each step, and don't hesitate to lean on your support system when needed. Looking forward to hearing about your progress next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks for your support and encouragement. I'll definitely try to focus on those small victories and keep pushing forward. See you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals and coping strategies, demonstrating awareness of potential barriers and ways to overcome them. A next-step plan is discussed with a focus on incremental progress and support. The session naturally reaches closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Graduating soon and worried about repaying loans. Any advice?\nI am absolutely terrified to graduate simply because of only having six months to find a job and establish myself before starting repayment. I know federal loans can be based on income, but I also have a huge private loan because of an error with my university’s financial aid office ($30k). I’m going to be graduating with a not so useful environmental biology/zoology degree. The reason why I felt secure in this degree is because I absolutely do plan to go for my Master’s, but I’d really like to take a yearlong break. On top of this, I plan to move out of state (permanently) to attend school for my Master’s since there’s a ton of universities in the state with great programs, and also because this state has way more job opportunities for my degree. A ton more than my home state. \n\nI’m in my early 20s and I feel like I should have learned how to be an adult by now but I feel everything I’m talking about and my expectations for my future may be immature and naive. Reality is probably going to hit me like a truck.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

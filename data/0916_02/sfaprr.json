@@ -1,0 +1,173 @@
+{
+  "id": "sfaprr",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm just feeling a bit lost with my major and future career plans. I need some guidance on which direction I should take since I'm not sure about nursing anymore.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating career decisions can be really challenging. You might be feeling uncertain because nursing doesn't seem to fit as well as it once did. What aspects of nursing are causing you to question your path?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I realized I'm not as passionate about it as I thought I would be, and the idea of the work nurses do doesn't really excite me. I'm just worried that I picked it for the wrong reasons, like job stability, rather than genuine interest.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns about their major and career path and expressed feelings and thoughts about various fields. Rapport is established, and the counselor understands the client's dilemma and considerations. Goals are mutually clear regarding exploring career options.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be tough when you start questioning if your reasons for choosing a path align with your true interests. What do you envision your future looking like if you pursued something that truly excites and motivates you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Hmm, I picture myself doing something that involves a mix of creativity and analytics, like maybe marketing or something related to human behavior. I want to feel engaged and not dread going to work every day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining a future where you're engaged and eager to go to work sounds really fulfilling. What are some aspects of marketing or human behavior that you think would really capture your interest and keep you motivated?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I really like the idea of understanding why people make certain choices and how to influence those decisions, like through advertising or branding. It seems like a good mix of creativity and strategy, which I find appealing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown Change Talk by expressing interest in marketing and human behavior, indicating specific areas they find appealing. However, there is still significant ambivalence about their career path, as well as concerns about salary and job satisfaction. These elements suggest a need for further exploration of values and confidence building around potential changes. Therefore, it is prudent to continue in the Guiding phase to further clarify and strengthen their motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Understanding the psychology behind decisions and using creativity to influence behavior sounds like a fascinating and dynamic field. How do you feel about the possibility of exploring this path further, and what might be the first steps you'd consider in learning more about it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I'm definitely open to exploring it more, but I'm not entirely sure where to start. I guess I could talk to professors or advisors in the business school, or maybe look into some introductory marketing and psychology classes to get a better feel for what they're about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk and identified potential fields of interest that align with their values. They've outlined possible next steps, such as talking to professors or exploring related courses. Their confidence appears high, indicating readiness to explore further. However, they still express some ambivalence about career options and outcomes, suggesting ongoing need for guidance. To refine specific goals and address barriers, continuing in Guiding would be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Reaching out to professors or advisors and exploring introductory classes sounds like a solid start. On a scale from 0 to 10, how confident do you feel about taking these steps to learn more about marketing and psychology?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I'd say I'm around a 6 or 7. I'm hopeful, but there's still a bit of hesitation because I'm not completely sure if it's the right path yet. I think I just need to dive in and see how it feels. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown change talk with a desire to explore marketing and psychology, has a specific next step in mind, and indicated a confidence level of 6-7. Ambivalence about nursing has decreased while interest in a new path has been articulated, signaling readiness to start planning specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Taking those initial steps can provide clarity and direction. Let's think about setting a goal to help you move forward. How about aiming to speak with at least one professor or advisor and enrolling in an introductory class by the end of this semester? Possible barriers might include time management or lingering doubts. How do you feel about these steps, and what strategies could support you in overcoming any challenges?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think that's a good goal. Balancing everything might be tough since I'm still adjusting to college life, but I could try scheduling specific times for these tasks. Maybe setting reminders or organizing a weekly planner could help me keep on track and manage my time better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It seems like organizing your time with reminders and a planner could be a practical strategy to tackle this goal. Would you like to incorporate any other strategies, such as seeking support from peers or using campus resources, to help with time management? How do you see yourself monitoring your progress toward speaking with a professor or advisor and enrolling in a class by semester's end?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I think seeking support from peers could definitely help, especially if they’re going through similar experiences. I can also take advantage of campus resources like academic advising or tutoring centers. To monitor my progress, I could set smaller weekly goals, like researching which professors to contact or planning my schedule to fit in a new class, and check them off as I complete each step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan, including speaking with professors/advisors and enrolling in a class. Barriers such as time management have been discussed, and strategies like using reminders, a planner, and seeking peer support are in place. The client is committed to taking these steps, indicating readiness to move beyond the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a supportive network and utilizing campus resources really strengthens your plan. Setting smaller weekly goals is a great way to steadily work towards your larger objective. It's heartening to see your proactive approach to managing college life while exploring a new path. Remember, every small step is progress, and leaning on friends or campus resources is completely okay. You've got a solid plan in place, and it's clear you're ready to take these steps with a thoughtful approach. As you move forward, we'll keep checking in on how things are going, and I'm here to support you along the way. Keep believing in yourself, and let's continue to make this journey as enriching and fulfilling as possible.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I feel a bit more motivated and less overwhelmed with a plan in place. I'll definitely keep you updated on how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan, strategies, and a next-step schedule to explore new academic paths, indicating readiness for closure on current discussions.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: major help please! any suggestions appreciated\nI’m currently a second semester freshman majoring in nursing. I recently realized that I don’t want to be a nurse anymore, and don’t know if I ever did. I do know that I like science, especially chemistry, so I was thinking of changing my major to chem. Did some more overthinking, and I don’t know if I want a career in chem or if I just like the subject?? Also I feel there aren’t many career options for a chem degree, besides chem engineering which I know I do not want to do.\n\nNow, I’m debating switching to something business-related, possibly marketing, accounting, or finance? I’ve read different things about marketing, some say its useless today and some say its great. I want a degree that is useful but also diverse and can give me options since I don’t know for sure what I want to do after college. I can see myself in marketing or real estate.\n\nObviously salary is important as well, and personally I’d rather have a boring/easy job that makes bank than do something challenging and not make as much money. BUT I also don’t want to hate my job and want to kill myself. \n\nI’m slightly introverted but can be outgoing. I like to think I’m good at math/analytics. I also like learning about human behavior and psychology.  I just don’t know where to go from here. All I know is I don’t want to be a nurse lol. Any help/pointers are much much appreciated. TIA!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

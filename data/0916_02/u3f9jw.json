@@ -1,0 +1,152 @@
+{
+  "id": "u3f9jw",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm just feeling really drained after midterms. I put in so much effort but still feel like I'm behind and not getting much out of it. I want to find a better way to balance everything and actually enjoy what I'm learning.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing everything can be really challenging, especially after putting in so much effort. It sounds like you're feeling drained because you're not seeing the results you hoped for and want to enjoy learning more. Can you tell me more about what specifically feels overwhelming right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's just trying to keep up with all the assignments and studying while commuting every day. By the time I get home, I'm too exhausted to focus, and it feels like I'm just constantly playing catch-up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, context, and feelings have been discussed, including their exhaustion from managing studies and commuting. The client expressed a desire for change and improvement. Empathy and rapport have been established, and mutual goals are emerging, focusing on balancing college with personal life. It's now appropriate to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Commuting and trying to manage everything can certainly add to that exhaustion. It seems like you're caught in a cycle of constantly trying to keep up. What might it look like if you found a bit more balance in your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): If I had more balance, I'd probably have a set routine that gives me time to study and still relax or spend time with family. I think having some mental downtime would help me absorb what I'm learning better instead of cramming everything last minute.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining that balance sounds really fulfilling. Having a routine that includes both study and relaxation could make a big difference. On a scale from 0 to 10, how confident are you that you can work towards this more balanced routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think I'm at about a 5 right now. I know it's possible, but I still have trouble seeing how I can fit everything in without feeling overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has envisioned a balanced routine, indicating a sense of discrepancy between current and desired states. However, confidence is at 5, suggesting ambivalence and a need for further confidence building. While there is some Change Talk, more exploration and strengthening of motivation are needed before proceeding to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding that confidence is a journey, and being at a 5 shows you're open to change. What might help increase your confidence level a bit, even by one point?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): Maybe breaking down my tasks into smaller, more manageable pieces could help. If I could just see some small wins or progress, it might boost my confidence a bit. Plus, talking with other students who manage their time well might give me some good ideas.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identifying a desire for a balanced routine. They explored the potential benefits and challenges of change and indicated a confidence level of 5, showing openness to improvement. They have suggested strategies, like breaking tasks into smaller pieces and seeking peer advice, indicating a readiness to discuss specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Those are really insightful ideas. Breaking tasks into smaller pieces and seeking advice from peers could definitely offer a fresh perspective. Based on what you've shared, possible options include creating a detailed, yet flexible, weekly schedule and perhaps setting up a study group. What do you think would be a good first step to take towards this more balanced routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a weekly schedule would be a good first step. If I can lay out my week and see where my time is going, I might find some gaps to fit in study sessions and downtime. And maybe after that, I can work on joining or forming a study group to share tips and support each other.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule sounds like a great starting point. It can definitely help you visualize your time and find those gaps for study and relaxation. How might you go about setting up this schedule, and what barriers do you anticipate in sticking to it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by listing all my classes, assignments, and commuting time, then see where I can slot in study sessions and breaks. I might use a planner or a digital calendar to keep it organized. The biggest barrier might be actually sticking to it, especially if unexpected things pop up or if I just feel too tired to follow through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to create a weekly schedule and recognizes potential barriers such as unexpected events and fatigue. They have also suggested self-monitoring using a planner or digital calendar. The conversation reflects commitment to take specific steps, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Organizing your week with a planner or digital calendar is a proactive approach, and starting with listing classes and assignments is a solid first step. Acknowledging the challenge of unexpected interruptions and fatigue means you're already preparing for those moments. It's encouraging to see how committed you are to finding solutions.\n\nIn terms of sticking to the schedule, it might help to also build in some flexibility—allowing yourself some buffer time can accommodate the unexpected. Additionally, having a visual reminder of your progress, like checking off completed tasks, might provide a sense of accomplishment and keep you motivated.\n\nRemember, it's okay to adjust your plan as needed and give yourself grace as you find what works best for you. Taking these steps shows a lot of strength and willingness to improve your situation. As your next step, consider designing your weekly schedule and noticing how it feels in practice. Know that each small win is a step towards greater confidence and balance.\n\nFeel free to reach out if you need to discuss how the plan is working for you or explore additional strategies. You're making thoughtful decisions, and it's inspiring to see your dedication to finding balance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely give the schedule a try and see how it goes. I'll keep in mind the idea of building in some buffer time too.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has been provided with a concrete next-step plan to create a weekly schedule, acknowledging barriers and strategies to overcome them. They've expressed understanding and commitment to try it, suggesting readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Just finished the last midterm! I'm exhausted\nFinally after almost a whole week of exams. However, I think I'm doing something in the wrong way. I'm a Freshman engineering student just for context. \n\nI work hard and put so much time for college which may seem perfect. However, I'm always late in classes and midterms come while there is a ton I still have to study. Its exhausting because I dont get time to have fun and spend with my family. What's making me tired is what I achieve compared to the time and effort I put. \n\nI want to enjoy college and life and have the opportunity to finally understand what I'm learning not only for tests. Now that midterms are over, I'm looking for a new approach for college so I dont repeat the loop all over again.\n\nI'm very excited to hear your tips and thoughts.\n\nThings to put in consideration is that I'm a commuter. Commute to and back from college take about 2.5~3 hours daily + making me tired. Note, next year's commute is gonna be way shorter due to change of campus.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

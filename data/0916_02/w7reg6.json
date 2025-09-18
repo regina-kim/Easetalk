@@ -1,0 +1,131 @@
+{
+  "id": "w7reg6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling kinda stuck between my interests and career choices. I'm just trying to figure out if I'm making the right decision with my major and whether I should explore other fields.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing interests and career choices can certainly feel overwhelming. What are some of the interests or fields you find yourself drawn to, and how do they compare to your current major?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I'm majoring in Mechanical Engineering 'cause I like the hands-on stuff like woodworking and metalworking. But I'm also really curious about Psychology and how the mind works. It's hard to know which path will be best for me long-term.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and thoughts have been clearly shared, detailing their interests in engineering and psychology. Empathy and rapport appear established, with a mutual understanding of the client's goals to explore options. Relevant context, like potential career paths and academic decisions, has been discussed.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Exploring different paths can open up exciting possibilities. Considering your interests in both hands-on activities and understanding the mind, what do you imagine your life might look like if you followed each path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(considering): If I stick with Engineering, I can see myself in a stable job, maybe designing cool gadgets or working on sustainable projects. On the other hand, with Psychology, I imagine diving deep into research or helping people, but I'm worried about job stability and needing more schooling. It's tough to decide which future feels right.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Both paths have their unique rewards and challenges. Thinking about your values and long-term goals, how do these futures align with what's most important to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): That's a good point. I value stability and creativity, which I feel engineering offers, but I also want to make a meaningful impact on people's lives, which draws me to psychology. It's like trying to find a balance between practicality and passion.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged values like stability, creativity, and making an impact, showing awareness of the discrepancies between paths. Change Talk is present, expressing intent to stick with Engineering while exploring Psychology as a minor. They are considering a future action step. Despite some ambivalence, the client demonstrates readiness for planning specific actions, indicating that moving to Choosing is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your desire to balance practicality with passion is so insightful. Considering your values, what small steps could you take to explore both fields further, perhaps through courses, internships, or talking to professionals in each area?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I guess I could start by taking a Psychology class as a minor and see if it clicks. Maybe I can find some clubs or events related to both fields, or even chat with some professors to get a better feel. Internships sound like a smart idea too; they could give me a real sense of each career.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Those sound like proactive and insightful steps. To build on this, would it be helpful to set a goal of enrolling in a Psychology class next semester or exploring internship opportunities over the summer? We could also discuss potential barriers, like time management, and how you might overcome them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal to take a Psychology class next semester sounds like a good plan. I think exploring internships over the summer would be helpful too, to get a taste of both worlds. Time management might be a challenge, but maybe breaking things down into smaller tasks could help me manage it better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals of enrolling in a Psychology class and exploring internships, and has discussed potential barriers like time management. They have expressed commitment and readiness to take steps toward their exploration, showing confidence in managing their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Your plan to enroll in a Psychology class next semester and explore internships sounds like a thoughtful way to delve deeper into both fields. Breaking tasks into smaller steps is a great strategy for managing your time. To support you along this journey, perhaps setting a schedule or using a planner could help keep things organized. \n\nRemember, you're taking meaningful steps toward balancing your practicality and passion. Every small action you take is a step in discovering what truly resonates with you. Keep trusting your instincts, and know that I'm here to support you as you navigate this exciting exploration.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your guidance. I'll definitely try using a planner to keep everything on track. It's good to know I'm headed in the right direction, even if it's a bit overwhelming.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to explore Psychology as a minor while pursuing Engineering, understands potential barriers, and has coping strategies like using a planner. Goals and next steps are well discussed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Engineering —&gt; Psychology\nI’m starting university this Fall, in Mechanical Engineering. I chose it because I liked woodworking and metalworking in high school, and thought it’d be a stable career.  \n\nHowever, I have pretty split interests. Before I settled on an Engineering start, I was also considering English, Political Science, or Psychology. Thinking practically, for my situation I’ve ruled out English and Poli Sci as degree prospects, but am still curious about Psychology.\n\nOnly thing is, I’m aware that I might like it in theory, but that it might not be a feasible career. My plan is to explore it as a minor after talking to my advisor, but I’m not sure how close to the actual major that would be. Plus, I’ve had college students tell me that minors in a different field than your major can often deviate your focus.\n\nSo Psychology majors, do you think it’s worth such a big switch? Pros and cons of the major?\n\n—\n\nEDIT: Thanks so much everyone for the insight! I see now that a degree in Psychology, while versatile, is most effective with a PhD or some sort of further study behind it, but on its own can be difficult to hold down a career with. I’ll stick with Engineering, but will continue to explore Psych as a minor/hobby, and will look into human psychology aspects of Engineering/A.I. going down the line as well. \n\nThanks again, I’m excited to see what comes of this!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

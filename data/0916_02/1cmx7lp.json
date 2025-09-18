@@ -1,0 +1,299 @@
+{
+  "id": "1cmx7lp",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and explore anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just feeling really overwhelmed with trying to choose where to go to school. I got into a few great places, but it's so hard to pick one because they all have their perks.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling overwhelmed with so many good options. What are some of the perks that are important to you in choosing a school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess things like the campus vibe, location, and the programs they offer are big for me. I want to make sure I'm going somewhere that feels right, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and feelings, and the therapist has shown empathy and understanding. However, the client's goals and deeper motivations have not been fully explored yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a place that feels right is really important. How do you imagine the ideal campus vibe or location making you feel?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I imagine feeling comfortable and like I fit in, with a good mix of social and study stuff. It'd be nice if the location had some cool outdoor activities too, but I'm not sure how much all that really matters in the long run.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings, concerns, and some criteria for their decision. However, further exploration of their thoughts and feelings may deepen understanding and rapport, and clarify the client's priorities before moving to the guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Feeling comfortable and fitting in can really enhance your college experience. It seems like having a good balance between social and academic life, along with some outdoor activities, is something you're contemplating. What factors do you think might influence how much these aspects matter to you in the long term?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think it might depend on how my interests and priorities change over time, like if I get more into academics or want to explore hobbies. It’s hard to predict what will matter most later on, so it’s stressing me out trying to choose now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern about feeling overwhelmed with school choices and has identified key factors affecting their decision, like campus vibe, location, and future priorities. The therapist has shown empathy and understanding, establishing a good rapport. The exploring phase goals have been met, as the client's thoughts and feelings are well understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Navigating future possibilities can be quite daunting. You're considering how your interests and priorities might evolve, which is insightful. On a scale of 0 to 10, how confident do you feel about finding a balance between these factors in your decision-making process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 5 or 6. I feel like I have an idea of what I want, but there's still a lot of uncertainty and pressure to make the right choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Navigating through uncertainty while feeling some pressure can be tough. It's great that you already have some clarity about your wants. What might help increase your confidence from a 5 or 6 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think maybe talking to more people who've been through this might help, or visiting the campuses again if possible. Sometimes it feels like I just need a bit more insight or a fresh perspective to boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is actively expressing Change Talk by considering actions to boost confidence and exploring decision-making factors. Confidence is expressed at 5 or 6, indicating a moderate readiness for change, but more support is needed to solidify this. The client mentioned specific actions like talking to others or revisiting campuses. However, ambivalence is still present, suggesting the client isn’t fully ready to advance to planning actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Gaining new perspectives by talking to others or revisiting the campuses could indeed be beneficial. It's wonderful that you're open to exploring these options. What insights or feelings would you hope to gain from these conversations or visits to help you feel more certain?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I hope to get a better sense of what daily life is really like at each place, beyond what I've read or imagined. Maybe hearing personal stories or seeing how I feel on campus again will make things click, like I'll just know where I belong.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client exhibits some Change Talk with a specific goal of gaining more insights through conversations and campus visits. Confidence is at a 5 or 6. Ambivalence is present but decreasing as the client expresses hope that further exploration will help. More exploration of specific next steps or strategies is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Discovering what daily life is truly like could definitely offer valuable clarity. Hearing personal stories and experiencing the campus atmosphere again might help things fall into place for you. What would it mean for you to find that sense of belonging and certainty in your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I think finding that sense of belonging would mean I could finally relax and focus on enjoying the experience instead of stressing about the choice. It would be a relief to feel like I'm in the right place and can start planning my future there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, shown by their willingness to seek additional perspectives and revisit campuses for clarity. Confidence is around a 5-6, which indicates some readiness but not fully. Specific actions like talking to people or visiting campuses signal steps toward decision-making. However, ambivalence still exists, and confidence isn't fully solidified, suggesting the need for more guiding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling that relief and being able to enjoy the experience would indeed be significant. It's encouraging that you're visualizing that sense of belonging. What aspects of your experience are most important for you to enjoy once you find that right place?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I want to enjoy making new friends, exploring different classes, and just having fun in a new environment. I think feeling excited about the opportunities and the overall vibe of the place is important for me to really thrive.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to gain more insight through conversations and campus visits. They have identified specific actions to increase their confidence and visualized their goals, but confidence remains at 5 or 6. Ambivalence is present, with no definitive change goal established yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Embracing the excitement of new friendships, diverse classes, and fun experiences in a fresh environment truly captures the essence of thriving. Your focus on the opportunities and vibe of the place seems vital to your sense of fulfillment. How might these elements align with your long-term goals and aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "I think these elements would help me grow both personally and academically. Having a supportive and engaging environment could open up paths I haven't considered yet and help me figure out what I really want to do in the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering actions to gain clarity, such as revisiting campuses and seeking others' insights. They have a confidence level of 5-6, indicating room for strengthening motivation, and a clear sense of what finding the right place means for them. However, there is still some ambivalence and uncertainty, suggesting more guiding is needed to solidify confidence and reduce sustain talk.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "therapist(guiding): It’s inspiring that you see personal and academic growth as intertwined in your journey. A supportive and engaging environment could indeed reveal new paths and clarify your future goals. What steps might you take to ensure you immerse yourself fully in this growth once you find the right place?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I think I'd try to get involved in clubs or activities that interest me and push me out of my comfort zone. Also, maybe regularly checking in with myself to see how I'm feeling and adjusting if needed could help me stay on track.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown increased clarity about their desires and some potential steps to boost confidence. However, confidence is still at 5 or 6, and specific change goals are not finalized. Further exploration of sustaining factors and confidence building is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Getting involved in clubs and activities while stepping out of your comfort zone sounds like a fantastic approach to immerse yourself in growth. Regular self-check-ins to assess your feelings and make necessary adjustments reflect a proactive mindset. How do you feel these actions might impact your journey towards achieving your aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "I think they could really help me stay motivated and focused on what I want to achieve. By being proactive and staying involved, I might discover new interests and paths that align with my goals, which would be super rewarding.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's envisioned life with change and the discrepancy between their current uncertainty and desired clarity. Change Talk is present with proactive steps and goals discussed. The client expresses confidence and decreased ambivalence, indicating readiness for specific planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Your plan to stay motivated and uncover new interests through involvement and self-reflection is truly commendable. By taking these proactive steps, you might find rewarding paths that align with your aspirations. As you consider this journey, what specific goals or action plans could you set to support your engagement in these activities and check-ins?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "I guess I could start by researching clubs and organizations that align with my interests before I even get there. Setting small, achievable goals like attending a certain number of events or meetings each month might help. Also, I could schedule regular times to reflect in a journal or talk to a mentor.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Beginning by researching clubs and organizations ahead of time is a wonderful step. Setting small goals, like attending events or meetings monthly, can make your involvement manageable and rewarding. Journaling or talking with a mentor regularly for reflection is also a great way to stay connected with your progress. What potential barriers do you anticipate in sticking to these plans, and how might you navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "I might get overwhelmed with balancing everything and end up procrastinating. To navigate that, I could try to manage my time better and maybe prioritize what's most important each week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, identified potential barriers, and discussed strategies to navigate them. They show commitment and a proactive approach, indicating readiness to move forward. The session has effectively addressed Choosing phase goals.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Your awareness of potential overwhelm and procrastination shows great insight. Managing your time and prioritizing each week’s tasks can be powerful tools to help maintain your focus. It sounds like you’re really committed to creating a balanced and rewarding college experience. As you move forward, perhaps consider planning a weekly schedule that includes both commitments and downtime to recharge. Remember, it's okay to adjust the plan as you go. You've got a solid foundation in place, and with your proactive approach, you're well-equipped to handle challenges. Keep celebrating those small victories and be kind to yourself on this journey. Looking forward to hearing about your progress next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll definitely try to make a weekly schedule that includes some downtime, too. I'll let you know how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, coping strategies, and a next-step plan. The client expressed gratitude and agreed to try the suggested plan. There is a natural sense of closure with no invitation for further discussion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Idk where to go to school and I’m tired of trying to decide\nI got into university of Utah, Colorado state, Oregon state, and penn state and love all of them, I made pros and cons lists, visualized everything what life at each school would be like, and all that. But I still cannot decide. Can I get some second opinions/views?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

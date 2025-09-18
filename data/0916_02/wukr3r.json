@@ -1,0 +1,131 @@
+{
+  "id": "wukr3r",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been thinking about how commuting to uni is gonna affect my social life, and I'm kinda worried I won't make as many friends since I'm not living on campus.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It makes sense to feel concerned about that. What aspects of your social life are most important to you while you're at university?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I really wanna feel connected and have a group of friends I can hang out with, you know? Just having people to talk to and do stuff with outside of class is super important to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's core concern about making friends while commuting and living off-campus has been clearly expressed. Context and feelings around the social aspect of university life have been discussed, establishing rapport and understanding. This sets the foundation to guide the client towards exploring their motivations and potential strategies for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Building those connections certainly seems valuable for you. How do you imagine your life at university would look if you were able to develop those friendships, even with the commute?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): I think it’d be more fun and less lonely. Having people to grab lunch or study with would make the whole experience feel more complete and enjoyable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having those connections sounds like it would really enhance your university experience. What do you think might help you feel confident in making these friendships, despite commuting?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess finding ways to be more involved on campus could help, like joining clubs or study groups. It'd be great to have regular things to do that connect me with other students.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying joining clubs or study groups as a potential solution, indicating a specific goal. They have visualized life with these changes, suggesting a positive impact. There is no significant sustain talk, and the client's confidence seems adequate. The client’s readiness suggests progression to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Getting involved in campus activities and joining clubs sounds like a constructive approach. Based on what you're considering, would you like to set a goal to explore a certain number of clubs or groups to join within the next month? We can also think about strategies to tackle any barriers, like time management. How does that sound?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Yeah, setting a goal to check out a few clubs sounds like a good idea. Managing my time is definitely one of my worries since commuting takes up a chunk of my day, but I'm willing to give it a shot and see how it works out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring a few clubs sounds like a proactive start. Perhaps we can set a goal to visit, say, two or three clubs this month. Regarding time management, would creating a weekly schedule help you balance commuting and campus activities? What steps do you think might support this?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): Making a weekly schedule could definitely help. If I plan out my travel times and figure out which days I could stay later on campus, that might make it easier to fit in some activities. Plus, knowing my free slots ahead of time would help me commit to joining clubs.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to explore clubs and is open to creating a weekly schedule to manage time, addressing potential barriers. They are committed to taking steps and have shown confidence in balancing commuting with campus activities.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule sounds like a practical step to integrate commuting and campus activities. By planning your travel and identifying free slots, you’ll have a clearer view of how to make the most of your time on campus. It's encouraging to hear your willingness to explore and find ways to join clubs; this can be a great pathway to building those connections you value. \n\nAs a next step, perhaps you can take some time this week to map out your schedule, pinpointing potential days for late-campus activities. Remember, it's all about small, manageable actions towards your goal. You're taking thoughtful steps toward enhancing your university experience, and that's commendable. Keep exploring, and you'll find what works best for you. If you ever feel stuck, I’m here to support and brainstorm more strategies with you. Keep up the positive attitude, it's a great ally on this journey!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I'll definitely sit down and try to map out my schedule this week to see how I can fit everything in.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, steps, and coping strategies, plus a next-step planning. The client is encouraged and agreed to take action on the plan, showing readiness for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you make friends if you’re not dorming?\nI’m not dorming and going to a new uni and I feel like by commuting I won’t make friends as easily than if I were dorming",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

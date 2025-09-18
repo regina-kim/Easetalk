@@ -1,0 +1,320 @@
+{
+  "id": "ur3hp1",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've been feeling a bit stuck with my thesis work because of how things are set up with my advisor and projects. It's starting to stress me out since I'm worried about graduating on time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating thesis work and advisor expectations can be tough. You seem overwhelmed because of the pressure to meet deadlines and graduate on time. Can you share more about what specifically is creating this feeling of being stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, it's mostly because I found out that my advisor isn't a PI on any of my projects, so she doesn't really have the power to push them forward. I feel like every project I was supposed to work on is either delayed or canceled, and I'm just here, not making any progress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, including concerns about their thesis and advisor's role, has been adequately elicited. The discussion covers the client's feelings of being stuck and stressed, providing context and demonstrating empathy. The conversation is ready to transition to exploring motivations and change strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That situation sounds really frustrating and it's understandable that you're feeling stuck. What would it mean for you if you could find a way to make progress on your thesis despite these delays?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, it'd be a huge relief. It might take some weight off my shoulders and ease the constant worry about falling behind or not finishing in time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding a way to move forward could indeed bring a lot of relief. What aspects of your thesis work have felt most manageable or within your control, even amidst these setbacks?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess the only thing I really have control over is staying in contact with the PIs of the projects and trying to get updates or see if there's any small part I can work on. Sometimes I feel like I'm just waiting around, though.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the impact of their current situation and identified a potential goal of making progress on their thesis. However, there's still significant ambivalence and uncertainty about control and steps forward, indicating continued exploration in the Guiding phase is needed to fully establish readiness and confidence for planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Keeping communication open with the PIs seems like a proactive step. How does staying connected with them align with your broader goals for completing your thesis?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): Staying connected helps me stay in the loop and maybe find ways to contribute, which could eventually lead to some progress. It feels like the only way to keep things moving on my end, even if it's slow.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown a desire to change by expressing relief at the thought of making progress and has identified a specific action of staying in contact with PIs. However, there is no mention of a specific change goal or next step, and confidence levels were not assessed. Sustained exploration of strategies and motivation is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Maintaining that communication can be a key part of staying engaged. How do you feel about the progress you've made through these efforts, and how might that fit into your timeline and goals for graduation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): To be honest, I don't feel like I've made much progress yet, but at least staying in touch with the PIs gives me some hope that things might change. I'm trying to figure out how to make it all fit into my timeline, but it's hard to see the path forward right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified maintaining communication with PIs as a step towards progress. However, they still feel uncertain and haven't articulated specific change plans or a clear path forward. The presence of ambivalence and a lack of specific goals suggest more guiding is needed to fully develop readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Staying hopeful and connected shows resilience in tough times. What would it look like if you started to see small shifts or signs of progress, even if they're not immediate?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): I think even a small shift, like getting a clearer timeline or being able to start on a small task, would make a big difference. It'd feel like I was finally moving in the right direction instead of just waiting around.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed Change Talk, highlighting the importance of maintaining contact with PIs and identifying small progress as meaningful. Ambivalence seems to have decreased as they acknowledge potential progress through sustained efforts. However, a specific change goal or next step has not been clearly defined, indicating a need to continue strengthening motivation and exploring actionable strategies.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "therapist(guiding): Seeing small shifts could indeed provide a sense of direction and momentum. How might recognizing these small changes impact your confidence in managing your thesis work and reaching your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): Noticing even small changes could boost my confidence and make me feel more capable of handling the situation. It'd remind me that progress is possible, even if it's not happening as fast as I'd like.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific concern about progressing on their thesis and has expressed a desire for small shifts to boost confidence. Change Talk is evident, focusing on the importance and impact of progress. While there's some hope and reflection, the client hasn't yet articulated a specific change goal or next step, nor confirmed confidence levels. Thus, staying in the Guiding phase is appropriate to further explore these elements.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Recognizing those small changes seems to hold potential for boosting your confidence. In what ways do you think these feelings of capability and progress might influence other areas of your life, beyond your thesis?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I think feeling more capable with my thesis could make me feel more confident in handling other challenges that come up, like balancing work and personal stuff. It might also help reduce stress and make me more optimistic about future projects or decisions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively evoked discrepancy between the client's current situation and their goals by exploring the impact of maintaining communication. The client has expressed hope and recognized potential small shifts in progress, which aligns with a specific change goal. However, confidence levels haven't been clearly quantified, and more concrete steps could be explored.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "therapist(guiding): It sounds like building confidence through your thesis work could ripple positively into other parts of your life. What values or goals do you think are most important to keep in mind as you navigate both your thesis and these other challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think staying true to my value of perseverance is important, just pushing through even when things are frustrating. Also, keeping my long-term goal of graduating on time in mind is crucial, so I can stay focused on what really matters.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a value of perseverance and identified a long-term goal, demonstrating Change Talk. They discussed the confidence impact of small progress and expressed a goal to graduate on time. However, confidence levels or specific actionable steps have not been established, suggesting the need for further exploration of confidence and detailed planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Perseverance and keeping that long-term goal in sight seem to be guiding lights for you. How might staying aligned with these values shape your approach to overcoming both current and future challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): Staying aligned with these values could help me maintain a positive mindset, pushing me to find solutions rather than getting stuck in the obstacles. It might also help me prioritize my efforts and energy on the things that really count toward reaching my goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed awareness of values and goals, and has shown signs of Change Talk by discussing small shifts, confidence, and perseverance. However, there is no clear specific change goal or next step identified yet, indicating the need for continued exploration in the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Aligning with values like perseverance and focusing on key goals can indeed foster a positive approach to challenges. How do you see this mindset playing a role in your daily routine or decision-making as you work through your thesis and other responsibilities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think this mindset could help me be more intentional with my time, ensuring I'm working on tasks that actually move me forward. It might also guide my decisions, helping me choose actions that align with my goals, like setting boundaries with distractions or seeking out necessary support.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identifying a shift towards recognizing small progress and aligning actions with values like perseverance and goals of timely graduation. This mindset is also seen as beneficial in broader life aspects and decision-making. While confidence rulers were not explicitly used, the client's reflections suggest increased confidence in handling challenges. However, no specific change goals or next steps were discussed yet. Therefore, continuing the Guiding phase may help solidify these aspects.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Embracing this mindset in your daily routine seems like it could truly empower you to focus on what matters most. How might you recognize and celebrate these moments of intentionality and alignment with your goals as you progress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "I could try to acknowledge even the small victories, like completing a task or making progress on a project, by giving myself a little reward or just taking a moment to appreciate the effort I put in. It might also help to keep a journal where I note these moments, so I can look back and see how far I've come.",
+      "phase": "guiding"
+    },
+    {
+      "index": 37,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown understanding of the importance of small victories and aligning actions with values. They've expressed increased confidence and readiness to take concrete steps towards their goals. There's evidence of change talk, specifically in recognizing the ripple effect of confidence and intentionality. Change goals are forming around structuring their time and prioritizing tasks. These indicate readiness to move towards developing specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Keeping a journal to track and celebrate your achievements sounds like a wonderful idea to maintain motivation. As you think about putting this plan into action, what specific steps do you envision taking to start this journal, and how might you handle any potential barriers you might encounter, like forgetting to write regularly?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "I could start by setting a regular time, maybe each evening, to jot down any progress or achievements from the day. To make it a habit, I might set a reminder on my phone or leave my journal somewhere visible. If I forget sometimes, I’ll remind myself it’s okay and just pick up again the next day without being too hard on myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Creating a routine for journaling and being gentle with yourself about occasional slips sounds like a solid plan. How do you feel about setting a goal to jot down at least one positive reflection each day, and is there anything else you might need to support this practice?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(choosing): I feel good about setting that goal. It's manageable and should help keep me focused on the positives. I might also let a close friend know about my plan, so they can check in on me and help keep me accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal to start journaling and identified specific actions to overcome potential barriers, like setting reminders and involving a friend for accountability. They also express confidence in managing slips, showing readiness for change. As they have shown commitment and practical steps are in place, it's appropriate to move towards Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Involving a friend for accountability is a fantastic way to strengthen your new journaling habit. As you embark on this journey, it’s wonderful to see you setting realistic goals and planning for positivity. Remember, each small step you take builds towards your bigger goals. Celebrate these moments and be kind to yourself along the way. As a next step, perhaps you can touch base with your friend about your journaling plan and get started on this positive reflection practice. You've got the perseverance and focus to make this work for you. Keep embracing this supportive mindset; it's clear you're making strides towards aligning your actions with your values.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support and guidance. I'll definitely reach out to my friend and get started on this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation covered the summary of goals, coping strategies, and a next-step plan, indicating readiness to conclude the session. The client has clear actions to take, such as starting journaling and involving a friend for accountability.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Any Red Flags I Missed?\nHi all, \n\nI'm in a thesis STEM MS where the professors/PIs largely choose students instead of having students rotate in labs or reach out to potential PIs. I was brought in to work on a few collaborative projects where the PIs and my advisor are not the same people. This was never mentioned to me, and I happened to find out when an undergrad and I were talking. For various reasons, any and all projects I was supposed to use for my thesis are either disjointed, have been delayed, or will no longer happen (it's been an entire semester and I've done no work on anything). Turns out my advisor merely \"consults\" on 1 of them and failed to mention she is not a PI on any project right now, is powerless to move them along, and seems to care a little less every day. This is slowly becoming more of an issue that could possibly keep me from graduating on time. \n\nIs any of this unusual, or is it just how it goes in academia sometimes? Is having an advisor who is not my PI problematic?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

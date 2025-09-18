@@ -1,0 +1,131 @@
+{
+  "id": "vfr77s",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling kinda down honestly. I just got put on academic dismissal and it's really messing with my confidence.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough and overwhelming. You're feeling down because academic dismissal is impacting how you see yourself right now. Can you share more about how this situation is affecting you and your confidence?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it just makes me feel like I'm not cut out for this, you know? Like maybe I'm not smart enough for the pre-dental track or college in general. It's hard not to compare myself to others who seem to be doing just fine.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including her feelings about academic dismissal and self-doubt. Empathy and rapport are being built, and the client's detailed context and concerns are clear. The client's determination to improve has been expressed, indicating readiness to explore motivation and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "The weight of self-doubt can be really challenging when faced with such a setback. How do you see yourself thriving if things were different, perhaps if you were back on track with your academic goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client: If things were different, I'd imagine myself really understanding the material, feeling confident in my abilities, and maybe even enjoying the courses more. I'd be on track to finish my degree without all this stress and worry.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Picturing yourself understanding the material and enjoying the courses paints an encouraging picture of where you want to be. What strengths do you have that could help you get closer to that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: Well, I know I'm determined and willing to put in the work to improve. I guess I'm also pretty good at asking for help when I need it, like coming here to talk to you.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying determination and willingness to improve as strengths. A vision of success has been explored, and a sense of discrepancy between current and desired states is evident. The client's confidence appears to be on the rise, and a specific next step (improving academic performance) is implied. Thus, it's appropriate to consider moving to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your determination and willingness to seek help are powerful strengths. Considering your goals, what steps do you think you could take to get back on track academically? Some possible options might include exploring tutoring services or adjusting your study schedule. Which of these, or perhaps another idea, resonates with you as a first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: I think adjusting my study schedule might be a good start. Maybe setting specific times for studying and sticking to them could help me stay focused and not fall behind. Also, looking into tutoring services seems smart, especially for those tough science classes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Creating a structured study schedule and exploring tutoring services both sound like solid strategies. What would a study schedule look like for you, and how might you incorporate tutoring support?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: I think I’d try setting blocks of time each day, maybe a couple of hours in the morning and then again in the evening for studying. As for tutoring, I could look into the resources at the community college I’ll be attending, or maybe some online tutoring for the specific science classes I’m struggling with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal to improve academically and developed a concrete action plan involving a study schedule and tutoring. Barriers such as lack of focus and difficulty with science classes are addressed by these plans, and the client expresses determination and willingness to implement changes. Confidence in ability to change is implied by the action steps agreed upon.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "It’s great to hear that you're thinking about setting specific study times and exploring tutoring options. Having a structured routine can really make a difference in staying on track, and tapping into those resources could provide the support you need. You're showing a lot of proactive thinking and commitment to your goals. As you move forward, remember your strengths like determination and willingness to seek help—they’ll guide you. Take it one step at a time, and if you ever feel overwhelmed, don't hesitate to reach out. You’re not alone in this journey, and small, consistent efforts can lead to big changes. Keep up the momentum, and let's touch base soon to see how things are progressing.",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate your support. I'll definitely try to keep moving forward with this plan and reach out if things get tough. Looking forward to catching up soon to see how it's going!",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals have been met: the client has a plan with study schedule and tutoring, acknowledged strengths, and a support plan. The conversation naturally concludes with positive reinforcement and a check-in plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: On academic dismissal\nI (F20) just got on academic dismissal from my uni. I tried to hard but it wasn’t good enough. My uni told me to do 1 semester at community (need to get 2.4 &amp; 12 units) and I can come back in the spring. It made me feel super bad about myself like I’m not good enough. I’m on the pre dental track so I’ve been struggling with the science classes but I’m determined to do better! My cumulative gpa is 3.1 but my gpa from my uni is 1.87 ( I’m a transfer). How can I feel better? Is this common?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

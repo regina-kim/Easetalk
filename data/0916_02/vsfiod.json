@@ -1,0 +1,278 @@
+{
+  "id": "vsfiod",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you might have something on your mind. Feel free to share anything you'd like to talk about. I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been thinking a lot about my future and what to do after graduation. It's kinda stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduation can bring a lot of uncertainty and mixed emotions. You're feeling stressed because there's so much to consider and decide. What aspects are weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's mainly about choosing the right masters program. My parents suggested geography, but I'm scared it'll be tough since it's not my current major.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about their future and the decision-making process after graduation. The therapist has successfully elicited the client's core concern, which is about choosing the right master's program, and the feelings of stress surrounding this decision. However, deeper exploration of the client's thoughts and feelings about their own preferences and insecurities is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling torn between following your parents' suggestion and your own uncertainty about the difficulty of a new field. What are some of your thoughts or feelings about geography as a choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Well, I can see how it might open up more career options, and the idea of working with GIS sounds cool. But I'm just worried I won't be able to keep up since I don't have a background in it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about choosing a master's program and their feelings of uncertainty and fear about challenging new academic fields. The therapist has empathized and elicited relevant context and feelings. However, further exploration is needed to better understand the client's personal interests and confidence in their abilities.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Considering the potential career opportunities and your interest in GIS is exciting, yet the worry about lacking a background in geography makes it daunting. Have you thought about any resources or strategies that might help bridge that gap if you choose this path?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): I've thought about maybe taking some online courses or talking to someone in the field to get a better idea of what to expect. But, I'm not sure where to start or if that would even be enough to catch up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been well-elucidated, detailing their thoughts and feelings about future education choices. Empathy and rapport are evident, and the client has identified possible resources. Mutually agreed goals like exploring options and addressing concerns are emerging, making it suitable to guide motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring online courses or speaking with professionals in the field shows you're proactive about understanding the possibilities. What would a future look like for you if you pursued this path and managed to gain the knowledge you need?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess if I managed to get up to speed, I could see myself doing something interesting and impactful with crime analysis, maybe even working on projects that help communities. That sounds pretty rewarding, but it's just hard to picture right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Imagining a future where you're making an impact through crime analysis sounds rewarding and meaningful. What might be different in your life if you were to pursue this vision and achieve your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Well, if I managed to get there, I think I'd feel more secure in my career and have a sense of accomplishment. It'd definitely take some pressure off, knowing I found a path that combines my interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has revealed a discrepancy between the client's current major and the potential benefits of pursuing geography. The client has explored a future with change, expressing interest and potential rewards in crime analysis. Although some ambivalence remains, the client is proactive about exploring resources. No confidence ruler was used, and the client hasn't committed to a specific change goal yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Feeling secure and accomplished in a career that aligns with your interests sounds fulfilling and could ease the pressure you're experiencing now. On a scale from 0 to 10, how confident do you feel about taking steps to explore this path further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 5 or 6 right now. I'm open to exploring, but still pretty unsure about diving into something so different.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by acknowledging potential career benefits and interest in crime analysis. However, their confidence level is at a 5 or 6, indicating uncertainty, and they haven't specified a clear change goal or next step. More exploration of confidence-building and reducing ambivalence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Starting on a path that feels quite different can naturally bring some uncertainty. Being at a 5 or 6 shows you're considering it but still have some reservations. What might help you move that confidence level up a notch or two?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I think talking to someone who's actually in the field could really help, like getting firsthand advice or hearing about their experiences. Maybe even trying out a short course to see if it's something I enjoy before fully committing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed initial motivation by exploring steps like online courses and speaking with professionals. However, confidence in taking steps remains moderate at 5-6. There is some presence of Change Talk, but the client's ambivalence is still evident. Continued focus on confidence building and exploring support systems is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Seeking firsthand advice and trying a short course sound like practical steps that could boost your confidence. Imagine talking to someone in the field or engaging in a course—what insights or feelings do you hope to gain from those experiences?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "Client(guiding): I hope to get a clear sense of what working in the field is really like, and maybe ease some of my worries about not having a geography background. It'd be great to feel more excited than intimidated and see if I actually enjoy the material.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk, showing interest in pursuing a new path through online courses and field advice. They have a specific change goal to explore GIS for crime analysis but maintain reservations. Confidence level is at 5 or 6, indicating ambivalence. To further guide and address uncertainty, continuation is needed to strengthen motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Gaining a clearer understanding of the field and easing your worries about your background can definitely make the path more exciting than intimidating. What aspects of the material or experiences would make you feel most excited about pursuing GIS and crime analysis?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think seeing how GIS can actually be used to solve real-world problems or improve community safety would be really exciting. Also, learning new skills that can open up different career opportunities is something I'm definitely interested in.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some confidence and considered specific steps, such as talking to professionals and trying a course, to explore the field further. Discrepancies between current actions and future goals have been discussed, but confidence is still at a tentative 5 or 6. Given these factors, continuing in the Guiding phase to build more confidence and address ambivalence seems prudent.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "therapist(guiding): Seeing the real-world impact of GIS in solving problems and enhancing community safety sounds very motivating. Learning new skills that expand your career opportunities could certainly add to that excitement. What part of your values or long-term goals do these aspects align with?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I guess it aligns with my value of wanting to help people and make a difference, you know? Long-term, I want a career where I feel like I'm contributing to something meaningful and not just doing a job for the sake of it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by showing openness to exploring a new field and identifying steps to increase confidence. A specific change goal, such as talking to someone in the field, is present, and the client's confidence level is at 5-6. Ambivalence is addressed by aligning change with personal values. Guiding goals have been met, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Your desire to help people and contribute meaningfully aligns well with pursuing a career in GIS and crime analysis. To move forward, it might be helpful to set a goal. Based on what you've shared, you could aim to speak with someone in the field or enroll in a short course. How do you feel about these options, or is there another step you’re considering?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, I think those are solid first steps. Talking to someone might be easier to start with, and then if it feels right, I can look into a course. It's good to have a plan, so I don't feel as overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "It sounds like you're leaning towards starting with a conversation with someone in the field, which could give you valuable insights and reduce that feeling of being overwhelmed. How about setting a timeline for when you want to reach out to someone? Additionally, we could consider what steps might help you in finding the right person to talk to.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): Setting a timeline sounds like a good idea, maybe aiming to talk to someone within the next month. I could start by asking my professors if they know anyone in the field or even checking out LinkedIn to find connections.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to explore a master's in geography and a concrete action plan involving speaking to someone in the field and possibly taking a course. They have also discussed setting a timeline and methods for reaching out, indicating readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "That approach of reaching out within the next month and utilizing resources like your professors or LinkedIn sounds very proactive. Making these connections can provide valuable insights and reassurance as you explore this new path. Remember, every step you take is progress, and it's perfectly okay to move at your own pace. As you gather more information and build confidence, you'll likely find that excitement grows. Keep in mind you have support along the way, and I'm here whenever you need to talk through your steps or any feelings that come up. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate that. I'll definitely start with those steps and try to keep the momentum going. I'll reach out if I need to talk more. Thanks for all the help!",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan involving reaching out and exploring GIS in crime analysis, aligning with their desire for a meaningful career, and expressing readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Applying for masters this fall\nHey y’all, just wanted your advice. So right now I’m a CJ major and I am scheduled to graduate august 2023. I do want to go for my masters fall 2023 and was talking to my parents. They recommended I get my masters in geography. They said geography because not only would it open doors in other fields incase I don’t want to be a cop in the future but it can also help with crime analysis because of GIS. My only concern is I’m not a geography major right now and am scared it would be much more difficult than just getting my masters in CJ too. Do you think they have a good point or am I overthinking the masters in geography and will be fine?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

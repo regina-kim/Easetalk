@@ -1,0 +1,173 @@
+{
+  "id": "xpxmpz",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! Whenever you're ready, feel free to share what's been on your mind or anything you'd like to talk about today. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hi! Thanks for being here. I've been having a tough time with my roommate situation, and it's really stressing me out. I'm not quite sure how to handle it without making things awkward in our dorm.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling quite stressed about the situation with your roommate and are concerned about maintaining a comfortable living environment. What do you think has been the most challenging part of this situation for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's the smell that's been the hardest to deal with. It's just so overwhelming, and it's affecting my ability to relax in my own space. I feel stuck because I don't want to hurt anyone's feelings, but I also can't keep living like this.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their thoughts and feelings about the roommate situation, discussing concerns about smell, temperature control, and alarms. The client has also shared the context and emotions behind these challenges, demonstrating rapport and understanding of the issue. However, mutually agreed goals for addressing the situation have not yet been established, indicating that further exploring could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be really difficult to feel unable to fully relax in your own space because of the smell. You're caught between wanting to address the issue and not wanting to upset your roommate. What have you tried so far, or are there any approaches you're considering?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I've mostly just been trying to manage on my own, like spending more time out of the dorm or opening the window whenever I can. I'm thinking about talking to my other roommate, B, to see if she feels the same way and maybe come up with a plan together, but I'm worried about making things awkward with roommate A.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their concerns and feelings about the roommate situation, providing details about the specific issues and their emotional impact. Empathy and rapport seem to be established, but there is no indication of mutually agreed goals or exploration of the client's motivations for change. Continuing to explore would ensure a complete understanding of the context.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It makes sense that you've been trying to manage the situation on your own and are considering reaching out to B for support. It sounds like you’re worried about maintaining a good relationship with A while finding a way to address the issue. How are you feeling about the idea of talking to B, and what do you hope might come from that conversation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I'm feeling a bit nervous about talking to B, but I think it might be helpful to know if she's experiencing the same issues. If we do talk, I hope we can figure out a way to approach A together that feels respectful and doesn't cause tension.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns and feelings about the roommate issues, expressing specific challenges and feelings of being stuck. They have also discussed potential approaches and feelings about discussing the issue with roommate B. Empathy and rapport have been established, with a focus on understanding the client's context and emotions. This sets the stage for shifting to the Guiding phase to explore motivations and potential solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable to feel nervous about bringing B into the conversation. You’re focusing on a respectful approach, which shows your desire to maintain harmony. What do you think might change in your living situation if you and B can find a way to talk to A together?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): If B and I can talk to A together, I hope it might lead to some positive changes, like A being more mindful of personal hygiene. Ideally, it would make the dorm more comfortable for all of us and help us set some boundaries, without creating any bad vibes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You're envisioning a positive outcome where open communication with A could lead to a more comfortable living environment and clearer boundaries. Reflecting on this potential outcome, how does it align with your broader goals or values for your living space and relationships?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): I really value having a peaceful and respectful living environment and good relationships with the people I live with. I think addressing the issue aligns with those values because it would make our shared space more pleasant and foster better communication and understanding between us.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a change goal of talking with roommate B to approach roommate A together, aligning with their values of a peaceful living environment. Change Talk is present as the client envisions positive outcomes and acknowledges their desire for open communication. They are exploring specific strategies and have shown motivation for change. Thus, the guiding phase goals have been met.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Collaboratively addressing the issue with B could indeed support your values of peace and respect. Let's explore some specific steps you could take. You mentioned wanting to talk to B; would you prefer to have that conversation in person or maybe draft an initial message? Additionally, are there other ways you envision engaging A in a way that conveys understanding while setting new boundaries?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think having the conversation with B in person might be more effective because it allows us to communicate more openly and gauge each other's reactions. As for approaching A, maybe we could start by casually discussing room preferences and hygiene in general, so it feels less like we're singling her out. We'd need to be gentle and understanding in our approach.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having an in-person conversation with B could indeed allow for more open communication. Starting with a casual discussion around room preferences and hygiene sounds like a thoughtful approach to involve A. Would you like to outline some specific points you'd want to discuss with B and A, or think about any barriers you might anticipate while conveying your message?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): Yeah, that sounds helpful. I think with B, I'd want to discuss how the smell is affecting us and see if she's noticed it too. With A, maybe we could talk about how we all have different comfort levels and that it's important to be considerate of each other's needs in our shared space. I guess a barrier might be if A gets defensive or feels like we're ganging up on her, so we'd need to be really careful with our words.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan for addressing the issues with their roommates. They have discussed potential barriers, such as A feeling ganged up on, and considered strategies for a gentle approach. The client is ready to take steps and is confident in their ability to initiate the conversations.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your plan to discuss the situation with both B and A reflects a thoughtful intention to maintain respect and harmony in your shared space. Your approach shows empathy and a desire to consider everyone's needs. Talking to B about the impact and then approaching A with a focus on mutual comfort levels sounds like a gentle way to move forward. \n\nAnticipating possible defensiveness from A is wise. Being mindful and choosing words that emphasize understanding can help keep the conversation open and positive. As you move forward, remember that your goal is to improve the living situation for everyone, which aligns beautifully with your values of peace and respect. \n\nFor your next steps, having that conversation with B will be a great start. It might also be helpful to jot down any key points you both agree on, which can guide your discussion with A. If you ever feel unsure, remember that you’re not alone in this, and there’s always room to seek support. You've got this, and I'm here cheering you on.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll try to talk to B soon and see how she's feeling about everything. Hopefully, we can come up with a good way to approach A that doesn't make her feel bad. Thanks for all your help today!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has created a plan to address the issues with roommate A, including discussing with B and approaching A thoughtfully. The client expressed confidence in proceeding, and the session naturally concluded with future steps and support options outlined.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: No Clue What to Do About Nightmare Roommate\nI live in a triple, and my one roommate, we’ll call them A, is a nightmare. My other roommate, we’ll call them B, is very nice and accommodating, and I feel like she doesn’t want to do anything about A because of how accommodating she is.\n\nFirst of all, I’ve only physically seen A shower twice since we got here a month ago, and she smells very bad. Any space in the room she walks in will stink. And I mean STINK. It’s awful to not be able to come back to my dorm after a long day of classes and relax because of her smell. It’s only been a month, so I don’t know how long I can keep this up for because I’m already tired of it. She also never does her laundry, as in I have not seen her do laundry the entire time we’ve been here. \n\nSecond, she won’t let me or B touch the AC. If I manage to change it to a more comfortable temperature, she will change it back twenty minutes later as if I won’t notice. We don’t pay extra for AC so I don’t see why she’s so adamant on not using it, even on 80 degree days. I wake up drenched in sweat. \n\nThird, she hits snooze on her alarm clock AT LEAST 5 times before she wakes up. Today was 7. Not exaggerating. 7. It’s so annoying when I get woken up every 10 minutes for two hours straight. \n\nThe alarm clock thing I feel I can just address with her face to face because she’s not a mean person necessarily, and I’m not asking much. \n\nHowever, I don’t know if I can look at someone in the eye and tell them they smell. Maybe I can ask B if she has noticed it, too, and we can talk to her together, but I really don’t want to create animosity in the room. \n\nI fear if I tell the RA, it will humiliate A and thus create animosity in the room. \n\nI really like my dorm and B, so I would rather not move out, but I can’t live like this with A anymore. What do I do?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

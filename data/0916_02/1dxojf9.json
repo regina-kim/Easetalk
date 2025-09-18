@@ -1,0 +1,173 @@
+{
+  "id": "1dxojf9",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. Whenever you're ready, feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I'm just really stressed about this Python exam I've got coming up for my chemical engineering class. It's a lot to handle, and I'm worried about failing again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be overwhelming to think about the pressure of this exam, especially after facing challenges in the past. What about this situation is causing you the most stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's the uncertainty that gets to me the most. The practice exams don't really match up with the real ones, so I never feel really prepared. And then there's the added pressure of knowing this is the last class I need to graduate.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their main concerns about the Python exam and the associated stress. The context, including their preparation routines and perceived challenges with the exam structure, have been discussed. The conversation displays empathy and understanding. We have mutual understanding of the client's goals and challenges, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the uncertainty and the stakes of this exam are weighing heavily on you. Considering how important graduating is to you, what might change in your life if you were to succeed in passing this class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): If I pass, it would be such a relief, like this huge weight off my shoulders. I could finally graduate and move on to the next chapter, maybe start a job or even just take a break without this hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Graduating and moving forward sounds like it would bring a great sense of relief and freedom for you. On a scale from 0 to 10, how confident do you feel about passing this exam?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm around a 3. I mean, I do the work and try to prepare, but every time the real exam is just so different from what I expect, it throws me off completely.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal of passing the exam to graduate, but confidence is low (3/10). There is some discrepancy and exploration of life with change, but no specific action steps or significant Change Talk yet. Confidence needs boosting, and barriers need exploration before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "therapist(guiding): That must be tough, feeling prepared but then facing unexpected challenges. Despite that, you're still putting in the effort, which shows your dedication. What might help you feel just a little more confident about tackling this exam?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I practice more with the kind of problems that could show up, especially debugging code, that could help. Also, figuring out how to make my cheat sheet more useful might give me a bit more confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a low confidence level of 3 regarding passing the exam. While there is some Change Talk about preparing differently, the client is still dealing with significant ambivalence and uncertainty. The client's concern about the exam format and preparation methods indicates the need for further exploration and strengthening of confidence and strategies.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Focusing on practicing specific problems and improving your cheat sheet sounds like a proactive approach. You're identifying areas that you can control and enhance. How do these ideas align with your goals for progressing beyond this class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think they align well because passing this class is my main goal right now. If I can improve my skills with debugging and make a really effective cheat sheet, I feel like I'd at least have a fighting chance to finally get through this and move on with my life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal of passing the exam to graduate and has identified specific strategies to improve confidence, like practicing debugging and enhancing their cheat sheet. While confidence is currently low, the client is focused on actionable steps, demonstrating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating an effective cheat sheet and practicing debugging are great steps to build your confidence. As you consider these strategies, what specific goals would you like to set for yourself regarding preparation? We can explore ways to track progress and anticipate any challenges that might arise.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I guess setting a goal to practice debugging a few times a week would be a good start, and maybe creating a draft of my cheat sheet early on, so I can refine it over time. Keeping track of what I'm struggling with and asking for help when I hit a wall could also be good.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "These sound like solid goals to work toward. Practicing debugging regularly and starting early on your cheat sheet are great plans. To support you, would tracking your progress weekly and noting areas where you might need assistance be helpful? Additionally, what might be some potential barriers you foresee, and how could we plan to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Tracking weekly progress sounds smart, it’ll keep me accountable. A potential barrier could be just getting overwhelmed or stuck on certain problems and feeling discouraged. Maybe if I set small milestones, and remind myself to take breaks, it could help me manage better. Also, making it a point to reach out for help as soon as I need it might prevent things from piling up. ",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and action plan, addressing both preparation and potential barriers. They express readiness through commitment to tracking progress and seeking help when needed. The client has also provided refined action steps such as setting milestones and managing discouragement. These indicators suggest readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a plan to track your progress weekly and setting small milestones is a wonderful way to remain accountable and motivated. Taking breaks and asking for help early on can truly alleviate the feeling of getting overwhelmed. Your strategy to set manageable goals and seek support shows a great deal of self-awareness and resilience. \n\nAs you continue to implement these steps, remember that every bit of progress is a step toward your goal. If you ever feel stuck, we can revisit these strategies together and adjust them if needed. Keep being kind to yourself during this journey. Let's aim to touch base next week, so we can review how things are going and celebrate your progress. You're doing a great job.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I appreciate your support and suggestions for moving forward. I'll try to keep those strategies in mind and stay on track. Looking forward to checking in next week. Thanks.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively addressed the client's concerns by setting specific goals, strategies, and a plan for tracking progress. The client agreed to the strategies and expressed readiness to implement them, making it a natural point to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I have an upcoming chemical engineering python exam and I am not sure how to prepare for it \nI am retaking the course as it was so difficult. I do the homework, visit office hours, but still have a hard time doing the exam. It’s an intro class for solving differential equations using Python with Spyder. The exams always consists of solving differential equations and the professor providing screenshots of a code and tells you that you need to find what is wrong with it. How do I go by looking at the code and seeing what’s wrong with it effectively? He allows us to bring 1 cheat sheet.  He sometimes gives hints in the exam by partially starting the code and letting you complete it. He also provides a practice exam but it is nowhere near similar to the real one, so I don’t get why he does that. I haven’t done code in a long while and I am very frustrated with this course. This is the only course I have left until I graduate but it seems I may fail again for the second time. ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "wh1y0t",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I'm just feeling really overwhelmed with juggling school and work, and I'm scared I might not be able to keep up with everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and work can definitely feel daunting. You're concerned about keeping up with all your responsibilities. What's the most challenging part for you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's just finding the time and energy to focus on schoolwork after long shifts at my jobs. By the time I'm done with everything, I'm exhausted and struggle to concentrate on assignments.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's main concerns and context regarding balancing school and work have been elicited, including their thoughts on time management and fear of failure. Empathy and rapport appear established. The exploration goals seem sufficiently met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be tough trying to muster the energy for assignments after such long days. What might you notice would be different if you had more time or energy for your schoolwork?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): If I had more time or energy, I think I'd feel less anxious and more confident about keeping up with my classes. It would be nice to actually absorb what I'm learning instead of just rushing through it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling less anxious and more confident in your classes sounds important to you. What part of that vision do you feel most drawn to, or why is it meaningful for you to absorb what you're learning?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I guess absorbing what I'm learning really matters to me because I want to understand my subjects, not just pass the classes. It feels like I'm investing all this time and effort, so I want it to count for something more than just a grade.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change by recognizing the value in truly understanding their courses beyond just passing. There's a clear discrepancy between their current exhaustion and their goal of absorbing knowledge. The client has shown interest in discussing strategies to achieve more balance and confidence, indicating readiness to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating understanding and truly valuing your learning is clearly meaningful to you. As we think about moving forward, what are some steps you might consider to help balance work and school more effectively? For example, one option could be setting specific study times, or perhaps exploring ways to incorporate short breaks to recharge. What are your thoughts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I like the idea of setting specific study times. Maybe I could try blocking out certain hours just for schoolwork, even if it means cutting back a little on TV or social media. I think taking short breaks would also help me recharge, instead of just pushing through and getting burned out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Creating structured study times and incorporating breaks both sound like promising strategies. What specific days or times might work best for you to dedicate to schoolwork? And how do you envision using those short breaks to recharge?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): I think evenings after work could work, like maybe from 7 to 9 PM, since I usually get home by then. For breaks, maybe stepping outside for some fresh air or doing something relaxing for a few minutes, like listening to music, could help clear my mind.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has formulated a specific action plan involving setting study times and taking breaks. They have discussed potential barriers and methods for self-monitoring. Additionally, the client has expressed confidence in implementing these strategies, showing readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "therapist(closing): That sounds like a solid plan — dedicating evenings from 7 to 9 PM as your study window and incorporating refreshing breaks like stepping outside or enjoying some music. It's great you're taking these steps to prioritize your learning and well-being. Remember, making these small changes can lead to significant improvements over time. You're building a routine that supports your goals, and that's a big step forward. Keep in mind that I'm here for you, and we can always adjust the plan as needed. Your commitment and willingness to try new strategies is truly commendable. Let's check in next time to see how things are going and continue refining what works best for you. Keep taking those positive steps!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Yeah, I'll definitely give this a try and see how it works out. Thanks for your support, and I'll let you know how it goes next time we meet.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered a summary of goals, practical steps, and coping strategies, and devised a next-step plan. The client acknowledged the plan and is ready to try it out, showing readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Studies\nSo I’m a sophomore at my local cc and last year with a job I did fairly well with three classes though I did fail one (the teacher seemed like a general jerk anyway) but part of it was also the fact that I couldn’t really understand the assignments and the teacher was never much help. \nThis year I have two jobs and am taking four classes (3 in-person and 1 online) and I’ve never been really been really good at studying and generally slotting my time between classes and work for homework and such. Does anyone have any suggestions for being able to do schoolwork and getting it done well especially late at night when libraries and quiet places outside of home are closed?\nI’m afraid of flunking out of college and disappointing my parents",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

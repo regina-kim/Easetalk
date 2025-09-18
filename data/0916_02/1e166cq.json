@@ -1,0 +1,173 @@
+{
+  "id": "1e166cq",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've been a bit stressed about starting calc 2 soon. I got a 4 on the AP exam, but now it feels like I've forgotten everything, and I don’t want to start from scratch.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It seems like you're feeling anxious about jumping into calc 2 because you're worried about remembering the material. What do you think might help you feel more confident as you prepare to start the class?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess just finding some effective ways to review without having to go through everything again might help. Maybe some tips on focusing on the most important topics would be useful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their stress and specific concern about starting Calc 2 and the therapist has shown empathy by acknowledging these feelings. However, more detailed exploration of the client's thoughts, feelings, and potential study strategies could enhance understanding and rapport before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Finding a way to review efficiently without redoing everything makes sense. You want to target key topics to refresh your memory. Have you considered any specific strategies or resources to help you focus on those crucial areas?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I've thought about using some online resources or maybe even looking at past notes. I'm not sure which would be the best use of my time, though.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern about feeling unprepared for calc 2, and specific thoughts and feelings have been shared. The conversation has reached a point where potential strategies are being considered. This indicates readiness to move to the Guiding phase to explore motivation and develop specific strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It's great that you're considering different resources to help you review. Reflecting on what worked best for you in the past might guide you in choosing the right approach this time. On a scale of 0-10, how confident do you feel about getting back up to speed with calc 2 using these methods?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): Maybe around a 5 or 6. I think I can catch up, but there's still that worry I might miss something important.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Balancing between feeling capable and having some concerns shows self-awareness. You're already halfway there with a confidence of 5 or 6. Picture what it would be like to reach a 7 or 8. What small changes or additional support might help you feel more confident about your readiness for calc 2?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Reaching a 7 or 8 would probably need a solid study plan or maybe a study group. Having someone to ask questions if I get stuck could make a big difference too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by considering specific strategies like forming a study group and making a study plan. The confidence level is at a 5 or 6, which shows improvement but might benefit from further exploration to reach a solid 7 or 8. Ambivalence is present but diminishing with actionable ideas forming. More confidence building and clarification might be needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Having a study plan or group sounds like a strong step forward. Connecting with others for support can really boost confidence. What do you value most about having a study group or a plan as you prepare for calc 2?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think it's having a structure and some accountability. Knowing there are people in the same boat to bounce ideas off of and keep me on track would make it easier not to fall behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identifying specific strategies such as a study plan and group to enhance confidence for calc 2. The confidence level reached about 6, and values like structure and accountability were explored. The conversation aligns with the goals of the Guiding phase, indicating readiness to develop specific action plans in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It’s clear that having both structure and accountability are key for you. Let's explore some specific steps to create that structure. Based on what you’ve shared, we could consider options like forming a regular study group or setting up weekly goals for your review. What are your thoughts on these ideas, or do you have other approaches in mind?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Forming a study group sounds good, especially since it could also be a chance to meet people in my class. Setting weekly goals is something I've done before, so combining both might work well.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Combining a study group with weekly goals sounds like a solid plan to keep you structured and accountable. What steps might you take to form a study group, and how would you like to approach setting your weekly goals? Feel free to share any challenges you think might arise, so we can brainstorm ways to tackle them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I could start by reaching out to classmates or posting on social media to find people interested in a study group. For weekly goals, I might break down the topics I need to review into smaller chunks. A challenge could be finding consistent times that work for everyone, so maybe having a flexible schedule would help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified forming a study group and setting weekly goals as a concrete action plan. They also anticipated a potential barrier of scheduling conflicts and proposed a flexible schedule as a solution. This demonstrates commitment and confidence in their plan. The goals of the Choosing phase appear to be met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "You're really considering some effective strategies here. Reaching out for a study group and breaking down your review into manageable chunks are excellent ways to ensure you're prepared. Flexibility in scheduling is a smart approach to accommodate everyone's availability.\n\nIn terms of next steps, starting with a post to find classmates interested in joining a study group is a great way forward. For your weekly goals, listing out the main topics and setting a target for each week can guide your progress. If scheduling becomes tricky, perhaps using a doodle poll or a similar tool might help find the best times for everyone.\n\nYou’re making thoughtful moves toward your goals, and it's impressive how you're taking initiative. Remember, reaching out for help and creating a plan shows strength and commitment to your growth. Keep focusing on your progress, and don't hesitate to celebrate small victories along the way. You're on the right path, and I'm here to support you as you continue.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that all sounds really doable. I'll definitely start by reaching out and maybe give that doodle poll idea a try. Appreciate the encouragement!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has covered a summary of goals and strategies, and a clear next-step plan has been discussed, including forming a study group and setting weekly goals. Closure was naturally achieved with mutual agreement on steps forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I got a 4 on the ap calc test but I forgot almost everything ToT. I'm taking calc 2 in fall, what do I do???\nI'm studying over the summer, but I don't want to have to relearn the entire course 💀\n\n",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

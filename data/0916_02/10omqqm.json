@@ -1,0 +1,320 @@
+{
+  "id": "10omqqm",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and explore whatever is on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling really anxious around my roommates, like I always need to be where they are, and it's starting to stress me out. I just want to understand why I feel like this and how I can maybe chill out a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You find yourself feeling anxious around your roommates because you feel a need to be constantly around them, which is causing you stress. What's it like for you when you're with them, and have you noticed any particular situations or feelings that might trigger this anxiety?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): When I'm with them, I feel like I need to be engaged and part of the group, even if they're just having a casual chat. If I'm not there, I get worried they're talking about me or that they'll think I'm avoiding them.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of anxiety around roommates and the pressure to constantly engage with them. They also expressed the underlying issues of people-pleasing and overthinking. The therapist has acknowledged the client's feelings and sought to understand specific triggers. While rapport is building, more exploration of the detailed context behind these feelings is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like there's a strong need to feel included and connected with your roommates, which might be driving some of these anxious feelings. What do you think contributes to this worry about being talked about or perceived as avoiding them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I'm not really sure, but I guess it could be because I worry a lot about what people think of me. I just don't want them to get the wrong idea and think I'm not friendly or that I'm ignoring them on purpose.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their feelings and thoughts, providing detailed context about their anxiety around roommates and its impact on their life. The therapist has responded with empathy and understanding. The goals of the Exploring phase have been met, with an understanding of the client's concerns and underlying factors such as people-pleasing tendencies and adjusting to new environments.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Perhaps there's a part of you that's trying to protect your image among your roommates, aiming to be seen as friendly and approachable. Considering this, how do you think life might change if you were to let go of some of these worries about their perceptions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think I might feel a bit more at ease and be able to relax in my own space without constantly stressing about what they think. It sounds nice not to always feel like I'm on edge or needing to prove that I'm friendly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Imagining that sense of ease and relaxation seems to bring some relief to you. On a scale from 0 to 10, how confident do you feel about the possibility of letting go of some of these worries and moving towards a more relaxed state with your roommates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think I'm probably at a 4 or 5 right now. It feels like a possibility, but I know it won't be easy to just switch off these feelings.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk, such as imagining feeling more at ease if they let go of worries. However, their confidence level is currently at 4 or 5, indicating uncertainty and the need for further guidance. Ambivalence is still present, suggesting the need to further explore and strengthen motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Reaching a 4 or 5 shows that you see some possibility there, which is a great starting point. What do you think could help increase your confidence even just a little, maybe to a 6 or 7, in letting go of those worries?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try reminding myself that my roommates have their own lives and aren't always focused on me. I guess finding ways to reassure myself, like maybe writing down positive interactions with them, might help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "While there's been some exploration of life with and without change, the client's confidence level is still low at 4 or 5. The client has begun identifying potential strategies, like reminding themselves of positive interactions, but hasn't yet set a specific change goal or next step. Confidence and readiness need further strengthening.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Recognizing that your roommates are focused on their own lives and noting positive interactions could indeed support your confidence. How do you feel about the idea of observing how these reminders change your stress levels over time?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I think it's worth giving it a shot. It might make a difference if I can keep track of when I feel less anxious and see if these reminders are helping. It sounds like a good way to see some progress, even if it's small.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential strategy for reducing anxiety, expressed interest in observing changes, and acknowledged some confidence in making progress. However, confidence is currently at a 4 or 5, and no specific change goal or next step has been clearly defined. Continuing in the Guiding phase can help further solidify confidence and clarify specific goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Observing and tracking the times you feel less anxious could provide valuable insight into your progress. How do you think these small changes might align with your larger goals for feeling more at ease in your living situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): If I start to feel more at ease and less anxious, it could really help me enjoy my time here without worrying so much about fitting in all the time. I think it could also help me focus better on my studies and other parts of college life if I'm not constantly stressed about my roommates.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to articulate specific steps to increase confidence and reduce anxiety, such as reminding themselves that roommates have their own lives and tracking positive interactions. However, confidence is at 4-5, indicating they are not fully prepared for the Choosing phase. Further exploration of these strategies is needed to build confidence and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Finding more ease in your living situation could indeed enhance your college experience, allowing you to focus on what truly matters to you. What are some aspects of your studies or college life that you'd like to give more attention to, once you feel less stress about fitting in with your roommates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(exploring): I've been really wanting to dive deeper into some of my classes and maybe join a club or two. I feel like if I wasn't so stressed about my roommates, I could be more open to meeting new people and actually enjoying campus life a bit more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown a willingness to explore changes and has identified potential strategies to increase confidence. However, the confidence level is still at 4-5, and specific change goals or next steps are not fully developed. The client needs more exploration and strengthening of motivation before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "therapist(guiding): Exploring new opportunities like clubs and engaging more with your classes sounds exciting and enriching. How might diving into these interests contribute to the sense of ease and belonging you're aiming for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(exploring): Getting involved in clubs or focusing more on my studies could help me build a community and make friends outside of my apartment, which might balance out some of the stress I feel at home. It feels like it could create a sense of belonging on campus and kind of shift my focus to things I enjoy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal to feel more at ease with roommates and identified steps to achieve it, such as reminding themselves of positive interactions. Confidence is currently below 6, and ambivalence remains. Change Talk is present, but further exploration is needed to solidify confidence and goal commitment.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Creating a community and finding joy in activities outside your apartment sounds like a meaningful way to balance things out. How do you envision these new experiences influencing your feelings of ease and connection at college overall?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): I think it could really help me feel more grounded and like I actually have a place here, you know? If I start building relationships outside my apartment, it might make me less reliant on my roommates for socializing and remind me that I can have different circles of friends. That sounds like a way to feel more connected and less anxious about trying to fit in all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated change talk by identifying actions they can take to ease roommate-related anxiety, aligning these changes with larger goals of enjoying college more fully. They've expressed readiness to observe and track progress, indicating increased motivation and confidence. However, while there's a commitment to action, specific plans and strategies for anticipated barriers aren't fully developed yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Building relationships outside of your apartment and developing different circles of friends can indeed foster a strong sense of belonging and ease. How do you feel about taking the first steps towards joining those clubs or engaging more deeply in your studies to start forming these connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I'm a bit nervous, but also excited about the idea. It's just the initial step that's always the hardest for me, you know? But I think if I take it slow and maybe go to a club meeting or talk to someone in class, it could start to open up new possibilities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to express Change Talk by identifying specific actions like joining clubs and focusing on studies to reduce anxiety. They acknowledge both excitement and nervousness about initiating these changes, indicating some readiness for action planning. However, the confidence level and a specific change goal are not clearly established, suggesting the need for further exploration and strengthening of commitment.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Feeling both nervous and excited is a natural part of exploring new possibilities. Taking those initial steps, even slowly, shows your courage and openness to change. What small step might you consider first to gently ease into these new opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(reflecting): I think maybe going to a club meeting sounds like a manageable first step. I could see which clubs are meeting this week and just attend to get a feel for it, without any pressure to commit right away. That way, I can see what interests me and maybe meet some new people too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 37,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by recognizing the benefits of easing anxiety and forming new connections. They've identified a specific step: attending a club meeting, showing readiness for change. Confidence and excitement about this step are evident, aligning with their goal of feeling more connected and less anxious. Ambivalence is decreasing as client envisions positive outcomes. These readiness signals suggest readiness to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Attending a club meeting to explore your interests and meet new people sounds like a wonderful and manageable first step. How can you prepare for this meeting to make it feel more comfortable, and what support might you seek to ensure you follow through with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client(reflecting): I could try to find a club that's related to something I'm already interested in, so it feels more familiar and less intimidating. Maybe I could ask a classmate if they're interested in going with me, so I don't have to go alone. That might help me feel more comfortable and make it easier to actually show up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "therapist(choosing): Choosing a club related to your interests and inviting a classmate to join you sounds like a great strategy to ease into this new experience. What steps will you take this week to reach out to a classmate and find a club that aligns with your interests?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(reflecting): I'll start by checking out the list of clubs online and see if any of them match up with things I'm into. Then, I'll try to casually bring it up to a classmate and see if they're interested in coming along. I think just making a small plan like this helps me feel more prepared and less anxious about going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to attend club meetings and strategies to overcome initial anxiety. Commitment is shown through planning to involve classmates and choosing clubs of interest. The client expresses confidence in taking these initial steps, indicating readiness to take action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Exploring clubs that align with your interests and inviting a classmate is a thoughtful approach to making this new experience feel more comfortable. You've shown great initiative by planning to check club lists and casually reaching out to a classmate. This week, taking these small steps can pave the way for new connections and ease. Remember, it's okay to take it at your own pace and seek support whenever you need it. You're making thoughtful and empowering choices, and I'm here to support you as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, that makes me feel a bit more confident about the plan. I appreciate your support, and I'll definitely let you know how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete plan to address their anxiety by exploring clubs and making new connections, and expressed confidence in this approach. The session naturally concludes with supportive encouragement.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anxious with roommates in common area\nIdk what’s wrong with me honestly. I’m a freshman and it’s already been so hard for me to move away from home even tho I’m only 3 hours away. Regardless, the whole roommate experience I’m still adjusting to. My 3 flatmates are super sweet for the most part and are friendly but whenever I’m in my room and they are talking in the common area I always feel like I need to be there too. Even if it’s just a simple convo between them or if they r leaving, I feel like I have to be there too otherwise they will “hate me.” I know that’s not true at all and no one would care that much but idk why I feel like that. I’m a big people pleaser and I am constantly feeling like everyone hates me and overthink my whole life but this drives me nuts. I feel like I can’t even be in my apartment because I constantly get distracted in the sense that I always need to be in the common area when my other flatmates are there. Can someone help with this? Idk what to do or if I should go see a therapist or something. What’s funny is whenever I’m back home my parents can be gone the whole day but I still don’t feel like this. I only feel like this when I come back to school and I’m in my apartment but I’m so paranoid at this point. Any advice is helpful please!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

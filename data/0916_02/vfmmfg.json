@@ -1,0 +1,194 @@
+{
+  "id": "vfmmfg",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today? Feel free to share anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've been stressing about what to do this summer. My GPA's not great, and I'm not sure what kind of job I can even get that would be relevant to my major. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit overwhelmed about your summer plans and future opportunities. What's important to you in finding a job related to your major?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I'm just worried I won't find anything worthwhile or that I'm missing out on building experience. I guess I want to do something that's going to help me down the road in psychology, but I don't even know where to start.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about summer plans and career opportunities in psychology. They have expressed feelings of stress and uncertainty. However, more exploration is needed to fully understand their thoughts and feelings to establish a deeper sense of empathy and rapport and gather more context about their situation before moving on.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It makes sense that you're feeling worried about finding something that will be meaningful and beneficial for your future in psychology. What kind of experiences or skills do you think would be helpful for your career?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think anything that gives me more insight into how people think and behave would be useful. Maybe something that helps me understand human interactions better or lets me help people in some way. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concerns and desires about summer opportunities and has shared relevant thoughts and feelings. The therapist has shown empathy and explored specific aspects of the client's situation. Goals related to understanding the client's needs and context have been mutually acknowledged.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Gaining insight into human behavior and interactions is indeed valuable. Imagine the difference it might make if you found a role that allowed you to explore these aspects. How confident do you feel about finding such opportunities this summer, on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): Honestly, probably like a 3 or 4. I don't really know where to look, and I feel like everywhere's gonna care about my GPA.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding opportunities focused on understanding human behavior sounds exciting, even if it feels challenging right now. What do you think might help increase your confidence from a 3 or 4 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Maybe getting some guidance on where to look or how to present myself better when my GPA isn't great. Like, if there were places that value skills or experiences over grades, that'd probably help me feel more confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific concern about finding relevant summer opportunities despite a low GPA. There is some Change Talk regarding improving confidence by seeking guidance and looking for roles that value skills over grades. However, confidence remains low (3-4) and ambivalence about options persists. Focused exploration of resources and strategies to boost confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring places that value skills and experiences over grades could open new doors for you. What are some resources or people you might reach out to for guidance on this?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Maybe the career services at school could help, or I could talk to some professors who might have advice or connections. I’ve also thought about reaching out to people on LinkedIn, but I’m not sure how to go about it without seeming awkward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying potential actions and resources (career services, professors, LinkedIn) to address their concerns. They've articulated a specific change goal of exploring opportunities valuing skills over grades. However, confidence is low, suggesting further guidance is needed to strengthen motivation and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Career services, professors, and LinkedIn connections are great resources to consider. Reflecting on these options, how might reaching out to one of these resources influence your confidence level in finding a meaningful opportunity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I think if I reached out and got some positive responses or advice, it might bump my confidence up a bit, maybe to a 5 or 6. Just knowing there's someone willing to help or offer guidance could make a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by considering reaching out to resources like career services and professors, and they have identified a specific goal to increase their confidence level. The client’s confidence has shown potential to reach 5 or 6 with support. While ambivalence remains, they have clarified their values and goals, indicating readiness to explore specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Reaching out and receiving support could indeed boost your confidence. To start, would you like to set a goal of contacting one of these resources, like career services or a professor? How might you plan your approach to LinkedIn to feel more comfortable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal to contact career services seems like a good first step. As for LinkedIn, maybe I could start by looking at alumni from my school who have jobs in psychology and see if anyone seems approachable enough to message. That might make it feel less awkward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a plan to reach out to career services and exploring LinkedIn connections sounds like a thoughtful approach. Would setting a timeline for contacting career services and identifying a few approachable alumni on LinkedIn help you stay on track? What potential challenges might you anticipate, and how could you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a timeline would probably keep me more accountable. Maybe I could aim to contact career services by the end of the week and identify a few alumni over the weekend. I guess a challenge might be feeling intimidated or not knowing what to say, but maybe I could prepare a list of questions or talking points to help with that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals and a concrete action plan to contact career services and explore LinkedIn, with a timeline in place. They have also discussed potential barriers, such as feeling intimidated, and have strategies like preparing questions. The client expresses a positive outlook, indicating confidence and commitment to taking steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Preparing a list of questions or talking points is a great way to feel more confident and reduce any intimidation. Setting the goal to contact career services by the end of the week and look into alumni over the weekend is a proactive step. It sounds like you're really committed to moving forward, which is fantastic. Remember, you have the skills and motivation to make this work. As you take these steps, know that it's okay to reach out for support whenever you need it. Keep in touch about your progress, and we'll keep working on strategies to support you. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely keep you posted on how it goes and reach out if I need some more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with a set timeline and strategies to overcome anticipated challenges. They have been encouraged to reach out for additional support if needed, suggesting readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: summer jobs for a sophomore going into junior year\ni’m a psychology major but my gpa is a extremely low so i doubt i’d get any jobs in like a research lab. do i just get a regular job at like a restaurant or something? i’m so lost.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

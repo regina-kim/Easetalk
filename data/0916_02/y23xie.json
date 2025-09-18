@@ -1,0 +1,236 @@
+{
+  "id": "y23xie",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just feeling really overwhelmed with grad school right now. It's like, no matter how much I try, some things just aren't clicking for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like grad school is really challenging for you right now, and you're doing your best but still feeling overwhelmed. What specific aspects do you feel are the most difficult to manage at the moment?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, definitely. It's mostly this one subject, mathematical foundations. I just can't seem to wrap my head around it, no matter how hard I try. It's frustrating because I feel like I'm falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about feeling overwhelmed by a specific subject in grad school, providing insight into their thought process and feelings. The therapist has shown empathy and understanding of the situation. However, further exploration is needed to better understand the client's emotions and potential goals before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be really frustrating to feel stuck with mathematical foundations, especially when you're putting in so much effort. What have you tried so far to help yourself understand the material better?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I've been going over the basics again and again, trying to grasp linear algebra concepts. I've also tried asking friends for help, but it still feels like I'm not making any real progress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about struggling with mathematical foundations in grad school, including the efforts they've made and feelings of frustration. Empathy and rapport have been built, but more context about their overall situation and feelings may be needed before moving on to strengthening motivation for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "You're really putting in a lot of effort by revisiting the basics and reaching out to friends for support. It's understandable you'd feel frustrated when progress seems slow. How does this challenge with mathematical foundations impact your overall experience in grad school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, it makes everything feel harder. It's like this one subject is overshadowing my whole grad school experience, and I start doubting if I'm cut out for this at all. It just feels like a constant weight.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about struggling with mathematical foundations in grad school, expressing feelings of frustration and self-doubt. The therapist has built empathy and rapport, exploring the client's efforts and feelings. However, deeper exploration of goals or motivation is needed before moving to the next phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like the struggle with mathematical foundations is casting a shadow over your entire grad school journey, leading to doubts about your capabilities. That must be a heavy weight to carry. How do you usually cope with these feelings when they arise?",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I usually try to push through and remind myself it's all part of the process, but it's tough. Sometimes I just end up feeling anxious and stressed, so I might take a break or distract myself with something I enjoy, like a hobby or a walk.",
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, highlighting feelings of overwhelm and frustration with mathematical foundations. The therapist has demonstrated empathy and understanding, and the client has expressed the impact on their overall grad school experience. However, mutual goals or motivation for change aren't fully established yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Therapist(exploring): It's good to hear that you find ways to take breaks and engage in activities you enjoy, like hobbies or walks, to help manage the anxiety and stress. These moments of self-care sound important to you. How do these activities affect your perspective when you're feeling overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): They really help me clear my mind and give me a moment to just breathe. When I come back, I sometimes feel a bit more ready to tackle things, but the stress usually creeps back pretty quickly when I hit another wall with the work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively covered the client's thoughts, feelings, and context about their struggle with grad school, particularly mathematical foundations. The client shared their coping strategies and feelings of self-doubt. Empathy and rapport were well-established, and the client openly reflected, indicating readiness to explore motivation and change strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Taking those breaks and engaging in activities you enjoy seems to offer some relief, even if temporarily. When you notice the stress creeping back in, what do you think might help extend that sense of readiness and calm?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Maybe finding a better study strategy or getting more structured help, like tutoring or joining a study group, could make a difference. I think having some consistent support could help keep the stress at bay for longer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Having consistent support through tutoring or a study group sounds like a thoughtful step forward. Considering the potential benefits, how confident do you feel, on a scale of 0 to 10, in seeking out this additional help and making it a part of your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 6 or 7. I feel like I could definitely benefit from it, but I also get nervous about reaching out and committing to something new, especially if it doesn't work out how I hope.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the desire for additional support and identified a potential next step for change. Confidence is rated at 6-7, showing moderate readiness. Change Talk is present, and the client has considered the benefits of consistent support through tutoring or study groups. However, there is some remaining ambivalence. Further strengthening of commitment and addressing hesitations are needed, so staying in the guiding phase is advisable.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Feeling a bit nervous is understandable when thinking about reaching out and trying something new. It's great to see that you're recognizing the potential benefits, which shows a willingness to explore new strategies. What might help increase your confidence from a 6 or 7 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I think talking to others who've been through this could help boost my confidence. Hearing their experiences or tips might make the whole process of reaching out less intimidating and give me a better idea of what to expect.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of seeking tutoring or joining a study group, and rated their confidence at a 6 or 7, indicating moderate readiness. Change talk is present, and they have considered steps to increase confidence. This aligns with Guiding goals, suggesting readiness to collaboratively develop an action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Talking to others who have navigated similar challenges could definitely provide reassurance and insights. Some possible ways forward might include reaching out to classmates, professors, or online forums for advice and support. Given what we've discussed, how would you like to proceed? We could explore the idea of seeking out these conversations or perhaps begin planning your next steps in finding study support.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): I think reaching out to classmates or trying some online forums could be a good start. It feels less intimidating than directly jumping into a study group or tutoring. Maybe hearing from others first will help me feel more prepared to take that step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Connecting with classmates or exploring online forums sounds like a great starting point, and it aligns with your comfort level. To move forward, would you like to set a specific goal, such as reaching out to a certain number of people this week or researching some forums? What might be some potential barriers, and how do you think we could overcome them together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal to reach out to a couple of classmates and check out some forums this week sounds manageable. A barrier might be feeling awkward or unsure about what to say, but maybe we could brainstorm some icebreaker questions or topics to make it easier.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to reach out to classmates and explore forums, and we have discussed potential barriers with a plan to brainstorm solutions. The client shows commitment and is taking steps towards change. They are confident in their ability to proceed with the next steps. Given these signs of readiness and a concrete plan, it is appropriate to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "It's wonderful to see you taking steps towards connecting with others and expanding your support system. Setting a goal to reach out to a few classmates and explore forums this week is a solid plan. To make this easier, we can definitely brainstorm some icebreakers or topics together—something like asking about their study tips or their experience with similar challenges could be a good start. Remember, it's perfectly okay to feel a bit awkward at first; many people appreciate the chance to share their experiences. As you take these steps, know that I'm here to support you along the way. Keep in mind the strength you've already shown by being open to new possibilities. Let's touch base on how it goes during our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and the idea of having some icebreakers ready. I'll give it a shot and let you know how it goes next time we meet.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals were met as the client and therapist summarized steps, plans, and coping strategies. A clear next-step plan was discussed, including reaching out to classmates and forums. The session can naturally conclude here.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I get through grad school?\nPretty sure there are several posts similar to mine, but I don't know who to ask for advice. I naively joined a master's program in computer science this September, simply because I felt like my undergraduate degree taught me nothing and i want to learn the concepts in a better institution. One month in and I am barely holding back my tears. I know it wasn't going to be easy but I took a subject called mathematical foundations, and I am absolutely unable to comprehend it. The other 2 subjects i took are definitely hard but i feel like with an extreme amount of effort, i can do my best and learn well. But with math foundations, i don't know what to do. I don't know how the rest of my classmates feel about the subject, but i do know that one friend is finding it quite easy. I have spent several hours going through the basics of linear algebra and it still doesn't change the fact that i am not able to comprehend the subject. I'm not saying I've given up, but i want to ask if this is a natural feeling that some of you all may have felt for some subjects. How did you get through this, and 4 semesters of this? Can you provide some tips on how to manage the semester, especially if you've considered yourself an average/below average student?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

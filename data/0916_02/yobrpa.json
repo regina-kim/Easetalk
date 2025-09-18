@@ -1,0 +1,278 @@
+{
+  "id": "yobrpa",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've just been a bit stressed about having to withdraw from a couple of classes this semester. I'm worried about how it might look on my transcript and if it's going to affect me in the long run.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel stressed about that. You're concerned about how withdrawing might impact your future because education is important to you. What led to your decision to withdraw from these classes?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It was just a lot to handle with my job and trying to keep up with everything. I felt like I was drowning and needed to lighten my load a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about withdrawing from classes, including the context of work pressures and their feelings of stress. The therapist has shown empathy and understanding. However, further exploration is needed to fully understand the client's feelings and to establish mutually agreed goals before advancing.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing work and studies can indeed feel overwhelming. You chose to withdraw to manage your stress and workload. How are you feeling about that decision now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I still feel a bit uneasy about it. Like, I know it was probably the right choice, but I can't help but worry about how it might come back to haunt me later.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, context behind the decision, and feelings about it. The therapist has shown empathy and understanding. The conversation has not reached a repetitive or unproductive stage, suggesting potential for deeper exploration.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It seems like you're feeling uneasy because there's a part of you that worries about the long-term consequences, even though you made the decision to take care of yourself in the present. What do you think might help ease some of those worries?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I think maybe talking to someone who’s been through a similar situation could help. It’d be nice to know if they faced any issues later on or if it was all okay in the end.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and the context behind their decision, expressing both past decisions and present feelings. They've identified a potential way forward by seeking experiences of others in similar situations. Empathy and rapport have been established, fulfilling the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Talking to someone who has been in your shoes might offer some reassurance and perspective. It's a proactive step towards understanding potential outcomes. Reflecting on this, how might connecting with others who've had similar experiences influence your feelings about the decision you've made?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think it could help me see that I'm not alone in this and maybe learn from their experiences. It might make me feel a bit more confident that things will work out okay, even if it seems uncertain right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Hearing others' experiences can provide comfort and insight, possibly boosting your confidence about the future. On a scale from 0 to 10, how confident do you feel right now that things will work out fine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Honestly, I’d say I’m around a 5 right now. I’m trying to stay positive, but the uncertainty makes it tough to be fully confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has not reached sufficient confidence or specific goals for change. Confidence is currently at 5, suggesting more exploration is needed to strengthen motivation and reduce ambivalence. Additional guiding may help clarify steps towards feeling more assured about the situation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Reaching a confidence level of 5 shows that you're working hard to stay positive despite the uncertainty. It's a challenging spot, yet it also means there's room to grow that confidence. What do you think might help nudge that number a bit higher?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "Maybe talking to more people who have been in similar situations or even getting some advice from academic advisors could help. I think having a plan or some guidance on what steps to take next would make me feel a bit more secure about everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific steps such as talking to others and seeking advice from advisors, indicating emerging change talk. However, their confidence remains at 5, showing ongoing ambivalence. To strengthen motivation, further exploration of values and consequences may be needed before setting action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "therapist(guiding): Engaging with others and seeking guidance from academic advisors is a thoughtful way to build that sense of security. Gathering advice and formulating a plan might indeed enhance your confidence. What values or goals are important to you as you consider these next steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I really value doing well in school and also maintaining some balance with my personal life and work. My goal is to finish my degree without burning out, so finding a way to manage everything without sacrificing my mental health is really important to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of finishing their degree without burnout and proposed actionable steps like seeking guidance from peers and academic advisors. While Change Talk is present, confidence remains at 5, indicating room for further exploration to strengthen motivation before advancing to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Your commitment to balancing academic success and personal well-being is truly admirable, and it's clear these values guide your decisions. As you think about these priorities, how do you envision maintaining this balance while moving forward with your plans?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I think I need to set some stricter boundaries with my time and maybe prioritize what's most important at any given moment. It's probably going to involve making some tough choices, but I need to remember why I'm doing this in the first place.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified specific goals and strategies for improvement, such as seeking guidance and setting boundaries. However, the confidence level remains at 5, showing room for growth. Further strengthening of confidence and clearer planning is needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Establishing boundaries and prioritizing your commitments are crucial steps in maintaining that balance. It shows you're deeply contemplating how to align your actions with your goals. How do you see these boundaries helping you stay connected to what's truly important in your journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "Setting boundaries will help me focus better on what matters most, like my studies and my well-being. By being clear about my priorities, I think I'll be less likely to get overwhelmed and more able to keep my goals in sight.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed specific change goals, such as talking to others and setting boundaries, and demonstrated an understanding of values and priorities. However, confidence is at 5, signaling room for growth. Exploring further strategies to boost confidence and manage ambivalence could be beneficial before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Recognizing the need for boundaries demonstrates a strong resolve to stay focused on what truly matters to you. It seems like this approach could help prevent overwhelm and keep your goals in clear view. What small step might you take this week to begin implementing these boundaries?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "Maybe I could start by scheduling specific study times and sticking to them, even if it means saying no to other plans. I could also try setting limits on how many hours I work each week so I have enough time for school and self-care.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identified specific next steps, and displayed a clear understanding of their values and goals. Confidence is at 5, which suggests room for growth, but a specific small step has been identified to improve this. These indicators suggest readiness to transition to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Scheduling dedicated study times and setting work limits are thoughtful first steps to nurture your academic and personal well-being. Would you like to explore how you might handle any challenges that could arise with implementing these new boundaries? Additionally, how would you like to track your progress in sticking to your plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that would be helpful. Maybe we can talk about strategies for saying no when other things come up and how to handle any guilt that might come with it. For tracking progress, I suppose I could keep a journal or use an app to note how well I'm sticking to my schedule.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Managing external requests and dealing with guilt when setting boundaries can be challenging yet crucial for your balance. Possible strategies include rehearsing polite ways to decline invitations and reminding yourself of your long-term goals. As for tracking your progress, journaling or using an app sounds like a practical choice to stay accountable and reflect on your successes. How do these ideas resonate with you, and do you have any particular app or journaling method in mind to get started?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "I really like the idea of having some go-to phrases to turn down invites without feeling bad. Reminding myself of my goals might also help me stay on track. As for tracking, maybe I'll try a simple app like Google Calendar to block out study times, and I can jot down thoughts in a journal to reflect on how things are going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with specific steps for setting boundaries and tracking progress. They have also discussed potential barriers like handling guilt. The client shows commitment and confidence in their plan. Given these indicators, they are ready to move to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Those go-to phrases for saying no and focusing on your goals can indeed empower you to uphold your boundaries while maintaining your relationships. Using Google Calendar to organize your study schedule and reflecting through journaling are excellent ways to hold yourself accountable and assess your progress. It's inspiring to see how you're actively shaping your path with intention and thoughtfulness. As we wrap up, remember that taking these small, consistent steps can lead to significant progress over time. If challenges arise, you're not alone, and we can continue to explore strategies together. Until our next session, keep trusting in your ability to navigate this balance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks for your support and encouragement. I'll give these strategies a shot and see how they work for me. Looking forward to our next session to share how things are going!",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals and steps to maintain balance. A plan with coping strategies was discussed, including setting boundaries, tracking progress, and handling challenges. It naturally led to a positive closing point.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How many W's did you have in college?\nThis is my first semester in college and I had to withdraw from 2 classes because of some circumstances involving my job and time management. I don't want to do it again and I just wanted to know if it's a bad thing and if you guys had a similar experience before? And how many W's is too many??",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

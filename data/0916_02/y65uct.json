@@ -1,0 +1,173 @@
+{
+  "id": "y65uct",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, welcome! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm kinda stressed and a bit lost about what I'm getting out of my college experience.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "College can be overwhelming at times. You're feeling stressed and lost because you're unsure about the value you're getting from your time there. What's been on your mind specifically about your college experience?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, it feels like I'm just breezing through without really learning anything useful. I'm worried it won’t prepare me for a real job.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed concerns about feeling unchallenged in college and worries about being unprepared for the workforce. The therapist has acknowledged these feelings but more exploration is needed to understand the client's values, expectations, and deeper context. Empathy and rapport are still developing.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you're concerned that what you're learning now may not translate well into the skills you'll need in the job market. What aspects of your college experience are you finding less useful, and are there any parts that you find engaging or valuable?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I find a lot of my classes aren't challenging, and they're mostly online, which makes it feel disconnected. The only engaging part has been some programming projects, but even those seem pretty basic.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their main concern about feeling unchallenged and unprepared for the job market due to the nature of their college experience. The relevant context, such as the online format of classes and lack of challenging coursework, has been detailed. Empathy and rapport have been established as the conversation revolves around the client's feelings and thoughts.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Programming projects have sparked some interest for you, even if they seem basic right now. I'm curious, how do you see these projects fitting into your future goals or career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I mean, I guess they could be a start, but they feel like they're just scratching the surface of what I need to know. I want to be able to tackle real-world problems and feel confident in doing so, but I'm not sure if what I've done so far helps with that.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like having the confidence to tackle real-world problems is really important to you. What do you envision for yourself in terms of using your skills in the future, and how might building on these projects help bridge that gap?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I think I'd like to be able to work on complex software projects or be part of a team solving big challenges, like maybe in AI or developing apps that help people. If I could take these basic projects and build on them, maybe add more advanced features or work with new technologies, that might help me feel more prepared. But I'm not sure where to start with that.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change ideas, like building more advanced projects and learning new technologies, indicating emerging readiness for change. Change Talk is present, with the client acknowledging the need to prepare for real-world challenges. However, there's still some uncertainty on where to start, suggesting that further guidance may be beneficial before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "therapist(guiding): You're imagining a future where you're part of something impactful, like AI or app development, and expanding on your projects could be a stepping stone. Considering your interests and goals, what might be one small step you could take towards exploring these advanced features or new technologies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by looking into online resources or tutorials about AI or app development. Maybe even try to find some open-source projects to contribute to, so I can see how things work in a more real-world setting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of exploring AI or app development and identified initial steps, such as using online resources or contributing to open-source projects. Change Talk is present, and the client seems to have a clearer direction, suggesting readiness to develop actionable plans in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring online resources, tutorials, and open-source projects could indeed be great steps forward. To help structure your approach, would you be open to setting a specific goal, like dedicating a certain amount of time each week to these activities? Additionally, what barriers do you anticipate might come up, and how might we plan to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Setting a specific goal sounds like a good idea. Maybe I can aim for a few hours each weekend. As for barriers, I guess time management might be a challenge, especially with school work, and maybe feeling overwhelmed by the sheer amount of stuff to learn. It'd be good to have a plan for tackling those.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Scheduling a few hours each weekend is a solid goal to start with. Managing school work alongside this could be tricky, so perhaps creating a weekly schedule might help balance things. Also, breaking down the learning into smaller, manageable parts could make it less overwhelming. How do you feel about these approaches, and do you have any other ideas on how to monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, a weekly schedule could actually help me keep track of everything. Breaking things down into smaller chunks sounds less intimidating too. Maybe I can keep a journal or a log of what I learn each week to see how I'm progressing. That way, I can also figure out what areas I need to focus on more.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of dedicating a few hours each weekend to explore new technologies and has agreed on strategies to manage potential barriers like time constraints and feeling overwhelmed. They also plan to self-monitor progress through journaling. Given these achievements, they are ready to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Keeping a journal or log of your progress is a fantastic idea—it offers a clear picture of your growth and helps you identify areas needing more attention. Dedicating a few hours each weekend to this goal, coupled with a structured weekly schedule, seems like a promising plan. Remember, it's perfectly okay to adjust as you go along to find what works best for you. I'm here to support you in this journey, and I have confidence in your ability to make these meaningful strides. As you begin this process, I'll be eager to hear about your experiences and how you're finding the balance. Let's touch base in our next session to reflect on how things are unfolding and discuss any adjustments you might want to consider. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks! I feel a bit more hopeful about taking these steps now. I'll try to stick to the plan and see how things go. Looking forward to sharing my progress next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed the client's concerns, established goals, and created a plan with coping strategies for progress. The client expressed hope and readiness to start the plan, indicating a natural conclusion for this session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feel like my college is useless\nI’ve been getting As and A+s since college started, and I’m almost never getting challenged. This isn’t to brag, I’m not that smart, but I am diligent. It’s more like most of my classes are online and most of those are evaluated based on coursework and final “reports” rather than exams, which makes it very easy to get very good grades for me, since I don’t actually have to study at all, except for the week I’m writing the report.\n\nI have literally not had a single in person exam since I got into uni, and even courses where I barely understand anything I get an A or A+ on. I’m in CS, and I was expecting to learn some actually useful skills. Now I’m in 3rd year, supposed to be looking for jobs and internships, but feel woefully unprepared for anything. Literally feels like I haven’t learned a single useful thing since high school. We did have some programming courses, but the most complex thing they had us build is an angry birds clone in Java. \n\nI’ve started to learn HTML/CSS on my own time just so I can have SOME form of marketable skill, but I’m always worrying about my future. Idk if I’ll find a job at this rate. This is supposed to be a top 10 school in Japan too….",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

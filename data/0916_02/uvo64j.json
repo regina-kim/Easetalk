@@ -1,0 +1,299 @@
+{
+  "id": "uvo64j",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What brings you here today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've been really stressed about my major lately. I'm kind of stuck between continuing with Biology on a premed track or switching to Computer Science, but I'm not even sure if it's too late to make the change.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a tough decision weighing on you. You're feeling stressed because you're uncertain about whether to continue with Biology or switch to Computer Science and if it's even the right time to do so. What’s making each option appealing or challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, with Biology and premed, it's kind of what I always thought I’d do, and it feels like it would be a waste to give up now. But then with Computer Science, it's more like curiosity, and I feel like it would open up a lot of different career paths, even though I'm not great at coding yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary dilemma and emotions around their major decision, but more exploration is needed on their feelings about both options and their values. The therapist should continue to build rapport and understand the client's deeper motivations and hesitations.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It seems like you're feeling a sense of obligation with Biology because it's been your long-term plan, and maybe a fear of wasting past efforts. On the other hand, Computer Science sparks your curiosity and offers diverse opportunities, albeit with some uncertainty about coding skills. Can you tell me more about how these feelings are influencing your decision-making process?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Yeah, I'm definitely feeling that pressure from having invested a year in Biology already. It's tough to think about starting fresh, especially when I'm not sure how I'd even do in Computer Science. The curiosity is there, but so is the fear of failing or not catching up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the core of their dilemma with clarity, discussing both options and their associated feelings, like pressure and curiosity. The therapist has demonstrated understanding and empathy, and the conversation has established a mutual understanding of the client's concerns. They've achieved rapport and insight into the client's decision-making process.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Choosing between sticking with Biology and exploring Computer Science seems to weigh on your mind, especially with the year you've already invested. It sounds like there's this strong pull between staying the course and the allure of new opportunities, tempered by the fear of the unknown and starting over. How does this pressure align or clash with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I'm trying to figure that out, honestly. I always thought being a doctor could be really fulfilling and respected, but the more I think about it, the more I'm not sure it's what I want. At the same time, I'm worried that I might be glamorizing Computer Science because it seems interesting and different. It's like I'm questioning everything I thought I wanted for my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Questioning your long-held goals and feeling uncertain about the future can be overwhelming. You've identified fulfillment and respect as important values tied to being a doctor. With Computer Science, there’s a sense of intrigue, but also some uncertainty. How might your values and aspirations align with each path, and where do you see the most potential for personal growth and satisfaction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): That's what I'm trying to sort out. I think both can lead to fulfilling careers, but in different ways. Medicine is more traditional and stable, while Computer Science seems more flexible and possibly more in tune with where the world is heading. I just don't want to make a choice I regret later.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is exploring discrepancies between values and career paths, expressing ambivalence but also showing some Change Talk regarding personal growth and satisfaction. The conversation is still exploring these complex emotions and motivations, so it is beneficial to continue in Guiding to further strengthen commitment and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Considering your career options' potential for fulfillment and stability is important, and it’s understandable to want to avoid regret. You see both paths offering different kinds of satisfaction and growth. Reflecting on how each aligns with your vision for your future may help clarify your decision. On a scale from 0 to 10, how confident do you feel about exploring this uncertainty and moving towards a decision that feels right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Right now, I'd say I'm probably at a 4 or 5. I feel open to exploring my options, but I'm still pretty unsure about which direction to take. The whole idea of making a decision that could shape my future is kind of daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still experiencing significant ambivalence and a low confidence level (4-5) about their decision. While there is some exploration of values and potential paths, the necessary readiness signals, such as clear Change Talk, specific goals, or sufficient confidence, are not yet present.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Navigating the uncertainty of a decision that could shape your future can certainly feel daunting. Your openness to exploring options is a great start, even amidst uncertainty. It sounds like you're in a place where you're willing to consider both paths and how they align with your aspirations. What steps might help increase your confidence from a 4 or 5 towards a clearer decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): I think maybe I should try out some beginner coding classes or workshops to get a feel for Computer Science. That might help me see if I'm truly interested and capable in that area. Also, maybe talking to professors or students in both fields could give me more insight into what each path is really like.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed openness to exploring options, acknowledged potential paths, and identified steps to gain more clarity. However, confidence is still under 6, indicating ambivalence and uncertainty remain. Further exploration and strengthening of confidence is needed before moving to concrete action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring beginner coding classes and engaging with others in both fields could offer valuable insights and help clarify your interests and capabilities. Taking these steps aligns well with your openness to exploring options. How do you feel about reaching out and taking these initial steps to gather more information?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I'm a bit nervous about it, to be honest, but I think it's necessary if I want to make an informed decision. It's kind of exciting too, in a way, to learn something new and see where it might lead me. I guess I just need to push through the nervousness and take that first step.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored options for reducing uncertainty and building confidence, such as trying coding classes and consulting with students/professors. However, their confidence is at a 4 or 5, indicating further guidance is needed. The client still expresses significant ambivalence and uncertainty, suggesting the Guiding phase should continue to strengthen motivation and clarify values.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Your willingness to push through the nervousness shows a strong commitment to making an informed decision. Embracing the excitement of learning something new can be a powerful motivator. How might taking these first steps towards exploring Computer Science feel rewarding or affirming for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(guiding): I think it could really help me figure out if this is something I can see myself doing long-term. It might give me a sense of direction, like confirming if Computer Science is a path I truly want to pursue or if I'm better off sticking with Biology. It’s like turning my curiosity into something concrete.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear steps to explore options, such as taking coding classes and talking to others in the fields of interest. However, their confidence is at a 4 or 5, indicating uncertainty. Change Talk is present, but ambivalence remains. It is prudent to continue guiding to strengthen confidence and reduce ambivalence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Turning your curiosity into something concrete by exploring Computer Science could indeed provide valuable clarity about your future direction. It's encouraging to see your motivation to discover whether this path aligns with your long-term vision. What do you think could be the most fulfilling aspect of gaining more clarity through this process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(guiding): Honestly, having a clearer idea of what I want would be a huge relief. It would help me focus my energy on the right classes and opportunities. Plus, knowing that I'm working toward something that genuinely excites me would make the whole college experience feel more meaningful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing ambivalence and maintaining Sustain Talk, with confidence at 4-5. While exploring options, client has yet to set a specific change goal. Change Talk is present, but more exploration of values and reduction of ambivalence is needed to solidify a direction.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Finding clarity in your decision could certainly bring a sense of relief and purposeful direction, leading to a more meaningful college journey. Your enthusiasm for focusing on something that excites you is inspiring. How does this vision of a more fulfilling college experience influence your motivation to take those initial steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(guiding): client(guiding): It definitely boosts my motivation a bit. Thinking about how much more engaged I could feel if I knew I was on the right track makes me want to get started on these steps. It's like a little push to get over the initial fear and just dive in.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk with a specific plan to explore Computer Science through classes and conversations. They show increased motivation and a desire to gain clarity. However, their confidence is rated at 4 or 5, indicating a need for further strengthening before moving to action planning. Staying in the guiding phase to build more confidence and reduce ambivalence is advisable.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Feeling a boost in motivation to dive into these steps can be a powerful catalyst for overcoming initial fears. It's wonderful to hear that envisioning a more engaging college experience is giving you that extra push. What small, manageable action might you take first to begin this journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "I think starting with a beginner coding class or finding a workshop online would be a good first step. Just getting my feet wet somewhere small and low-pressure might help ease me into it and make everything feel a bit more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated a specific change goal and has shown an increase in motivation and confidence to explore new possibilities. There is no notable ambivalence or sustain talk present, and the client is actively considering the benefits of taking initial steps. These are strong signals of readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Starting with a beginner coding class or an online workshop sounds like a practical and approachable first step. This way, you can ease into the subject without feeling overwhelmed. Would it be helpful to set a specific timeline for when you want to explore this option, and how might you address any potential challenges in starting this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "Having a timeline could definitely keep me accountable and give me a clearer path forward, which sounds really helpful. I might aim to start something within the next month. As for challenges, I guess it would be dealing with self-doubt, so maybe reminding myself that it's okay to not be perfect right away would help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Setting a timeline to start within the next month is a great way to maintain momentum and accountability. Addressing self-doubt by allowing yourself to learn without the pressure of perfection can indeed be a helpful strategy. How do you envision monitoring your progress and staying encouraged as you take these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "I think keeping a little journal or a log of what I learn and achieve along the way could be a fun way to track my progress. Seeing how far I've come might help stay motivated. Also, maybe talking to others who are on a similar path could be really encouraging, like finding a study group or an online community to share experiences with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with a timeline and strategies to address barriers like self-doubt. They've agreed on self-monitoring through a journal and engaging with a community. Their commitment and readiness to take steps are evident through their motivation and outlined plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Keeping a journal or a log to track your progress is an excellent idea, and can really highlight your growth over time. Reaching out to others on a similar path—whether through a study group or online community—sounds like a wonderful way to find encouragement and share experiences. It's truly inspiring to hear how you’re planning to support yourself in this journey. As you embark on this, remember we're here to support you. Let’s touch base soon to see how everything is unfolding and to help with any new steps or adjustments you might want to make. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, I really appreciate all your help and support. I'll definitely check back in to update on how things are going and if I need any more guidance. Looking forward to seeing how this all unfolds!",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a clear plan: taking a beginner coding class, setting a timeline, addressing self-doubt, progress tracking, and engaging with a community. The client expressed readiness to start and future contact for updates.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I cannot decide if I truly want to change majors, and feel like it maybe too late.\nI just finished my freshman year as a Biology major on Premed track, but part of me dors not really know if I want to continue pursuing medicine. I am considering switching to Computer science, but am unsure if it is too late. I also do not have much experience with coding, and am not the best in the world at math.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

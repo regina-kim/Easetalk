@@ -1,0 +1,131 @@
+{
+  "id": "x0ugoz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? Feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've been thinking a lot about my future education plans lately, especially about pursuing two Master's degrees. I'm just unsure if it's worth the time and money, and I don't really have anyone to guide me since I'm the first in my family to go down this path.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Pursuing two Master's degrees is a big decision, and it makes sense that you're weighing the time and financial commitments involved. You might be feeling uncertain because you don't have a family precedent to look to for guidance. What aspects of pursuing these degrees excite you, and what concerns do you have?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I'm really excited about the potential career opportunities and knowledge I'd gain from them. But I'm also worried about making the wrong choice and possibly burdening myself with more debt than necessary. It's hard to know if it's the right move.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the essence of the client's story, thoughts, feelings, and context regarding their education plans. Empathy and rapport are evident, and the client's goals around education have been mutually explored.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Thinking about the opportunities these degrees could open up can be really motivating. It's understandable to have concerns about financial burdens and making the right choice. What do you envision your life would be like if you decide to pursue these degrees, and how might it be different if you choose not to?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If I go for both degrees, I imagine having a lot of options career-wise, maybe even a better salary and more job security. On the flip side, if I don't, I might save money and avoid debt, but I worry about potentially missing out on opportunities or feeling stuck career-wise later on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Picturing the career options and job security that might come with earning two Master's degrees can certainly be appealing. Saving money by avoiding debt is also a significant consideration. How do these possibilities align with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I really value stability and having options, so the idea of more job security and opportunities aligns well with that. But at the same time, I don't want to be in a position where financial strain limits my choices in life or impacts my well-being. Balancing these is tricky.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering the pros and cons of pursuing two Master's degrees. They have identified potential career benefits and financial concerns. The therapist has guided the client to explore the discrepancy between desired stability and financial strain. The client articulated how both options align with their long-term goals and values, showing readiness to discuss actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like both stability and financial well-being are important to you. Balancing these aspects can indeed be challenging. Based on what you've shared, one option could be to pursue one Master's degree first to see how it fits with your goals, and then decide on the second one later. Another option might be to explore scholarships or part-time work to lessen financial strain. What steps do you think could help you start moving toward a decision that feels right for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I think starting with one Master's and seeing how things go sounds like a solid plan. Looking into scholarships or maybe even jobs that offer tuition reimbursement could be helpful too. I guess gathering more information and weighing my financial situation would be a good step forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful steps towards making an informed decision. Exploring scholarships and tuition reimbursement options could certainly ease the financial burden. Gathering more information to weigh your financial situation aligns well with your values of stability and well-being. How would you like to track your progress and make sure you're on the right path as you explore these options?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "I think keeping a checklist or a journal might help me track my progress and thoughts. Maybe setting small goals like researching a certain number of scholarships each week or talking to people in the field could keep me on track and make things less overwhelming.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to start with one Master's and explore financial options. They have discussed potential barriers like financial strain and have agreed on self-monitoring through a checklist or journal. The client shows readiness by outlining steps and expressing confidence in tracking progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "That's a great approach—using a checklist or journal can really help you stay organized and focused as you move forward. Setting small, manageable goals like researching scholarships or networking with people in your field could make the process feel more achievable and less daunting. You've got a clear plan aligning with your values, and that's fantastic. Remember, it's okay to take things one step at a time. If you ever feel stuck or need encouragement, I’m here to support you. The next step might be to start with your checklist and celebrate each small win along the way. Keep up the good work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll start working on that checklist and try to take things one step at a time. I'll definitely reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan aligned with their values, including specific steps and coping strategies, and has been encouraged to proceed while knowing support is available if needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is it worth it to get two Master's degrees?\nFinishing up my Bachelor's this semester and going through the process of getting ready for my Master's. There are two programs that are very appealing to me and would both be beneficial in my future career. I favor one slightly more than the other, but I can get the one I favor less for 50% of the cost because of the internship I am currently in.\n\nWould it make sense to complete the discounted one, and get the other afterwards if I still thought it would be beneficial? Each program is an online intensive that takes between a year and a year and a half to complete, so theoretically I could have a Bachelor's and two Master's by the time I'm 25, which sounds worth it to me. I'm a first-gen college student and the only person I know from my family who has pursued a graduate degree, so I really don't know what is standard. Any advice?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

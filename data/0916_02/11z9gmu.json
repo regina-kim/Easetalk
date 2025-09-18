@@ -1,0 +1,152 @@
+{
+  "id": "11z9gmu",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here today. What's on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been feeling a bit torn lately because I stumbled upon this job opportunity that seems too good to pass up, but I also have my heart set on becoming a professor eventually.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing those feelings must be challenging—finding a path that aligns with both your current interests and future goals can be tough. What about the job opportunity excites you, and what draws you towards becoming a professor?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): The job's remote and pays really well, which is hard to ignore. But becoming a professor means I get to do research and teach, which I find super fulfilling.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, thoughts, and feelings about the job opportunity and their goal of becoming a professor. However, the exploration of the context and emotions surrounding the decision is still unfolding. Empathy and rapport are being established, but further exploration is needed to understand motivations and potential goals more clearly.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "You find the perks of the job, like working remotely and the good pay, appealing, yet you're also drawn to the fulfillment that comes from research and teaching as a professor. How do you see these two options fitting into your life right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Both options have their perks, but I'm worried that taking the job might derail my long-term goal of becoming a professor. Yet, the thought of financial stability right now is really tempting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their concerns about balancing a lucrative job opportunity with their long-term goal of becoming a professor. They've shared their thoughts on both options and their current dilemma. Empathy and rapport are evident, and mutually agreed goals for the conversation are emerging.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It sounds like financial stability is important to you, and it's also valuable to pursue a fulfilling career. How do you imagine your life changing with the financial stability from the job or the fulfillment from becoming a professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "If I take the job, I could worry less about money and have a more comfortable lifestyle. But becoming a professor would mean doing something I'm passionate about every day, even if it takes longer to get there financially.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Choosing between immediate financial stability and pursuing a passion can be quite the dilemma. Imagine a future where you're living with the financial ease from the job or the daily passion from being a professor—what does each scenario look like, and how does it align with your values and long-term vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Living with financial ease from the job, I'd probably feel less stressed about money and have more freedom to enjoy other aspects of life. On the flip side, being a professor means I'd be deeply engaged in work I love, fostering students' growth and contributing to research, which aligns with my career goals and personal values.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between immediate financial gain and long-term career fulfillment as a professor. They have explored life scenarios with and without the change, demonstrating significant Change Talk about their values and goals. The client shows readiness to discuss concrete steps toward a decision, indicating progress beyond the guiding phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Reflecting on your values and long-term vision, it sounds like both paths hold significant meaning for you. If you were to develop an action plan, what small steps might help you explore each option further? Perhaps researching more about the job's growth opportunities or looking into part-time teaching positions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Exploring both options sounds like a smart move. I could look into the job's potential for career advancement and see if there are part-time teaching gigs that let me stay connected to academia. Maybe shadowing someone in the industry or talking to professors who transitioned from industry jobs could help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Exploring both paths seems like a thoughtful approach. To support your decision-making, would you like to set a goal to research the job's growth opportunities or identify part-time teaching roles? Perhaps you could also consider reaching out to industry professionals or professors for firsthand insights. What steps do you feel ready to take next?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(acting): I think setting a goal to research the job's growth opportunities and potential advancement sounds like a good start. I can also make a list of part-time teaching roles or adjunct positions I could apply for. Reaching out to people who've made this transition could give me a clearer picture too. I'll start by putting aside some time each week to work on these steps.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, detailing steps such as researching job growth opportunities and exploring part-time teaching roles. They have also expressed commitment to these steps and are ready to self-monitor progress. The client shows confidence in exploring both paths, indicating readiness for action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "You've got a solid plan in place, which is a wonderful start. By setting time aside each week to research the job's growth opportunities and explore part-time teaching positions, you're actively working toward clarity. Reaching out to those who've navigated similar transitions should provide valuable insights and support. You're taking meaningful steps towards a decision that aligns with your values and goals. Remember, this process is about discovering what truly resonates with you. Keep going, and trust that you're moving in the right direction. We'll continue to support you on this journey, and you're doing great work.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(terminating): Thanks for the reassurance. It's nice to have a plan that feels do-able. I'll keep chipping away at it and see where it leads. Appreciate all the help!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a solid plan to explore both career paths through specific steps, aligning with their values and goals. The next-step plan has been discussed, indicating readiness for session closure. ",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Thinking about applying for an industry job\nI work in biology education research aimed specifically in higher education. The other day I was going through my email and saw a great job opportunity that was posted and that was a remote position. It will pay 10x more than what I am currently getting paid as a TA at my school. I just proposed my dissertation and am now a candidate. I ultimately want to become a professor and continue doing research.\n\nShould I apply for the job?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

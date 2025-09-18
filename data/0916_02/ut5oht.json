@@ -1,0 +1,152 @@
+{
+  "id": "ut5oht",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just feeling a bit restless. I can't shake this nagging feeling of not knowing what to do with all this free time over the summer.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be unsettling to have a lot of free time and not know how to fill it. What activities or interests have you enjoyed in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, that's true. I've always loved reading and sometimes I dabble in painting. I used to volunteer a bit too, but now I'm not sure where to start again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client’s concerns and feelings about their aimlessness during the summer have been expressed, including their fears and uncertainties about the future. Context has been provided about their interests, past activities, and current situation. There is a clear understanding of the client’s story and feelings, establishing rapport. Moving to the Guiding phase could help address their motivation and explore potential solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Reading and painting sound like wonderful ways to spend your time, and volunteering can be so fulfilling. Imagine how it might feel to connect with those activities again. What draws you to them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I guess reading and painting let me escape into different worlds or just zone out and be present with my thoughts. Volunteering gives me a sense of purpose, but I'm not sure how to find the right opportunities here.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Those activities really resonate with you on different levels. It sounds like they offer both a sense of escape and a way to feel purposeful. If you imagine yourself engaging more with these activities, what do you think would be different in your day-to-day life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think I'd feel more balanced and maybe less anxious, like I'd have a bit of a routine again. It might help me feel more grounded in this new place.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to engage with activities like reading, painting, and volunteering, which align with their values and offer potential goals. There is notable Change Talk about feeling more balanced and less anxious when engaging in these activities. However, the client's confidence in finding new opportunities is still uncertain and some ambivalence remains about career and time management. Staying in Guiding can further explore and strengthen confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding balance and grounding through a routine could be very fulfilling. What small step could you take towards re-engaging with reading, painting, or volunteering that might help you feel more settled?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by setting aside a little time each day for reading or painting, just to ease back into it. For volunteering, I could look up local organizations or events to see where I might be able to help out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying specific actions to re-engage with reading, painting, and volunteering. They've articulated a change goal and the potential positive outcomes of these actions. Confidence or values clarification techniques were not explicitly used, yet the focus on concrete steps suggests readiness for action planning. The conversation is not stuck, indicating progress to the next phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "You have some great ideas for re-engaging with these activities. Setting aside time for reading or painting could bring more balance, and researching local volunteer opportunities might provide that sense of purpose. What would you like to focus on first, and how can we create a plan to support that decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I think starting with reading or painting would be easier since I can do that on my own at any time. Maybe I could commit to an hour each day, alternating between the two. For volunteering, I’ll need to do some research online and see what’s available in my area.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Committing to an hour each day for reading or painting sounds like a manageable and fulfilling way to start. How does alternating between these activities sound to you? For volunteering, researching online is a great plan. Would you like to set a timeline for your research, perhaps by the end of the week, to see what opportunities are out there?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): Alternating between reading and painting sounds really nice, and I think committing to just an hour a day makes it more doable. As for volunteering, setting a timeline by the end of the week to research opportunities sounds like a good plan. That way, I have a goal to work towards without feeling too overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal with a concrete action plan for both reading/painting and researching volunteering opportunities. They've discussed barriers, such as feeling overwhelmed, and agreed on self-monitoring with a timeline. The client shows commitment and readiness to take steps. Confidence is evident in their manageable plan. Given the progress, it seems appropriate to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a routine with an hour each day for reading or painting will likely bring a sense of balance and enjoyment. Alternating between them can keep things fresh and engaging. It's wonderful that you’re setting a timeline to explore volunteering opportunities—by the end of this week, you'll have a clearer picture of what's possible. This approach gives you a direction without causing stress.\n\nRemember, it’s perfectly fine to take things at your own pace. You're creating a path that’s uniquely yours, and that’s an important step. As you embark on this journey, know that I’m here to support you. Let’s check in next time to see how things are unfolding and what new insights have emerged for you. You're doing great.",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support and guidance. I'll start with the hour a day and see where it takes me. Looking forward to checking in next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a plan for engaging with activities that provide balance and purpose, and a timeline for exploring volunteering opportunities. Goals and next steps are clearly discussed, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is anyone else struggling with feeling aimless during summer?\nHi there, 20F here\nJust wondering how you all fare during the summer. My last final was three weeks ago, and I just finished junior year. I work very hard and do well in school, but once it ends and I go from a rigid structure to nothing I feel disoriented and directionless.\n\nPart of it is that I feel the need to be constantly making progress. Another part is that I am pressuring myself to be figuring out my career path, because I hate not knowing exactly what I want to do. I'm good at school, but I'm also afraid that I won't be good at working and applying my skills to practical situations.\n\nSome of these fears are irrational--I've worked before, I've done great and I've discovered some aspects of my career that I like and dislike. I want to explore the medical field but I'm not sure if I could be hired for only 3-4 months as an entry level worker and then leave to go back to school.\n\nBasically summer gives me lots of generalized anxiety about my life and future that I don't have time to stew on during the school year. I know the obvious solution is to make arrangements for summer plans ahead of time so I don't run into this, but I had a short term change in my living situation and so I'm in a new place away from my university and feeling like everything is unfamiliar.\n\nSo much empty time and I'm not sure what to do with it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

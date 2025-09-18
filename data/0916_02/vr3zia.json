@@ -1,0 +1,131 @@
+{
+  "id": "vr3zia",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? Feel free to share anything that's on your mind or any concerns you might have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been struggling with this overwhelming anxiety about last semester and it's affecting how I'm starting this new one. I just can't seem to shake off the burnout and fear of seeing my results.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating through anxiety and lingering burnout can be really tough, especially with the pressure of new semesters. Would you like to share more about what last semester was like for you and how it's impacting your feelings now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Last semester felt like everything was piling on at once, and I just couldn't handle it. Now, I'm scared those feelings will follow me into this new semester, and I'm worried it might affect my performance again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's main concerns, including detailed context and emotions tied to past experiences like a traumatic semester, anxiety, and burnout. Empathy and rapport are evident, as the client openly shares their challenges and seeks guidance, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It must be really challenging to carry those feelings into a new beginning. In what ways do you see this anxiety affecting your current situation, and what would life be like if this anxiety was less present?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(guiding): This anxiety is making it hard for me to even show up to class, and I'm avoiding my emails because I'm scared of seeing my results. If I wasn't so anxious, I'd probably feel more motivated and focused on starting fresh this semester without all this baggage.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Imagining a semester where anxiety takes a backseat sounds incredibly freeing. What might help boost your motivation and focus, even just a little, to begin to break through that anxiety?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting small, manageable goals or finding ways to reward myself for little achievements could help. I think having a structured routine might also give me a sense of control and help reduce the anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identifying small goals and routines as potential steps to reduce anxiety. They have a specific change goal and seem motivated to improve. While confidence rulers weren't used, the client's motivation and ideas for change suggest readiness to plan specific actions. Movement to the Choosing phase to develop detailed strategies is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you've thought of some effective strategies that could really support you. Creating small, manageable goals and establishing a routine can certainly build a sense of control and accomplishment. Based on what you mentioned, possible options include setting a daily goal for attending classes or checking emails, and perhaps planning a small reward for completing each goal. What do you think about starting with a simple goal like that, and how might you put it into action?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that's a good idea. I could start by setting a goal to at least open my student email once a day, maybe right after breakfast so it becomes part of my morning routine. And I could reward myself with a little treat or extra downtime if I manage to do that consistently.",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "That sounds like a practical and achievable plan to incorporate into your day. Establishing a consistent time, like after breakfast, can help make it a habit. How do you feel about setting a timeframe for this routine, like trying it for a week and then seeing how it goes? We could also think about ways to monitor your progress and any barriers that might arise during that time. What are your thoughts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(choosing): Yeah, trying it for a week sounds doable. I can keep a little journal to track how I'm feeling each day and see if it's helping with the anxiety. That way, I can also figure out what might be getting in my way if I have trouble sticking to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal, set a concrete action plan, and discussed self-monitoring strategies. Barriers were anticipated with a plan to track progress. The client is showing readiness with commitment to trying the plan for a week and considering further steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Having a journal to track your feelings and progress is a wonderful tool. It allows for reflection and helps identify what's working or where adjustments might be needed. As you embark on this week, remember to be kind to yourself and acknowledge the effort you're putting in. If challenges pop up, that's completely okay. As we wrap up today, know that I'm here for support and you can reach out whenever you’re ready to reflect on how things are going or to explore any new steps. You've taken a significant step already by coming here and sharing your thoughts. I'm confident that with these strategies in place, you'll find more ease in managing the anxiety. Looking forward to hearing about your progress. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll give this a shot and see how it goes. Fingers crossed this helps lessen the anxiety.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist reviewed the anxiety and burnout concerns, explored strategies, and crafted a manageable plan with coping mechanisms. The session concluded with an invitation for future support and a positive next-step plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Tips on overcoming burnout + anxiety over previous semester results\nlong tory short I had a pretty traumatic previoos semester (went through a miscarriage and a bad breakup all within the last 6-7 weeks of school) and might have fumbled my first semester of the year cause my mental health went to shit and I felt so burntout by the time exam's had rolled around - I didn't work as hard as l should've/would've under normal circumstances. \n\nthis week is the first week of my second semester of the year and although I feel mentally stronger than I did previously &amp; actually quite determined to deal with the semester, im also experiencing extreme crippling anxiety over my performance and results of the previous semester (like I literally can't bring myself to open my student email and today, which was the first day of school, I just sat in my car in the uni carpark for almost 2 hours before ultimately driving home because I was afraid to see my peers &amp; lecturers - I don't know why lol). i really don't want to let the burnout i experienced in the previous semester &amp; thr anxiety over it all spill over into the present and affect my studies this semester. \n\nany tips on getting over burnout as well as dealing with/letting go of anxiety surrounding performance in the previous semester?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "xcg88i",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really torn about my major. I'm not sure if I made the right choice and it's been stressing me out a bit. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You've been feeling stressed because you're uncertain about whether your chosen major is right for you. What aspects of your major are making you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, the coding part is really overwhelming and I'm struggling to keep up with my classmates. It's intimidating and makes me question if I can handle it long-term.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their concerns regarding their major choice, including feelings, context, and thoughts. The therapist demonstrated empathy and basic understanding. However, mutually agreed goals or direction are not yet clear. Further exploration is needed to fully understand the client's motivations and values.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can be daunting to feel overwhelmed by coding and to compare yourself to classmates. What has your experience been like when you're working on coding projects or assignments?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I find myself stuck a lot, and it takes me way longer than others to understand the concepts. I try to practice, but I just end up feeling frustrated and unsure if I'm improving.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's story, including her thoughts and feelings about her major, the challenges faced, and the context behind her choices. Empathy and rapport are evident, and goals are mutually agreed upon. The conversation is not repetitive or unproductive, indicating readiness to move to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Coding projects seem to leave you feeling stuck and unsure about your progress. How do you think your life might change if you felt more confident and capable with coding?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): I guess I'd feel less anxious and more motivated. Maybe I'd even start enjoying it, which would help me see a future in creative computing. Right now, it's hard to envision that.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Gaining confidence in coding might help you feel more at ease and even excited about your major. What would be different for you if you were to enjoy and envision a future in creative computing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): If I started enjoying it, I think I'd feel more at peace with my decision and maybe even start seeing the possibilities and opportunities this path could offer. It would be great to feel like I'm on the right track and doing something meaningful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by envisioning a more positive future with increased confidence in coding and has explored both sides of changing and not changing. However, no specific change goal or next step has been set yet, and the client's confidence hasn't been quantified. Continued exploration of specific goals and addressing ambivalence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Feeling at peace with your decision and seeing possibilities could really open up your path in creative computing. What steps do you think might help you move toward that sense of enjoyment and meaning?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think maybe taking smaller steps in learning might help, like breaking down the concepts into more manageable pieces. Also, finding a study group or getting help from classmates who are more experienced could make things less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying steps such as breaking down complex concepts and seeking help from peers. They have explored the discrepancy between their current struggle with coding and their goal of enjoying creative computing. While confidence in managing change hasn't been quantitatively assessed, the client's proactive suggestions signal readiness to plan action steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Breaking down concepts into smaller steps and seeking help from classmates or a study group could really support your journey. How about setting a goal to focus on one concept each week and reaching out to classmates for a study session? What potential challenges do you foresee, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I could definitely try to focus on one thing at a time and see if I can find a group of classmates to study with. A challenge might be finding the time to balance everything, but I could try scheduling specific study times each week to stay organized.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Setting specific study times each week could help you maintain balance and stay organized. What do you think about creating a weekly schedule that includes these study sessions? If time management becomes challenging, what strategies could you use to adjust your plan and stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Creating a weekly schedule sounds like a good idea to keep things on track. If I struggle with time management, I could try prioritizing tasks by deadlines or importance and maybe even use tools like planners or apps to help me stay organized and focused.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan involving breaking down concepts, seeking help, and creating a study schedule. Barriers like time management have been discussed, with solutions proposed. Confidence in the plan is evident through acceptance and refinement of action-oriented reflections. Thus, goals of the Choosing phase are met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It’s wonderful that you're thinking about using tools like planners or apps to help you prioritize tasks by deadlines or importance. It sounds like you’re building a solid strategy to manage your time effectively. Setting a weekly schedule for focusing on one concept at a time and reaching out to classmates for study sessions can be a great way to enhance your understanding and confidence in coding.\n\nRemember, it's okay to take things step by step and adjust your approach as needed. You’re already showing commitment and determination by considering these strategies. As a next step, perhaps you could start with a simple schedule for the coming week and see how it feels. If challenges arise, remember to breathe and give yourself space to find what works best for you.\n\nKeep embracing the journey, and know that I’m here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thank you, I'll definitely try putting together a schedule and see how it goes. It's reassuring to know I can adjust as needed and have your support.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively summarizes goals and steps with coping strategies like scheduling and study sessions. A next-step plan is clearly discussed, focusing on managing time and embracing challenges.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Torn between getting a business, psychology, or creative computing degree\nIf you've taken any of these 3 courses before, what advice would you give someone who is choosing between them?\n\nI'm in Creative Computing right now but I have the option to transfer while its still early.\nI chose it because it seems like the course that has the most potential for a good job in the future, considering where the world is headed.\n\nHowever, I find maths and coding a bit challenging. It was our first coding class today and I already felt left behind. Some of my classmates already studied the basics before they went into uni so I felt really dumb.\nI know I can learn it as I go along but it just feels really daunting. Like can I really do this for my whole life? \n\nI used to be interested in taking Psychology or Business but after seeing all the advice online from people who have Psychology and Business degrees... they mostly say that they're \"useless\" unless you do a Masters or be good at networking. \n\nPart of me wants to take on the challenge of doing a more difficult degree while another part of me wants to go the more comfortable route. I'm a pretty sociable person and I'm good at writing essays and being creative, that's why I chose creative computing because I thought it would be more creative but the coding part is what I find difficult.\n\n... what do you think?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

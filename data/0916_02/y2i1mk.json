@@ -1,0 +1,215 @@
+{
+  "id": "y2i1mk",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I'm doing alright, just a bit anxious about balancing work and school. Trying to figure out if I've taken on too much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing both work and school can certainly feel overwhelming. What aspects of your current situation are contributing most to your anxiety?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's the fear of failing or not being able to keep up. It's been so long since I was in school, and I'm just worried about managing all my responsibilities.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about balancing work and school, mentioning specific fears and context related to this challenge. The therapist has shown empathy and understanding, creating a foundation for rapport. However, the discussion has not yet fully explored the client's motivations or potential goals, warranting further exploration.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like the fear of not meeting expectations is weighing heavily on you. Going back to school after a long time can definitely bring up feelings of uncertainty. Can you tell me more about how you're managing your responsibilities right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I've been trying to stick to a routine, fitting in work, gym, and some downtime. But with school added in, I'm not sure how to balance everything without burning out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about balancing responsibilities and the fear of failing, providing relevant context for their anxiety. The essence of their story is elicited, and rapport is built around understanding these concerns. However, specific goals or motivations for change have not been mutually agreed upon yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Trying to maintain a routine with so many commitments is quite challenging. You're making an effort to include work, gym, and downtime, which shows your intention to take care of yourself. How do you feel your current routine is working for you, and where do you see potential adjustments?",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(exploring): The routine works okay for now, but I worry it might fall apart once classes start. I might have to cut back on gym time or find a way to be more efficient with my study time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns and feelings about balancing work, school, and personal goals. They have also expressed fears and the strategies they currently use, indicating a developed rapport and understanding. Goals like managing responsibilities and preventing burnout are emerging. The conversation seems ready to explore motivations and change strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing priorities is indeed a tough task, especially with so many important commitments. You're considering adjustments like cutting back on gym time or improving study efficiency, which shows your willingness to adapt. On a scale from 0 to 10, how confident do you feel about finding a sustainable routine once classes begin?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I’d say maybe around a 5. I think I can figure something out, but there's still a lot of uncertainty about how everything will fit together when school starts.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Feeling at a 5 shows there's some room to build more confidence, but it's great that you believe you can figure things out. What do you think could help increase your confidence level about balancing everything as school begins?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I think having a solid plan or schedule would help. Maybe talking to people who've been through something similar could provide some useful tips or reassurance too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific concerns and a potential change goal of creating a solid plan or schedule. While there is some Change Talk and a confidence level of 5, more focus on decreasing ambivalence and exploring specific goals is needed before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Connecting with others who've had similar experiences could definitely offer valuable insights and reassurance. Seeking their advice may help you craft a plan that feels more solid. What aspects of a plan or schedule do you think would give you the most peace of mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Having dedicated time slots for studying and sticking to them would help. Knowing exactly when I’ll tackle schoolwork each week without it interfering too much with my other commitments would definitely make me feel more at ease.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk and started considering specific changes, such as creating a study schedule. However, confidence is at 5, showing there is still ambivalence. The client needs more guidance to boost confidence and further define change strategies before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "therapist(guiding): Establishing specific study times could certainly create a sense of structure and ease for you. Recognizing exactly when you'll focus on schoolwork without disrupting other commitments sounds like a step toward balance. Which part of this routine do you feel ready to start implementing, and how might that impact your confidence level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(guiding): I feel ready to start by setting up a weekly calendar to block out study periods. I think seeing everything laid out in front of me might help boost my confidence because it turns all this uncertainty into something more concrete and manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific actions like setting up a weekly calendar and connecting with peers, and has expressed that these steps could boost confidence from a 5. Change Talk is present, and the client has a clear next step. Confidence is expected to rise with the plan. This readiness suggests moving forward to develop a detailed action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Creating a weekly calendar to block out study periods sounds like a practical step forward. Seeing your schedule visually can indeed make everything seem more manageable and concrete. As you develop this plan, what potential obstacles do you anticipate, and how might you prepare to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I think one obstacle might be staying disciplined and sticking to the study times I've set, especially if I'm tired after work. Another might be unexpected interruptions or changes in my work schedule. I guess being flexible and allowing for some wiggle room might help, along with maybe setting reminders or alarms to keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Using reminders or alarms is a great strategy to help maintain discipline, especially when energy levels dip after work. Allowing for flexibility can also help you adapt to unexpected changes in your schedule. Based on your insights, options could include setting up reminder alerts for study sessions or building in buffer time to handle any interruptions. How do these ideas resonate with you, and what would you like to try first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Those ideas sound pretty solid. I think I’d like to try setting up reminder alerts first since they can keep me on track with minimal effort. Having that nudge could make it easier to stick to my plan, even when I'm tired.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to create a weekly study calendar and plans to use reminder alerts to stay disciplined. They've discussed potential barriers like fatigue and schedule changes, and proposed solutions like flexibility and reminders. The client is showing confidence by taking steps to implement their plan. The conversation has advanced to address specific strategies and the client is ready to execute their action plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Setting up reminder alerts seems like a smart and practical first step. That gentle nudge can be really helpful in staying on track, particularly when you're feeling exhausted. It's wonderful to see you identifying strategies that suit your needs and preferences. As you start implementing these, remember to be kind to yourself and allow for adjustments. This is all part of finding a routine that works best for you. Keep embracing the journey with patience. Your willingness to adapt and seek solutions is truly commendable. As a next step, perhaps you could choose one day this week to begin setting these reminders. Remember, I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "I really appreciate your support and advice. I'll definitely try to set up those reminders by the end of this week; hopefully, they’ll help keep me on track.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized the client's goals, identified steps and coping strategies, and discussed a next-step plan with reminders. The client has expressed understanding and readiness to implement strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is 10 quarter hours doable ?\nI work full time in the Air Force. Roughly 7-3/4 each day and get home around 5/530 from the gym. I go to bed around 10pm each night. Will this be too much ? I've been out of school for 7 years and decided to go back. Going to be taking History102: US History 5 quarter hour credits and Bio 105-2: Anatomy &amp; Physiology. \n\nThe courses are 5 weeks in length but access to all coursework/books and such is granted online 1 week prior to class. Might be over thinking it but I wanna see how terrible or not terrible my life will be for 5/6 weeks.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

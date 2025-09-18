@@ -1,0 +1,152 @@
+{
+  "id": "vapog6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there, it's great to have you here. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for meeting with me. I've been thinking a lot about college majors and I'm feeling a bit stuck because I love both STEM and the humanities, but I'm not sure how to combine them.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a challenging decision because you're passionate about both fields. Could you share more about what draws you to each of them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, with STEM, I love the problem-solving aspect and how logical everything is. I'm good at it, so it feels rewarding. But with the humanities, I really enjoy communicating with people, storytelling, and public speaking. It's more creative and expressive, which I also find fulfilling.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear concern about choosing a major and expressed thoughts and feelings about both STEM and humanities. However, the exploration of their feelings about combining these interests into a single path could be further developed for better rapport and mutual goal setting.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds like you have a strong appreciation for both the logical structure of STEM and the creative expression found in the humanities. What do you think it would look like to find a path that integrates these interests?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): I think it would be really fulfilling to find a career where I could use my skills in math and science but also engage with people and communicate ideas effectively. Maybe something that involves data analysis but also requires presenting findings or working with a team.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their dilemma between choosing STEM and humanities, providing insight into their interests and motivations. They've considered potential solutions, such as integrating both fields. Empathy and rapport seem established, and the client's goals are mutually understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It seems like you're envisioning a career that blends technical skills with communication and teamwork. How do you feel about the prospect of exploring fields that might offer both, like data science with a focus on human-centered applications?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(reflective): That sounds intriguing. Data science does seem to have a lot of potential for combining math with communication, especially if it's oriented towards understanding people or improving systems that affect them. I guess I'm just worried about choosing the wrong path and missing out on something I might love.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It's understandable to have those worries about making the right choice. What aspects of a career are most important to you when you think about feeling fulfilled and satisfied in the long run?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflective): I think having a balance is really important for me—being able to use my analytical skills but also staying engaged with people and ideas. I want to feel like I'm making a difference and not just crunching numbers all day. Feeling challenged while also having room for creativity would be ideal.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in a career that integrates both STEM and humanities, demonstrating Change Talk. There's a specific goal of finding a fulfilling major or career path, with decreased ambivalence. Confidence about exploring this path is implied. These elements indicate readiness to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Given your desire for balance and challenge, exploring fields like user experience (UX) research or data journalism could be worth considering. These areas allow for combining analytical skills with creativity and communication. How do those options resonate with you, and what steps might you take to explore them further?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflective): UX research and data journalism both sound like really interesting options. I hadn't considered them before, but they seem like they could offer the mix I'm looking for. I think I could start by researching more about what those fields involve, maybe reaching out to people working in those areas or looking for online communities to get a better sense of what the day-to-day is like.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Exploring those fields sounds like a great step forward. You might consider setting a goal to connect with professionals in UX research or data journalism. How does creating a list of potential contacts or online groups to join feel as an initial action plan? What challenges do you foresee, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. Creating a list of contacts or groups seems doable, and it would definitely help me get a clearer picture of what these jobs entail. I guess the challenge would be finding people who are willing to talk and figuring out which online communities are actually useful. I could start by checking LinkedIn or forums related to UX and data journalism to see where professionals in those fields hang out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to explore careers combining STEM and humanities, specifically UX research and data journalism. They have an initial action plan to research these fields by connecting with professionals. The client has identified potential barriers and solutions, showing confidence in taking steps towards their goal.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "You've charted a practical course forward by considering these steps. Joining LinkedIn and relevant forums can definitely open doors to new insights and connections. Your proactive approach in reaching out to professionals is commendable, and it's okay if it takes time to find the right communities. Remember, patience and persistence will serve you well. As you embark on this journey, give yourself credit for taking these steps toward a fulfilling career path that aligns with your values and interests. I'm here to support you, and we'll review your progress next time. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll start on LinkedIn and see how it goes from there. I'll let you know how things progress next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential career fields, created an initial action plan, and acknowledged potential challenges, indicating progress towards integrating STEM and communications. A follow-up plan is set, supporting the session's conclusion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Major that incorporates Math with Communications?\nI'm going to be a Senior in HS next year, and with College Apps starting up within the next few months I've been trying to think about what I want to major in but I'm having a really hard time doing so. I understand that I don't have to get it right on the first try, and that most people don't get it right on the first try, but I'm still at a crossroads. On one hand I'm very naturally gifted in the Math and Sciences, so a career in STEM would seem ideal. The only thing is I don't want to spend the rest of my life in just STEM, I really enjoy stuff in the humanities as well such as public speaking. If there were a way to incorporate STEM, something I have a natural gift for, with humanities such as public speaking/communications, something that I enjoy, I'd be set\n\n&amp;#x200B;\n\nOr I could major in STEM and minor in the humanities?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,194 @@
+{
+  "id": "rvanil",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling really overwhelmed with the start of the semester. It's like there's just too much to handle all at once, especially with everything online.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Juggling the start of a new semester can indeed feel overwhelming, especially when everything is happening online. What do you find most challenging about this transition?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's just trying to figure out how to balance everything. There's so much to read and plan, and I'm not sure where to even start. Plus, switching to online makes it feel like I'm missing out on some kind of normal routine.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shared feelings of being overwhelmed and the context of transitioning to online learning, but further exploration could provide deeper insight into underlying emotions and potential goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing all those responsibilities while adjusting to an online environment can really be daunting. It sounds like you're feeling a bit lost trying to establish a new routine. What aspects of your previous routine do you miss the most, and how do you think they helped you manage your workload?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "Honestly, I miss just being able to walk to class and have that change of scenery. It helped me mentally switch gears between different subjects. Now, it feels like everything's blending together because I’m just in one spot all day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's concerns and feelings regarding the transition to an online semester. Empathy and rapport are evident, and the client has shared specific challenges and missing aspects of routine, indicating the story's essence is captured.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Having that physical change can make a big difference in shifting focus and mindset. How might creating some small changes in your current environment help you feel more connected to those routines you valued?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "I guess I could try setting up different study spots around my room or even just taking breaks to walk around outside. Maybe that could help me separate things a bit, like having a mini classroom setup for each subject.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Those sound like creative ideas to bring variety and focus to your day. What do you think might change for you if you incorporate these small shifts into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "If I start doing that, I might feel less stuck and more focused. It could help me mentally separate my tasks, which might make everything seem more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation to make changes by setting up different study spots and taking breaks. They anticipate these changes could help focus and manage tasks better. This suggests a readiness to develop specific plans, as they've considered practical steps and see potential benefits.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Incorporating those changes sounds like it could really help you find a better balance. Would you like to set a goal around creating these distinct study spots or including some outdoor breaks? We could also think about steps to get started and any challenges that might come up. How do you feel about moving forward with these ideas?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "Yeah, setting a goal sounds like a good start. I think having a plan might make everything less blurry and overwhelming. I’m a bit unsure about sticking to it, though, especially when things get busy, but I’m definitely willing to try.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Creating a plan could indeed help bring clarity and structure. What do you think about starting with just one or two changes, like setting up a specific study spot or scheduling short outdoor breaks? Possible options could include setting reminders or checking in weekly to see how it’s working for you. What would make this plan feel more doable for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): Starting small sounds good. Maybe I can set up a little corner for studying and try to stick to it at regular times. I think setting phone reminders to get up and take a walk would help too, just to make sure I actually do it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a commitment to trying out small changes and has suggested specific actions like setting up a study corner and using reminders. They acknowledge potential challenges but show willingness to start. However, confidence in sticking to the plan is somewhat tentative, suggesting more support may be needed to solidify confidence and commitment.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a practical and achievable plan. Setting up a dedicated study corner and using reminders for breaks could help create a sense of routine. How would you like to track your progress, and what might help you stay motivated if you find it challenging to stick to this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think I could jot down notes about how each day goes in a journal or planner. Seeing any small wins might keep me motivated. If I start slacking, maybe checking back with you or having a friend hold me accountable could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan, discussing setting up study spaces and using reminders. They identified potential barriers, like staying committed when busy, and suggested self-monitoring through journaling. However, their lack of confidence and need for external accountability suggest remaining in the Choosing phase to ensure they feel prepared and supported.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Tracking your progress with a journal or planner sounds like a fantastic way to stay motivated and notice those small wins. Having accountability with a friend or through our check-ins can also provide support. Would you like to set a specific time each week to review your progress and discuss any adjustments or challenges that come up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Yeah, that sounds like a helpful way to keep on track. Maybe we could do a quick check-in at the end of each week? I think having that time set aside would make it easier to stay on top of things and talk through any bumps in the road.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving setting up a study space, using reminders, and tracking progress through journaling. They have identified potential barriers and accountability measures. The client shows commitment and confidence by agreeing to weekly check-ins to stay on track.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "therapist(closing): A weekly check-in sounds like a great way to stay connected and ensure that you're moving forward with your plan. You've got a solid strategy with your study spot and reminder system, and keeping a journal will really help highlight your progress. Remember, it's okay to adjust things as you go, and reaching out for support shows strength. I'm really encouraged by your willingness to try this, and I'm here to support you through it. Let's pencil in our first check-in for the end of this week; we'll celebrate any wins and tackle any challenges together. Keep in mind, you're doing something positive for yourself, and that's always worth celebrating.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "That sounds good to me. I appreciate the support and having these check-ins to look forward to. I'll try to keep the momentum going, and I'll see you at the end of the week!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session met termination goals with a summary of strategies and a plan for weekly check-ins to track progress. It naturally concluded with both parties agreeing on the next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I’m feeling so overwhelmed on the first day again\nWho else feels this way on the first day? I am kind of lost because there are so many syllabuses to read and things to plan out. I just can’t focus on one class without worrying about the other. Idk what class to work on. I usually get into the flow of it but especially moving online for the first 2 weeks it is not fun",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

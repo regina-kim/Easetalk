@@ -1,0 +1,194 @@
+{
+  "id": "ty11xj",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you doing today? I'm here to listen and help you explore anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm hanging in there, just feeling a bit overwhelmed with everything on my plate right now. It's hard to juggle everything and not feel like I'm falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Juggling so many responsibilities sounds really challenging, and it's understandable to feel a bit overwhelmed. What are some of the things that are weighing on you the most right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's mainly trying to keep up with all my assignments while working and still finding time for myself. It feels like there's just not enough time to do everything, and that makes me super anxious.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their concerns, including feeling overwhelmed with responsibilities, anxiety about falling behind, and the lack of time for personal care. Empathy and rapport seem to be building, but further exploration of feelings and thoughts is warranted to ensure a solid foundation before moving forward.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Balancing assignments, work, and personal time can indeed be incredibly taxing, and it's understandable to feel anxious when time feels so limited. How has this pressure been affecting you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): It's been making it really hard to focus on anything. I feel like I'm constantly rushing from one thing to the next, and it's hard to fully relax or enjoy downtime because I'm worrying about what I should be doing next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively captured the client's feelings of being overwhelmed and anxious due to balancing college, work, and personal time. The therapist has shown empathy and understanding, and the client's key struggles have been articulated. There is a foundation for rapport, and the context behind the client's stress is clear.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "It must be tough feeling like you're always in a rush and unable to truly relax. Imagine having a bit more balance in your life—how might that change things for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "client(guiding): Having more balance would be amazing. I think I’d feel a lot less stressed and maybe even have some time to actually enjoy things again without the constant worry hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Finding that sense of balance sounds like it could bring a lot of relief and joy back into your life. What are some small changes you think might help you start moving toward that balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting more realistic goals for each day instead of trying to do everything at once could help. Also, finding a routine that includes some downtime might make things more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for balance and identified potential next steps like setting realistic goals and creating a routine. Change Talk is present, and the client has shown a readiness to explore specific strategies. However, confidence level hasn't been explicitly assessed and further exploration of possible barriers might be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Setting realistic goals and incorporating downtime into your routine sounds like a thoughtful approach. On a scale from 0 to 10, how confident do you feel about making those changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe around a 6. I know it’s important, but actually making the changes and sticking to them is always the hard part for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing Change Talk by identifying small changes they believe could help achieve balance. They have specified a goal of setting more realistic daily goals and incorporating downtime. The confidence level is at 6, indicating some belief in their ability to change. Ambivalence appears reduced as they discuss potential solutions. The goals of the Guiding phase are met.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Finding the motivation to stick with new changes can be challenging, but it's great that you’re already thinking about ways to create balance. How about we work together to set a specific goal to help you get started? Based on what you’ve shared, options could include planning a realistic daily schedule or carving out dedicated downtime. What do you think might work best for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think planning a realistic daily schedule might be a good place to start. Having a clear plan could help me feel less scattered and more in control of my time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a realistic daily schedule sounds like a practical step forward. What specific elements would you like to include in your schedule to ensure it supports your goal of balance? We can also think about potential barriers you might face and how to address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): client(choosing): I definitely want to schedule time for my assignments and work, but also make sure there's time for exercise and relaxation. Maybe some buffer time for when things take longer than expected, so I don’t feel like I’m failing if I run behind.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific action plan to develop a realistic daily schedule that includes work, assignments, exercise, relaxation, and buffer time. They have expressed a desire to address potential barriers, indicating readiness to implement the plan. However, they have not yet demonstrated strong confidence or commitment to change. Thus, staying in the Choosing phase to further solidify commitment and address barriers is advisable.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Including time for assignments, work, exercise, and relaxation, along with buffer time, sounds like a comprehensive and balanced approach. How do you feel about setting a goal to draft a daily schedule with these elements? We can also discuss how to handle any unexpected changes that might arise.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting a goal to draft a schedule is a good next step. Having a plan might help me feel more organized and less anxious about everything I need to get done. It’d be nice to have a flexible plan to work with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal to draft a daily schedule, including time for work, assignments, exercise, and relaxation, as well as buffer time. They also expressed readiness to address barriers and have shown commitment to creating a flexible plan. Confidence in making these changes has been discussed, and the client appears ready to take action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Creating a flexible plan definitely seems like a solid way to bring more organization and ease into your day-to-day life. Drafting a schedule with time for your key activities, along with those buffer zones, can really make a difference in managing stress and achieving that balance you’re aiming for. It’s wonderful to see you taking steps toward what you want. As we wrap up today, I encourage you to start working on your draft and see how it fits with your routine. Remember, it's okay to adjust as you go along. We'll check in next time to see how it's working for you and talk through any tweaks you might want to make. You’re making great progress, and I’m here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that all sounds helpful. I’ll work on drafting the schedule and see how it goes. Looking forward to checking in with you next time to see how it’s shaping up.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes with a summary of goals and steps to create a balanced schedule, and a plan to review progress in the next session, meeting termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Motivation and anxiety\nHi y'all! I'm new to this app so sorry for any mistakes!\n\nI have recently started my second year of college and I'm feeling very anxious atm. \n\nI'm a full time student and I also work and try to exercise at least a couple of times a week but i just feel like there isn't enough hours in a day.\n\nI feel like I'm already behind on all my assignments and that makes me very stressed and anxious.\n\nDoes anyone have any tips? whether they are for anxiety/stress management or simply how to organize myself better.\n\nThanks!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

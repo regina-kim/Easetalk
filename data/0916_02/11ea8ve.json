@@ -1,0 +1,278 @@
+{
+  "id": "11ea8ve",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been going on in your life lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright. Just been feeling a bit stressed about group projects in class where we have to pick our own groups. It's been making me pretty anxious to be honest.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Group projects can definitely be a source of stress, especially when choosing groups feels overwhelming. Could you share more about what makes you anxious in this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's mostly the pressure of having to scramble and find people to work with. I worry I'll end up with folks who don't put in the effort, and then it just feels like all the work falls on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's thoughts and feelings regarding the stress and anxiety associated with choosing group members for projects. The client has shared their perspective on how this impacts their life and academic experience. Empathy and rapport have been established as the therapist acknowledges the client's concerns and feelings.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It sounds challenging to manage that kind of pressure. What would it look like for you if this stress were to decrease?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "If the stress decreased, I think I'd feel more relaxed and maybe even enjoy the project more. I wouldn't be as worried about whether my group would actually contribute or if I'd have to do everything on my own.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That makes a lot of sense. Feeling relaxed and enjoying the project could create a more positive experience. On a scale of 0 to 10, how confident do you feel about finding ways to manage the stress in group projects?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 4? I know there are probably ways to handle it better, but right now it just feels a bit out of my control.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk about wanting to feel more relaxed and enjoy group projects, but their confidence is low (rated a 4). Although there is some exploration of life with reduced stress, the discrepancy between current behavior and desired outcomes needs more development. The client hasn't identified a specific change goal or next step yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Acknowledging that you're feeling a 4 shows you're open to the possibility of change, even if it feels challenging. What do you think might help increase your confidence from a 4 to, say, a 5 or a 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Probably having some strategies or tips on how to approach or communicate with potential group members would help. Maybe even just figuring out how to advocate for myself better in these situations would boost my confidence a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified a specific area to work on (strategies for group project management). However, the confidence level remains low at 4, indicating the client is still exploring ways to increase it. The discrepancy between current feelings and desired outcomes has been discussed, but further exploration is needed to solidify confidence and commitment to change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Learning strategies to communicate and advocate for yourself sounds like a positive step forward. What might be different in your interactions with group members if you felt more confident in these areas?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(reflecting): If I felt more confident, I think I'd be more upfront about setting expectations early on. I'd probably be less hesitant to speak up if things aren't going well and just feel more comfortable collaborating with others.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific next step of learning communication and advocacy strategies, indicating progress in the guiding phase. However, their confidence level is still low, and no specific action plan has been formed. Continued focus on increasing confidence and exploring strategies is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling more confident can certainly empower you to set clear expectations and communicate openly. How might these changes align with your goals for school and personal growth?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(reflecting): Well, it would definitely help me feel more balanced between my personal life and academic responsibilities. I'd be able to focus more on my own work and enjoy my time at school without feeling bogged down by group dynamics.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific changes desired in group settings and a willingness to explore strategies for improvement but lacks a specific change goal and sufficient confidence. The client has not yet demonstrated a readiness to transition to action planning, and confidence remains below the threshold of 6.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "therapist(guiding): Finding that balance sounds really valuable. As you think about this more balanced approach, what other benefits do you see for your personal and academic life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): If I could manage the group work stress better, I think I'd be less anxious overall and feel more in control of my time. It might even improve my grades since I'd have more time to focus on studying instead of worrying about group issues.",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to manage stress better and has identified specific strategies that could help, such as improving communication and advocating for themselves. However, their confidence is currently at 4, which is below the threshold of 6. The client has also expressed potential benefits of change, but more exploration is needed to enhance their confidence and address their ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(guiding): Having more control over your time and feeling less anxious can certainly enhance both your academic and personal life. What strengths or past experiences might you draw upon to help move toward this balanced approach?",
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I guess I've always been pretty organized and good at managing my time when it comes to my individual work. Maybe I can apply some of those skills to group situations, like planning ahead and keeping track of what needs to be done.",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential benefits of change, described discrepancies between current behaviors and values, and considered how increased confidence might impact group dynamics. However, confidence levels are still low, and specific change goals and strategies need further exploration. Ambivalence and sustain talk remain evident, suggesting continued guidance will be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Your skills in organization and time management sound like valuable assets to bring into group settings. How do you think using these abilities might influence your confidence and effectiveness in managing group projects?",
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): If I use my organization skills and time management, I think I'd feel more in control, which should make me feel less anxious and more effective in group projects. It might also show the others that I’m serious about getting things done, which could help set a productive tone for the group.",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified practical steps to increase confidence, such as using organization and time management skills in group settings. Change Talk is evident, with a focus on reducing anxiety and improving group project effectiveness. Although specific action plans are forming, confidence level hasn't reached 6 yet, so further exploration in Guiding is beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Being in control and showing commitment can indeed set a positive tone for group work. In what ways do you see these changes impacting your relationships with group members and your overall group experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "If I come across as more organized and committed, I think it could encourage others to step up their game too, and maybe even build some respect and cooperation within the group. Hopefully, it’ll lead to better, more equal collaboration, and overall just make working in groups a little less stressful and more productive.",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to enhance their confidence and manage group dynamics better using existing organizational and time management skills. They've shown understanding of the benefits of these changes, how they align with personal goals, and have articulated potential positive impacts on group interactions. Change Talk is present, with a clear direction of desired change and reduced ambivalence around their concerns.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "It seems you're forming a clear vision of how these changes could enhance group interactions. As you move forward, what specific goal would you like to set to apply your organizational skills and manage group dynamics better?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think a good goal would be to initiate a group meeting early on to set clear expectations and deadlines. I could use my planning skills to draft a timeline for the project and share it with everyone to get their input and commitment.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "That sounds like a proactive and well-thought-out approach. Initiating a group meeting early and sharing a timeline could set a strong foundation. What steps do you think you'll take to prepare for this meeting, and how might you address any challenges that come up during the planning process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(choosing): client(reflecting): I'll probably start by reviewing the project requirements and breaking down the tasks into manageable parts. I’ll also try to think of potential challenges, like people not responding or not agreeing on deadlines, so I’m ready to handle them. Maybe having some backup plans or compromises in mind could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific goal and action plan for managing group work, considering potential challenges and preparing strategies. They demonstrate readiness through commitment and confidence in applying organizational skills. The client is prepared to address barriers, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "You've thought this through quite well, and preparing in advance can make a big difference. By reviewing the project requirements and anticipating challenges, you're setting yourself up for success. Having backup plans shows a great level of foresight. This strategy not only prepares you for obstacles but also demonstrates your commitment to the group. Remember, it's okay to express your thoughts and flexibility if disagreements arise. Your ability to stay organized and adaptive will help create a more collaborative and efficient group environment.\n\nAs you wrap up your planning, don't hesitate to remind the group of the shared goals and how you can support each other through the process. Keep in mind that your strengths in organization and communication are key assets. As a next step, plan to schedule that initial meeting and draft your timeline when ready. You're setting a strong path forward, and your initiative is inspiring. Keep trusting in your abilities, and remember we're here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll definitely try to keep all that in mind and get started on planning soon. Hopefully, everything goes smoothly, but it's good to know I can reach out if I need some guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered a summary of goals, coping strategies, and a next-step plan, addressing the client's primary concern. The client expressed readiness to implement the plan, indicating a natural closure point.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Professors who let students pick their own groups, why?\nI hear that the purpose of group work is about learning to work with others but doesn't choosing your own groups go against it? In 2023 most students don't come to class that often bc you can easily work from home with all the materials on the internet/ recorded lectures/ slides. Most who \"work\" from home are \"slackers\", but a big amount of us have found that working from home mostly suits us better. I love my life both personal and academical rn. UNTIL CHOOSE YOUR OWN groups COME. Then I get anxious 4 a week trying to run to those I kinda was friends with but I usually end up in the same group as slackers who never show up at school nor do school from home until the day before or never. If professors chose our groups I feel like it will be evened out. So just wanna know the reason y some proffesors don't bother?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

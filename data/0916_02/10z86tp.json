@@ -1,0 +1,131 @@
+{
+  "id": "10z86tp",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Whenever you're ready, feel free to share what's going on. I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've just been feeling pretty isolated lately, like I'm missing out on the whole college experience. I'm worried I won't be able to connect with people when I start taking in-person classes again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That's understandable, feeling disconnected can be tough. You might be feeling isolated because online classes don't provide the same opportunities to connect with peers. What aspects of the college experience do you feel you're missing the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's mostly the casual interactions, like chatting with classmates after a lecture or meeting people at campus events. Those small moments where you just naturally get to know someone, I haven't really had those.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of isolation and specific concerns about missing out on social interactions in college. The underlying emotions and contextual details are well-explored, and rapport has been established. The conversation has reached a point where the client's motivation and potential solutions for change can be discussed.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "Building relationships through casual interactions can indeed make a big difference in feeling connected. How do you imagine your college life could change if you began experiencing more of those natural connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(reflecting): I think I'd feel a lot more at ease and less like I'm on the outside looking in. It would be nice to feel like part of the community and have people to share the ups and downs with.",
+      "phase": "guiding"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Being part of a community sounds really important to you, and it seems it would bring a sense of belonging and support. What would be some small steps you might consider to start fostering those connections when you return to campus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by just striking up small conversations with people sitting next to me in class or in line at the coffee shop. I could also try attending some campus events, even if it's a bit uncomfortable at first. It might help to join a club or group related to my interests, too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific actions to connect with others, such as conversing with classmates and attending events. The client recognizes the benefits of feeling part of a community, reflecting an awareness of the discrepancy between current isolation and desired social life. This suggests readiness to develop specific action plans and strategies for overcoming barriers to socialization.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It’s great that you’re considering proactive steps to connect with others. You mentioned starting small conversations and attending events, which are wonderful options. Joining a club related to your interests might also help you find like-minded people. Which of these options feels most manageable to start with?",
+      "phase": "choosing"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(choosing): I think starting with small conversations feels most manageable. It seems less intimidating, and I can do it anytime I’m on campus. Just need to muster up the courage to actually start talking!",
+      "phase": "choosing"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Starting with small conversations is a great way to ease into building connections. How about setting a goal to initiate a conversation with at least one new person each day you're on campus? You could even reflect on how those interactions went afterwards. What might help you feel more confident in these moments?",
+      "phase": "choosing"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(reflecting): That's a good idea! Maybe I could prepare a few simple questions or topics in advance, like asking about classes or campus events. Just having something in mind might make it easier to break the ice. Plus, reminding myself that most people probably feel just as awkward might help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to initiate small conversations and join campus events. They discussed barriers and strategies, such as preparing topics in advance and reminding themselves that others may feel awkward too. They have agreed to self-monitor their interactions. The client expressed confidence and commitment, indicating readiness for change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "therapist(closing): That's a thoughtful approach, preparing simple questions can indeed make initiating conversations feel more natural. It's true, many people share similar feelings, which can actually be a bonding point. You're taking some meaningful steps towards building those connections you value. Remember, each conversation is a step forward, and it's okay to start small. As you put this plan into action, we'll be here to support you. Perhaps we can check in next time to see how it's going and explore any new insights you might have gained. You're doing great, and it's wonderful to see your commitment to creating the college experience you want!",
+      "phase": "terminating"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(closing): Thanks, that sounds like a plan. I'm really hoping this helps. I'll definitely keep you updated on how it goes next time we talk.",
+      "phase": "terminating"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed the client's primary concern by identifying steps to foster connections and using coping strategies to initiate conversations. A follow-up plan was agreed upon to monitor progress, satisfying termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I haven't been taking in-person classes, is my social life screwed?\nI'm in the middle of my 3rd year, and I have only been taking one class in person the last 2 years (and it's my second language class, which no one is fluent in so we can't exactly hold conversations)\n\nIt had only just dawned on me how alone I've felt these past 3 years. (I have a group of friends, but we can't hang out much due to our schedules.) And this loniness has only gotten worse. But the thing it, I also realized I don't even know how to talk to new people. I've never needed to in years. \n\nI'm going to take in person classes next semester, but I feel like I won't even be able to talk to people since I just don't know how, I haven't had practice with it.\n\nI'm scared of feeling even worse though, what if I do take in person classes and I'm still lonely... then what? Am I just screwed?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "ur6edr",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's on your mind today? Feel free to share anything you'd like to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! So, I've just been feeling pretty overwhelmed about starting college so young. It's like everything's moving too fast, and I'm not sure if I'm ready for it. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college at a young age can bring a whirlwind of emotions. You might feel overwhelmed because there's so much newness and expectation all at once. What aspects of this transition are you finding most challenging?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's the whole independence thing, I guess. Like, I'm excited but also terrified of handling everything on my own, especially since I don't have a solid support system in place.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concerns about starting college at a young age, feeling overwhelmed and lacking a support system. The therapist has shown empathy and understanding, but the client's story and context around their feelings and thoughts need further exploration.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "It can definitely be daunting to face such a big change without feeling like you have a strong support system. You feel excited about the new opportunities college brings but also worried about managing independence all on your own. What kinds of support do you think would help you feel more at ease during this transition?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "I think having someone to turn to when things get confusing or overwhelming would really help, maybe like a mentor or something. Also, just figuring out how to connect with people my age would be great since I feel so out of sync with everyone.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concerns regarding starting college young, feeling overwhelmed, and lacking a support system. The therapist has shown empathy and understanding, and they have identified key themes like independence and the need for support. These elements build sufficient rapport and understanding to move to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Having a mentor can provide guidance and comfort, and connecting with peers could ease that feeling of being out of sync. How do you imagine your college experience might change if you had these supports in place?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "If I had those supports, I think I'd feel a lot more confident and less alone. It'd be reassuring to know there's someone who gets it and can help me navigate things, and having some friends or people to relate to would make it feel less intimidating, I think.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Feeling more confident and less alone sounds like it could really transform your college experience. What personal strengths do you think you have that might help you build these connections and support systems?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Well, I guess I'm pretty determined and resourceful since I managed to graduate early. I'm also pretty good at figuring things out on my own when I need to. So maybe I can use those skills to find a mentor and meet new people, even if it feels scary at first.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, highlighting a desire for support and potential strategies to enhance confidence and build connections. Personal strengths have been identified, and the client imagines a positive scenario with these changes. However, no specific change goal or next step has been clearly defined yet, indicating the need for further exploration.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Your determination and resourcefulness really shine through, and they seem like powerful tools for tackling this transition. On a scale of 0 to 10, how confident do you feel about using these strengths to create the support you need in college?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe around a 6 or 7? I know I have it in me to do it, but it's still pretty intimidating to put myself out there and make those connections.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of finding a mentor and making connections. They recognized their strengths and rated their confidence as 6-7. Change Talk is present, and ambivalence has decreased as they see the potential positive impact of support on their college experience.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your honesty about feeling intimidated is important, and a 6 or 7 shows you already have a good level of confidence that you can build on. Considering your strengths, some options you might consider include reaching out to your college's mentoring program or joining clubs that interest you to meet new people. How do you feel about exploring one of these options as your next step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think I could give it a shot. Checking out a mentoring program sounds like a good start, and joining clubs could definitely help me find people with similar interests. It's kinda scary, but I know I gotta put myself out there.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Taking that first step can indeed feel daunting, but it's great you're open to exploring these options. Let's set a goal together: how about reaching out to the mentoring program in the next week and looking into clubs that interest you? What steps do you think you'll take to make this happen, and how can we anticipate any potential barriers?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): Alright, I think I can start by checking my college's website for any info on their mentoring program and see how I can sign up. For clubs, maybe I'll reach out to some student groups on social media to get a feel of what they offer. I guess one barrier could be feeling overwhelmed by all the choices or not knowing where to start, but if I focus on one thing at a time, it should help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and concrete action plan, including exploring the mentoring program and joining clubs. They acknowledged potential barriers, such as feeling overwhelmed, and devised a strategy to focus on one thing at a time. The client demonstrates commitment to taking steps and confidence in their ability to proceed, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your plan sounds like a solid approach to easing into these new opportunities. Starting with the college website and reaching out on social media are excellent first steps. Focusing on one action at a time is a great way to manage feeling overwhelmed. Remember, it's okay to take things at your own pace. You're doing a fantastic job preparing for this new chapter, and your willingness to take these steps is a testament to your resourcefulness and determination. If you ever feel stuck or need to talk things through, I'm here to help you along the way. Keep moving forward, one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll try to take it slow and reach out if I get stuck.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a plan and coping strategies, addressing the client's concerns about college. The client feels supported and expressed readiness to take next steps, indicating a natural closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm going to college at 17. And I'm scared af.\nI know this sounds a little dramatic lol. I'm 16 (F) currently, and I pushed myself really hard to graduate early. Now I'm here and it just doesn't feel right.\n\nI'll be going to college this fall semester (I'll turn 17 before) and I'm scared shitless. I almost regret moving so fast. It feels like I don't really relate to any of my friends or have any tbh.\n\nI'm also putting myself through college and have almost no clue how this works at all.  Anyone else in the same boat?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

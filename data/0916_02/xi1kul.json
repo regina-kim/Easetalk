@@ -1,0 +1,152 @@
+{
+  "id": "xi1kul",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I'm feeling a bit overwhelmed, honestly. Just trying to balance everything is a lot right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing everything seems really challenging for you right now. What are some of the things that are contributing to this feeling of overwhelm?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's mainly juggling school assignments, my job, and my internship. It feels like there's always something hanging over my head, and Sundays are starting to feel the worst.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their current feelings of being overwhelmed and anxious due to juggling multiple responsibilities. The therapist has demonstrated empathy and has begun to understand the client's situation. However, further exploration is needed to fully understand the client's emotions, thoughts, and underlying concerns before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "therapist",
+      "statement": "That sounds like a lot on your plate, and Sundays might feel especially heavy with everything on your mind. What usually happens on Sundays that makes them feel so challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "client",
+      "statement": "client(exploring): Sundays are kind of my “reset” days, but they end up being a reminder of all the work I have to do for the week. It feels like the weight of everything coming up just crashes down on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the essence of the client's story, detailing their feelings of overwhelm and anxiety due to juggling multiple responsibilities. Empathy and rapport have been established, and the context of their feelings has been explored. Goals such as understanding their Sunday anxiety are mutually understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "therapist",
+      "statement": "Sundays seem to carry a heavy reminder of your responsibilities. How do you imagine your Sundays might feel if you didn't have this weight pressing down on you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "client",
+      "statement": "Honestly, I think I'd feel more relaxed and able to enjoy the day without worrying about what's next. Maybe I could actually use the time to recharge instead of just stressing out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Having a Sunday where you can truly recharge sounds like a refreshing change. What would be different for you if you managed to create that kind of day?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I think I'd be more focused and less anxious during the week. Probably have more energy and feel a bit more in control, rather than constantly playing catch-up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively addressed the discrepancy between current feelings and the desired state, explored the impact of anxiety, and evoked Change Talk by imagining a stress-free Sunday. The client expresses a clear vision of change and its potential benefits, signaling readiness to develop specific strategies for achieving these changes.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It sounds like you're envisioning a Sunday that helps set a positive tone for your week. Considering your goal to recharge on Sundays, what steps do you think you might take to start creating that kind of day? Options could include setting specific times for relaxation, planning ahead, or prioritizing tasks. How do these ideas resonate with you for starting this change?",
+      "phase": "choosing"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of setting specific times for relaxation, like making sure I have a couple of hours just to unwind. Planning ahead might help too, maybe getting some stuff done on Saturdays so Sunday isn't as stressful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful steps towards creating a more restful Sunday. Would you like to set a specific goal for how you’d like to implement relaxation time and planning ahead on Saturdays? Also, how do you envision handling any potential barriers that might come up, like unexpected work or feeling too tired to plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting a goal to spend at least two hours on Sunday just relaxing could be a good start. As for Saturdays, maybe tackling a couple of assignments could help ease the load. I guess if something unexpected comes up, I could try to adjust and not stress too much about it—like, maybe just prioritize what absolutely needs to get done.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to allocate two hours for relaxation on Sundays and tackle assignments on Saturdays. They have discussed potential barriers, like unexpected work, and seem confident in adjusting as needed. They show commitment and readiness to implement these changes. The Choosing phase objectives have been met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "I really appreciate your thoughtfulness in setting these goals. Dedicating two hours on Sunday just for relaxation can be such a great way to recharge and rejuvenate. Tackling a few assignments on Saturdays is a practical step to lighten your Sunday load, giving you that breathing space. It's wise to be flexible with unexpected challenges, focusing on what truly needs attention without added stress.\n\nAs we wrap up our session, you're on a promising path toward creating a more balanced week. Remember, it's perfectly okay to adjust and prioritize as things come up. I’m here to support you in making these changes and navigating any hurdles. Let’s check in next time on how these steps are working for you and explore any adjustments needed. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll give these steps a shot and see how it goes—hopefully, it makes a difference.",
+      "phase": "terminating"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session summarized goals, coping strategies, and a next-step plan, providing closure. Client expressed gratitude and intent to try the new steps, meeting the termination goals effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does the anxiety go away?\nI just started grad school and on Sundays I feel so anxious and nervous. I’ve got a lot on my plate with work, school, and internship-but the nerves have been rough. Part of me misses my “normal” life. I know it’s all going to be worth it-I just hope these nerves calm down 😞",
+  "is_completed": true,
+  "current_phase": "terminating"
+}
