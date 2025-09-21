@@ -1,0 +1,167 @@
+{
+  "id": "1bs06fz",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, welcome! What would you like to talk about today? I'm here to listen and understand your story.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've just been feeling a bit unsure about my choice of major for university and needed to talk it out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Thank you for sharing that with me. It sounds like you're feeling uncertain about your major choice. Could you tell me more about what's been on your mind regarding this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, I love economics, but I'm worried I might not be good enough at it to succeed. It's just frustrating when I put in so much effort and still feel average compared to others.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to feel frustrated when you care about something but still feel average despite your efforts. You love economics, which shows your passion, but the worry about not being good enough is weighing on you. What experiences have made you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess it's just seeing others do so well without much effort, while I'm putting in so much time and still only hitting average marks. It makes me question if I'm cut out for it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story is well-elaborated, including their feelings of frustration and self-doubt despite a strong passion for economics. The context behind their feelings is clear, with mutual understanding and empathy present. The goals are also suggested as exploring their fit for the major. It's a suitable point to transition to the Guiding phase to explore their motivations and potential for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're comparing your efforts and results to others, which can be really discouraging. Your dedication to economics is clear, and it's understandable to feel like your hard work isn't paying off as you'd hoped. On a scale of 0 to 10, how confident do you feel about your ability to improve and succeed in economics eventually?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I’d say maybe around a 5. I believe I can improve, but there's always that doubt creeping in because of how things have gone so far.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Acknowledging that doubt can be tough, especially when you're trying your best. Your belief in your ability to improve is a strong starting point. What would moving from a 5 to a 6 on that confidence scale look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think moving up to a 6 would mean seeing some tangible progress, like understanding concepts more quickly or maybe getting slightly better grades. Just something that shows me I'm moving in the right direction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Seeing tangible progress can be really motivating. You’re thinking about ways to notice improvement, like grasping concepts faster or achieving better grades. What small steps or strategies do you think could help you start moving toward those signs of progress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe focusing on specific areas I struggle with, like those graphs, could help. Also, forming a study group with peers who are strong in economics might give me new perspectives and tips.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as improving understanding of concepts and forming a study group, indicating readiness for action planning. They identified a discrepancy between their passion for economics and performance, explored life with and without change, and have a moderate level of confidence (5/10) which can be built upon. Change Talk is present as they contemplate steps for improvement.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your ideas about focusing on specific areas like graphs and forming a study group sound like promising steps. Would you like to set a goal around these strategies? For instance, dedicating a certain amount of time each week to practice graphs or reaching out to peers to establish a study group. What do you think might work best for you to start seeing that progress toward a 6 in confidence?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal could be helpful. I think I'll aim to spend an extra hour each week solely on those tricky graphs. As for the study group, I'll try to connect with a few classmates to see if they're interested in meeting up regularly.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Setting aside an extra hour for graphs each week and reaching out to classmates for a study group are actionable steps. How do you plan to track your progress or stay motivated if challenges arise, like time constraints or finding peers willing to join the study group?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think I'll keep a journal to track what I've practiced and any improvements I notice. As for motivation, maybe reminding myself of why I love economics will help. If finding a study group is tough, I could try online forums or resources too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Keeping a journal to track practice and improvements sounds like a great way to stay motivated and see your progress over time. Reminding yourself of your passion for economics and exploring online resources if needed are excellent strategies to overcome potential barriers. How do you feel about setting a check-in point to review your progress and adapt your plan if necessary?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds helpful. I could set a check-in point after a month to see how things are going and if I've made any progress with the graphs or the study group. It'll give me a chance to adjust things if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with goals such as dedicating time to graphs and forming a study group. Barriers like time constraints and finding peers have been addressed, and self-monitoring through journaling is in place. The client shows commitment with a check-in plan for progress review. Confidence is being cultivated, suggesting readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting a check-in point in a month is a wise approach. It gives you time to see how your strategies are working and make any adjustments if needed. You're showing great initiative and thoughtfulness in planning these steps forward. Remember, it's perfectly okay to adapt your plan as you learn more about what works best for you. Your commitment and love for economics will be your guiding light. Keep nurturing that passion, and know that progress, no matter how small, is still progress. I'm here to support you along the way, and we'll look forward to seeing the fruits of your hard work. Keep believing in yourself!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I’ll keep at it and see how things go. I'll touch base if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals and strategies, and a follow-up plan is in place. They feel supported and encouraged to pursue their passion in economics. There's a plan to review progress, satisfying all termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is it a bad idea to major in something you kind of suck at but still passionate about?\nI'm a grade 12 who is going to be graduating high school in June. I'll be starting university in September, majoring in economics. But I am doubting myself a bit mainly because out of the seven courses I've taken in grade 12, it looks like my lowest grade will be economics. My grades range from 90-95%, with economics being the 90%. The median grade for my economics class was 90%, hence I performed average relative to my peers.\n\nThe thing is, is I studied so much for that class, did all the textbook questions, took notes, etc. because I am passionate about the subject. I can not imagine studying anything else. Despite this, I still finished average in my class. Perhaps because some concepts (e.g. graphs pertaining to competitiion theory like monopolies, oligopolies, etc.) didn't \"come naturally\" to me.\n\nMeanwhile, there were people in that class who are not even going into econ like I am, and are pursuing careers like engineering and computer science, and they took economics because according to them, it's an \"easy course\". Some of those people barely attended class, were disruptive during the lessons, yet got 95+ because according to them, all the concepts came naturally to them and therefore they barely had to study or do practice questions in order to succeed.\n\nSo yeah, after my performance in grade 12 economics, I've been constantly questioning whether or not this is the right major for me. But even though I'm bad at it, I'm still passionate about it. I've read *Capitalism and Freedom* and *The Wealth of Nations* in my spare time because I'm truly interested in economics. Everyday, I spend time reading news relevant to the ongoing cost of living crisis, rising inflation, rising interest rates, etc. Yet I performed so badly in that class.\n\nIf there are people who are able to effortlessly score 95+ and treat economics as an \"easy course\", but I barely scored a 90 while taking economics seriously, how on earth am I going to succeed as an economics major?\n\nWhat are your thoughts? Is this still the right major for me?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

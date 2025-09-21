@@ -1,0 +1,293 @@
+{
+  "id": "u12hp5",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling pretty overwhelmed with school lately, especially with my physics class. I'm just really stressed about whether I should withdraw or push through, and it's been getting me down.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling caught between two tough choices with your physics class. What is it about the situation that's causing you to feel so stressed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's just that I've put so much effort into this class, and it feels like I'm constantly falling short. I want to become an engineer, and this makes me worry that maybe I'm not cut out for it. Plus, the professor's approach doesn't really help, and that midterm was a nightmare.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're feeling discouraged because, despite your hard work, things aren't going as planned. The pressure of wanting to be an engineer adds to your worry about meeting expectations, especially with the challenges you're facing in class and the recent midterm. How have you managed to cope with similar stress before?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I usually try to push through by studying more or getting help from friends, but this time it feels like nothing's working. I've been trying to tell myself that it's okay to stumble, but it's hard to believe it when the stakes feel so high.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns, feelings, and relevant context about their physics class struggles, career aspirations, and coping methods. Rapport and empathy are evident, but no mutually agreed goals have been set yet. More exploration of these goals and feelings is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like you've been giving it your all and yet finding it difficult to see the progress, which must be really frustrating, especially when engineering means so much to you. You try to reassure yourself that it's okay to make mistakes, but the importance of the outcome is making it hard to truly accept that. Can you think of moments in the past where you found a way to get through similar feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I remember in high school there were times I felt overwhelmed, like during finals or when I had a big project. Sometimes just talking to friends and getting their perspective helped, or taking a step back and doing something I enjoyed to clear my head. But this feels different, like there's more riding on it, and it's harder to shake off.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly communicated their feelings of being overwhelmed and stressed about their physics class, detailing the context, thoughts, and feelings behind their struggle. They have expressed past strategies for coping and why this situation feels different. There's a shared understanding of the problem and the client's emotional state. Empathy and rapport have been established, and mutual goals have been implicitly identified.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Connecting with friends and taking time for yourself in the past has helped you navigate stress, but now it feels like there's so much more at stake. What does the idea of overcoming this challenge mean for your future goals and who you want to become as an engineer?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I guess overcoming this feels like a test of whether I can handle the pressure and challenges that come with being an engineer. It's like if I can get through this, maybe I can get through future hurdles too. But failing or withdrawing feels like I'm not living up to what I need to be, which is tough to accept.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Overcoming this challenge seems to be tied to proving to yourself that you're capable of handling what comes with pursuing your dream. It sounds like there's a strong connection between your current struggles and your vision of succeeding as an engineer. On a scale of 0 to 10, how confident do you feel in finding a way to overcome this obstacle and continue pursuing your goal?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: Honestly, right now it feels like a 4. I want to believe I can do it, but everything just feels kind of overwhelming and makes it hard to see a clear path forward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your confidence is at a 4, showing there's a part of you that still holds onto the possibility of overcoming this. What do you think could help you feel a bit more confident, maybe nudging that number up even a little?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client: I think if I could get some more support, like maybe talking to a tutor or having more effective study sessions, it might help. Also, if I could find a way to manage my time better and not feel so swamped with everything, that might make a difference too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing a desire for change and has identified potential actions for improvement, such as seeking tutoring and better time management. However, their confidence is low, and ambivalence is still present, indicating a need for further exploration and strengthening of motivation before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Seeking support from a tutor and organizing your study time more efficiently could definitely help boost your confidence. It's clear you’re considering practical steps to make a change. How would taking these steps align with your vision of becoming an engineer and handling future challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): It would show me that I can adapt and find solutions when things get tough, which is definitely something I’ll need as an engineer. If I can start handling these kinds of situations now, I think it’ll prepare me better for the challenges I’ll face in the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has evoked a discrepancy between the client's current struggles and their future goals as an engineer. The client has identified potential steps to increase confidence, like seeking tutoring and managing time better. However, the client's confidence remains low, and there is no specific change goal established yet. It's prudent to continue guiding to enhance motivation and clarify next steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Finding ways to adapt and tackle challenges now could indeed prepare you for future hurdles as an engineer. It highlights your resilience and problem-solving skills, which are crucial in your field. How do you feel about the progress you're making in considering these steps to enhance your confidence and capabilities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client: I feel a bit more hopeful, I guess. Just talking about it and thinking through some solutions makes it seem more manageable. I know there's still a lot to do, but having a plan might make it less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed an increased sense of hopefulness and identified specific steps to improve their situation, indicating an openness to change. However, their confidence remains low at 4, and they are still exploring potential supportive actions. More exploration of confidence boosters and reducing ambivalence could be beneficial before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Having a plan might indeed make the path seem less daunting, and it's wonderful to hear you're feeling a bit more hopeful. It sounds like acknowledging these steps is already helping shift your perspective. What small steps do you think you might take first to begin implementing these strategies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client: I think starting with finding a tutor or study group could be a good first step, just to get some new perspectives and support. Then maybe setting a more structured schedule for my study sessions, so I can balance my time better between classes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has discussed potential solutions and is beginning to feel more hopeful about their ability to make changes. However, their confidence level is still low, and although they are considering small steps, they have not yet made concrete plans or expressed high confidence in their success. Therefore, it's best to continue in the Guiding phase to further strengthen their motivation and confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Reaching out to a tutor or study group seems like a solid starting point, providing you with fresh perspectives and support. Creating a structured schedule also sounds like a proactive step toward balancing your workload. How does taking these initial steps align with the kind of engineer you aspire to be?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client: Taking these steps feels like I'm actively doing something to improve, kind of like how an engineer would troubleshoot and solve problems. It's about being resourceful and not giving up, which is what I aspire to be like in my future career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear change plan with steps to seek a tutor and structure study time. They are connecting these actions to their values and career aspirations, showing increased hope and readiness. However, confidence remains low, suggesting more work in this phase could solidify motivation and self-efficacy.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Actively working on these steps indeed mirrors the resourcefulness and perseverance at the heart of engineering. You're embodying the qualities you aim to bring into your career, which is inspiring. What might you want to remind yourself of when challenges arise to maintain this mindset?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "I guess I should remind myself that every challenge is a learning opportunity and that struggling doesn't mean I'm failing. It's part of the process, and each step forward, no matter how small, brings me closer to where I want to be.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk by identifying specific strategies for improvement and aligning them with their long-term values of becoming an engineer. They exhibit a clearer vision for change, decreased ambivalence, and increased hopefulness. Although confidence was initially at 4, the client's proactive steps indicate readiness to develop action plans, suggesting readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Reminding yourself that each challenge is a learning opportunity and not a failure is a powerful mindset. It aligns well with your goal of becoming a resilient engineer. Shall we create an action plan to reach out to a tutor and establish a study schedule? What might be some barriers you anticipate, and how could you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client: Yeah, let's do that. One barrier might be finding the right tutor or group that fits with my schedule, since it's already pretty packed. I could try reaching out to the tutoring center at school or asking around in class to see if anyone's interested in forming a study group. Maybe setting specific hours each week dedicated to physics could help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "therapist(choosing): Planning to consult the tutoring center and ask classmates about forming a study group is a proactive approach. It shows your commitment to overcoming scheduling challenges. Setting specific hours for physics each week could provide the structure you need. How about we draft this plan further, and think of how you'll monitor your progress and adjust as needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client: Sounds like a good idea. I guess I could keep a journal or something to track how my study sessions are going and see what's working or not. Maybe checking in with myself weekly could help me stay on top of things and make changes if I need to.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Keeping a journal to track your study sessions and checking in with yourself weekly is a thoughtful strategy. It allows you to reflect on what's effective and adjust your approach as needed. Shall we outline this action plan with weekly check-ins and consider how you'll celebrate the small successes along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client: Yeah, let's outline it. I think celebrating small wins could be motivating. Maybe after a good study session or understanding a tough concept, I could treat myself to something I enjoy, like a movie night or hanging out with friends.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan, including finding a tutor and setting a study schedule. They identified potential barriers and proposed solutions. Self-monitoring through a journal and weekly check-ins, along with celebrating small wins, indicate readiness. The client shows commitment and confidence in overcoming challenges, aligning with their engineering aspirations.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Celebrating your small wins with activities you enjoy sounds like a fantastic way to keep your motivation high. Treating yourself after a productive study session or grasping a difficult concept can truly reinforce your hard work and dedication. Let's outline your action plan: start by reaching out to the tutoring center and classmates, set dedicated hours for physics, keep a journal to track your progress, and establish weekly check-ins. Remember, every step forward is progress, and you're building resilience with each effort. I'm here to support you, and I look forward to hearing about your progress in our next session. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "I appreciate the encouragement and all the help today. I'll start working on the plan and see how it goes. Thanks for being here to guide me through it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with steps and coping strategies to address their concern. They've discussed monitoring progress and celebrating successes. The session naturally reached closure with encouragement for continued effort.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Withdrawing vs. Failing Physics (Mechanics)\nThe grade scale is curved at my community college so that an 88%+ = A, 76%+ = B, 64%+ = C, and so on for the other two grades. I currently have a 63% in the class. I was almost on my way to reaching a B, but FAILED the mid term three weeks ago, along with more than have the class. This is the second time I almost reached a B, only to get dropped back down to a 62%.\n\nI want to be an engineer, but this class is the most draining I have ever taken and my first physics course. I put in many hours of the week into other classes such as General Chemistry I (5 credits) and Calculus II (4 credits) (both which I have borderline Cs in). I dedicate mostly to physics (5 credits).\n\nI’m sure to blame for the strenuous amount of work I attempted to do this semester, but I would like to (stereotypically) put some of it on the  professor. He assigns homework but no explanations are given when not answering the problems correctly, you lose points on your grade after a certain amount of attempts. Mid term was a disaster since we did not have enough time. He does not curve exams or quizzes.\n\nDrop date is April 15th. Advice? Should I just stick with it and try to pull through? I just feel lost and down on myself now. Professor was pretty demeaning other day when he said if we don’t get a B or A in this course, we will really struggle in the next physics class (electricity and magnetism).",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

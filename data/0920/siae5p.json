@@ -1,0 +1,314 @@
+{
+  "id": "siae5p",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've just been feeling really lost lately. It's like I don't have any direction and it's making me anxious and stressed out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really overwhelming to feel lost and uncertain about the direction of your life. Can you share more about what's been contributing to these feelings of anxiety and stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's just that everyone around me seems to have a clear plan, and I'm just here without a clue about what I really want to do. I feel like I'm wasting time and money not knowing where I'm headed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Seeing others with clear plans can definitely add pressure and make it hard to feel at ease with where you're at. You feel anxious because you're comparing your situation to others and are worried about how you're spending your time and money. What are some of the things you've been thinking about or considering for your future?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I've been bouncing between ideas like majoring in business or history, but I'm not really sure if that's my passion. It's like I'm just picking things randomly, hoping something will stick.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, expressing feelings of being lost, anxious, and pressured by comparisons. They've shared thoughts on potential majors and the emotional impact of their uncertainty. The therapist has shown empathy and understanding. A mutual goal of exploring future directions appears. However, more exploration could solidify rapport and clarify the client's feelings and thoughts further.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Trying to find your passion can be really challenging when you feel like you're just picking ideas at random. You're unsure about business or history because you're not confident these subjects truly resonate with you. What do you think it would feel like to discover something that genuinely excites you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: That sounds amazing, honestly. I imagine it'd feel like everything just clicks, like I'd finally have something to look forward to and work towards. But right now, it's hard to picture what that could be.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about feeling lost and the pressure of comparing themselves to others. They have expressed uncertainty about their future and the anxiety it causes. Empathy and rapport have been established, but mutually agreed goals are not yet apparent.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Imagining that sense of everything clicking into place feels like it would bring a lot of clarity and excitement into your life. It can be tough when the future feels hazy and uncertain. What are some activities or experiences that you've enjoyed in the past, even if they don't seem directly related to a career path?",
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): Well, I've always enjoyed reading and writing, and I like connecting with people and hearing their stories. I've done some volunteering in the past, and that felt really fulfilling too. But I just can't see how to turn those interests into a clear path yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has effectively elicited the client's story, thoughts, and feelings, along with the context behind them. There is empathy, rapport, and the client's expressed a desire for clarity and direction. The conversation has explored the client's interests and concerns in depth, making it appropriate to transition to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Those interests of reading, writing, and connecting with people seem to hold meaningful experiences for you. It sounds like volunteering brought a sense of fulfillment as well. How might these activities align with a future you envision for yourself, where things click and bring joy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): I guess if I could find a way to combine those interests, like maybe storytelling or helping others through writing or something, that might be something I'd really enjoy. It's just hard to see the steps to get there or even know if it's a viable option.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Combining storytelling and helping others through writing sounds like a path that could spark joy and fulfillment for you. It's understandable to feel uncertain about the steps ahead. On a scale from 0 to 10, how confident do you feel about exploring this possibility further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe around a 4 right now. It’s something that interests me, but I’m not sure how realistic it is or how to start. Plus, there's still that fear of it not working out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Exploring a new path can bring both excitement and fear of the unknown, and it's natural to have concerns about its realism and success. Your interest in storytelling and helping others is a meaningful foundation to build on. What might need to happen for your confidence to shift from a 4 closer to a 5 or 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think maybe doing some research on potential careers or opportunities related to storytelling and writing could help. Also, talking to people who work in those fields might give me a better idea of what's possible. Having a clearer picture of what's out there might make it feel more doable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed interest in exploring potential careers in storytelling and writing, indicating Change Talk. They suggested researching and networking as next steps, which shows emerging confidence and a specific change goal, though confidence is still below 6.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Researching potential careers and talking to those in the field could definitely provide clarity and boost your confidence. Gathering information can illuminate the path ahead and help you see what's possible. How do you feel about taking these steps to explore more about storytelling and writing opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): Honestly, it sounds like a good starting point. I feel a bit more hopeful thinking about actively exploring what's out there instead of just feeling stuck. I'm not sure where to start, but it feels like progress, at least.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by showing interest in exploring storytelling and writing opportunities. However, their confidence is at 4, below the guideline's threshold. They have identified initial steps, but ambivalence about the viability of their goals persists. Continued guidance will help solidify their confidence and clarify next steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Embracing a sense of hope and taking steps forward can really shift the way things feel. It's great to hear you're considering exploring opportunities in storytelling and writing. What are some first steps you might take to begin this research or reach out to people in those fields?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by looking up different careers related to writing and storytelling online. Maybe I can find some forums or groups where people talk about their experiences in those jobs. I could also see if there are any alumni from my university working in those fields who might be open to chatting with me about their paths.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to explore a career path in storytelling and writing, which reflects progress. However, confidence remains low at 4, and uncertainty about the realism of these steps persists. Ambivalence is present, and more exploration of options is likely needed to further increase confidence and address fears.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Those sound like really proactive and promising steps to take. Exploring online resources and connecting with alumni could give you valuable insights and perhaps even inspire new ideas. As you consider these steps, what feelings or thoughts come up about moving forward in this way?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I feel a mix of nerves and excitement, to be honest. It's a little intimidating to dive into something unknown, but at the same time, it's kind of exciting to think I might find a path that really fits me. The idea of learning from people who've been where I am is comforting, too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential path that interests them, expressed a willingness to explore it further, and outlined specific steps to gather more information. However, their confidence level is still low, and they experience mixed emotions about the change. More work in guiding is needed to increase confidence and decrease ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Embracing both nerves and excitement is part of stepping into new territory, and it's encouraging that you're feeling a sense of comfort in learning from others who've walked similar paths. Your openness to exploring what could truly fit you is inspiring. How might you support yourself in balancing these emotions as you take these initial steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I think reminding myself that it's okay to feel both nervous and excited might help. Maybe I can set small goals, so it doesn't feel too overwhelming, like researching or reaching out to just one person a week. Taking it slow might make it more manageable and keep the stress levels down.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential path in storytelling and writing, expressed interest in exploring it, and proposed concrete steps for research and networking. Although confidence is currently low, there's a mix of excitement, and the client has ideas to manage emotions and progress gradually. However, their confidence level is below 6, and there's still ambivalence about the practicality of their interests. Continuing in Guiding will help solidify motivation and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Setting small, manageable goals is a wonderful approach to keep the process from becoming overwhelming. It acknowledges your feelings while allowing you to move forward at a pace that feels right for you. Recognizing that it's natural to feel both nerves and excitement can be comforting as you navigate this new journey. What small goal would you like to set first to start this exploration?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll start with researching online about careers in writing and storytelling. I'll dedicate an hour or so this week to just browse through different options and see what's out there. Keeping it simple like that seems like a good way to ease into it without feeling too pressured.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying specific steps to explore career options, indicating a shift in confidence and motivation. The client has also set a specific goal to research online about writing and storytelling careers. Ambivalence seems to have decreased, and the client appears ready to move forward with action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "Starting with an hour of online research this week is a focused and achievable goal. It gives you the chance to explore without overwhelming yourself and helps in building momentum. Along the way, you might discover options that resonate with you. How would you like to monitor your progress or reflect on your findings as you take this first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "I think keeping a simple journal or document where I can jot down interesting careers or insights might be helpful. Just something informal where I can note down what stands out to me or sparks my interest. It'll be nice to have a record to look back on and see how my thoughts are evolving as I learn more.",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Maintaining a journal or document to capture your thoughts and insights is a fantastic way to track your exploration journey. It allows you to reflect on what resonates with you and observe any patterns that emerge over time. As you begin this process, what might motivate you to keep updating your journal regularly, and how can you celebrate the progress you make?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client(choosing): I think seeing my own progress written down will be motivating in itself. It’ll remind me that I'm actually moving forward, even if it's just small steps. As for celebrating, maybe I can do something I enjoy, like watching a favorite movie or treating myself to a nice meal, whenever I hit a milestone or feel like I've made a significant discovery.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Celebrating your milestones with activities you enjoy, like watching a favorite movie or treating yourself to a nice meal, is a wonderful way to acknowledge your progress and keep motivated. Noticing your own progress in the journal will surely reinforce your momentum and inspire continued exploration. How do you feel about setting a specific timeframe for when you'd like to reach these milestones or significant discoveries?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "I'm thinking a loose timeframe might be best at first, just to keep pressure off. Maybe in a month or so, after I've done some research and hopefully connected with a person or two, I can reassess and see where I'm at. It feels important to stay flexible and adapt as I learn more about what's out there and what interests me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal and action plan to start researching careers, with a self-monitoring strategy through journaling. Barriers like managing emotions are acknowledged, and motivation is maintained through setting small milestones and celebrating achievements. The client shows confidence and flexibility in their approach.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Giving yourself a flexible timeframe to reassess in about a month is a thoughtful approach. It allows you to stay open to new insights and adjust your path as needed. This flexibility ensures you remain engaged without feeling pressured. Seeing where you're at after some research and connection will provide valuable perspective. Celebrating your learning journey with kindness towards yourself is truly inspiring. As you embark on this path, know that every step, no matter how small, is a step forward. You’ve got a great plan, and I’m here to support you along the way. Looking forward to hearing about your experiences and discoveries!",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely keep you updated on how it goes and what I find along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set goals, identified coping strategies, and established a next-step plan, showing readiness to move forward independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feeling lost\nJust started my first semester of college this spring because I felt lost and left behind in the fall, now that I’m here I am realizing that I have no plan for anything going forward. It feels like Everyone around me very meticulously plotting their next step while I am jumping before thinking. I am leaning towards majoring in business or history but I’m sure that’s not what I really want to do. I feel lost and confused and like this is the hardest part of my life. I don’t know where to go or where to turn. Everyone who I try to talk to this about is unable to help in any way other than telling me it’s okay. I just don’t know what I am doing or where I am going and don’t want to feel like I have wasted time and money I’ll never get back. I’m so unsure about what I want to do that it’s scary and effecting my mental health.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

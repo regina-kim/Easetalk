@@ -1,0 +1,167 @@
+{
+  "id": "sml4oj",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like there might be something on your mind. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I'm just feeling super overwhelmed with balancing everything. It's like there's never enough time, and I'm running on empty.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling overwhelmed and drained can be really tough. You're juggling a lot and it seems like finding time for everything is quite challenging. Can you tell me more about what's been happening lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's just a constant cycle of classes, practice, and work. I barely find time to catch my breath, let alone sleep properly. I’m stressed about not getting things done on time, and it’s really affecting how I feel.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to feel stressed when you're constantly on the move between classes, practice, and work. It seems like the pressure of meeting deadlines is really weighing on you. How have you been managing to cope with all this lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I'm not sure I am managing all that well. I try to keep organized with planners and stuff, but it feels like I'm just barely keeping my head above water most days. It's hard to find time for myself, and that's been rough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's primary concerns, thoughts, and feelings about being overwhelmed. The client openly described their situation and stress factors, showing rapport with the therapist. The essence of the client's story is clear, with mutually recognized challenges, indicating readiness to strengthen motivation and explore change strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing so much can be incredibly daunting, and it’s understandable to feel like you’re barely staying afloat. You value being organized, yet it feels like something is still missing. How do you think things might change if there was more time for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I had more time for myself, I think I'd feel a lot less stressed. Maybe I could sleep more or just relax without worrying about the next thing on my to-do list. It would be nice to feel a bit more in control and not always on edge.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having more time for yourself seems really important in helping you feel more in control and less stressed. What do you think would be different in your life if you felt more relaxed and rested?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'd probably be more focused and maybe even enjoy what I'm doing more. I think I'd be able to handle my workload better and just feel happier overall. It’s like I’d finally have the energy to keep up with everything without constantly feeling drained.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding that focus and energy to enjoy your activities sounds like it could make a big difference in your overall happiness and ability to manage your workload. When you imagine feeling more rested and focused, what small changes do you think might help you get there?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting stricter boundaries with my time could help, like dedicating certain hours to rest and sticking to it. Also, figuring out how to manage my stress better might make a difference. I guess I need to be a bit more intentional about balancing everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by mentioning the desire for more control and relaxation through setting boundaries and managing stress better. A specific goal of dedicating time for rest has been identified, and the client shows motivation to make intentional changes. These factors indicate readiness to progress to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Setting boundaries and managing stress seem like meaningful steps towards feeling more rested and focused. What specific goal would you like to set for yourself to start making these changes? Perhaps you could explore a plan to dedicate certain hours to rest or a strategy for managing stress effectively. What options resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think trying to set a fixed bedtime could be a good start since sleep is a big issue for me. Maybe I could also try short meditation sessions or breathing exercises to help with stress. I’m not sure, but those seem like things I could realistically try.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Establishing a fixed bedtime and including meditation or breathing exercises sounds like a thoughtful plan. How about setting a specific goal, like choosing a bedtime that you can stick to most nights? As for stress management, you might try fitting in a short meditation session once a day. What do you think could help you stick to these routines, and how might we track your progress together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a specific bedtime sounds like a good first step, and maybe aiming for at least one 5-minute meditation session a day could be manageable. I think having reminders on my phone could help me remember to do them. Maybe we could check in weekly to see how it’s going and make adjustments if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating reminders on your phone seems like a practical way to support these new routines. Aiming for a consistent bedtime and a daily meditation session sounds like a solid start. To monitor your progress, would you like to discuss your experiences during our weekly check-ins, making any necessary adjustments? How do you feel about this approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think weekly check-ins would be really helpful. Having someone to talk to about how it's going and making tweaks if needed sounds like a good plan. I feel pretty good about trying this approach and seeing if it helps.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan with specific goals (fixed bedtime and meditation), discussed potential barriers, and agreed on self-monitoring through weekly check-ins. The client expresses confidence in the plan and is ready to implement it.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your openness to trying these new routines is really encouraging, and I appreciate your willingness to explore what works best for you. Committing to a consistent bedtime and daily meditation is a great start towards feeling more rested and focused. Weekly check-ins will give us a chance to celebrate your successes and adjust as needed. Remember, these are steps towards a healthier balance and more control over your time. You're doing a wonderful job taking charge of your well-being, and I'm here to support you every step of the way. Looking forward to hearing about your progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I’ll try to stick to this plan and see how it goes. Looking forward to our check-ins!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals, discussed specific steps, and agreed on a plan for weekly check-ins, indicating readiness to conclude the session with measures in place.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice for busy full time students?\n\nI urgently would love tips that worked for you. Sleep tips/ study tips/common college programs for these/ etc..\nFull time student athlete who works here. I’m literally getting 4 hours of sleep avg. Been getting less recently.  Sometimes because of these there are labs that you can work on for straight 12 hours for 3 days and not be enough, and at times because I’m so stressed that I can’t fall asleep. Told few of my professors about this and their replies were to just manage my time well and “study ahead of time” like I’m not already studying here till 6am with my current classes. I totally would love to study ahead of time if humans didn’t need sleep and function well. Wish more professors cared sometimes. Professor who care thank you for understanding .\nSo any tips/advice would be greatly appreciated.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,230 @@
+{
+  "id": "1dxojf9",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty stressed right now. This Python exam is really getting to me, and I'm worried about failing again since it's my last course before graduating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like there's a lot riding on this exam for you, and that's creating a lot of stress. What about the exam is making you feel the most anxious?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's the combination of not being confident in my coding skills and the format of the exam. There's a lot of pressure to spot errors in code quickly, and I'm worried I'll blank out when it matters.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be tough feeling unsure about your coding skills and worried about the exam format. You feel anxious because there's pressure to perform well, and you're concerned about blanking out when it's critical. What has helped you manage similar situations in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): In the past, I've tried to study as much as possible, make detailed notes, and even practice breathing exercises to stay calm. Sometimes talking to classmates helps too, but it's hard not knowing if it'll be enough this time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about the Python exam, including their feelings and the context of their anxiety. There seems to be empathy and rapport, but mutually agreed goals are not clearly established yet. Exploring should continue to further understand the client's emotions and potential motivations for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you've developed several strategies to prepare and stay calm, like studying, note-taking, and breathing exercises. You're also considering the support of classmates, though you're uncertain if these will be enough now. What do you think might make these strategies more effective for you this time around?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I guess if I could focus more on understanding the logic behind the code rather than memorizing it, that might help. Maybe I should try to simulate exam conditions more when I practice, so I get used to that kind of pressure.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been well-explored, revealing their anxiety about the exam, past coping strategies, and thoughts on improving their preparation. They have shared both their current feelings and relevant context. Empathy and rapport appear established, making it appropriate to strengthen motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Focusing on understanding the logic sounds like a great way to build your confidence, and simulating exam conditions could really help you feel more prepared for that pressure. On a scale from 0 to 10, how confident are you that you can implement these changes to your study approach?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe around a 5 or 6? I feel like I have a good idea of what I need to do, but I'm still worried about pulling it off consistently, especially under pressure.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain about maintaining consistency under pressure, especially with such an important exam. You seem to have a clear idea of the direction you want to take. What do you think might help move your confidence from a 5 or 6 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): If I could see some improvement in my practice sessions, like starting to spot errors more easily or finishing the problems in a reasonable time, that might help boost my confidence. Also, maybe getting some feedback from others on my approach could be reassuring.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Seeing tangible progress in spotting errors and completing problems could indeed boost your confidence. Seeking feedback from others is also a great way to gain reassurance and insights. What small steps could you take to start seeing these improvements and gather feedback from others?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by setting aside some time every day to go through practice problems and time myself, just to get into the habit. I could also try reaching out to a study group or classmates to see if they’re interested in reviewing each other's work and offering feedback.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying strategies to improve exam preparation and has a specific next step in mind (practice sessions and feedback). Confidence level is at 5 or 6, indicating some readiness but still needing support to increase confidence. While progress is evident, the client may benefit from further strengthening motivation and confidence before developing detailed action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a daily routine for practice and timing yourself sounds like a strong step towards building consistency. Connecting with a study group for feedback can offer valuable perspectives and support. What value do you see in having that group feedback as you practice?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Having group feedback would probably give me different viewpoints on the mistakes I might not catch myself. It also helps to know I'm not alone in this and that others might have similar struggles or useful tips.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by setting a study strategy goal and considering group feedback as a specific next step. Confidence is around 5 or 6, with a plan in place to increase it by seeing improvements and getting feedback. The discrepancy between current study habits and desired outcome is clear, but slight uncertainty remains.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Receiving different perspectives on your work can be incredibly valuable, helping you catch mistakes and improve your approach. It must be reassuring to know you're not alone and that others might share similar challenges or offer helpful advice. How does this sense of shared experience and support align with your goals for the exam preparation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): I think it makes the whole process feel less overwhelming, knowing that I have a support system and that others are working through the same material. It aligns with my goals because I want to feel more confident and relaxed going into the exam, and having that shared experience can make the preparation feel more manageable and effective.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, has a clear goal of improving exam preparation, and has identified specific steps such as timing practice sessions and seeking peer feedback. Confidence is around 5 or 6, indicating some readiness, though not fully secure. The client values peer support and recognizes its alignment with exam goals, suggesting emerging readiness for planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "It's great to hear that having a support system makes the preparation feel more manageable and aligns with your goal of feeling confident and relaxed. Let's work on developing a specific action plan. Based on your ideas, possible steps could include setting a daily schedule for practice, timing your sessions, and reaching out to classmates for group feedback. What do you think about starting with these steps, and are there any potential barriers you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think the biggest barrier might be sticking to the schedule, especially if I start feeling overwhelmed or discouraged. But having the group feedback might help keep me accountable and motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Having group feedback as a source of accountability and motivation can indeed be a powerful tool. To help manage the feeling of being overwhelmed or discouraged, you might consider building in short breaks or rewarding yourself for sticking to the schedule. How do you feel about incorporating these strategies to maintain momentum, and are there any other supports you think could help you stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): Incorporating breaks and little rewards sounds like a good way to keep things balanced and not too stressful. I think having some sort of progress tracker could also help me see how far I've come, which might keep me motivated. Maybe I could use an app or just a simple checklist for that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Using a progress tracker, whether through an app or a checklist, is a fantastic idea to visually track your progress and stay motivated. Balancing your study sessions with breaks and rewards can certainly enhance your experience. How do you feel about setting up your tracker and what kind of rewards might you find motivating?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Setting up a tracker seems pretty straightforward, maybe I could start with a simple checklist and see how that goes. As for rewards, I think treating myself to something small like a favorite snack or a short episode of a show I like could be motivating.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with a daily schedule, group feedback, and a progress tracker. Barriers, like maintaining the schedule, have been discussed with strategies like breaks and rewards. The client shows readiness through commitment and confidence in implementing the plan. No indication of being stuck in circles is present.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "A favorite snack or a short episode as a reward sounds like a lovely way to keep yourself motivated. Setting up a simple checklist can also provide a sense of accomplishment as you tick off each task. Your plan includes a clear structure with practice, feedback, breaks, and rewards—all essential components for effective preparation. As you move forward with this approach, remember that progress is a journey, and each step, no matter how small, is a move towards your goal. If you ever feel stuck or need to adjust your strategies, reaching out to your study group or reflecting on what's working can provide insights. You're taking meaningful steps, and with this supportive framework, you're well on your way to feeling more confident and prepared. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I feel more ready to tackle this now. I'll definitely keep the group and these strategies in mind if things get tough. This has been super helpful!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has addressed the client's concerns with a clear action plan and coping strategies to prepare for the exam. The client feels ready to tackle the preparation with these strategies, indicating a natural conclusion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I have an upcoming chemical engineering python exam and I am not sure how to prepare for it \nI am retaking the course as it was so difficult. I do the homework, visit office hours, but still have a hard time doing the exam. It’s an intro class for solving differential equations using Python with Spyder. The exams always consists of solving differential equations and the professor providing screenshots of a code and tells you that you need to find what is wrong with it. How do I go by looking at the code and seeing what’s wrong with it effectively? He allows us to bring 1 cheat sheet.  He sometimes gives hints in the exam by partially starting the code and letting you complete it. He also provides a practice exam but it is nowhere near similar to the real one, so I don’t get why he does that. I haven’t done code in a long while and I am very frustrated with this course. This is the only course I have left until I graduate but it seems I may fail again for the second time. ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

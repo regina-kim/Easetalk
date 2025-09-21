@@ -1,0 +1,167 @@
+{
+  "id": "u8cp1j",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to meet you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've been really stressed about this honors program I'm in, and I'm thinking about quitting it. It's just been a lot to handle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing a demanding program can certainly feel overwhelming. Can you share more about what's been particularly stressful for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I feel like I've been all over the place trying to keep up with deadlines, especially with this big project coming up. Plus, dealing with personal stuff hasn't made it any easier. It's just been hard to manage everything at once.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Juggling deadlines alongside personal challenges can truly feel like a lot to manage. Could you tell me more about how these responsibilities and personal matters are impacting you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's been affecting my sleep and focus a lot. I just feel this constant pressure, and it's making my anxiety worse. Some days it's tough just to get through my regular classes, let alone the extra program stuff.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns, feelings, and the impact on their day-to-day life, providing a comprehensive view of their stressors. The therapist has demonstrated empathy and understanding, indicating a solid rapport. The session has not become repetitive and has effectively covered the client's context, emotions, and thoughts.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That constant pressure sounds really tough, especially with how it's impacting your sleep and focus. What do you think life might look like if that pressure were to ease up a bit?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If the pressure eased up, I think I'd feel more at peace and able to enjoy my classes more. I might actually have time to focus on things I care about outside of school too, without feeling guilty or stressed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining that sense of peace and being able to focus on things you love sounds really appealing. How does that vision align with your longer-term goals or what you value most in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, that vision aligns pretty well with what I value. I want to enjoy my time in college and learn the things I'm passionate about without burning out. Long term, I just want to make choices that help me feel balanced and content, rather than constantly stressed and anxious.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems like finding a balance between pursuing your passions and maintaining your well-being is really important to you. What might be some small steps you could consider now that align with those values of balance and contentment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe I could start with setting more realistic goals for myself, like breaking down tasks into smaller, manageable pieces. I guess I should also try to set aside some time for things I enjoy or practices that help me relax, like meditation or spending time with friends. I’m thinking of talking to my advisor again, but this time really explaining how this is affecting me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identified specific steps to manage stress, and aligned these steps with personal values and goals. Ambivalence seems reduced as the client plans to communicate with their advisor and manage tasks better, indicating readiness to move to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating manageable goals and setting aside time for relaxation can be valuable steps towards that balance you're seeking. Considering your ideas, some options might include discussing adjustment of deadlines with your advisor or planning a weekly schedule that includes both study and relaxation time. How do you feel about beginning with one of these approaches, or is there another step you'd like to explore first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a weekly schedule that balances study and relaxation time could really help. I want to have a better idea of how much time I need for everything, and hopefully it’ll reduce my stress. Talking to my advisor about possibly adjusting deadlines also sounds good, but it makes me a bit nervous.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule sounds like a great step to get a clearer picture and potentially ease your stress. It allows you to allocate time for both study and relaxation, aligning with your goal of balance. It's understandable to feel nervous about discussing deadlines with your advisor. Would it be helpful to explore ways to approach that conversation, or perhaps focus on developing your schedule first and revisiting the advisor conversation later?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think focusing on developing my schedule first might be a good call. If I have a plan in place, it might give me more confidence to talk to my advisor later. Plus, having a routine could help me feel more in control and less anxious about everything.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Focusing on your schedule first seems like a sound decision to build that sense of control you're seeking. It sounds like having a routine might really support your goal of reducing anxiety and enhancing your focus. How about we outline some key elements for your schedule together? We can identify study blocks, relaxation time, and even some enjoyable activities. What do you think would be a good starting point for your schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think a good starting point would be setting dedicated study blocks for each of my classes, maybe an hour or two each day, so I don't feel overwhelmed. I'd like to also include some time for exercise or a hobby, like an hour in the evening, to help me unwind. And maybe a dedicated slot for some stress-relieving activities, like meditation or a short walk. How does that sound?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan focused on developing a manageable schedule to balance study and relaxation, which aligns with their goal of reducing anxiety. Barriers, such as nervousness in discussing deadlines with the advisor, have been acknowledged, and the client has expressed a readiness to approach these steps. Confidence in the plan is evident, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful and well-rounded approach to your schedule. Dedicated study blocks for each class can help prevent feeling overwhelmed, and incorporating time for exercise or hobbies allows you to unwind, supporting that balance you're aiming for. Including stress-relieving activities like meditation or a walk is a great way to nurture peace of mind. You've come up with a balanced plan that reflects your values and goals beautifully. As you start implementing this schedule, remember to be kind to yourself and make adjustments as needed. I'm confident that with these steps, you'll start to feel more control and find that sense of balance you’re seeking. Let's agree to check in on how this new routine is working for you and explore any adjustments you might want to make. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I’ll give the schedule a try and see how it goes, and I'm definitely open to tweaking it if needed. Catching up with you next time to review will be helpful!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and steps with a future check-in plan, addressing balance and anxiety concerns. The client now has a clear plan with steps, indicating readiness to end for now.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Quitting a Program\nHello,\n\nI just wanted other perspectives on a matter: I am in an honors program at my school, that I no longer think is fit for me. I can leave it but my advisor thinks I should stay so that I stand out. I don’t usually quit things but my anxiety is so high.\n\nI have a project that’s due for the program very soon. I have terribly managed my time regarding it, while dealing with personal issues throughout the semester on top of my other course assignments. I’m thinking about just not turning anything in  and leaving regardless of what others want me to do but I’m scared.\n\nWhat would you guys do?\n\np.s. This is NOT me quitting school, just the program.\n\np.p.s. I am diagnosed with general anxiety disorder, which has been causing me some personal issues.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

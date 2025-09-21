@@ -1,0 +1,314 @@
+{
+  "id": "w2qzw6",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and help you explore your thoughts and feelings.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've just been feeling really uncertain about this path I'm on with my non-clinical psychology program. It's like the more time I spend here, the more unsure I get about whether this is the right fit for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain, especially when investing so much time and energy into something important. What aspects of the program are making you feel unsure about it being the right fit?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's mostly the mismatch between what I thought I'd be doing and what I'm actually doing. I was expecting to dive into compelling research, but it hasn’t been what I imagined at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It can be disappointing when reality doesn't match our expectations, especially with something as significant as your career path. What did you imagine the compelling research would be like, and how is it different from what you're experiencing now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I always pictured myself working on projects that felt meaningful and exciting, but instead, it feels pretty monotonous and disconnected from what I truly care about. It's like the topics aren't as impactful as I hoped they'd be.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, including details about their uncertainty, expectations, and feelings related to their program. Empathy and understanding have been demonstrated, and the client has clearly expressed their concerns. While goals have been discussed, further exploration could solidify rapport and understanding before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, especially when you’re yearning for more meaningful and exciting work. You were hoping to engage with impactful topics because they resonate more deeply with your personal interests. Could you share more about the kinds of topics or projects that you feel passionate about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I’ve always been interested in understanding human behavior in a way that can directly improve people’s lives, like exploring mental health interventions or social justice issues. But what I’m doing now just feels very theoretical and detached from real-world applications.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has successfully elicited the client's concerns, thoughts, and feelings about the mismatch between expectations and reality in the program. Empathy and rapport are established, and the client's aspirations and frustrations are clear, indicating readiness to explore motivation and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It seems you're drawn to work that directly benefits others and creates tangible change, like mental health interventions or social justice. Reflecting on this, how do you see these passions fitting into your long-term goals or the life you envision for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I guess I picture myself in a role where I can see the impact of my work, like helping communities or influencing policies for better mental health care. I want to feel like I'm contributing something real and beneficial to society, not just working in a vacuum.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Your vision of making a tangible impact on society sounds truly inspiring and meaningful. How does this vision align with what you're currently experiencing in your program, and where do you see opportunities to bridge this gap?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): That's the tricky part, right? I feel like there's such a big gap between where I am and where I want to be. I'm not sure if there are opportunities within this program to get closer to that vision, or if I need to consider other paths.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Navigating this gap certainly seems challenging, especially when you're so clear about the impact you want to make. On a scale from 0 to 10, how confident do you feel about exploring opportunities within your current program or considering new paths that align with your passion for tangible change?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say maybe a 4? I mean, I don't feel super confident because I haven't seen much within my program that aligns with what I want, but I also don't want to give up on it without exploring all my options first. It's just hard to know where to even start looking for those opportunities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between current experiences and desired impact, yet confidence in exploring new paths remains low. Change Talk is present, but specific goals and a confidence rating of 6 or above have not been reached. Given these factors, continuing in the Guiding phase would be beneficial to further explore options and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling quite uncertain about where to begin, yet you're open to exploring possibilities before making any decisions. Your willingness to look for options shows a commitment to finding a path that aligns with your meaningful goals. What steps do you think might help you start exploring these opportunities within or outside your program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): client(guiding): I guess a good first step might be talking to more people in the field to get a better sense of what's out there. Maybe reaching out to alumni or professionals who are doing work I admire could give me some insight. I should also probably have a conversation with my advisor about my concerns and see if there are any projects or electives that could align more with my interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change, acknowledging the gap between current experiences and aspirations. However, confidence is low, and they are unsure where to start. Change Talk is present, but there's no specific change goal, and confidence is below 6. The guiding phase should continue to further explore options and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Reaching out to people who inspire you and having a conversation with your advisor to explore potential opportunities sounds like a thoughtful approach. By connecting with professionals and discussing your interests, you might uncover paths that resonate more with your goals. How do you feel about taking these initial steps and what might make them more manageable for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): I feel like it's a step in the right direction, even if it's a bit daunting. Breaking it down into smaller tasks, like setting up a few informational interviews each month or drafting an email to my advisor, might make it more manageable. It's just about taking that first leap, I guess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific step to explore change, but their confidence is low (4). The client is still uncertain about the right path and requires further strengthening of motivation and confidence before moving to the Choosing phase. More exploration of options and boosting confidence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Taking that first leap can indeed feel daunting, but breaking it into smaller, actionable tasks shows a great approach to making progress. Setting up informational interviews and reaching out to your advisor are steps that could open new doors. What strengths do you have that can support you in taking these steps forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think I'm pretty good at connecting with people once I get over the initial hurdle of reaching out. I also tend to be really persistent when I'm working towards something important to me. Those might come in handy for this.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of their goal but shows low confidence (4) in achieving it and struggles with knowing where to start. There's acknowledgment of a large gap and uncertainty between their current state and desired future. Though some initial steps have been identified, more exploration is needed to increase confidence and reduce ambivalence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your ability to connect with others and your persistence are powerful strengths that will likely serve you well as you start reaching out and exploring these opportunities. How might you draw on these strengths to maintain your motivation and momentum as you begin taking these first steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Well, I guess I could remind myself of past times when I pushed through similar challenges and how those experiences eventually led to good outcomes. Maybe keeping a list of small wins along the way could help, too, just to see that I'm making progress, even if it's slow.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific next steps, such as reaching out to people in the field and talking to their advisor, and has begun using strengths to propel change. However, confidence remains low, and no specific change goals have been fully articulated. The client is still exploring options and needs more clarity on their direction.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Remembering past successes and tracking small wins can really help maintain your motivation and momentum. Celebrating progress, no matter how small, can reinforce your persistence and keep you moving forward. What might be your next small win as you continue to explore these opportunities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(considering): I think reaching out to one person who works in a field I'm curious about could be a good start. Just sending that first email and maybe getting a response would feel like a win. It doesn't have to be anything big, but it could open the door to more conversations and insights.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal and next steps, such as reaching out to professionals and speaking with an advisor, indicating readiness to move forward. However, their confidence is at a 4, suggesting they may benefit from further strengthening before moving to Choosing. The client’s ambivalence remains, shown by uncertainty about job prospects and their program decision.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Taking that initial step by reaching out to someone in a field you're interested in sounds like a meaningful small win. Even just sending that first email is a significant move forward and can lead to valuable insights. How will you feel once you've sent that email and taken this important first step?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll feel a mix of relief and maybe a bit of excitement. Just knowing I've taken action towards figuring things out should help ease some of the uncertainty I've been feeling. Plus, it's the first step in building a network that could guide me in the right direction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk by identifying specific steps to explore opportunities, such as contacting professionals and discussing with an advisor. They expressed confidence and readiness to take initial actions, reflected on strengths, and acknowledged potential outcomes. Ambivalence is decreasing as they focus on actionable steps and potential progress. This suggests readiness to move to the Choosing phase to develop detailed action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "Feeling a sense of relief and excitement after sending that first email can be incredibly empowering. It marks a tangible step toward building a supportive network that aligns with your goals. Based on what we've discussed, your next step could be drafting and sending that email. What could be some potential challenges you foresee, and how might you plan to navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "client(considering): Maybe the challenge could be worrying about saying the right thing or sounding inexperienced. But I guess I could remind myself that people generally appreciate genuine curiosity and honesty. If I keep the email simple and sincere, it might help ease that worry.",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Embracing genuine curiosity and honesty in your email can indeed resonate well with others. Keeping it simple and sincere is a great strategy to navigate those feelings of inexperience. As you prepare to send the email, are there any specific steps you might take to ensure you feel confident about your message?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client(choosing): I could draft a few versions and maybe ask a friend or mentor to look it over. Getting another perspective might help highlight anything I missed and make me feel more confident about hitting send. Plus, practicing what I want to say could make the whole process feel a bit less daunting.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Involving a friend or mentor to review your draft and provide feedback is a great way to build confidence in your message. Practicing what you want to convey can also help ease any anxiety. What steps will you take to monitor your progress after sending the email, and how can you celebrate this achievement?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(considering): I think I'll keep a little journal to note down who I reached out to and any responses I get. That way, I can track the progress and see how things are moving along. As for celebrating, maybe I'll treat myself to something small, like a nice coffee or a break with a good book, just to acknowledge that I've taken a meaningful step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan to reach out in their field of interest and has discussed potential barriers, such as worries about inexperience, and developed strategies to address them. They have also agreed to self-monitor their progress through journaling and celebrate small achievements. These elements indicate readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Noting your progress in a journal is a wonderful way to visually track your journey and reflect on the advancements you make. Celebrating with a treat like a coffee or a relaxing break acknowledges your efforts and reinforces positive action. You're setting a solid foundation for your networking journey. Your willingness to engage in this process with thoughtfulness and self-compassion is truly commendable. Remember, we're here to support you as you move forward. Keep reaching out, and let us know how your journey unfolds.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll keep you updated on how things progress. Appreciate the support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a next step, potential challenges, coping strategies, and a plan for progress monitoring and celebrating achievements. The conversation has naturally reached a conclusion with clear steps and support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Job prospects for a non-clinical masters or PhD in psychology?\nOriginally I did not want to go to school for non-clinical degree but after much discussion with advisors i ended up in a non-clinical psychology phd.  I have regular doubts about if this was the right choice.  \n\nCurrently have almost completed the masters portion of my program.  \n\nIt honestly feels like the longer i am here the more I doubt my decision to come here.  I feel like I had a lot of passion prior to coming here that school has now squashed.  \n\nI was always encouraged to just pursue my area of interest and I think the general area of research i am interested in but it i feel like I was deceived about the nature of the program and the research I would be allowed to do.\n\nIts never been clear exactly what job prospects exist and anytime i talk to someone I get told wildly different things and I dont really know what to believe anymore.\n\nAnyways any thoughts are much appreciated.  Thank you for your time.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

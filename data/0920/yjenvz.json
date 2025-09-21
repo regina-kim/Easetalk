@@ -1,0 +1,188 @@
+{
+  "id": "yjenvz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just feeling a little stuck in my job and thinking about going back to school. Not sure if it's the right move at my age though.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain about such a big decision. You seem to be weighing the security of your current job against the potential opportunity of further education. Could you share more about what's drawing you to the idea of going back to school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I've always been interested in health policy and data analysis, and I feel like an MPH could open up new doors for me. I just don't want to end up in a position where I've invested time and money and it doesn't pay off.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Pursuing an MPH seems to align with your interests in health policy and data analysis, which sounds exciting. At the same time, it's natural to worry about the risks involved, like the investment of time and money. Can you tell me more about what an ideal career path might look like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think an ideal career would be something where I can influence health policies and work with data to drive decisions, without being in a high-pressure management role. I just want to feel like I'm making a difference, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concern of transitioning from their current role as an RN to pursuing a career in health policy and data analysis, along with the underlying motivations and fears. The client's goals and values have been articulated, and rapport has been established. The conversation has a clear focus, indicating readiness to explore motivations and evoke Change Talk in Guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding a role where you can influence health policies and work with data while avoiding high-pressure management sounds rewarding. Considering your goals, how might further education contribute to achieving that sense of making a difference?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I feel like further education could give me the skills and credentials needed to work in areas that truly impact health policies. It might open up opportunities I can't access with just my current experience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Gaining those skills and credentials through further education could indeed open new doors for you. Reflecting on this potential path, how confident do you feel on a scale from 0 to 10 about moving forward with pursuing an MPH?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say maybe a 6 or 7. I'm excited about it, but there's still a lot of what-ifs, like getting into a good program and balancing school with everything else.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing those \"what-ifs\" with your excitement is a common part of this decision-making process. A 6 or 7 shows you have some confidence, which is great. What factors might help increase your confidence level even more?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think finding a solid program that fits within my budget and offers flexibility would help a lot. Also, maybe hearing from others who've made a similar transition could boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by acknowledging how further education aligns with their career goals, identified an ideal role, and expressed a confidence level of 6 or 7 in pursuing an MPH. Ambivalence exists, but specific next steps, like finding a suitable program, are forming. However, further exploration of barriers and support is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Exploring programs that offer flexibility and fit your budget sounds like practical steps to increase your confidence. Hearing stories from others who've transitioned successfully can be quite reassuring too. What would make these next steps feel manageable for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I guess breaking it down into smaller tasks might help, like researching programs one by one and maybe reaching out to alumni or online communities for advice. Taking it step by step might make it less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows a clear understanding of their career goals and recognizes the potential benefits of further education. Change Talk is present as they express excitement about the new path, acknowledge the steps needed, and identify ways to increase their confidence. A confidence rating of 6-7 indicates readiness. Therefore, it's appropriate to move to the Choosing phase to develop a specific action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating smaller, manageable steps sounds like a great way to make this process less overwhelming for you. Based on your thoughts, potential options include starting with researching one program at a time and connecting with alumni or online communities for insights. How would you like to prioritize or begin these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll start by looking into the programs I've already considered, like UMD and BU, and see if they fit my budget and flexibility needs. Then, I could join some online forums or groups where I might find people who've gone through something similar.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Starting with the programs you're already considering, like UMD and BU, is a focused approach. Joining online forums to connect with others who've walked this path can offer valuable insights and support too. How do you plan to track your progress and any insights you gather along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I'll probably keep a notebook or maybe a digital document where I can jot down notes about each program and any advice I get from people online. It might help me see everything more clearly and make informed decisions.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Using a notebook or digital document to organize your notes and advice sounds like a practical way to keep track of your progress. This method can really help in making informed decisions along the way. What do you think could be some challenges you might face with this plan, and how could you navigate through them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): I guess time management might be a big challenge, especially balancing work, family, and this research. I might need to set aside specific times during the week to focus on it and stay disciplined about sticking to that schedule.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear and actionable plan, addressing potential barriers like time management, and has strategies for self-monitoring. They express readiness through reflections on starting steps and confidence-building activities, indicating commitment. They have been receptive to refining their action plans, showing readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Setting aside specific times each week to focus on research is a thoughtful way to manage your time effectively. It can provide structure and help keep you on track while balancing other responsibilities. Keeping a disciplined schedule can indeed lessen the stress of juggling multiple tasks. You're showing great commitment to this journey, and that's commendable. As you move forward, remember that it's okay to adjust your plan if needed. Feel free to reach out for support if you need a sounding board or encouragement. ",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for all the advice. I'll definitely try to stay on top of my schedule and reach out if I hit any roadblocks.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan, including researching programs and engaging with online communities, while acknowledging challenges like time management. Support and encouragement are offered. The session naturally concludes with a focus on moving forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: MPH at 37? Currently an RN looking for a change\nI am strongly considering getting an MPH with an emphasis in health policy/data analysis. I am currently an RN case manager at a hospital and I'm tired of being \"bedside\" even though I don't work as directly with patients anymore. The role does not provide much growth unless I want to be in management and hospital management sounds like a nightmare to me. I'd like to go into health policy with some data analysis. I haven't been back to school since I graduated undergrad in 2007. Spent time staying home with my kids and I've been working regularly for almost four years now. \n\nAre the MPH programs hard to get into? I'm hoping my job experience gets me in. I left undergrad with a 3.3 GPA. Currently looking for an online or hybrid program, so far UMD (u of Maryland or BU online seem to have good options).  Any other suggestions for programs?  I'm hoping to stay under 40k.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

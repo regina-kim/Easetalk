@@ -1,0 +1,167 @@
+{
+  "id": "z41ptw",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What's on your mind today? I'm here to listen and explore whatever you'd like to share.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've been feeling pretty down about my time at university. I'm not sure if this place is the right fit for me, and it's really stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "University can be a challenging time, and it must be difficult feeling unsure about your place there. What aspects of university are causing you to feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's a mix of not really clicking with the campus vibe or people, and the academics not being as strong as I hoped. It's like I'm not getting what I expected from the college experience.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing some disappointment and disconnection both socially and academically. Could you tell me more about what you expected from university and how it differs from your current experience?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess I was expecting to feel more excited and engaged, like I'd meet new friends and be inspired by the classes. Instead, it's been hard to connect with people, and most of the classes aren't challenging or interesting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, revealing thoughts, feelings, and context about university struggles. Empathy and rapport are shown, and mutual goals to explore options about university and potential transfer are implied.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Those expectations are important, and it seems like there's a gap between what you hoped for and your current reality. What do you think life might be like if those expectations were being met?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): If my expectations were met, I think I'd feel more motivated and eager to participate in everything. I'd probably have a solid group of friends and be excited about what I'm learning and doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Envisioning that fulfilling experience sounds inspiring. What strengths or values do you think you could draw on to move closer to that vision of university life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess my determination and openness could help. I'm willing to put myself out there to meet new people and try new things, but it's tough when things aren’t clicking.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's great to hear about your determination and openness. How might these qualities help you make small changes to enhance your university experience and bridge the gap between your current situation and your ideal vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by joining a club or group that aligns with my interests, or try talking to classmates more to find common ground. I think small steps like that might help me feel more connected and engaged.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified change talk by proposing small actions like joining clubs and engaging with classmates, showing readiness for change. They also expressed their determination and openness, suggesting alignment with personal values. Confidence appears sufficient to try these steps, and ambivalence is reduced. The goals of the guiding phase have been met by exploring life with change and evoking discrepancies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Joining a club or reaching out to classmates are proactive steps. How about setting a goal to join one club this month and start a conversation with at least one classmate each week? What might be some challenges you could face, and how do you plan to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I like that idea. A challenge might be my nervousness about not fitting in or getting rejected. I could try to remind myself that taking these steps is about finding my place, and it’s okay if it takes a few tries to find the right fit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan, and it's wonderful to see your readiness to embrace these challenges. You could also consider some calming techniques or affirmations to ease your nerves before reaching out. Would you like to discuss how you might track your progress or any other support you might need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think tracking progress would be helpful. Maybe I could keep a journal or checklist of the steps I take and how I feel about them. And if I hit a roadblock, I guess reaching out to you or someone else for support could be a good idea.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "therapist(choosing): Keeping a journal or checklist sounds like an excellent way to reflect on your journey and track progress. Reaching out for support when needed is a wise backup plan. Based on what you've shared, you might also want to set regular check-ins with yourself or a mentor to assess how you're feeling and make adjustments. What do you think about these ideas?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of regular check-ins, maybe I could set a weekly reminder to reflect on how things are going. Having a mentor to talk to sounds great too, but I'm not sure who that would be yet.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal with concrete action steps and recognized potential barriers, alongside strategies to address them. Progress tracking and support systems have been discussed, indicating readiness for action. The client displays commitment and is prepared to take steps, suggesting readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Finding time for weekly reflections is a wonderful way to stay mindful of your journey. As for a mentor, perhaps there’s a professor or an older student you feel comfortable approaching, or even using university resources to connect with someone who can offer guidance. It's fantastic that you're open to exploring support options, and I'm confident you'll find someone who aligns with your needs. Trust your process and remember that each small step is a move towards creating the university experience you hope for. I'll be here to support you along the way, so feel free to reach out whenever you need a little extra encouragement or perspective. Keep nurturing that determination and openness—you're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll try to think about who could be a good mentor and keep you posted on how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of the client's goals, steps, and coping strategies, and a next-step plan was discussed. The session reached a natural conclusion with an invitation for future support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What should I do?\nI am a freshman at the University of Cincinnati. I have yet to have a good experience and often find it a struggle to enjoy living while being there &amp; honestly I’m not impressed with the academics at all (besides Dr. Mosley god bless her) , I have considered transferring, obviously next year I am going to stick this year out. but I’m not sure if it’s worth it? And if any of you have transferred what helped you decide that was the best decision? How do you know if transferring is the best option? I’m just scared if I transfer I will still be miserable, I also am not sure where to transfer I’ve looked into osu but I’m scared it’ll just be the same. I just need help overall haha",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

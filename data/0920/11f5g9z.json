@@ -1,0 +1,167 @@
+{
+  "id": "11f5g9z",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. How can I support you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I just feel really overwhelmed with my research right now. I'm worried that I might have messed up and I'm not sure where to go from here.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It appears you're feeling quite stressed because you fear making a mistake in your research. Could you share a bit more about what led you to feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess I just feel like I might have based my research on something that isn't as solid as I thought. I thought I was onto something but now I'm questioning everything, and it's just really frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds incredibly frustrating, especially when you've invested so much effort. It seems like you're questioning the foundation of your work, which must be pretty unsettling. Can you tell me more about what first made you doubt your research?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It kind of hit me when I couldn't find more information or literature to support this one part of my research. I started wondering if I was even looking in the right places or if I just made a big assumption that isn't really backed by evidence.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their concern, including feelings of doubt, frustration, and uncertainty about their research. The context and emotional impact of their situation have been explored, and the therapist has shown empathy. The client has also expressed a desire to understand how to handle mistakes. This suggests readiness to explore motivation and strategies for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough to feel uncertain about the foundation of something you've worked hard on. Reflecting on this, how does it align with your goals for your research? What might life look like if you were able to solidify your findings?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I could solidify my findings, I'd probably feel a lot more confident and less stressed about the whole thing. It'd mean that I'm on the right track and that all this effort hasn't been for nothing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling more confident and less stressed sounds like a significant shift. What do you believe might help you move towards that sense of confidence in your research?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think getting some solid feedback or guidance would help, especially from my supervisor. Also, maybe exploring different perspectives or sources that I haven't considered yet could open new avenues for my research.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Receiving feedback and exploring new perspectives seems like a great approach to gaining clarity. How would that align with your commitment to your research goals, and how do you envision taking the next step forward in seeking guidance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think it would align with my goals because it'd help me feel more secure in my work. As for the next step, I guess I need to be more proactive in reaching out to my supervisor and maybe also seek input from peers or other faculty who might have insights.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed specific change goals, including seeking feedback and exploring perspectives. They showed a shift towards confidence and alignment with research goals. While ambivalence remains about research, they've identified proactive steps like contacting their supervisor and peers. The conversation revealed a discrepancy between current feelings and desired outcomes, indicating readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Considering your dedication to improving your research, reaching out to both your supervisor and peers could be beneficial steps. How do you feel about setting a specific goal to contact your supervisor and perhaps scheduling a meeting? Additionally, what strategies might help you explore new perspectives or sources effectively?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal to contact my supervisor seems like a good idea. Maybe I can start by drafting an email to explain my concerns and ask for a meeting. As for exploring new perspectives, I might try looking into other disciplines or even talking to people outside my field to get a fresh take.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Drafting an email to your supervisor is a proactive step, and looking into other disciplines could indeed provide fresh insights. Would it be helpful to set a timeline for when you plan to send the email and start exploring these new perspectives? Additionally, how would you like to monitor your progress to ensure you're on track with these goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having a timeline would probably keep me accountable. Maybe I can aim to send the email by the end of this week and start looking into new perspectives over the next couple of weeks. I could check in with myself each week to see how much progress I'm making and adjust if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a timeline is a great way to stay accountable and motivated. Sending the email by the end of this week and exploring new perspectives in the following weeks sounds like a solid plan. How do you feel about setting a regular time for these weekly check-ins? This could help you reflect on your progress and adapt your strategies as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That seems like a good idea. Maybe I could set aside some time every Sunday evening to just sit down and reflect on how the week went and what I managed to accomplish. It’d give me a chance to see where I might need to make changes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan: contact the supervisor, explore new perspectives, and self-monitor progress with weekly check-ins. Barriers are recognized, and the client feels proactive and accountable. The client is showing commitment and confidence in taking steps. These align with readiness signals indicating preparedness for change and implementation.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting aside time each Sunday evening for reflection is a thoughtful way to stay connected to your progress and goals. It's brilliant how you're taking charge by planning your steps and being open to adjustments. As you draft your email and begin exploring these new perspectives, remember to celebrate each small victory along the way. You're making thoughtful, deliberate choices to support your research goals. If you find yourself needing additional support, feel free to reach out. You've got a solid plan, and I'm confident in your ability to navigate this journey. Keep moving forward!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I really appreciate your support and encouragement! I'll try to keep this momentum going and see how it all unfolds. I'll definitely reach out if I need more help.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined clear steps, coping strategies, and a timeline for their research concerns. They plan to connect with their supervisor and explore new perspectives, fulfilling termination goals for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Have you ever made a mistake in your research or discrepancy that completely changes your outlook and thesis?\nI’m basically studying devotional objects from the Medieval ages and how people still interact with them today. My methodology includes looking at blogposts and newspapers of people who interact with these images. Im using first hand accounts. Some of these blog posts discuss a legend associated to a specific object, but there isn’t much discussed further. I can’t find any additional literature on it. \n\nI feel like a fraud and I don’t know how else to deal with it. Nothing is published or written yet, but I feel like im just not doing a good job. No sign from my supervisor either, even though I messaged him. \n\nI feel stupid. I based my idea on an assumption. I have a bunch of academic articles that can back up this assumption though.\n\nI know it sounds super vague but I just feel like shit. How have you gotten over mistakes or discrepancies in your research?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

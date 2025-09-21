@@ -1,0 +1,251 @@
+{
+  "id": "ur6edr",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, it's just been a lot of stress about starting college so young. I keep thinking maybe I rushed things, and now I'm not sure if I'm ready for it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college at a young age can certainly bring a lot of pressure. You might be feeling unsure because it's a big transition and it's happening earlier than you expected. What's been your experience so far with these changes?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's been kinda overwhelming, to be honest. I feel like I'm missing out on being a regular teenager and all the stuff that comes with it. Plus, figuring out how to handle college on my own just adds to the stress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed because you're trying to balance college responsibilities while feeling like you're missing out on typical teenage experiences. How do you feel about the support you're receiving during this time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess it's been okay, but sometimes it feels like I'm on my own island trying to figure everything out. I wish I had more guidance or someone who's been through the same thing to talk to.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, expressing stress about starting college early and feeling isolated. The therapist has built rapport by empathizing with the client's feelings and exploring their experiences and support system. The essence of the client's concerns and context has been elicited, allowing for a transition to focusing on their motivations and potential changes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be tough to feel like you're navigating everything by yourself. Having someone who understands your experience sounds really important to you. How do you think your life might be different if you had more support or guidance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think having someone to talk to who's been through it would make me feel less alone and maybe even more confident. It'd be nice to have someone who gets it and can give me advice or just listen.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Connecting with someone who understands your journey could really boost your confidence and help you feel less isolated. What steps do you think you might take to seek out that kind of support or guidance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'm thinking about trying to reach out to any mentors or maybe joining some groups at college where I might meet people who've been in similar situations. I guess it's just about finding the courage to put myself out there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking that step to reach out and connect with mentors or groups can open up new support networks for you. On a scale of 0 to 10, how confident are you in your ability to find and connect with those resources?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I'd say maybe a 5 or 6. I'm hopeful but still kinda nervous about putting myself out there and not really sure what to expect.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as reaching out to mentors and joining groups, but their confidence is at a 5 or 6, indicating ambivalence. More exploration of potential barriers and strengthening of confidence is needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Acknowledging those nerves while feeling hopeful is a great starting point. You're already considering ways to connect, which is a big step. What might help you feel a bit more confident, moving from a 5 or 6 to perhaps a 7 or 8?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): Maybe just having a bit of a plan for how to approach it would help. Like knowing what groups or resources are available and thinking about how to introduce myself without feeling super awkward. That might make it less intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of overwhelm and loneliness, but has also identified potential solutions such as seeking mentors or joining groups. Confidence is rated at 5 or 6, indicating some ambivalence. While some goals of the Guiding phase are met, a specific change goal is not yet fully developed, suggesting continued exploration is beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having a plan can certainly make things seem more manageable and less intimidating. Exploring the available groups or resources and preparing how you'd introduce yourself is a solid approach. What values or goals do you think are driving you to seek out this support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think it's mostly about wanting to feel more connected and less alone in this whole process. I want to make the most of my college experience and not let feeling out of place hold me back.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by identifying a specific goal (seeking support through mentors or groups) and has a confidence level around 5-6. However, there is still some ambivalence and a need for more confidence building and planning. The confidence ruler used indicates that confidence is not solidly at 6 or above, suggesting further exploration in the guiding phase is beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Feeling more connected and making the most of your college experience are really meaningful goals. It's clear that seeking support aligns with your desire to fully engage and overcome any feelings of isolation. How does recognizing these values impact your motivation to reach out to those resources?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): Realizing these values definitely boosts my motivation to reach out and not just stay in my comfort zone. It reminds me that putting in the effort now could lead to a much richer experience later. It makes the idea of reaching out feel more like an investment in myself rather than just a scary task.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as reaching out to mentors or joining groups. Their confidence level is at a 5 or 6, showing ambivalence. They have reflected on the values driving their motivation, and Change Talk is present. However, the confidence ruler indicates some uncertainty, suggesting more support is needed to solidify plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Seeing reaching out as an investment in yourself is a powerful perspective. Embracing this mindset can make the steps ahead feel more purposeful and rewarding. What small, first step might you consider taking to move towards this connection and support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think a good first step would be to check out the college's website for any clubs or mentor programs that look interesting. Maybe I can even email someone in charge to get more info. Just gathering that information could make me feel more prepared and focused.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client identified specific steps like checking college resources and emailing for more info. They've shown a shift in mindset, recognizing reaching out as an investment in themselves. The client expressed a confidence level at 5 or 6, with a plan to increase it. The conversation has successfully evoked motivation by aligning actions with values and goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Checking out the college's website for clubs or mentor programs sounds like a great first step. Gathering information is a proactive way to feel more prepared and focused. To build on that, what specific action would you like to take next, once you find some options that interest you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I guess once I find some options that interest me, I'd like to attend a meeting or event to get a feel for the vibe and see if it clicks. I think just showing up and observing could be a good way to start without too much pressure.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Attending a meeting or event to get a feel for the vibe is a practical next step. Observing in a low-pressure way can help you decide if it’s a good fit. Based on this plan, what might you do to prepare for attending that first meeting, and how can you support yourself if any nerves arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(reflecting): To prepare, I might read up a bit on the club or topic so I have something to talk about if the opportunity comes up. And if I get nervous, I could remind myself it's okay to just observe and not have all the answers right away. Maybe taking a few deep breaths beforehand could also help keep me calm.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "therapist(choosing): Reading up on the club or topic is a thoughtful way to prepare and have something to chat about. Reminding yourself that it's okay to just observe, along with some deep breaths, sounds like a gentle way to manage any nerves. How would you like to monitor your progress with these steps and check in on how you're feeling after attending an event?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll try to journal about the experience after attending an event. Writing down how it went, how I felt, and what I learned could help me track my progress. It might also be a good way to reflect on what worked and what I might do differently next time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan for engaging with college resources, including specific steps like attending events and preparing by researching clubs. Barriers like nerves are addressed with strategies like deep breathing and journaling. Self-monitoring through journaling is established, showing readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Journaling is a wonderful tool to track your progress and reflect on your experiences. It can provide insights into what works well and highlight areas for growth, making each step forward more meaningful. You're approaching this with a lot of thought and care, which is commendable. Remember, each small action you take is a step towards feeling more connected and engaged in your college life. You've got a clear plan with checking out clubs, attending meetings, and using journaling as a reflection tool. As you move forward, know that it's okay to take things at your own pace and reach out for support whenever needed. You're investing in yourself, and that's truly something to be proud of. Keep going, and when you're ready, we can touch base again to see how things are unfolding and continue building on your successes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, that definitely helps put things into perspective. I'll make sure to keep you updated on how things go and reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals, outlined steps for engagement, coping strategies, and a plan for progress monitoring. The client expresses understanding and readiness, indicating closure. Follow-up is suggested, but current closure is satisfactory.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm going to college at 17. And I'm scared af.\nI know this sounds a little dramatic lol. I'm 16 (F) currently, and I pushed myself really hard to graduate early. Now I'm here and it just doesn't feel right.\n\nI'll be going to college this fall semester (I'll turn 17 before) and I'm scared shitless. I almost regret moving so fast. It feels like I don't really relate to any of my friends or have any tbh.\n\nI'm also putting myself through college and have almost no clue how this works at all.  Anyone else in the same boat?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

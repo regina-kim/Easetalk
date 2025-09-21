@@ -1,0 +1,272 @@
+{
+  "id": "y3yj1c",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "client: Hey. I'm feeling pretty overwhelmed, honestly. Just trying to deal with all the stress from school and worrying about my future options.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough. You're feeling overwhelmed with the pressures of school and the uncertainty about what's next. What's been weighing on you the most lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's mostly the pressure of getting everything perfect so I can transfer to somewhere decent. The thought of not having many good university options is always in the back of my mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The pressure to achieve perfection for a better future must be quite heavy on your mind. It sounds like you're concerned about making sure you have strong university options. What do you think has been contributing to these feelings of needing to be perfect?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I guess it's just this feeling that if I don't do everything perfectly now, I might miss out on better opportunities later. It's like every little thing matters and could impact my future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's story and provided detailed context about the client's stressors and feelings. The therapist has shown empathy and a clear understanding of the client's concerns. The client's anxiety about limited university options and its impact on their well-being is apparent. Mutual goals, such as addressing stress and anxiety, can now be established.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like the weight of future possibilities is heavily linked to your current actions. How would life be different for you if you could let go of some of that pressure to be perfect?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I could let go of some of that pressure, I guess I'd feel a lot lighter and more able to enjoy the present. Maybe I wouldn't feel so constantly stressed and could actually focus on learning rather than just performing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That sounds like a freeing possibility, enjoying learning in the moment rather than just focusing on performance. On a scale from 0 to 10, how confident do you feel about making even small changes to reduce that pressure?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Hmm, honestly, I'd say maybe a 4. I know it's something I should work on, but it's hard to imagine not feeling this way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Seeing a 4 on the confidence scale shows some willingness to consider changes, even if it feels challenging. What small steps might you consider to start moving from feeling a 4 to maybe a 5 or 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think starting small could help, like maybe trying to set aside a short time each day to do something I enjoy without thinking about school. Maybe focusing on hobbies or just taking a walk could give me a bit of a break from all the pressure.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to reduce stress and has identified a small, specific step for change. However, confidence is low at 4, indicating the client might not be ready to move to Choosing. Further exploration of confidence and ambivalence is necessary to strengthen motivation before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking small steps by setting aside time for yourself and enjoying activities sounds like a thoughtful approach. Engaging in hobbies or taking walks might help ease some stress. How do these small changes align with the bigger picture of what you truly value in life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client: I think they align pretty well, actually. I value balance and well-being, but it gets lost in all the school stress. Focusing on small changes could help me reconnect with those values.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown Change Talk about reducing perfectionism and has considered small actionable steps, but confidence remains low at a 4. Discrepancy between current behaviors and values (balance and well-being) has been discussed. More exploration in the Guiding phase could help increase confidence and further develop specific goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Reconnecting with your values of balance and well-being through these small steps seems meaningful. As you consider embracing these changes, what do you imagine would be the most rewarding aspect of achieving more balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client: I imagine the most rewarding part would be feeling more at peace with myself and my choices. I think being able to enjoy my time both in and out of school without constantly worrying about the future would be really fulfilling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified values and discrepancies between behavior and goals and has explored life changes. Some change talk and a specific step have been identified, but confidence is low, at a score of 4. Ambivalence remains high, indicating a need for further exploration before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Feeling more at peace with yourself and your choices sounds incredibly fulfilling. Enjoying the present without the constant worry allows for a richer, more meaningful experience. What do you think might be the first sign that you’re starting to achieve this balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client: Maybe the first sign would be when I can actually sit through a meal without my mind wandering off to assignments and deadlines. If I can start enjoying simple moments without anxiety creeping in, that would be a big step.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and identified specific small steps towards change. However, confidence levels are low, indicating a need for further exploration and strengthening of motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Noticing moments like enjoying a meal without anxiety sounds like a significant step towards achieving balance. It's a clear indicator of progress. What strengths do you have that could support you in reaching this peaceful state?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client: I think I'm pretty resilient; I've dealt with stress before and managed to come out on the other side. Plus, I'm good at organizing my time, so maybe I can use that to carve out some moments for myself, even when things get hectic.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a specific change goal of creating time for enjoyable activities and aligning with their values of balance and well-being. Change Talk is present, and they've identified signs and strengths for achieving balance. However, confidence is still low (4), and anxiety remains prevalent. Further exploration of confidence and ambivalence is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your resilience and ability to organize time are powerful strengths that can truly support your journey toward balance. Using these skills, how might you remind yourself to prioritize these peaceful moments in your day-to-day life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client: I could try setting reminders on my phone or putting little notes around my room. Something like a sticky note saying \"Take a breather\" on my desk might help me remember to pause and relax, even if it's just for a few minutes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client articulates a clear change goal: achieving balance by setting aside time for enjoyment and reducing stress. They express a decrease in anxiety as a desired outcome and identify resilience and time management as strengths to support this change. Despite a confidence level of 4, specific steps like setting reminders to pause reflect readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Setting reminders on your phone or placing sticky notes around your room are great strategies to prioritize peaceful moments. They serve as gentle nudges to pause and breathe amidst your busy day. Based on what you've shared, possible options might be deciding on specific times for these breaks or identifying particular activities that help you unwind. What do you think would work best to integrate these reminders into your daily routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client: I think setting specific times for breaks would work well, especially if I tie them to activities I already enjoy, like listening to music or going for a short walk. Having a set schedule might make it easier to stick to taking these breaks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Having specific times for breaks tied to activities you enjoy, like music or walks, sounds like a solid plan. It makes it easier to stick to these rejuvenating moments. What barriers do you anticipate might challenge your ability to maintain this routine, and how might you navigate those?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(choosing): I guess the biggest barrier would be feeling guilty for taking breaks when there's so much to do. But maybe if I remind myself that these breaks can actually help me be more productive and focused, it'll be easier to take them without feeling bad.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Normalizing the feeling of guilt and reframing breaks as productivity boosters is a smart approach. Understanding their value might ease that guilt over time. Would it be helpful to have a reminder or mantra to reinforce this mindset shift?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Yeah, having a reminder or mantra could be really helpful. Something like \"Breaks recharge you\" might do the trick. Just a little nudge to remind myself that taking a pause is actually a good thing, not a waste of time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with scheduled breaks and linked enjoyable activities. Barriers like guilt were discussed, and strategies like mantras were created to navigate them. The client shows commitment and readiness to change by proposing reminders and reframing thoughts on breaks.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "\"Breaks recharge you\" is a wonderful mantra to help reinforce the positive impact of taking time for yourself. It's encouraging to hear your commitment to embracing these moments as essential, not indulgent. As you incorporate these strategies, it's important to acknowledge your progress and be gentle with yourself. Remember, you're building a habit that supports your well-being. Having a clear plan with specific times and enjoyable activities can really set you up for success. I'm confident in your ability to implement these steps. If challenges arise, I'm here to support you as you navigate through them. Keep reminding yourself of your resilience and the importance of these recharging moments. You're making meaningful steps toward a balanced life.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I appreciate your confidence in me. I’ll definitely try to keep that mantra in mind and be patient with myself. If things get tough, I'll reach out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session achieved progress by discussing strategies and goals for managing anxiety and stress. A clear next-step plan was established with the client embracing breaks as productivity boosters, indicating readiness to implement these steps independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Community college\nWon't get into the specifics but I'm not in the US where I have a high chance of getting into a \"state school\" if I get out of CC etc (sorry if this is inaccurate, forgive me)\n\nI live in a region where there are 3 \"elite\" universities, 2 \"eh\" universities, and 3 \"might as well just not go\" universities. Hence, my options are limited.\n\nI think this plays a major role in me being super, super anxious all the time in CC. I have 3 reports due at the end of this month, and despite almost being done with them, I'm worried that they're going to get bad grades. I've talked to the lecturers and tbh it didn't really help.\n\nFrom the second I wake up to the second I fall asleep, I'm either thinking about assignments, revision material, and a course I'm struggling in.\n\nI didn't really eat much for 2 weeks (appetite is almost non-existent), and I get these weird blood blisters in my mouth for some reason. I feel like I'm turning into a zombie. And I feel the need to cry a lot.\n\nAnd it's only been a month since the semester started.\n\nI think my main concern is the small range in universities\n\nI honestly don't know what to expect now that I've typed this out",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

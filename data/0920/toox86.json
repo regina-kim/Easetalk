@@ -1,0 +1,230 @@
+{
+  "id": "toox86",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything specific you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm just feeling really torn between two big decisions for college. It's been on my mind a lot lately, and I don't know which way to lean.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating big decisions can be really challenging. What are the two options you're considering, and what about each one feels important to you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I've been accepted into the computer science program at Carnegie Mellon and the EECS program at UC Berkeley. I guess what's important to me is balancing the prestige and opportunities both schools offer with the financial aspect since Berkeley is in-state and way cheaper.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Choosing between two great opportunities like these can be overwhelming. On one hand, Carnegie Mellon's computer science program is prestigious, while on the other, UC Berkeley offers a strong program with the benefit of being more affordable. What feelings come up for you as you weigh these factors?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, it's a mix of excitement and stress. I'm excited about the opportunities at both schools, but it's also pretty daunting trying to pick the one that feels right without having regrets later.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, feelings, and the context of their decision-making process. The therapist has demonstrated empathy and acknowledged the client's emotions. There seems to be a mutual understanding of the client's dilemma, suggesting that the goals of the Exploring phase have been met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's clear that you're experiencing a blend of excitement and pressure about making this decision. How might each choice align with your long-term goals or vision for your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think both could set me up well for a career in tech, but maybe in slightly different ways. CMU might open doors to some niche opportunities in computer science, while Berkeley could give me a broader education, especially with the EECS angle. It's tough because I want to make sure I'm setting myself up for the best future possible.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Both options seem to carry potential for your career aspirations in tech. How do you envision your future if you choose CMU compared to if you choose Berkeley, especially in terms of your lifestyle, financial situation, and the kind of opportunities you want to pursue?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "If I went with CMU, I imagine I'd be immersed in a super specialized and intense environment, which could be amazing for certain tech careers. But I'd probably have to deal with more financial stress. Choosing Berkeley, I see myself having a more balanced college experience with less financial burden, but it's hard to shake the feeling that I might be missing out on something specific that CMU could offer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "The idea of a specialized focus at CMU versus a balanced experience at Berkeley seems pivotal in your decision-making. Considering the lifestyle and opportunities each presents, what do you feel is most aligned with your values and priorities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "That's the tricky part. I value both the specialized, intense focus CMU offers and the balanced, less financially stressful experience at Berkeley. I guess I'm trying to figure out which aligns more with who I want to become and what matters most to me right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed discrepancy between the two options and has explored life with each choice. They have articulated values but have not yet expressed decisive Change Talk or a clear next step/goal, indicating continued ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You're really weighing the significance of specialization against financial peace of mind. Looking ahead, what might your future self say about the importance of these factors as you decide on a path that aligns with who you want to be?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I think my future self would probably remind me that both financial stability and a strong educational path are important. They might say that while it's crucial to consider the long-term impact, it's also important to make a choice that doesn't add unnecessary stress right now. But honestly, it's hard to get into that mindset when I'm caught up in the moment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored both options thoroughly, expressing a clear understanding of the benefits and drawbacks of each choice, aligning them with their values and future goals. The client shows increased clarity and has articulated a need for financial stability and educational quality. Despite this, there's no clear indication of commitment to a specific choice or a defined next step, making it suitable to continue guiding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Balancing both long-term impact and current stress levels is indeed challenging. As you think about aligning with your future self's perspective, what small steps could help clarify which path aligns more with what you truly value?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I should try talking to alumni from both programs or even current students to get a better sense of what life is really like at each school. Finding out more about the day-to-day experiences could help me see which environment suits me better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed discrepancies between the appeal of CMU's specialization and the financial benefits of Berkeley. They have explored life scenarios with each option and identified steps to gather more information. Change talk is present with a focus on aligning choices with personal values. The conversation reflects readiness to advance as confidence appears adequate for next steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Connecting with alumni and current students sounds like a great step toward gaining clarity. Based on what you've mentioned, your options could include reaching out to online forums or alumni networks. What would be the most comfortable way for you to engage with them, and how might these conversations help clarify your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think starting with online forums might be the way to go since I can get a wide range of opinions and experiences pretty quickly. Then, if I feel like I need more personal insights, I could reach out to specific alumni networks. These conversations might give me a clearer picture of what each school is really like beyond just their reputation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(choosing): Engaging with online forums and alumni networks seems like a solid plan. It could really help you gather diverse perspectives. How do you envision structuring these conversations, and what specific insights are you hoping to gain to assist in your decision-making process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I'm thinking of asking about their day-to-day experiences, what they love about their choice, and any regrets they might have. I'd also want to know how they felt their education shaped their career opportunities. Getting a sense of the community and support systems at each school would be important too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Those are insightful topics to explore in your conversations. Understanding their day-to-day experiences and the impact on their careers could provide valuable clarity. As you prepare to engage with them, what timeline would you like to set for gathering this information, and how can you track the insights you gain to help with your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): I think giving myself a month to gather information should be enough time. I could keep a simple journal or spreadsheet to jot down the key insights and any feelings they bring up. That way, I can look back and see if there's a trend or a gut feeling that comes through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to engage with alumni and online forums and has set a timeline for gathering information. They have also outlined a method to track insights. While potential barriers have been discussed, readiness signals such as commitment and confidence in implementation remain unclear.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating a timeline of a month and using a journal or spreadsheet to track insights sounds like a thoughtful approach. It will help you organize your thoughts and notice any patterns that emerge. How do you feel about setting a regular check-in each week to reflect on what you've learned and adjust your plan if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Yeah, a weekly check-in sounds like a good idea. It could help me stay on track and make sure I'm not just gathering info but also processing it. Sometimes I tend to overthink things, so having a set time to reflect might keep me from getting overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan to gather information by engaging with online forums and alumni networks. They have outlined a timeline, self-monitoring strategy, and seem confident about the steps. They are also open to weekly reflections. These indicators suggest readiness to move towards the termination phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "A weekly check-in could indeed be a helpful anchor, allowing you to process the information without feeling overwhelmed. It's great to hear you're thinking ahead about preventing overthinking. As you embark on this journey, remember that you're taking intentional steps toward a decision that aligns with your values and goals. Stay open to whatever insights arise, and trust in your ability to navigate this path thoughtfully. You've got a solid plan, and I'm here to support you along the way. Looking forward to our next conversation.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks for the support and guidance. I feel a bit more at ease knowing I have a plan. I'll keep you updated on my progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a structured plan and coping strategy to gather information over a month with weekly check-ins. The session closed with mutual understanding and readiness to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: CMU CS or UC Berkeley EECS?\nSo I got into both programs, and I'm having a really hard time deciding what to choose. I'm in-state for UC Berkeley, so tuition would be significantly cheaper. But other than this, I love both schools, and I don't know what to choose!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

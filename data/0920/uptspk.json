@@ -1,0 +1,188 @@
+{
+  "id": "uptspk",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. Whenever you're ready, feel free to share what's on your mind or anything you'd like to discuss today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm just feeling pretty down right now being back home from college. It's tough not having much to do or many friends around here.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really difficult adjusting from the busy college environment to being back home. You might be feeling isolated because you're missing the social connections and activities that kept you engaged. What has this transition been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's been a pretty big shift. At school, I always had something to do or people to hang out with, but here it's like everything just kinda stopped. It feels like I'm just stuck in one place, not doing much at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing a sense of stagnation because the lively routine you had is now absent. It's understandable to feel a bit lost without that structure and those connections. How have you been coping with these feelings since returning home?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Honestly, I haven't been coping all that well. I've been trying to keep busy with TV shows and stuff, but it doesn't really fill the gap, you know? I'm meeting up with a friend sometimes and there's this club thing, but it just feels like I'm not doing enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively elicited the client's story and concerns, including feelings of isolation and stagnation, with relevant context provided. There is empathy and rapport, but no mutually agreed goals or exploration of motivation for change yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "therapist(exploring): You're trying to fill the gap with activities, but it feels like they don't quite match what you're used to. It’s understandable to feel like you’re not doing enough when things are so different. What are some of the things from college that you miss the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I really miss the spontaneity of hanging out with friends and just being able to walk around campus and run into people. Also, the clubs and events always kept me busy and gave me something to look forward to.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's story, thoughts, and feelings, including the context of transitioning from college life to home. Rapport and empathy are clearly present, with a mutual understanding of the client's concerns. The goals of the Exploring phase are met, allowing for a shift towards strengthening motivation and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "The spontaneity and the vibrant social scene sound like they brought a lot of joy and fulfillment. Reflecting on those experiences, what aspects of that college life do you think are most important for you to have in your life now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: I think it's the social interactions and having a sense of community. Just feeling like I'm part of something and having people around makes a big difference. I miss that feeling of connection and having stuff to do with others.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Having that sense of community and connection is so important. It sounds like being part of something bigger really energizes you. How might your life change if you could incorporate more of those social interactions and community feelings where you are now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: If I could have more of those interactions and feel connected, I think I'd feel less lonely and more motivated. It'd make the days feel less empty, like I have a reason to get up and do things, instead of just passing time. It's just hard to figure out how to make that happen here.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Feeling less lonely and more motivated could really change your daily experience. What small steps might you consider taking to start building those social connections and community feelings where you are now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try reaching out to a few people from high school that I lost touch with, or see if there are any local events or groups I could join. It might be awkward at first, but it could help. And I'm thinking of asking my college friend if they want to hang out more regularly too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, recognized a specific change goal of increasing social interactions, and is considering next steps to reach out to past acquaintances and local events. Ambivalence has decreased as the client identifies potential actions to combat loneliness. Confidence in taking small steps seems present, with the client suggesting reaching out to people and joining events. Thus, the goals of the Guiding phase have been met, indicating readiness to move to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Reconnecting and exploring local events sounds like a promising way to regain that sense of community. As you consider reaching out to old friends and joining local groups, what specific goals would you like to set for yourself to start this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I guess a good start would be to reach out to at least one high school friend each week, just to catch up and see if we can hang out. I could also look into one local event or group every week, just to see what’s out there. And maybe I can set a regular weekly hangout with my college friend to have something consistent to look forward to.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Those sound like wonderful and achievable goals to help you build that sense of community and connection. Reaching out to school friends and exploring local events weekly can really open up new opportunities. As you work on these goals, what barriers do you anticipate, and how might you plan to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I guess fear of rejection or awkwardness might be a barrier, like if people aren't interested or it feels weird reconnecting. I might also struggle to find events that actually interest me. To overcome that, I could start by picking low-pressure situations to reach out, like just sending a casual text, and maybe inviting people to things I know I'll enjoy, so it's more comfortable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Choosing low-pressure ways to reach out and inviting others to activities you genuinely enjoy sounds like a thoughtful approach. This can help lessen any awkwardness and make the experience more enjoyable. How would you like to monitor your progress on reaching out and exploring new events?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think I'll keep a simple journal or maybe just a note on my phone where I jot down who I reached out to and what events or groups I checked out each week. That way, I can look back and see what worked or what I enjoyed, and it'll motivate me to keep going. Plus, it might help me track any new connections I make.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan with weekly goals such as contacting friends and attending local events. Barriers like fear of rejection are acknowledged, and strategies to manage them are in place. The client has also agreed to self-monitor progress through a journal or phone notes. These elements indicate readiness based on commitment and confidence signals.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Keeping a journal or note on your phone to track your outreach and event participation sounds like a wonderful idea. It allows you to reflect on your experiences and progress, which can be really motivating. By jotting down who you connect with and what you explore, you can celebrate small wins and adjust your approach as needed. As you continue this journey, remember you have the resilience to face any challenges that come your way. I'm here to support you as you build these connections and enrich your life with community and interaction. Let's touch base next time to see how things are unfolding and explore any new insights or adjustments to your plan. You're taking meaningful steps forward, and that's something to be proud of.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I hope I can keep the momentum going and not let setbacks discourage me. I'll let you know how it goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals are met as goals, steps, and coping strategies are summarized. A next-step plan is in place, and the client has strategies to overcome barriers. The client is prepared to monitor progress and has support for future challenges.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do yall cope with summer break depression/loneliness?\nI just finished with my first year of college and it was amazing. I lived on campus so I went out a bunch and made new friends and passed all my classes. But I'm back home and home is where I'm lonely af because I don't have many friends here and I can't drive so I can't go out anywhere by myself. \n\nThe good thing is that one of the friends I made only lives 10 minutes away and we're planning on hanging out every so often and I'm part of a club that meets to do stuff every Wednesday evening on campus (same friend is also part of it and will drive me there) but still. I'm not sure why I'm feeling depressed and lonely despite this but how do y'all cope with it especially since summer break is so long.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

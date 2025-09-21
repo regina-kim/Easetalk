@@ -1,0 +1,167 @@
+{
+  "id": "zjjg83",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brought you in today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling stuck trying to figure out what major to pick. I've been in the same cooking gig for years, and I'm ready for a change, but I'm not sure what path to take in school.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can feel overwhelming, especially when you're considering a change from something you've been doing for a while. You might be feeling a bit uncertain because it's a big decision. What interests or passions have you thought about exploring further?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I love making music and I'm really into personal finance stuff. But I'm not sure how to turn those into a reliable career, you know? I'm also kinda interested in the behavioral health field, but it's all just ideas right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's great that you have a variety of interests—music, personal finance, and behavioral health all offer unique opportunities. It seems like you're weighing these options to see which might fit best with what you envision for your future. How do you feel about each of these areas when you think about what you'd enjoy doing long-term?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, I think I'd enjoy doing something that connects music with finance somehow, like maybe in a management role. Behavioral health sounds fulfilling, but I just haven't delved deep enough into it to know if it's my thing long-term. I want something that feels right and isn't just another job.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly shared their story, including thoughts, feelings, and relevant context. They have expressed uncertainties, interests, and a desire for a career change while indicating potential goals. Empathy and rapport also appear established. This suggests readiness to explore motivation and change further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your desire to find a career that feels right and meaningful is so important. Considering a blend where you can connect music and finance, perhaps in a management role, sounds intriguing. What aspects of music and finance excite you the most, and how do you envision these contributing to your sense of fulfillment in a future career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "When it comes to music, I love the creativity and expression, and with finance, I enjoy the strategy and problem-solving aspects. I guess finding a way to manage or oversee projects in the music industry where I can use financial skills would be ideal. It would be amazing to do something where I can be both creative and analytical.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Blending creativity and strategy does sound like a fulfilling path. It sounds as though managing projects in the music industry could offer that balance of creativity and analytical work you're looking for. On a scale of 0 to 10, how confident do you feel about pursuing this direction, and what might help increase your confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 or 7 right now. I feel like I have the drive, but I'm not sure about the steps I need to take. I think doing more research on potential roles or even talking to people in the industry could help boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring potential roles and connecting with industry professionals sounds like a great way to increase your confidence. Your drive is an important asset on this journey. What small step could you take next to start gathering more information or making those connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe I could start by looking into online forums or networking groups for people in the music business. It might also be helpful to reach out to anyone I know who's connected to the industry and ask if they're willing to chat about their experiences. Just getting some insights from people already in the field could really help me map out a clearer path.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified a specific change goal, which is to explore roles blending music and finance. Confidence is at 6-7, indicating a moderate level of readiness. The client has also identified next steps like researching roles and networking. These signals suggest readiness to move to the Choosing phase for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching out and gathering insights from those already in the field sounds like a proactive approach. To support this, you might consider setting a goal to connect with a certain number of industry professionals each week. Based on what you've shared, possible steps could include joining a music industry networking group or arranging informational interviews with contacts. What would be a realistic goal for you to aim for in the next week or two, and how might you handle any barriers that come up, like nerves or scheduling conflicts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Connecting with at least three people in the industry over the next two weeks seems realistic. I could start by joining a networking group and reaching out to mutual connections for a chat. If nerves or scheduling conflicts arise, I’ll remind myself that these conversations are just to learn and not about immediate decisions, and I can always reschedule if needed. Small steps, right?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Taking small steps is a great strategy, and it's wonderful to hear you have a clear plan to connect with at least three people. Since you've outlined joining a networking group and reaching out to connections, these actions can keep you moving forward. What method would you like to use to track your progress and ensure you follow through with these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think I'll keep a simple journal or use a note-taking app on my phone to track who I reach out to and what I learn from each conversation. It’ll be a good way to keep myself accountable and also note any helpful advice or contacts that might come up. Plus, it can help me reflect on whether I'm moving closer to where I want to be.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Maintaining a journal or using a note-taking app is an excellent way to track your progress and reflect on your journey. By documenting your insights and connections, you'll have a valuable resource to look back on. How do you feel about setting up a regular time to review your notes and reflect on any patterns or new goals that emerge?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Setting up a regular time to review my notes sounds like a good idea. I think having a weekly check-in with myself would help me stay on track and see if I'm making progress or if I need to adjust my approach. Plus, it would be a nice opportunity to celebrate any small wins or new connections I make.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to connect with industry professionals and a concrete action plan to use a journal for self-monitoring. They have also discussed potential barriers and strategies to overcome them, like handling nerves. The client is committed to taking steps and has shown confidence in their ability to manage the process.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "A weekly check-in sounds like a fantastic way to stay organized and celebrate your progress, no matter how small. By reflecting on your notes regularly, you'll be able to see how far you've come and identify any adjustments needed. It's wonderful to hear your commitment to this journey, and those small wins will surely build your confidence as you move forward. Remember, you're taking important steps towards a fulfilling career that blends your passions in music and finance. Feel free to reach out if you need support or want to share your successes along the way. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the encouragement. I'll definitely keep you posted on how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan and coping strategies to pursue a career in the music industry, aligning with the termination goals. They have set a weekly check-in to track progress, meeting the termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: help me pick major?\nA bit about me. When I was 18 i took a dishwashing job at a local nursing home. It was my first job. I ended up becoming a cook and have bounced around from cook job to higher paying cook job. It's all ive ever done. Im decent at it. Ive learned and covered alot of kitchen management aspects along the way as well. It's been 10 years now. I dont love it, but it really feels like my only applicable skill.\n\n\nI have dabbled in college courses along the way but i always get swallowed into the fast cash of overtime at a new higher paying job. So ive never truly commited. Now, i feel like its either sht or get off the pot and im not sure what i should truly pursue a degree in.\n\n\nI spend all of my free time making music, its a huge passion and hoby for me that has landed me a few really nice paychecks but betting everything on that would be insane. other than that i spend my time reading self help books and learning different aspects of finance.  \n\n\nMy gf has asked me to join her in the medical field but it doesnt peak any interest. My buddy has always told me i'd be great at what he does in the behavioral health field and that does sound super interesting and purposeful to me but i havent done enough of it to know.\n\n\nI feel like im looking for something that could umbrella a career and all of my interests. Like, maybe a degree that would require me to learn skills that can be applied to music and personal finance like some type of management or accounting thing. Even then, ive never really met an accountant that made enough money to just be an accountant. \n\n\nDoes anyone have any pointers?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

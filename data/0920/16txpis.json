@@ -1,0 +1,167 @@
+{
+  "id": "16txpis",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty stressed out. I've got a lot of worries about my student loans and whether I'll be able to manage everything after graduation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Managing student loans can feel overwhelming, especially as you approach graduation. What aspects of these worries are weighing on you the most right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I guess it's mostly about finding a job in time and the pressure of having to start paying back my loans soon after. Plus, I'm not sure how easy it will be to handle everything if I move to a new state.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Navigating the pressure of finding a job and thinking about moving can indeed be challenging. It seems like you’re concerned about securing employment quickly and adjusting to possible changes in location. How do you feel about the prospects of finding a job, and what are your thoughts on relocating?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I feel a bit unsure about the job hunt. It seems like there's potential in the new state, but I haven't started looking yet. Moving feels exciting but also daunting; it’s such a big step.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive account of their concerns regarding student loans, job prospects, and relocation challenges. The therapist has successfully elicited the client's thoughts and feelings, and established a good rapport, creating a mutual understanding of the client's current situation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Moving to a new state does sound like an exciting yet daunting adventure. What would life look like for you if things went smoothly with your job search and relocation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If everything went perfectly, I'd find a job related to my degree that pays enough to start handling my loans and living expenses. I'd settle in and maybe even start making friends in a new place. It sounds ideal, but it also feels like a lot to hope for.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining that ideal scenario where you find a suitable job and settle comfortably sounds encouraging. What do you think might be the first small steps you could take to move closer to this vision, even if it feels like a lot to hope for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by researching potential job openings in the new state and maybe look into networking opportunities. Updating my resume and LinkedIn might be a good idea too. It’s a bit overwhelming, but starting small seems like the way to go.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Breaking it down into research, networking, and updating your resume sounds like a solid approach to easing the overwhelm. What would it mean for you to take these initial steps towards your ideal future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Taking those steps would probably make me feel a bit more in control of my situation. It might reduce some of the anxiety I’m feeling about the unknowns. Even just seeing some potential job options could be reassuring.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's ideal outcome, potential steps for job searching, and the impact of taking those steps. Change Talk is present, as the client identifies actionable steps like researching job openings and updating their resume. Ambivalence has decreased with a focus on feeling more in control. The client exhibits readiness by desiring reduced anxiety and reassurance, indicating readiness to advance to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking those steps to regain control and reduce anxiety is important. Would you like to create a plan together to start researching jobs, networking, and updating your resume? We can also think about potential challenges and ways to handle them along the way. How does that sound?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think having a plan would really help. It sounds like a good way to tackle things one step at a time, and having some guidance on potential hurdles would be great. Let's do it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a step-by-step plan can definitely help in managing everything more smoothly. Since you're thinking about researching job openings, networking, and updating your resume, how about we set a goal for each? Possible options could be dedicating a specific time each week to job search, listing networking events, or setting a deadline to complete your resume update. What do you think about these steps, and are there any barriers you foresee that we should address?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Those steps sound really practical, and I think having set times for job searching would help me stay consistent. Maybe I could aim to update my resume by the end of next week. As for barriers, I sometimes procrastinate when I'm overwhelmed, so figuring out how to stay motivated might be necessary.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Procrastination can indeed be a common barrier, especially when feeling overwhelmed. How about we incorporate short, manageable tasks into your schedule, along with breaks to help maintain motivation? We could also explore setting reminders or using a reward system to celebrate small victories. What are your thoughts on these strategies, and would they fit into your approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of breaking tasks into smaller, manageable parts and giving myself breaks. It feels less intimidating that way. Setting reminders could help too, and having little rewards might make it feel more rewarding. I think this approach could work for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan, including job search, networking, and resume updates, with deadlines and times set for each. They have discussed barriers like procrastination and agreed on strategies like breaking tasks into smaller parts, setting reminders, and using a reward system. The client expresses commitment and confidence in implementing these strategies.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It sounds like you've got a thoughtful plan forming, which is wonderful. Breaking tasks down, taking breaks, and celebrating small successes can definitely make the process feel more approachable. You've identified some great strategies that align with your needs. As we wrap up today, let's focus on these key goals: researching job openings, updating your resume by the end of next week, and exploring networking opportunities. Remember, it's all about small, consistent steps. I'm confident you can handle this, and I'm here to support you along the way. Taking these steps is a big move towards your ideal future, and your commitment is inspiring. We can check in on your progress in our next session. Take care.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and guidance. I'll start implementing these steps and see how it goes. I'll definitely keep you updated in our next session. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully summarized goals and steps, such as job research, resume updates, and networking. Coping strategies like breaking tasks and setting reminders were discussed. A clear next-step plan was established, meeting termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Graduating soon and worried about repaying loans. Any advice?\nI am absolutely terrified to graduate simply because of only having six months to find a job and establish myself before starting repayment. I know federal loans can be based on income, but I also have a huge private loan because of an error with my university’s financial aid office ($30k). I’m going to be graduating with a not so useful environmental biology/zoology degree. The reason why I felt secure in this degree is because I absolutely do plan to go for my Master’s, but I’d really like to take a yearlong break. On top of this, I plan to move out of state (permanently) to attend school for my Master’s since there’s a ton of universities in the state with great programs, and also because this state has way more job opportunities for my degree. A ton more than my home state. \n\nI’m in my early 20s and I feel like I should have learned how to be an adult by now but I feel everything I’m talking about and my expectations for my future may be immature and naive. Reality is probably going to hit me like a truck.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

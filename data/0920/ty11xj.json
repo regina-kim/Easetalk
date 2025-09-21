@@ -1,0 +1,167 @@
+{
+  "id": "ty11xj",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? If there's something on your mind, I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm feeling a bit overwhelmed right now, actually. Everything just seems to be piling up, and I'm not sure how to handle it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're dealing with a lot at once, which can really feel heavy. What's been contributing to this sense of being overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just the combination of school, work, and trying to find time for myself. It's like I'm constantly running out of time and falling behind on stuff.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing school, work, and personal time can definitely be challenging, and it's understandable to feel pressured by it all. What does a typical day look like for you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Well, I usually have classes in the morning, then I head to work in the afternoon, and by the time I get home, it's already pretty late. I try to squeeze in some study time, but it's hard to focus.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and the specific stressors contributing to this, such as school, work, and lack of personal time. There's a clear understanding and empathy established, and the conversation has touched on the client's daily routine and challenges.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like your schedule is packed from morning to night, leaving you with little time to recharge. If things were different and you had more time, what would you ideally like to do for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I'd love to have more time to just relax or maybe pick up a hobby like painting or something. I just want some space to breathe without worrying about a deadline.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding time to relax or explore a hobby like painting sounds like a meaningful way to recharge. Considering your current situation, what small changes do you think could help create a bit of that breathing room?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe I could try to set specific times for studying, like a structured schedule, so that I know when I'm done for the day. Also, I might need to be better about saying no to extra work hours when I really need time for myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating a structured schedule and setting boundaries with work hours could truly offer you that breathing space you're seeking. How confident do you feel on a scale from 0 to 10 about implementing these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think I'm at about a 6 or 7. It feels like it could be manageable, but I'm a bit worried I might slip back into old habits if things get hectic again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying small changes such as creating a structured schedule and setting boundaries. They've indicated a confidence level of 6-7, showing readiness to attempt these changes. Discrepancies between current behavior and desired life have been explored. Given this progress and the client's motivation, it is appropriate to advance to the Choosing phase to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Given your thoughts, it seems like you're open to creating a more balanced schedule, and you're aware of the potential hurdles. What would you say to setting a goal of establishing that structured study time first, and perhaps setting a boundary or two around work hours? Based on what you shared, options might include scheduling specific study blocks or politely declining extra work shifts when you feel overwhelmed. How do you feel about starting with one of these steps, and what might be a helpful reminder for you to stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with structured study blocks sounds like a solid first step. As for reminders, maybe setting alarms on my phone could help keep me accountable. It might also be good to remind myself that saying no sometimes is okay and necessary for my well-being.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Building structured study blocks seems like a great start, and using phone alarms can be a practical way to maintain accountability. Would you like to set a goal for how many study blocks you aim to complete this week? Additionally, incorporating positive affirmations could reinforce your mindset that it's okay to say no for your well-being. How do you feel about selecting an affirmation that resonates with you for those moments?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds good. Maybe I could aim for three focused study blocks this week to start with. For affirmations, something like \"It's okay to prioritize my needs\" might help remind me that it's alright to say no when I need a break.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Setting a goal of three focused study blocks this week sounds like a manageable start. \"It's okay to prioritize my needs\" is a powerful affirmation to keep you grounded. How would you like to monitor your progress this week, and is there anything else that might support you in staying committed to these changes?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I might jot down notes in a planner or use a habit-tracking app to keep track of my study blocks. Checking things off gives me a sense of accomplishment. I think having a friend or family member check in with me could also help keep me accountable, just to see how I'm doing with sticking to my plans.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan for creating structured study blocks and using reminders. Barriers like slipping into old habits are acknowledged, and strategies like using a planner and support from friends are in place. The client expresses confidence, a sense of accomplishment from tracking progress, and commitment to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Using a planner or a habit-tracking app to note your progress, along with having someone check in, sounds like a solid strategy for maintaining accountability. It seems like you are setting yourself up for success by combining these supportive tools and the affirmation \"It's okay to prioritize my needs.\" Remember, taking time for yourself is an important step towards your well-being. As you move forward, your next step could be to identify a friend or family member who can check in with you. Just know that you’re making thoughtful decisions to carve out time for yourself, and that's truly commendable. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the encouragement. I'll definitely think about who could help keep me accountable and give this plan a shot. Here's hoping it makes a difference!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered goals and coping strategies with a plan for study scheduling and accountability. The client expressed readiness to implement these changes. It is a natural point to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Motivation and anxiety\nHi y'all! I'm new to this app so sorry for any mistakes!\n\nI have recently started my second year of college and I'm feeling very anxious atm. \n\nI'm a full time student and I also work and try to exercise at least a couple of times a week but i just feel like there isn't enough hours in a day.\n\nI feel like I'm already behind on all my assignments and that makes me very stressed and anxious.\n\nDoes anyone have any tips? whether they are for anxiety/stress management or simply how to organize myself better.\n\nThanks!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

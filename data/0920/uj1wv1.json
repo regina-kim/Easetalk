@@ -1,0 +1,188 @@
+{
+  "id": "uj1wv1",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, I guess. I've just been feeling overwhelmed with school and all the pressure to keep my grades up. It's been tough to manage everything with how I've been feeling mentally.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're juggling a lot right now, and it's taking a toll on you. What specifically has been making school and the pressure feel overwhelming?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's just the constant deadlines and the fear of falling behind. Plus, I feel like I'm always comparing myself to other students who seem to have it all together, and that just adds to the pressure.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Comparing yourself to others can really add to the stress, especially when you're already dealing with tight deadlines. You're feeling this way because there's that fear of falling behind and not meeting expectations. What have you noticed about how these feelings impact your day-to-day life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's like this constant cloud hanging over me. Some days I can barely motivate myself to get out of bed or focus on assignments, and it’s like I'm always tired even when I’ve done nothing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shared their struggles with school pressure, comparison with others, and how these feelings impact their daily life. The therapist has shown empathy and understanding, building rapport. However, there hasn't been a clear articulation of mutually agreed goals or an exploration of broader context necessary for moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You're experiencing a really heavy burden that's affecting your energy and motivation, making everyday tasks feel overwhelming. How do you usually handle days like these when it feels difficult to get out of bed or focus?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "On days like those, I try to push through and at least get a small thing done, like reading a few pages or attending class. But a lot of times, I end up just procrastinating and then feeling guilty about it later.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their challenges regarding school pressures, mental health impact, and fears about future goals. Empathy and rapport are established, with detailed context about their struggles. Mutually agreed goals are emerging related to managing school with mental health issues.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling guilty can make it harder to feel motivated. When you manage to push through, even in small ways, what do you notice about how you feel afterwards?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): When I actually manage to get something done, even if it's small, I feel a little relief and maybe a bit of pride, like I proved to myself I could do it. But then it's like I forget that feeling quickly and go back to stressing over everything else.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "It's interesting how accomplishing even small tasks can bring some relief and a sense of pride. What do you think might help you hold onto that feeling of accomplishment a little longer, even in the midst of stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Maybe trying to remind myself of those little wins more often, or keeping a journal of things I've accomplished might help. I'm not sure, but it could be a way to see progress even when everything feels overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Celebrating small wins sounds like a wonderful idea to acknowledge your progress and boost your motivation. How do you think keeping a journal of your achievements might change your perspective on your daily challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having a record of those small achievements could help me see that I'm actually doing more than I give myself credit for. It might make the challenges feel a bit less daunting if I can look back and see that I've managed to get through tough spots before.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific strategy—keeping a journal of achievements—to help manage stress, showing readiness for action planning. There's evident Change Talk around recognizing personal accomplishments, and the discrepancy between current struggles and long-term goals like med school has been explored. Confidence seems to have increased as the client considers practical steps to maintain motivation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That sounds like a meaningful strategy, recognizing your progress could definitely shift your perspective on daily challenges. Considering what you've shared, options could include setting aside a few minutes daily to jot down your accomplishments or perhaps setting weekly reflections on what went well. Which of these approaches do you think might work best for you, or is there another idea you’d like to explore?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "I think setting aside a few minutes daily to jot down my accomplishments could work well for me. It seems like it would be a good habit to get into, and maybe it’d help to have a little routine focused on the positives. I’m open to other ideas too, but this seems like a good starting point.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Creating a daily habit of noting your accomplishments sounds like a promising plan to focus on the positives. How might you structure this time to make it part of your routine, and what potential barriers do you think you could face in sticking with it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "I could try setting aside five minutes at the end of the day, maybe right before bed, to write down what I accomplished. That way, it becomes a calming part of my nighttime routine. I guess the biggest barrier would be forgetting to do it or feeling too tired, but maybe setting a reminder on my phone could help with that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Incorporating this into your nighttime routine seems like a soothing way to reflect on your achievements. Having a phone reminder is a practical idea to help maintain consistency even on tiring days. How would you like to monitor your progress with this new routine, and what might help in adjusting it if necessary?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I think maybe checking in with myself weekly could be helpful, like seeing if it’s actually making a difference in how I feel about my progress. If I notice it’s not helping or I’m struggling to keep up with it, I could try tweaking the routine or finding a different way to track my accomplishments. Maybe talking it over with you could help me figure out adjustments if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of incorporating a nightly reflection on daily accomplishments into their routine. They've identified potential barriers and agreed on self-monitoring strategies. They've demonstrated commitment to the plan and readiness to adjust it if needed. This indicates readiness to advance as they've shown confidence in their ability to maintain this new habit.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful plan. Checking in with yourself weekly to see how this routine is impacting your perspective is a great way to ensure it’s working for you. Being open to tweaking the routine if it’s not as effective as you hoped shows a lot of insight. If you find you'd like some support or fresh ideas, we can definitely explore adjustments together. You've got a solid strategy here, and I believe you'll navigate any hurdles effectively. As a next step, let's aim to touch base on how your new habit is progressing when we meet again. Keep acknowledging those wins, no matter how small they seem. You're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll definitely try to stick with it and see how it goes. I'll let you know how it’s working out next time we talk.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded naturally with a plan for a new routine, a weekly self-check-in, and future follow-ups for further adjustments, indicating readiness to end the session effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you get through college while dealing with mental illness?\nJust looking for advice/tips/anything. \nI been struggling with depression and stuff since high school, and now since starting college I’ve had pretty bad anxiety, too. I also just have a couple other issues. \n\nIt all really gets in the way of doing good in school, even though I’m on meds and found a therapist, I’m just constantly struggling. \n\nI want to go to med school so bad but I genuinely think I won’t be able to because it’s so hard for me to keep my grades up and do even decent in all my classes. I hate the thought of having to give up my dream because of this.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "wz6u72",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been thinking a lot about going back to school to become a physio. I'm just not sure if it's the right move, especially since I'm starting a bit later and the idea of student debt is really stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You're contemplating returning to school for physiotherapy, but starting later and the potential student debt feel overwhelming. What's drawing you to this potential career path, and how do you feel about these concerns?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think the idea of helping people recover and improve their lives is super rewarding. But then, I'm also worried about the long time commitment and the financial burden it'll put on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The thought of aiding others in their recovery sounds deeply fulfilling to you, yet the commitment of time and finances is weighing heavily on your mind. What do you feel is most important to consider as you weigh these options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess it's about balancing passion with practicality. I want to make sure I'm making a decision that's not just emotionally driven but also makes sense for my future stability.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts on pursuing physiotherapy, the rewarding aspect of helping others, and concerns about student debt and time commitment. They've also talked about balancing passion with practicality. The essence of their story and feelings have been explored, and rapport seems established.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing passion with practicality is a thoughtful approach. How do you envision your life if you choose to pursue this path, and how might it differ if you decide not to?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I go for it, I imagine doing something I love, but possibly being weighed down by debt for a long time. If I don't, I might settle for a job that's less fulfilling, but at least I'd be more financially stable. It's tough to see which outweighs the other right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Choosing between following your passion and ensuring financial stability seems like a complex decision. What aspects of your future life feel most aligned with your core values and long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I really value making a positive impact and feeling accomplished in my work. But I also want stability, where I don't have to stress about money all the time. Trying to figure out which of those is more important to me is the hard part.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Making a positive impact and feeling accomplished in your work, while also wanting financial stability, are both important to you. On a scale from 0 to 10, how confident do you feel about finding a path that honors both of these values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think I'm around a 5 right now. It feels like a toss-up because I can see potential for both, but I'm not quite sure how to get there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both Change Talk and Sustain Talk, showing ambivalence. While they have explored their values and future with and without the change, their confidence remains low (5), indicating uncertainty. No specific change goal or next step has been identified. Thus, further guidance is needed to strengthen motivation and clarify goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Being at a 5 shows that you're open to finding a balance, which is a great start. What might help you feel more confident about moving towards a decision that respects both your desire for impact and financial stability?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): Maybe talking to people who've been through it or getting advice from someone in the field could help. I think hearing real experiences about balancing the debt and the work satisfaction might give me a better perspective.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified a potential next step by considering talking to others for advice. However, their confidence is at 5, indicating ambivalence remains. They need further exploration of specific goals and support strategies before advancing to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Hearing real experiences sounds like a valuable way to gain perspective. Engaging with others who have faced similar choices might illuminate paths you hadn't considered. What other sources of support or information might help you feel more assured about your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Researching online and maybe attending some career fairs could give me more insight into the field. Also, talking to a financial advisor to really understand the debt implications might be useful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still expressing ambivalence (conflict between passion and financial stability) and reports confidence at a 5 out of 10. While they've identified useful steps like talking to others in the field and a financial advisor, there's no specific change goal or increased confidence. The guiding phase should continue to further explore ambivalence and strengthen confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Exploring different sources like career fairs and seeking advice from a financial advisor sounds like a proactive approach to gather more insights. As you look into these options, how do you imagine they might influence your confidence in making a decision that aligns with your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think they could definitely help clarify things, maybe tipping the scale one way or the other. Just having concrete information and advice could make me feel more secure in whichever choice I lean towards.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering actions such as talking to people, researching, and consulting a financial advisor. However, the confidence level remains at 5, indicating ambivalence. The client needs further exploration to increase confidence and decrease ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gathering concrete information and advice seems like it could really solidify your confidence in making a decision. It's encouraging to see you taking these steps to align your choices with your values. What small steps do you think you could take next to start this exploration?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I could start by reaching out to a couple of universities for information on their physio programs and maybe set up a meeting with a financial advisor. Also, joining some online forums or groups for current students in the field could be useful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows Change Talk and a specific next step by planning to reach out to universities and financial advisors. Confidence is at a 5, indicating openness but not yet strong confidence. More exploration is needed as ambivalence remains about the debt's worth and alternative paths.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out to universities and connecting with a financial advisor, along with joining online forums, sounds like a strong plan to move forward. These steps could really help you gather the insights you need. How do you feel about taking these initial steps towards aligning your career path with your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I feel a bit more hopeful about it now. Just knowing there are tangible steps I can take makes it seem less overwhelming. I'm still a bit nervous about what I'll find out, but I guess it's all part of the process.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific next steps like contacting universities and a financial advisor. Although confidence is at 5, they are hopeful about taking action. There is a discrepancy between their current situation and values, with less ambivalence. It seems appropriate to move towards Choosing to develop an action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Feeling more hopeful is a wonderful sign that you're moving in the right direction. Taking these tangible steps can indeed make the journey feel less daunting. Based on what you've mentioned, would you like to set a specific goal for when you'd like to have these initial steps underway? We could also discuss any potential challenges you might anticipate as you begin this process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(guiding): client(reflecting): Yeah, setting a goal could be helpful. Maybe aiming to have contacted at least two universities and one financial advisor by the end of the month? As for challenges, I guess finding time between work and other commitments might be tricky, but I'll have to find a way to manage that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Setting a goal to contact two universities and a financial advisor by the end of the month sounds like a solid and attainable plan. Balancing your time with work and commitments can indeed be a challenge. Perhaps breaking your tasks into smaller, manageable steps could help. Would you like to brainstorm some strategies to overcome this time management barrier and keep yourself on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, I think that would be helpful. Maybe setting aside a specific time each week to focus on these tasks could work, like a couple of hours on the weekend. And maybe using a planner or an app to keep track of what I need to do might help me stay organized.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Having a dedicated time each week and using a planner or an app to stay organized are excellent strategies for managing your time effectively. It's great to hear you're thinking about practical solutions. Would you like to explore a few options for planners or apps that might suit your needs, or perhaps discuss other time management techniques that might support you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): Exploring some planner or app options could be useful for sure. I'm not super familiar with what's out there, so any recommendations would be nice. Also, if you have any other tips on how to manage time better, I'd definitely be open to hearing them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal and an action plan with timelines to contact universities and a financial advisor. Barriers like time management have been discussed, and strategies are being formulated. The client shows commitment by planning to use a planner or app for organizing tasks. Confidence is building, but exploring planner options and more time management techniques indicates further support is needed to strengthen these plans.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Finding the right planner or app can make a big difference in staying organized. There are options like Google Calendar for scheduling or apps like Trello and Todoist for task management. They can help you keep track of your goals and deadlines. In terms of time management, perhaps setting reminders for specific tasks or using techniques like the Pomodoro technique, where you work in focused bursts, could be beneficial. How do these ideas resonate with you, and is there any particular tool or technique you'd like to explore first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(reflecting): Those sound like good options. I've heard of Google Calendar, but I'm not too familiar with Trello or Todoist, so maybe I should check those out first. The Pomodoro technique sounds interesting too, breaking things into chunks might actually help me focus better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan involving contacting universities and financial advisors. Barriers like time management have been discussed, and strategies such as using planners or apps have been agreed upon. The client is actively considering tools and techniques to facilitate change, showing commitment and confidence.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Trello and Todoist are both fantastic for keeping track of tasks, and they might offer the flexibility you need to organize your time more effectively. It's wonderful to see you open to trying out the Pomodoro technique—it can really help sustain focus and productivity. As you move forward with these tools, remember it’s all about finding what works best for you. Maybe start by exploring Trello and Todoist this week and give the Pomodoro technique a try during your dedicated weekend hours. You've got a solid plan and tools to support your journey, and I'm confident that you'll find a rhythm that works for you. Keep embracing each step with curiosity and patience.",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, I appreciate the suggestions. I'll definitely explore Trello and Todoist, and give the Pomodoro technique a shot this weekend. It feels good to have a game plan, and I'll try to stay open to what works best.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has successfully summarized goals, provided strategies, and created a next-step plan. The client feels hopeful and has actionable steps, indicating readiness to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How useful is it to study to be a physio for 8 years from age of 26?\nIt's something I'm keen to do but I feel the student debt may not be worth it. \n\nProbably should've started when I was 18",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

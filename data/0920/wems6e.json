@@ -1,0 +1,272 @@
+{
+  "id": "wems6e",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling pretty anxious about my living situation for this upcoming school year. I'm worried about how well I'll get along with my roommates.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be challenging to have those concerns about your living situation and roommates. What are some of the specific things that are making you feel anxious about it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, it's mostly about not knowing what to expect and if our personalities will clash. I've had bad experiences with similar personalities in the past, and I'm worried it might happen again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to feel anxious when faced with uncertainty and past experiences. You're worried about potential personality clashes with your roommates because of what you've gone through before. Could you tell me more about those past experiences and how they affected you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I guess it's mostly from high school. I often felt like I was on the outside looking in, and the more outgoing, popular kids weren't always the nicest. It just left me a bit wary of those types.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concern, past experiences, and feelings about the current situation, allowing for an understanding of the context and emotional impact. Rapport has been established, and the mutual goal of addressing anxiety about the living situation is clear. The conversation has reached a point where it could benefit from guiding towards exploring motivations and potential solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like those high school experiences left a lasting impact, making you cautious about similar personalities now. Considering your upcoming living situation, what would it be like if things went well and you got along with your roommates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess it would be a huge relief. If we got along, it could make my first year away from home so much more enjoyable and maybe even help me feel more comfortable and confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Building strong relationships with your roommates could indeed make a significant difference in your overall experience and help you feel more at ease. On a scale of 0 to 10, how confident do you feel about the possibility of creating a positive living environment with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 5? I’m hopeful but still pretty unsure. There’s always a chance we could all click, but I just can’t shake off the nerves about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Being at a 5 shows that you're open to the possibility of things going well, which is a positive start. What might help increase your confidence by even one point?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I could get to know them a bit more before moving in, like through a group chat or something, it might ease my nerves. Just having some positive interactions could make me feel a bit better about the situation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to increase confidence by interacting with roommates beforehand, indicating Change Talk. However, confidence is at a 5, showing ambivalence. They are still unsure about how to proceed with the room change decision. Further exploration of feelings, values, and potential actions is needed to solidify confidence and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Connecting with your future roommates beforehand sounds like a solid way to ease some of your anxiety. Starting a group chat might lead to those positive interactions you're hoping for. How would you feel about taking that step and reaching out to them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think it could be a good idea. It might feel a little awkward at first, but if it helps me feel more comfortable, it'd be worth a try. Plus, it'll give me a better sense of what they're like.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some openness to positive change through potential actions like starting a group chat, indicating some Change Talk. Confidence is moderate at 5, but there's no specific change goal or decreased ambivalence as sustain talk remains. The client is still considering a room change, reflecting unresolved ambivalence. Further exploration is needed to solidify their motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Taking that step to reach out could be really beneficial in getting a sense of their personalities and establishing some comfort before moving in. What values or qualities are important to you in forming these new connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I really value honesty and respect. I just want to feel like we can communicate openly and respect each other's space and boundaries. Having a bit of mutual understanding and consideration would be great.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still expressing ambivalence about the upcoming roommate situation and is only moderately confident about the ability to create a positive environment. While there is an identified next step, the confidence level is not yet high enough, and the client continues to express significant anxiety about potential outcomes. Thus, it would be beneficial to continue guiding to further explore these feelings and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Honesty and respect are indeed fundamental for any healthy relationship. Emphasizing these values could set a strong foundation for mutual understanding with your roommates. How do you think these qualities could influence your experience living together if everyone prioritizes them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): If everyone values honesty and respect, it could make things a lot smoother. We could address issues directly without letting things fester, and it'd be easier to feel comfortable and at home in the space if we all respect each other's boundaries.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of starting a group chat with roommates to ease anxiety. The confidence level is currently at 5, indicating openness to change but still some uncertainty. The client has shown understanding of the importance of honesty and respect, but hasn't fully resolved ambivalence about the living situation. Further exploration could strengthen motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Maintaining a space where honesty and respect are prioritized could definitely lead to a more harmonious and supportive living environment. It's encouraging to envision a scenario where you feel comfortable addressing issues as they arise. What small steps could you take to foster this kind of environment from the start?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I guess starting off with a conversation about what we all expect from living together might be a good step. Maybe discussing some basic ground rules and getting to know each other's routines or preferences could help set the tone for a respectful environment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in discussions about values and potential actions, such as starting a group chat and setting ground rules, and has shown some openness to change with a confidence rating of 5. However, confidence is below 6, and ambivalence remains regarding the decision to request a room change. It would be beneficial to further explore strategies to boost confidence and address lingering concerns.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Starting with a conversation about expectations and routines sounds like a proactive way to build a respectful living environment. It could help everyone feel understood and valued from the beginning. How confident do you feel about initiating this conversation with your roommates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I feel a bit nervous about it, but also see how it could be really helpful. I think if I approach it openly and honestly, it could set a good tone for our time living together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed willingness to take steps to ease her concerns about her future roommates by initiating communication and setting expectations. She values honesty and respect and sees their importance in creating a positive living environment. The client has specific steps in mind and feels a cautious optimism about initiating these conversations. Her confidence seems to have increased, and she has developed a specific plan to improve her situation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Initiating the conversation openly and honestly could indeed set a positive tone. How about setting a goal to start this discussion within the first week of moving in? You could also prepare by jotting down key points you want to address. What do you think might help you feel more confident in having this conversation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): Setting a goal to have that conversation in the first week sounds like a good idea. I think preparing some talking points ahead of time would definitely help me feel more confident. Maybe even rehearsing how I might bring up certain topics could make me feel a bit more prepared.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Preparing talking points and rehearsing can certainly boost your confidence when it's time to have the conversation. Based on our discussion, would you like to create a list of key topics such as routines, boundaries, and ground rules? We could also talk about how you prefer to bring these topics up. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): That sounds really helpful. I think having a list would keep me focused and make sure I don't forget anything important. And yeah, talking about how to bring up these topics would be great too, so I can approach it in a way that feels natural and non-confrontational.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Creating a focused list can definitely help you cover all important points and feel more at ease during the conversation. Perhaps we can brainstorm together how you might naturally introduce these topics, keeping it light and open. What are some ways you think you could gently bring up routines or boundaries with your roommates?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by casually asking about their daily routines or habits during a relaxed moment, like when we're all hanging out in the common area or during a meal. That way, it feels more like a conversation than a formal meeting, and I could naturally bring up my own preferences and boundaries too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to initiate a conversation about living arrangements and has prepared a concrete action plan, including setting a timeline, drafting talking points, and considering ways to introduce topics naturally. The client has discussed potential barriers, such as confidence, and agreed on strategies to overcome them. The client shows commitment and confidence, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Approaching the conversation during a relaxed moment sounds like a great idea. It keeps things friendly and informal, which can make everyone feel more comfortable. As you prepare, consider using affirmations like, \"I really appreciate how we're all making this work together,\" to set a positive tone. You're taking meaningful steps toward creating a respectful living space, and that's commendable. Before we wrap up, remember that you have the tools to foster open communication, and practicing them will help you feel even more confident. Let's check in next time to see how things are progressing. You're doing a wonderful job!",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(reflecting): Thanks, I appreciate that. I'll definitely try to work on staying positive and open. I'll let you know how it goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has created a plan to address living concerns and is prepared with strategies to promote a respectful environment. A follow-up is planned to check progress, and the client expressed confidence moving forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I try to request a room change?\nSo, I’m moving out in 10 days. I’m staying at an off campus apartment because all the dorms at my college are on a waitlist. I got randomly paired with 3 girls, 1 I talked to before and 2 more that I didn’t. I’m not so concerned about the one I touched base with before as I am about the 2 others. This one girl especially just doesn’t seem like the kind of person I’d get along with at all - I know I shouldn’t be making assumptions but based off what she told me and looking at her instagram she seems like an extroverted popular party girl type. Not to trauma dump but most of the people who bullied me in the past have been those kinds of people. The other one I still am unsure about but I literally know nothing about her, she might very well be the same kind of person. I really don’t know if I’m going to be comfortable in this kind of situation. I know it’s kind of unfair for me to judge these people without having even met them but I have a bad gut feeling and I’m really anxious. I don’t want my first year away from home to be a living hell because I’m not able to get along with these people. I know I could try to set boundaries but who’s to say they’ll listen? \n\nAnyways, Im thinking about calling the rental office and asking for a room change but I’m unsure. I don’t know if it’s worth it because what if I end up in an even worse situation or I somehow lose my placement? I really want to go with my gut here but I just don’t know. Plus it may be difficult with this being a private housing complex and not a dorm.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

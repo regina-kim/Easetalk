@@ -1,0 +1,251 @@
+{
+  "id": "yrzyye",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've been feeling pretty overwhelmed trying to pick a grad school. It's like a battle in my head, and I just want to make the right choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a grad school sounds like a big decision and it's understandable to feel overwhelmed. You might feel this way because it's important to you to make the best choice for your future. What are some of the considerations that are making this decision feel like a battle?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's definitely a huge decision. I guess it's the financial aspect, like the housing and tuition costs, plus healthcare. And then there's also the social side, like wanting to have friends around.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing financial concerns and social environment can feel like a lot to weigh when choosing a grad school. It seems you're striving for a place that fits both your financial needs and your desire for a supportive community. Can you share more about how each aspect influences your thoughts on this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Well, financially, I'm worried about going into debt, especially because none of the schools are offering assistance right now. But I also want to be somewhere I can make friends and not feel lonely. It's tough to figure out what's more important or if there's a way to balance both.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly shared the essence of their concerns, thoughts, and feelings regarding choosing a graduate school. They discussed financial and social aspects, as well as specific details about each school. The therapist has demonstrated empathy and rapport. The stage seems set to move to guiding to further explore motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding the right balance between financial stability and social support sounds challenging. If you imagine your life at a school with a strong community but higher costs, how does that compare to a more affordable option with fewer social connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, it's like a trade-off. On one hand, having a solid group of friends around could help with the stress and make everything more enjoyable. But then there's the weight of debt hanging over my head if I choose the pricier option, which is super stressful too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Those are significant factors to consider. When you picture yourself in each scenario, what stands out as aligning more closely with how you envision your future? How might each option support or challenge your long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "When I picture myself at a place with friends, it feels comforting and more exciting, but the stress of debt looms large. The cheaper option might mean peace of mind financially, but I worry about feeling isolated. I guess I'm trying to see which scenario helps me grow more, both personally and professionally, without overwhelming me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Both scenarios present unique opportunities and challenges for your growth. Reflecting on what's most important to you—whether it's community or financial peace—can provide clarity. On a scale from 0 to 10, how confident do you feel about navigating these choices and moving toward what aligns with your future vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Right now, I'd say I'm at about a 4 or 5. I'm trying to weigh everything and find that balance, but it's not easy. I think once I figure out what I truly prioritize, I might feel more certain.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored the discrepancies between financial and social considerations and reflected on how each option aligns with their values and goals. Change Talk is present, but confidence is low at 4-5. There is no specific change goal or clear readiness to move to Choosing. Continue to strengthen motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring your priorities further can really help in gaining clarity. It's great that you're recognizing what's important to you. If you think about what you need most right now, what comes to mind that might increase your confidence level from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I think having more information might help, like getting a better idea of potential job opportunities or funding options at each school. Maybe talking to current students or alumni could give me some real insights into what life is like there. And just taking some time to sit with my thoughts without all the pressure would probably help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still experiencing significant ambivalence and has not identified a specific change goal or next step. Confidence remains low, at a 4 or 5, indicating uncertainty. The client has not yet resolved the discrepancy between financial stability and social support, and more exploration of priorities and additional information is needed to strengthen confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gathering more information and allowing yourself time to reflect can definitely enhance your confidence. It's encouraging to see how you're thinking about reaching out to others and exploring opportunities. As you imagine taking these steps, what positive outcomes do you foresee that might bring you closer to your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think talking to current students or alumni could give me a more realistic view of what to expect, which might ease some of my worries. If I find out there's good support or unexpected funding opportunities, that'd definitely sway my decision. And just having a bit of clarity on what life might be like could help me feel more at peace with whichever choice I make.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has not expressed a confidence level of 6 or higher and remains ambivalent, with the need for more information evident. They exhibit readiness for change but have not set a clear change goal or next step yet, indicating they might benefit from further exploration of their priorities.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "therapist(guiding): It sounds like connecting with others and gathering helpful insights could really guide you. Seeing the potential for unexpected support or resources is reassuring. As you consider these possibilities, what steps do you feel ready to take that might solidify your path forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think I’m ready to reach out to some current students or alumni from each school to get their perspectives. I'll also look into more specific job opportunities or funding options I might have missed before. And I need to carve out some quiet time to really sit with everything, maybe even make a pro-con list to see it all laid out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential next steps to gather more information and reduce stress, yet remains uncertain about their priorities and lacks strong confidence. Change Talk is present, but confidence is still at a moderate level, indicating further exploration and clarity are needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out and investigating further is a proactive approach that can bring clarity. It's wonderful that you're considering different avenues to gather the insights you need. As you prepare to take these steps, how does imagining this process impact your confidence level moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): Imagining actually taking these steps makes me feel a bit more in control, like I'm not just stuck in this limbo. I think it bumps my confidence up to around a 6 or 7 because at least I'm doing something concrete to help make my decision clearer. It feels good to have a plan.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to advance their decision-making process, including seeking insights from students and exploring job and funding opportunities. They expressed increased confidence, reaching a level of 6 or 7. Although ambivalence remains, their motivation to take action and the clarity of potential next steps indicate readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Imagining these actionable steps definitely boosts your confidence, and it's inspiring to see you taking charge of your decision-making process. As you plan to reach out to students and explore job opportunities, what might be your first step, and how can you set yourself up for success in moving forward with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(deciding): I think my first step will be reaching out to some alumni or current students through LinkedIn or any school forums I can find. I'll draft a message asking for their insights and experiences. To set myself up for success, I'll make a list of specific questions I want to ask, so I can get the most useful information. I'll also set aside time this weekend to really focus on this, without distractions.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Creating a focused plan with specific questions and a dedicated time is an excellent way to set yourself up for success. Your proactive approach to reaching out and gathering insights is truly commendable. As you think about drafting your questions and setting time aside, what potential challenges might you encounter, and how do you plan to navigate through those?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "I might face some challenges in actually getting responses from people, especially if they're busy or not active on LinkedIn or the forums. To navigate this, I'll try to reach out to multiple people to increase my chances of getting a reply. If I don't hear back, I could also consider attending any virtual info sessions or open house events that the schools might offer.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Having a backup plan with virtual info sessions or open house events is a smart way to handle potential non-responsiveness. It shows your adaptability and determination. As you prepare to contact these individuals and explore other avenues, how will you monitor your progress and ensure you stay on track with your plans?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(choosing): I'll keep a checklist of people I've contacted and note down any replies I get, so I can keep track of the conversations I'm having. I'll also set reminders to follow up if I haven't heard back after a week or so. For the virtual events, I'll make sure to register early and put them on my calendar, so I don't forget. Doing all this should help me stay organized and make sure I'm moving forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan to gather more information, identified potential barriers, and created strategies to address them. They have expressed confidence and a commitment to taking specific steps. The conversation suggests readiness to move forward with their plan, reflecting progress towards decision-making.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Your plan to keep a checklist and set reminders is a great strategy to stay organized and ensure steady progress. The foresight to register early for virtual events and mark them on your calendar shows your commitment to gathering the information you need. As you embark on this journey, remember to be patient with yourself and acknowledge every step you take. It's all part of your growth. I'm here to support you as you move forward, and I'm confident that your proactive efforts will yield valuable insights and bring clarity to your decision-making process. Keep moving at your pace, and let's touch base soon to see how things are unfolding.",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and confidence in me. I'll keep you updated on how it goes and reach out if I need more guidance. Looking forward to sharing some progress next time we meet!",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a structured plan to gather insights, identified challenges, and devised coping strategies. The client feels more confident and prepared with actionable steps, indicating readiness to move forward with decision-making.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can someone help me chose a grad school, the deadline for one of them is tomorrow\nI’ve been fighting demons these past night trying to come to a decision. I got into these three schools for a masters in mechanical engineering with thesis option. None are offering any money or assistance, this makes sense though since  I’m coming into a spring semester. I would need to take out loans my first semester regardless of where I go and get a part time job. All locations have accommodations for a hobby I have but I would like a friend to be able to hang out with, I’m too lonely in undergrad lol.\n\nOptions and some notes: \nUniversity of Florida- cheapest housing and some good possible opportunities for funding later down the line. Also has grad housing which is even cheaper if I manage to get one of those. I also have a chance at maybe getting a teaching position in the chem department as I teach chem at my current undergrad. Has cool labs and research in my concentration of controls and robotics.\n\nUniversity of central Florida- good school and a lot of jobs around the area that have benefits. I have a friend there so I’ll have someone to hangout with for about two semesters before they graduate. Cheapest tuition, housing can be as expensive as Manhattan although there can be plenty of options found.\n\nCity college of New York- very good school but they said they do not have a track record of offering assistantships for masters but almost all masters students come out nearly debt free. I’ll be able to live by my Aunty, which covers housing and food, on Long Island but the commute will be very long(~2.5 hour train ride or 1-1.5 hour drive during morning rush). I feel like the commute after working might take too much time from working on my thesis but I don’t really know how much time grad students actually have and I’m sure I’d adapt to it though. There are a lot of part time jobs in New York and CCNY federal work studies( I know other schools offer that as well).\n\nHealthcare is also very very important since I have recently been diagnosed with a few illnesses and need insurance to afford the medicine. This makes getting a job with benefits important if I stay in Florida whereas New York i can apply for Medicaid.\n\nI don’t know which one to choose, I like them all and each have their own cons. I also self toured all schools but it was kind of rushed since my parents was rushing to leave. \n\nI did apply to some scholarships and fellowships but they are for fall 23 school year. I would appreciate anyone’s help, I know it’s last minute but I just can’t make a set decision.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

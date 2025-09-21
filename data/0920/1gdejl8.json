@@ -1,0 +1,167 @@
+{
+  "id": "1gdejl8",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty frustrated, honestly. I've just been thinking a lot about whether I'm making the right choice with my current university situation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing the right path can feel overwhelming at times. Could you share a bit more about what's been causing this frustration for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's just that I feel like I'm not really learning much from my classes, and the commute feels like such a waste of time. I keep questioning if sticking around is worth it, especially when I’m not paying tuition but still not satisfied.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're caught between appreciating the financial aspect and feeling unfulfilled academically. What has your experience been like with your classes and commute so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Yeah, exactly. The classes just seem lacking, and the commute is tiring for what I get out of them. I feel like I could be learning more efficiently on my own.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story about the university situation, expressing clear thoughts and emotions. The context, including financial concerns and academic dissatisfaction, has been well-explored. Empathy and rapport have been established, and mutual understanding of the client's goals is evident.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your desire for a more fulfilling learning experience really shines through. What do you imagine could change if you were learning in a way that feels right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I were learning in a way that felt right for me, I think I'd actually be excited about what I'm studying. I'd probably be more motivated and have a clearer idea of where I'm headed in my career, instead of just going through the motions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That's a powerful vision of feeling excited and motivated about your studies. On a scale of 0 to 10, how confident do you feel about making changes to reach that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, maybe around a 5 or 6. I know change is possible, but I'm also worried about the risks, especially financially, if I make a wrong move.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your awareness of the risks and your confidence level shows you're really weighing your options carefully. What aspects of this change do you feel most sure about, and what keeps you hesitant?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I feel pretty sure that I want to learn in a way that actually makes me excited and prepares me for my career. But I'm hesitant because I don't want to end up in debt or regret leaving a situation where I'm not paying tuition, even if it's not ideal.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has a vision of a more fulfilling learning experience. They have a confidence level of 5-6 and have identified both motivations and hesitations regarding their situation. A specific change goal is emerging, indicating readiness to move to the Choosing phase to develop a concrete plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your careful consideration here is admirable. You're committed to a fulfilling learning path, yet you're mindful of the financial implications. Based on our conversation, potential steps could be exploring online courses or speaking to an advisor about different programs. How do these options resonate with you, and can you think of any other approaches?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Those options do seem like they could work. Online courses might give me the flexibility and depth I'm looking for, and talking to an advisor could open up some new possibilities I haven't thought of yet. I might also consider reaching out to people in the field to get their insights on how they made it work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring these options sounds promising and aligns with your goals. To create a clear action plan, how about setting a goal to research online course providers and schedule a meeting with an advisor? Additionally, reaching out to professionals in the field could give you valuable insights. What steps do you think you could take first, and how might you handle any challenges that come up along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think starting with researching online course providers is a good first step, just to see what's out there and what might fit with my schedule. I'll also look into setting up a meeting with an advisor at my uni to discuss my concerns and see if there are other programs or opportunities available. As for reaching out to professionals, maybe I can start by networking on LinkedIn or joining some forums. The main challenge will probably be balancing all this with my current classes, but maybe I can dedicate specific times each week to focus on these tasks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan and a thoughtful approach to balancing your current situation with exploring new opportunities. Setting specific times each week for research and networking might really help maintain that balance. How would you like to monitor your progress on these steps, and is there anything specific you might need to stay motivated?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think keeping a checklist or journal of my progress could work, just to track what I've done and what's next. As for staying motivated, maybe reminding myself of why I'm doing this and the potential it has to improve my situation could help. Also, sharing updates with a friend could keep me accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan by deciding to research online courses, talk to an advisor, and network with professionals. The client has also identified the main challenge and is ready to start self-monitoring progress through a checklist or journal. The commitment and confidence in taking these steps suggest readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a checklist or journal is a great way to stay organized and see how far you've come. It’s clear you’re really committed to making this change. Reminding yourself of your ‘why’ and keeping a friend in the loop for accountability can certainly boost your motivation. You've got a lot of thoughtful strategies in place. As you proceed, remember that every small step is progress. I’m here to support you as you move forward. Would you like to set a time to check in on how things are going?",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Yeah, setting a time to check in sounds good. Maybe in a couple of weeks? It'll give me some time to get started on this plan.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear plan, coping strategies, and a follow-up check-in time, which meets termination goals. They've identified steps to address their educational concerns and strategies for motivation and progress tracking.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Am i wasting my time in the uni im in right now? or is normal?\nI feel like im wasting my time every and each time i go to class, but attendance is mandatory..\n\nAll of our teacher are horrible and yes, i mean it.\n\n\ni feel like i should spend that time studying at home rather than wasting 1 hour going to and back from college (=2 hours) and as a matter of fact we don't even take that much in there\ni only have 4 classes, 1 class is in flipped classroom mode, 1 online class and 2 classes on campus\n\nand im studying software engineer\n\n\ni only go to this uni because i don't have to pay anything, even though universities in my country are not THAT expensive, but im already dealing with alot of financial problems\n\nand i don't want to stress about paying for college too\n\n\nbut i can't help but feel like im gaining nothing, one part of me is like, let's just study by myself, get that degree and see what im going to do later.\n\nbut i hate this uni\ni've been here for 1 years now, and i hated every moment i spent in there\n\nbut i really want to study in a college, get a degree and start working as a programmer.\n\n\nshould i just finish this year, and try moving to another uni? or stick to my free tuition?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

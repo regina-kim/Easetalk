@@ -1,0 +1,230 @@
+{
+  "id": "yobrpa",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? If you'd like, you can share a bit about what's on your mind or anything you'd like to explore together.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just a little worried about my college classes. I had to drop a couple of them, and I'm not sure if that's gonna be a big problem down the line.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're concerned about how dropping those classes might affect your future. What led you to make the decision to drop them?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, it was mainly because juggling work and school got overwhelming. I just couldn’t keep up with everything, and something had to give, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like you were trying to manage a lot at once, and it became too much to handle. You might feel relieved about making that decision, but there's also some worry about its impact. Would you like to talk more about how you're balancing work and school right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, I guess it was a bit of a relief to drop them, but I can't help worrying about what it means for the future. I’m working on finding a better balance, but it's not easy trying to get everything right.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about withdrawing from classes due to work and time management pressures. The therapist has shown empathy and understanding, building rapport by acknowledging the client's feelings and situation. However, the client's exploration of their concerns is ongoing, and goals have not yet been mutually agreed upon.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a tough spot to be in, balancing work and school can really be challenging. You're putting effort into finding a balance, which is commendable. Can you share more about what's been working for you so far, or any strategies you're thinking about trying?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I've started using a planner to help keep track of assignments and work shifts, which sort of helps. I'm also thinking about talking to my employer about reducing hours or finding some flexibility, but I'm nervous about that conversation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including thoughts, feelings, and context about juggling work and school. The therapist has shown empathy and established rapport. They have discussed concerns and efforts towards balancing these responsibilities, indicating mutually agreed goals. It's appropriate to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Reaching out for flexibility at work shows your determination to find a balance that works for you. It takes courage to consider having that conversation. On a scale from 0 to 10, how confident do you feel about discussing your schedule with your employer?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Probably like a 5? I'm halfway there because I know it's something I need to do, but I'm anxious about how they'll react and if it'll affect my job.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Facing that conversation is a brave step, and recognizing the need for it is important. At a 5, you're acknowledging both the necessity and the anxiety. What might help you move that confidence number closer to a 6 or 7?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Maybe practicing what I want to say could help, or even talking it through with someone first. Just having a clearer idea of what to ask for might make me feel a bit more prepared.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Preparing in advance is a great strategy. Practicing what you want to say could boost your confidence. Who do you think might be a good person to discuss this with, or how could you go about practicing this conversation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I could probably talk to a friend about it, someone who's good at this kind of stuff. Maybe we can role-play the conversation or something—that might take the edge off a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a potential strategy to improve their situation and is considering practicing a conversation with a friend. Confidence is at a 5, and they have not yet set a specific change goal. Confidence needs to reach around a 6 for readiness. Ambivalence still exists around the employer conversation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Talking it through with a friend sounds like a helpful approach. Role-playing can definitely ease some of your anxieties and help you feel more prepared. How do you think this practice might change your perspective on the upcoming conversation with your employer?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think it could make me feel a bit more comfortable and less nervous. If I can get some feedback or see how it might play out, I might not be as worried about how they'll respond.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific next step of role-playing a conversation with a friend to prepare for discussing schedule flexibility with their employer. Change Talk is evident, and confidence could improve with practice, indicating readiness to proceed with planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "It sounds like practicing with a friend and getting feedback could really help in easing your anxiety about the conversation. Moving forward, would setting up a time with your friend to practice be a good next step? We can also think about any other strategies you might want to include or potential barriers that could pop up during this process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting up a time with my friend sounds like a solid plan. I guess I'll also try to think about what I might do if my boss isn't as flexible as I hope. That way, I’m not caught off guard.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Having a backup plan is a wise approach. It shows you're preparing thoroughly and that can boost your confidence even more. In addition to setting up a time with your friend, some possible options include jotting down key points you want to discuss or considering alternatives you might propose to your boss. What other strategies do you think could support you in this situation, and how would you like to monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): Jotting down key points is a great idea, so I don't forget anything important in the moment. I might also write out a few scenarios of how the conversation could go, just to be ready for different outcomes. I can check in with myself after each step to see if I'm feeling more confident.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "therapist(choosing): That sounds like a thoughtful and well-rounded plan. Writing out key points and possible scenarios is a proactive way to prepare for various outcomes. Checking in with yourself along the way will help you track your confidence and adapt if needed. As you move forward, how can I best support you in reaching this goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Just having someone to talk to about it helps a lot, honestly. Maybe we could check in after I've had a chance to practice with my friend, just to see where I'm at and if there's anything else I need to work on.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving role-playing with a friend, jotting down key points, and preparing for different outcomes. They are also committed to self-monitoring their confidence. Remaining in the Choosing phase will help reinforce these strategies and address any additional barriers before advancing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Scheduling a check-in sounds like a valuable way to support your progress. I'm here to listen and help you reflect on how things are going. After you practice with your friend, we can discuss how you're feeling and explore any additional strategies if needed. How does that plan sound to you, and when might you like to set up our next conversation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "That plan sounds good to me! I think catching up after I've had some time to practice would be really helpful. Maybe we could set up a time for next week, just to give me a bit of space to work on it and see how it goes?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with strategies to address potential barriers, such as practicing with a friend and preparing key points and scenarios. They've shown a commitment to the plan and agreed to self-monitor progress by checking in with themselves and having a subsequent session scheduled. The elements necessary to move to the Terminating phase are present.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Finding a time to catch up next week sounds like a thoughtful plan to give you the space to practice and reflect. It's great that you're taking these steps to ensure you're well-prepared. As you work with your friend, remember you're not alone in this journey—we'll touch base next week to see how you're feeling and discuss any further support you might need. You're doing an amazing job preparing for this conversation. Looking forward to catching up then. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support and encouragement. I'll reach out if anything comes up before our next session. See you next week!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes effectively with a summary of goals and steps, future strategies planned, and a follow-up check-in scheduled. The client feels supported and prepared, indicating readiness for the next stages.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How many W's did you have in college?\nThis is my first semester in college and I had to withdraw from 2 classes because of some circumstances involving my job and time management. I don't want to do it again and I just wanted to know if it's a bad thing and if you guys had a similar experience before? And how many W's is too many??",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

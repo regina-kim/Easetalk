@@ -1,0 +1,209 @@
+{
+  "id": "wodio4",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really down about my college situation. I transferred my Associate's degree, but my new school barely took any of my credits. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really frustrating and disappointing. What was it like for you to find out that your credits weren't accepted?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It was such a letdown. I put in all that hard work, thinking it would count, but now it feels like I’m practically starting over.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must feel discouraging to see your efforts not being recognized in the way you hoped. How has this impacted your outlook on continuing your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, it's made me question if it's even worth it to keep going. I just feel stuck and unsure if I want to deal with this kind of setback.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and feelings about their current college situation. The therapist has shown empathy and understanding, and the client has expressed their doubts and feelings of being stuck, indicating a clear understanding of their thoughts and emotions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're at a crossroads, trying to decide if continuing is the right path for you. What do you think life would look like if you moved forward with your studies despite this setback?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess if I push through, I might eventually get my bachelor's, but right now, it's hard to imagine that. It just seems like such a long road, and I'm not sure if I have the energy for it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Picturing that end goal, however distant it seems, can feel overwhelming. What might it mean for your future if you did manage to complete your bachelor’s degree?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I suppose having a bachelor's could open up more opportunities for me, like better job prospects and maybe even a career I'm passionate about. But it feels so far away right now, and I'm just not sure if I have the motivation to go through all of this again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Reaching for those better opportunities can feel daunting when the journey seems so long. How important is having those opportunities to you and your overall life goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): They're definitely important—I want to have a stable career and do something I enjoy. It's just tough to see how I'll get there when I feel like I'm starting from scratch.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear concern about the transfer of credits affecting their motivation to continue studies. Discrepancy between their desire for a stable career and the setback is evident. While the client has acknowledged the value of obtaining a bachelor's degree, their confidence and motivation remain low, with no specific change goal set. Ambivalence persists as they feel stuck.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "The feeling of starting over can be daunting when your goals seem so distant. How might achieving a stable and enjoyable career align with your values and long-term aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I really value stability and doing work that feels meaningful to me, and having a career like that would be amazing. It’s just that thinking about all the steps to get there, especially after this setback, feels overwhelming right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed an understanding of the benefits of completing their bachelor's degree and its alignment with their values. Change Talk is present, but there's still significant ambivalence and a lack of a specific change plan. Confidence and motivation remain low. Continued exploration and strengthening of motivation are needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "The journey to a meaningful career aligning with your values can indeed feel overwhelming, especially after setbacks. What small steps might make that path feel more manageable while still moving towards those important goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by focusing on one class at a time, instead of the whole degree. I guess breaking it down into smaller pieces might make it feel less daunting and help me see some progress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of focusing on one class at a time to manage the overwhelming feeling of pursuing a bachelor's degree. This indicates increased motivation and a specific plan to move forward, meeting the readiness signals for advancing to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Focusing on one class at a time sounds like a practical way to make progress feel more manageable. What concrete steps could you take to get started with this approach? For instance, would setting specific goals for each class or scheduling dedicated study time help?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): I think setting specific goals for each class could definitely help, like aiming for certain grades or mastering specific skills. Having a dedicated study schedule might also keep me on track, so I don't feel like I'm drowning in everything at once.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Setting specific goals and a study schedule are great strategies. How would you like to structure your study time, and what kind of goals would feel both challenging and achievable for you? We can also talk about any potential barriers you foresee and how you might address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "I think I’d like to set aside a couple of hours each day, maybe focusing more on weekends when I have more time. For goals, maybe aiming for an A in one class and a B in another could be a start. As for barriers, I sometimes get distracted or just lose motivation, so figuring out how to stay focused would be important.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Having a couple of hours set aside each day, with more focus on weekends, seems like a balanced plan. Aiming for an A in one class and a B in another sounds both challenging and achievable. What strategies might you consider to handle distractions and keep your motivation up when it dips? We could explore options like study groups, setting up a designated study space, or using reminders to stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having a designated study space could really help me get into the right mindset. Maybe I could also try using a planner or some kind of app to keep track of assignments and deadlines. Joining a study group might keep me motivated too, since I'd have others to discuss things with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan with specific goals and strategies, including scheduling study time and addressing potential distractions. They have shown commitment through planning and problem-solving. While some barriers like motivation are acknowledged, strategies such as creating a study space and using organizational tools are proposed to overcome them, signaling readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Designating a study space, using a planner or app for organization, and joining a study group are excellent strategies to enhance focus and motivation. It’s wonderful to see you considering these practical steps. As you implement these, remember it’s okay to adjust your approach as needed. You’re taking significant strides towards your goals already. Let’s plan to check in on how these strategies are working for you. Keep me posted on your progress, and I’m here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate all the support and suggestions. I'll definitely try out these strategies and let you know how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined specific strategies and a plan to manage their study routine, addressing primary concerns. Closure is implied with the invitation for follow-up, indicating readiness for session conclusion.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Transfered my Associates degree\nAnyone else transfer an Associates only to have the next school nitpick what credits they would take? Im feeling extremely discouraged that only 27 credits were accepted. Honestly don’t even want to bother starting my bachelors anymore",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

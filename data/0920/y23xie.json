@@ -1,0 +1,188 @@
+{
+  "id": "y23xie",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "How can I support you today? Feel free to share what's been on your mind lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've been feeling really overwhelmed with my grad program, especially with one of the subjects that I just can't seem to grasp. It's been stressful, and I'm worried about how I'll get through the rest of the semesters.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing a grad program can certainly be overwhelming, especially when facing challenging subjects. You feel stressed because it's important to succeed in your courses and maintain progress. How has this subject impacted your daily routine or mindset?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's like all I can think about, and I keep going over the material but feel like I'm getting nowhere. It's affecting my confidence, and I'm constantly worried I'm falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be tough to feel stuck despite putting in so much effort. The constant worry about falling behind seems to be weighing on your confidence quite a bit. How has this worry been influencing your feelings about yourself and your abilities in other areas of life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It's been making me doubt myself a lot, like I'm not cut out for this or any other challenge that comes my way. I start second-guessing my decisions and feel less motivated even with things outside of school.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been thoroughly explored, including the impact of their struggles on their confidence and daily life. Rapport and empathy have been established, and the client’s primary concerns and feelings have been clearly expressed. It seems that all exploring goals have been met, and the conversation can advance to the Guiding phase to focus on motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Doubting yourself can be really disheartening, especially when it starts affecting other areas of your life. You're clearly dedicated, given all the effort you're putting in. What are some things that have brought you confidence or joy in the past, either in school or outside of it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I used to feel really confident when I worked on projects that I was passionate about, like coding personal projects or learning something new on my own. I also used to enjoy playing sports and hanging out with friends; it helped me feel more balanced and relaxed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Recalling those activities that bring you joy and confidence can be really empowering. Engaging in coding projects or spending time with friends might help rekindle those positive feelings. On a scale of 0 to 10, how confident do you feel about finding time to incorporate these activities back into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe like a 5? I know I should make time for things that make me happy, but it's hard to not feel guilty or distracted when I'm struggling so much with school.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable to feel a bit torn when juggling responsibilities and personal happiness. A 5 shows you have some belief in your ability to create space for these activities, even amidst challenges. What small steps might you take to gently increase that confidence, perhaps by finding a balance that allows for both school and personal joy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I could try setting aside a specific time each week to work on a fun project or meet up with friends, even if it's just for a short while. Maybe starting small will make it easier to manage without feeling too guilty about schoolwork.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged a discrepancy between their values and current behavior, demonstrated awareness of the impact of both change and lack of change, and expressed some confidence in making shifts. There's one specific small step identified to boost confidence and incorporate positive activities. However, the client’s confidence level at 5 might indicate residual ambivalence, suggesting continued exploration could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Starting small is a great strategy to ease back into activities that bring you joy. Setting aside short, specific times can help you find that balance you're seeking. How do you envision this change impacting your overall stress levels and mindset moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having something to look forward to each week could make a big difference. It might help me feel more balanced and less overwhelmed, and maybe even improve my focus when I'm studying, knowing I have time set for myself too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown signs of readiness to advance. They've identified a specific change goal, expressed confidence in taking small steps to reincorporate activities that bring joy, and discussed the potential positive impact on stress and mindset. Change Talk is present, with decreased ambivalence, as they consider how balancing responsibilities can improve well-being.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Looking forward to enjoyable activities each week could definitely bring some balance into your life. Let's explore how you might set a goal around this. Based on what you said, possible options include scheduling a weekly coding session or a regular hangout with friends. What kind of plan would feel achievable for you right now, and how do you think we can monitor your progress with this new routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think scheduling a weekly coding session seems doable, maybe on a weekend when I have a bit more flexibility. I can start with just an hour or two to see how it goes. As for monitoring, I could keep a journal to jot down how I feel before and after these sessions, and see if there's any change in my stress levels or mood over time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Scheduling a weekly coding session on the weekend sounds like a thoughtful approach to balancing your responsibilities and personal joy. Keeping a journal to track your feelings is a great way to monitor the impact of these sessions. What are some potential challenges you might face in sticking to this routine, and how could you address them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I might have a hard time sticking to the routine if I get overwhelmed with schoolwork or if plans with friends pop up unexpectedly. To address that, I could try to be flexible and maybe reschedule the session to another time that week if I can't make it work on the weekend.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Being flexible with your schedule to accommodate unexpected changes shows a proactive approach to maintaining this balance. It's great to have a plan for rescheduling if needed. How do you feel about sharing your goals or progress with someone supportive, like a friend or family member, to help stay accountable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I like that idea. Sharing my goals with a friend might help keep me motivated and accountable. Plus, having someone to chat with about my progress or struggles could be really encouraging.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and a specific action plan of scheduling a weekly coding session with a self-monitoring strategy through journaling. They have discussed potential barriers and solutions, showing readiness by expressing motivation and a strategy for accountability with a friend.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That's a wonderful step forward. Involving a friend can certainly offer that extra layer of support and motivation. As you move forward, remember that prioritizing your well-being is just as important as your academic responsibilities. You're taking positive steps toward finding that balance. Keep journaling your experiences, and don't hesitate to reach out to your support network when you need it. I'm here to support you too, and we'll check in on your progress in our next session. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks so much. I really appreciate your support and all the suggestions. I'll definitely give this a try and let you know how it goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals and strategies, and a next-step plan was discussed. The client has a clear plan to balance school and personal joy with support strategies in place.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I get through grad school?\nPretty sure there are several posts similar to mine, but I don't know who to ask for advice. I naively joined a master's program in computer science this September, simply because I felt like my undergraduate degree taught me nothing and i want to learn the concepts in a better institution. One month in and I am barely holding back my tears. I know it wasn't going to be easy but I took a subject called mathematical foundations, and I am absolutely unable to comprehend it. The other 2 subjects i took are definitely hard but i feel like with an extreme amount of effort, i can do my best and learn well. But with math foundations, i don't know what to do. I don't know how the rest of my classmates feel about the subject, but i do know that one friend is finding it quite easy. I have spent several hours going through the basics of linear algebra and it still doesn't change the fact that i am not able to comprehend the subject. I'm not saying I've given up, but i want to ask if this is a natural feeling that some of you all may have felt for some subjects. How did you get through this, and 4 semesters of this? Can you provide some tips on how to manage the semester, especially if you've considered yourself an average/below average student?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

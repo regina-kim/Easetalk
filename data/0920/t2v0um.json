@@ -1,0 +1,188 @@
+{
+  "id": "t2v0um",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to meet you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Thanks for meeting with me. I've just been feeling really stuck with my studies, like I'm putting in the effort but not getting much out of it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds frustrating to feel like your hard work isn't paying off. Could you share more about what's been happening with your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's like I'll sit down to study and spend hours on it, but when I look back, I've barely retained anything. It's super discouraging, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Feeling discouraged after putting in so much time and not seeing the results you hoped for must be tough. What do you think might be affecting your ability to retain the information?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm not entirely sure. I mean, I've tried different study methods, but nothing seems to stick. Maybe it's just stress or burnout or something?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern and relevant context, including feelings of discouragement and potential causes like stress or burnout. Rapport is evident, and the therapist has shown empathy. However, mutually agreed goals have not yet clearly emerged, suggesting the Exploring phase goals are not fully met.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you've really been experimenting with different approaches, yet the results are still elusive, which could be adding to your stress. Could you tell me more about what your study routine looks like and how you're feeling during those times?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Well, usually I try to set aside a few hours a day for studying, but I often find myself distracted or zoning out. My mind feels kind of foggy, and I end up feeling more exhausted than accomplished by the end of it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including thoughts on studying and feelings of discouragement and stress. The context of trying different study methods and feeling mentally foggy is understood. Empathy and rapport are established, and the client has shared details about their routine and feelings, aligning with the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you're really pushing yourself, yet finding it difficult to stay focused and energized. What do you imagine it would be like if you were able to study effectively and feel more accomplished?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I think it would feel really rewarding and like a weight's been lifted off my shoulders. It would be nice to see my efforts actually pay off and not feel so drained all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Imagining that sense of accomplishment and relief sounds incredibly motivating. What do you think might be the first small step towards making that vision of effective studying a reality?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by breaking my study sessions into shorter chunks with breaks in between. That seems more manageable and might help keep my focus sharper instead of trying to power through long sessions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Therapist(guiding): That's a thoughtful approach, considering shorter study sessions with breaks. How confident do you feel, on a scale from 0 to 10, about giving this new method a try and potentially seeing some positive changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I'm feeling around a 7, I guess. It seems doable, and I'm hopeful it might make a difference, but I'm also a bit nervous about whether it'll actually work or not.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk and identified a specific change goal (shorter study sessions with breaks). Confidence is at a 7, indicating readiness to experiment with this approach. The discrepancy between current and desired study outcomes has been explored, showing readiness to develop an action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your willingness to try something new is a great step forward. As you think about incorporating shorter study sessions with breaks, what specific goal would you like to set for the next week? For example, studying for 25 minutes with a 5-minute break. Also, what might be some challenges you foresee, and how could we plan for those?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think I can aim for studying in 25-minute blocks followed by 5-minute breaks, like you mentioned. A challenge might be staying disciplined with the timing, especially during busy days. Maybe I could use a timer or an app to keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Having a clear plan with 25-minute study blocks and 5-minute breaks sounds promising. Using a timer or an app could indeed support your discipline. Would you like to explore which apps or timers might work best for you? Also, how would you like to track your progress and see if this new routine is helping you feel less drained and more accomplished?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think checking out some apps would be a good idea—I’ve heard of a few like Pomodoro timers. For tracking progress, maybe I could jot down quick notes about how I’m feeling after each study session and see if there’s any improvement over time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Exploring Pomodoro timers sounds like a useful starting point, and your idea to jot down notes about how you feel after each session is great for monitoring your progress. As you move forward, what specific criteria will you use to determine if this approach is effective for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I'll probably look at whether I feel more focused and less drained after studying. If I start seeing better retention of the material and feel a bit more accomplished, that would be a good sign that it's working.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal with a concrete action plan involving 25-minute study blocks and 5-minute breaks. Potential barriers such as discipline with timing have been discussed, with strategies like using a timer. The client has agreed to self-monitor through apps and journaling feelings post-study. The client shows readiness with commitment to the plan and confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Feeling more focused and less drained, along with improved retention and a sense of accomplishment, are excellent indicators of progress. It's encouraging that you're setting these thoughtful criteria to guide your journey. As you work with the Pomodoro technique and track your feelings, it's important to be patient with yourself and note the small changes. You've got a solid plan, and your openness to trying new strategies is commendable. Over the next week, give yourself credit for every effort you make, and remember, I'm here to support you through any challenges that arise. Keep building on what works, and we'll connect again soon to see how everything's unfolding.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll give it my best shot and see how it goes. Looking forward to catching up next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed the client's concern by establishing a specific study plan, coping strategies, and tracking methods, with a future follow-up. Termination goals are met, and closure was naturally reached.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Hitting a wall in my studies\nThis semester has been hard on me. I keep hitting a wall in my studies, I keep forcing myself to study but it's not really helping if Im only absorbing just a small amount of knowledge from hours of studying. Have u guys been in these situation? And if u have been in this situation how do u get out of it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

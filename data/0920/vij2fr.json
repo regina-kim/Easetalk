@@ -1,0 +1,272 @@
+{
+  "id": "vij2fr",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just feeling a bit torn about college stuff. Been thinking a lot about whether I should stick with Texas A&M or switch to UTD because of some financial worries.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing between colleges can be really challenging, especially with financial concerns weighing on your mind. What are some of the factors that are making you feel torn between Texas A&M and UTD?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, it's mainly the financial part that’s stressing me out. Even though tuition’s covered, living costs at TAMU seem like they might be a bit much, and it’s just causing me some anxiety.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing financial aspects with your college choice can certainly bring about anxiety. What other things are important to you in this decision, beyond the financial side?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I guess the convenience of being closer to home with UTD is a big thing, even though the commute isn't ideal. Also, I've already started settling things for TAMU, so switching feels like it might be a hassle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about choosing between Texas A&M and UTD, highlighting financial worries and commuting issues, while the therapist has expressed empathy and sought deeper understanding of the client's priorities. A mutual understanding of the situation and goals for the decision-making process appear to be established.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the convenience and financial aspects against the effort you've already put into TAMU. How does each option align with your long-term goals and what you value most in your college experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "For my long-term goals, both schools offer what I need academically for the pre-med track. I guess I value having a smooth, stress-free experience, which makes UTD appealing despite the commute. But I also like the idea of being on my own at TAMU and experiencing that independence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You're considering how each option fits with your hopes for a stress-free college life, balanced with the appeal of independence. On a scale of 0 to 10, how confident do you feel about making this decision, and what might help increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Right now, I'd say I'm at about a 5. I think having a clearer picture of the day-to-day life at both schools might help, like understanding the commute better or knowing more about living costs at TAMU.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring the day-to-day life at both schools seems like a step that could boost your confidence. What aspects of daily life are most important for you to know more about, and how might you gather that information?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I really want to know more about the commute to UTD and how it might affect my schedule and energy. Also, understanding the exact costs of living at TAMU, like groceries and utilities, would be helpful. I might try reaching out to current students or checking online forums for insights.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some change talk by expressing concerns and values, but their confidence is at 5, indicating uncertainty. The focus is on gathering more information to make an informed decision, with no specific change goal or next step identified yet, and ambivalence remains. Guiding should continue to solidify motivation and confidence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Connecting with others who have firsthand experience can provide valuable insights. Reaching out to current students or joining online forums sounds like a practical approach to gather the details you need. How do you envision using this information to make a decision that aligns with your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I'm hoping that by getting this information, I can weigh the pros and cons more clearly and feel more certain about which option will give me the best balance of stress and independence. I want to choose the path that supports my goals without overwhelming me financially or mentally.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering how gathering more information could aid in decision-making. However, ambivalence and confidence at a level of 5 indicate a need for further exploration. The client has not yet articulated a specific change goal or step, suggesting the guiding phase should continue to support clarity and confidence building.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gathering that information seems like a great way to clarify the pros and cons of each choice. As you think about balancing stress and independence, how do you see these factors influencing your overall college experience and your journey toward your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think balancing stress and independence will play a huge role in shaping my college life. If I can manage stress well, I’ll be able to focus better on my studies and enjoy the social aspects too. Independence is important for my personal growth, but I don’t want it to come at the cost of constantly worrying about finances.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence and explored discrepancies between options. Change Talk is present, with a desire for a balance between stress management and independence. However, the client’s confidence remains at 5, indicating the need for further guidance to solidify a specific change goal and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Finding that balance between stress management and independence seems crucial for a fulfilling college experience. What steps do you think you could take to ensure financial worries don't overshadow your personal growth and academic focus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I could start by setting a detailed budget to keep track of my expenses and see where I can save. Maybe look into part-time jobs or scholarships that I haven't considered yet. And definitely keeping open communication with my family about finances so I don't feel like I'm in it alone.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific concern about balancing financial stress and independence and has outlined practical steps to address these issues. However, their confidence is at a 5, indicating moderate ambivalence. More discussion might help increase confidence and resolve ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Creating a budget and exploring part-time work or scholarships are insightful steps toward minimizing financial stress. Keeping the conversation with your family open can provide extra support and ease the burden. How do you feel about these strategies in terms of maintaining your focus on growth and academics?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty positive about these strategies. Having a clear budget will help me see where I stand financially and make me less anxious. Part-time work could give me some independence, while talking to my family can offer security and support, allowing me to concentrate more on my studies and personal growth.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific concerns and a desire to gather more information to make an informed decision. Strategies like budgeting and exploring scholarships were discussed, but confidence is at 5, and specific change goals are still forming. Ambivalence is present concerning UTD and TAMU. More exploration is needed to build confidence and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "These strategies seem thoughtfully aligned with your vision for a balanced college experience. How do you see these steps contributing to your confidence as you move forward with your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I think having these strategies in place will definitely boost my confidence. When I know I have a plan to handle finances and support from my family, I can make a decision without feeling overwhelmed. It'll help me feel more in control and ready to tackle whatever comes my way in college.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively explored and articulated the discrepancy between their values and current situation. They have considered various aspects of their life with and without change, expressed Change Talk, and developed specific strategies such as budgeting and seeking family support. Their confidence in handling the situation has increased, as shown by their positive outlook on the strategies discussed, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "It’s wonderful to hear how these strategies are building your confidence in making a well-rounded decision. As you look to solidify your plans, what specific goal would you like to set in the coming weeks to move closer to your college decision, and how might you monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I think a specific goal would be to finalize my budget and see if there are any part-time jobs or scholarships available at TAMU or UTD within the next couple of weeks. I can monitor my progress by setting mini-deadlines for researching and applying for jobs or scholarships, and by checking in regularly with my family about any financial updates.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Your goal of finalizing a budget and exploring work and scholarship opportunities sounds like a practical approach. Would it help to break this down further by listing potential resources or creating a timeline for each task, like budget completion and job applications?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, breaking it down further could definitely help. I could start by listing out resources like the career center at both schools for job listings and the financial aid offices for scholarship info. Then, I can set specific dates for when I want to have each task done, like having the budget completed in a week and starting job applications the week after.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan with clear steps. Listing resources such as the career center and financial aid offices, along with setting specific dates, can really keep you on track. How do you think you'll stay motivated and accountable to these timelines?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): I think having a clear timeline and seeing the progress I make will keep me motivated. I might also ask a friend or family member to check in with me on my progress, just to have that extra push. Plus, knowing that each small step gets me closer to a more secure college experience should help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan, discussed potential barriers, and agreed on self-monitoring strategies. They have shown commitment and confidence in their plan, aligning with readiness signals. Thus, it appears appropriate to advance to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "It's great to hear that you’re setting up a support system and using progress as a motivator. Having a friend or family member check in is a fantastic way to keep yourself accountable. You've got a strong plan with mini-deadlines and a supportive network in place. Keep focusing on these small steps as they lead you towards the bigger picture of a secure and fulfilling college journey. Remember, it's okay to adjust your plan as needed and seek support along the way. You're making thoughtful, informed choices, and that's a powerful place to be. Keep it up!",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I'll definitely keep these strategies in mind and adjust as needed while moving forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly outlined and agreed upon goals, steps, and coping strategies to address their financial concerns with college. They have also discussed a next-step plan, making it appropriate to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I've been stuck on where to go to college for months.\nI'm an incoming college freshman planning on studying biochemistry for undergrad and wanting to go the pre-med track. \n\nI committed to Texas A&amp;M a couple of months ago, but my dad wants me to go to UTD because he believes it's better financially. My tuition for both schools are covered completely by financial aid that I don't have to pay back, so my only financial issue is cost of living. Since I've committed to TAMU, I've already found an apartment, done all the pre-NSC requirements, and have my NSC in a couple of days. However, some events came up where I am now unsure as to whether I can even make it at TAMU without constantly being stressed about finances. I honestly don't care at this point about which school I attend, but my only issue with UTD is that I would be living at home and commuting there which is roughly 45 minutes to an hour. If I have a morning class this would be a bit of a problem. Even though this issue isn't really that big of a deal, I would really like any advice about how to navigate this.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

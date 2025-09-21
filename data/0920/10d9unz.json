@@ -1,0 +1,167 @@
+{
+  "id": "10d9unz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling really overwhelmed with my thesis situation. I'm trying to figure out if I should stick with this research or switch to a project, and it's just been really stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough feeling overwhelmed about such an important decision like your thesis. What aspects of each option are weighing on your mind the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's definitely tough. With the research, it's the time and uncertainty that's stressing me out, especially since I'm running out of time and funding. With the project, it's more about whether they'll even let me switch and if it's the right choice for my future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're facing a lot of uncertainty with both options, which sounds really stressful. With the research, it seems like the time constraints and funding are major concerns, while switching to a project brings worries about approval and future implications. How are you feeling about these challenges right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm feeling pretty anxious, to be honest. It's like I'm constantly in a time crunch, and it's hard to see a clear path forward. I'm just worried about making the \"wrong\" choice and regretting it later.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story is well-elucidated, detailing their thoughts and feelings about the thesis dilemma. They feel anxious and stuck due to time, funding, and approval challenges. Empathy and rapport are evident, with mutually agreed exploration of options. The therapist has a clear understanding of the client's context and concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's understandable to feel anxious when faced with such significant decisions. Considering what's important to you in the long term, how do these options align with your future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): In the long term, I really want to have a solid start to my career and not delay that. I also want to keep the door open for more research or pursuing a doctorate in the future, so balancing those goals is tricky.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing your career aspirations with the potential for future research opportunities is indeed a complex task. Reflecting on what's most important to you, how might sticking with the research or switching to the project influence your ability to achieve those goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Sticking with the research could help if I want to dive deeper into academia or a research career later. But switching to the project might let me finish on time and get started with my career sooner, which feels more pressing right now. It's just hard to weigh them against each other.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Navigating these choices really highlights both your immediate concerns and future ambitions. When you think about finishing on time and starting your career sooner, what feelings or thoughts come up for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): It definitely feels like a relief to think about finishing on time and getting my career started. But then there's this nagging worry that I might be closing off some opportunities by not sticking with the research. It's like a mix of relief and fear of missing out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively highlights the discrepancy between the client's immediate career goals and long-term research aspirations. The client has expressed both Change Talk and specific change goals, such as finishing on time and starting a career. Confidence and motivation are evident, signaling readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Balancing relief with the fear of missing out is quite a challenge. Considering your desire to start your career soon and keep future research possibilities open, what small steps could you take to explore both paths further, like perhaps talking to an advisor or researching project options?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think reaching out to my advisor to discuss the possibility of switching to a project could be a good first step. Maybe I can also look into some successful examples of past projects to see how they panned out for others. That might help me feel more confident in my decision.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring these paths more deeply sounds like a wise approach. Reaching out to your advisor and reviewing past projects could provide valuable insights. As you consider these steps, what support or resources might help you in exploring these options further?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think having some guidance from my advisor would be really helpful, maybe even setting up a meeting to go over my concerns in detail. Also, if there's any way to connect with students who've been in a similar situation, that could give me some perspective.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Connecting with your advisor and peers who've faced similar decisions can definitely offer useful perspectives. Setting up a meeting to discuss your concerns sounds like a proactive step. Would you like to plan how you'll approach your advisor or identify specific questions for your meeting?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. I should probably write down the main points I want to discuss, like the possibility of switching to a project and any potential implications for my future goals. Having specific questions ready might make the meeting more productive.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving reaching out to their advisor and researching past projects. They have discussed potential barriers and identified support resources such as advisor meetings and peer connections. The client is committed to taking steps and has expressed confidence in exploring their options further.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Preparing those key points and questions in advance is a great strategy to ensure a focused and productive meeting with your advisor. Creating a list of your priorities regarding the project and future research opportunities can help clarify your thoughts. It's encouraging to see you taking these steps towards making an informed decision. Remember, it's perfectly okay to explore all your options to feel more at ease with your choice. As you move forward, know that it's okay to seek support whenever you need it. Keep trusting your instincts and take it one step at a time. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I'll definitely get started on that list. I hope having everything laid out will make things clearer and help me feel more confident about my decision.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps, such as consulting an advisor and reviewing past projects. A clear plan and coping strategies have been outlined, indicating readiness to move forward with the decision-making process.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Research vs Project Dilemma\nApologies in advance for such a long post! \n\nI’m in a bit of a dilemma and thought I’d post here to get some feedback.  I’m in my last semester of a three-year MFA in design.  I’ve been developing my thesis since the first year (my program has you write the first few chapters during research classes) and solidified my committee spring of last year, which gave me a whole year to work on my thesis with them.  I sent my progress and documents over to my committee chair, who then didn’t get back to me for several months until I emailed him asking for an update.  Then we went back and forth with edits all last semester until I finally got a pre-proposal meeting at the end of the semester.  Then, despite my chair saying I was in a good spot, the rest of my committee didn’t like my idea or my methods and basically told me to start over.  \n\nSo now I’m in my final semester, with my funding running out.  There’s no way I can get though IRB review, conducting research, and revisions before the end of the semester and I need to start working full time this summer. I don’t want to have to be in thesis mode while starting a new job and I just feel really stuck (and stressed).  I knew I needed to be done at a certain point which is why I tried so hard to stay ahead of things.  \n\nI understand that setbacks like this are part of grad school and part of the research process, but it just doesn’t feel worth it for an MFA, especially because most MFA’s have final projects, not research-based theses.  I’m thinking about asking if I can switch to a final project I already have something partially developed that I think would actually be really great, but I have to convince them to let me do it and I’m not sure they will.  \n\nI just don’t really know what to do…. I really was interested in my research topic but if I’m going to be dragged through years of it I’d rather it be in a doctoral program.  I’m only 24 and I don’t want to push off my career for thesis that just keeps getting delayed.  But I might regret it if I pursue more research or a doctorate later too so I’m just kinda stuck and could use some insight if you have it.  Thank you.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

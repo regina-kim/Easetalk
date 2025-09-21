@@ -1,0 +1,314 @@
+{
+  "id": "uqjt8m",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you in whatever you want to explore.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I'm stressed out about my SAP appeal and all the stuff that’s been piling up in my life. It feels like everything is connected and it's overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling overwhelmed can be really tough, especially when everything seems interconnected. What aspects of your situation would you like to explore further?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess I'm worried about how to explain everything in my SAP appeal without it sounding like a laundry list of excuses. I need to figure out how to focus on what's important and not get lost in all the details.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds challenging, trying to balance being honest with being concise. You feel worried because you want to make sure your appeal clearly conveys your situation without coming across as making excuses. What do you think are the most important points you want to highlight in your appeal?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Definitely the impact of my grandmother's death and my professor canceling classes due to COVID. Those events threw everything off balance. But I don't want to make it sound like I'm blaming others for everything that's happened. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their overwhelming situation, including the key events impacting their SAP appeal. The therapist has expressed empathy and understanding. Important context and feelings have been elicited, but there hasn't been mutual goal-setting or resolution of client's immediate concerns. Therefore, more exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's understandable to want to express how those significant events affected you without feeling like you're placing blame. You feel this way because you want to be honest about the external challenges while also taking responsibility for your part. How do you think these events have influenced your ability to manage other responsibilities during that time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): They've just made it harder to keep up with everything else. Like, when one thing goes wrong, everything else starts to crumble, and it's just been a domino effect. It's hard to focus on schoolwork when I'm dealing with a lot emotionally and logistically.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed context regarding their SAP appeals, feelings of overwhelm, and specific life events affecting them. The therapist has built rapport and shown empathy by understanding the client's concerns. However, the client still seems uncertain about how to prioritize and articulate their points for the appeal, indicating a need for further exploration of their thoughts and emotions related to the appeals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like dealing with emotional and logistical challenges has created a domino effect that makes focusing on schoolwork really tough. You feel this because the disruptions have compounded each other, impacting your ability to manage your responsibilities. What has helped you cope with these kinds of challenges in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's been hit or miss. Sometimes talking to friends helps, or diving into a hobby to just escape for a bit. But lately, it feels like there's no time for any of that because I'm constantly trying to catch up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive narrative detailing their current challenges, emotional impact, and context surrounding their SAP appeal. The therapist has established empathy and rapport, and the client has expressed their main concerns, goals, and feelings. The conversation is ready to progress to the Guiding phase to further explore motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Taking time for yourself seems really important, even though it feels scarce right now. You've found that talking to friends and engaging in hobbies helps, yet catching up has been taking all your energy. If things were different, how might you envision balancing these needs for connection and escape with your responsibilities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client(guiding): If things could slow down for just a second, I'd definitely make more time to talk to friends and maybe get back into some hobbies, like playing guitar or something. I think keeping a better schedule might help too, but it's just so hard to even think about that when everything feels so urgent.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Finding space to breathe and reconnect with friends or hobbies, like playing guitar, seems really valuable to you. It sounds like having a more structured schedule could be helpful, though the urgency of everything makes it feel overwhelming. On a scale of 0 to 10, how confident are you that you could start incorporating small, manageable changes to create more balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(guiding): Maybe like a 4 or 5 right now. I know it would help, but it feels like I’m just trying to stay afloat at the moment. Making changes seems daunting with everything going on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Therapist(guiding): It feels daunting because you're just trying to stay afloat, yet you recognize that small changes could really help. Even at a 4 or 5, you're thinking about possibilities. What might slightly boost your confidence, even by one point, in making a small change toward balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I could set aside just a little bit of time each day, like even 10 minutes, to play guitar or text a friend. Starting small might make it feel less overwhelming, and it could give me something to look forward to each day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and identified small, manageable actions, like setting aside time for hobbies and connecting with friends. However, their confidence is currently low (4-5), and they feel overwhelmed by their situation. These indicate more exploration is needed to strengthen their motivation and confidence before advancing to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Setting aside a small daily moment for guitar or reaching out to a friend could become a refreshing break in your day. Starting with just 10 minutes provides a manageable step that feels less overwhelming. What would it look like for you to begin integrating this small change into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): I guess I could try setting an alarm or reminder on my phone to take a break at a certain time each day. Maybe in the evening when things are a bit quieter. I could use that time to either strum a few chords on the guitar or send a quick message to a friend. It might help me wind down and give me a bit of consistency in my day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing some Change Talk, particularly around setting aside time to play guitar or connect with friends. However, their confidence remains low, with a self-reported rating of 4 or 5. The client is exploring possibilities but is still overwhelmed by their current situation. They have not fully committed to a specific plan of action, indicating a need for further motivation and confidence building in the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Setting an alarm or reminder sounds like a practical way to carve out those 10 minutes for yourself, especially in the quieter evenings. Incorporating that bit of consistency with guitar or connecting with a friend could really support you in winding down. How does thinking about this small change align with your life goals and what you value?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(guiding): It actually feels pretty aligned. I value my relationships and creativity a lot, and even though school is important, I know I need balance to keep everything in perspective. Taking these small steps could help me not lose sight of what makes me happy and keeps me grounded, even when things are hectic.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified small, manageable changes to improve balance and expressed alignment with personal values. However, confidence remains low (4-5), and there is still a significant challenge with external circumstances impacting motivation and action plans. To ensure sustained readiness, it would be beneficial to continue focusing on building confidence and addressing ambivalence before advancing to action planning in the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Balancing your responsibilities with those values of relationships and creativity truly reflects what matters to you. Even amidst the chaos, these small steps can help anchor you, nurturing what keeps you happy and grounded. How does it feel to recognize that taking these steps aligns with what's most important to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(guiding): It actually feels kind of reassuring. Knowing that I'm working towards balance and not losing sight of what I care about makes things seem a little less overwhelming. It's like a reminder that school isn't the only thing that defines me, and I have other parts of my life that are just as important.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client demonstrates emerging Change Talk, expressing a desire to incorporate small changes like playing guitar or connecting with friends to find balance. However, confidence remains low at 4-5, indicating they are not yet fully ready for action planning. Confidence needs further strengthening to ensure readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Recognizing that you're nurturing what's most important to you amidst the chaos brings a sense of reassurance. It's empowering to see that school is just one part of who you are, and balancing it with your values can make things feel less overwhelming. How might this reassurance influence the way you approach each day?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(guiding): I think it might help me approach each day with a bit more calm and focus. Knowing that I'm consciously making time for things that matter to me could make the daily stress feel less all-consuming. It might also help me prioritize better and not get too caught up in the immediate chaos.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a small, specific change they can implement, has acknowledged its alignment with their values, and feels reassured by this alignment. However, their confidence level is still moderate, indicating more support may be needed to solidify their motivation and reduce ambivalence further. The client is contemplating multiple appeals and significant external stressors, suggesting the need for continued guidance before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Approaching each day with more calm and focus by consciously making time for what matters can indeed lessen the intensity of daily stress. Prioritizing in this way opens up space to not get lost in the chaos, but instead stay centered on what's truly important to you. How do you feel about taking these intentional steps towards maintaining that focus and calm?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(guiding): I feel pretty hopeful about it. It's a relief to think about having a bit more control over my day and staying connected to what matters. It won't fix everything overnight, but it's a good start and makes things feel a bit more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk with specific steps like setting a reminder to engage in valued activities, which aligns with their broader values of balance, relationships, and creativity. They express hopefulness and a sense of control over their daily routine. Although confidence rulers weren't explicitly used, the client's language suggests readiness and decreased ambivalence, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "That hopefulness you feel is a wonderful starting point for creating change. Having a bit more control and staying connected to what matters can make things more manageable indeed. Would you like to set a goal to incorporate these 10-minute breaks into your daily routine, perhaps identifying specific times for either playing guitar or reaching out to a friend? What might be some potential barriers, and how can you plan to navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good idea. I think aiming for those 10-minute breaks in the evening makes sense for me. As for barriers, maybe just forgetting or feeling too tired at the end of the day. I guess I could try to set a reminder and maybe pair it with something else I already do, like winding down with some tea or after dinner. That could help make it stick.",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Pairing your 10-minute breaks with something consistent like tea or after dinner is a clever strategy to help it become a habit. These small routines can create a rhythm in your day, making it easier to remember and feel rejuvenated. How would you like to monitor your progress with these evening breaks, and are there other potential supports you might consider to ensure these moments for yourself?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by jotting down when I manage to take these breaks in a journal or a note on my phone. It doesn't have to be detailed, just a quick note to keep track. Maybe I can check in with a friend or family member about it too, just to have someone to share my progress with. Having that bit of accountability and encouragement could make a big difference.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Keeping a simple record in a journal or phone note is a practical way to track your progress, and sharing this goal with someone you trust adds a wonderful layer of accountability and encouragement. Both steps can strengthen your commitment and celebrate small victories. How do you feel about moving forward with this plan, and is there anything else you'd like to adjust or add?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about moving forward with this plan. It seems manageable and having that accountability will keep me motivated. I don't think there's anything I need to adjust right now, but I'm open to tweaking things if I notice it's not working as I go along. It's nice to have a plan that feels achievable and supportive.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of incorporating 10-minute breaks into their routine and has created a specific action plan, including addressing barriers such as forgetfulness and fatigue. They have also established self-monitoring and accountability measures. The client's expression of hopefulness and willingness to adjust the plan demonstrate readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Feeling good about this manageable plan is a great way to wrap up our session. Your openness to adjust as needed shows flexibility, which is fantastic for personal growth. Remember, each small step counts, and your commitment to staying connected with your values and seeking support is truly commendable. As you move forward, keep embracing these moments of calm and focus—they're yours to nurture. Until next time, keep leaning into that hopefulness and remember, you've got this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely keep working on it and see how it goes. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a discussion of goals, coping strategies, and next steps, with the client feeling hopeful and motivated. The therapist provided closure and encouragement, suggesting a natural ending point.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on SAP appeal in context of TWO appeals and previous appeals?\nHo boy\n\nI am in trouble. I'm probably a terrible student at best of times and throw in some shitty life events that JUST GOT WORSE during covid and those downstream events, I'm sitting here writing my 3rd SAP appeal for Spring 2022 due tomorrow, and IF it gets approved, I will be writing another one for Summer 2022. My housing depends on it, so that is not good. And if my appeal doesn't go through I will also owe the college unpaid tuition and housing for 2022.  \n\n\nYEAH I KNOW. Its so bad. It just took me a while to figure out who to talk to when I realized things were off the rails and by the time it got to Financial aid advisor, she was pissed (I don't blame her, and I have worked with her before, she's great), and we only have a couple days.  \n\n\nWorking backwards. Fall 2020 was super fucked up. Had adhd medication problem and had to try and fail on different medication. Couldn't pay rent, and landlords turned off heat to force eviction and or/payment (didn't care about eviction protection and refused to fill out assistance paperwork), dealt with that but it wasn't pretty. And then I got covid and was dead sick for 3 weeks. Basically gave up on school and tbh, almost life. \n\n  \nFast forward, skipped Spring 2021, and enrolled again fall 2021 as I got covid rent assistance so felt I could. But it also kinda fell together last minute and I didn't have financial aid together yet (actually enrolling after start of classes) In the process of getting caught up, my landlords ended tenancy even though they had additional months rent (2) so had to move. Once moved, used the issues with rent and landlord on that SAP appeal for fall 2021 with the resolution being getting into university housing.   \n\n\nGREAT! Appeal when through, got aid towards end of semester.   \n\n\n**SPRING 2022 Appeal reason For Fall 2021 incomplete** Not great. I was super behind in my in person dance class because I missed a bunch. We made a plan to get me caught up if I attended the rest of the classes and the other students helped me get caught up for the final group dance project. One class later, the professor gets covid, cancels the rest of the classes and tells everyone to do a much abbreviated project. But now I have a lot more to figure out on own. Still seems doable, I have video of the last day we met and what the the dance routine was. I'm lost, but its doable. But I ask for more time given I'll have to figure out on my own. He agrees. Then a few days later, my grandmother dies, and I had to ask for another extension (and I felt like he was going to think I was lying at that point, but it happened). At some point, I'm getting back to trying to get the final project done, and I am just lost. But I'm trying, my tooth breaks from clenching my jaw and I just kinda stop, decide I'll figure out what to do next later \n\nBut, as you can guess from my user name, never did. Start spring 2022, I now have an incomplete and no financial aid. I dunno if I am going to appeal or if the instructor will allow me to turn in. \"I'll figure that out in a few days, I say.\" I didn't. Because I got my aid so late, I just used the refund to pay for a lot of what I needed for second semester. \n\n&amp;#x200B;\n\n**Summer 2022 Appeal Reason for Spring 2022** A couple weeks into 2nd semester, I'm floundering. I haven't figured out what to do about aid and late dance class final and instead of dealing with it, I just kinda.. gave up. Got myself into the university counseling center, they started me on antidepressant, once I got out of the worst of it, I was just racing to catch up on school work. Which I didn't get caught up fully when I realized I needed help and was in WAY over my head. But by the time I kinda got to talking to the right people, it's basically the end of the semester AND HERE WE ARE NOW. I am going to have to take an incomplete on another class, and another I have to argue and beg with professor to allow makeup work for missed in class activities. He agrees and I should pass (know material, aced two prior tests, so I'm current on the information, just not the work. Exam at end of week) On top of that, the mental health care provider thought my adhd might be slight be undermedicated, and she suggested that we increase the dose, but that has turned into a mess, with problems with the insurance (she wanted to use two different types of pills, a XR IR combo), with confusion at the pharmacy, with delays in the prior auth and with the school not having escript capabilities for adderall, and then a medication shortage, so I have to call around and find one that has brand adderall in stock, plus she is work from home right now due to some office construction on campus this week, so I'm literally waiting for a paper script in the mail. Almost a month since that started we've been dealing with the adderall problem and its not resolved so I'm working non-medicated and spending way too much time dealing with that.  \n\n\n**Right now, I am working on and need to finish my Spring 2022 SAP appeal tonight for 10am tomorrow.** I am writing it out now, the financial aid advisor said I should keep it to being about my grandmothers death and my instructor getting covid and canceling classes, thus changing the plan that was supposed to help address the missed course work. I am not supposed to use the broken tooth because it's still broken and even though I am enrolled at the dental school near me, its been a slow process getting that underway and I'll have to do god knows what to pay for the crown. So my financial aid advisor said not to include it because it's not resolved.\n\nI would really love some advice/insight. I need this, really need this and I've been working on it since this afternoon, trying to write out the series of events but feel like I'm either over or under-explaining. I'm also stuck in what is the resolution to my grandmothers death? If I say its the depression that I had treated now, then I won't be able to use for the next appeal.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

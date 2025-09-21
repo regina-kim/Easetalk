@@ -1,0 +1,167 @@
+{
+  "id": "t6js9s",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's on your mind today? Feel free to share whatever you'd like.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for asking. Honestly, I'm just feeling really overwhelmed with everything I've got on my plate right now. It's like I'm juggling too many things, and I'm worried I can't keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must feel really stressful trying to manage so many responsibilities at once. Can you tell me more about what you're juggling and how it's affecting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's a lot. I'm doing a TA-ship, managing a huge class, plus all my own coursework and a research project. It's just too much, and I'm scared I might drop the ball on something important.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing all those commitments sounds incredibly challenging. You might be feeling anxious about not being able to meet all these demands. What aspects of these responsibilities worry you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think it's mostly the fear of not doing justice to any of them. Like, I want to be there for the students and do a good job as a TA, but I also have my own grades and research to think about. It's like I'm spread too thin, and I'm scared I'll end up failing at all of it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their feelings of overwhelm and fear of failing, alongside detailed context of their responsibilities and challenges. Empathy and rapport appear to be established, and the therapist has a mutual understanding of the client's situation. This aligns with the goals of the Exploring phase, indicating readiness to move to Guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're striving to excel in multiple areas, and it's important to you to do well in each. What would life look like if you found a way to manage everything more comfortably?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I could manage everything better, I'd probably feel less stressed and more in control. I'd have time to focus on my studies without guilt, give my best to my TA duties, and actually make progress on my research. It'd be nice to have a bit of breathing room.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining that sense of control and balance must feel quite uplifting. What do you think you might notice different about yourself if you had that breathing room and were managing everything more comfortably?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think I'd be a lot calmer and probably more confident in handling my responsibilities. I'd likely feel more accomplished, and maybe even have some energy left for myself, to relax or pursue other interests. It'd just be nice to not constantly feel like I'm on the brink of burnout.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having that calmness and confidence sounds really valuable. Reflecting on your aspirations, what steps do you think could bring you closer to having that balance and avoid burnout?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess I need to start setting some boundaries and maybe prioritize better. Like, maybe I can allocate specific times for TA duties and my own studies, instead of just responding to everything as it comes. Also, asking for help or delegating some tasks could be a good step.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown readiness by expressing the desire for balance and suggesting specific steps such as setting boundaries and prioritizing. There's noticeable Change Talk, reduced ambivalence, and the client has identified concrete strategies to address the issues discussed. These indicators suggest readiness to transition to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating those boundaries and prioritizing could definitely support you in managing your responsibilities more effectively. To move forward, we could develop a specific action plan. Based on your thoughts, possible options might include setting designated times for each of your roles, identifying tasks to delegate, and considering how to seek support from colleagues or mentors. How do these options sound to you, and is there anything you'd like to explore further?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "That sounds like a solid plan. I like the idea of setting specific times for different roles and delegating tasks. Maybe exploring how I can seek support from my colleagues or mentors would be good too, since I tend to take on too much by myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(choosing): I'm glad those options resonate with you. Setting specific times could help create that structure you’re looking for, and delegating tasks might ease some pressure. As for seeking support, what steps could you take to reach out to colleagues or mentors for guidance and assistance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I could start by having a conversation with the other TAs or even the professor to see if they can take on a bit more, or offer tips on managing the workload. Also, reaching out to my research advisor for guidance on prioritizing tasks could be really helpful. Maybe just being honest about feeling overwhelmed would be a good first step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Reaching out and having those conversations sounds like a proactive approach. It's great that you're considering being open about feeling overwhelmed, which could foster understanding and support. To solidify your plan, would setting a goal for when you'd like to initiate these discussions be helpful, and how can we ensure you have the support you need to follow through?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal might actually keep me accountable. I could aim to talk to them by the end of this week. To ensure I follow through, maybe I can jot down some points I want to discuss beforehand, and check in with you or a friend to stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, including setting boundaries, delegating tasks, and seeking support from colleagues and mentors. They have also set a specific goal to initiate discussions by the end of the week and agreed to self-monitor by checking in with the therapist or a friend. The client has shown commitment and confidence in taking these steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful plan. Setting a goal to initiate the conversations by the week’s end gives you a clear timeline, and preparing some discussion points can help you feel more confident. Checking in with me or a friend is a fantastic way to keep yourself accountable and supported. As you take these steps, remember that it’s okay to ask for help, and you’re doing this to create a healthier balance for yourself. You're making thoughtful decisions towards positive change, and I’m here to support you along the way. Let’s touch base next time to see how it all unfolded and continue working on these goals together.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I appreciate your support, and I'll let you know how it goes next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals, discussed steps, and coping strategies to manage their workload effectively. A plan to reach out for support and accountability measures for follow-through have been established. Termination goals are met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How are you all able to manage everything you're doing? 😩\nSo for context, I'm not a grad student yet but I'm a senior undergrad who's taking 4 grad level courses, along with doing a research project and a TA-ship. Posting here because I think this is the same (probably still less) workload as most of you have and I genuinely don't know how to manage everything. And thinking about this is making me fearful of what's going to happen when I start grad school myself. \n\nAnyway, I'm a first time TA, and I started this out by being super energetic and responsive to students, and this is a class of 260 kids with 4 TA's in total for it. I'm the head TA, so along with dealing with student questions and grading and stuff, plus holding weekly office hours and practice sessions, I'm handling most of the managerial tasks along with it like maintaining data for everything along with organizing stuff and continuing to email the class about any and all updates about anything. Because of this, most students contact me when they have an issue, and obviously I'm going to respond to their emails, and I have to make sure they understand stuff, because this is a calc-1 class with a majority of non-stem students. I've even been setting up extra zoom meetings with some of them, which have ranged from anywhere between 30 minutes to 1.5 hours. \n\nThe problem with this is. I can't find time to do anything else. I haven't been focusing on my courses at all, and I have a midterm in about 14 hours that I haven't even begun to study for. I have two more midterms in the next week, and again, no idea how I'm going to deal with them. The most I do is complete assignments, but some of them can easily take anywhere between 2 days, to a week (the latter for a very difficult pure math class). I also need to complete, or at least continue my senior year research project, but I haven't done anything with it for nearly a month now. I genuinely just can NOT find time for anything. And that's especially if I'm trying to make sure I have a good sleep schedule (nothing extreme, but at least 5-6 hours every night) along with maybe taking out an hour or two for myself in a day (which includes time taken to eat or nap mostly). \n\nI just genuinely need advice. How do you handle everything, alongside doing justice to each of your responsibilities and NOT overburdening yourself to the point of complete burnout? Do you set up schedules? I'm really sorry for posting here, but I have no idea where/who else to ask and I'm seriously going to end up completely incapable of doing anything if it continues like this.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

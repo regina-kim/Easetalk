@@ -1,0 +1,230 @@
+{
+  "id": "1148f22",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, how are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I'm feeling pretty overwhelmed to be honest. I've been thinking a lot about whether I should drop out of college or try to stick it out, and it's stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That's a lot to carry on your shoulders. You're feeling overwhelmed because you're trying to decide whether staying in college is right for you. What aspects of college are contributing to this stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I think it's the pressure from my family and the uncertainty about what I actually want to study. Plus, I didn't even really want to go in the first place, so it's hard to feel motivated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're juggling family expectations and your own uncertainties about your future, which makes it tough to find motivation. Can you share more about how you ended up in this situation and what your journey has been like so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I kind of got pushed into it by my grandmother filling out an application for me without really asking if it's what I wanted. I thought my family had all agreed it was necessary, but turns out they hadn't, so now I'm here trying to figure out if I should stick with it or just back out and take some time to think.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their situation, emotions, and the context behind their current dilemma. Rapport is evident, and the therapist has shown understanding and empathy. The client's goals and challenges are clear, making it appropriate to move to the Guiding phase to explore motivation and potential change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a challenging spot to be in, feeling pushed in a direction you weren't entirely sure of from the start. Considering how you ended up here, what do you think your life might look like if you chose to step back and take some time to reflect on what you genuinely want?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd have a chance to actually breathe and figure things out without all the pressure. I'd probably focus on working for a bit and saving up while I really think about what I want for my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Taking a step back to breathe and reflect without the pressure could give you some clarity. If you imagine yourself taking that path, how confident do you feel, on a scale from 0 to 10, about making this change and exploring what truly matters to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, maybe like a 5 or 6? I'm not fully confident because there's still a part of me that's worried about the whole \"dropping out\" label and if I'm making the right choice. But the idea of taking time to figure things out does sound nice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You're feeling some uncertainty, though the idea of taking time to explore your path is appealing. The worry about labels and making the right choice is weighing on you. What values or goals do you think are most important to you right now, and how might they influence your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think what's really important to me is figuring out what makes me happy and what I'm genuinely passionate about, instead of just going through the motions. I want to make sure I'm not rushing into something just because of pressure, and that whatever I choose to do feels right for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and a tentative confidence level, but there's significant ambivalence with a confidence level of 5 or 6. They are concerned about labels and are unsure about their decision. More exploration of values and goals is needed to strengthen their motivation and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Discovering what genuinely makes you happy and ensuring your choices align with your passions and values is vital. Reflecting on this, how do you see these priorities shaping your decision about whether to continue with college or take a different path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think these priorities are steering me more towards taking some time off. If I don't do that, I might end up in a degree or career that doesn't really fit me because I rushed into it without considering what I actually want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client exhibits change talk and has expressed a desire to take time off to explore her true interests. She identified her values and goals, and her confidence level is at a 5 or 6, indicating some readiness but also existing ambivalence. Further exploration can strengthen confidence and reduce ambivalence before moving to planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Taking time off seems like it could help you make choices that truly align with your values and passions. How might this decision bring you closer to the future you envision for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "If I take some time off, I think it would give me the space to figure out what really excites me and what I want to pursue long-term. It feels like it could lead me to a more fulfilling path instead of just doing what others expect of me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering stepping back to explore personal passions and values, indicating a specific goal of taking time off. Confidence is indicated at a 5 or 6, showing some readiness but also ambivalence. The discussion has explored life with and without change, identified values, and evoked discrepancy. However, confidence is not firmly above 6, and ambivalence remains. Further Guiding can build stronger readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Allowing yourself that space could indeed lead to a more fulfilling path aligned with your true interests and passions. How does it feel to imagine a future where your choices are driven by what truly excites you rather than external expectations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): It feels really liberating, honestly. Like a weight would be lifted off my shoulders, and I could focus on things that genuinely make me happy instead of stressing about what others think I should be doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to take time off and explore their path, aligning with their values and goals. They verbalized a goal of taking time to find what excites them and expressed a sense of relief imagining such a future. Confidence is around 5-6, indicating some readiness but also ambivalence. The conversation has explored discrepancy and values, which suggests readiness to move to planning steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Imagining a future guided by your true interests sounds freeing. As you consider taking this time off, what steps might you take to ensure you're using this period effectively to explore your passions and relieve that stress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I guess I'd start by exploring different job opportunities and maybe taking some classes that interest me, even if they're not for credit, just to see what I like. I might also spend more time on hobbies or projects that I enjoy and see if they spark anything.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Exploring job opportunities and taking classes for interest sound like thoughtful ways to discover your passions. Engaging with hobbies or projects could also reveal what truly excites you. What specific goals or steps do you envision setting for yourself to make the most of this time, and how might you address potential challenges that could arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): I think setting a goal to try at least one new job or class every few months would be a good start. I'll also make a list of hobbies or projects I enjoy and dedicate time each week to them. As for challenges, maybe just being mindful of self-doubt and reminding myself that it's okay to take time figuring things out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating a goal of trying a new job or class every few months and dedicating time to hobbies sounds like a practical plan. Being mindful of self-doubt and affirming that it's okay to take your time is a healthy approach to overcoming challenges. How would you like to keep track of your progress during this period, and is there someone you might lean on for support and encouragement?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): I'll probably keep a journal or some sort of planner to track what I'm doing and how I'm feeling about it all. As for support, I know my Nana and Dada would be there for me, and maybe even some close friends who understand what I'm going through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear action plan of exploring job opportunities and engaging in hobbies, with specific goals for self-exploration and overcoming challenges. They have also identified a support system and a method for self-monitoring. These indicate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Using a journal or planner to track your experiences and feelings is a great way to reflect on your journey. It's wonderful that your Nana, Dada, and close friends are there to support you; having a supportive circle can make a big difference. You've set some solid goals and planned for challenges—with this approach, you're honoring your needs and growth. Remember that this time is about exploring and learning, and it's perfectly normal to take things at your own pace. Looking forward, maybe consider scheduling regular check-ins with yourself or with someone you trust to discuss how things are progressing. You've got this, and I'm really encouraged by the thoughtfulness you're bringing to this decision.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I think that could really help keep me on track and stay grounded in what I want. I'll try to remind myself it's okay to go at my own pace.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps, coping strategies, and support systems for exploring their interests. They have a concrete plan to track progress, and the session concluded with encouragement and next steps, achieving the closure criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I need advice on dropping out, please help\nSo my dad just got approved for ssdi, I (18 F) qualify for $900 a month if I'm at least part time enrolled in school. Well, it took my dad a long time to get approved so I thought that once he got approved I could apply to a college and then start getting money pretty quick. Apparently thats not how it works, my dad has to get processed too. Now because no one told me that, (only how he had been accepted after waiting like a year or two already) and I was being pressured to start college for other reasons, I started looking at potential colleges. My grandmother found a pretty nice one and texted me one day to come over to her house and we would look at the school and see how we like it. Well when I got there she already had all the information typed out on the application form for a degree I never wanted in the first place. If it were up to me, I wouldn't have even gone to school in the first place. But it wasn't, I knew how much it meant to my other grandmother (I will be referring to her as Nana). I had already decided that with the \"free money\" (I say that very lightly lol) and my Nanas eagerness for me to start school, that I would do it, I just wanted to wait a little bit. Well, I thought I had mentioned my unwillingness enough times to stick. I already have a few job offers I could take for the summer this year if I really wanted to. Anyway, I asked my grandmother if I had to do this. She told me I had too. So obviously I thought her and Nana had talked it out and they determined I had to start right away, which was the only reason why I caved in. So I accepted and she called Nana and they paid. When I got home that night, my Nana and Dada (primary caregivers/parental figures) asked me if this is what I wanted. I told them this: \"No, but it's something I have to do\" referring back to what my grandmother had said previously. Well, here I am a few days later and I just now got off the phone with my Nana who told me she had no idea and that she was never gonna force me to go to college, as well as it would take until the end of the year most likely before I would receive the ssdi benefits and none of which would include money I would have made if I was getting paid as soon as I started school. So now I'm at a crossroads, I never wanted to start school in the first place because I was scared I would give up halfway through or change my mind and switch majors. I wanted to wait and plan everything out and not jump right in. I jumped right into work right after high school and worked myself sick, I didn't wanna repeat that. Tomorrow i think, is the deadline to ask for our money back. I don't wanna be labeled a college dropout. The mere thought of it makes me want to cry tbh. I know that this is mostly my fault for not checking in with both parties. Most of the time they do consult each other about my school so I just assumed they both knew everything. Now I have no idea what to do, I have less than 24 hours to figure out if I drop out and get the money back, or switch majors which will still leave me with the same issue because I have no idea what I want to do. I'm open to hear what literally anyone has to say.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

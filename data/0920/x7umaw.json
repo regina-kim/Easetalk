@@ -1,0 +1,167 @@
+{
+  "id": "x7umaw",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there, it's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been feeling really conflicted about whether I should keep my part-time job or focus solely on school. It's been stressing me out a bit. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and school sounds like a tough decision. What are the main factors making you feel conflicted about this choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, on one hand, having some extra cash from the job is nice, but on the other hand, I’m really worried about burnout from juggling both. Plus, I kind of want more time to just enjoy uni life and be with my boyfriend.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It’s understandable to feel torn between financial stability and having more time for yourself and your relationships. You value the income from your job, yet you’re concerned about burnout and missing out on important experiences. Can you share more about your experiences so far managing both work and school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Yeah, so last time I tried managing a similar schedule, it really took a toll on my mental health. I ended up feeling overwhelmed and couldn't keep up with all my classes, which led to dropping one. It's made me hesitant to go through that again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their conflict, detailing the stress of balancing work and school, their past experience with burnout, and financial context. The client is concerned about mental health and values time for study and personal life. Empathy and rapport are established. It might be beneficial to move to the Guiding phase to explore motivation and change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like the previous experience of feeling overwhelmed has left a strong impression, making you cautious about juggling both commitments again. Considering what you've gone through before, what do you envision would be different if you chose to focus solely on school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I think focusing solely on school would give me more time to really dive into my studies and maybe even get ahead. I’d also have the chance to relax more, hang out with my boyfriend, and just enjoy uni without constant stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Dedicating your time to school seems like it could provide a sense of relief and allow you to enjoy more aspects of your life. How important is it for you to have that balance and connection with your boyfriend and university life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): It's super important to me. My boyfriend is a big part of my life, and I really want to make the most out of my university experience. I don't want to look back and feel like I missed out because I was too stressed with work.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing your time to truly enjoy university and your relationship sounds like a priority for you. It seems like having less stress could help you make the most of this period in your life. On a scale from 0 to 10, where would you rate your confidence in being able to prioritize school and personal time over work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I’d say I’m at about a 7. I’m pretty confident I could do it, but there’s still that little worry about money and whether quitting is the right choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between current work commitments and desired university experience, including relationships. They have visualized life with more focus on school and personal time, expressed a specific goal of prioritizing school, and indicated a confidence level of 7. Change Talk is evident, and ambivalence has decreased, suggesting readiness to plan specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking that step to focus more on school and personal life feels significant for you. Given your confidence level, it's clear you've thought a lot about this. Based on what you've shared, some options could include setting a specific budget to manage your finances or exploring flexible school-friendly work options. What steps do you think might help solidify your decision and ease any financial concerns?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a budget sounds like a smart move. I could keep a closer eye on my spending and see how far my savings can stretch before I start stressing about money. Maybe I could also look into campus jobs or something part-time that's more related to my degree, so it doesn't feel like a drain.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a budget and exploring campus jobs seem like practical steps to help you feel more secure financially while prioritizing your studies and personal life. It's great that you're thinking about part-time work related to your degree, as it could offer valuable experience without overwhelming you. How do you feel about setting a timeline for these steps and deciding how you’ll monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Setting a timeline sounds helpful. Maybe I could give myself a few weeks to see how the budgeting goes and check out what kind of campus jobs are available. I think keeping a little journal or notes on my phone to track my spending and any job opportunities could keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a timeline to track your budgeting and job search shows a proactive approach. Using a journal or phone notes sounds like a practical way to monitor your progress and keep things organized. Would you like to outline a specific timeline for starting your budget and exploring job options, or do you have any other thoughts on how to maintain this momentum?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think outlining a specific timeline would be good. Maybe I could start by setting up my budget this week and then spend the next two weeks exploring campus job options. If I feel like I’m on the right track after that, I could make a more solid decision about quitting. Checking in with myself weekly could help me stay on course.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, including setting a budget and exploring job options, and has discussed barriers like financial concerns. They have demonstrated commitment by setting a timeline and self-monitoring strategy. They show confidence in their ability to implement these plans, indicating readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out plan. Setting up your budget this week and spending the next couple of weeks looking into campus jobs gives you a structured way to approach this transition. Checking in with yourself weekly can serve as a great way to reflect and adjust if needed, keeping you aligned with your goals. Remember, it's okay to take things one step at a time, and you're taking significant steps towards creating the balance you want in your life. Feel proud of your proactive efforts, and know that I'm here to support you as you move forward. If you ever need to revisit or adjust your plans, we can explore those changes together. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the encouragement! I definitely feel more motivated with a clear plan. I'll keep you posted on how things go.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan, including setting up a budget, exploring campus jobs, and a timeline for decision-making. The session concludes with a supportive summary, fulfilling termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I Quit My Part Time Job to Do School Full-time?\nFor context, I’m in the education program with and in five courses (full time). I work in a dining venue that requires working till pretty late at night most times. It’s been a while since i’ve been considering quitting cause I do not enjoy being there (but do like the friends i have there). \nThe last time I worked part time (three shifts) and did school full time, it was really bad for my mental health and I had to drop a course the next semester. \nLuckily my parents (bless their souls) saved up for my education so I don’t have to worry about student loans or paying for school. I also have around 13K in the bank and i’m not a huge spender besides gas money and my phone bill. Money is nice to have n’ all but i’m debating quitting and working during the summer/finding a job related to my degree so I can have more time to study, have free time and hang out with my boyfriend. \n\nShould I still work and risk the having to balance full time school so I can have some money, or should I quit and focus on university full time? \n\nTL;DR: Debating quitting part time job cause I am in university full-time. Conflicted between having more money or being able to focus on studying/having free time.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

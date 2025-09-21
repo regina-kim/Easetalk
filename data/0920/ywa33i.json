@@ -1,0 +1,167 @@
+{
+  "id": "ywa33i",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm okay, I guess. I've just been thinking a lot about how much time and energy school is taking from my life, and it’s starting to weigh on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "School seems to be demanding a lot from you, and it feels overwhelming. What aspects of school are affecting you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's the thought that I'm spending my prime years studying instead of, I don't know, enjoying life or figuring out what truly makes me happy. It feels like I'm putting my life on hold just for the sake of financial stability later on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling conflicted between the need to prepare for the future and the desire to enjoy the present. Can you share more about what you imagine would bring happiness or fulfillment right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I think having time to explore different things without the pressure of deadlines or expectations would be amazing. Maybe traveling, trying out new hobbies, or just having more freedom to decide what I want to do each day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the essence of the client's feelings about school, highlighting a conflict between future preparation and present enjoyment. There is a clear understanding of the client's concerns and desires for happiness. The goals of the exploring phase have been met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring new things and having the freedom to choose your path sounds important to you. Imagine if you could align your studies with some of these desires for exploration and freedom. How might that look for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): That could mean finding ways to incorporate more creative or hands-on experiences into my studies, or maybe choosing courses that spark my interest rather than just fulfill requirements. It might also help to set aside some time in my week just for things I enjoy, even if it’s just a little bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Allowing time for what you enjoy and choosing courses that interest you seems like it could bring more balance and satisfaction. On a scale from 0 to 10, how confident do you feel about making these changes to align your studies with your passions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 5 or a 6. It feels doable, but I worry about actually sticking to it and not letting school take over again. It's hard to break old habits, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding new habits and balance with school can be challenging but important for your happiness. What might help you feel more confident in sticking to these changes and not letting school completely take over again?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Having a solid plan or routine might help, like setting specific times for studying and personal activities. Maybe accountability from a friend or mentor could also keep me on track when I start slipping back into old patterns.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of incorporating more enjoyment and aligning studies with interests. Confidence is at 5-6, showing some readiness, though concerns about sustaining changes remain. We've identified discrepancies between current behavior and values, explored life with and without change, and addressed ambivalence. Given these elements, moving forward could help develop specific strategies to enhance confidence and maintain changes.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating a routine and having accountability seem like practical strategies to support your goals. How would you feel about setting a specific goal, like dedicating certain hours each week to activities you enjoy, and what might be some possible challenges you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Setting specific hours sounds like a good idea, but I could see myself struggling with staying disciplined, especially when school deadlines are looming. Balancing everything might be tough, and I worry about feeling guilty for taking time for myself when there's always something school-related to do.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a clear plan while being kind to yourself is essential. Based on what you've shared, perhaps options could include setting a flexible schedule that allows adjustments during busy school periods or scheduling regular check-ins with a friend for accountability. How might these ideas fit into your plan, and are there other strategies you feel might help manage guilt when prioritizing personal time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of a flexible schedule, so I have room to breathe when school gets hectic. Regular check-ins with a friend could definitely help keep me on track. As for managing guilt, maybe reminding myself that taking breaks makes me more productive in the long run could help, though it's easier said than done.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Considering a flexible schedule and regular check-ins with a friend as part of your routine sounds promising. It's great that you're also reflecting on the benefits of taking breaks for overall productivity. How would you like to start implementing these strategies, and how can you monitor your progress to ensure you feel balanced and guilt-free over time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think starting small would be best, like setting one or two days a week for personal time and seeing how that feels. Maybe I can keep a simple journal or note to track how I'm doing and any feelings of guilt that come up. It'll help me see patterns and adjust if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan involving a flexible schedule and regular check-ins, and has addressed potential barriers like discipline and guilt with strategies such as self-reflection and journaling. Commitment to starting small and self-monitoring is evident, indicating readiness for advancing to Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting one or two days a week for personal time sounds like a thoughtful start. Keeping a journal or note to monitor your progress and any feelings of guilt can give you valuable insights over time. It’s wonderful that you’re willing to adjust as you go. You’re taking meaningful steps toward a balanced lifestyle, and that's commendable. Remember, it's okay to make changes as you learn what works best for you. As you begin this journey, feel free to reach out whenever you need support or just want to share your progress. You've got this, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll definitely keep you updated on how it goes, and I'll reach out if I need help or just want to talk things through.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a summary of strategies, a plan for implementation, and an invitation for future support, meeting termination goals effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Years and years of school feels like a waste of my youth\nI’m 24 year old female. I took a while to do 75 credits of college plus did a 9 month “lds” mission (ew) and took a year off. \n\nas a philosophy major I’ll graduate and do more schooling. I knew that when I was younger going into it. Now? … I feel like my most reproductive, pretty years of my life will go to finding a way to support myself financially. \n\nIt just kinda feels like a waste of my youth",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

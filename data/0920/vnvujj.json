@@ -1,0 +1,188 @@
+{
+  "id": "vnvujj",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've been wrestling with this decision about whether to stick with an associates in arts or switch to an associates in science. My advisor has one opinion, but I feel like the science path aligns more with my interests in computers.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be challenging to weigh different opinions, especially when they come from people you trust. You're drawn to the science path because of your interest in computers. What are some thoughts or concerns you have about making that switch?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess I'm worried about making the wrong choice and it affecting my future plans, like transferring to a good university for computer science. Plus, I don't want to ignore my advisor's guidance, but I also want to follow what I'm passionate about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Feeling uncertain is natural when facing such an important decision. You're worried about the impact on your future and balancing your advisor's advice with your passion for computers. What do you think would help you feel more confident in your decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Maybe talking to someone who's been through a similar situation or even getting more info about how each path would transfer to a university. I think having a clearer picture of the outcomes might make me feel more sure about what to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's thoughts, feelings, and concerns about their educational path, including the context of their advisor's opinion and their personal interest in computers. There is a clear mutual understanding of the client's dilemma and goals, laying a strong foundation for the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring both paths further could really clarify things for you. How would your life look if you followed your passion for computers versus staying with your current path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflective): If I follow my passion, I imagine diving deeper into computer science, coding, and really getting hands-on experience, which sounds exciting. But staying on my current path feels safer and more aligned with the transfer plan my advisor laid out, which might make the process smoother, but maybe less fulfilling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Pursuing your passion seems to offer a sense of excitement and fulfillment, while sticking with your current path feels safer and possibly easier for a transfer. What do you think might be the most important factor for you in making this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflective): I think the most important thing for me is to feel like I'm making progress toward my long-term goals while still enjoying what I'm studying. I want to make sure I'm setting myself up for success in the future, but I also don't want to miss out on exploring what I'm passionate about right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing enjoyment with progress towards your goals is key in your decision. Reflecting on both paths, how might each contribute to your sense of fulfillment and future success?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflective): If I go with the science path, studying computer-related courses would probably make me feel more engaged and maybe even more prepared for a computer science degree later on. On the other hand, the arts path might offer a broader foundation and help me transfer smoothly, but I worry it might not align as much with my career interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their passion for computer science and the advisor's guidance. They have articulated how both paths affect their goals and have shown a strong inclination towards pursuing their passion, indicating change talk. However, a specific change plan or next step has not been established yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your interest in computer-related courses seems to promise engagement and readiness for future studies, while the arts path offers a broader foundation for transfer. Considering your career interests, how do you see each path aligning with where you want to be in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflective): If I choose the science path, I feel like I'll be more in tune with the skills and knowledge I'll need for a future career in tech, which is where I ultimately want to end up. But if I stick with the arts path, I might have a smoother transfer experience, which could be beneficial if it means getting into a better university.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully identified a discrepancy between the client's passion for computers and the advisor's suggestion, explored life with both choices, and the client has reflected on the importance of aligning studies with future goals. Change Talk is evident, and ambivalence has decreased, indicating readiness for planning specific steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Choosing the science path seems to align closely with your long-term career goals in tech, promising skills and knowledge that could lead to future success. On the other hand, sticking with the arts path might offer a smoother transfer experience. Based on this, a potential action plan could involve researching universities that value hands-on experience in computer science, as well as identifying any resources or people who can offer insights into both paths. How does that direction resonate with you, and what steps might you consider taking next?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think I'll start by looking into universities that have strong computer science programs and see how they evaluate transfer credits. I'll also try to connect with students or alumni who've transferred from community college into those programs to get their perspective. Maybe talking to some professors could help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring universities with robust computer science programs and gathering insights from students who have transferred sounds like a proactive approach. Connecting with professors can also provide valuable perspectives. Would you consider setting specific goals, like reaching out to one university and one alumni each week? How might you track your progress to ensure you're gathering the information needed to make an informed decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflective): Yeah, setting specific goals like reaching out to one university and one alumni each week sounds totally doable and would help keep me on track. I could maybe use a spreadsheet or a notebook to keep track of who I’ve contacted and what I’ve learned from each conversation. That way, I can reflect on the information and see which path aligns better with my goals.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a system like a spreadsheet or notebook to track your contacts and insights sounds like a great way to organize your thoughts and see how each path aligns with your goals. How do you feel about setting a timeline for when you'd like to make your decision, and what support will you need along the way to feel confident in your choice?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): client(reflective): I think setting a timeline would help keep me focused and avoid procrastination. Maybe I can aim to make a decision by the end of the semester. As for support, I could use some guidance from my advisor or even just someone to bounce ideas off of, like a mentor or friends who understand my situation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear action plan to research universities, reach out to alumni, and consult professors. They have identified methods for self-monitoring their progress and are considering a timeline for decision-making. Additionally, they have acknowledged the need for support and guidance. These factors indicate readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Setting a timeline to decide by the end of the semester sounds like a great way to stay focused and avoid procrastination. Reaching out to an advisor or finding a mentor to discuss your ideas can provide valuable guidance and reassurance. It's encouraging to see you taking these thoughtful steps toward making an informed decision. Stay open to the insights you gain along the way, and remember you're not alone in this process. Keep up the great work, and know that I'm here to support you whenever you need a space to share your thoughts.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll definitely reach out if I need to talk things through or get more guidance. It feels good knowing there's a plan in place.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has successfully summarized goals, steps, and coping strategies. A next-step plan with specific actions and support systems is in place, providing closure to the client's primary concern.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Associates in arts or Associates in science? Transfer out of community college.\nSo I want to major in computers which is associates in science but my advisor wants me to stay in associates in arts and use it to transfer out of community college.\n\nShould I listen to my advisor and stay in associates in arts or go into associates in science and follow the computers path way in the college.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

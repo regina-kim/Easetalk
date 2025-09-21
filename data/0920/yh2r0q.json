@@ -1,0 +1,230 @@
+{
+  "id": "yh2r0q",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you might be thinking about making some changes or have something on your mind. I'm here to listen and support you. What's been going on for you recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Yeah, I've been feeling kinda down lately. It's like everyone's out having fun and I'm just here by myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, feeling isolated while others seem to be enjoying themselves. What do you think might be contributing to these feelings of being down?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm not really sure. I guess it's just seeing everyone on social media having a blast while I'm stuck with nothing to do. It makes me feel like I'm missing out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be really hard to feel like you're missing out when you see others having fun. Social media can sometimes make those feelings more intense. What do you think could help you feel more connected or engaged with others?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, I’m not sure. I think it would be nice to have some plans or just hang out with people, but I don’t really know where to start.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of isolation and the impact of social media, but they have not yet identified specific underlying causes or potential solutions. The conversation has not progressed to mutually agreed goals, and further exploration could deepen the understanding of their situation.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be overwhelming not knowing where to begin when you want to connect more with others. What kinds of activities or social situations have you enjoyed in the past? ",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I used to like going to small get-togethers or just hanging out with a few friends. It was more comfortable than big parties, but now it feels like everyone’s busy doing their own thing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of isolation and the impact of social media, and mutual understanding is evident. The client has expressed uncertainty about how to start reconnecting, which suggests readiness to explore motivation and options.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you really value those smaller, more intimate gatherings. Reflecting on those positive experiences, what might it look like if you tried to create similar opportunities now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Maybe I could try reaching out to a few friends to see if they want to hang out. I guess it's just a bit nerve-wracking to make the first move, especially if they’re already busy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Reaching out can definitely feel daunting, especially with the possibility of them being busy. Yet, the idea of reconnecting with friends seems important to you. On a scale from 0 to 10, how confident do you feel about reaching out to them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 5? I'm kind of in the middle because part of me wants to try, but I'm also worried about being rejected or just feeling awkward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It's understandable to feel hesitant about reaching out, especially with those worries in mind. Despite that, you've identified a meaningful step toward connection. What might help move your confidence from a 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Maybe it would help if I had some ideas of what to actually say or suggest when reaching out. That way, I wouldn't feel as awkward starting the conversation, and it might also make it seem more inviting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has indicated a potential change goal by considering reaching out to friends. Confidence is at 5, which suggests ambivalence remains. The client also seeks specific strategies for initiating contact, indicating further guidance is needed to improve confidence and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having a plan for what to say can definitely ease some of the awkwardness. Developing a few conversation starters or specific activities to suggest might give you a boost. What kind of suggestions do you think would feel most comfortable for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "I think suggesting something casual like grabbing coffee or maybe having a movie night at someone's place could feel pretty comfortable. It’s low pressure, and it’d be nice to catch up in a relaxed setting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of reaching out to friends, identified meaningful activities, and discussed strategies to enhance confidence. While the client's confidence level is at 5, they have begun to explore ways to increase it. Continuing in the guiding phase is suitable to further build confidence and reduce ambivalence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Those sound like wonderful, low-pressure ideas to reconnect with friends. You value ease and genuine connection, and these suggestions seem to align with that. Reflecting on this, what do you think your friends might appreciate about these opportunities to hang out?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): They might like the chance to just unwind and chat without feeling like they have to dress up or go all out. It's just about spending time together, which I think can be a nice break from all the busy stuff.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific change steps (reaching out to friends for casual meet-ups) and values these intimate gatherings. Confidence is at 5, indicating ambivalence, but there is a clear desire to increase it. The client is exploring strategies to improve confidence, showing readiness to address barriers. All guiding goals are addressed, suggesting readiness for planning in Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Would you like to set a goal to reach out with one of these inviting suggestions? Perhaps starting with a simple plan, such as contacting one friend this week to propose coffee or a movie night, could feel manageable. What potential challenges do you foresee, and how do you think you might navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): Setting that goal sounds like a good idea, and starting with just one friend feels doable. I guess a challenge might be overthinking their response or worrying that they’re not interested, but maybe I could remind myself that it's just an invitation, and there's no harm in trying.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Thinking of it as just an invitation can definitely help ease the pressure. Would creating a reminder or affirmation for yourself around this be beneficial? Also, how would you prefer to track your progress and feelings as you take these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I think having a little reminder to not take things personally could help. Maybe just jotting down a quick note or affirmation somewhere I'd see it every day would work. As for tracking, I could keep a simple journal or even just type out thoughts on my phone whenever I reach out or get a response.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating a daily reminder to not take things personally sounds like a supportive strategy. A simple note or affirmation could serve as a gentle nudge to keep perspective. How does using a journal or your phone to track your outreach experiences feel to you, and are there any specific details you'd like to include in your reflections?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(reflecting): Using my phone to jot down thoughts seems convenient since I always have it with me. I’d probably just note who I reached out to, what I suggested, and how I felt about it. Maybe I'd add any responses or reflections on how it went, too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and concrete action plan to reach out to friends with specific suggestions. They have discussed potential barriers, like overthinking responses, and agreed on self-monitoring through reminders and tracking outreach experiences. They show readiness with commitment and reflection on taking steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan—having your phone handy makes it easy to capture your thoughts and track your progress. By noting who you contacted, what you suggested, and reflecting on your feelings, you'll gain insights into your experiences and see how you're growing. You've set an achievable goal by deciding to reach out to one friend this week with a casual invitation. Remember, giving yourself gentle reminders not to take things personally is a wonderful way to stay grounded. You're taking meaningful steps toward strengthening your connections, and that's something to be proud of. As you move forward, know that support is available whenever you need it. Keep embracing this journey with curiosity and self-compassion.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks for the encouragement, I really appreciate it. I'll give it a go and see how things unfold.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a goal, strategies are in place to address challenges, and a tracking method is established. Encouragement has been given, and the client feels ready to proceed, fulfilling termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone else alone on Halloweekend?\nI’ve got no plans and I’m all alone, playing sims and watching horror movies.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

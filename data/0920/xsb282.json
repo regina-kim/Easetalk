@@ -1,0 +1,209 @@
+{
+  "id": "xsb282",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've just been thinking a lot about my major. I'm currently doing chemistry, but I'm really drawn towards English and creative writing. It's just a lot to figure out right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling torn between your interest in chemistry and your passion for English and creative writing. What has drawn you to each of these fields?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, I guess it's that I find chemistry interesting and it's kind of what I thought I should do, but English and writing really excite me and feel more natural. It's like I enjoy the idea of creating stories and working with words so much more.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your passion for English and writing seems to bring you a lot of excitement and joy, which is quite different from how you feel about chemistry. What do you think it is about creating stories and working with words that feels so natural to you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think it's the freedom and creativity that come with writing. I love being able to express ideas and emotions through stories, and it feels like a way for me to connect with others on a deeper level. It just feels right, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their dilemma and feelings about choosing between chemistry and English. They have expressed their passion for writing and the uncertainty about career prospects. The counselor has shown empathy and understanding. However, more exploration of the client's thoughts on potential career paths and their feelings about the decision process is needed before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Writing seems to offer you a unique way to express yourself and connect with others, and that feels very fulfilling for you. How does that sense of freedom and connection compare to your experience with chemistry?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "With chemistry, it's more about following rules and formulas, which can be intriguing, but it feels restrictive compared to the open-ended nature of writing. I don't get that same sense of personal expression and connection when I'm working through equations.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated their thoughts and feelings about their interest in both chemistry and English, including the underlying reasons for their passion for writing. There's been a mutual emphasis on exploring these interests. However, more exploration is needed regarding their career concerns and realistic options.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "The structured nature of chemistry seems to feel limiting for you compared to the expressive freedom you find in writing. How do you feel about balancing these different aspects of your interests right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: Honestly, it's a bit overwhelming. I feel like choosing one means letting go of something important, but I also want to make a decision that feels true to me in the long run. I'm just trying to figure out how to balance it all without feeling like I'm missing out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their internal conflict and detailed the reasons behind their interest in both chemistry and writing. The therapist has built empathy and rapport and clarified the client's feelings. The client is expressing a desire to resolve this conflict, indicating readiness to explore motivations for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "It sounds like you're navigating a challenging balance between staying true to yourself and managing your interests. Considering your long-term goals, how do you envision your life if you were to fully pursue writing?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "client: If I fully pursued writing, I'd imagine myself working as an editor or writing some freelance pieces while working on my own book. It feels like a path where I could really express myself and hopefully impact others with my words, but it's also scary because it feels less secure than chemistry.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Imagining yourself as an editor or author seems to spark a vision of expressing yourself and impacting others, though the insecurity feels daunting. What might it look like if you pursued chemistry, and how would it align with your life goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(guiding): If I stayed with chemistry, I think I'd have a more stable career path, maybe working in a lab or in research. It aligns more with job security, but I worry that I might not feel as fulfilled or passionate about my work. It's like trading excitement for stability, and I'm not sure if that trade-off is worth it in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Balancing stability with passion is a significant consideration. Reflecting on your life goals, what are some values that are most important to you, and how might they guide your decision between these paths?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think creativity and personal fulfillment are really important to me, and I want to feel like I'm contributing something meaningful through my work. At the same time, I value having some level of security and being able to support myself comfortably. It's tough because both paths offer different aspects of what I value, so I'm trying to figure out which aligns best with what I ultimately want in life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored life with and without change, identified discrepancies between values and behaviors, and expressed a specific change goal of potentially pursuing a career in writing. There is Change Talk present, and the client has clearly articulated their values and concerns regarding stability versus passion, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Considering your values of creativity, fulfillment, and security, it seems like both paths have their own unique appeal. How might you start exploring ways to integrate writing into your life while maintaining some level of security, perhaps initially through a more stable role?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): I’m thinking maybe I could start with chemistry since it offers more stability, and then slowly build my writing skills and portfolio on the side. Maybe find ways to integrate writing into my free time, like freelancing or contributing to publications. That way, I wouldn’t be giving up on my creative dreams entirely.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach, balancing stability with your passion for writing. What specific steps do you imagine taking to start integrating writing into your free time, and how might you monitor your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I could start by setting aside some time each week dedicated to writing, maybe joining a local writing group or online community for feedback. I could also start submitting pieces to small publications or blogs to get my work out there. Tracking my progress could involve setting small, achievable writing goals and regularly reviewing them to see how much I've grown or where I can improve.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Joining a writing group and submitting pieces to publications are great steps toward integrating writing into your life. How do you feel about creating a schedule that designates weekly writing time and setting specific goals for this plan? What potential barriers do you anticipate, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Creating a schedule sounds like a solid plan, and setting specific goals would help keep me on track. I think one of the biggest barriers might be managing my time effectively, especially with chemistry coursework. I could address this by starting with small, manageable writing sessions and gradually increasing them as I get more comfortable balancing both commitments.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and concrete action plan to integrate writing with their current chemistry path. They have discussed potential barriers such as time management and proposed solutions. The client shows commitment by planning specific steps and self-monitoring strategies.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "That sounds like a practical and self-compassionate strategy to bridge your current commitments with your writing aspirations. By starting with small, manageable writing sessions, you're allowing yourself room to grow while acknowledging your existing responsibilities. Scheduling dedicated writing time and gradually expanding it could help you stay organized and motivated.\n\nIt's encouraging to hear your readiness to tackle potential time-management challenges. Remember, progress may be gradual, and it's okay to adjust your plan as you find what works best for you. You're showing great insight by balancing your passion and stability.\n\nAs we wrap up our session, it might be helpful to choose a specific day or time this week to begin that first writing session. Take a moment to celebrate each step forward, no matter how small, and be kind to yourself throughout this journey.\n\nKnow that I'm here to support you as you navigate this exciting phase. Keep nurturing your creativity and your goals. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your guidance. I'll definitely try to pick a day this week to kick off my writing schedule and take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, steps, and coping strategies, with a next-step plan discussed for integrating writing into the client's life, which indicates readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Changing major to English?\nI’m currently a chemistry major, but I’m seriously starting to consider changing my major. I have to register for classes for the spring semester soon so I think I’ll bring it up to my advisor there but I wanted other perspectives. I want to major in english with a concentration in creative writing. The only thing I could think of career wise would be teaching  but I don’t want to do that. Is it realistic to start my career as an editor and write a book on the ride to try and get a book published?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

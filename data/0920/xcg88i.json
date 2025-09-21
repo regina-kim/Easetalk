@@ -1,0 +1,188 @@
+{
+  "id": "xcg88i",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I help you today? Feel free to share what's been on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, well, I've just been feeling a bit torn about my major. I'm in Creative Computing right now, but I'm not sure if it's the right fit for me, especially with the coding part being tough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be challenging to feel uncertain about your major when coding feels tough. What aspects of Creative Computing do you enjoy or find interesting?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I like the creative projects we get to work on and the idea of combining tech with creativity. It's just the technical side, like coding and math, that feels overwhelming right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The creative projects and merging tech with creativity sound really appealing to you. You're feeling overwhelmed with the coding and math. Can you tell me more about what it's like when you're working on these technical parts?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): When I'm working on coding or math, it's like I'm constantly second-guessing myself and worried that I'm not getting it right. I feel like I'm moving slower than everyone else and it's a bit frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation clearly captures the client's story and context, revealing their struggle with choosing a major. The client has shared detailed feelings, thoughts, and reasons behind their indecision. The therapist has demonstrated empathy and understanding of the client's situation. Both parties have identified concerns and interests, suggesting readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough to feel like you're moving slower and second-guessing yourself with the technical parts. Considering how much you enjoy the creative aspect, how does that connect with your long-term goals or vision for your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I really hope to find a career where I can use creativity to make a difference, maybe in tech or design. But I'm just not sure if struggling with the technical stuff now will keep me from reaching those goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like your passion lies in making a difference through creativity, especially in tech or design. Reflecting on this, what do you think would help bridge the gap between where you are now and where you want to be in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think building more confidence in my technical skills would help a lot. Maybe finding extra resources or getting some tutoring could make a difference, but I'm also wondering if it's worth it if this struggle continues.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Building confidence in your technical skills seems important for feeling more aligned with your goals. Exploring additional resources or tutoring could indeed be beneficial. How confident are you, on a scale from 0 to 10, that seeking extra support would help you feel more capable with the technical aspects?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 out of 10. I do think extra support could help, but I'm still not sure if it'll be enough to make me feel comfortable or if I'm just not cut out for it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both Change Talk and a specific change goal of building confidence in technical skills. A confidence ruler was used, showing a confidence level of 6, indicating some readiness for change. The client is contemplating next steps like seeking extra resources or tutoring, showing progress in motivation. Ambivalence has been addressed. Given these signals, it's appropriate to move to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Perhaps considering both your interest in creative tech and the potential support options could provide clarity. Based on what you’ve shared, possible steps could include seeking tutoring or exploring online resources. Another option might be connecting with peers or mentors who can share their experiences. Which of these options do you feel might help you move towards your goal of building confidence?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think seeking tutoring and maybe talking to some peers or mentors would be a good start. Hearing from others who might've felt the same way could give me some perspective and maybe even some tips on how to manage the technical stuff better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Seeking tutoring and talking to peers or mentors sounds like a promising plan to gain both skills and perspective. How do you envision taking these steps? Perhaps setting a timeline or identifying specific tutors or mentors could be helpful. What do you think would be your first move in this direction?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I guess my first step would be to look into tutoring services offered by the university and see if there are any workshops for coding skills. I could also ask around in class or online forums to find someone who's been through this and might be willing to share their experience.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Exploring tutoring services and workshops at your university, along with reaching out to classmates or online forums, sounds like a solid way to start. How do you feel about setting a goal to reach out to at least one tutor and one peer or mentor this week? What potential challenges do you anticipate, and how might you address them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea. I think reaching out to a tutor and a peer this week is doable. The challenge might be finding someone who actually understands where I'm coming from or who has the time to help, but I guess I could just keep trying until I find the right fit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving seeking tutoring and interacting with peers, indicating progress in the Choosing phase. They acknowledge possible barriers and express readiness to attempt solutions. However, there's some uncertainty about the adequacy of these steps and a lack of expressed commitment or confidence boost, suggesting further exploration is needed in the Choosing phase before advancing.",
+        "determination": "continue"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Finding the right support can indeed take some persistence. It’s great to hear you’re open to keeping at it until you find someone who truly resonates. What strategies might help you stay motivated even if your first few attempts don't work out?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think reminding myself of why I'm doing this in the first place could help—focusing on the end goal of working in a field I’m passionate about. Also, I could set small milestones or rewards for myself when I make progress, to keep things more positive and less overwhelming.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan involving tutoring and peer support. They have addressed potential barriers by discussing persistence and motivation strategies. The client has shown commitment and confidence in their ability to take the outlined steps, suggesting readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Reflecting on your motivation and setting small milestones sounds like a powerful strategy to keep you going. Recognizing each step forward, no matter how small, can really cement your progress and keep things encouraging. Getting to work in a field you're passionate about is definitely worth the effort. As you reach out to tutors and peers this week, just remember that each connection is a step closer to your goals. Every bit of progress counts, and you've got the determination to make it happen. If you need any support along the way, I'm here for you. Keep up the great work, and I look forward to hearing about how things unfold.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll keep that in mind as I start reaching out this week. I'll let you know how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals and strategies, discussed next steps, and provided motivation. The client has a clear plan and feels encouraged to proceed, indicating readiness for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Torn between getting a business, psychology, or creative computing degree\nIf you've taken any of these 3 courses before, what advice would you give someone who is choosing between them?\n\nI'm in Creative Computing right now but I have the option to transfer while its still early.\nI chose it because it seems like the course that has the most potential for a good job in the future, considering where the world is headed.\n\nHowever, I find maths and coding a bit challenging. It was our first coding class today and I already felt left behind. Some of my classmates already studied the basics before they went into uni so I felt really dumb.\nI know I can learn it as I go along but it just feels really daunting. Like can I really do this for my whole life? \n\nI used to be interested in taking Psychology or Business but after seeing all the advice online from people who have Psychology and Business degrees... they mostly say that they're \"useless\" unless you do a Masters or be good at networking. \n\nPart of me wants to take on the challenge of doing a more difficult degree while another part of me wants to go the more comfortable route. I'm a pretty sociable person and I'm good at writing essays and being creative, that's why I chose creative computing because I thought it would be more creative but the coding part is what I find difficult.\n\n... what do you think?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

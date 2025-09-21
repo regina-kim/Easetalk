@@ -1,0 +1,188 @@
+{
+  "id": "111sras",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been feeling overwhelmed with everything on my plate lately. I'm struggling to figure out how to manage my time better and what I might need to cut back on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing everything can indeed feel overwhelming. What are some of the things currently taking up your time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, there's school, work, taking care of the animals, house chores, family responsibilities, time with my boyfriend, and trying to fit in meditation and journaling. It feels like there's just not enough hours in the day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you've got a lot of different responsibilities competing for your attention. With so many commitments, it's understandable to feel like the day doesn't have enough hours. Could you share a bit about how you feel when juggling all these tasks and activities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's a mix of feeling stressed and guilty, like I'm never giving enough time to any one thing. I just want to do everything well, but it feels impossible.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main stressors and feelings associated with their overwhelming schedule, and the therapist has shown empathy towards these concerns. However, the session has not yet delved deeply into the client's thoughts or mutually agreed upon goals for addressing these issues.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling stressed and guilty can be tough, especially when you're trying to give your best to everything. It sounds like you care deeply about each area of your life. What has helped you manage these feelings in the past, if anything?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, when things get too overwhelming, I try to meditate or journal to clear my mind. It helps a bit, but sometimes it feels like just a temporary fix.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story and context, revealing feelings of stress and guilt over managing numerous responsibilities. The conversation has successfully elicited the essence of their concerns and built rapport, with empathy demonstrated by the therapist. The goals of the Exploring phase have been met, as mutual understanding and recognition of the client's challenges are evident.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Meditation and journaling sound like thoughtful ways to manage stress. They offer a moment of clarity, even if temporary. What would life look like if you found a balance that felt right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think I’d feel more at peace and less like I'm constantly rushing around. Maybe I'd finally have some quality time for myself without worrying about what I need to get done next.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Finding that balance seems to be connected to a sense of peace and fulfillment for you. What strengths or values could you lean on to move closer to that vision of having more quality time for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "I guess I could lean into being organized and disciplined, which usually helps me stay on track. I also value my relationships and personal growth, so maybe I can find ways to align my schedule more with those priorities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Being organized and disciplined are wonderful strengths to draw on, especially when aligning your schedule with your values like relationships and personal growth. How might focusing on these priorities shift things for you, both in terms of your daily routine and your overall sense of peace?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Focusing on my priorities might help me cut out what's not as important and feel less spread thin. Maybe I'd be able to enjoy moments more instead of constantly thinking about the next thing on my to-do list.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change, identified strengths and values, and discussed how focusing on priorities could reduce stress. This indicates readiness for developing specific action plans, as the discrepancy between their current situation and desired peace is clear.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Shifting your focus to priorities can indeed create more space for enjoyment and presence in each moment. Now, in thinking about this, what specific goal would you like to set to help you find this balance? Would it be helpful to create a plan that uses your organizational skills to carve out dedicated time for personal growth and relationships?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting some specific goals would be a good start. Maybe I can schedule certain days or times for myself and my relationships, like dedicated slots for studying, chores, and everything else, so things don’t overlap as much.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Creating specific time slots sounds like a practical and effective strategy. How about we start by identifying which days or times you want to dedicate to personal growth and relationships? Additionally, we can anticipate any potential barriers that might come up and brainstorm ways to navigate them. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. Maybe I could reserve evenings for personal time and weekends for relationships, but I know unexpected things might pop up. We could think about how to handle stuff like last-minute work shifts or family needs without everything getting derailed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a flexible schedule that still honors your priorities can be very empowering. Reserving evenings for yourself and weekends for relationships is a great start. If unexpected disruptions arise, having a plan in place can help. Perhaps setting up a system where you can swap time slots if needed might work. How do you feel about that option, or are there other strategies you’d like to consider for managing unexpected changes?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Swapping time slots sounds like a smart move. I like the idea of having a backup plan so I can still stick to my priorities without feeling guilty. Maybe having a \"flex day\" each week could help absorb any last-minute changes without too much stress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal and an action plan involving specific time allocations and a backup plan for unexpected events. They’ve discussed barriers and considered solutions, indicating readiness to implement changes with confidence. The client’s commitment and preparation suggest readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "A \"flex day\" is a thoughtful addition to your plan, offering the kind of adaptability that can ease stress when life’s little surprises come up. You’re taking great strides by setting specific goals and giving yourself room for the unexpected. As you move forward, remember that it's okay to adjust as needed, and your organization and discipline will be key guiding forces. For now, focus on sketching out those dedicated slots for your evenings and weekends, while keeping your flex day in mind. Remember, each step you take is progress towards a more balanced and peaceful life. I'm here to support you as you navigate this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I feel better having a plan that's flexible. I'll start sketching out the schedule and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed the main concern of time management, with the client developing a flexible schedule and coping strategies. A next-step plan was discussed, and the client expressed readiness to implement changes.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Time management\nHello all! \n\nMy situation: \n-go to class Tues, Wed, Thursday all day. \n-days not at school working (20-25hr a week) \n-feed and maintain for 6 animals at home\n-am the main “cleaner” at my house\n-pick up and drop off my sister to school every week day\n-have a bf that I spend about 4-8 hrs a day with\n-need to meditate and journal daily to maintain sanity \n-need to study \n\nMy question:\nHow am I able to maintain something like this? Wat needs to be cut out?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

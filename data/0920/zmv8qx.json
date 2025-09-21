@@ -1,0 +1,167 @@
+{
+  "id": "zmv8qx",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm doing alright, just trying to navigate through some recent challenges. I've been dealing with some personal stuff that's been affecting my academic life and I'm wondering if I should be more open about it with my supervisor.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're going through a tough time balancing personal challenges with your academics. What about sharing with your supervisor makes you hesitant?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, exactly. I'm just worried it might be too heavy to bring up, especially since it's related to reproductive health, which feels a bit taboo. Plus, I'm not sure how much detail is appropriate or necessary.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Navigating these personal issues while considering how to communicate them can indeed feel overwhelming. It seems like you're concerned about the sensitivity of the topic and finding the right balance in how much to share. What thoughts have you had about what might be helpful to share with your supervisor?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've been thinking about mentioning that I've had some medical challenges without going into too much detail, just enough to explain why I've been a bit off lately. I don't want to make things awkward or go too deep into personal stuff, but I also want to be honest since he has noticed something's up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared her concerns, context, thoughts, and feelings in depth, mentioning her personal challenges, support systems, and her relationship with her supervisor. The therapist has responded empathetically and facilitated the exploration of the client's options. Goals of the Exploring phase are met as the client has articulated their story and the relevant context.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Sharing just enough to provide context while maintaining your comfort seems important to you. On a scale from 0 to 10, how confident do you feel about having this conversation with your supervisor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'd say maybe a 6. I'm confident in our relationship but the topic itself makes me anxious. I'm not sure how he'll react, and that's what's making me hesitate.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you have a solid foundation with your supervisor, which is encouraging. Your anxiety about his reaction is understandable given the situation. What might help you move closer to feeling more confident, say to a 7 or 8?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think having a plan for what to say and maybe even practicing it a bit could help. Also, reminding myself that he's been supportive in the past might ease some of the anxiety. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You have some valuable ideas to boost your confidence, like planning what to say and recalling his past support. How does imagining a positive outcome from the conversation impact your confidence level about having this discussion?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Imagining a positive outcome definitely helps. If I focus on how understanding he's been before, it makes me feel like it might go smoother than I'm fearing. I guess it bumps my confidence up a bit, closer to a 7.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, showing a desire to manage the situation with her supervisor and has articulated a specific goal (having a conversation about her recent challenges). Her confidence level has increased to a 7, indicating more readiness. Ambivalence about the topic remains, but she has strategies to overcome barriers. This suggests sufficient preparedness to move to the Choosing phase for planning and addressing barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Considering how imagining a positive outcome has boosted your confidence, let's explore some steps forward. You mentioned planning what to say and practicing it. What specific points would you like to include in your conversation with your supervisor?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by mentioning that I've had a medical challenge recently that's been affecting my focus and energy levels. I want to reassure him that I'm on the mend and am looking forward to getting back to my usual self. Maybe I'll also acknowledge that it's been a bit stressful academically, but I'm managing things better now.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It sounds like you've identified some key points that feel comfortable and appropriate for your conversation with your supervisor. How would you feel about writing down these points and maybe rehearsing them with a trusted friend or in front of a mirror to build your confidence further? Additionally, when considering any potential barriers, what might be helpful if your anxiety rises during the conversation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Writing them down and maybe practicing in front of a mirror sounds like a good idea. If my anxiety does spike during the talk, I could take a deep breath and remind myself that he's been supportive in the past, and that I'm just sharing enough to help him understand.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Your approach with writing down and practicing your points is a proactive way to prepare. Taking a deep breath and reminding yourself of his past support can be grounding if anxiety arises during the conversation. How would you like to track your progress or any feelings that come up as you prepare and after you've had the talk?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think I'll jot down my thoughts and feelings in a journal as I prepare and after the conversation. It might help to see any progress or shifts in how I'm feeling. I'll also check in with myself afterwards to reflect on how it went and what I might want to adjust for future conversations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and has developed an action plan to address the issue with their supervisor. They have also discussed barriers, such as anxiety, and strategies to manage them. The client is committed, actively taking steps, and confident in their ability to change. The planning stage is complete, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Journaling your thoughts and feelings can be a powerful way to process and track your journey, helping you recognize patterns, progress, and areas for growth. Checking in with yourself after the conversation will provide valuable insights for the future. Remember, every step you take is a step towards building even more confidence in these situations. You've got some great strategies in place, and your proactive approach is commendable. Feel free to reach out if you need more support as you prepare. Take care, and go at your own pace.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and the suggestions. I'll definitely keep those in mind and let you know how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear plan, coping strategies, and self-reflection methods for addressing their primary concern. They have expressed appreciation and have a proactive approach moving forward, indicating readiness for session closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I had a miscarriage between two conferences (did not know I was pregnant until I was actively miscarrying) and have been on a mental and physical health roller-coaster the last 4 months. I feel so much better now, but want to be transparent, do I tell my PI what's going on?\nFirst, it feels weird calling it a miscarriage because my husband and I are not trying to get pregnant, I have a hormonal arm implant (Nexplanon) and am in no way ready to start a family nor am sure that's something I will ever want.  I have told my mum, and a few close friends, but haven't really referred it as a miscarriage because that implies a loss.  I am so unbelievably relieved and can focus for the first time in over 3 months.  My doctor and my counselor are great allies and have been so supportive while pushing beyond me saying this is \"just a normal grad school mental breakdown\". I had an IUD before the arm implant and had not had a period in 5 years, so we never considered I could be pregnant and I assumed I had gained a little weight from stress eating.  Lo and behold, there is a 1/100 chance of getting pregnant with the Nexplanon arm implant, but most likely to be unviable and ectopic so there was a chance I needed a D&amp;C which was very stressful and upsetting while busy with conference prep and international travel.  I am emotionally exhausted and did become heavily reliant on Zopiclone to sleep when I was having frequent anxiety attacks.  Now that I am feeling pretty emotionally good and weaning off the Zopiclone, I am not sleeping nearly as well without it, but on my way to feeling like myself again.  I'm still not 100%, and would want to acknowledge that something has been off about me if my PI does bring it up (which he has in the past when I've been noticeably down - I'm often described as an effervescent and vivacious person and have no poker face).  Also I am still mildly traumatized from seeing the...expelled tissue...and often can't shake the image from my head and that has not helped my sleeping situation.  When I write it all out, it sounds very dramatic and serious.  \n   \nOn one hand, I am mentally at ease after months of uncontrollable crying, lack of focus, and intense, disruptive physical anxiety.  I was still able to do my project management job well but I had to make some big changes about my thesis and got kind of paralyzed in my own research. I don't want to diminish that my academic life is still really stressful: I work full-time as a project manager and my PI is also my MA supervisor so we see each other several times a week.  He knows me well. We have a good relationship and he is very supportive of me as a human, a researcher, and a professional in my field from before going back to school.  He is a very nurturing supervisor and has been supportive during other losses I have experienced in our time working closely together.  On the other hand, I don't know if it's better to leave it at \"I've had an ongoing medical challenge but am feeling a lot better, looking forward to the holiday break and returning refreshed\".  There is such a taboo about discussing women's reproductive health so it would be easier to talk about if it was strictly a mental health issue - it feels so heavy and complicated, especially with holiday parties and everyone asking \"how are you?!?!?\" when I'm not great.\n\nAny advice or similar experiences would be greatly appreciated.  I know other women who struggle with the dichotomy of academia vs family and work-life balance.  I feel quite alone in this as many of my friends are starting to get baby fever or actively trying to get pregnant.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

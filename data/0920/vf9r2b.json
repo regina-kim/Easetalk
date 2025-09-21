@@ -1,0 +1,167 @@
+{
+  "id": "vf9r2b",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been thinking about switching my focus from life science to biomedical engineering, but I'm feeling pretty overwhelmed with how different it seems. I'm worried about lacking the background in math and other technical stuff.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable that you're feeling overwhelmed given the differences between the two fields. You're concerned about the math and technical aspects because they seem quite new and challenging. What draws you to biomedical engineering, and how do you feel about the possibility of learning these new skills?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I just think the field is really exciting and has a lot of potential to make a difference in healthcare. But honestly, the idea of learning so much new stuff at once kind of scares me, like I’m diving into the deep end without floaties.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like you're really inspired by the potential impact of biomedical engineering in healthcare, which is wonderful. At the same time, it's natural to feel apprehensive about learning so many new things all at once. What aspects of biomedical engineering excite you the most, and have there been times in the past when you've learned something new that initially seemed daunting?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm really into the idea of designing tools and devices that can improve people's health. It's just so cool to think about, you know? And yeah, I guess I've picked up new skills before, like getting through my master's, but this feels like a whole new ballgame.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about switching focus to biomedical engineering, including specific fears and motivations. There's a foundation of empathy and understanding, with the client reflecting on past experiences of learning new skills. The conversation has covered the client’s thoughts, context, and feelings, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You're passionate about designing tools and devices that can make a real difference, which is inspiring. Reflecting on your past, you've successfully gained new skills during your master's, showing you're quite capable. On a scale from 0 to 10, how confident are you in your ability to tackle this new challenge, and what might increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): Right now, I’d say I’m sitting at a 4 or 5. I know I’ve done it before, but this feels like starting from scratch. Maybe having some support or a clearer plan on how to bridge the gaps would boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your confidence is currently at a 4 or 5, and you're seeking ways to feel more supported in this transition. It's great that you've identified having a clearer plan and support as things that could help. What kind of support or resources do you think would help you feel more prepared to bridge those gaps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think having a mentor or someone who's been through the same transition would be really helpful. Also, maybe some introductory courses or workshops in the areas I'm not familiar with, like math or computer science, could give me a better foundation to build on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Seeking a mentor who has navigated a similar path sounds like a valuable step, and introducing yourself to foundational courses could definitely strengthen your base. How do these ideas align with your long-term goals in biomedical engineering, and what small steps could you take towards finding this support and resources?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think finding a mentor and taking some intro courses would really align with my goal of making a meaningful impact in healthcare through engineering. I could start by reaching out to professors in the engineering department to see if they know any alumni who might be willing to chat, and I could look into online courses for math and computer science basics.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to change into biomedical engineering and identified specific support and resources needed. They are considering reaching out for mentorship and taking foundational courses, aligning with their long-term goals. Although confidence is currently low, specific next steps and a plan have been discussed, which suggests readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Considering your goal to make a meaningful impact through biomedical engineering, reaching out to professors and exploring online courses are promising steps. As we move toward a plan, what specific actions would you like to focus on first, and what potential challenges might you anticipate in these initial steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I’ll start by emailing a couple of professors to see if they can connect me with someone who's transitioned from life science to engineering. I might hit some roadblocks if the professors are busy or if there aren’t many alumni who made a similar switch, but it’s a good place to start.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Reaching out to professors to connect with someone who has made a similar transition seems like a solid first step. It's realistic to anticipate that professors might be busy or there might not be many alumni available right away. How might you handle it if you encounter these challenges, and are there other options you might consider if the initial approach doesn't yield results?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): If I hit a wall with professors being too busy or not finding the right alumni, I could try joining some online engineering communities or forums to ask for advice. There are probably people out there who’ve done something similar and could offer insights or support.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Exploring online engineering communities or forums for advice sounds like a great backup plan if the initial outreach to professors doesn't work out. Based on your plan, what timeline do you envision for taking these steps, and how will you monitor your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I’m thinking I could start emailing professors this week and give it a couple of weeks to see what responses I get. If that doesn’t pan out, I’ll shift to exploring online communities in a month or so. I’ll keep track of who I contacted and any useful advice or connections I make, so I can see how things are moving along.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan, including reaching out to professors and exploring online communities if necessary. They have also anticipated potential barriers and considered alternative strategies. They have a timeline for actions and a method for monitoring progress, demonstrating commitment and readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It’s wonderful to see you setting clear, actionable steps to reach your goal. Reaching out to professors this week and giving yourself a few weeks to gauge the responses is a thoughtful approach. Transitioning to online communities if needed provides a flexible yet determined path forward. Tracking your contacts and insights is a smart way to monitor progress and stay motivated. Remember, every small step brings you closer to making that meaningful impact in healthcare through engineering.\n\nKeep nurturing your curiosity and leveraging available resources. Please know that support is here for you as you navigate these steps. Let's reconnect to discuss how things progress and explore any new insights or needs that arise. You're on the right path with this structured plan.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I’ll start my outreach this week and see how it goes. It’s good to know there’s support available if things get tricky.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan for reaching out to professors and exploring online forums, with a timeline and progress tracking strategy. The session naturally concluded with a sense of closure and future check-in planned.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Switch from life science to biomedical engineering\nHow hard is this? I have the feeling that I am missing a lot of basic information. I have a master in a biomedical science, but I have very very few experience with statistics/math/physics/computer science/engineering. It will be very challenging for me right?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

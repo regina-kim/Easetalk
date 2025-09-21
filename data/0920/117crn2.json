@@ -1,0 +1,167 @@
+{
+  "id": "117crn2",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Is there anything specific on your mind that you'd like to talk about? I'm here to listen and understand your story.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. I've just been feeling kind of stuck recently, you know? Like, I thought getting into my dream school would be the hard part, but now it seems like just getting there is the real challenge.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling stuck after achieving something significant like getting into your dream school. What do you think is making it feel so difficult right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's just frustrating because I thought once I got in, everything would fall into place. But now it's like this big financial obstacle is in the way, and it feels like I'm so close yet so far.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing a lot of frustration because the financial aspect is creating a barrier to something you worked hard for. What has this been like for you emotionally, dealing with this unexpected challenge?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It's been a rollercoaster, honestly. One moment I'm proud of getting in, and the next I'm overwhelmed by how out of reach it feels because of money. It's just a mix of disappointment and helplessness.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the main concern about financial barriers to attending a dream school and the emotional impact it has on them. The therapist has successfully elicited the client's story, thoughts, and emotions, building rapport and understanding the context. There is a clear shared understanding of the client's struggle.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You've been going through a lot of emotional ups and downs, feeling both proud and overwhelmed at the same time. How do you envision things might change if the financial aspect wasn't holding you back?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I’d feel a lot more hopeful and motivated, like I could finally see the path ahead clearly. I'd probably be more excited about my future, without this constant worry about how to make it all work financially.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a future without these financial worries seems to bring a sense of hope and motivation for you. Considering your values and goals, what would taking a step toward that vision mean for you personally?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Taking a step toward that vision would mean feeling more in control of my future and not letting money dictate my choices. I think it would give me the courage to focus on what I really want out of my education and career, without that weight holding me back.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Envisioning that sense of control and courage sounds empowering. What strengths or resources do you think you already have that could help you move closer to that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think I’m pretty determined and resourceful when it comes to finding solutions, even if it's daunting. I’ve been trying to explore scholarships and other financial aid options, hoping something might work out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a strong vision of change, demonstrated motivation, and identified personal strengths. They are actively considering next steps, like exploring scholarships. Although ambivalence is present, confidence appears sufficient to move forward. The exploration of life with and without change has been covered, and the client is envisioning specific actions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your determination and resourcefulness in exploring scholarships and financial aid are truly commendable. Considering these strengths, what specific steps might you take next to continue pursuing financial solutions? We can also consider other possibilities like speaking to a financial advisor or adjusting expenses. How do these options resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think focusing on scholarships is a solid next step, and maybe reaching out to the financial aid office at the dream school to see if they have any advice or options I haven't considered. Talking to a financial advisor sounds smart too; they might have insights I haven't thought of. Adjusting expenses could be more challenging, but it's worth looking into if it means getting closer to my goal.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring scholarships and reaching out to your school's financial aid office seem like proactive and promising steps. Considering a financial advisor for new insights and looking at expense adjustments support that path too. How do you feel about setting a goal to tackle one of these steps first, and what timeline might work for you to start?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal sounds like a good way to keep myself accountable. I think reaching out to the financial aid office could be a good first step since they might have immediate options or advice. I’ll aim to do that within the next week or so, and then I can look into speaking with a financial advisor soon after.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out plan. Reaching out to the financial aid office and giving yourself a week to do it feels very manageable. It's great to see you prioritizing and taking control of the situation. How would you like to keep track of your progress, and what might help you stay motivated along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Keeping track of my progress could be as simple as jotting down what I learn or any steps I take in a journal or a note on my phone. Seeing it in writing might help me stay motivated. Also, maybe setting small rewards for myself when I complete a step could keep things positive and encouraging.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly defined a goal and an action plan involving reaching out to the financial aid office and consulting a financial advisor. They show commitment by setting a timeline and strategies for monitoring progress and staying motivated. Barriers like adjusting expenses have been discussed, and the client expresses confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Writing down your progress in a journal or note on your phone and setting small rewards sounds like a fantastic strategy to stay motivated. It's a tangible way to see how far you've come and celebrate your achievements, no matter how small. You're truly setting yourself up for success with these thoughtful steps. As we wrap up our session, remember that you're not alone in this journey. If you find yourself needing extra support or a little encouragement, feel free to reach out. I'm here for you. Keep up the great work, and I look forward to hearing about your progress next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll definitely keep in mind to reach out if I need to. Let's see how things go, and I'll update you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, steps, and coping strategies, along with a plan for next steps. The client's progress and motivation were discussed, providing closure and readiness for future action.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Nobody tells you how hard it is when you get into your dream school but can’t go because of finances\nMy family is in that area where we’re too rich for fafsa, but too poor to pay for college in its entirety. I know it’s a first world problem, but it still sucks.\n\nEdit- should’ve clarified, but I want to transfer to my dream school for the last 2 years. I’m a sophomore rn at a public school which I don’t really like.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

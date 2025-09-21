@@ -1,0 +1,167 @@
+{
+  "id": "xi1kul",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. Just feeling overwhelmed with everything I have going on, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It seems like you're juggling a lot right now. What are some of the things contributing to that feeling of being overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, there's the workload from school, my internship responsibilities, and then my job. It's just a lot to handle all at once, and I barely have time to catch my breath.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing school, an internship, and a job sounds incredibly demanding. You might feel stressed because there are so many tasks to manage at the same time. Can you share more about how this affects your day-to-day life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, it just feels like there's always something that needs my attention, and I never really get a break. I find it hard to relax because I'm constantly thinking about what needs to be done next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and feelings have been clearly elicited, highlighting their anxiety from balancing multiple responsibilities. Empathy and rapport are evident, and the client has expressed a desire for change. The goals of the Exploring phase have been met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing so many responsibilities seems to leave you with little room for relaxation. What would life look like if you had more time to recharge and unwind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd feel a lot more at ease and less on edge all the time. I'd probably have more energy and motivation to tackle everything, too, instead of always feeling drained.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Therapist: It sounds like having time to recharge could really boost your energy and motivation. What small changes do you think might help create that space for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess setting stricter boundaries with my time could help, like committing to not work or study past a certain hour. Maybe trying out some relaxation techniques, like meditating, even if it’s just for a few minutes each day, would be good too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful steps towards creating a more balanced life. Setting boundaries and trying relaxation techniques could really make a difference. On a scale of 0 to 10, how confident do you feel about starting these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe around a 6 or 7? I feel like I can try them out, but sticking to it and not letting the workload creep in will be the real challenge. It's tough to not feel guilty for taking breaks, you know?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific steps they are considering to create balance, such as setting boundaries and using relaxation techniques. Their confidence level is 6-7, and Change Talk is present. While they acknowledge challenges, they are open to trying changes. The existing discrepancy between their current stress and desired ease has been explored.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You have some great ideas on how to create more balance. As we develop an action plan, let's consider ways to set clear boundaries and integrate relaxation practices into your routine. Based on your thoughts, options could include setting an end time for your work each day and scheduling short meditation breaks. What do you think of these options, and are there any barriers you anticipate that we can plan for together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I like those ideas, especially the end time for work—it sounds like a solid way to disconnect. The meditation breaks sound good too, but I'm worried about sticking with it. The biggest barrier is probably feeling guilty for not working, or thinking I should be doing something productive instead.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Feeling guilty for taking breaks is a common challenge, but it's important to recognize that recharging is productive in its own right. Would you consider setting a specific, realistic work end time and committing to just a few minutes of meditation each day as a starting point? We can also think about strategies to help manage those feelings of guilt, like reminding yourself of how taking breaks can ultimately enhance your productivity. How does that sound to you, and what might help you stick to these practices?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds pretty reasonable. Setting a specific end time for work feels like a good starting point, and I could try just a couple of minutes of meditation to see how it goes. Maybe keeping a journal could help me track how I feel after taking breaks and encourage me to stick with it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Journaling sounds like a supportive way to reflect on the positive impact of breaks, which could reinforce your commitment. Creating a specific work end time and starting with brief meditation might become more manageable as you see the benefits. How might you remind yourself to journal and keep consistent with your plan? Are there any other supports or reminders that you think could help you along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I could set reminders on my phone or leave a note on my desk to prompt me to journal and meditate. Maybe having an accountability buddy, like a friend who's also trying to keep a balanced schedule, could help too. It might feel less daunting if I'm not doing it alone.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and action plan, including setting work boundaries, meditation, and journaling. Barriers like guilt have been identified, and strategies like reminders and an accountability buddy are agreed upon, indicating readiness. The client shows commitment and confidence by suggesting practical solutions, reflecting a willingness to take steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having an accountability buddy is a fantastic idea; it can truly make the journey feel less solitary and more supportive. Setting reminders on your phone and leaving notes are practical steps that can keep you in check. It’s wonderful to see how you're piecing together these strategies to support your goals. You've identified setting a work end time, starting with short meditation, and journaling as key steps. Remember, every small step you take is progress, and it's okay to adjust as needed. You’re cultivating a healthier balance, and that’s something to be proud of. As you move forward, know that reflecting on your experiences and sharing them with your buddy can provide encouragement. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement through all this. I'll give these strategies a try and see how they work out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have summarized effective strategies, such as setting work boundaries, meditation, and journaling. A plan with support mechanisms like reminders and an accountability buddy is established, addressing the client's concerns effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does the anxiety go away?\nI just started grad school and on Sundays I feel so anxious and nervous. I’ve got a lot on my plate with work, school, and internship-but the nerves have been rough. Part of me misses my “normal” life. I know it’s all going to be worth it-I just hope these nerves calm down 😞",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "xjs0rm",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just feeling a bit stuck with this situation with my professor. It's been making me really uncomfortable, and I'm not quite sure how to handle it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds challenging, feeling stuck and uncomfortable can be tough. Could you share a little more about what's been happening with your professor?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's been weird because he was really helpful and supportive at first, but now his behavior feels off. I think he's crossing boundaries with all these personal comments, and I'm just not sure how to deal with it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be unsettling to experience a change in his behavior, especially when it feels like boundaries are being crossed. What kind of personal comments has he been making that make you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Well, he keeps complimenting my looks in a way that's more personal than professional, and he's often emailing just to say he misses our conversations. It feels more like he's interested in me than just being a supportive professor.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their concern about the professor's behavior, providing detailed context and feelings about the situation. Empathy and rapport have been established, with mutually agreed goals appearing to address the uncomfortable dynamics. The conversation is not stuck in repetitive patterns, indicating readiness to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a tough situation to navigate. It's important to feel comfortable and safe in your academic environment. How do you envision handling this situation in a way that aligns with your values and sense of well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'm trying to figure that out. I want to maintain a professional relationship because his recommendations have been helpful, but I also want to set boundaries and feel comfortable in class. It's a bit of a balancing act right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing professional needs with personal comfort can indeed be tricky. What steps do you think might help you establish those boundaries, while preserving the positive aspects of the relationship that have been beneficial to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'm considering talking to him about keeping our interactions more professional, but I'm a bit nervous about how he'll react. I might also limit my email responses to strictly class-related topics to see if that helps set a clearer boundary.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Approaching this situation takes courage, and it's great that you're considering ways to set boundaries. Limiting email responses to class topics seems like a thoughtful step. On a scale from 0 to 10, how confident do you feel about initiating this conversation with him, aiming for the balance you're seeking?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'm probably at a 4 right now. I know it's something I should do, but the thought of actually having that conversation is really intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client still exhibits ambivalence, expressing nervousness about addressing the situation and a confidence level of 4. While specific steps have been identified, the client is not yet assured in executing them. Further guidance is needed to strengthen confidence and reduce ambivalence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It’s understandable to feel intimidated about having that conversation. Recognizing the importance of this step shows a lot of insight. What might help you feel more confident, maybe moving from a 4 to a 5 or 6, in approaching this discussion with your professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think if I had a clear plan or maybe even practiced what I want to say, I might feel a bit more confident. It might also help to talk it through with someone else to get their perspective or support.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to address the situation by setting boundaries with the professor and has identified possible steps to take. However, the client's confidence in initiating the conversation is low, indicating the need for further discussion to enhance readiness and confidence. The presence of ambivalence and a confidence level below 6 suggest it is prudent to continue in the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having a plan and seeking support sounds like a thoughtful approach to building confidence. Practicing the conversation could provide clarity and reassurance. Who might you feel comfortable discussing this with to gain perspective and support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I could talk to a close friend or maybe even another professor I trust who might understand the situation. Having someone to bounce ideas off of and get advice from could make a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal—setting boundaries—and has some ideas on steps to take, such as limiting email topics and speaking with a trusted person for support. Change Talk is present, but the client's confidence is at a 4, indicating they're not ready to move to action planning. Further confidence building and reducing ambivalence are needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Reaching out to a trusted friend or another professor for their perspective and support sounds like a supportive step forward. It reflects your resourcefulness and willingness to seek guidance. How do you think gaining their insights could impact your confidence level in approaching the conversation with your current professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think hearing their thoughts and maybe getting some validation would make me feel less alone in this. Just knowing someone else understands the situation and stands by me could definitely bump my confidence up a notch or two.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Change Talk is present, including steps like limiting email topics and seeking support. However, confidence is currently at 4, indicating the need for more exploration and support. There is a specific change goal but readiness signals like decreased ambivalence aren't fully met yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling validated and supported can truly make a difference. It's empowering to know you're not alone. As you consider this, what other aspects of your values or goals come to mind that might guide how you approach setting these boundaries?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I really value my education and future career, so maintaining a professional environment is crucial for me. I also think it's important to feel safe and respected, so balancing those priorities is at the forefront of how I want to approach this.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to set boundaries and seeks support from others, but confidence is at 4, indicating ambivalence. Discrepancy between behavior and values is explored, but without a concrete change goal or increased confidence, further guiding is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your commitment to maintaining a professional environment while prioritizing your safety and respect speaks volumes about your values. Balancing these priorities can offer great clarity and direction. How might these values influence your next steps toward initiating that conversation with your professor?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Keeping those values in mind, I think I'll draft a message first, focusing on professionalism and respect. I want to communicate clearly but in a way that doesn't create unnecessary tension. Maybe having a friend read over it could help ensure I'm expressing myself well.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal: drafting a message to communicate boundaries with the professor. They recognize the importance of aligning their actions with their values, but their confidence is currently low (rated 4). Seeking support and practicing the conversation has been identified as ways to increase confidence. Therefore, more exploration in the Guiding phase is needed to increase confidence and decrease ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "therapist(guiding): Drafting a message that reflects your values of professionalism and respect seems like a thoughtful way to prepare. Having a friend review it could add reassurance and help you feel more confident about your approach. As you move forward, what small step could you take today to begin this process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I think today I could start writing the first draft of the message, just to get my thoughts on paper. Maybe I'll also reach out to a friend and ask if they can set aside some time later in the week to look it over with me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific values such as professionalism, safety, and respect, and has expressed a clear plan for change by drafting a message and seeking a friend's feedback. Ambivalence has decreased as the client has expressed increased confidence through support seeking and planning. Change Talk is present, reflecting readiness to move toward actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Starting your draft today sounds like a constructive way to channel your thoughts and begin the process. Reaching out to a friend for their input adds an extra layer of support. What might your action plan look like for writing the draft and contacting your friend?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "I'll set aside an hour this evening to jot down my thoughts and start piecing together the message. Then, I'll text my friend to see when they're free to chat sometime this week. That way, I can get their feedback and tweak it if needed before finalizing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Allocating time this evening to begin your draft and reaching out to your friend sounds like a solid plan. By breaking it down into these steps, you're setting yourself up for clarity and support. Could there be any barriers you might anticipate in this process, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(reflecting): I guess I might struggle with finding the right words to express how uncomfortable I feel without sounding accusatory or making it awkward. If that happens, I could maybe look up some resources or examples online about handling tricky conversations professionally.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Exploring online resources for guidance on phrasing can definitely support you in crafting a message that feels right. You’re taking proactive steps to ensure effective communication. As you work through this, how would you like to monitor your progress or check in with yourself about how this process is going?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(choosing): I think I'll keep a little journal or notes on my phone to track how I'm feeling throughout this process. If I notice I'm getting too stressed or anxious, I can take a break or talk it out with someone, just to make sure I'm not overwhelming myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan and discussed potential barriers. They have expressed confidence and commitment in moving forward with their plan, including self-monitoring through journaling. Given their readiness and proactive approach, it is appropriate to transition to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Keeping a journal or notes on your phone to monitor your feelings is a great way to stay in tune with yourself. Recognizing when to take a break or reach out to someone is a wonderful strategy to manage stress and maintain your well-being. You're really showing commitment to making thoughtful, informed decisions. With your plan set, taking these steps at your own pace will be valuable. Remember, I'm here to support you, and reaching out when you need is always a good choice. You're doing a fantastic job nurturing these important aspects of your life.",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks so much for your support and guidance. I'll keep everything you said in mind and touch base if I need more help.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan and coping strategies, such as drafting a message, seeking peer feedback, utilizing online resources, and monitoring stress. These steps address the concern effectively, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Weird professor. not sure what to do\ni’m a 4th year student and i’m taking a class that’s required for graduation with a professor i took 2 summers ago for an online class. that summer i had a rough time and was going through some things, and my professor was very understanding and kind. he was quick to respond to emails and worked with giving me extensions and stuff, and after the class ended we periodically emailed about school and life and i always thought he was very kind and compassionate. he has great ratings on rate my professor and up until now i have never felt uncomfortable or creeped out by him. as time went on, the emails from him became more consistent and long. this man would write me novels and send random “how are you doing” at 12 and 1am. well, last spring he recommended me for a scholarship and to be in a mentor program and one day i was on campus and decided to stop by his class quickly to formally introduce myself in person and thank him for the opportunity. i then received and email almost immediately after and one of the BOLD captions was “Meeting you: please do not be offended” and he went on to talk about how beautiful i was on the inside and out and how my eyes were beautiful (all in the school email, and i was wearing a mask). fast forward to now, i have him in person on mondays and wednesdays and in class yesterday he was staring at my the entire lecture and he emailed me today and was talking about my looks and that he “loved” seeing me in class. sometimes if i take too long to reply to the emails he will say something like “i miss our emails” like bro is down bad and also married with 4 kids. the biggest downfall is that i have had many opportunities open up because of his recommendations and i plan on going to law school and could really use him for that but i also have an entire semester of class with him and i feel like he’s undressing me with his eyes every time i see him so i don’t know what to do 🥴",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

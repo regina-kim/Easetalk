@@ -1,0 +1,230 @@
+{
+  "id": "ur3hp1",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you doing today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm okay, just a bit stressed. I'm really worried about my thesis situation and how it might mess up my graduation plans.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like the stress from your thesis is weighing heavily on you. Can you share a bit more about what's happening with your thesis and your graduation plans?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, so basically, I got into this program expecting to start working on projects for my thesis right away, but it's been a whole semester and nothing's moving. I'm worried because my graduation timeline is based on these projects actually happening.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, especially when you had specific expectations. You’re feeling stressed because the delay is impacting your graduation timeline. What have been some of the challenges in getting these projects started?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): The main issue is that the projects are either delayed or just not happening at all. Plus, I found out my advisor isn't actually a PI on any of them, so she's not really in a position to push things forward. It's like being stuck in limbo.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase effectively captured the client's main concerns regarding their thesis situation, advisor role, and the impact on graduation plans. Empathy and rapport are present, with a clear understanding of the client's frustrations and challenges. It seems appropriate to transition to exploring motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough feeling stuck like this and seeing your plans potentially affected. Reflecting on your situation, what would life look like if these thesis projects moved forward, and how does that compare to where things stand now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): If the projects were moving forward, I'd be more confident about graduating on time and not have this constant stress hanging over me. Right now, it feels like I'm just waiting around without making progress, and it's pretty frustrating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Sounds like having your projects move forward would bring a sense of relief and accomplishment, aligning more with your graduation goals. What would it mean for you to regain some control over this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): Regaining control would definitely ease a lot of my stress. It would mean I could actually plan my next steps and feel like I'm on track with my goals, rather than just waiting around and hoping something changes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling more in control seems really important to you, especially in aligning with your graduation goals. How confident do you feel, on a scale from 0 to 10, about finding ways to regain some control over your thesis situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 4 or 5 right now. I know there might be some things I can try, but I'm not sure how much influence I'll actually have in changing the situation. It's a bit daunting, to be honest.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their current situation and their graduation goals, explored life with and without change, and rated their confidence level as 4 or 5. While there is some change talk, the client's confidence is below 6, indicating they may need further exploration and support in the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It makes sense to feel daunted, given the uncertainty and your current position. What small steps do you think could help increase your confidence from a 4 or 5 to a higher number, even by just a little?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I guess I could start by having a conversation with my advisor to understand more about the situation and maybe even talk to some of the other PIs involved. Also, looking into other potential projects or research areas might be helpful in case nothing changes with the current ones.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the impact of their current situation, envisioned life with change, and identified small steps to regain control. However, their confidence remains low at 4 or 5, indicating ambivalence and uncertainty. The client's plan is still emerging and lacks specificity. More exploration of actionable strategies and building confidence is necessary.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Taking those steps to gather more information and explore other options sounds empowering and proactive. It's clear that you're thinking about ways to enhance your situation. How do these potential actions align with your overall values and aspirations for your academic journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): They definitely align with my values of being proactive and taking ownership of my path. I want to make sure I'm doing everything I can to succeed and not just leaving things to chance, especially since my education and future are really important to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of the discrepancy between their current situation and goals, showing motivation for change through reflections on empowerment and proactivity. They've identified specific steps to address their concerns. However, their confidence is moderate, indicating a need for further strengthening before moving to action planning. Continuing in the guiding phase could help reinforce confidence and explore ambivalence more deeply.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Your commitment to being proactive and taking ownership really shines through, and it's inspiring to see how aligned these steps are with your values and aspirations. How might recognizing these values influence your confidence in taking these next steps forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): Recognizing how important these values are to me actually boosts my confidence quite a bit. It reminds me that I have the capability to navigate tough situations and that I'm not just at the mercy of circumstances. It makes the idea of taking those steps feel less daunting and more like a natural extension of what I believe in.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has engaged in strong Change Talk, identified specific steps to take, and shown increased confidence aligned with their values. They have also expressed a proactive plan to address their situation, moving beyond ambivalence. These indicators suggest readiness to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Embracing those values as a source of strength is fantastic and seems to bolster your confidence in navigating this situation. Based on what you've shared, possible options include scheduling that conversation with your advisor and exploring alternative projects or research areas. What do you think would be a realistic timeline to take these steps, and how might you monitor your progress on this path?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think I could schedule a meeting with my advisor within the next week or so, and maybe start looking into other projects or research areas over the next month. To monitor my progress, I could keep a journal or set reminders to check in on my progress every couple of weeks, just to make sure I'm staying on track and addressing any new hurdles that come up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful and manageable steps, and keeping a journal or setting reminders seems like a great way to stay organized and focused. How do you feel about committing to this plan, and are there any potential barriers you foresee that we might consider addressing together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(reflecting): I'm feeling pretty good about committing to this plan. It feels like a step in the right direction and something I can actually control. The main barrier I can think of is if my advisor isn't receptive or if there are institutional obstacles I can't navigate alone, but I guess that's something we could explore how to handle if it comes up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Your readiness to commit to this plan is encouraging, and it's good to anticipate potential barriers like advisor receptiveness or institutional hurdles. We can definitely explore strategies together if those challenges arise. Would having a backup plan or additional resources be helpful in maintaining momentum if you encounter these obstacles?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(reflecting): Having a backup plan or resources seems like a smart idea. It might help me feel more prepared and less anxious about potential roadblocks. Maybe identifying a few people in the department I could reach out to for advice or even considering alternative paths if things don't pan out with my current projects could be useful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear and concrete action plan and discussed potential barriers with monitoring strategies, showing readiness and commitment. They appear confident in their ability to implement the changes and are prepared to address challenges. Given the progress, it seems appropriate to transition towards concluding this phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Those considerations sound wise and empowering. Identifying supportive people within your department and having alternative paths can provide reassurance and continuity. You've shown a lot of insight in your preparation and decision-making. With these steps in place, you're well equipped to move forward, and I'll be here to support you as needed. Next, you might want to start scheduling that advisor meeting and begin noting those alternative resources. This is a solid plan, and you're making great strides toward your goals. Keep up the great work; your proactive approach is truly impressive!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I’ll get on scheduling that meeting and think about who else I can turn to if needed. I’ll keep you posted on how it all goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, coping strategies, and next steps, with the client ready to implement their plan. The discussion acknowledged potential barriers, and the client expressed confidence in moving forward, indicating readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Any Red Flags I Missed?\nHi all, \n\nI'm in a thesis STEM MS where the professors/PIs largely choose students instead of having students rotate in labs or reach out to potential PIs. I was brought in to work on a few collaborative projects where the PIs and my advisor are not the same people. This was never mentioned to me, and I happened to find out when an undergrad and I were talking. For various reasons, any and all projects I was supposed to use for my thesis are either disjointed, have been delayed, or will no longer happen (it's been an entire semester and I've done no work on anything). Turns out my advisor merely \"consults\" on 1 of them and failed to mention she is not a PI on any project right now, is powerless to move them along, and seems to care a little less every day. This is slowly becoming more of an issue that could possibly keep me from graduating on time. \n\nIs any of this unusual, or is it just how it goes in academia sometimes? Is having an advisor who is not my PI problematic?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

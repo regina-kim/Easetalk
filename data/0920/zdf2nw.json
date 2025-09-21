@@ -1,0 +1,188 @@
+{
+  "id": "zdf2nw",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and understand your story.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm just feeling really lost right now with everything going on at university. Friends I thought I had aren't really there for me anymore, and it's just been tough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really challenging to feel distant from friends while navigating university life. What has been particularly tough for you about this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's just the loneliness, you know? I thought I had this great group of friends, and now it feels like I'm back to square one. It's hard not knowing why things changed or how to fix it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds really difficult, feeling lonely and uncertain about those changes in your friendships. It makes sense you'd feel this way since you valued those connections and now things feel different. What's it been like for you trying to navigate these feelings of loneliness?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's been pretty overwhelming. I keep overthinking every interaction, wondering if I did something wrong. It's hard to enjoy anything when I'm constantly questioning myself and feeling left out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's story and context, including their feelings of loneliness and self-doubt in university life. The therapist has shown empathy and understanding, creating rapport. The essence of the client's concerns, including friendships and motivation, is clear, which satisfies the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds overwhelming, trying to enjoy things while feeling left out and questioning yourself. You're clearly reflecting a lot on these interactions. How do you envision things might change if you felt more connected to your friends again?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess I'd feel more at ease, like I belong. It would be nice to have people to share experiences with and not feel so isolated. I think it would help me focus better on my studies too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "There's a sense of belonging and ease that you’re longing for, which seems really important to you. Having those connections could really impact both your social life and studies positively. On a scale from 0 to 10, how confident do you feel about finding ways to reconnect with your friends or build new connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 4 right now. It feels a bit daunting and I'm not really sure where to start, but I want to try and change things.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's understandable that it feels daunting, especially when you're at a 4 on the confidence scale but have that desire to change things. It's great that you want to try. What small steps do you think might help in starting to rebuild those connections or create new ones?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by reaching out more, maybe inviting people to hang out or study together. I could also try joining some clubs or activities on campus to meet new people and see if I click with anyone there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some Change Talk by expressing a desire to reconnect and mentioning potential actions like reaching out and joining clubs. However, confidence is at a 4, which is below the threshold of 6 for readiness. The ambivalence and uncertainty about where to start still persist, suggesting further exploration of motivations and confidence building is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking those steps to reach out and join new activities shows a lot of courage and willingness to connect. It might open up new opportunities to feel more connected and supported. Reflecting on your values around friendship and belonging, how do they align with your goals for university life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Well, I really value having a sense of community and support, like knowing there are people who have my back. I want my university experience to be about more than just studying, to build friendships and memories along the way. That's why it's been hard feeling disconnected, because it feels like I'm missing out on a big part of that experience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified specific steps to reconnect with friends and build new connections. Confidence is at 4, indicating room for growth, but the desire for change is present. The client has aligned their values with their goals for university life, reducing ambivalence. Moving to the Choosing phase can help solidify these plans and address potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It’s clear how important community and support are to you in your university journey. The goal of building friendships and making memories is deeply rooted in what you value. Considering your ideas about reaching out and joining activities, what specific action would you like to take first? You could start by inviting someone to hang out or perhaps explore clubs that interest you. How do you feel about starting with one of these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think starting with inviting someone to hang out might be more manageable for me right now. It feels like a direct approach and less overwhelming than diving into a completely new group or club. I'll try reaching out to someone I haven't talked to in a while and see if they'd like to grab coffee or something.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a great first step—inviting someone to hang out for coffee could really help ease some of that disconnection you're feeling. It’s a direct and approachable way to start reconnecting. What might be some potential challenges you anticipate with reaching out, and how could you handle them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I guess I'm worried about being ignored or rejected, like if they don't respond or say they're too busy. That might make me feel worse, but maybe I could try not to take it personally and remind myself it’s just one step in the process. If that happens, I could try reaching out to someone else or think of other ways to connect.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's insightful that you're already thinking about how to handle potential challenges, like not taking it personally if someone is busy or doesn't respond. Reminding yourself that it's just one step in the process can be really helpful. Would you like to create a plan for how and when you’ll reach out, and maybe identify a couple of people you’d like to invite? It might also be useful to set a little reminder for yourself about the broader purpose behind these actions.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having a plan could make it seem less intimidating. I can think of one or two people I used to talk to more often, maybe reach out to them this weekend. Setting a reminder about why I'm doing this, like wanting to reconnect and build friendships, could definitely help keep me motivated and not get too discouraged if things don't go as planned.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan to invite someone for coffee and identified potential barriers with strategies to manage them. They have acknowledged the importance of self-reminders for motivation. While confidence is still building, they show readiness by committing to take steps and self-monitor. The goals of the Choosing phase appear met, indicating preparedness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Having a plan to reach out this weekend and a reminder of your motivation sounds like a thoughtful way to approach this. You’re showing great self-awareness and resilience in your willingness to try reconnecting, even if it feels intimidating. Remember, it’s all about progress, not perfection. Celebrate each step you take, knowing it aligns with creating those meaningful connections you value. After reaching out, you can reflect on how it went and what you’d like to try next. Feel free to share your experiences and any feelings that come up. You’re not alone on this journey, and every small step brings you closer to the university experience you're hoping for.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for all the support and encouragement! I’ll definitely keep you updated on how things go and how I'm feeling about it all. It feels good to know I'm not alone in this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has successfully addressed the client's concerns by setting a clear plan for social reconnection and discussing potential challenges and coping strategies. The client expressed understanding and readiness to proceed with their plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Please help I am lost in life\nI am currently doing 1st year in IT, it's been a roller coaster for the past few months. \nI had a great start to my year made many friends really enjoyed being in university\nBut now every friends I made at the start are going away from me idk why? \nIs it because I am a boring person? Or.. What, I really don't understand \nThey are making their own groups, ignoring my messages and ppl whom I was really close to are slowly slowly avoiding me \nI genuinely don't have any friends and the ones I have I barely talk to them daily\nI am feeling very lonely and I have no motivation to study also cuz these things are coming into my mind and that's y I am not able to concentrate. \nIt's been just 2 months maybe I am going really harsh on myself, but if I see my other friends they are so well settled in their uni life it breaks my heart \nI really need help what should I do",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

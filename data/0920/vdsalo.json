@@ -1,0 +1,167 @@
+{
+  "id": "vdsalo",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm kinda torn between choosing a major for my undergraduate degree. I want to be involved in the pharma industry, but not in research. It's confusing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can be a challenging decision. You're feeling uncertain because you want to work in the pharma industry but not in research. What aspects of the industry interest you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I'm really drawn to the business side of things, like management or strategy. I think it’d be cool to help a company grow and reach more people with their products.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're excited about the idea of using your skills to help a company expand and make an impact. What experiences have you had so far that connect with this interest in business management or strategy?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I’ve been involved in some school clubs where I got to plan events and manage small teams, and I really enjoyed it. Plus, I’ve always found it interesting to read about how companies develop their strategies.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concern about choosing a major not focused on research but on management within the pharmaceutical industry. They have also described their experiences and interests that align with this goal, and the therapist has shown understanding and empathy. Goals appear aligned.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's great that you’ve had some hands-on experience with planning and management in your school clubs. Those experiences seem to resonate well with your interest in business strategy within the pharma industry. How do you see these interests aligning with your personal goals or values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I really value making a difference and helping people, so working in pharma feels like a good fit because it's all about improving health. I just want to make sure I’m choosing a path that combines what I’m good at and what I enjoy doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your desire to make a difference while leveraging your skills in management and strategy is commendable. Considering your interest and values, how confident do you feel on a scale of 0 to 10 about finding a path that brings these elements together in the pharma industry?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'm probably at like a 6 right now. I feel like it's possible, but there's still a lot of uncertainty and fear about making the wrong choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Being at a 6 shows that you see possibilities, even with some uncertainty and fear. What would help move that confidence closer to a 7 or 8, aligning more of what you enjoy with your goals in the pharma industry?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe talking to people who are already working in those roles would help, like to get a real sense of what it's like day-to-day. Or maybe even taking some introductory classes to see if they spark my interest more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as speaking with professionals and taking classes to explore interests further. Change Talk is present with a confidence level at 6. The client is considering actionable steps to align with their values and goals, indicating readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(choosing): Connecting with professionals in the field and trying out some introductory classes are both excellent ways to gain more clarity. You could start by exploring either or both options. Would you like to set a goal around reaching out to people in the industry or enrolling in a class? What do you think might be the first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good idea. I think reaching out to people in the industry would be a good first step, maybe through LinkedIn or career events at school. I can also look into what classes are available for the next semester to try out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting a goal to connect with professionals and explore classes is a proactive approach. How about we set a specific plan, like reaching out to three people on LinkedIn this week and checking your school's course catalog for relevant classes? What might be some potential challenges you anticipate, and how could you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds doable. A potential challenge might be feeling awkward or unsure about what to ask when reaching out to people on LinkedIn. I guess I could overcome that by preparing some questions in advance and maybe practicing what to say.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Preparing questions in advance and practicing your approach can definitely help ease any awkwardness. It's great you're thinking ahead. How about you draft a list of questions this week and maybe even role-play a conversation with a friend? This could help you gain confidence. Would you like us to check in next time to see how these steps are going and discuss any new insights or barriers you might encounter?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds really helpful. I'll try to come up with a list of questions and maybe do a mock conversation with a friend. Checking in next time sounds good, so I can let you know how it goes and if anything new comes up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and an action plan for reaching out to industry professionals and exploring classes. Barriers, such as awkwardness in networking, have been discussed with strategies like preparing questions. They also agreed to self-monitor by checking in on their progress. The client is showing readiness with commitment and confidence in the outlined steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating that list and practicing with a friend are great strategies to build your confidence. It's wonderful to hear you're willing to engage with these steps. With your determination, you're setting a strong foundation for aligning your career path with your values and interests in the pharma industry. We'll check in next time to see how everything is progressing. Remember, you're taking meaningful steps forward, and I'm here to support you along the way. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll get started on those steps and looking forward to our next check-in. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded naturally with a review of progress, implementation of a plan, and an agreement for a follow-up. The client expressed readiness to execute the plan, indicating closure for now.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what major should i take for my undergraduate\nshould i take pharmaceutical science/finance\ni'm really torn apaarttt TT I actually wanna be involved in the pharma industry, but not part of the R&amp;D, more like managerial",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

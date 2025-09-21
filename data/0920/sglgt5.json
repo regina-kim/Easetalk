@@ -1,0 +1,167 @@
+{
+  "id": "sglgt5",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What’s on your mind today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been really stressed out about this econ class I'm taking. I'm worried about failing it because the lectures are confusing and I've heard the exams are tricky. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough to feel stressed about your econ class and worried about the exams. Can you tell me more about what makes the lectures confusing for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, it's like the professor explains things in a way that sort of goes over my head. I try to take notes, but when I review them later, it feels like I'm missing the bigger picture.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds overwhelming when the professor's explanations don’t feel clear, leaving you unsure about the material. How do you usually handle situations when something isn't clicking in class?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I usually try to go over my notes again or look up videos online to help break things down. Sometimes I ask classmates for help, but it doesn’t always clear things up for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including their thoughts and feelings about the difficult econ class and their concern about failing. The therapist has shown empathy and rapport, and the client has shared coping strategies. The conversation is productive and not repetitive.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It appears you're really committed to understanding the material and are trying multiple strategies. How do you envision feeling if you were able to grasp the concepts more clearly and perform well in your class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd feel a huge sense of relief and maybe a boost in confidence. It’d be nice to not have this constant worry hanging over me, and just feeling like I'm actually on top of things would be amazing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagine experiencing that relief and confidence—what might change for you beyond the classroom if you were to feel more on top of things academically?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think I'd be less anxious overall, and it might even make my other classes feel more manageable. Plus, I'd probably have more time to focus on other areas of my life, like hanging out with friends or just relaxing without feeling guilty.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling less anxious and having more time for yourself and friends sounds really fulfilling. What small steps do you think could help you move towards that sense of relief and confidence you've described?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting up a regular study schedule could help, and I guess checking in with my professor during office hours could clear up some confusion too. Also, finding a study group might make things easier since we can help each other out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by envisioning the positive outcomes of succeeding in the class and has identified specific steps, like a study schedule and using office hours. Ambivalence appears reduced, focusing more on solutions. These indicate readiness for action planning, suggesting a move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Those are practical steps you've identified. Creating a regular study schedule, attending office hours, and joining a study group could really support your understanding. As we create a plan, what goal would you like to set for yourself to start feeling more confident in this class?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think a good starting goal could be to consistently attend office hours at least once a week. That way, I can get direct help on the things that are confusing me and hopefully keep up with the class better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Making a commitment to attend office hours regularly sounds like a solid step. Along with this, how might you set up your study schedule to reinforce what you learn in those sessions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I could try setting aside specific times each week to go over what we talked about in office hours, maybe right after so it's fresh in my mind. Pairing that with reviewing class notes and doing practice problems might help reinforce everything.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Setting aside dedicated times each week to review what you learned in office hours, along with your class notes and practice problems, seems like an effective strategy. How do you feel about creating a weekly plan to integrate these activities, and are there any potential challenges you anticipate in sticking to this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Creating a weekly plan sounds like a good idea, and I think it could keep me more organized. I just worry about losing motivation or getting overwhelmed with other classwork and not sticking to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has made a clear commitment to attend office hours regularly and has developed a concrete action plan involving specific study schedules. They have also anticipated potential barriers such as losing motivation. These indicators show readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's understandable to feel concerned about staying motivated and managing your workload. By acknowledging this now, you're already taking a proactive step toward finding solutions. To help maintain your motivation, perhaps integrating some rewards or breaks could make your study sessions more appealing. Also, remember that it's okay to adjust your plan as needed—flexibility is key. You’re already doing so well by identifying what's important to you and how you want to achieve it. As your next step, maybe you could draft a simple weekly plan and see how it fits into your routine. Remember, you’re not alone in this journey, and reaching out for support when needed can make all the difference. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a reasonable approach. I'll try drafting a plan and see if it fits, and I'll definitely reach out if I need a hand sticking to it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session meets termination goals: summary of steps like attending office hours, study scheduling, and the next steps like drafting a weekly plan with support options. The client is prepared and encouraged to reach out as needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Have you ever failed a class?\nThis semester I’m enrolled in an econ class that I might actually fail if I don’t do what I’m supposed to. From what I could tell with the first two classes, is that the professor is truly knowledgeable and knows what he’s talking about. The problem is that his lectures are kind of confusing, and when the class finishes, I feel like it doesn’t help me to better understand the material. I’ve also heard his exams can be tricky. I’m scared that I’ll fail this class, I wouldn’t be able to live with myself if I failed. How have you dealt with failing a class?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

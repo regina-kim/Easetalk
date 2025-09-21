@@ -1,0 +1,167 @@
+{
+  "id": "xxj1ac",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. Just feeling overwhelmed trying to juggle work and school. It's like there's never enough time or energy to do everything I need to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and school sounds really challenging. You feel overwhelmed because you're trying to manage so many responsibilities at once. Can you tell me more about how this is affecting you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's just hard to keep up. Most days I come home from work too tired to even start on homework, so I put it off. Then I feel stressed because I'm always playing catch-up and it feels like I'm stuck in this loop where I can't catch a break.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds like a tough cycle you're experiencing—feeling too exhausted to get started and then stressed about falling behind. It seems like you're stuck in a loop of trying to catch up. How does this stress impact other areas of your life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: It's definitely affecting my mood. I'm more irritable and feel anxious all the time. I barely have time for friends or hobbies, and I miss those parts of my life. Everything feels out of balance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been well-elucidated, including thoughts and feelings of exhaustion, stress, and imbalance due to juggling work and school. Empathy and rapport are evident, and mutual understanding of the client's struggles has been reached. This suggests readiness to explore motivation and change strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be really hard to feel like you're missing out on things that bring you joy. When you think about finding balance and managing stress, what changes do you envision could help you reconnect with what’s important to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: Honestly, I just wish I had more time or energy. Maybe if I could manage my schedule better or find a way to fit in small breaks, it would help. I need to find a way to have some downtime without feeling guilty about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Taking small breaks without guilt could really help in restoring some balance. When you think about managing your schedule to allow for downtime, what small changes feel manageable to start with?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try setting aside specific times for breaks, like short ones during work or school days, and stick to them. Also, it might help to plan my homework in smaller chunks rather than trying to tackle it all at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having dedicated break times and breaking tasks into smaller parts sounds like a smart approach. How might these changes align with your overall goals for balance and well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think they'd definitely help me feel less overwhelmed and more in control. If I can manage my time better, I might start feeling less stressed and anxious. Ultimately, I'd like to have more energy for things I enjoy and not feel like I'm constantly playing catch-up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client identified specific manageable changes, indicating a shift from exploring to action planning. Change talk is present with a clear goal to manage time better and include breaks. There's alignment with their overall goals for balance and well-being, reducing stress and enhancing energy. No sustain talk is observed, signaling readiness to move ahead.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Based on your thoughts, setting aside specific times for breaks and breaking tasks into smaller chunks are steps that might empower you to take control over your day. Let's consider creating an action plan together. Would you like to set a goal for how many breaks you'd like to incorporate daily, or how you'd like to structure your homework time? Additionally, what do you think might be some barriers, and how could you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting an action plan sounds like a good idea. I think aiming for at least two or three short breaks each day could be a decent start. For homework, maybe splitting it into 30-minute chunks with breaks in between could help keep me focused. As for barriers, I guess the biggest one would be sticking to the plan when I'm feeling super tired or unmotivated. Maybe having some kind of reminder or incentive could keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting a goal of two or three short breaks daily and structuring homework into 30-minute chunks sounds very manageable. Using reminders or incentives could be a great way to stay motivated. Would you like to brainstorm some options for reminders or incentives that might work for you? Also, how would you like to monitor your progress and make sure this plan supports your well-being?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Sure, brainstorming some reminders or incentives sounds helpful. Maybe I could set phone alarms for breaks, or use a timer for homework sessions. As for incentives, maybe treating myself to something small, like a favorite snack or a short walk outside, after completing a task might help. To monitor my progress, I could keep a journal or checklist to track how well I'm sticking to the plan and how I'm feeling overall.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Those are excellent strategies to keep yourself on track. Setting phone alarms for breaks and a timer for homework can create a structured routine, and rewarding yourself with a snack or walk sounds motivating. Using a journal or checklist to track your adherence and feelings is a thoughtful way to reflect on your progress. How does this action plan align with your vision for a more balanced and fulfilling day?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think this plan could really help bring some structure and balance back into my day. It feels good to have some concrete steps to follow rather than just feeling overwhelmed. Knowing there's a plan in place might make it easier to enjoy the little things again and not feel so drained all the time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with goals for breaks and homework, discussed barriers, and agreed on self-monitoring strategies. There is commitment to change, as the client feels the plan will help regain structure and balance. Confidence is shown in the ability to implement the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's truly encouraging to hear that having this action plan in place feels reassuring to you. By taking these small, structured steps, you're allowing yourself the space to not just manage your tasks but also to reconnect with those moments of joy. You're setting yourself up for more energy and fulfillment, which is fantastic. Remember, it's okay to adjust the plan as needed—your well-being is the priority here. As you move forward, know that you've got a solid plan, and you're not alone in this journey. I'm here to support you as you continue to implement these changes and celebrate your progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate all your help with this. I'll give the plan a try and see how it goes. Knowing I can adjust it if needed makes it feel less daunting.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively addressed the client's concerns, developed a concrete action plan, and discussed coping strategies. The client expressed confidence in trying the plan, showing readiness to implement changes. Termination goals were met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College isn't conducive to those who work full time\nI work four days a week, which is full time in my state, and I go to college two days a week (two out of three of my days off). During the week, I still have homework to do, but I work all day and then come home absolutely exhausted. I have no motivation or energy to do said homework and usually wait until the day before to do everything. Taking three classes (a full time schedule) is what is needed to keep my financial aid, and while that's all well and good, I don't know how other people who work even more than I do can do this. I am at work for 8-9hrs each day, and at school for about 5.5hrs each of my two days, plus an online class. I have such a hard time doing school after work because I am so mentally checked out by that point that even getting myself to take a shower can be a struggle. And I have a hard time doing homework after I get home from school because I just spent all day at school. I'm just so over everything. I wanna go back to being five again.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

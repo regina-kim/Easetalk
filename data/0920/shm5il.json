@@ -1,0 +1,167 @@
+{
+  "id": "shm5il",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here to talk about something. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just really stressed about my midterms. I feel like I'm hitting a wall with these questions and I can't get any help from my professor.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, facing stress and feeling stuck with your studies. Can you tell me more about what's been happening with your midterms and your experience with your professor?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, the midterm questions are just so confusing, and the way they're worded makes it really hard for me to wrap my head around them. I know we aren't allowed to ask our professors for help with them, so I'm feeling really lost and unsure of where to turn for guidance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like the wording of the questions is causing a lot of confusion and stress for you, especially since you can't seek help from your professor. What have you been trying to manage or understand these questions better?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I've been trying to reread my notes and textbooks, hoping to find something that clicks, but it's not really working. I've also tried discussing them with a couple of classmates, but it seems like we're all in the same boat.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's main concerns, thoughts, and feelings about their midterms and the professor's support. Empathy and rapport appear established, and the client's context is well understood, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing studies and finding support seems quite challenging. Reflecting on this, what would it be like for you if you were able to understand and tackle these midterms more confidently?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, it'd be like a huge weight lifted off my shoulders. I'd feel more in control and probably a lot less anxious about the whole situation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling in control and less anxious sounds like a relief and something you truly value. What do you think might help boost your confidence in approaching these midterms?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think maybe finding some other resources or study guides that break down similar questions could help. Also, maybe forming a study group where we can really dive into the material might be beneficial.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring new resources and study groups sounds promising. How confident are you, on a scale from 0 to 10, that these strategies could help you feel more prepared for your midterms?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe around a 6 or 7. I mean, it's worth a shot, and having other perspectives might make things click better, but I'm still a bit nervous about getting it all together in time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, acknowledging strategies like using study guides or forming a study group. They rated their confidence at a 6 or 7, showing a moderate level of confidence. They have identified specific change goals and their anxiety has decreased. This readiness suggests moving to the Choosing phase to develop concrete action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You’re considering new strategies, which is a great step forward. Given your ideas, possible options include searching for online study resources and organizing a study group session. What goal feels right for you to start with, and how might you plan to overcome any challenges in bringing it to life?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with finding some online resources sounds like a good first step. It might be a bit challenging to sift through everything and find ones that actually help, but if I set aside specific time to focus on searching and evaluating them, I could make some progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting aside specific time to search sounds like a proactive approach. How do you envision organizing this time, and what might help you remain motivated if challenges arise during your search?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I guess I could dedicate an hour or two each evening to really dive into it. Maybe I'd make a checklist of things I need to find, like practice questions or explanations, and tick them off as I go. If I start feeling stuck, maybe I could take a short break or even ask for some suggestions from classmates or friends who might know of good resources.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a checklist and dedicating time each evening sounds like a solid plan. How do you feel about setting a goal to complete your checklist by a specific date? Also, what steps might you take to reach out to classmates or friends for suggestions if you hit a roadblock?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Setting a deadline might actually keep me on track, so maybe aiming to have it done by the weekend could be a good idea. If I get stuck, I could reach out in our class group chat or send a few friends a quick message to see if they have any recommendations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a specific goal with a concrete action plan, including a deadline for completing a checklist of resources. They have identified potential barriers, such as feeling stuck, and have strategies like taking breaks or seeking peer advice. They demonstrate commitment and confidence by planning to dedicate time and set a deadline. The client exhibits readiness through commitment and taking-steps talk.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a deadline for your checklist by the weekend is a great way to maintain focus and accountability. Reaching out to your classmates or friends via group chat or message is a smart way to gather diverse perspectives and resources. You're putting together a strong support system, both with your plan and by engaging others who might assist you. You've set some clear goals, and you've thought through some important steps to get there. \n\nIt's fantastic to see you taking proactive steps toward managing your midterms with more confidence. Remember, it's a journey, and it's okay to adjust your plan as needed. If challenges pop up, taking short breaks and reaching out for support are excellent strategies. Keep believing in your capability to achieve your goals. \n\nAs we wrap up today's session, remember you're not alone in this—I'm here to support you. Feel free to reach out if you find yourself needing more guidance or support along the way. Best of luck, and I look forward to hearing about your progress!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for all your help, and I’m definitely going to give it my best shot. I'll touch base if I hit any snags or need more advice.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals and a plan to tackle midterm preparation, including coping strategies for challenges. The session included a summary of goals and steps, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I don't understand a thing on my midterm\nMidterms are due in a week and I don't understand these questions one bit... I can't ask my professor about it because that's against the rules. I don't know what I'm supposed to do..",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

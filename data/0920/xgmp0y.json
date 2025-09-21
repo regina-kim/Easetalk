@@ -1,0 +1,167 @@
+{
+  "id": "xgmp0y",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling really lost and unsure about my recent decision to switch majors. It's been weighing on my mind a lot lately. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching majors can feel overwhelming and bring up a lot of uncertainty. What led you to make this decision, and how are you feeling about it now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: At the time, I thought switching to chemistry/pre-health would open up more career opportunities for me. But now, I'm just feeling stuck and like I might have made the wrong move.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're grappling with a lot of uncertainty and second-guessing your decision. What was it about chemistry/pre-health that initially appealed to you, and how do you find it aligning with your interests and goals now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Initially, I thought it would lead to a secure and respected career, like in the medical field. But now, I’m realizing that the subject matter just doesn’t click with me and doesn’t spark the same interest or passion as architecture did.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their concerns about switching majors, the motivations behind it, and the current dissatisfaction and lack of motivation they're experiencing. The conversation has established understanding and rapport, and elicited details about the client's feelings and context. Thus, it is appropriate to begin transitioning to strengthening motivation and exploring change possibilities.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Changing paths can be complex, especially when interests and career security don't align perfectly. How do you envision your life if you were to pursue architecture again, and what might that look like compared to your current path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Going back to architecture feels like it would bring back that sense of excitement and motivation I had before. It might not have the same clear-cut career path as pre-health seems to, but I think I'd be happier and more engaged day-to-day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling happier and more engaged daily holds significant value. What do you think it would mean for your life goals and sense of fulfillment if you followed your passion for architecture?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think pursuing architecture would bring a lot more satisfaction and make me feel like I'm doing something meaningful. It might mean taking a different path to reach my goals, but it feels like it would be a path I'd enjoy walking.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Architecture seems to offer a sense of meaning and satisfaction that resonates with you. How does this potential path align with your long-term vision for yourself, and what steps might you consider to explore this passion further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think architecture aligns better with my creative side and my long-term goals of working on something tangible and impactful. To explore this further, I might start by talking to my academic advisor about the possibility of switching back and maybe even reaching out to professors in the architecture department to discuss my options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses a clear desire to return to architecture, citing increased satisfaction and alignment with long-term goals. They've identified actionable steps like speaking to an academic advisor and contacting professors. This indicates readiness to move forward from exploring motivation to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring your options with the advisor and connecting with professors sounds like a solid plan. How do you see yourself moving forward with these steps, and what might be the first action you’d like to take to start this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I guess my first step would be setting up a meeting with my academic advisor to talk through the logistics of switching back. I'll need to figure out how it might affect my graduation timeline and what courses I can carry over. After that, reaching out to some architecture professors to get their insights seems like the next logical move.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful initial steps. Setting up a meeting with your academic advisor seems crucial for getting clarity on the logistics. Based on what you mentioned, possible options include preparing questions for your advisor or gathering information about architecture courses. What feels most manageable to tackle first, and how might you plan around potential challenges, like time constraints or uncertain responses?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Preparing some questions for my advisor seems like a manageable first step, and I'll definitely need to know how this might impact my course load and graduation date. I probably need to set aside specific times for meetings and research, so I don’t get overwhelmed, and try to be ready for any possible hurdles, like needing approval or handling the transition period.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It sounds like you have a proactive approach in mind. Setting aside specific times for meetings and research is a great strategy to manage potential overwhelm. To further support your autonomy, you might consider options like creating a list of questions and prioritizing them. How do you plan to monitor your progress and ensure you stay on track with these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think keeping a checklist or a to-do list would help me track my progress. I can update it as I go and jot down any important points or feedback I receive from meetings, so I don't lose sight of what needs to be done next.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to explore returning to architecture, including discussions with their advisor and professors. They've discussed barriers, such as time constraints and the transition period, and have self-monitoring strategies like a checklist. The client exhibits commitment and readiness to take steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a checklist or a to-do list is a fantastic way to stay organized and focused. You’ve clearly thought through how to keep yourself on track, and it’s wonderful to see this proactive spirit. As you move through these steps, remember to acknowledge each small victory and be gentle with yourself if obstacles arise. You're taking meaningful strides toward aligning your career with your passion, and that's something to be proud of. Whenever you need support or a space to reflect, know that I'm here to help you navigate this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate that. I'll definitely keep all this in mind and reach out if things start feeling too overwhelming.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps towards resolving their concern, such as meeting with an advisor, preparing questions, and using a checklist. The session summarized goals and coping strategies, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Made a huge mistake changing majors\nFelt this strong urge to change courses of study at the start of the semester. Justified it by evaluating possible better career paths down the line after the change. \n\nChanged majors from architecture to chemistry/pre-health. Now thinking I made a huge mistake because I don't enjoy what I'm learning about, and it takes so much more effort for me just to keep up with my new courses vs. my first year. I also feel stupid compared to my classmates, something I never felt before in architecture, like my brain is just hardwired differently and I grasp everything 3-4 times slower. \n\nMy first year was a lot of work too, but thinking back I always had this drive to get out of bed every morning to do it, compared to now where I have little to no motivation to move myself, aside from meeting deadlines. \n\nHas anyone else had this experience before? What should I do?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

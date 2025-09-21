@@ -1,0 +1,167 @@
+{
+  "id": "rvdvpl",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Lately, I've been feeling like I'm not studying as effectively or as much as I should, and it's stressing me out. Just trying to figure out how to get back on track.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really tough when you feel like you're not meeting your own expectations. What do you think might be contributing to this feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm not completely sure, but I think part of it is that the material's getting tougher and I’m getting easily distracted. Plus, I guess I’m not as motivated as I used to be, and it's hard to keep up that drive.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The increasing difficulty of your material and distractions seem to be weighing on you. It sounds like you're feeling overwhelmed and maybe a bit discouraged because it's harder to maintain motivation. What do you think is making it challenging to stay focused or motivated lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it feels like there's just so much to get done, and sometimes I just don't know where to start. Plus, there's always something else grabbing my attention—like my phone or just feeling burnt out. It's hard to find that balance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of stress, decreased motivation, and difficulty with increasing academic demands. The client also articulated distractions and burnout as obstacles. Empathy and rapport are established, and the essence of the client's story is elicited, including thoughts and context of their concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding that balance can indeed be tricky with so many distractions around. Considering where you are now, what are some things that might help you feel more motivated or focused?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think having a more structured routine might help, like setting specific times for studying and breaks. Maybe even trying to change up my study environment to keep things fresh. I’ve also heard that setting small, achievable goals can make a difference, so I might give that a shot too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a structured routine and small goals sounds like a thoughtful approach. You've already identified some practical strategies that might help. When you think about incorporating these changes, what would it look like if things were more in balance for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess if things were more in balance, I'd feel less stressed and more on top of my assignments. I’d probably have a clearer mind during study sessions and be able to enjoy my free time without worrying about all the stuff I have to do. It’d be nice to have that sense of accomplishment more often.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling less stressed and more on top of things sounds like it would be a great improvement. What do you think achieving that sense of accomplishment and balance would mean for your overall well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think it would boost my confidence and make me feel more in control of my life. I'd probably be happier and more relaxed, which would help me enjoy both my studies and my downtime a lot more. It just seems like a better way to live overall.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown Change Talk by suggesting structured routines and small goals. Discrepancy between current behavior and desired outcomes has been explored, and the client has considered the benefits of change on well-being. While confidence levels were not explicitly measured, the client’s proactive approach indicates readiness. Moving to Choosing can help develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It sounds like achieving that balance and sense of accomplishment could really enhance your overall well-being and satisfaction. Let's work on setting a goal together. Based on what you've shared, options include creating a structured study routine, changing your study environment, or setting small, achievable goals. Which of these would you like to focus on first, or is there another idea you’d like to explore?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I think starting with a structured study routine might be the best step for me. Having a set schedule could help me manage my time better and reduce distractions, so I'm more focused during study sessions. Once I've got that down, I can look into changing my study environment or setting small goals too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a structured study routine sounds like a solid first step. Establishing a schedule can indeed help manage your time and minimize distractions. How would you like to start building this routine? We could break it down into specific study sessions, include breaks, or adjust timing based on your most productive hours. What do you think might work best for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think breaking it down into specific study sessions with built-in breaks would be good. Maybe I could try to figure out when I'm most alert during the day and plan my hardest work for then. I’ll probably need to do a bit of experimenting to find what works best, but it sounds like a good place to start.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Experimenting to find your most productive hours along with built-in breaks in your study sessions seems like a thoughtful approach. It's great that you're open to trying different strategies to see what fits you best. How about starting with a small experiment this week? You could monitor how you're feeling during different times and adjust accordingly. Would you like to set a specific day to review how this routine is working, or is there another way you'd prefer to track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I think setting a specific day to review the routine sounds helpful. Maybe I can check in with myself at the end of the week to see how things went and make any necessary adjustments. Keeping track of how I feel during different study sessions could give me a better idea of what works, and I can tweak it from there.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal (structured study routine) and devised a concrete action plan (break it into study sessions with breaks, monitor productivity). Barriers are anticipated (experimenting with timing), and self-monitoring is agreed upon (weekly review). The client expresses confidence in the plan and commitment to experimenting and adjusting, indicating readiness for progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Checking in at the end of the week to review your routine and make adjustments is a proactive plan. It shows you're committed to finding what works best for you. By tracking how you feel during various study sessions, you'll gain valuable insights into your most productive times. Remember, experimenting is part of the process, and it's okay to adjust as needed. You've made solid plans here, and it's exciting to see you taking these steps towards more balance and control. Keep up the good work, and know that this effort will build your confidence and well-being. If you need support or want to discuss your progress, I'm here for you. Looking forward to hearing how the week goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a plan! I'll give it a try and see how it goes. If I hit any snags or need advice, I'll definitely reach out. Appreciate your help!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively summarizes goals, steps, and coping strategies. A next-step plan has been discussed with the client agreeing to a review schedule. This aligns with the termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Students of reddit, any advice on how to keep at the studies?\nHi everyone!\n\nI'm in my third year of a five year computer science program in university. I had a real easy time with my studies in gymnasium, not only that I understood things easily but I also studied really hard. Now that I'm university I've noticed that my ability to study has significantly decreased.\n\nIt even started in my first year as I started failing classes, now I've fought real hard and made good progress and as such I'm basically where I should be in terms of my studies but I am still not happy with how much I study. Currently I might spend around 5 hours a day studying...\n\nI'm looking for advice on how to turn this around, how do ya'll do it? What makes you wake up and spend 8 solid hours on your studies five times a week?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

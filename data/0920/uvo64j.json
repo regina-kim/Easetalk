@@ -1,0 +1,209 @@
+{
+  "id": "uvo64j",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I'm just feeling a bit lost about my major and whether I should switch from Biology to Computer Science.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching majors can definitely feel overwhelming. What about each major is drawing you in different directions?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, Biology was always kind of my go-to because of the premed track, but I'm not sure if I'm passionate about it anymore. Computer Science seems interesting, but I'm worried about my lack of experience and skills in that area.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain when considering such a big change. It sounds like Biology has been a comfortable choice due to its familiarity, while Computer Science sparks an interest for you despite the challenge it presents. What aspects of Computer Science are catching your interest?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, it's the problem-solving and creativity side of it that draws me in. I've heard there are lots of opportunities in tech, which sounds appealing, but I really have no idea how to get started or if I'd even be good at it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their uncertainty about their current major, the attraction to another field, and the concerns about skills and timing. The therapist has acknowledged these feelings, fostering understanding and empathy. However, the client's goals and deeper motivations remain to be explored. More exploration is needed to fully understand their thoughts and feelings about each option.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring new interests can be both exciting and daunting. The problem-solving and creativity in Computer Science seem to resonate with you, and the potential opportunities are appealing. How do you feel about the idea of exploring beginner resources or speaking with someone in the field to get a feel for it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: That could be helpful, I guess. I just worry about starting from scratch and if it's too late to catch up. I mean, everyone else seems to have a head start.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concerns about switching majors, the appeal of each major, and the client's fears about starting anew. Rapport and empathy are evident, and potential areas to explore further have been identified.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Feeling like you might be behind can be challenging. What might it look like for you if you were to take small steps toward exploring Computer Science further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I guess starting with some basic online courses or tutorials could be a good idea. Maybe I could also reach out to professors or students in the Computer Science department to get some insights.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Taking those initial steps can really help open up new possibilities. How confident do you feel, on a scale from 0 to 10, about reaching out and starting a basic course?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 5 or 6. I'm a bit nervous about it, but also kind of excited to see where it could lead.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Stepping into something new often brings a mix of nerves and excitement. It's great to hear there's some excitement there as well. What do you think might help boost your confidence from a 5 or 6 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think maybe talking to people who switched majors successfully or hearing about their journeys could help. Also, getting more comfortable with the idea that it's okay to try and not be perfect right away might make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by identifying potential steps towards exploring Computer Science, including taking courses and reaching out to others. However, their confidence level is around a 5 or 6, indicating lingering ambivalence. Continuing in the Guiding phase will help solidify their motivation and confidence before developing a specific action plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Hearing stories of others who have been in similar situations can be really encouraging. It's wonderful that you're open to embracing imperfection as part of the learning process. What small step might you take to connect with those who have successfully switched majors?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could join some online forums or groups where students share their experiences. I might also try to attend a few campus events or workshops where I can meet people face-to-face and hear their stories.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific steps to explore Computer Science and has shown some confidence (rated 5-6) in reaching out and starting basic courses. The ambivalence is addressed, and the client is considering actions to boost confidence. Goals of the Guiding phase have been met, as the client has a clearer plan and reduced uncertainty. Transitioning to Choosing is appropriate to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Joining online forums or attending campus events could really open doors to new insights and connections. As you consider these steps, how would you like to proceed with exploring basic courses or reaching out to the Computer Science community?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by looking up some beginner courses online and see if any catch my interest. At the same time, I'll try to find any upcoming events on campus related to Computer Science and make a plan to attend.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "It seems like you're creating a balanced plan by exploring courses and attending events simultaneously. Based on your ideas, possible options could be setting a specific timeframe to complete a beginner course or jotting down a couple of events to attend. How do you feel about setting a goal for this upcoming month to explore these areas and perhaps identifying any barriers you might face?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): client(choosing): Setting a goal for the month sounds like a smart move. I feel like if I aim to complete at least one beginner course and attend one event, it should give me a good sense of whether I really want to pursue this further. The biggest barrier might be managing my time with my current classes, but hopefully, I can work around that. ",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Breaking it down into manageable steps like completing one course and attending an event sounds achievable. Balancing your current classes with these new activities might be challenging, but it also sounds like you're open to finding ways to work around it. What strategies might you use to manage your time effectively and ensure these goals fit into your schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): I might try using a planner to map out my week and look for pockets of free time. Maybe setting aside a specific day or time each week dedicated to these activities could help me stay on track without overwhelming myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan, including goals to complete a beginner course and attend events to explore interest in Computer Science. Barriers like time management were discussed, and self-monitoring strategies like using a planner were proposed. The client shows commitment and readiness to take steps forward. It is appropriate to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Mapping out your week with a planner sounds like a practical approach to juggling everything. Setting specific times for these new activities can help them become a natural part of your routine without feeling overwhelming. You’re showing great initiative in how you’re planning this out. As we wrap up, remember that it’s okay to adjust your plans as needed. Keep checking in with yourself and celebrate the progress you make, no matter how small. I’m confident you’ll learn and grow through this process. If you need support as you go along, feel free to reach out. Keep embracing the mix of nerves and excitement as you explore these new avenues.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and the reminder that it's okay to adjust. I'll definitely keep in touch if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a plan with specific steps, strategies for managing time, and is open to adjusting as needed. The session concluded naturally with encouragement and an invitation to seek further support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I cannot decide if I truly want to change majors, and feel like it maybe too late.\nI just finished my freshman year as a Biology major on Premed track, but part of me dors not really know if I want to continue pursuing medicine. I am considering switching to Computer science, but am unsure if it is too late. I also do not have much experience with coding, and am not the best in the world at math.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

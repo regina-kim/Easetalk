@@ -1,0 +1,209 @@
+{
+  "id": "uy7d6w",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just a bit stressed. I've been thinking about whether continuing with my studies is the right choice for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be challenging to feel stressed about such an important decision. What is it about your studies that's making you question your choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, my grades aren't where I hoped they'd be, and it's making me doubt if I'm cut out for this. I'm just not sure if continuing is worth it or if I should switch gears and try working instead.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Those doubts must weigh heavily on your mind. You're feeling uncertain because your grades aren't meeting your expectations, leading you to question if you're on the right path. What do you think would be different if you decided to switch gears and start working instead?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Yeah, it feels like maybe if I started working, I'd get some real-world skills and maybe figure out what I actually enjoy. Plus, there wouldn't be the constant pressure of grades.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about academic performance and uncertainty about continuing studies versus starting work. The therapist has demonstrated empathy and explored the client's feelings and thoughts about the decision, but the client's goals and motivations for potential changes need further exploration.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That certainly sounds like a tempting option to ease the pressure and gain practical experience. You're considering the possibility of working to both reduce stress from academics and explore your interests. What aspects of studying do you feel you'd miss if you decide to switch to working?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I think I'd miss the chance to dive deeper into subjects that really interest me. Also, the campus life and being around friends is something I'd probably miss a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concerns, thoughts, and feelings about continuing studies versus working, including the context of grades, stress, and potential benefits of working. Empathy and rapport are evident, and the client's goals are becoming clearer.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Balancing those considerations must be tough. On one hand, there's the allure of practical skills and less academic pressure, and on the other, the passion for your subjects and the community you cherish. How do these thoughts align with where you see yourself in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: It's confusing because I can see benefits in both paths. In the future, I'd like to have a job that I'm passionate about, but I don't really know what that looks like yet. I'm hoping one of these paths will eventually lead me to that realization.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Discovering that career path you're truly passionate about seems like a significant goal for you. It sounds like you're weighing the potential for personal growth and fulfillment on each path. On a scale from 0 to 10, how confident do you feel about finding a career that excites you, regardless of the path you choose?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: Hmm, I'd say maybe around a 5 or 6? It's a bit of a toss-up right now since I'm still figuring things out, but I'm hopeful something will click eventually.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Feeling hopeful is an important part of this journey. You're at a 5 or 6, which shows you have some belief in finding that exciting career. What might help you move closer to a 7 or 8 in feeling confident about discovering where your passion lies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think getting some hands-on experience or talking to people who are already in jobs I find interesting could help. Maybe doing an internship or just having more conversations with professionals might give me a clearer picture.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows awareness of the benefits and drawbacks of both continuing education and working. Their confidence is moderately high at 5 or 6. They have a potential next step, exploring internships or speaking with professionals, aligning with their goal of finding a passion. However, Change Talk is present but not yet robust, and more exploration of specific change strategies is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Exploring hands-on experiences and connecting with professionals sounds like a proactive approach to gaining clarity. Engaging in internships or conversations could indeed bring more insight. What values do you think will guide you as you pursue these opportunities and explore potential career paths?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client: I think the main things are growth and fulfillment. I want to feel like I'm learning and progressing while also doing something that feels meaningful to me. Those are the values I want to stick to as I figure things out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified values of growth and fulfillment and expressed specific actions like internships and conversations with professionals, indicating readiness. Confidence level is at a 5 or 6, suggesting potential to move forward. Change Talk is present, and ambivalence has decreased as the client considers proactive steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Your focus on growth and fulfillment is a strong foundation for this journey. As you consider getting hands-on experience and connecting with professionals, what specific steps do you think you could take to start this process? Based on your thoughts, possible options might include researching internships in fields of interest or reaching out to people in those fields for informational interviews. How do these options resonate with you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client: Yeah, those options sound like a good start. I could definitely start looking for internships in areas I'm curious about or even just send out a few emails to people working in those fields to see if they'd be open to chatting. It feels like a step in the right direction at least.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Exploring internships and reaching out for informational interviews really seems like a proactive start that aligns with your values of growth and fulfillment. As you embark on these steps, what do you think might be some challenges you could face, and how might you prepare to handle those?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client: I guess some challenges could be not getting replies from people I reach out to or finding it tough to land an internship without much experience. Preparing for that, maybe I could try different ways of contacting people, like attending networking events, or focus on improving my skills to make myself a more attractive candidate.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Considering different ways to connect, like networking events, and enhancing your skills are great strategies for overcoming potential hurdles. Preparing in these ways shows your commitment to your values. How might you track your progress and stay motivated as you pursue these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client: I guess keeping a journal or some kind of log could help me track what I'm doing and how I'm feeling about it. It might also be helpful to set small goals each week to keep myself moving forward. That way, even if things get tough, I can remind myself of the progress I'm making.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and action steps, including internships and networking. They have also discussed potential barriers and strategies for addressing them, like attending networking events and skill enhancement. Self-monitoring methods, like journaling and setting weekly goals, have been suggested. The client demonstrates commitment and is taking proactive steps towards their career exploration. The conditions for moving from Choosing to Terminating have been met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Tracking your journey with a journal and setting small weekly goals sounds like a practical and motivating strategy. This approach can really help you see and celebrate each step forward. As you focus on your career exploration, finding ways to reflect on your experiences and growth can be empowering. Remember, even small steps add up to significant progress over time. I'm here to support you as you move forward, and we can continue to explore any thoughts or feelings that arise. Keep nurturing that hope and commitment to growth and fulfillment—you're on a promising path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll try to keep in mind that every little step counts, even when it doesn’t feel like it. I'll definitely touch base with you if I need to talk things through again.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively addressed the client's goals, steps, and coping strategies. They have a plan for exploring internships and informational interviews. Both client and therapist acknowledged potential challenges and strategies to overcome them.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I stop after my foundation and just get a job instead?\nI'm in Foundation in Science and have just finished my 2nd semester and am on a break now. My results were also just released this afternoon and I have to say that it's not what I would imagine it to be. Currently my CGPA is 2.5 for my 1st and 2nd semester. This got me thinking, \"Should I go work instead or pursuing my undergraduate program?\"  And if I wanted to apply for a job after my 3rd semester, What can I do and How?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

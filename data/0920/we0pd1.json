@@ -1,0 +1,209 @@
+{
+  "id": "we0pd1",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and understand what's been on your mind. Whenever you're ready, feel free to share what you'd like to discuss today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've been feeling a bit lost about my college situation and trying to figure out what might be the best path for me. There's just a lot going on, and I'm not sure how to balance it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating college decisions can definitely feel overwhelming. You're trying to find the right path while managing everything else on your plate. What's been weighing on you the most when it comes to your college situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's mostly the uncertainty about whether I'm on the right path with my major and also the whole transportation issue. Plus, I'm worried about how my family might react if I decide to change things up. It's just all very stressful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It makes sense that you'd feel stressed with those uncertainties and concerns. You're experiencing pressure about your major, transportation, and how your family might respond. What are your thoughts about the major you're currently pursuing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm starting to feel like elementary education might not be the best fit for me. I worry it might not lead to a stable future and I’m not as passionate about it as I thought I would be. It's tough to justify sticking with it when I’m unsure if it’s really what I want.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been well-articulated, including concerns about their major, transportation, family reaction, and financial independence. There is a clear understanding of the client's thoughts and feelings, and rapport appears to be established. The issues and concerns are mutually acknowledged.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're questioning whether elementary education aligns with your future goals and passions. What would your ideal career look like if stability and passion were fully met?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "That's a tough one. I haven't pinpointed an exact career yet, but I know I want something that feels fulfilling and has room for growth. Ideally, it would be something that keeps me learning and challenges me in a positive way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a career that is both fulfilling and challenging while offering growth sounds inspiring. Reflecting on that, what aspects of your current experiences or interests make you feel most engaged or excited?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I really enjoy problem-solving and working on projects where I can see progress over time. Also, I like being creative and thinking outside the box, so something that combines those elements would be awesome. I'm just not sure what career that would translate to yet.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring your enjoyment of problem-solving and creativity is a great start. How do you see yourself using these skills and interests to make a positive impact in a future career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, I can see myself in a role where I can innovate or improve things, maybe something like design or tech where creative solutions are needed. I want to contribute to something meaningful, where I can see the results of my work making a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and explored discrepancies between their current path and future goals. They have identified elements of a fulfilling career and discussed potential changes like switching to online classes or community college. However, no specific plan or next steps have been confirmed, and their confidence level hasn't been explicitly addressed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Imagining a future in design or tech where you can innovate and see tangible results is exciting. Considering these interests, what small steps might you take now to explore these fields further and see if they could be a good fit for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by looking into some introductory courses or workshops that focus on design or tech to get a feel for them. Maybe even try to connect with people who work in those fields to learn more about what their jobs are like. That might help me get a clearer picture of what direction to head in.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying potential steps like exploring courses in design or tech and reaching out to professionals in those fields. There is a specific next step, and the ambivalence about the current major is clear. However, confidence level is not explicitly stated, and the client is still exploring potential career paths without a clear decision, suggesting the process in the Guiding phase should continue.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Exploring courses and networking with professionals in design and tech could provide valuable insights. On a scale of 0 to 10, how confident do you feel about taking these steps to explore your interests further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 6 or 7. I feel a bit nervous about reaching out and diving into something new, but I'm also hopeful that it could lead to a path that feels right for me. It's just taking that first step that's a little daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to explore a new career path with a concrete plan to take courses and network. The confidence level is at 6-7, showing moderate readiness. Change talk is present with decreased ambivalence, as they've expressed interest in design or tech. The guiding goals are met, including discrepancy and values exploration.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Taking that first step can definitely feel daunting. You're showing courage by considering these new possibilities. Based on what we've discussed, possible options include starting with one online course or workshop in design or tech, or reaching out to one professional in the field to ask about their experiences. How do these options feel to you, and what might be the first small step you want to take?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(deciding): I think starting with an online course or workshop sounds like a good first step since it’s something I can do on my own time. It feels less intimidating than reaching out to someone right away. I’ll start looking for a course that catches my interest and go from there.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "therapist(choosing): Choosing an online course sounds like a manageable and exciting first step. As you begin searching, what are some qualities or subjects in a course that you think would engage you the most?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I'm definitely looking for something that has a hands-on approach and lets me experiment with different tools or ideas. I think I'd be hooked if the course allows some freedom to create and also provides a supportive community or forum where I can share and get feedback from others.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Choosing a course with a hands-on approach and a supportive community sounds like a wonderful way to explore your interests in design or tech. It's great that you're looking for opportunities to experiment and connect with others. As you search for the right course, what might be some potential challenges you anticipate, and how could you prepare to handle them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): I think a big challenge might be staying motivated and keeping myself on track since it's online and on my own time. Plus, juggling it with other responsibilities could get tricky. To handle that, I might set a schedule or find an online study group to stay accountable and get through any tough spots.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan to explore courses in design or tech with specific preferences and anticipated barriers. They have shown readiness by committing to steps and acknowledging potential challenges along with strategies to address them, signaling confidence in their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Creating a schedule and connecting with an online study group are fantastic strategies to keep motivated and manage your time effectively. It's wonderful to see you thinking ahead about potential challenges and planning ways to overcome them. As you embark on this journey, remember to be kind to yourself and celebrate small victories along the way. This is a significant step towards exploring your passion in design or tech, and it's inspiring to see your dedication. As a next step, you might want to set a specific date to choose and enroll in your first course, giving yourself a clear timeline to start this new adventure. Keep up the great work, and know that you have support as you explore these exciting possibilities.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll definitely set a date to pick a course and enroll soon. Having a timeline should help keep me on track. I appreciate your support and guidance through this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear plan for exploring online courses in design or tech, including coping strategies for potential challenges. A next step plan has been discussed, providing closure and readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: So I’ve started college but I want a change\nI’m a first year student who’s recently finished summer school and overall I’ve enjoyed my time at university, but I honestly don’t think it’s for me. That’s not to say that I want to drop out, but I was hoping to get a full time job and take classes online instead. Also, I don’t have a car or any other sort of transportation besides walking or being driven around by a relative’s vehicle, so honestly, I don’t have reliable transportation when I’m at school. This is why I’d rather stay at home. \n\nAnyway, if that doesn’t work, I was thinking about just going back to cc (which was supposed to happen in the first place), but my family is pretty against me doing that and believe that I would be selling myself short by doing so. I’ve also considered dropping out as well because the major that I have chosen doesn’t seem to be a proper choice and it may not help me in the long run (elementary education). I’d rather not waste anyone’s time and money, you know? \n\nThen also there are some things in my personal life that I haven’t shared with my family and I’m unsure that if it ever comes up in conversation or I decide to tell them, then they’ll stop helping me pay for school. That’s why I wanted to get a job just in case something were to happen and they decide not to help anymore. \n\nNot sure what to do anymore :(",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

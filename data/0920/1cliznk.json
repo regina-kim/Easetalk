@@ -1,0 +1,167 @@
+{
+  "id": "1cliznk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here today. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've been feeling really overwhelmed and exhausted, and I'm torn about whether I should take a break from everything after graduating or just keep pushing through.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduating is such a huge milestone, and it's understandable to feel both pressure and exhaustion right now. What are some of the things that are making you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, juggling a full-time job, school, and commuting has really drained me. Plus, I'm worried about taking a break and how it might affect my future opportunities.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a significant load, managing a full-time job, school, and commuting. That must be incredibly tiring. Can you tell me more about these worries regarding taking a break and how you think it might impact your future?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Yeah, I'm just nervous that if I take a break, it'll look bad to future employers or make it harder to get back into school. I'm worried I might miss out on opportunities or that it'll set me back in my career.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been thoroughly elicited, including their thoughts and feelings about taking a break, concerns about future opportunities, and detailed context such as work and educational background. Empathy and rapport have been established, and the main dilemma is clearly articulated. The conversation is ready to transition to Guiding to explore motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Taking a break seems to bring up a lot of concerns for you about your future career and education. On the other hand, what do you think life might look like if you continue without a break?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I keep going without a break, I worry I'll just burn out completely. I mean, I'm already feeling exhausted, and I'm not sure I can keep up this pace much longer without it affecting my work or mental health.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing your current pace seems quite challenging, and you have valid concerns about burnout. What are some things you value most in life that might help guide your decision in this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Client: I really value my mental health and well-being. Also, growth and learning are important to me, but I don't want to sacrifice my health for them. I guess I just want to make a thoughtful decision that aligns with my long-term goals without compromising on what's important to me right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your values of mental health and well-being are crucial alongside growth and learning. How do you envision these values playing a role in finding a balance between taking a break and pursuing your career or education?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client: I think these values should guide me to find a balance that doesn't push me to the brink of burnout. Maybe taking a break could give me some needed rest and clarity, but I also want to ensure that I'm not stepping away from my career or education for too long. It's about finding a way to recharge while staying aligned with my goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current exhausted state and their values of mental health and well-being, alongside their goals in growth and learning. They have engaged in Change Talk, discussing the positive aspects of a potential break and aligning it with their long-term goals. Ambivalence is decreasing, as they lean towards a decision that aligns with their personal values. They have articulated specific next steps, indicating readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking a break to recharge while staying aligned with your goals sounds like a thoughtful approach. Based on what you've shared, would you like to explore creating a balanced plan that includes rest but also keeps you connected to your career and educational goals? Possible options might include a short break with set reassessment points or part-time opportunities to stay engaged. What are your thoughts on these possibilities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that could work for me. A short break sounds really appealing but having those reassessment points or staying involved part-time could ease my worries about disconnecting completely. I'm open to exploring how that might look and what options I have to keep a foot in the door while taking care of myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a plan with a short break and reassessment points or part-time involvement sounds like a balanced strategy. What specific steps do you think could help you stay connected during your break, and how might you go about setting those reassessment points? Let's consider some options that align with your goals and values.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "Client: Maybe I could start by talking with my current employer to see if there's any flexibility, like reducing hours temporarily or working remotely part-time. For reassessment, I could set up regular check-ins with myself to evaluate how I'm feeling and if I'm ready to dive back in. I might also look into online courses or workshops to keep learning without the full intensity of school.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful steps. Initiating a conversation with your employer about flexibility is a good start, and setting up regular check-ins can help you gauge your readiness. Online courses or workshops are excellent ways to continue learning at your own pace. How do you feel about setting a timeline for these steps and deciding how you'll monitor your progress and well-being along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Client: Setting a timeline would probably help me stay on track and not feel too lost during the break. I think I could aim for a six-month break with check-ins every month to see how I'm doing. I could keep a journal or something to track my mental health and any learning progress. That way, I have something tangible to look back on and make sure I'm moving in the right direction.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to take a break with a concrete action plan involving a short break, reassessment points, and part-time involvement. Barriers like work flexibility and learning during the break have been discussed, and self-monitoring through journaling is agreed upon. The client has expressed confidence by outlining a timeline for progress. Given these conditions, the readiness to move to Terminating is evident.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a six-month break with monthly check-ins sounds like a well-thought-out plan. Using a journal to track your mental health and learning progress can serve as a valuable tool for reflection and adjustment, ensuring you're aligned with your long-term goals. This approach balances rest and growth beautifully. You're taking proactive steps to care for yourself, while also staying connected to your career and educational aspirations. Let's set up a plan to support you through this transition. How about scheduling a follow-up session to review your progress and discuss any adjustments you might need? You’re making thoughtful decisions, and your commitment to your well-being is commendable.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Sure, scheduling a follow-up sounds like a good idea. It’ll help me stay on track and make any necessary tweaks to the plan.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly defined goals, coping strategies, and a next-step plan. A follow-up is scheduled to ensure progress. The session achieved closure by addressing the client's primary concern and aligning actions with their values.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I take a gap year? I already have Jr. Dev job\nI am about to graduate with an Associates of Applied Science in Multimedia and Web Development in a couple weeks. Not the best degree choice considering the market. When I first started my degree my goal was to become a front-end web developer, but that was in 2021 and it seems most companies are looking for full-stack.\n\nI am graduating with highest honors with a 4.0 GPA, woo! I have won some awesome awards like \"Student of the year\" just last month out of all the people going for business, technology, and workforce readiness degrees. I was in Phi Theta Kappa, and was a chapter officer.\n\nI am tired. I worked a full time job through this entire school trip and I am genuinely tired.\n\nHere is the thing, I already have a Jr Software Developer position. I started a couple months ago. I got this job due to an internal promotion, I was already at this company as a lead IT technician, and I networked the hell out of the developers and they finally took me in. I live an hour from my work so I spend a good 10 hours a day just with work and commuting, it has been really rough this last semester but I am making it.\n\nI want to take a break. I got the jr dev job. I want a break. I am so mentally exhausted. But the doom scrolling on reddit scares me. I had people tell me I only got lucky and it won't be so easy next time I get a job (this wasn't easy, either. I bugged them for almost 2 years before they had a position opened, and that is not including the hundreds of other applications I did in the meantime). I admit that I got really really lucky, and would not be here if I wasn't already an internal candidate. I have been told that I should leave this job now anyway because it pays so low compared to other jr dev positions. I took the low pay because it is my very first jr dev job and I did not have much room to sell myself and didn't want to lose the opportunity because I got greedy with money.\n\nI want to take a break, but I keep reading it is an absolutely terrible idea to take a break and that companies look down on that and that it will make it much more harder to go back to school. When I started my associates degree, I was 25 so I was already out of high school for a good 7 or 8 years. I feel like I could do a year break and get back into it. But I also worry that schools won't look at me highly if I take a year break.\n\nI am hoping that if I do take a break, the fact that I had a 4.0 gpa and was in the honor society would make me still be someone they accept and possibly allow scholarships. I am afraid of taking on more student loans.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

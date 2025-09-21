@@ -1,0 +1,293 @@
+{
+  "id": "sc3ii0",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've been really struggling with this feeling of inadequacy in my lab. It just feels like everyone else is picking up these critical skills, and I'm just stuck.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling overwhelmed and maybe a bit isolated because others seem to be progressing faster. Can you tell me more about what that's been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, exactly. It's just tough watching everyone else move forward while I'm left behind. It makes me question if I'm cut out for this, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You’re feeling really uncertain about your place and capabilities in the lab because you see others advancing. What do you think might be contributing to these feelings of doubt?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, I think it has a lot to do with seeing my peers succeed at something I can't seem to grasp. Plus, I guess not having the best teaching environment didn't help either. It's just hard not to compare myself to others.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their experiences and feelings of inadequacy and self-doubt, providing context about the lab environment and their struggles. There's empathy and rapport, but mutually agreed goals have not clearly emerged. Continuing to explore might uncover deeper aspects of their situation.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be really challenging to see your peers succeeding when you're feeling unsupported by your environment. Comparing yourself seems to be adding to your doubts. What has your experience been like with the teaching environment?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Yeah, the teaching environment hasn't been great. The post-doc who was supposed to teach me wasn't very patient or clear, which made it hard to pick things up. It left me feeling like I couldn't improve because I didn't get the support I needed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, thoughts, and feelings regarding inadequacy and teaching environment challenges have been well articulated, and empathy and rapport have been established. The client's specific struggles and their impact have been clearly expressed, indicating a mutual understanding of the goals. The conversation is ready to advance to Guiding, as the exploration phase goals are met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It must be frustrating to feel like you're not receiving the support that would help you grow and succeed. Reflecting on your needs, what do you think might help you feel more confident and supported in your current situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think maybe finding a mentor or someone in the lab who can guide me better would help. Also, focusing on improving skills where I can get clear feedback might boost my confidence a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Building relationships with supportive mentors and focusing on areas where you can receive clear feedback sounds like a promising way to strengthen your confidence. On a scale from 0 to 10, how confident do you feel about taking steps towards finding that guidance and support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm at about a 4 or 5. It feels like a big step, and I'm not entirely sure where to start or who to approach in the lab. It's a bit intimidating, but I know I need to try.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking that first step can definitely feel intimidating, but recognizing the need to try is already a positive move. What might help you feel more confident about reaching out to potential mentors or finding the right person to guide you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having a plan or some sort of idea about what I want to say could help. Maybe even talking to someone who successfully found a mentor in a similar situation could give me some pointers. That way, I won't feel like I'm going in completely blind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential steps, such as finding a mentor and improving skills with clear feedback. However, their confidence remains low at 4 or 5, indicating ambivalence and uncertainty. They still need support in developing a concrete plan and increasing confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Connecting with someone who has successfully navigated finding a mentor sounds like a great way to gather insights and build your plan. What values or goals do you think this mentoring relationship would ideally support for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think I'd really like the mentorship to help me grow my confidence and skills in the lab, especially in areas where I feel weak. It would be great to have someone who can give me honest feedback and guide me without judgment. I also hope it would help me feel more like I belong in the neuroscience field.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a need for mentorship to build confidence and skills but has a confidence level of 4-5 regarding taking steps toward finding guidance. There's uncertainty about where to start, indicating ambivalence is still present. While the client has expressed goals and values for mentorship, additional support is needed to enhance confidence and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "You're aiming for mentorship that not only builds your skills but also supports your confidence and sense of belonging in the field. What do you think it would mean for you and your career if you could achieve this kind of supportive relationship?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): If I could find that kind of support, it would probably make a huge difference in how I see myself as a researcher. I think it would help me feel more capable and less isolated, and hopefully open up more opportunities for growth in my career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for mentorship, has identified steps to take, and associated it with core values, but confidence is only at 4 or 5. The conversation is productive, but confidence needs to be strengthened further before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Feeling more capable and connected as a researcher sounds incredibly valuable for your growth. How do you envision your career and personal development benefiting from increased confidence and opportunities in the long run?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): In the long run, I think increased confidence would help me take on more challenging projects and maybe even lead my own research one day. Personally, I'd feel more satisfied and secure in my role, which I think would encourage me to keep pushing boundaries and exploring new avenues in neuroscience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential change goal, explored the benefits of mentorship, and considered strategies to increase confidence. However, confidence is rated at 4-5, indicating ambivalence. There is no specific action plan for seeking mentorship, suggesting further exploration is needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Envisioning yourself leading projects and embracing new challenges sounds inspiring. How do you feel about the idea of mapping out a few small steps you can take now to move toward this vision of your future in neuroscience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): That actually sounds like a good idea. Breaking it down into smaller steps might make it feel more manageable and less overwhelming. I think I could start by identifying one or two people in the lab who I feel comfortable approaching, and maybe draft a loose script of what I want to say.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for mentorship to build confidence and skills, explored values and goals, and identified potential steps to take. However, confidence is at 4-5, indicating room for further strengthening of motivation before advancing to action planning. Guiding should continue to boost confidence and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "therapist(guiding): Identifying approachable people and preparing a script sounds like a solid beginning. How do you feel about taking these steps toward creating the mentorship you envision, considering the potential impact on your growth and confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty optimistic about taking these steps. I think having a plan makes it seem a bit more doable and less daunting. It feels like I'm actively taking control, which is reassuring, and knowing it could lead to better growth and confidence is motivating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific action plan, expressed optimism, and reflected on the positive impact of mentorship on growth and confidence. There's evidence of increased confidence and decreased ambivalence. These signals suggest readiness to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Your optimism about taking these steps is empowering and motivating. To support you further, let's consider your next steps: reaching out to those individuals and drafting your script. How would you like to structure your plan, and what might be some potential barriers you foresee in this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(reflecting): I guess the first step would be identifying who I feel most comfortable with in the lab. After that, I'd work on drafting a script with key points I want to cover. As for barriers, I might hesitate or feel nervous about approaching them, especially if they seem busy or unapproachable at first. Also, I'm worried about how they might react or if they'll actually have the time to help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "It's understandable to feel some nerves about approaching them, especially with concerns about their availability and reactions. Let's consider some options to help you feel more prepared. You might start by listing potential mentors and choosing one or two to focus on. You could also think about the best times to approach them, perhaps during breaks or when they seem less occupied. How would you like to proceed with these ideas, and do you have any thoughts on how to address your feelings of hesitation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(reflecting): I think listing potential mentors and focusing on just one or two feels more manageable. I could observe their schedules to find the right time to approach them. As for addressing hesitation, maybe practicing what I want to say with a friend or even in front of a mirror could help me feel more confident.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Practicing with a friend or in front of a mirror sounds like a great way to build confidence. To help you move forward, perhaps you could set a timeline for when you'd like to have these observations and practice sessions completed. How does that timeline look for you, and how would you like to monitor your progress with these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(reflecting): Setting a timeline sounds useful, maybe I could aim to have my observations done by the end of next week and practice my approach over the weekend. I could keep track by writing notes after each day, just to see how comfortable I'm getting with the idea and adjust as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and concrete action plan with a timeline for progress monitoring. Barriers like hesitation and mentor availability have been discussed, and strategies to overcome them are in place. The client exhibits readiness through commitment and confidence in taking steps. Given these factors, it's appropriate to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Your plan to set a timeline for observing and practicing is really thoughtful and proactive. Having observations done by the end of next week, then practicing over the weekend, feels like a structured strategy that can support your growth. Keeping notes on your comfort levels and adjustments is a great way to monitor your progress. Remember, taking these steps is a positive move toward your goals, and it’s okay to adjust as you go. You've got this, and I'm confident you'll make meaningful strides. As your next step, focus on your observations, and remember to be kind to yourself throughout this process.",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(terminating): Thanks for the support and encouragement. I'll start working on the observations and take it step by step. I'll try to remind myself to be patient and flexible as I go through this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has successfully identified steps to address the primary concern, including setting a timeline and monitoring progress. A summary of goals and a next-step plan have been discussed, making it appropriate to end the session on a supportive note.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone else struggle with lab techniques?\nHey, Neuroscience Ph.D. candidate here. I work in a systems neuroscience lab. Therefore, one of the things you probably guess that we do are surgeries, except I could never learn how to do them. In short, the post-doc who taught me was not a very good teacher and the lab environment has not been the best for learning. I was taking so long to learn them that my PI basically said that the staff research scientist would do all my surgeries while I focused on building other skills. This has been probably one of the single biggest blows to my confidence as a researcher. A skill that I was sure I could learn. Everyone else in my cohort was able to learn them but me, and I cannot get over this. I hate being the only one who seems to not be able to do a very core thing in systems neuroscience. \n\nAny advice is welcome. I am trying my best to look past this, but it's hard. I am not particularly good at anything else. So, I am not bringing some other core skill to the lab that makes up for this deficiency.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

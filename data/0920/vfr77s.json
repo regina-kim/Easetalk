@@ -1,0 +1,167 @@
+{
+  "id": "vfr77s",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to meet you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I'm just feeling really down about being academically dismissed from my university. I've been trying so hard, but it just feels like I'm not good enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Being academically dismissed sounds incredibly tough, especially when you've been putting in so much effort. It seems like you're feeling discouraged because your hard work didn't lead to the outcome you hoped for. Could you share a bit more about what this experience has been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it kind of feels like all the effort I put in was for nothing. I keep comparing myself to others who seem to be doing great, and it just makes me feel worse. It's been hard to keep motivated when I feel like I'm failing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Comparing yourself to others can be really disheartening, especially when you're already feeling down. It sounds like you're experiencing a lot of frustration and self-doubt because of this situation. What has kept you motivated in the past when you've faced challenges?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I guess thinking about my long-term goals usually helps, like becoming a dentist. Reminding myself why I started this journey in the first place sometimes gives me a boost, but lately, it's been hard to focus on that with everything going on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's core concern and emotions regarding academic dismissal, self-doubt, and motivation challenges. The therapist has empathized and explored relevant context and feelings, such as comparisons to others and long-term goals. The client has shared their motivations and aspirations, setting a foundation for the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your long-term goal of becoming a dentist seems really important to you. It's understandable that it's harder to focus on that goal right now, given the setbacks. On a scale from 0 to 10, how confident do you feel about eventually achieving your goal in dentistry, despite these challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, it feels like a 5 right now. I want to believe I can do it, but with the dismissal and struggling grades, my confidence has taken a hit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Reaching a 5 shows you still hold onto some belief in your ability to achieve your goal, which is a strong foundation. What do you think might help move that confidence from a 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe if I see myself making progress with my grades and get some positive feedback, that might help. Also, just having a plan and knowing what I need to do to improve could boost my confidence a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your desire for progress and positive feedback is a motivating factor for you, and having a clear plan can definitely be empowering. What small steps might you consider taking to bring about that progress and reassurance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think starting with a solid study routine at the community college could help. Maybe I could also find a study group or a tutor for the science classes I struggle with. That way, I can gradually see improvements and feel more supported.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific change goals, such as establishing a study routine and seeking a study group or tutor. Confidence is at 5 but strategies to improve it have been discussed. Change talk is present, and ambivalence has decreased. The client is engaged in planning next steps, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Continuing with a solid study routine and seeking support through a study group or tutor sound like thoughtful steps. As you consider these options, what would be the first step you'd like to focus on? We can also look at ways to anticipate and plan for any barriers that might come up along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think the first step would be setting up a study schedule that I can stick to. I'll need to figure out the times that work best for me and make sure I'm balancing everything. If I can manage that, I can think about joining a study group next.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a study schedule that fits well with your life and responsibilities is a great starting point. What days and times do you think would work best for you to dedicate to studying? We can also explore potential challenges you might face in sticking to this schedule and think through some strategies to address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think evenings after class might be best since I won't be as distracted. Maybe setting aside a couple of hours a few days a week to start. The challenge might be staying consistent, especially if I feel overwhelmed or tired, but having a set routine could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Choosing evenings after class for your study time seems like a practical choice. Committing to a couple of hours a few days a week can create a reliable routine. To help with staying consistent, what strategies might you put in place to manage feeling overwhelmed or tired? We can also discuss ways to monitor your progress and keep everything in check.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think setting small goals for each study session could make it feel less overwhelming, like focusing on one chapter at a time. Also, maybe rewarding myself with something like a treat or break after completing a goal could help. Keeping track of what I'm getting done might also show me I'm moving forward, which would be encouraging.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and concrete action plan, with a study schedule and strategies to overcome barriers like feeling overwhelmed. They have agreed to self-monitor progress. The client shows commitment by discussing specific steps and ways to stay motivated, indicating readiness to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Breaking down your study sessions into small, manageable goals like focusing on one chapter at a time sounds like a smart approach. Rewarding yourself after reaching those goals is a great way to stay motivated. Keeping a record of your progress can indeed remind you of the strides you're making, even when it feels tough. You've got a solid plan forming here. Remember, it's all about moving forward, even if it's one small step at a time. Keep reaching out for support when you need it, and don't hesitate to celebrate your successes along the way. You've got this, and I'm here to support you in your journey to becoming a dentist. Let's check in next time to see how things are going and adjust the plan if needed. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks! I'll definitely try to keep this plan in mind and reach out if I need any help. I'll let you know how it goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session included a summary of goals, steps, and coping strategies, and a next-step plan was discussed. The client expressed understanding and readiness to implement strategies, indicating closure was achieved naturally.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: On academic dismissal\nI (F20) just got on academic dismissal from my uni. I tried to hard but it wasn’t good enough. My uni told me to do 1 semester at community (need to get 2.4 &amp; 12 units) and I can come back in the spring. It made me feel super bad about myself like I’m not good enough. I’m on the pre dental track so I’ve been struggling with the science classes but I’m determined to do better! My cumulative gpa is 3.1 but my gpa from my uni is 1.87 ( I’m a transfer). How can I feel better? Is this common?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,230 @@
+{
+  "id": "1e166cq",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Is there anything on your mind you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, I guess. I'm just kinda stressed about my upcoming Calc 2 class since I feel like I've forgotten everything from Calc 1.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit stressed because you're worried about remembering the material from Calc 1. Can you tell me more about what specifically concerns you about Calc 2?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess I'm worried that I'll be totally lost and struggle with the new stuff because I can't remember the basics. I don't wanna start off feeling behind, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "I hear you’re concerned about starting Calc 2 without a strong grasp of the basics, which makes you worry about falling behind. What has helped you in the past when you’ve faced similar challenges?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Well, usually I just try to review what I can and tackle things bit by bit, but this feels like a lot more to catch up on. I’m hoping reviewing over the summer will help fill in the gaps.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about Calc 2 and shared past strategies for similar challenges. There is an understanding of the client's stress and some context, but deeper exploration of feelings and goals is needed to ensure clarity and rapport.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful plan, focusing on reviewing over the summer. It seems like you've tackled similar challenges by taking it step by step, which is a great approach. How do you feel about the progress you've made so far with your reviewing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I feel like it's going super slow, and I'm not sure if I'm covering enough. It’s hard to tell if I'm really making progress or just going over stuff without retaining it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their stress about Calc 2 and their strategy of reviewing over the summer. However, they are unsure about their progress and retention. Empathy and rapport have been established, but the goals and deeper context still need exploration.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It's understandable to feel uncertain about your progress, especially when it's hard to measure retention. You’re putting in the effort, and that’s an important step. Can you think of any methods that might help you better track your understanding as you review?",
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I’ve been thinking maybe trying some practice problems or quizzes could help, but I'm not sure if that's enough. Maybe I should look for more interactive ways to test myself or join a study group or something.",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about feeling underprepared for Calc 2, including their thoughts, feelings, and past coping strategies. They have started formulating potential solutions like practice problems and study groups. The therapist has built rapport and explored these aspects, setting the stage for strengthening motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Exploring different methods like practice problems and study groups shows your willingness to engage actively with the material. It's great you're considering interactive ways to deepen your understanding. How do you think these strategies might align with your goal of entering Calc 2 feeling prepared?",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think they could really help me identify what I actually know versus what I need to focus more on. Plus, joining a study group might give me some added motivation and different perspectives that could make things click better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "therapist",
+      "statement": "Your openness to diverse strategies like study groups and practice problems is commendable and could indeed enhance your readiness for Calc 2. How do you feel about the potential impact these approaches might have on your confidence going into the class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "client",
+      "statement": "client(guiding): I feel like if I stick with these strategies, I might feel a lot more confident going into the class. It could give me a sense of having a solid foundation to build on, which would be a huge relief.",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "The possibility of gaining confidence by having a solid foundation sounds really motivating. You're aiming to prepare effectively, and that's a strong step towards your goal. On a scale from 0 to 10, how confident do you feel currently about entering Calc 2 with these strategies in mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe around a 5 or 6 right now. I think having a plan helps, but I still have a bit of doubt lingering.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is showing readiness signals with the presence of Change Talk, specific strategies like joining study groups, and their confidence level is around 5 or 6. However, there's still some doubt and uncertainty, indicating ongoing ambivalence. Further Guiding may help solidify confidence and clarify steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's completely normal to feel some doubt, and recognizing that you're at a 5 or 6 shows you're being realistic about where you are. What do you think might help move that confidence up a notch or two as you continue with your preparations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): I think if I start seeing improvements or if I get feedback from others, it might help boost my confidence a bit. Maybe setting small goals and seeing myself hit them could also make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific strategies like practice problems and study groups to boost confidence before Calc 2, showing change talk and a next step. Confidence is around 5-6 with a plan in mind. Ambivalence is acknowledged but appears to be decreasing. It may be beneficial to move to the Choosing phase to develop action plans for these strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "That's a proactive approach, breaking things down into small, achievable goals. Would you like to explore setting some specific goals for your practice problems or study group sessions? We could also discuss how you might track your progress and gather feedback over time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds helpful. I think setting specific goals could keep me on track, and knowing what to aim for would probably make my study sessions more productive. Getting feedback would definitely help too, so I'm open to ideas on how to do that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Creating specific goals can certainly help provide direction and focus. Considering your interest in practice problems and joining a study group, possible options could include setting a goal to complete a certain number of problems each week or actively participating in study group discussions. You could also consider scheduling regular check-ins with your study group to exchange feedback. How do these options resonate with you, and would you like to choose one or adapt them to better suit your needs?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of setting a weekly goal for practice problems, maybe like a certain number or types of problems to tackle. As for the study group, having regular check-ins sounds like it could really keep us all accountable and in sync. I think I might go with both of these options!",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Those sound like solid choices that align well with your goal of feeling prepared for Calc 2. By setting a weekly goal for practice problems, you're giving yourself a clear target to aim for, and the regular study group check-ins will ensure you stay engaged and receive valuable feedback. How do you plan to get started with these goals, and are there any potential barriers you might face that we can strategize around together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): I guess I could start by looking at some practice problem sets online or from my old notes and textbooks, and maybe reach out to some classmates to see who's interested in forming a study group. A potential barrier might be time management, especially if I get busy with other stuff, so figuring out a schedule that works for everyone might be a bit tricky.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with specific goals: completing practice problems weekly and engaging in regular study group check-ins. Barriers such as time management have been identified, and strategies for overcoming them are being considered. The client is showing readiness signals, such as commitment to the action plan and confidence in these steps. Thus, the goals of the Choosing phase are met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "It's great that you've already thought about ways to kick things off by using your resources and connecting with classmates. Time management can definitely be a challenge, but planning ahead with a flexible schedule could really help. Perhaps setting aside specific times for study sessions each week could keep you on track without feeling overwhelmed. You’ve got a solid plan, and I’m confident in your ability to adapt as needed. Remember, you’re not alone in this, and it’s okay to reach out for support when things get hectic. How about setting up a check-in time with yourself or a member of your study group to reassess and adjust if needed? Keep up this proactive mindset, and you'll surely see progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Yeah, setting up regular check-ins sounds like a good way to stay on top of things. I'll try to do that and see how it goes. Thanks for the encouragement—I'm hoping this all works out!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist successfully summarized goals, discussed specific steps, and created a plan for next steps, including setting goals, managing time, and regular check-ins, thus meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I got a 4 on the ap calc test but I forgot almost everything ToT. I'm taking calc 2 in fall, what do I do???\nI'm studying over the summer, but I don't want to have to relearn the entire course 💀\n\n",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

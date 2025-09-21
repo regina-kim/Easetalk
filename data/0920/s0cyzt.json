@@ -1,0 +1,167 @@
+{
+  "id": "s0cyzt",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today? Feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I just moved back to campus and I've been feeling kinda down. It's like I was excited to see friends, but I'm really missing my family a lot right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be challenging to feel both excited and homesick at the same time. What's been going on since you moved back that's making you feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's like this weird mix of emotions. I think over the break, I kinda got used to being around my family all the time and now it feels a bit empty or different here without them.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "therapist(exploring): You're experiencing a sense of emptiness after getting used to the comfort of being with family. How have you been managing these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've mostly been trying to distract myself by hanging out with friends, but it's not totally working. I try to keep myself busy with classes, but when I'm alone, it hits me hard.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of homesickness and the context of moving back to campus. The therapist has shown empathy and explored the client's current emotional state and coping strategies. Therefore, the essence of the client's story and feelings has been elicited, allowing for the transition to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding ways to cope on your own seems to be a challenge right now. What do you think life might be like if you were able to find a balance between missing your family and enjoying campus life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think it'd feel a lot less heavy. I'd be able to appreciate the time with friends more without the constant backdrop of missing home. It'd be nice to enjoy both worlds without feeling so torn.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing both aspects of your life could indeed lighten the emotional load. What small changes do you think might help bridge the gap between enjoying campus life and staying connected with your family?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe setting specific times to call or video chat with my family could help. I think planning visits home or having something to look forward to might also make things a bit easier.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating a routine of connecting with your family sounds like a thoughtful step towards balancing your emotions. How do you feel about setting up those specific times for calls or planning visits?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I feel like it could really make a difference, you know? Having something consistent to look forward to might help me feel more connected to them and less overwhelmed by missing them. Plus, planning visits sounds like a nice way to have something exciting on the horizon.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as setting times to call family and planning visits. They've reacted positively, showing enthusiasm and recognition of potential emotional benefits. Change Talk is present, and there's a clear reduction in ambivalence, as evidenced by the client feeling hopeful about these strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Thinking ahead to maintaining this connection and easing the transition, setting up regular calls and planning visits can indeed offer comfort. Which days or times might work best for you to start this routine, and how would you like to approach planning those visits?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think maybe having a weekly call on Sundays could be a good start since it's usually a chill day for everyone. As for visits, maybe aiming for a weekend every month or so could be nice, depending on schedules and everything. It feels good to have a plan to look forward to.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Sundays for calls sound like a relaxing time to connect with your family, and planning monthly visits could give you that sense of anticipation. How might you handle any scheduling conflicts that come up, and would you like to set any reminders to keep this plan on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): If something conflicts with our usual call time, I can try to reschedule for another day that works for everyone. Setting reminders on my phone could definitely help me stay on track and not let things slip through the cracks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "therapist(choosing): Rescheduling and setting reminders seem like proactive strategies to keep this plan on track. How do you feel about trying this for a few weeks and then checking in to see how it's working for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think giving it a shot for a few weeks sounds like a solid idea. It'll be good to see if it helps with the homesickness, and I'd be up for checking in to talk about how it's going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan with regular calls and visits, addressed potential scheduling barriers, and agreed to self-monitor progress. The client feels good about the plan and is ready to try it, signaling commitment and readiness for change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It’s great to hear that you're willing to try this plan. Giving it a few weeks will offer a good sense of how it supports you with feeling connected yet grounded at campus. It’s also encouraging to know you're open to checking in and adapting as needed. Remember that each small step you take is a move towards balancing both worlds. I'm here to support you along the way, and we can explore adjustments together when you’re ready. Keep up the positive momentum, and let’s touch base soon to see how it’s unfolding for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Sounds like a plan. I'm hoping these changes help me feel more at ease. I'll keep you posted on how things are going and if I need to tweak anything. Thanks for the support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a plan to address homesickness, including specific actions and coping strategies. A follow-up has been discussed to assess progress, providing closure to the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I moved back in today and I’m feeling really homesick.\nWhen I moved in today I was so happy to meet my friends but I just miss my family more than the first semester. Over break I had so much fun being with my family and I miss them. I just miss roaming around my room and house just because. \n\nI don’t know maybe I’m just overthink but I am just homesick :(",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

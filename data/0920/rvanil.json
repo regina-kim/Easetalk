@@ -1,0 +1,272 @@
+{
+  "id": "rvanil",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to meet you. What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, nice to meet you too. I guess I'm just feeling super overwhelmed with school starting up again, especially with everything being online for now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting school online seems to be quite overwhelming for you. What about this transition is feeling most challenging?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's just hard to keep track of everything when it's all online. Like, I can't seem to figure out where to start with all the assignments and syllabuses.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like the online format is making it difficult for you to organize assignments and syllabuses. You might be feeling lost about where to begin. Can you tell me more about how this impacts your daily routine?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I find myself spending so much time trying to figure out what to do first that I barely get to actually doing anything. It's like I’m constantly jumping from one thing to another without getting anything done.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's story, concerns about the online school transition, and its impact on their routine. There is evidence of rapport and empathy, understanding the client's feelings of being overwhelmed and disorganized. The goals of the Exploring phase appear met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like the lack of structure is leading to a cycle of feeling unproductive. How do you envision your days if you could manage everything more smoothly?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think if things were smoother, I'd have more of a set plan or checklist to follow. That way, I wouldn't spend so much time deciding what to do and could dive into tasks more efficiently.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a set plan or checklist could really streamline your day. What would it mean for you to have that sense of efficiency and focus in your daily routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "It would probably mean a lot less stress and more peace of mind. I'd feel more in control and less like I'm constantly trying to catch up or missing something important.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Gaining control and reducing stress sounds incredibly valuable for you right now. On a scale from 0 to 10, how confident do you feel about creating a plan that brings you that sense of peace and efficiency?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I’d say maybe a 4 or 5. I want to be more organized, but I'm not sure where to start or if I can stick to a plan right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses a desire for change and a vision of a more organized routine but lacks confidence in achieving it, rating their confidence as 4 or 5. Ambivalence and sustain talk are still present, and specific change goals or next steps have not been fully developed. It's prudent to continue in the Guiding phase to build confidence and identify actionable steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating a plan seems both important and a bit daunting to you right now. What small steps could you imagine taking to move from a 4 or 5 to a higher confidence level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by listing out all my classes and their main deadlines. Then, I could try setting up a simple weekly schedule to follow. I think breaking it down might make it feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to be more organized and identified a specific next step to address their overwhelm by listing classes and deadlines. However, their confidence level is 4-5, indicating they may need more support in building confidence before moving to the Choosing phase. Continuing in Guiding can help solidify their confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Those sound like practical first steps that could really help in managing your workload. Breaking it down into smaller tasks might make it feel more manageable and less overwhelming. How do you feel about taking those steps to build towards that sense of control and efficiency you’re aiming for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "I feel a bit hopeful about it. It seems like it could actually help me start organizing everything better. I just hope I can stick to it once things get busy again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed some Change Talk by identifying specific steps (listing classes and deadlines, setting a schedule) and felt hopeful about them. However, their confidence level is at 4-5, indicating uncertainty. Ambivalence about sticking to the plan remains. Further exploration of confidence and strategies is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "It's understandable to have concerns about staying on track when things get hectic. Your hopefulness is a great starting point. What strengths or resources do you think could support you in maintaining this plan even during busy times?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(exploring): Well, I guess I'm pretty good at adapting once I get the hang of things. Plus, having reminders or using apps to keep track of stuff might help. I just need to remember to use them consistently.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk and a specific next step, but their confidence is currently below 6. Ambivalence remains about maintaining the plan during busy times. Further exploration of strengths and resources may be needed to increase confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Your ability to adapt and consider using reminders or apps are fantastic resources to lean on. Consistency can indeed be a challenge, but it sounds like you have the determination to make it work. How might these tools and your adaptability help bridge the gap between where you are now and where you want to be with your organization?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "I think using reminders and apps could keep me on track and hold me accountable, which might make things less chaotic. My adaptability could help me adjust the plan if something doesn't work, so I can find a better way to manage everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps and resources to manage their organizational challenges, expressing hope and acknowledging their adaptability. However, confidence is still mid-range, and ambivalence remains regarding consistency under pressure. Further exploration of strategies and potential barriers is needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your adaptability and openness to using tools like reminders and apps are real strengths in making this work for you. How do you envision your life feeling different once you start incorporating these strategies and become more organized?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(exploring): I imagine I'd feel a lot calmer and less stressed. It'd be nice to feel like I’m on top of things rather than constantly scrambling. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified small steps towards organizing and feels hopeful about implementing them. They've acknowledged resources like apps and personal adaptability to maintain these changes. Despite recognizing potential challenges, their openness and identified strengths indicate readiness to move forward with a specific action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Feeling calmer and more in control sounds like a wonderful outcome to aim for. To turn this vision into reality, let's consider creating a specific action plan. Based on your ideas, options could include setting up a weekly schedule or choosing an app for reminders. What would you like to focus on first to start building towards that sense of calm and organization?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(choosing): I think setting up a weekly schedule sounds like a good starting point. If I can get into the routine of checking it regularly, it might make everything else easier to handle. Plus, I can add in reminders as I go to keep everything on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule as your starting point sounds like a solid foundation for building that sense of calm and organization. By establishing a routine of checking it regularly, you can gradually integrate reminders to support you. What steps will you take to set up this schedule, and how will you know it's working for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "I’ll probably start by listing all my classes and their deadlines, then spread out the tasks throughout the week so it doesn't feel too packed. I guess I’ll know it’s working if I feel less anxious and more on top of things as the days go by.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Your plan to list classes and deadlines, and then distribute tasks throughout the week, sounds like a well-thought-out approach. Feeling less anxious and more in control will be great indicators of success. How will you make sure to review and adjust your schedule if needed, and what might you do if you encounter any obstacles along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "I’ll try to set aside some time at the end of each week to review how things went and make any changes if needed. If I run into obstacles, I think I'll just remind myself to be flexible and maybe reach out for help if I feel stuck.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan, discussed potential barriers, and agreed on self-monitoring strategies. They have demonstrated commitment and are taking steps towards change. The client expresses confidence in their ability to adapt and manage obstacles, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Setting aside time each week to review and adjust your schedule shows a proactive attitude towards maintaining this plan. Being flexible and open to reaching out for help are also crucial components in overcoming any challenges. I'm confident that your adaptability and willingness to seek support will serve you well.\n\nLet's wrap up with a quick recap: You're aiming to create a weekly schedule, starting with listing your classes and deadlines, and then spreading tasks to avoid feeling overwhelmed. Checking in weekly to adjust your plan and being open to flexibility are your coping strategies. \n\nRemember, you don't have to navigate this alone. Consider reaching out to supportive friends, or utilizing campus resources, if obstacles arise. You've got a clear path ahead, and I'm here to encourage you along the way. As your next step, focus on setting up that initial schedule. You’re doing a fantastic job, and I believe in your ability to bring more calm and control into your life.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll definitely try to stick with it and reach out if I hit any bumps. It's nice to have a starting point and know there's support if I need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a clear action plan for creating a weekly schedule, coping strategies in place, and an invitation to seek support if needed, fulfilling termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I’m feeling so overwhelmed on the first day again\nWho else feels this way on the first day? I am kind of lost because there are so many syllabuses to read and things to plan out. I just can’t focus on one class without worrying about the other. Idk what class to work on. I usually get into the flow of it but especially moving online for the first 2 weeks it is not fun",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

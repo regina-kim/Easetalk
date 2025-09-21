@@ -1,0 +1,272 @@
+{
+  "id": "vlhnel",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just feeling a bit frustrated. I've been really stressed about this whole major switch and the pre-pharmacy program situation. It's just been weighing on me a lot lately. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching majors can definitely bring a lot of stress and uncertainty. You feel frustrated because the pre-pharmacy program is weighing heavily on your mind. What aspects of this situation are concerning you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's just the feeling that I'm stuck because I really wanted that accelerated path. It feels unfair that I can't get into the program just because I'm not a freshman anymore.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling stuck and frustrated because of the barriers to joining the program, especially when you were aiming for an accelerated path. Can you share more about how this situation has been affecting your day-to-day life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, it's been really distracting. I find myself constantly thinking about it, and it's hard to focus on my current classes. I'm just worried about falling behind and wasting time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their frustration and the impact on their daily life, providing a clear understanding of their thoughts and feelings. Rapport seems established, and the client's main concern is evident. However, there may be more to explore regarding their emotions and potential goals before moving to the guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like this situation is creating a mental block that's making it difficult for you to concentrate on your current classes. You worry about falling behind and potentially wasting time. How have you been managing these distractions and worries day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'm trying to stay on top of my current classes, but it's tough. I talk to friends and sometimes my family about it, which helps a bit, but I still feel unsettled about the whole thing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's thoughts and feelings, revealing a sense of frustration and feeling stuck due to program barriers. The therapist has shown empathy and understanding. The client's day-to-day challenges and coping strategies have been discussed. The goals of the Exploring phase appear to be met, allowing the conversation to move towards strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Connecting with friends and family seems to provide some relief, yet the feeling of being unsettled remains. How do you imagine your life would look if these barriers weren't standing in your way?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): If these barriers weren't there, I think I'd feel way more motivated and focused. I'd be able to dive into the pre-pharmacy path with a clear plan, and I wouldn't be stuck in this limbo, second-guessing my choices.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Visualizing a life without these barriers shows how much motivation and focus you'd gain, along with a clear path in the pre-pharmacy program. On a scale of 0 to 10, how confident do you feel about finding ways to navigate these challenges and move toward that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Honestly, maybe a 4 or 5. I feel like there are options, but I'm not really sure how to make them work or if they'll even lead to where I want to be.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Acknowledging the options you've identified is a great step, even if you're uncertain about them leading to your goals. What strengths or resources do you have that might help boost your confidence from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Well, I guess I'm pretty good at problem-solving and doing research, so maybe I can find a workaround or alternative path. Plus, I have supportive friends and family who might have some ideas or connections that could help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged a discrepancy between their current path and desired goals and visualized life without barriers. Confidence is low (4-5), indicating a need for further exploration of strengths and resources. Although options are discussed, no specific change goal or next step has been identified, suggesting the client isn't ready to move to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Recognizing your problem-solving skills and supportive network is a solid foundation. What impact do you think using these strengths could have on your journey toward your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Tapping into those strengths might help me feel more in control and less stressed about the situation. If I can find a different path or solution, I think I'd be a lot more optimistic about reaching my goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change and identified specific strengths to leverage, showing some Change Talk. However, their confidence is still low (4-5), indicating the need for further exploration to strengthen motivation and reduce ambivalence before moving forward.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Feeling more in control and optimistic by using your problem-solving skills and support network sounds empowering. How might these positive changes influence your approach to your current classes and overall mindset?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): If I feel more in control, I think I'd be able to focus better on my classes now, instead of being caught up in worries. It'd probably help me feel more balanced and motivated overall, which would make dealing with everything a bit easier.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored the discrepancy between their current situation and their goal to pursue a pre-pharmacy path, and how these changes could positively impact their focus and motivation. They have expressed some confidence and identified strengths and resources to leverage. However, their confidence is still low (4-5), and no specific change goals or next steps have been defined yet.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Finding that sense of balance and motivation can really transform your current experience. How might you start tapping into those problem-solving skills and support network to foster this positive shift in focus and mindset?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I could start by talking to my friends and family more intentionally about my situation, asking for their advice or if they know anyone who could give me insights into the pharmacy path. I might also try to list out alternative routes into pharmacy school and research them to see which ones could work for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed visualization of life without barriers, acknowledged strengths and resources, and considered options for change. However, confidence remains low at 4-5, indicating ambivalence and some uncertainty about executing the change. The client hasn't yet set a specific change goal or next step. Guiding phase should continue to build confidence and clarify goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Reaching out for insights and advice while researching alternatives sounds like a proactive approach. What small step do you imagine taking first to set this plan into motion?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll start by having a chat with my academic advisor to see if they have any advice or know of any potential pathways I haven't considered yet. After that, I'll reach out to my friends and family to see if they have any connections or ideas that could help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing confidence and is actively considering specific next steps and leveraging resources to overcome barriers. There's a decrease in ambivalence and the client is more optimistic about their goals, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Building on your plan to speak with your academic advisor and then reaching out to friends and family sounds like a strategic start. How do you envision keeping track of the advice and connections you gather to ensure you're moving forward effectively?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I could keep a journal or maybe use a document on my laptop to jot down the advice I get and any connections or resources they mention. That way, I can refer back to it whenever I need to and make sure I'm staying organized and focused on moving forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Creating a journal or digital document to track advice and resources is a fantastic way to stay organized. What other strategies might you consider to help you stay motivated and on course as you gather information and explore these new pathways?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think setting small, achievable goals could be helpful, like aiming to talk to a certain number of people each week or dedicating specific times for research. Celebrating those little wins might keep me motivated. Plus, maybe finding a study buddy or someone with similar goals could help keep me accountable and focused.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "therapist(choosing): Setting small goals and celebrating each achievement sounds like a great way to maintain motivation. You might also consider tracking your progress towards these goals in your journal or document. How do you feel about creating a weekly plan that includes these targets and finding an accountability partner to support this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(choosing): A weekly plan sounds like a solid idea, and finding an accountability partner could really keep me on track and make the process less lonely. I'll definitely try to include all these elements in my journal or document so I can see my progress and stay motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving reaching out for advice, tracking progress, and setting small goals. Barriers have been discussed, and the client agrees to self-monitor through a journal and finding an accountability partner. The client shows commitment and confidence in the chosen strategies, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Your commitment to this new approach is truly inspiring. Having a weekly plan and enlisting an accountability partner are great ways to stay on track and make this journey feel less daunting. By documenting your progress, advice, and small wins, you’ll create a roadmap that guides and motivates you. Remember, each step you take, no matter how small, is a move toward your goal. Be kind to yourself throughout this process and celebrate those successes along the way. Our next steps can include checking in on your progress and how these strategies are working for you. You’ve got this, and I'm here to support you on your journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I'm really hoping this plan helps me stay focused and motivated. I'll definitely try to stick with it and see how things go. Looking forward to our next session to share how it’s all working out!",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear plan involving seeking advice, setting goals, and staying organized. The conversation concluded with a summary of strategies and a plan for next steps, making it natural to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Major Advice\nI thought this was a good place to ask for advice on this topic, so here we go. I'm headed into my second year of college at a state school in PA. I am currently in their english department and planned on going into education. I have since changed my mind and I am thinking of going into Pharmacy. However, the school won't let me do the pre-pharmacy program because it was \"Designed for freshman\". The Pre-Pharmacy program is accelerated and takes a few years off your degree. I told them I was only really interested in pre-pharmacy and they said the best they could do was switch me to chemistry and then I could apply to pharmacy school and hope to get in. Should I keep trying? Am I wrong to think I should be allowed into the program since I've been a student for two years?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

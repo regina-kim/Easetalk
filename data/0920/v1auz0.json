@@ -1,0 +1,167 @@
+{
+  "id": "v1auz0",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've just been feeling really down because I got rejected from the only college I applied to, and now I'm worried about my future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, and it's understandable to feel down given the situation. Can you share more about what made you choose that college and how you're feeling about the future now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I chose it because it had a good engineering program, and I've always wanted to go there. Now, I'm just feeling stuck and unsure about what to do next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That must be incredibly frustrating, especially when it was a place you were so hopeful about. You’re feeling stuck because this college was a major part of your plan, and now you're not sure what the next steps are. What ideas have you explored for moving forward from here?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've thought about trying to apply to other schools, but I'm worried that I might have missed the deadlines or that I won't get in anywhere else. It's just hard to see a clear path right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the core issue regarding the college rejection and has expressed feelings of being stuck and unsure about the future. The client has also explored some ideas for moving forward but remains concerned about missed opportunities and the impact on their future. Empathy and rapport appear to be established.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That uncertainty can be really daunting, and it's understandable to feel overwhelmed by it. Considering other schools shows you're open to possibilities, which is a strength. How might your future align with your goals if you decided to explore different schools or programs?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess exploring other schools could open up more opportunities for me, maybe even in different locations or with different specializations that could be interesting. It’s just hard to shake off the fear of getting rejected again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Facing the fear of rejection is tough, but it's great that you're considering the potential opportunities that different schools or specializations might offer. How might moving past this fear impact your confidence and your journey toward your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Well, if I can move past this fear, maybe I'd feel more confident about going after what I want and not letting setbacks stop me. It could help me focus more on the possibilities rather than the negatives, and maybe even find a path that's a better fit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Recognizing how overcoming this fear could boost your confidence is a powerful insight. You're already envisioning a shift toward focusing on possibilities, which is a wonderful step. What values or goals might guide you as you consider these new paths?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think I really value learning and growing, and I want to do something that challenges me and is meaningful. My goal is to eventually work in a field where I can make a difference, maybe innovate in technology or engineering.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing Change Talk by considering exploring other schools and recognizing the potential benefits of overcoming fear. They've identified values like learning and growth, and specific goals regarding their career aspirations. There is a decrease in sustain talk and an increase in confidence about possible futures. This indicates readiness to move to the Choosing phase to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Thinking about how much you value learning and growth, while also wanting to make a difference, are wonderful guiding principles for your journey. As you consider your next steps, what specific actions could help you explore different schools or programs that align with these values and goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could start by researching schools that have strong engineering programs and check if any still have open applications. I could also reach out to admissions offices to see if they might have any advice or options for late applicants.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring schools with strong engineering programs and reaching out to admissions offices are proactive steps that align well with your goals. You might consider setting a goal to research a few schools each week. How would you like to track your progress and stay motivated as you take these actions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Tracking my progress could be as simple as keeping a list of schools and noting down any important dates or contacts. Maybe setting small weekly goals to reach out to a certain number of admissions offices could help keep me on track and motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a list and setting weekly goals to contact admissions offices sounds like a solid plan to keep you organized and motivated. Perhaps you can review your progress weekly to celebrate achievements and adjust the plan if needed. What might help you stay resilient in case you face any challenges or setbacks along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Staying resilient might mean reminding myself why I'm doing this in the first place, like focusing on my long-term goals and the excitement of new opportunities. It might also help to talk to friends or family when I'm feeling discouraged to get some support and perspective.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan: researching schools and contacting admissions offices. They have discussed potential barriers and strategies to maintain resilience. The client shows commitment and readiness to take actionable steps, indicating confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "therapist(choosing): Reminding yourself of your long-term goals and seeking support from friends or family are excellent resilience strategies. Embracing the excitement of new opportunities can be a powerful motivator. As we wrap up today, you've outlined some great steps: researching schools, reaching out to admissions, and tracking your progress. Keep leaning on those values of learning and growth as you move forward. Remember, you're not alone in this journey, and reaching out for support when needed is a strength. I believe in your ability to navigate this path, and I'll be here to support you at each step.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that really helps to hear. I'll definitely focus on what excites me and reach out if I need support. Appreciate your guidance!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation indicates a clear summary of goals and coping strategies, with a detailed action plan for next steps. The client has been encouraged and has expressed appreciation for guidance, suggesting readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: The only college that I applied to rejected me\nI (19) got rejected after applying to an engineering school that I really wanted to go to. This school also has a high acceptance rate. I slowly got sick and tired of going to a community college and I finished and I want to transfer but I’m afraid that it’s too late to apply to other colleges. If this college (with its really high acceptance rate) openly rejects me, then it’s over when it comes to my hopes of going to college.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

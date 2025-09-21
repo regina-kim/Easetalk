@@ -1,0 +1,188 @@
+{
+  "id": "s94kk8",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling overwhelmed with o chem. It's like my brain's just not wired for it, and I can't shake off the stress about it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Organic chemistry can definitely be challenging, and it sounds like it's been weighing heavily on you. What aspects of the course are you finding most overwhelming right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's just everything. The reactions, mechanisms, and the way it all connects—it's like trying to piece together a giant puzzle without any edge pieces. I don't even know where to start most of the time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be really frustrating to feel like you're trying to solve a puzzle without any guidance. Given this challenge, how are you managing to cope with the stress and overwhelming feelings day to day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I've been trying to cope by just pushing through, but it's not really working. I end up more stressed and I can't focus on anything else, which is kind of a never-ending cycle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, thoughts, and feelings regarding organic chemistry have been elicited, along with context about their coping attempts. Empathy and rapport are evident, and mutual understanding of the challenge is emerging. The conversation is ready to transition to strengthening motivation and exploring change possibilities.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're caught in a tough cycle of stress and struggle. Coping by pushing through isn't giving you the relief you need. What would it mean for you if you could find a way to break this cycle and approach your studies with a clearer mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "It would be such a relief, honestly. Just feeling like I can handle it without spiraling would be a big weight off my shoulders. I think I'd be more open to actually learning the material instead of just surviving it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding a way to break free from that cycle seems to hold a lot of promise for you. If you could picture yourself feeling more in control and less overwhelmed, what small steps or changes might start to lead you in that direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe finding a study group or getting a tutor could help, so I can actually talk through the material with someone. Also, setting aside some time to just decompress might help my mind feel less cluttered.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Connecting with others and making room for relaxation can indeed be powerful ways forward. How confident are you, on a scale from 0 to 10, that you could take these steps to help manage your stress and improve your understanding?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 5 or 6. I know it's something I should do and it sounds helpful, but actually getting started and finding the right people feels a bit daunting right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shows some Change Talk, identifying potential steps like joining a study group and making time to decompress. However, their confidence is moderate at 5 or 6, and they express uncertainty about initiating these steps. This indicates readiness needs strengthening, and further guidance is needed to enhance confidence and address ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking those first steps can definitely feel daunting, yet you're already showing awareness by considering these options. What do you think might help to boost your confidence from a 5 or 6 to a higher number, as you explore connecting with others and setting time for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe starting small, like just talking to a classmate after a lecture or setting aside a few minutes each day for some quiet time. Also, hearing success stories from others who've been in my shoes might make me feel less alone and more motivated.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific steps like joining a study group and setting aside time for relaxation. Confidence is at 5 or 6, but with suggestions to boost it. Ambivalence has decreased with the client's willingness to explore options. The client is ready to move towards developing actionable plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Hearing others' success stories and starting small can be encouraging steps forward. Would you be interested in setting a specific goal, like reaching out to a classmate this week or dedicating 10 minutes daily for relaxation? We can explore potential resources or strategies to support these actions and consider what barriers might arise.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good start. I can aim to chat with someone in class this week, just to break the ice. For the relaxation part, I can try dedicating 10 minutes each evening to just unwind. I'm not sure what barriers I might hit, but maybe it's just my own hesitation or feeling awkward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That's a solid plan. Reaching out to a classmate and dedicating time for relaxation are great steps forward. If hesitation or awkwardness comes up, it might help to remind yourself of the relief you'll feel after breaking the ice. How might you track your progress and celebrate these small wins to keep yourself motivated?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Maybe I can keep a little journal or a note on my phone to jot down when I actually talk to someone or take time to relax. Celebrating could be as simple as treating myself to a favorite snack or watching an episode of a show I like. Just something small to acknowledge that I'm making progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Celebrating your efforts with small rewards is a fantastic way to stay motivated. Keeping a journal or phone note can also serve as a great reminder of the steps you're taking. Would you like to explore any other strategies or resources that could support you as you start this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Honestly, I think having a plan to start with is good for now. I don't want to overwhelm myself by trying too many things at once. But maybe down the line, if I'm still struggling, we could look into more resources or ideas. Just keeping it simple feels like the right move.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan and is aware of potential barriers like hesitation. They have agreed to self-monitor using a journal and reward system. They express confidence in starting with a simple plan and are open to exploring additional strategies later if needed, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Keeping it simple and manageable sounds like a wise approach. Having a plan in place and taking these small steps is a meaningful way to begin. Remember, you’re not alone in this journey, and it's okay to reach out if you need support. As you move forward, acknowledging each step you take can build momentum. You've got a clear focus, and I believe in your ability to follow through. When you're ready for more, or if anything comes up, we can explore additional options together. Take care, and I look forward to hearing about how things unfold for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "I appreciate that. I'll do my best to keep things moving and reach out if I get stuck. Thanks for the support and for believing in me. Looking forward to sharing how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has addressed the client's initial concerns, established a specific plan, and discussed coping strategies. The client feels supported and ready to take steps, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Has anyone survived both o chems\nIs there light at the end of the tunnel? \nO chem no lie drains the optimism out of me. I feel like I retained nothing from it and now I’m onto o chem 2. Which builds upon those same topics that I do not understand. What can I do lmao.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

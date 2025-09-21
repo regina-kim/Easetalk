@@ -1,0 +1,251 @@
+{
+  "id": "wh1y0t",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been really stressed about managing my classes and work. It's hard to find time to study and I'm worried about failing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing classes and work can indeed be overwhelming. You feel stressed because you're worried about not having enough time to study, which could affect your grades. How have you been managing your time so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, it's been pretty chaotic. I just try to squeeze in study time whenever I can, but it feels like there's never enough hours in the day, especially with two jobs.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Juggling two jobs along with classes sounds really challenging. It seems like the lack of time is causing a lot of pressure for you. How do you usually decide which tasks to prioritize when you're short on time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I mostly just go with whatever seems most urgent, like if there's a deadline coming up soon. But honestly, sometimes it feels impossible to figure out where to even start.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, showing detailed context and feelings about managing time between studies and work. Rapport and empathy are evident. The client has also expressed concerns about failing and disappointing parents, achieving the goals of exploring.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "When everything feels urgent, it can definitely be tough to know where to begin. Reflecting on this, what do you think your life might look like if you had a more balanced schedule?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I had a more balanced schedule, I think I'd probably feel a lot less stressed and maybe even enjoy my classes more. It'd be nice to not feel like I'm constantly rushing or just barely keeping up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a life with less stress and more enjoyment in your classes sounds appealing. What do you think needs to change to get closer to that balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client: I think maybe I need to learn how to manage my time better and prioritize more effectively. But I have no idea where to start with that, especially when I'm already feeling overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Figuring out where to start when you're overwhelmed can be daunting. Recognizing the need for better time management shows insight. On a scale from 0 to 10, how confident do you feel about your ability to learn and apply new time management skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): client: Honestly, right now I’d say maybe a 4. I know I need to change how I’m doing things, but actually doing it feels like a whole different challenge.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a need for better time management but lacks confidence (4/10) in implementing change. Change Talk is present, but confidence is low, and no specific change goal has been identified. The client is still feeling overwhelmed and ambivalent about the ability to change, signaling the need for further exploration and support in the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling at a 4 shows that you're recognizing the need for change, which is a great starting point. What could potentially raise your confidence level, even by just a point or two?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having some kind of plan or structure might help. Maybe if I had a clear idea of what needs to be done and when, it'd feel less overwhelming. Some tips or tools for organizing my time better could probably boost my confidence a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a desire for change and recognized the need for better time management. However, confidence is low at 4, and no specific change goal has been set, indicating continued ambivalence. The client has identified potential strategies to boost confidence but requires further exploration to solidify these into actionable steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having a plan or structure indeed sounds like it could make things feel more manageable. Exploring tools or tips that align with your needs could be a great way to boost your confidence. What kind of time management strategies or tools have you heard about or thought might be helpful for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I've heard about planners and apps like Google Calendar, but I haven't really tried using them seriously. I also read somewhere about the Pomodoro Technique, where you work for a set time and then take a break. Maybe having a mix of these could work for me?",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a need to learn time management and identified potential strategies (planners, Google Calendar, Pomodoro Technique). Change Talk is present, but confidence in implementing these changes is low. The client suggested a plan could boost confidence, but specific steps or a plan are not yet established. Thus, the guiding phase should continue to strengthen confidence and detail concrete steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Exploring a mix of strategies like planners, apps, and techniques such as the Pomodoro could definitely be beneficial. It's great that you're considering different options. How do you feel about trying one of these methods out to see if it helps create that structured plan you're looking for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client: I feel like it might be worth a shot to try them out. I'm a bit nervous about sticking with it, but if it can help me manage things better, then it's probably worth giving it a go.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has recognized the need for change and expressed willingness to try new strategies like the Pomodoro Technique and planners. However, confidence is still low at 4, and ambivalence about sticking with new methods is present. Further exploration and strengthening of confidence are needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Feeling nervous about sticking with it is totally natural, but it's encouraging that you're open to giving it a try. What small step do you think you could take to start experimenting with one of these methods this week?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client: I guess I could start by setting up a Google Calendar with all my class times and work shifts. Then maybe try using the Pomodoro Technique for one study session and see how it goes. Just starting small might make it less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal, identified potential strategies, and is willing to take small steps towards implementation. Despite a confidence level of 4, the client has considered actionable steps and showed openness to experimentation, indicating a readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "That sounds like a practical and manageable approach. Setting up your Google Calendar with your classes and shifts, along with trying the Pomodoro Technique for a study session, seems like a great way to start. What potential challenges do you think you might encounter in trying these methods, and how might you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client: I might struggle with remembering to check the calendar regularly or getting distracted during the Pomodoro sessions. Maybe setting reminders on my phone could help with the calendar, and I could try finding a quieter spot or use noise-canceling headphones during study sessions to stay focused.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Setting reminders and creating a focused environment are excellent strategies for overcoming those challenges. Would you like to set a specific goal for how often you'll use these tools this week, and how will you keep track of your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client: Yeah, setting a goal might help. Maybe I'll aim to check my calendar every morning and try the Pomodoro Technique for at least two study sessions this week. I can jot down how each session goes in a notebook or on my phone to keep track of what's working and what's not.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "That's a well-thought-out plan. Checking your calendar each morning and committing to two Pomodoro sessions is a solid start. Keeping a record of your experiences will surely help in identifying what works best. How do you feel about discussing your progress and any adjustments needed during our next session?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client: I think that sounds like a good idea. It'll be nice to have someone to talk it over with and maybe get some feedback on what I can tweak or improve. Plus, it'll kind of keep me accountable, which might help me stick with it more.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal and action plan to use Google Calendar and the Pomodoro Technique. Potential barriers were discussed, and self-monitoring through recording experiences is agreed upon. The client expressed commitment and willingness to discuss progress, indicating readiness. Thus, it's appropriate to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "It's great to hear that you're open to discussing your progress and adjustments; having someone to talk it over with can definitely help maintain accountability. By setting yourself these achievable goals, you're giving yourself a solid framework to build from. Remember, it's completely normal to need to tweak things as you go along, and I'll be here to support you through that process. Let’s aim to catch up next session to see how it all unfolded and celebrate the steps you're taking. Keep believing in your ability to create the structure you need. You're doing really well!",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and encouragement. I'll try to keep at it and see how things go this week.",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session reviewed goals, steps, and coping strategies. The client has a plan to use Google Calendar and the Pomodoro Technique, also identifying potential challenges and solutions. Next steps were discussed, providing closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Studies\nSo I’m a sophomore at my local cc and last year with a job I did fairly well with three classes though I did fail one (the teacher seemed like a general jerk anyway) but part of it was also the fact that I couldn’t really understand the assignments and the teacher was never much help. \nThis year I have two jobs and am taking four classes (3 in-person and 1 online) and I’ve never been really been really good at studying and generally slotting my time between classes and work for homework and such. Does anyone have any suggestions for being able to do schoolwork and getting it done well especially late at night when libraries and quiet places outside of home are closed?\nI’m afraid of flunking out of college and disappointing my parents",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

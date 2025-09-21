@@ -1,0 +1,188 @@
+{
+  "id": "sm67mp",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey there! I've been thinking a lot about my future career and I'm feeling pretty stuck. I'm trying to figure out how to combine my love for English and Math into something practical.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Combining your passions for English and Math sounds intriguing but challenging. Could you share more about what you enjoy most about each subject and any thoughts on how they might blend into a career?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Sure! With English, I love diving into literature, understanding themes, and expressing ideas creatively. On the Math side, it's all about the logic and solving puzzles. I guess I'm hoping for a job where I can use both creativity and analytical thinking.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you have a passion for both creativity and analytical thinking, which are wonderful strengths to have. What kind of careers have you considered that might allow you to use both these skills?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've thought a bit about fields like data analysis or marketing, where I could potentially use both skills. But I’m not sure if either will really let me flex my creative muscles and problem-solving skills enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts on enjoying both English and Math, provided detailed context about their interests, and started discussing potential career paths like data analysis or marketing. There is good rapport and understanding, but goals have not been mutually agreed upon yet. Further exploration might be beneficial to clarify specific motivations and possibilities.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring these fields shows your thoughtful approach to finding the right fit. It seems you're looking for a career that balances creativity and problem-solving. What aspects of data analysis or marketing appeal to you, and are there any other fields you’ve considered that might also combine these interests?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "In data analysis, I love the idea of uncovering stories through numbers, while marketing seems fun because it's about creative storytelling. Recently, I’ve also been curious about UX design and technical writing, but I haven't done a deep dive into those yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about liking both English and Math, and how they wish to apply these in a career. The therapist has built empathy and rapport by acknowledging the client's strengths and interests. They have discussed potential career paths, achieving a mutual understanding of the client's goals. The conversation is ready to move towards strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your curiosity about UX design and technical writing adds exciting possibilities to the mix. What draws you to these new options, and how do you envision they might incorporate your love for both storytelling and problem-solving?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): UX design seems like it could be a perfect blend of creativity and analysis because it's about understanding people and designing solutions. Technical writing appeals to me because I could break down complex information into understandable content, which kind of feels like solving a puzzle through words.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "UX design and technical writing indeed sound like wonderful avenues for blending creativity with analysis. How do you see your skills and interests fitting into either of these fields, and what steps might you take to explore them further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Well, I think my skills in understanding people and breaking down information would be assets in both fields. To explore them more, I might look into some online courses or connect with professionals already working in those areas to get their insights.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Connecting with professionals and taking courses are excellent steps towards exploring these fields. How confident do you feel, on a scale from 0 to 10, about pursuing these new interests, and what might boost your confidence even further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I'd say I'm around a 6 right now. I think getting some hands-on experience or hearing real-world stories from people in the field could really help boost that number for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific career interests and taken initial steps towards exploration, indicating readiness. They've expressed motivation to explore UX design and technical writing further. With a confidence level of 6, connecting with professionals or gaining experience might enhance it. The presence of Change Talk and specific goals shows progress.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Building hands-on experience and hearing real-world stories sound like effective strategies to boost your confidence. Based on what you've mentioned, some possible steps include attending workshops or reaching out for informational interviews. How do you feel about setting a goal to explore one of these actions, and what might be a realistic timeline for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. I think setting a goal to reach out for a couple of informational interviews in the next month feels realistic. It’ll give me a chance to hear firsthand what working in those fields is really like and if they fit my interests.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Reaching out for informational interviews is a great step towards gaining insights into those fields. Setting a goal to connect with a couple of professionals in the next month sounds realistic and actionable. What strategies might you use to find these professionals, and how will you track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I’ll probably start by checking LinkedIn to find professionals in UX design and technical writing, maybe join some relevant groups or forums too. As for tracking, I could keep a spreadsheet or a journal to note who I’ve reached out to and their responses.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Using LinkedIn and joining relevant groups or forums is a smart strategy for finding professionals. Keeping a spreadsheet or journal to track your outreach and responses will help you stay organized and motivated. What potential obstacles do you foresee, and how might you handle them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): I might face challenges like not knowing what to say when reaching out, or people not responding at all. To handle that, I could prepare a simple introduction message and remind myself that it's okay if some people don't reply—it's all part of the learning process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and concrete action plan, including reaching out for informational interviews and tracking progress. Potential barriers, such as lack of responses, have been anticipated with strategies to manage them. The client demonstrates commitment and readiness to take steps, indicating the Choosing phase goals are met.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Preparing a simple introduction message is a thoughtful approach, and your understanding that some may not respond reflects your resilience. It's part of the journey, and every step you take is a step forward. Let's recap: you're setting a goal to conduct a couple of informational interviews within the next month, using LinkedIn and relevant groups to find professionals. You'll track your progress with a spreadsheet or journal. You've already considered possible obstacles and have strategies in place to manage them. You're doing a great job of planning and taking proactive steps. Keep embracing the learning process, and remember that you're not alone in this; I'll be here to support you along the way. Keep moving forward, and great things will come.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll start reaching out and see how it goes. If I hit any bumps, I'll definitely reach out to you for advice.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has formulated a clear, actionable plan with steps and strategies to overcome potential obstacles. There's a review of goals and support in place, fulfilling termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What career for someone who loves English and Math?\nhi! I’m a very confused sophomore. What career path can I choose if I live both English ( analyzing, creativity, dealing with people and humanities) and mathematics (logic, deduction , problem solving)? I want a job that requires a multitude of skills, is tangent with the world ( meaning nothing like a teaching job that deals with repetitive material only). \n\nThank you for any response in advance!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

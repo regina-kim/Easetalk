@@ -1,0 +1,188 @@
+{
+  "id": "vapog6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been thinking a lot about what I want to major in when I start college. I’m really into both math/science and communications, and I’m trying to figure out how to combine those interests.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like an exciting crossroads! You're feeling torn because you have a passion for both math/science and communications, and you're exploring ways to bring them together. What draws you to each of these areas?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, with math and science, I love the logic and problem-solving aspects—it feels satisfying to work through a tough problem. On the other hand, with communications, I enjoy expressing ideas, connecting with people, and the creativity involved in public speaking.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your interests in logic and problem-solving in math and science, alongside the creative expression and connection in communications, highlight your diverse talents. How do you envision combining these passions in a way that feels fulfilling for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I imagine doing something where I can use math and science to solve real-world problems but also communicate those solutions to others in an engaging way. Maybe working in a field like data analysis but being the person who presents the findings to stakeholders or the public.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, expressing the desire to combine STEM and humanities. They have detailed their thoughts and feelings about their interests. Rapport and empathy have been established, but no mutually agreed goals or direction have been set yet. This suggests more exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're picturing a role that allows you to utilize both your analytical skills and your knack for engaging communication. Combining these could indeed lead to a fulfilling path. What aspects of this vision excite you the most, and are there any specific concerns you have as you consider this direction?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I'm excited about the idea of being a bridge between technical and non-technical people, making complex information understandable and interesting. But I'm also concerned about finding a major that sets me up for this kind of role—something that's not too narrow but still gives me the skills I need.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's interests in math/science and communications, and how they envision combining these in a career. The client expressed excitement and concerns about choosing a major. Rapport and understanding were established, meeting the Exploring phase goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Blending your talents to be that bridge sounds incredibly impactful. Feeling excited about making complex ideas accessible shows your passion for both fields. As you think about majors, what options seem to offer a good balance between these skills, and how confident do you feel about exploring them further on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): I know there are majors like data science that mix math and communication, but I'm not sure if they'll give me enough of that public speaking or creative aspect. I'd say I'm about a 6 or 7 in terms of confidence in exploring these options, but I'm still unsure about finding the right fit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "You're aware of majors like data science that might align with your vision, though you're uncertain about the creative and public speaking components. Feeling a 6 or 7 in confidence shows you're open to exploration. How might you increase this confidence, and are there resources or people who might help you gain more clarity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(reflecting): I think talking to people who work in fields like data science or communications could give me a better idea of what those jobs are really like. Maybe I could also reach out to some college advisors or professors to learn more about available programs. That might help me feel more sure about my options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out to professionals and college advisors sounds like a great way to deepen your understanding and boost your confidence. Engaging with real-world insights could illuminate how these fields intersect. What do you think would be your first step in connecting with these resources?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I guess I could start by reaching out to my school’s career counselor to see if they can connect me with alumni or professionals in these fields. I could also look into college open houses or info sessions where I can talk to professors about their programs.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, showing openness to exploring options and increasing confidence (6-7 on the scale). They have identified specific next steps such as reaching out to career counselors and professionals, indicating readiness to move forward. The discrepancy between their current indecision and future clarity on the major has been explored, and there's a clear focus on resources. Therefore, it's appropriate to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Connecting with your school’s career counselor and attending college open houses or info sessions are excellent first steps. They can provide valuable insights and guidance. As you explore these options, would you like to set a specific goal or timeline for reaching out, and how might you keep track of your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Setting a timeline sounds like a good idea to keep myself accountable. Maybe I could aim to talk to my career counselor within the next couple of weeks and attend at least one college open house or info session by the end of next month. I could keep track of my progress by making a simple checklist or using a planner to note down when I've accomplished each step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Creating a timeline and checklist sounds like a practical strategy to stay on track. Reaching out to the career counselor in a couple of weeks and attending an info session by next month is a solid plan. Would you like to brainstorm any potential challenges you might face and how you could address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Sure, that sounds helpful. I might face challenges like finding the right people to talk to, or maybe I’ll get busy with schoolwork and procrastinate on reaching out. I guess I could address these by setting specific times in my planner to work on this and reminding myself of my goals regularly.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having specific times in your planner and regular reminders of your goals are great ways to tackle potential challenges. Setting these appointments with yourself ensures consistent progress. How do you feel about your action plan overall, and is there anything else you'd like to add or adjust to support your journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about the action plan. It seems manageable and like it’ll help me stay focused. I can’t think of anything else to add right now, but I’m sure I’ll adjust along the way if needed. It's reassuring to know I have a plan to guide me through this.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with specific goals and timelines. Potential barriers have been discussed and strategies to overcome them, such as using a planner and reminders, are in place. The client feels confident about the plan, suggesting readiness to proceed to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Your confidence in your action plan is inspiring, and it's great to hear it feels manageable for you. Remember, it's perfectly okay to adjust the plan as you go along. You've set yourself on a path of exploration and learning, and that's commendable. Keep those reminders visible to stay motivated, and trust in your journey. If you ever feel the need for more support or guidance, know that reaching out is always an option. You're taking meaningful steps toward your goals, and you're equipped with tools to navigate through any uncertainties. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll definitely keep those reminders visible and adjust as needed. It's nice to know I have a plan and resources to turn to if I need them.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals, steps, and coping strategies. The client has articulated a clear action plan with timelines, and potential challenges and solutions were discussed. Closure was naturally achieved, making it appropriate to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Major that incorporates Math with Communications?\nI'm going to be a Senior in HS next year, and with College Apps starting up within the next few months I've been trying to think about what I want to major in but I'm having a really hard time doing so. I understand that I don't have to get it right on the first try, and that most people don't get it right on the first try, but I'm still at a crossroads. On one hand I'm very naturally gifted in the Math and Sciences, so a career in STEM would seem ideal. The only thing is I don't want to spend the rest of my life in just STEM, I really enjoy stuff in the humanities as well such as public speaking. If there were a way to incorporate STEM, something I have a natural gift for, with humanities such as public speaking/communications, something that I enjoy, I'd be set\n\n&amp;#x200B;\n\nOr I could major in STEM and minor in the humanities?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

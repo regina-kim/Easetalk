@@ -1,0 +1,188 @@
+{
+  "id": "y9kyxp",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've just been feeling overwhelmed with my courses lately. It's like no matter what I do, I'm not seeing any improvement.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really tough feeling overwhelmed and not seeing the progress you hoped for. Can you share more about what's been happening with your courses?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it’s like I’m putting in the effort but the grades just don’t show it. I used to do well in high school, so this is really throwing me off. I'm just not sure what changed or what I'm doing wrong.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Adjusting from high school to college can be quite challenging, especially when your efforts don't seem to reflect in your grades. It sounds like you're feeling frustrated and unsure because things aren't working as they used to. Can you tell me more about any specific changes you've noticed in your study habits or environment since starting college?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Honestly, I think the biggest change is the workload and how fast-paced everything is. In high school, I had more structured guidance and time to absorb things. Now, it's like everything's happening at once, and I can't keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern, context of their transition from high school to college, and their feelings towards their current academic performance, demonstrating rapport and understanding. However, more exploration into specific goals and potential stressors or strategies is needed before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "therapist(exploring): The shift to a more fast-paced and less structured environment can indeed feel overwhelming. It sounds like you’re finding it difficult to manage the increased workload, which can be quite stressful. How do you feel this change is affecting your daily routine or study habits?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I feel like I'm constantly playing catch-up, and it's making me anxious all the time. My daily routine is erratic because I'm always trying to fit in extra study sessions, but it's not really helping much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story, including thoughts and feelings about transitioning from high school to college, has been clearly elicited. The conversation has established empathy and rapport, and mutual understanding of the client's challenges has been developed. They are seeking advice on how to improve, indicating readiness to discuss motivation and strategies for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "That sounds like a really difficult cycle to be in, feeling anxious and like you're always trying to catch up. When you think about your priorities and goals, how do you imagine your life might change if you were able to find a better balance with your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): If I could find a better balance, I think I'd feel a lot less stressed and more in control. I'd probably enjoy my courses more and maybe even have some time to relax or hang out with friends without feeling guilty.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Feeling more in control and less stressed sounds like a wonderful goal, especially if it could lead to enjoying your courses and having time for yourself and friends. What small steps do you feel confident about taking that could help you move towards that balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try setting a more consistent study schedule instead of cramming last minute. Also, I could reach out to professors or classmates for help when I don't understand something, instead of trying to figure it out all on my own.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching out for help and setting a consistent study schedule sound like promising steps towards achieving that balance. How confident do you feel on a scale of 0 to 10 about starting these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think I'd put myself at a 6 or 7. It's a bit nerve-wracking to change things up, but I know I've got to try something different if I want things to improve.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk, identified specific steps for improvement, and rated their confidence about implementing these changes at a 6 or 7. The discrepancy between current behavior and values has been explored, and a clear goal is set for better balance in studies. Signals of readiness for the Choosing phase are evident, indicating a move to collaboratively develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It's great that you're open to trying new strategies and recognize the need for change. Given your confidence level, would you like to explore specific steps for creating that consistent study schedule or ways to approach reaching out for help? Options could include setting specific study times each day or listing a few people you feel comfortable contacting for support. How do you see yourself starting this?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a specific study schedule might be more manageable for me right now. Maybe I can block out certain times each day just for studying specific subjects. As for reaching out, I can make a list of professors' office hours and maybe even talk to a classmate about forming a study group. That way, I won't feel like I'm bothering anyone too much.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Creating a specific study schedule and planning to reach out to classmates and professors are excellent ideas. Blocking out dedicated times for each subject can help structure your study sessions, while a list of office hours and potential study group members can guide you when you need support. How would you like to track your progress with these steps, and what might help you stay committed to this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I could use a planner or an app to keep track of my schedule and check off when I've completed study sessions. Maybe setting weekly goals and rewarding myself when I meet them could also keep me motivated. I think knowing I have a plan will help me stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Using a planner or app to track your study schedule sounds like a practical way to stay organized, and setting weekly goals with rewards is a great way to keep motivated. How about we agree on a way to monitor your progress together? Would checking in after a week or two to see how your plan is working be helpful for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds good to me. Checking in after a week or two can help me see if my plan is actually working or if I need to tweak anything. It'd be great to have some accountability and get feedback on how I'm doing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan involving a study schedule and reaching out for support, with agreed self-monitoring through a planner and weekly goals. The client expresses confidence and commitment to this plan, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It's wonderful to hear you're open to checking in, and it’s great to have that sense of accountability while you're trying out new strategies. You’ve set a solid groundwork with your study schedule and plans to reach out for support. As you track your progress, remember to be gentle with yourself—it's all about learning and adjusting as you go. Feel proud of taking these steps towards balance and reaching out for help when needed. I'll be here to support you through this process. Let's touch base in a week or two and see how everything is going. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll give it my best shot and see how things go. Looking forward to checking in soon!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, coping strategies, and a next-step plan. The client is receptive to the plan and agreed to a check-in, indicating readiness for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: how to do better in college?\ni haven’t always struggled like this in school, i always passed high school with straight A’s, the lowest I’d ever get was a B. now that I’m in college, I’m praying for at least a 59 or a D in some tests. what do I do to improve? I’m completely lost and I don’t know exactly how to even start. I have about 2 more exams before my final exam in Math. 1 more exam before my final in Microeconomics. I have possible 2 or 3 more exams in Visual Arts before my final. here are my grades currently:\n\n1. Visual Arts History - D\n2. Composition I - A\n3. Microeconomics - D\n4. College Algebra - F\n\nAny advice is appreciated!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "s703ms",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you want to share something today. What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, just feeling a bit overwhelmed with my schedule and lack of sleep. It's like I'm drowning in stuff without a break.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds really challenging to juggle everything when you’re feeling overwhelmed and exhausted. What’s been contributing to your busy schedule lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, it’s mostly the classes and homework. They’re all intense, and then working weekends just adds to it. It’s like there’s no time to breathe.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That does sound like a lot to manage all at once. Balancing intense classes with weekend work can definitely make it feel like there’s no room to catch your breath. How long have you been dealing with this kind of schedule?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: It's been like this since the semester started. It feels like ages, though, but I know it's just a few weeks in. It's hard to imagine keeping this up the whole time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed essence of their story, including specific concerns about their schedule, sleep, and feelings of overwhelm. Empathy and rapport are evident, as the therapist has validated the client's feelings and concerns. The client has also mentioned their current situation, providing relevant context. Thus, the goals of the Exploring phase are met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must feel daunting to think about continuing at this pace. What changes do you think might help you feel more balanced and less overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I’m not sure what changes could even be possible. Maybe dropping a class, but then I’d fall behind, and the job is non-negotiable for expenses. It feels like I’m stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you're in a tough spot, feeling caught between the demands of school and work. What would life look like for you if you felt less overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): If I felt less overwhelmed, I'd probably have more energy and be able to focus better on my classes. I'd maybe even have time to relax a bit and not feel like a zombie all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having more energy and time to relax sounds like a meaningful goal. What small steps do you think could start moving you toward feeling more energized and balanced, even with your current commitments?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe trying to manage my time better, like setting stricter limits on study sessions or finding quicker ways to get assignments done. I could also try to see if there's any way to tweak my work schedule a bit, but it's all pretty tight.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated potential small steps like managing time better and considering work schedule adjustments, indicating emerging Change Talk. However, ambivalence is still present with 'maybe' statements and uncertainty about possible changes, signaling the need for further exploration of commitment and confidence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Adjusting time management and considering work schedule tweaks seem like practical ideas. On a scale from 0 to 10, how confident do you feel about trying these small steps to find a bit more balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 5 or 6. I want to try, but I’m not totally sure how much of a difference it’ll make with everything going on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed potential change ideas and a slight increase in confidence to try them, though still shows ambivalence and uncertainty. The confidence rating is at 5 or 6, indicating moderate readiness. More exploration of specific strategies and boosting confidence is needed before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Therapist (guiding): It's understandable to have some uncertainty when trying something new. A 5 or 6 shows there's some belief in the possibility of change. What might increase your confidence to a 7 or 8?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Client: If I could see some progress, like getting slightly more sleep or feeling a bit less rushed, that would probably help. Maybe if I had some backup plans in case things don't go as expected, I'd feel more secure about trying new approaches.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified potential steps like time management and adjusting their work schedule, indicating some Change Talk. However, their confidence is only at a 5 or 6, and they expressed uncertainty about the impact of these changes. More exploration of confidence-building strategies and ambivalence is needed before progressing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Having backup plans to feel more secure is such a thoughtful approach. It sounds like seeing some progress, even little victories, would really boost your confidence. How might you notice these small changes happening in your everyday routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "Client: I guess I'd notice if I started feeling a bit more rested in the mornings or if I could get through my day without feeling completely drained. Maybe if I could finish assignments a bit faster or find some moments in the day to just breathe, that’d be a good sign, too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk, has considered specific steps like time management strategies, and rated their confidence as a 5 or 6. They have also identified signs of progress and mentioned backup plans. Ambivalence persists, and confidence hasn't reached a strong level. Continuing in the guiding phase could help strengthen motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Finding moments to breathe and feeling more rested in the mornings are great indicators of progress. Celebrating these small victories could really reinforce your efforts. What values or life goals do these changes align with, and how might they support what you’re striving for in the bigger picture?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Client: These changes align with wanting to do well in school and not just scrape by, you know? I want to be able to really learn and not just survive the semester. Plus, they support my goal of maintaining my health and sanity, so I can keep pushing forward long-term without burning out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change ideas like time management and adjusting work schedules, and there's evidence of change talk. A rating of 5-6 on confidence shows some belief in change, but not strong enough to move forward. Further exploration and confidence building are needed to transition effectively to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Being able to truly engage with your studies and maintain your well-being sounds incredibly important. It's powerful how these changes support both your academic goals and your long-term health. How do you feel about the possibility of integrating these small changes into your life, considering their alignment with your values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "Client: I feel like it's worth a shot, at least. If they can help me make it through the semester a bit smoother and keep me from feeling like I'm running on empty all the time, then it's definitely something I want to try. It's kind of motivating to think that I might actually be able to balance things out a little better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified specific steps to improve balance and energy, with confidence at a 5-6. There's alignment with personal values and goals, and the discussion included potential backup plans. However, confidence isn't firmly above 6, indicating some remaining ambivalence. It is advisable to continue guiding to solidify confidence and address barriers.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Feeling motivated by the potential for balance is a strong start. It's encouraging to see how these changes could positively impact your semester and overall well-being. What might be the first small step you could take to begin this journey toward a smoother, more balanced routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "Client: Maybe starting with setting a stricter study schedule could be a good first step. Like, if I block out specific times to study and then stick to them, I might find some extra time for sleep or just to relax. It seems manageable enough to try without overhauling everything at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed motivation and identified a specific next step of setting a stricter study schedule to improve balance. Change Talk is present, with confidence at 5-6, indicating an openness to trying changes. Discrepancy between current behavior and values has been explored, and values alignment with academic and health goals has been clarified.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "That sounds like a practical and manageable step forward. Setting a structured study schedule might indeed help carve out more time for rest and relaxation. Based on what you've shared, possible options for your action plan could include using a planner to organize your study times or setting reminders to help stick to the schedule. What do you think about these ideas, or do you have other strategies in mind that could support this goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "Client: I like the idea of using a planner. I’ve tried it before, but maybe being more consistent with it could help. Plus, setting reminders on my phone could keep me on track, so I don’t end up forgetting or getting sidetracked.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Therapist (choosing): Using a planner consistently and setting phone reminders are excellent strategies to help you stay on track with your study schedule. These tools could really support your goal of finding balance. How about setting a specific time to review your planner each week to ensure it aligns with your needs? What might be some potential barriers to sticking with this plan, and how could you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "Client: Yeah, setting a weekly time to review my planner sounds smart. I can see myself getting lazy or forgetting to update it, though. Maybe if I pair it with something I already do regularly, like having my morning coffee, it would become a habit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Pairing your planner review with your morning coffee is a great way to build a new habit into your routine. It's wonderful how you're thinking of ways to make this process more seamless and consistent. If you ever find yourself slipping, remember the reasons behind these changes and the balance you're striving for. How would you like to monitor your progress, and who might support you in staying accountable to this new routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Client: I guess I could keep a simple checklist to track how often I stick to the planner and reminders. Having a visual might help me see patterns or where I slip. Maybe I could ask a friend to check in with me once a week and see how I’m doing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of improving their study schedule and maintaining well-being, with concrete actions like using a planner and phone reminders. Barriers such as forgetting or getting lazy have been discussed, with strategies like pairing the planner review with morning coffee. The client plans to self-monitor with a checklist and has identified a friend for accountability. The readiness signals, including commitment to the plan, suggest preparedness for terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "A checklist to visualize your progress and having a friend check in weekly both sound like thoughtful ways to monitor your journey. These supportive measures can really boost your accountability and help you stay aligned with your goals. You're setting yourself up with a strong network. Trust in your commitment to balance and remember, it’s okay to adjust your plans as needed. As you move forward, keep nurturing your well-being and your academic pursuits, and know that you have the tools and support to make this happen. Reach out anytime you need guidance or reassurance. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I guess it’s all about taking it one step at a time and not stressing too much if things don't go perfectly. I’ll definitely reach out if I need some extra support. Thanks for everything!",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals and strategies, discussed a next-step plan, and provided encouragement and support. The client expressed understanding and readiness to apply these strategies, indicating readiness for termination.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: It’s fine, sleeps overrated\nMy classes Monday- Thursday start at 8 am end at 6pm. With one 2 hour break for hw and study. Calculus, Chem, Assembly, Accounting, Chem lab, and a supply chain management course this semester. \n\nLooking at the syllabus with due dates for homework amount of tests and quizzes and everything else outside of self study is going to suck especially since I have to wake up at 5:30 each day. So assuming I’ll end up in bed by 12:30am and it takes me 1-2 hours to sleep I’ll average 3-4 hours a night with weekends being third shift physically intensive job 11-12 hours a shift to cover expenses. \n\nBut you know it’s not like sleep is needed to function fml.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

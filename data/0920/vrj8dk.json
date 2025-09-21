@@ -1,0 +1,272 @@
+{
+  "id": "vrj8dk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Whenever you're ready, feel free to share what's been going on lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah... I'm just really confused about whether to stick with computer science or switch to business. Everything feels overwhelming, and I'm not sure what the right move is.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really tough when you're caught between two big decisions. You seem to feel overwhelmed because both paths have their own appeal and challenges. What's been influencing your thoughts about each option?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, with computer science, it's more about the potential for a secure future, but it's tough for me to grasp it. Business seems more manageable, but I've heard it might not be as beneficial career-wise, which makes me second-guess switching.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing future security with manageability can definitely create a whirlwind of thoughts. You seem to feel torn because computer science offers stability, yet it feels challenging, while business feels within reach but raises concerns about long-term benefits. What aspects of each field excite or concern you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): For computer science, I like the idea of working with technology and the opportunities it brings, but the complex concepts really intimidate me. With business, I’m interested in entrepreneurship and the creativity involved, but I worry about the job market and if it’s worth the investment.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their dilemma in depth, including thoughts, feelings, and context about their education and career concerns. The client expressed feelings of being overwhelmed and stressed, and the conversation has established rapport and understanding. Goals seem clear around exploring options, suggesting readiness to move to strengthening motivation and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the excitement of technology and entrepreneurial creativity against the challenges and uncertainties both fields present. What role do your long-term goals play in this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I'm not entirely sure about my long-term goals, which adds to the confusion. I just know I want a stable job that I can enjoy and that offers opportunities for growth.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having stability and enjoyment in a job that also allows for growth seems important to you. Considering both fields, how do you see your values aligning with each option?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, with computer science, I see stability and growth, but I'm worried I'll struggle too much to enjoy it. Business aligns more with creativity and enjoyment, but I’m not sure if it’ll offer the stability I want in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Both options appear to hold unique parts of what you value in a career. As you think about the possibility of struggling with certain aspects of computer science, how does this fit with your vision of enjoying and growing in your work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): That's a big concern for me. If I'm constantly struggling, I'm worried it might overshadow any enjoyment or growth I could have in the field. I want to feel confident and fulfilled in my work, not always stressed and overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns and values but is still unsure about long-term goals, showing ambivalence. The discrepancy between values and concerns has been explored, yet specific change goals or next steps are not clearly defined. Confidence in decision-making is still lacking, indicating a need for further guiding before moving to the choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your desire to feel confident and fulfilled in your career speaks volumes about what you value in your work life. How might the potential for stress and struggle in computer science influence your confidence and fulfillment compared to the creative aspects of business?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think the stress and struggle in computer science could really hit my confidence hard. It feels like there's always a massive learning curve ahead. On the other hand, the creative aspects of business seem like they could be fulfilling, but I wonder if I'd miss out on the stability and growth that computer science offers.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has highlighted discrepancies between the client's values and concerns regarding both fields. Change Talk is present as the client expresses a desire for confidence and fulfillment. However, there is a lack of specific change goals or steps, and sustained ambivalence is evident. The client is not yet confidently leaning towards one option, suggesting a need for further exploration of potential paths and reassurance.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Therapist (guiding): It seems like you're faced with a significant decision, balancing creative fulfillment with stability and growth. How do you envision your confidence evolving in each field over time, considering these aspects?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Client (guiding): In computer science, I can see my confidence growing if I somehow manage to overcome the learning curve, but it's daunting. With business, I feel like I'd start off more confident because it feels more intuitive to me, but I'm not sure if that confidence would last if I'm always worried about the stability aspect.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's ambivalence regarding their career decision, highlighting discrepancies between their values (stability, enjoyment, growth) and their perceptions of computer science and business. Change Talk is present, but specific goals or next steps are lacking, and confidence levels remain unclear. The session should continue in the Guiding phase to further clarify goals and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "It's clear you're thoughtfully considering how your initial confidence might evolve in each field. As you reflect on this, how important is it for you to start with a strong sense of confidence versus building it over time in your career path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "Client (reflecting): Starting with a strong sense of confidence feels really reassuring because it sets a positive tone, but I also understand that building confidence over time can lead to deeper satisfaction. It's tough to weigh which is more important, especially when I'm unsure of how much I'll actually grow in each field.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client continues to express ambivalence and uncertainty about their career path, indicating that their readiness for action is not yet solidified. While they have identified values and concerns related to each field, the presence of sustained ambivalence and lack of a specific change goal suggests more time in Guiding is needed to strengthen their readiness for decision-making.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Navigating these thoughts shows how much you value a fulfilling career. How do you see your long-term satisfaction being influenced by starting with confidence versus cultivating it as you grow in your field?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Client (reflecting): I think starting with confidence might give me that initial boost and help me tackle challenges early on, which could be really motivating. But on the flip side, building confidence gradually might make the accomplishments feel more meaningful and rewarding. It's just hard to imagine which journey would leave me more satisfied in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing ambivalence between two career paths and is actively weighing the pros and cons of each option. Change Talk is present as they explore their feelings about confidence, growth, and fulfillment in both fields. However, no specific change goal or next step has been articulated. Staying in the Guiding phase is beneficial to further clarify their goals and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Both paths seem to offer valuable experiences in their own right. How might each journey impact your personal and professional growth over time, and which aligns more closely with your vision of long-term satisfaction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "Client (reflecting): It's tricky because with computer science, I feel like overcoming those challenges could lead to a lot of professional growth and tech skills that are in demand, which is appealing. But business might offer personal growth through creativity and collaboration, which also sounds fulfilling. I guess I'm trying to figure out which one aligns more with the kind of person I want to be, both professionally and personally.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in exploring their values, goals, and the discrepancies between their current situation and desired outcomes. Confidence and long-term satisfaction have been discussed, and the client has reflected on potential personal and professional growth in different career paths. Despite some ambivalence, the client's consistent reflection on these aspects indicates readiness to move to the Choosing phase, where specific action plans can be developed.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Therapist (choosing): Your reflection on aligning your career with who you want to become is insightful. To help you move forward, we could consider setting a goal to explore both paths further. Options could include seeking mentorship in each field or trying out small projects. How do these options resonate with your vision for clarity and growth?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "Client (choosing): That sounds like a good idea. I think talking to someone who's been through it could give me a better picture of what to expect. Trying out some small projects might also help me see what I enjoy more before making a big decision. It feels like a step in the right direction.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Embarking on these steps to gain clarity and insight is a proactive approach. How about setting a specific goal to reach out to potential mentors within the next month? You could also identify a couple of small projects in each field to try out. What might be the first small project you'd like to start with, and what barriers do you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "Client (choosing): Reaching out to mentors sounds like a solid plan, and maybe I can find a small coding project or a business case study to dive into. I think the biggest barrier might be my tendency to procrastinate, especially if I'm unsure of where to start. I guess I just need to take it one step at a time and not overwhelm myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "It's great that you're identifying small steps like reaching out to mentors and starting with manageable projects. Tackling procrastination can indeed be a challenge, but breaking tasks down into smaller, actionable steps might help. You could try setting mini-deadlines for yourself to maintain momentum. How might you structure your first steps to ensure you don't feel overwhelmed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(choosing): Client (choosing): I think starting with something really small and manageable will help, like spending 30 minutes a day researching potential mentors or project ideas. Then, I could gradually increase the time as I get more comfortable. Setting mini-deadlines sounds helpful too; maybe I can aim to reach out to one mentor and start one project by the end of the month. Breaking it down like that seems less daunting.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to explore both career paths through mentorship and small projects, and has identified a specific action plan. Barriers like procrastination have been addressed with strategies for self-monitoring. The client has shown commitment and readiness to take steps by outlining specific actions and deadlines. These factors indicate that the client is ready to advance beyond the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. You've set clear, achievable goals for yourself, which is a fantastic approach to combat any feelings of overwhelm. By dedicating just 30 minutes a day, you're creating a sustainable routine that can lead to meaningful progress. Setting mini-deadlines, like reaching out to one mentor and beginning a project by the end of the month, helps keep you on track without adding pressure. Remember, every small step forward is a step towards clarity and growth. You're taking control of your journey, and that's commendable. As you move forward, know that support is available whenever you need to revisit or adjust these steps. Keep up the great work, and remember to acknowledge each achievement, no matter how small.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your help. I'll definitely try to stick with this plan and see where it takes me. I'll reach out if I need any more guidance along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan with mentorship and project exploration. The session concluded with achievable goals to reduce overwhelm, effectively addressing the primary concern of career direction.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Stay in computer science or switch to business?\nI’d appreciate any sort of help as I’m lost. I’m currently in Turkey on vacation with my parents but I need to decide what I want to do so I can make it to the fall term. \n\nI started my computer science major online in 2020 in a university for one year, than switched to a different university for applied computer science for another year first semester online, second in person. I’m going into my third year after the summer and I barely have any knowledge of the subject I’m doing. I’ve had a difficult time learning online and learning computer science in general. \n\nI did some thinking and the only reason I want to switch is because I find computer science hard, which I don’t think is a valid reason for me, and it’s only going to get harder as I’m closing in on the major. I can’t decide if I want to switch to business or not. People say that business is useless and a waste of money, while computer science is the future and has well paying jobs. \n\nI’m so lost at what I’m supposed to be doing and it’s so stressful. I’d kindly appreciate any kind of input.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

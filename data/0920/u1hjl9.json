@@ -1,0 +1,167 @@
+{
+  "id": "u1hjl9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling kinda down and stressed. School's just been really overwhelming, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "School can definitely be a lot to handle sometimes. What's been particularly overwhelming for you recently?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, my grades have been a big stressor. I keep falling short of where I want to be and it's just really discouraging. Plus, classes aren't exactly keeping my attention, especially with everything online.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds really challenging, trying to keep up with grades and staying focused with online classes. It must feel discouraging when you're not meeting your expectations. Can you tell me more about how you're managing these feelings day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I'm mostly just pushing through, trying to keep up with assignments and studying even though it's hard to concentrate. I also try to take breaks and do things I enjoy, but it doesn't always help with the stress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story includes thoughts and feelings about stress, grades, and the choice of major, revealing detailed context and emotional response. Empathy and rapport are established, and goals are emerging around managing stress and academic focus. The session is ready to shift to strengthening motivation and exploring Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds tough, and it's great you're finding ways to push through and take breaks. How do you envision things changing if you could manage your stress better or find more focus in your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think if I could manage my stress better, I'd feel more confident and maybe even enjoy my classes a bit more. It'd be nice to not constantly feel like I'm just barely scraping by.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a shift towards feeling more confident and enjoying your classes sounds really motivating. What do you think would be the first small step towards managing your stress better or finding more focus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe trying some new study techniques could help, like setting specific focus times or using apps that block distractions. Also, reaching out to classmates might make studying more engaging.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring new study techniques and connecting with classmates are great ideas. What aspects of these changes appeal to you the most, and how do you think they might impact your overall experience with school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I like the idea of having more structure with study times because it might make studying less overwhelming. And connecting with classmates could make things feel less lonely and maybe even make learning more interesting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as trying new study techniques and connecting with classmates, which indicates readiness for action planning. Change Talk is present, and they have envisioned a positive change in their experience if stress is managed better. The conversation has moved beyond initial exploration of feelings and challenges.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Having more structure and connecting with others can definitely make studying feel more manageable and enjoyable. Given your ideas, what would you like to set as a specific goal to work on next? Some options might be creating a structured study schedule or planning a study session with a classmate. What do you think would be a good first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a structured study schedule could be a good first step. It might help me feel less overwhelmed if I know exactly when I'm supposed to focus on studying. Plus, I could try to include some time for reaching out to classmates after I get that routine down.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a structured study schedule sounds like a promising approach to manage your time and reduce overwhelm. What would be a realistic way for you to start building this schedule? Maybe deciding on specific days and times for study blocks or choosing a tool to help track your schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think I'd start by picking specific days and times that fit around my current commitments, like setting certain hours each week dedicated just for studying. Maybe using a planner app or calendar to help keep everything organized could work, so I can see everything at a glance and stick to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Using a planner app or calendar sounds like a practical way to keep track of your study schedule. As you begin to set those specific study times, how comfortable do you feel about setting reminders or alarms to help you stick to your plan? And how would you like to monitor your progress in the coming weeks?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty comfortable using reminders or alarms. I think they could really help keep me on track and remind me when it's time to focus. As for monitoring my progress, I might jot down a quick note after each study session to see how it went or if I was able to stick to the schedule. It could be a good way to see what's working and what isn't.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to create a structured study schedule and proposed a concrete action plan involving specific study times and using a planner app. Barriers like distractions have been addressed, and methods for self-monitoring, such as using alarms and tracking study sessions, have been agreed upon. The client shows confidence in their ability to implement these changes.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a fantastic plan! Setting reminders and taking notes after each study session will give you valuable insights into what's working well and where adjustments might be helpful. By actively monitoring your progress, you can adapt your schedule to better suit your needs and improve your focus over time.\n\nAs you embark on this journey, remember that small steps can lead to significant changes. It's clear you're committed to making this work, and that's truly commendable. If you ever feel stuck or need more support, feel free to reach out. You're building a foundation for success, and I'm here to support you along the way.\n\nLet's set a check-in for a couple of weeks from now to discuss how the schedule is working for you and explore any adjustments or additional strategies you might want to try. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks! I appreciate your support and encouragement. I'll definitely reach out if I hit any roadblocks along the way. Looking forward to our check-in and sharing how it's going!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized the goals, strategies, and next steps, addressing the client's concerns about stress and focus. A future follow-up is planned to monitor progress, indicating a natural conclusion to the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is this normal?\nI literally feel depressed and tired every single semester and wonder if I have chosen the wrong major....\n\nThe grade scale is curved at my community college so that an 88%+ = A, 76%+ = B, 64%+ = C, and so on for the other two grades. I currently have a 63% in the class. I was almost on my way to reaching a B, but FAILED the mid term three weeks ago, along with more than have the class. This is the second time I almost reached a B, only to get dropped back down to a 62%. \n\nI can not just drop out for so many reasons. I was just wondering if it is normal to feel like this ?\n\nDoes anyone have any experience with taking classes online vs in person? I just... I can't focus on my professor, he is so boring. Ugh...",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

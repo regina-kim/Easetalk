@@ -1,0 +1,167 @@
+{
+  "id": "vbr3vm",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to share with me today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been thinking a lot about transferring to Berea College, but I'm worried about needing a letter of good standing from my first college. My past grades were pretty rough due to some mental health challenges.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a challenging situation, and it's understandable to feel concerned about the letter. What has been your experience with your past college, and how do you feel about the possibility of transferring to Berea College?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, my time at the first college was tough, but now that I'm doing better mentally, I'm really hopeful about Berea. I'm just worried that my past will hold me back from getting in.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're feeling hopeful about the opportunity at Berea because of your progress, yet concerned about the impact of your past experiences. Can you share more about what excites you about Berea and any steps you've thought about for handling the letter of good standing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It's the idea of a fresh start, you know? Berea offers some great programs that align with my interests. As for the letter, I'm thinking about reaching out to the first college to explain my situation and see if they can provide something that reflects my current progress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively covered the client's concerns about transferring, including feelings about past academic challenges and current hopes. The client has shared detailed context about their academic history and mental health progress, and there is empathy and understanding from the therapist. They have discussed potential strategies for obtaining the letter of good standing, indicating readiness to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "The idea of a fresh start with programs that match your interests at Berea sounds exciting! Reaching out to your previous college to discuss your current progress is a proactive step. On a scale of 0 to 10, how confident do you feel about reaching out to them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, maybe around a 5 or 6. I'm nervous about how they'll react, but I know it's something I need to do.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Taking that step sounds important to you, even though it's nerve-wracking. What do you think might help increase your confidence from a 5 or 6 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think having a plan for what I'll say might help, and maybe even practicing a bit before I reach out. It might also help to remind myself of how far I've come and that I deserve this chance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Recognizing the progress you've made and affirming that you deserve this opportunity could be really empowering. Practicing what you'll say sounds like a solid way to boost your confidence. What about your journey or achievements would you like to remind yourself of as you prepare for this conversation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I guess I want to remind myself how hard I've worked to bring my GPA back up and that I didn't give up even when things were really tough. It took a lot to get diagnosed and find the right treatment, so I should be proud of that progress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to change and has identified a specific action of reaching out to the previous college for a letter. Confidence is approximately 5-6, but the client has articulated ways to increase it, indicating readiness. Change Talk is present, and there's a clear next step. The client's ambivalence has decreased as they focus on their progress and future goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(choosing): Acknowledging your perseverance and achievements is truly inspiring, and it's clear you've put in significant effort. As you think about reaching out to your previous college, let's consider creating a specific action plan. Based on what you've mentioned, possible options include drafting a script for your conversation and scheduling a practice session. How do these options sound to you, or is there something else you'd like to focus on?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(planning): Those sound like good options to me. I think drafting a script might really help me feel more prepared, and having a practice session, maybe with you or someone else I trust, could make a big difference in calming my nerves.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a script and practicing with someone you trust can definitely help boost your confidence. Let's outline the steps: first, draft the script focusing on your journey, achievements, and current progress, then schedule a practice session with me or another trusted person. What potential barriers do you foresee, and how might you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(planning): I guess one barrier might be my anxiety kicking in and making me second-guess myself. To overcome that, I could try some breathing exercises or remind myself of positive affirmations before reaching out. Also, maybe having notes in front of me during the conversation could help keep me focused.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Incorporating breathing exercises and positive affirmations sounds like a wonderful way to manage anxiety. Using notes during the conversation might provide that extra sense of reassurance. As you prepare, let's agree on how to monitor your progress. Would you prefer to check in with me after you've drafted your script or after your practice session, or is there another way you'd like to keep track of your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): Checking in after I've drafted the script seems like a good step. That way, I can get some feedback before I move on to practicing. It'd be nice to have that support along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving a script and practice sessions to address their concern. Barriers have been discussed, and monitoring agreed upon. With commitment and strategies for overcoming anxiety, they seem ready to take action steps confidently.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Checking in after drafting the script is a great step, providing an opportunity for feedback and support. You've made a thorough plan with clear action steps and strategies to cope with potential challenges. Remember, each step you take is a testament to your strength and determination. I'm here to support you, and we'll touch base once your script is ready. You're doing a fantastic job taking control of your journey. Keep acknowledging your achievements and be kind to yourself throughout this process.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I really appreciate your support. I'll get started on the script and reach out when I'm ready for some feedback. It's good to know you're here, and I’m trying to keep that positive mindset.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals are met with a clear action plan and coping strategies. The client is prepared to draft a script and check-in for feedback, indicating readiness to proceed independently. The session has addressed the client's needs effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Question about \"letters of good standing\"\nSo I spent my senior year of highschool in college, average grades, 3.0 gpa. But for the next 3 semesters, my gpa dropped to 2.5, to .6, to .4 due to severe mental issues. I've since been diagnosed with major depressive and autism, and enrolled in a local community college. \n\n I've brought my gpa up back to 3.0, and am confident my average for this school will go up to 3.5 or higher next semester since I'm medicated now.\n\nBack to the actual question, a public university near me, Berea college in ky, has a few qualities they need for admissions- and the only one I'm missing is a letter of good standing from every institution after HS I've been to. My community college will be fine, I'm even close to the psych professor here- however my first college's average gpa on file is 1.6, with two consecutive terms being much below 2. Should I even bother applying to Berea?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

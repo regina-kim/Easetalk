@@ -1,0 +1,188 @@
+{
+  "id": "1b2jii7",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I'm really stressed about my anatomy and physiology class. I bombed the midterm and it's got me feeling like a total failure. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be really tough to feel that way after the midterm. You're feeling stressed because doing well in this class is important to you. What aspects of the class or studying do you find most challenging?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, it's the memorization part that's killing me. There's just so much information, and I feel like I can't keep it all straight in my head.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Keeping track of so much information can definitely be overwhelming. You're finding it challenging to memorize so much material because it feels like there's too much to manage all at once. How do you usually go about studying for this class?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I've been trying to make flashcards and do lots of practice quizzes, but sometimes it feels like there's just not enough time to cover everything thoroughly. It's like no matter how much I study, I still miss stuff.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's concerns about their academic performance and feelings of failure have been expressed clearly, and relevant context regarding their study habits and challenges has been discussed. Empathy and rapport have been established, and the client has shared their goals. It's appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're putting in a lot of effort with flashcards and quizzes, yet it feels like there’s still ground to cover. On a scale from 0 to 10, how confident do you feel about finding a study method that might work better for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 5? I mean, I think there could be a better way, but I'm not exactly sure what that would look like yet. I just feel stuck in this cycle of studying hard and not seeing the results I want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling stuck in that cycle must be really frustrating, especially when you're trying so hard. You mentioned being at a 5 in confidence about finding a better study method. What are some small steps you think might move that confidence closer to a 6 or 7?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try organizing my study schedule differently, like breaking things down into smaller chunks or focusing on one system at a time. I could also look into some new study resources or techniques, like mnemonic devices or group study sessions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring new study strategies like breaking tasks into smaller parts and using mnemonic devices shows you're open to change. How might incorporating these ideas align with your long-term goals in your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): If I can find a way to study that actually sticks, I think it would not only help me get the A in this class, but it might make my future classes less stressful too. Having a solid study system would definitely be a game-changer for my confidence and overall success.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by considering new study strategies and connecting them to long-term goals. Confidence is at 5, showing openness to change with potential steps. However, there is still some uncertainty and exploration of strategies needed to increase confidence and decrease ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You're seeing a clear link between improving your study methods now and achieving success in your current and future classes. That's a powerful insight. How does recognizing this potential impact your motivation to explore these new approaches?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Honestly, it makes me feel more motivated to try out different study methods because I know it could pay off in the long run. It's like if I can figure this out now, it'll set me up for smoother sailing later, which is a pretty big deal for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation to try new study methods, identified potential strategies, and recognized the connection between improved study habits and long-term success. Change Talk is present, and specific ideas for change have been discussed. Confidence change from 5 to potentially 6 or 7 is an indicator of increased readiness.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Embracing the idea that new study methods could ease future challenges is truly motivating. Considering your current thoughts, what specific goal would you like to set for incorporating these study changes?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think a good starting goal would be to set a specific time each week to experiment with different study techniques and track what works best for me. Maybe dedicating a couple of hours to just trying out mnemonics, group sessions, or different organization methods.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a practical and thoughtful plan to explore new strategies. Setting aside dedicated time each week gives you a structured way to try different techniques and see what fits best. What steps do you think you need to take to schedule this time effectively and ensure you stick to it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I could start by looking at my current schedule and finding a couple of hours that aren’t already packed with other commitments. Maybe setting reminders on my phone to keep me accountable could help too. It might also be useful to have a checklist of the techniques I want to try each week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It sounds like you have a clear plan in mind with finding open time in your schedule and setting reminders to keep on track. Creating a checklist of techniques to explore is a great way to stay organized. What potential barriers do you anticipate might interfere with this plan, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I guess I might get caught up with other assignments or just feel too exhausted after a long day. To handle that, I could try to remind myself why I'm doing this in the first place and maybe have a backup plan, like rescheduling the study time if I miss it once or twice.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a specific goal to experiment with study techniques and identified steps to implement this plan. They have discussed potential barriers and proposed solutions such as reminders and a backup plan. These demonstrate readiness for change. Given their commitment and problem-solving approach, they appear prepared to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Acknowledging the possibility of feeling overwhelmed or tired is wise, and having a backup plan shows your commitment. Reminding yourself why you're dedicating this time can really help you stay focused on your bigger goals. You’re establishing a solid foundation for these changes. As we wrap up today, you've set some meaningful goals, including experimenting with new study techniques and scheduling dedicated time. With reminders and a checklist at hand, you're setting yourself up for success. Remember, it's okay to adjust as needed. You’ve got the motivation, and taking these steps now will undoubtedly support your future success. Keep believing in your path forward, and know I'm here to support you in this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll definitely try to keep all of this in mind and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated clear goals, steps, and coping strategies, and a next-step plan has been discussed. The session has achieved a natural closure with the client expressing gratitude and understanding of the plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Can I bounce back from this\nI want an A in this class so bad, I was doing so good, And then I bombed the mid term yesterday , even though I walked out feeling like I missed maybe 10% tops.\nTurns out I missed 28%\n\nSo now my A is a B in the class over all\n\nAny advice for getting over feeling like a failure and pulling it together enough to get the A still? \nAnyone ever bomb a mid term and still get an A before?\nIts anatomy and physiology 1",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

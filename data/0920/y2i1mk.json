@@ -1,0 +1,188 @@
+{
+  "id": "y2i1mk",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, welcome! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just a bit stressed about juggling work and school. It's been a while since I've been in the academic world, and I'm not sure how I'll manage it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and school can definitely feel overwhelming, especially after taking a break from academics. What are some specific challenges you've encountered so far in managing both?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I'm worried about fitting study time into my schedule since I have a full-time job and a pretty set routine. I'm just not sure how much time I should be dedicating to school each day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Finding time for studying when you have a full-time job and a routine can be challenging. You're concerned about managing your time effectively between work and school responsibilities. How have you managed similar situations in the past, or is this a new experience for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): This is pretty new for me. Back when I was in school before, I didn't have a full-time job, so I could focus more on my studies. Now, it's like trying to fit a puzzle together with fewer pieces.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about balancing work, school, and personal time, providing relevant context for their feelings. The therapist has shown empathy and is gaining an understanding of the client's past experiences and current challenges. However, specific goals or a clear mutual understanding on how to move forward have not been fully established yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're navigating a new challenge by balancing a full-time job with school, and it's understandable to feel like you're piecing together a complex puzzle. What are some thoughts or strategies you’ve considered to help balance both responsibilities so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I've thought about carving out specific study times in my schedule and maybe even cutting back on some leisure activities. I also considered making a daily or weekly plan to keep track of assignments and deadlines. Just trying to figure out what could work best without burning out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their concern regarding balancing work and school and shared specific challenges and strategies they've considered. The therapist has shown empathy and understanding. The client's primary concern, their workload and time management, has been clearly outlined, with context provided.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It’s great that you’re thinking about setting specific study times and planning ahead to manage your workload. Recognizing the importance of balance and preventing burnout shows a lot of insight. On a scale from 0 to 10, how confident do you feel about putting these strategies into action?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6? I feel like having a plan could work, but I'm not entirely sure how well I'll stick to it once things get busy. It's a bit of a trial and error, I guess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Finding that you're at a 6 suggests you have some belief in your ability to implement these strategies, which is a solid foundation. What do you think it would take to boost your confidence from a 6 to a higher number, maybe a 7 or 8?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I think it would help if I could test out my plan for a week or two to see if it actually works. Maybe getting organized with a solid schedule and sticking to it for a bit could help me feel more confident. Plus, having a backup plan might ease some anxiety about things not going as expected.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Testing out your plan sounds like a practical way to see what works best for you and could definitely build your confidence. Having a backup plan can also provide reassurance and reduce anxiety if things don’t go as expected. What are some aspects of your life that might improve if you successfully implement and adjust your plan?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "If I can implement and adjust my plan successfully, I think I'd feel less stressed about juggling everything and more in control of my schedule. It might also give me more peace of mind, knowing I can handle both school and work without feeling overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by identifying strategies like setting specific study times and testing plans. A specific next step—testing the plan—has been mentioned, and confidence is at 6, meeting the guiding goals. The client has also discussed potential life improvements with successful change, indicating readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Feeling more in control of your schedule and experiencing less stress are very positive potential outcomes. To help make this a reality, what specific steps do you want to include in your action plan? Options might include setting specific study times, creating a weekly planner, or building in breaks to prevent burnout.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I definitely want to include setting specific study times, like maybe an hour or two after getting home from the gym. Creating a weekly planner sounds like a good idea to keep track of assignments and due dates. Also, making sure to schedule in breaks so I don't end up feeling burnt out would be smart.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Setting specific study times and using a weekly planner are excellent strategies to help manage your responsibilities more effectively. Including breaks is also important to maintain your energy and prevent burnout. What barriers do you anticipate might arise with this plan, and how might you address them if they come up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): One barrier might be unexpected demands from work or when I'm just too exhausted to stick to my plan. If that happens, I think I could try adjusting my schedule for the day or prioritize the most critical tasks and pick up the rest later. It’s all about staying flexible without straying too far off my plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having strategies like adjusting your schedule and prioritizing tasks sounds like a thoughtful way to stay on track, even when things get hectic. Flexibility can definitely help you adapt without losing sight of your goals. How would you like to monitor your progress and make sure your plan is working for you? Maybe checking in weekly or keeping a journal could be helpful options.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Checking in weekly sounds like a solid plan. I could take some time at the end of each week to reflect on what went well and what didn't, maybe jot down a few notes about the week in a journal or a digital planner. It'll give me a chance to tweak things if needed and see if I'm actually moving towards where I want to be.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan with specific study times, a weekly planner, and breaks. They’ve discussed potential barriers and strategies to address them, like adjusting their schedule and prioritizing tasks. They've also agreed to self-monitor by checking in weekly and keeping a journal. The client demonstrates readiness with commitment and confidence in execution.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Reflecting weekly and noting your progress seems like a valuable approach to stay aligned with your goals. It provides an opportunity for self-assessment and necessary adjustments, which can guide you closer to where you want to be. You've got a strong framework here, with specific study times, active use of a planner, scheduled breaks, and flexibility to adapt. All these together can definitely contribute to reducing stress and achieving balance.\n\nYour willingness to test and adjust your plan shows commitment. Remember, each small step forward is progress. As you implement your plan, I'll be here to support and explore any challenges or successes you encounter. Keep up the great work. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and encouragement. I'll definitely start testing the plan and see how it goes. I guess I'll see you next week to go over any hiccups or successes?",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals, strategies, and coping mechanisms. A next-step plan was discussed, including weekly check-ins and adjustments. The client expressed readiness to implement the plan, suggesting readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is 10 quarter hours doable ?\nI work full time in the Air Force. Roughly 7-3/4 each day and get home around 5/530 from the gym. I go to bed around 10pm each night. Will this be too much ? I've been out of school for 7 years and decided to go back. Going to be taking History102: US History 5 quarter hour credits and Bio 105-2: Anatomy &amp; Physiology. \n\nThe courses are 5 weeks in length but access to all coursework/books and such is granted online 1 week prior to class. Might be over thinking it but I wanna see how terrible or not terrible my life will be for 5/6 weeks.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "xm494d",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I’m doing okay, just feeling a bit uncertain about my future, especially when it comes to picking the right major. It's been on my mind a lot lately, trying to balance my interest in tech with wanting a less technical career. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a tough spot to be in, juggling interests like that. What about tech draws you in, and what makes you lean towards a less technical career?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I’ve always found tech fascinating because it's constantly evolving and shaping our world. But the super technical stuff feels a bit overwhelming. I enjoy the idea of working with technology in a way that's more about connecting with people and strategy.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The evolving nature of tech certainly has a captivating pull, while the highly technical aspects can feel daunting. It seems like you value the potential for human connection and strategic thinking. What experiences have you had that helped shape these interests?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Yeah, definitely. I’ve done some group projects where I got to plan and coordinate, and I really enjoyed that. Plus, I’ve taken part in some tech workshops that were fun but confirmed I’m not into coding all day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their dilemma between choosing a major that balances interest in tech and non-technical roles. They have expressed feelings about different career paths, providing context and personal experiences. Empathy and rapport seem established, indicating readiness to explore motivations for each option.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You've had some experiences that highlight your strengths in planning and coordination, as well as revealing a preference for roles outside of intense coding. How might blending these insights guide you in choosing a path that aligns with your interests and strengths?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess it makes me think that maybe I should look into roles that act as a bridge between tech and people, like project management or business analysis. Those seem like they’d let me be involved in tech without diving too deep into the technical stuff.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful direction, considering your interests in both tech and connecting with people. On a scale from 0 to 10, how confident do you feel about exploring these roles like project management or business analysis further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 6 or 7. I’m definitely interested, but still unsure about the best way to pursue it through my major and any needed certifications.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring these roles while you're figuring out your major and certifications shows a lot of initiative. What's one small step you could take next to increase your confidence from a 6 or 7 closer to a 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe I could talk to some people who work in those roles and get their perspective on what they studied or what helped them get into their careers. That might give me a clearer picture of what path to take.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has voiced specific roles of interest, expressed change talk regarding exploring these roles, and indicated a confidence level of 6-7 with specific next steps. There is a clear goal and direction emerging. The client is ready to move into the Choosing phase to develop action plans and strategies for pursuing these interests further.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching out to professionals in those roles is a great way to gather insights and build more confidence. As you consider this step, what approach do you think would work best for starting those conversations, and how might you track the information you gather?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I'd start by reaching out to people on LinkedIn or through any alumni network my school has. Maybe ask them for a quick chat or informational interview. I could keep track of their advice by jotting down notes or making a spreadsheet to compare their experiences and recommendations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your plan to reach out via LinkedIn or your school's alumni network sounds like a solid approach. Creating a spreadsheet to organize insights is a practical way to keep track of the advice you gather. What timeline do you envision for initiating these conversations, and how will you check your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I'll aim to reach out in the next week or two to get the ball rolling. I think setting a goal of talking to at least two or three people in the next month is doable. I'll check in on my progress each week to make sure I'm on track and adjust if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out plan. Setting a timeline and checking your progress weekly is a great way to stay on track. How do you feel about sharing your reflections on these conversations during our next session, and we can explore any new insights or steps together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I’d be up for that. Sharing what I learn could help me process it better and maybe even spot patterns or ideas I missed on my own. Plus, it'll be nice to have some feedback on my thoughts and next steps.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and a concrete action plan involving outreach to professionals and self-monitoring. Confidence is building, as evidenced by their commitment to take steps and review progress. They express readiness to reflect on insights in future sessions, indicating they've moved beyond initial planning. Barriers were discussed, and strategies for progress checking were agreed upon. Thus, the client is demonstrating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "You have a proactive approach by planning to share your reflections in our next session. Exploring patterns and ideas with feedback can definitely deepen your insights. You’ve set clear goals and action steps, which show your commitment to this journey. As you connect with professionals and gather information, remember your ability to adapt and remain open to new opportunities. Between now and next time, focus on these conversations and how they align with your strengths. Looking forward to hearing about your experiences and supporting you with the next steps. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll focus on making those connections and see where it leads. Looking forward to sharing what I find next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed the client's career concerns, outlined steps, and established a plan for progress. The client is prepared to explore professional insights and share reflections in the next session, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What’s the best major for me if I’m wanting to work in tech without a super technical career?\nI want to stay on the tech side of things, and I want a background in tech, but I’d personally love the non technical type of job. Business analyst, project manager, digital marketing, marketing, etc. with this in mind, what’s the best major for me? \n\nI was originally going to go for cyber security and get certs for business stuff such as a cert for analyst, but I’m wondering if that’s the right path. Maybe I should go into marketing and get certs that are technical? I’m really lost. Any advice?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

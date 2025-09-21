@@ -1,0 +1,167 @@
+{
+  "id": "t8lio9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling a bit anxious and lost about my future. I've been thinking a lot about my degree and whether I'm on the right path or not.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling anxious because you're unsure if your degree aligns with your future goals. What thoughts or experiences have led you to question your path?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I've been switching majors and, while I like what I'm learning, none of it seems to fit with what I actually want to do. I really want a career where I know I'm making a positive impact on people, but I'm not sure if what I'm studying is the way to get there.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Navigating through different majors and still not feeling aligned can understandably leave you feeling lost. What aspects of making a positive impact on people are most important to you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I guess it's knowing that the work I'm doing is meaningful and actually helps people in some way. I just want to feel like my efforts go beyond just making money for a company, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about their academic path, their desire to impact people positively, and their indecision about their major. The conversation has established rapport and understanding of the client's underlying motivations and feelings. The essential elements of their story have been elicited, and they are actively exploring potential solutions, indicating readiness to discuss motivations for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your desire to contribute meaningfully and help others in your career speaks volumes about your values. How do you imagine your life and career if you were fulfilling this aspiration?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): In my ideal world, I'd be working on projects or with people in a way that directly improves their lives or solves real problems. I just want to feel like my day-to-day work is purposeful and benefits others in a tangible way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That vision of having a purposeful career where you solve real problems and make a tangible difference is inspiring. What do you think might be some small steps or changes you could explore to move closer to that ideal?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could look into volunteering or internships in fields I'm curious about, like engineering or non-profits, just to get a taste of what it's like. I might also talk to people working in different areas to see if their experiences align with what I'm looking for.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring different opportunities like volunteering or internships could definitely help you see what aligns with your values. How confident do you feel on a scale from 0 to 10 about taking these steps towards finding a more meaningful path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say maybe around a 6. I'm a bit nervous about stepping into something new, but at the same time, I know I need to try different things to figure out what truly fits.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to contribute meaningfully, identified potential steps like volunteering or internships, and rated confidence at 6, indicating readiness. Change Talk is present, and we've explored the vision of a meaningful career.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your courage to step into new experiences is commendable. With your confidence at a 6, it's great that you're open to trying out volunteering or internships. Considering your interests in engineering and non-profits, what specific actions could you take to explore these areas further? Would you like to identify certain organizations or set a timeline to reach out to people in these fields?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with some research to find organizations that resonate with me would be a good step. I could also reach out to professors or people I know who might have connections to these fields. Setting a timeline to reach out within the next month might help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a timeline and doing research are great steps forward. How do you feel about setting a goal to connect with at least three people in engineering or non-profits by the end of the month? We can also discuss any potential barriers you might anticipate and how you might overcome them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I feel pretty motivated to do that, and it seems manageable to me. I guess my main worry is about not knowing what to ask or say when I reach out to people, but I'm sure I can figure it out with some preparation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It's wonderful that you feel motivated and find the plan manageable. Preparing ahead can definitely ease those worries about reaching out. To support you, we could brainstorm some questions or topics to discuss when connecting with people in engineering or non-profits. Would you find that helpful? Additionally, how would you like to track your progress on this goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, brainstorming some questions or topics would be really helpful. I think having a list would make me feel more confident when I reach out. As for tracking progress, maybe I could keep a simple checklist or journal of who I contact and anything I learn from our conversations. That way I can reflect on it later and see how I'm doing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with a timeline and methods for self-monitoring, addressing potential barriers. They demonstrate motivation and commitment to their plan, indicating readiness to take steps towards change. The client's confidence and preparation suggest they are equipped to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a checklist or journal is a fantastic strategy to keep track of your progress and reflections. It can really help you see how much you're growing and learning. As you prepare to reach out, consider asking about their journey into the field, what they love most about their work, and any advice they might have for someone starting out. Remember, your curiosity and willingness to learn are strengths that will guide you well. You're taking important steps towards a fulfilling path, and that's truly commendable. We'll check in on your progress next time and see how you’re feeling about these connections. Keep up the great work, and don't hesitate to reach out if you need support before we meet again.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I feel a bit more at ease knowing I have a plan and some questions to start with. I'll get working on that list and reach out if I hit any bumps along the way. Catch you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively reviewed goals and strategies, discussed next steps, and addressed potential concerns. The client expressed understanding and motivation, indicating readiness to progress independently, suggesting a natural point to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I've changed my degree twice now and have no idea if I should keep my current one!! Any advice is helpful 😭\nI'm in my last semester of my Associates. I was a Music major which I quickly realized was a mistake I don't really like the formality and composition and you don't really need a degree to play stuff you enjoy. I decided Education would be good I've always loved Mathematics, but as I started to do it I realized I like playing with the formulas and solving the problems more than teaching the concepts to people, so I changed to just Mathematics. Now as I'm looking at possible careers when I (eventually) get my Master's , they just don't really interest me, they seem to deal with more financial things that primarily benefit the private company rather than people. I really want to be able to continuously work on stuff that helps people, I don't want my name on it or anything like that, but I just want to know what I'm doing is benefitting people. So I thought maybe an engineering degree, even software engineering, though I have no knowledge of how that works. Basically, should I stick with what I'm doing? Maybe minor in computer science to give myself an advantage trying to get into a software engineering program? What are my options? If anyone has any info anything is appreciated 🙏",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

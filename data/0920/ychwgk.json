@@ -1,0 +1,167 @@
+{
+  "id": "ychwgk",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here to talk. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling really down about having to withdraw from a coding class. It feels like I'm failing and falling behind, especially compared to my girlfriend who's doing so well. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Withdrawing from the class feels like a setback, especially when you see your girlfriend doing well. How does that situation make you feel about yourself and your progress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's tough, you know? I feel like I'm letting myself down and not keeping up with where I thought I'd be. It's like I'm losing ground while everyone else is moving forward.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like there's a strong sense of disappointment and self-pressure because you're not meeting your own expectations. Feeling like you're falling behind while others move ahead can be really tough. Tell me more about what led you to withdraw from the class.",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I kept struggling to keep up with the assignments. No matter how much tutoring I got, I was always playing catch-up. It felt like a losing battle, and I didn't want it to drag down my GPA even more.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's thoughts and feelings about withdrawing from the course and the associated self-perception issues. There's an understanding of the context and emotions involved, and empathy is evident. The client has shared key points about their struggle and comparisons to others. It appears that rapport has been established and goals are mutually understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must have been challenging to make the decision to withdraw, balancing your current struggles with the potential impact on your GPA. Given this experience, how do you think stepping back from the class might affect your future plans or goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'm worried it might delay getting my degree and certificates, so it feels like I'm taking a step back. I just hope this doesn't mess things up too much for my future plans in computer science.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Navigating this situation takes a lot of courage, especially when your future in computer science is so important to you. What might it look like for you to keep your goals in sight, even while taking this temporary step back?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I need to focus on the bigger picture and not just this one class. Maybe using this time to solidify my understanding could help in the long run. It might be helpful to remind myself that it's okay to take a different path to reach my goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Recognizing the importance of the bigger picture is a powerful shift. How do you feel about using this time to strengthen your foundation in computer science, and how might that align with your long-term vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think it could actually be a good opportunity to really get comfortable with coding basics without the pressure of deadlines. Maybe that way, I'll be better prepared for future classes and closer to where I want to be in my career eventually.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by recognizing the opportunity in stepping back and focusing on foundational skills. They are aligning short-term actions with long-term goals, indicating a readiness to plan specific steps forward. The client's confidence in this new perspective suggests they are ready to move beyond ambivalence and into concrete planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "This perspective of taking the opportunity to master the basics could be a solid step forward. What specific goals or actions could you set to make the most of this time? Some possibilities might include setting a study schedule or selecting personal projects to practice coding. What do you think would best support your progress right now?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think setting a study schedule could definitely help keep me on track and motivated. Maybe I could also work on a small personal project, something I'm interested in, to practice coding in a more relaxed way. That might make the whole learning process more enjoyable and less stressful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a study schedule along with working on a personal project sounds like a balanced and productive approach. How often do you think you'd like to study or work on these projects, and what kind of project excites you the most? Planning these out could help you stay motivated and give you a clearer path forward. Let's also consider any potential challenges you might face in sticking to this plan—what could help you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think studying a few times a week could work, maybe alternating days so I don't get too overwhelmed. As for a project, maybe something like a simple app or game—something that feels fun and rewarding. Sticking to the plan might be hard if I get distracted or feel discouraged, so having a study buddy or some accountability could help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Alternating study days and creating a fun project like an app or game sounds both practical and enjoyable. A study buddy or accountability partner could indeed boost your commitment and resilience against distractions. How might you go about finding someone to support you, and are there any other strategies that could reinforce your focus during this time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could reach out to someone from my tutoring sessions or my classmates who are also interested in practicing on the side. I could also set small, manageable goals for each study session to keep things structured and make it easier to see progress, which might help me stay focused. Having a checklist or using an app to track my progress could be useful too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan with a study schedule and projects to reinforce learning. They have discussed potential barriers and proposed self-monitoring methods like using an app for progress tracking. The client is showing commitment and readiness for change by considering accountability partners and strategies to avoid distractions.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a great plan. Reaching out to classmates or someone from tutoring sessions for support seems promising. Setting manageable goals and using a checklist or app to track your progress could definitely reinforce your focus. This way, you'll be able to celebrate small victories and stay motivated. You've outlined some effective strategies to maintain momentum, and it's clear you're committed to making this time meaningful. Remember, it's okay to adjust your plans as needed. Keep believing in your capacity to learn and grow. As your next step, perhaps reaching out to your potential study buddy could solidify your support system. You're doing wonderfully, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll definitely reach out and try to set things up soon. Hopefully, having a study buddy will keep me motivated and make the process more enjoyable. I'll keep you posted on how things go!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined specific goals, strategies, and a next-step plan to stay focused on their computer science journey. They have a clear understanding of the path forward and ways to manage potential challenges.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Withdrawing from a Course and Feeling like a Failure\nHey guys, so I'm majoring in computer science and this is my first time with coding, which I'm learning about JAVA programming and man it was hard to grasp. I'm doing a lot of tutoring, but I'm always two assignments behind. I still have until November 28 to withdraw, but I'm probably going to withdraw and I just feel like a failure. I go to a community college and my girlfriend goes to a university and majoring in the same thing as me, but her workload and due dates are much more crazier than mines. I know I shouldn't be comparing, but it makes me feel such a failure and a disappointment to myself and to her. How do I get around this feeling and thoughts? This is my second year, but I feel like I will be behind from getting my Associate's and my two certificates, while my girlfriend should be getting hers this year.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

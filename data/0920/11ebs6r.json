@@ -1,0 +1,314 @@
+{
+  "id": "11ebs6r",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I'm just feeling really overwhelmed with school and my mental health has been all over the place. I'm not sure what to do to pull myself out of this rut.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating school and mental health can be quite challenging. You’re feeling overwhelmed because these pressures are piling up, right? Can you share more about what aspects of school feel the most stressful for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, definitely. I think it's mostly the exams and assignments. I just can't seem to focus or motivate myself to study, and then that spirals into more stress when I don't do well.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like the pressure from exams and assignments is weighing heavily on you, and it's tough when motivation feels out of reach. You're feeling stuck because not doing well adds to the stress, right? Have you experienced these feelings in the past, or is this a new experience for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, I’ve felt like this before, but it seems way worse this time. It's like I can't shake it off, and it's affecting everything. I just don't know how to break the cycle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their struggles with feeling overwhelmed by school and mental health, and detailed how exams and assignments contribute to their stress. They have expressed a sense of being stuck and repetition in past experiences. There is an established rapport and empathy from the therapist, but goals and motivation for change have not been fully discussed yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It appears that this cycle of stress and low motivation feels more intense this time, making it difficult to escape. You’re feeling caught in a loop, impacting various aspects of your life, right? Can you recall anything that has helped you when you've felt this way before?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Not really, or at least nothing that's worked consistently. I’ve tried things like setting small goals or rewarding myself after studying, but it doesn’t seem to stick. I just end up back where I started, feeling stuck all over again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed concerns about school stress, mental health impact, and lack of effective coping strategies. Empathy and rapport are evident, but the client has not yet expressed clear motivation or readiness for change. Continuing to explore could further clarify goals and strengthen rapport before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds frustrating to try different strategies like setting goals or rewarding yourself and still feel like you’re back at square one. You’re feeling stuck because those efforts haven’t brought the consistent change you’re hoping for, right? What do you think might make a difference in how you approach these challenges now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Honestly, I'm not too sure what would make a difference. Maybe something that could help me understand why I'm feeling this way and work on that. It feels like I need a different perspective or some kind of breakthrough to get out of this cycle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 13,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their struggles with school and mental health, and there's been an effective exploration of their feelings and previous attempts to address the issues. Empathy and rapport have been established, with a focus on understanding the client's past and current context. However, mutually agreed goals have not yet been clearly defined.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 14,
+      "role": "therapist",
+      "statement": "Understanding the root of your feelings seems like it could be a key part of moving forward for you. You're seeking a different perspective to help break this cycle, right? What kind of support or resources do you think might help you gain that new understanding?",
+      "phase": "exploring"
+    },
+    {
+      "index": 15,
+      "role": "client",
+      "statement": "I think talking to someone who can really help me dig into what's going on inside, maybe a different kind of therapy or something like that, could be useful. Also, having some strategies on managing stress and motivation might help too.",
+      "phase": "exploring"
+    },
+    {
+      "index": 16,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story about feeling overwhelmed due to poor mental health impacting academic performance is articulated. Relevant emotions and past attempts to change are explored, with empathy and understanding shown by the therapist. The client has shared their desire for a fresh perspective and deeper understanding to break the cycle, indicating readiness to explore motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring what’s going on internally and having strategies to manage stress and motivation seem important to you right now. You're open to trying therapy or new approaches to help you gain insight and build coping methods, right? How confident do you feel, on a scale from 0 to 10, about finding the right support and making these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say I'm probably at a 4. I know I need to make changes, but I'm skeptical and unsure of where to start or if it'll really work. It's hard to feel confident when past attempts haven't gone so well.",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Feeling skeptical after past attempts is understandable, yet recognizing the need for change is a valuable starting point. Your awareness shows strength. What do you think might help boost your confidence from a 4 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(guiding): Maybe seeing some small, tangible progress would help. Like, if I could find one or two strategies that actually stuck and showed some results, that might make me feel more optimistic about the whole process. Having some kind of plan or steps to follow could also make me feel a bit more organized and less lost.",
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Knowing that seeing tangible progress could boost your confidence is insightful. You're considering finding strategies that show results and having a plan to guide you, right? What small steps do you think you could start with to explore these strategies or create a sense of organization?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by making a simple daily schedule to follow, even if it's just for a few hours of focused work or study each day. I could also try to identify one small goal for each week, like finishing an assignment or reading a chapter, and see how that goes. Maybe that will help me see some progress and feel a bit more in control.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed skepticism with a confidence level of 4, but they are considering specific steps like creating a daily schedule and setting small weekly goals. Although Change Talk is emerging, the client is still exploring strategies and building confidence. Continuing in the Guiding phase would allow further strengthening of their motivation and development of a clearer change plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Creating a daily schedule and setting small weekly goals sound like practical steps to begin with. You're aiming for manageable changes to help you see progress and gain control, right? As you consider these steps, what personal strengths or resources do you think could support you in following through with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(guiding): I think I'm pretty good at being persistent when I put my mind to something, even if it takes a while. Also, I have a couple of friends who are supportive and could hold me accountable, maybe even study with me sometimes. Having that support system might make it easier to stick with the plan.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client identified a specific change goal: creating a daily schedule and setting weekly goals. There is recognition of personal strengths and resources, like persistence and supportive friends. However, the client's confidence level is at 4, indicating moderate ambivalence remains. Further strengthening of motivation and exploring ways to increase confidence is necessary.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your persistence and supportive friends are great resources that can really help you along the way. You're planning to utilize your determination and seek accountability from friends to stick to your goals, right? As you move forward, how might you celebrate your successes and stay motivated when you notice progress from your efforts?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(guiding): Yeah, I think celebrating even the small wins is important. Maybe I could treat myself to something I enjoy, like watching a movie or getting my favorite snack whenever I hit a goal. Keeping track of my progress in a journal or something could also help remind me of how far I've come, which might keep me motivated to keep going.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is beginning to articulate specific steps like creating a schedule and setting small goals, indicating emerging Change Talk. However, confidence remains low at 4, highlighting ongoing ambivalence. The client understands the importance of tangible progress but hasn't fully committed to action. More confidence-building and clarity on goals are needed before advancing to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "therapist(guiding): Celebrating your small wins with treats and tracking your progress in a journal sounds like a rewarding way to keep motivated. You're focusing on recognizing your achievements to maintain momentum, right? How do you imagine these celebrations and reflections might impact your journey towards the changes you want to see?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "I think it'll help me stay positive and remind me that I'm capable of making progress, even if it's slow. Seeing the little successes add up could motivate me to keep pushing forward and not give up when things get tough. It might also make the whole process feel less daunting and more achievable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to make changes and identified specific strategies to implement, such as creating a schedule and setting small goals. While there is an awareness of personal strengths and resources, the client's confidence is currently at 4, indicating low confidence in implementing change. They are still expressing feelings of apathy and uncertainty about recovery. Further exploration and support in the Guiding phase seem necessary.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Recognizing your capability and appreciating small successes can create a positive cycle of motivation. It sounds like you're envisioning these reflections as a way to keep the journey optimistic and achievable. How do you feel about the possibility of noticing new strengths or insights about yourself as you continue this path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(guiding): I think it could be interesting to see what I discover about myself. Maybe I'll find out I'm stronger or more resilient than I thought. It might also help me understand what strategies work best for me and give me a better sense of what I need to thrive.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown readiness to advance to the Choosing phase. They have identified specific strategies (daily schedule, small goals) and support systems (friends) to boost their confidence. The client expresses optimism about discovering new personal strengths and strategies that work for them. There is a decrease in ambivalence and an increase in self-efficacy, indicating readiness to develop detailed action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "Exploring new strengths and strategies sounds like a valuable opportunity for growth. You're open to uncovering personal resilience and finding what works best for you, right? As you consider these possibilities, what specific goal would you like to set for the upcoming week, and how might you plan to overcome any challenges you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "I want to finish the next chapter in my textbook and review my class notes twice this week. I think staying consistent with my schedule and maybe having a study session with one of my friends will help with that. If I start to feel overwhelmed, taking short breaks or reaching out to my friends for a quick chat might help me push through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Planning to finish a chapter and review notes twice this week is a focused goal. You're considering using your schedule and study sessions with friends to stay on track, right? If challenges arise, taking breaks or chatting with friends can help you stay balanced. What specific steps will you take to monitor your progress and ensure you celebrate these achievements effectively?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "I could use my journal to jot down what I complete each day, maybe even use a checklist to mark off when I've reviewed my notes or finished the chapter. This way, I can clearly see my progress. When I hit my goals, I might treat myself to something small, like an episode of a show or my favorite snack, to celebrate and keep myself motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Using a journal and checklist sounds like an effective way to keep track of your progress. You're planning to visually track your tasks and reward yourself for achievements, maintaining momentum, right? As you proceed, how would you like to revisit and adjust your action plan if you notice certain strategies aren't working as expected?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "If I notice something isn't working, I think I'd first try to figure out what's causing the issue. Maybe I'd need to tweak my schedule or try a different study method. I'd definitely be open to changing things up and experimenting until I find what fits better. And I'd probably discuss it with my friends or even bring it up in our next session to get some more input.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a specific goal for the upcoming week, identified strategies to overcome challenges, and agreed on self-monitoring with a journal and checklist. The client also shows commitment to revisiting and adjusting their plan as needed. These aspects demonstrate readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Your willingness to adapt and experiment with different strategies really shows a growth mindset, and it's great that you're considering reaching out for feedback. You're open to adjusting your plan and seeking support, which is vital for continuous improvement, right? As we wrap up today, remember that every step you take is valuable. Keep celebrating those accomplishments, and if you ever feel stuck, you have a supportive network to turn to. Next time, we can dive deeper into any adjustments you might need. Until then, keep tracking your progress and enjoy those well-deserved treats!",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and reminders. I’ll keep working on my goals and reach out if I hit a snag. Looking forward to our next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals, identified coping strategies, and expressed a willingness to adapt. A supportive network and next session plan are acknowledged, providing closure and direction.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Thanks to poor mental health, I’ve letted myself go for the first month of the semester. I’m now failing two classes after failing two major exams this last week. What do I do?\nI’ll admit, much of this is my fault. Mental health should never be an excuse for apathy, and this is a lesson that kept fucking me over through the years. \n\nBut here I am now, failing two major exams(one where I got the lowest score in the class) and feeling complete apathy towards everything. It’s so maddening that I’ve even allowed it happen, allowed yet another opportunity slip away due to allowing my poor mental health to completely control me. \n\nAnxiety, depression, etc. are all so bad at the moment. I don’t really know the root cause of it. It just came a couple months ago and has completely taken my over since.\n\nWhat should I do? I really feel lost. Can I even recover from this and save my grades for the semester? I know it sounds foolish asking strangers on the internet for advice, but I simply don’t know what to do and need quick advice on how to turn things around.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

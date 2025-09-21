@@ -1,0 +1,167 @@
+{
+  "id": "zyci4z",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here to chat. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I’ve just been feeling really overwhelmed lately. My personal life is kinda taking over, and it's making school really tough for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling overwhelmed can be really challenging, especially when it starts affecting other areas like school. Can you share a bit more about what's been happening in your personal life that's contributing to this feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, it's just been a mix of family stuff and some drama with friends. It's like there's always something going on, and it's hard to focus on anything else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're dealing with a lot of disruptions both at home and with friends, which is understandably making it difficult to concentrate on your schoolwork. How have you been coping with these challenges so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, not very well. I've mostly been trying to push through and distract myself, but that doesn't seem to be working. Sometimes I just end up feeling more stressed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, detailing the impact of personal life issues on their academic performance, and expressed a desire to improve mental health. Empathy and rapport have been established, with mutually agreed goals around enhancing coping skills.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough feeling like you're just barely managing to get by. As you think about your situation, what do you imagine life could be like if things were a bit more balanced between your personal life and school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If things were more balanced, I think I'd be able to focus better and maybe even enjoy school again. I wouldn't always have this weight on my shoulders, and I'd feel less anxious and more in control.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding that sense of balance sounds really important to you. What do you think might be some small steps you could take towards feeling more in control and less anxious in your current situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by setting some boundaries with my time, like dedicating certain hours to schoolwork and others to dealing with personal stuff. Maybe finding some activities that help me relax, like going for a walk or journaling, could also make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating boundaries and finding relaxing activities seem like thoughtful steps towards the balance you're seeking. On a scale of 0-10, how confident do you feel about trying these new approaches?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 6 or 7? It feels doable, but I'm still worried about sticking to it when things get chaotic again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific steps like setting boundaries and engaging in relaxing activities. Confidence is at 6 or 7, showing moderate belief in their ability to implement changes. The exploration of life with and without change has been discussed, indicating readiness to develop detailed plans and strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Establishing those boundaries and relaxing activities shows a lot of insight and readiness for change. Considering the potential chaos, what strategies could you use to help you stick with your plan during those hectic times? Options might include setting reminders or having a support buddy to check in with you. How do these options sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Having a support buddy sounds like a good idea. I think having someone to keep me accountable would help me stay on track, and reminders could make sure I don't forget about my plans when things get busy.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "A support buddy and reminders seem like great ways to stay committed to your goals. Who might you consider reaching out to for support, and what kind of reminders would work best for you? Let's also explore how you’d like to monitor your progress and celebrate small successes along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): For support, I'm thinking of asking one of my close friends who understands what I'm going through. As for reminders, maybe setting alarms on my phone would work since I always have it with me. To track progress, I could keep a simple journal or checklist, and maybe treat myself to something small when I tick off goals, like a favorite snack or a short Netflix break.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a friend for support and using phone alarms are practical choices that can help you stay on track. Keeping a journal or checklist to monitor progress sounds like a solid plan, and rewarding yourself with small treats is a great way to celebrate your achievements. What do you think would be a realistic goal to start with, and how often would you like to check in on your progress with your buddy?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think a realistic goal would be to start dedicating at least an hour each day to schoolwork and an hour to personal time, just to create a routine. Maybe checking in with my friend once a week would help me stay accountable without feeling overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal with a concrete action plan, including setting time boundaries, using phone reminders, and having a support buddy. There is also a strategy for monitoring progress and celebrating successes. The client expressed a commitment to start and discussed how to address potential barriers, indicating readiness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Dedicating an hour each day to both schoolwork and personal time seems like a thoughtful way to establish a routine, and checking in weekly with your friend sounds like a balanced approach to staying accountable. It's impressive how you've laid out these steps to create a more balanced life. As you move forward, remember that it's okay to adjust your plans as you learn what works best for you. Your intention and effort to create balance are truly commendable. Keep being kind to yourself throughout this process, and know that I'm here to support you as you navigate this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate it. I'll do my best to stick with this plan. I'll definitely check back in if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established goals, steps, and coping strategies. A next-step plan was discussed, including support systems and progress monitoring. The client expressed readiness and gratitude, indicating closure is natural.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what are good coping skills for college when your personal life is affecting you emotionally and mentally causing poor academic performance?\nI didn't do so well during this semester due to my personal life issues. It affected me mentally and emotionally causing me to do poorly in school. What are good coping skills for college when feeling this way? I want to improve my mentally health for next semester",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

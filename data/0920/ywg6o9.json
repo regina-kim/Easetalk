@@ -1,0 +1,272 @@
+{
+  "id": "ywg6o9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm just feeling really uncertain about my major and what direction to take. It's stressing me out because I don't want to end up making the wrong choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can indeed be overwhelming. You might be feeling anxious because you want to ensure you make a decision that aligns with your future goals. What aspects of choosing a major feel most challenging for you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's tough because I want to pick something that I'll enjoy but also something practical that lands me a good job. Balancing passion and practicality feels tricky.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing those two important factors can definitely create a sense of conflict. You might be feeling torn because both enjoyment and practicality hold significant value for your future. What are some majors you're currently considering?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm currently doing pre-requisite classes for computer science, but I'm also thinking about switching to finance. I find money interesting and feel like finance could open up various job opportunities.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about choosing a major and provided detailed context, including their feelings of stress, their interest in balancing enjoyment with practicality, and specific majors considered. The therapist has empathized and reinforced understanding. Goals have been mutually identified, indicating readiness to move to Guiding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's great that you're considering both options closely and weighing your interests along with practical opportunities. How do you envision your life might change if you continue with computer science, versus if you switch to finance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I stick with computer science, I might struggle with the math and not enjoy it, which could make school really stressful. Switching to finance might mean more interesting classes and less stress for me, and hopefully more job options that I find appealing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "The possibility of experiencing less stress and more enjoyment in finance classes seems to resonate with you. On a scale from 0 to 10, how confident do you feel right now about making a decision that aligns with what excites and interests you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'm probably at a 4 right now. There's so much uncertainty and it feels like a big leap to make a final decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Navigating through uncertainty can be challenging, yet recognizing your feelings is an important step. You might be at a 4, but considering what truly excites you could guide your decision. What do you think might help boost your confidence to a higher level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe talking to someone who's already in the finance field or taking a couple of finance classes might help. Getting a real taste of it could either reassure me or help me decide if it's not the right fit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by considering concrete actions such as talking to professionals in the field and taking finance classes. However, the confidence level is still low at 4, indicating ambivalence and uncertainty. Additional exploration is needed to strengthen motivation and address barriers before developing specific action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring real-world insights and firsthand experiences can certainly provide clarity. Engaging with someone in the field or trying out some classes could empower you with more information. What small steps do you feel ready to explore to connect with people in finance or to learn more about those classes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by reaching out to the career center at my university to see if they can connect me with any finance professionals. Also, I could look into the course catalog and maybe sit in on a finance class or two to get a feel for it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by identifying potential steps to explore their interest in finance, such as contacting the career center and sitting in on classes. However, their confidence is at a 4, indicating uncertainty and ambivalence about making this change. Further exploration of confidence-building and change plans is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out to the career center and exploring courses sounds like a proactive approach to gaining more clarity. Taking these steps could really help in making an informed decision. How do you feel about moving forward with these ideas?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I feel a bit more hopeful about moving forward. It's nice to have a plan and some direction, so I don't feel completely lost. It might actually make things clearer once I start taking those steps.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a potential change goal and some next steps, but their confidence is low (4/10) and there is uncertainty. The session helped explore life with and without the change, but more work is needed to strengthen motivation and confidence before action planning. Guiding should continue.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Feeling hopeful and having a plan can certainly bring a sense of direction. Exploring these resources could illuminate whether finance is the right path for you. As you consider these steps, what aspects of this potential journey are you most looking forward to discovering?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I'm really looking forward to seeing if finance classes engage me more than the ones I'm taking now. I'm also curious about the kind of work finance professionals do day-to-day. I think understanding that could help me picture myself in that field and see if it aligns with what I want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific exploratory steps and expresses hope and curiosity about finance. Change Talk is present, but confidence is at 4, indicating ambivalence. While steps are defined, the client's confidence and clarity require further strengthening before advancing to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's exciting to see your curiosity about how finance might resonate with you both in the classroom and in the professional world. Discovering how these experiences fit with your personal goals could be quite enlightening. What might be the first step you are eager to take towards this exploration?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think the first step would be reaching out to the career center to find out if they have any events or meetups with finance professionals. That way, I can start getting insights directly from people in the field.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk and identified next steps to explore the finance field, like reaching out to the career center. However, their confidence level is still at 4, indicating ambivalence remains. Further guidance to strengthen confidence and reduce uncertainty is beneficial before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Taking initiative by connecting with the career center is a great starting point. Engaging with professionals could offer invaluable insights into the day-to-day life in finance. What do you anticipate gaining from these conversations that might guide your next steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I hope to get a better understanding of what a typical day in the finance world looks like and maybe some advice on what skills or experiences are essential for success in that field. It could really help me see if it's something I'd enjoy and want to pursue.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as reaching out to the career center and exploring finance classes. They feel hopeful and have a plan, indicating a readiness to move forward. Change Talk is present, and ambivalence seems reduced as they anticipate gaining insights from conversations with finance professionals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Discovering the daily life of finance professionals and gaining advice on key skills sounds like it could be incredibly insightful. Based on our conversation, you might consider setting a goal to attend a career event or arrange an informational interview. What timeline do you envision for reaching out to the career center and beginning this exploration?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I'm thinking I could reach out to the career center within the next week or so. It feels like a good timeframe to start getting things in motion and see what opportunities are available. I really want to start gathering more information soon.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Setting a timeline to reach out within the next week sounds like a practical and motivating choice. Having this clear timeframe can help propel your exploration forward. What potential challenges do you foresee in taking this step, and how might you plan to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I guess one challenge might be juggling this with my current coursework since I'm already feeling overwhelmed. I think maybe setting specific times during the week to focus on this exploration could help me manage everything better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Scheduling specific times to focus on reaching out and exploring the finance field seems like a great strategy to balance your current workload. It can help keep you organized and reduce feelings of being overwhelmed. Based on your plan, would it be helpful to decide on a couple of time slots now to hold yourself accountable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Yeah, that sounds like a solid idea. Maybe I can set aside an hour or two on Wednesday afternoon and another on Saturday morning. That way, I can make sure I'm committed to it without letting it clash too much with my other responsibilities.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and action plan, including a timeline for reaching out to the career center, and has discussed potential barriers with strategies to overcome them. The client has expressed commitment and is taking steps to explore the finance field, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Having dedicated time slots on Wednesday afternoon and Saturday morning to focus on this exploration is a fantastic approach. This structure shows your commitment and helps create a balance with your coursework. Remember, it's perfectly okay to adjust these times if needed. Your awareness of your limits and proactive planning is commendable and will surely aid you in this journey. As you move forward, keep looking for opportunities to connect with professionals and gather insights. I’m confident you’ll find your path. Feel free to reach out if you need any support or to share your experiences. You're making great strides!",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely keep you posted on how it goes and reach out if I need any advice.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals, steps, coping strategies, and a next-step plan. The client has committed to specific actions with timelines, demonstrating progress and readiness to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College major troubles\nI am having trouble deciding what I want to do as a major. I am doing the pre-requisite classes for computer science at the moment and I really don’t enjoy these math classes and I am not doing well. \n\nI am considering changing my major to finance because I find money interesting and I really want to graduate school with a major that will provide a selection of jobs. \n\nI am a junior in college with an associates right now so I feel like I need to make a decision soon so I can graduate on time.\n\n\nThoughts on this decision?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

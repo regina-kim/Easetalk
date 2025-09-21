@@ -1,0 +1,188 @@
+{
+  "id": "se58lu",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Feel free to share anything you'd like to talk about today. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, I've just been feeling really anxious about starting university. I got my first acceptance letter, and now I'm second guessing everything. It's like, what if I end up hating it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting university can bring so many emotions, and it's understandable to feel anxious about such a big change. You might feel anxious because it's a new chapter and you're unsure about what to expect. Can you tell me more about what specifically makes you second guess it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's the fear of the unknown, you know? Like, what if it's not what I imagined or I don't fit in or I end up regretting it? It's just a lot to process all at once.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Facing the unknown can definitely bring up a lot of worries, especially with such a significant change like university. It sounds like you're concerned about how your expectations and reality might differ, and wondering about your sense of belonging there. What aspects do you think would help you feel more comfortable or supported in this transition?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think having a better idea of what to expect might help, knowing more about the campus and what the classes are like. Having a support system too, like making a few friends or connecting with people before I get there, might ease the nerves a bit.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about starting university, including fears and specific anxieties. The therapist has shown empathy and started exploring potential comfort strategies. However, the client's deeper motivations and expectations are not fully explored yet.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "therapist(exploring): Gaining a clearer picture of what university life might look like and building a support network can be really helpful. You're thinking that knowing more about the environment and finding some connections beforehand could ease your anxiety. What steps could you take to start gathering this information or start forming those connections?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I could probably do some more research on the university's website or join some online groups for incoming students. Maybe reaching out to current students or alumni could give me some insights too. Just trying to take small steps to feel more prepared.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The essence of the client's story has been elicited, including their anxieties about starting university and the relevant context of their worries about fitting in and the unknown. Empathy and rapport have been established, and the client has identified steps to address their concerns, meeting the goals of the Exploring phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you've already thought of some great ways to gather information and build connections, like researching online and reaching out to others. How do you feel about the idea of taking these steps to help ease your anxiety about starting university?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): It seems like a good plan, honestly. I feel a bit more at ease just thinking about having some kind of direction. I guess taking these small steps could make a difference in how I'm feeling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "It's encouraging to hear that thinking about these steps brings you some ease and direction. How might taking these small actions align with your overall goals for your university experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(reflecting): I think taking these steps could help me feel more confident and open to the experience, which is what I ultimately want. I hope it'll make the transition smoother and help me stay focused on why I wanted to go in the first place.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Having a smoother transition aligns with wanting to feel confident and open to the university experience. How do you see this newfound confidence influencing your journey once you're there?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): If I feel more confident, it might help me be more willing to try new things and meet new people, which could really enrich my time there. I think it would also help me handle any challenges better, knowing I've prepared and have some support.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk, identified steps towards a change goal, and their confidence has increased with the proposed plan to ease anxiety about university. Discrepancy between current anxiety and desired confidence is clear, and ambivalence has decreased.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Feeling confident and prepared can indeed open up so many possibilities for enriching your university experience. Now that we've identified some steps, like researching and connecting with others, let's work on setting a specific goal. Would you like to make a plan to reach out to a certain number of people or gather more detailed information by a certain date? What might any potential barriers be, and how can we plan for those?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having a concrete plan seems like a smart move. Maybe I could aim to reach out to at least three current students or alumni over the next two weeks. As for potential barriers, I might hesitate or overthink what to say, so planning out some questions in advance could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Setting a goal to reach out to three current students or alumni within two weeks sounds like a proactive strategy. To support this, preparing some questions in advance can definitely ease any hesitation or overthinking. How do you feel about scheduling specific times to reach out, and how might we monitor your progress on this goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Scheduling specific times might be helpful, like setting aside an hour on certain days just for this. I could keep track of who I reach out to and any responses I get in a journal or document. That way, I can see progress and stay motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having scheduled times and tracking your progress in a journal or document sounds like a structured and motivating approach. This can help you stay focused and celebrate each step you take. How about we agree on a check-in time to review your progress and discuss any adjustments you might need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. Maybe we could check in by the end of the two weeks to see how things are going and if there's anything I need to tweak. I think having that accountability will keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and action plan, including reaching out to three students and scheduling specific times. Barriers such as hesitation are discussed with planned solutions. They've agreed to self-monitor in a journal and set a check-in time for accountability. Confidence in the process is present.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Checking in at the end of the two weeks for a progress review is a fantastic idea and can really provide that sense of accountability you’re looking for. It's wonderful to see how you're embracing this journey with such openness and intentionality. Remember, each step you take is progress, and I'm here to support you along the way. Keep noting those connections and questions in your journal as a way to celebrate your achievements. Looking forward to our check-in, and feel free to reach out anytime you need a bit of encouragement or guidance before then. You’ve got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate all the support and guidance. I'll start setting those times and keeping track, and I'm looking forward to our check-in. I'll reach out if anything comes up before then.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concludes naturally with a summary of goals, coping strategies, and a next-step plan, including a check-in time. The client seems ready and supported for the transition, with closure effectively achieved.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Just got my first acceptance, but now I'm second guessing even wanting to go and riddled with fear.\nIt all feels so real now. I'm a generally anxious person so I'm sure it may just be that but I'm not even sure I want to go now. I've put in all this hard work and time and now I'm so worried. What if i get through all of this and, by the time I'm there, I'm miserable? Has anyone else felt this way? How did you get over it if so?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

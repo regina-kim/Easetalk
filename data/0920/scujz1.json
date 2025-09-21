@@ -1,0 +1,167 @@
+{
+  "id": "scujz1",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and explore whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I just got this amazing postdoc offer that I've been dreaming about, but instead of being excited, I'm feeling super anxious. It's like the more things work out, the more I panic.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really overwhelming. You’re feeling anxious because this opportunity means so much to you and perhaps you're worried about the changes it might bring. What do you think is contributing to this panic?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It definitely feels like the pressure just increased, like everything is more real now and I can't mess it up. I think I'm also scared of the unknown and what if I don't live up to expectations?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It’s understandable to feel that way when facing such a significant life change. You’re experiencing pressure because this opportunity is important to you, and the fear of the unknown is only natural. Can you tell me more about what expectations you're feeling and where they might be coming from?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess part of it is self-imposed, like this is what I've worked for, and I don't want to disappoint myself or others. There's also the expectation of succeeding in a new, high-pressure environment, and I worry about whether I'm really ready for it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns and the context behind their anxiety, including self-imposed expectations and fear of the unknown. Rapport and empathy have been established, with the therapist understanding the client's pressures and fears. Mutually agreed goals are emerging, such as addressing anxiety and expectations. The conversation is ready to transition to strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You're holding a lot of responsibility on your shoulders right now, and it's only natural to feel anxious about meeting those expectations. What do you imagine life might be like if you were able to embrace this opportunity without the weight of these worries?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I could do that, I think I'd feel a lot more free and excited about the future. I'd probably be more focused on the opportunities and learning experiences rather than worrying about failing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like embracing the opportunity without those worries could really open up a sense of freedom and excitement for you. What aspects of this postdoc align with your life goals and values, and how might they help overcome your fears?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Well, it's in a field I'm really passionate about, and it aligns perfectly with my career goals. I know this is a stepping stone to doing impactful work that I've always wanted to do. Reminding myself of that might help balance out the fear with purpose.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your passion and alignment with your career goals truly highlight the importance of this opportunity. Focusing on the impact this work can have might provide motivation to navigate through the fear. On a scale from 0 to 10, how confident do you feel right now about embracing this postdoc and moving forward with less worry?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I’d say maybe a 6 right now. I have moments where I feel more confident and ready to tackle it, but then I start overthinking everything again, and that confidence dips.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively evoked a discrepancy between the client's value of pursuing impactful work and the fear-driven anxiety about the postdoc opportunity. The client has expressed Change Talk, acknowledged alignment with their values, and provided a confidence rating of 6. They show a willingness to focus on purpose to overcome fears. These are readiness signals to advance.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "That makes sense, given the big step you're about to take. You're acknowledging both your confidence and the moments of overthinking. Let’s think about some steps that could help you move from a 6 to a higher number. Based on what you shared, possible options include focusing more on your goals and values or perhaps creating a support system to remind you of your strengths. How would you like to proceed, and what small, manageable actions might you take to boost your confidence?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think having a support system would really help, like talking things through with friends or mentors who know what I'm capable of. Also, maybe setting small, achievable goals to gradually build up my confidence and remind myself of what I can do.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a support system sounds like a wonderful way to reinforce your confidence, as well as setting those small, achievable goals. Who might you reach out to as part of your support system, and what might be your first small goal to work towards?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I'd probably start with my advisor and a couple of close friends who have always been supportive. For a small goal, maybe I'll try to focus on one specific task related to the postdoc each week, like reading a research paper or connecting with someone in the field, just to get into the groove and see progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That’s a great plan. Reaching out to your advisor and close friends can offer the support you need, and setting a weekly task gives you manageable steps to build your confidence. How do you feel about tracking your progress, and what might be a good way for you to do that?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Tracking could definitely help me see how far I've come and keep me motivated. I might use a journal or a planner to jot down what I've accomplished each week. It could be satisfying to look back and see all the steps I've taken.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and concrete action plan, including setting small, achievable goals and creating a support system. They have discussed barriers, such as overthinking, and agreed to self-monitor by tracking progress in a journal or planner. The client demonstrates commitment with taking-steps talk and shows confidence in their ability to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Using a journal or planner to track your progress sounds like a fantastic idea. It can offer you a tangible way to see your achievements and keep you motivated as you move forward. You've got a clear plan: leaning on your advisor and friends for support, and setting weekly goals to build confidence. These steps align perfectly with your passion and career goals. Remember, each small step forward is a big win. As you start this journey, give yourself credit for each success along the way. I'm confident you have what it takes to embrace this opportunity. If you ever feel you need additional support, feel free to reach out. Looking forward to hearing about your progress next time. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate all your help and encouragement. I'll definitely keep those steps in mind and try to focus on the progress I'm making. Look forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan including support systems and tracking progress, indicating readiness to move forward. A summary of goals and strategies was provided, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I just got the postdoc of my dreams so why am I panicking?\nPretty much the title. After several months of working on applications and convincing myself that I was not going to get any offers and this was the end of my academic career, last week I got my dream offer at my dream institution, the place I've wanted to go for years. So why am I terrified instead of excited? I thought this would mean I could finally breathe, but if anything my anxiety is worse. Does anyone else relate to this and if so, how did you address it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

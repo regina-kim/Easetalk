@@ -1,0 +1,167 @@
+{
+  "id": "sfaprr",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling a bit overwhelmed. I’m really confused about what to major in and what career path to take. It’s stressing me out not knowing what to do with my future.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major and career can indeed feel overwhelming. You're feeling stressed because there's so much uncertainty about the future. What are some areas or subjects that you find interesting or enjoyable?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I really like science, especially chemistry, but I'm not sure if I want a career in it. I've also been thinking about business-related fields like marketing or finance because they seem to offer more options.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're caught between your interest in chemistry and the possibilities you see in business fields, which is understandably confusing. What aspects of chemistry draw you in, and what appeals to you about business-related areas?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I enjoy the problem-solving and analytical side of chemistry, like figuring out reactions and how things work on a molecular level. As for business, I like the idea of having a broader range of career opportunities and the potential for making good money.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated their thoughts, feelings, and concerns about choosing a major and career. They have shared their interests, values, and the dilemmas they are facing. The therapist has established empathy and understanding. It is appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk for exploring potential pathways and solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "The analytical challenge of chemistry excites you, while the diverse opportunities in business attract you for potential growth and financial stability. How do you imagine your life might look if you pursued one path over the other?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think if I went with chemistry, I'd probably be more intellectually challenged, which could be fulfilling. On the other hand, going into business might give me a bigger safety net financially and more career options, but I worry it might not be as stimulating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing intellectual fulfillment with financial stability and career options is a challenging decision. Considering your values and long-term goals, how important are intellectual challenge and financial security to you in shaping your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think both are important to me, but financial security might slightly outweigh the intellectual challenge. I want to live comfortably and have options to explore different things, but I also don’t want to be bored out of my mind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having a comfortable life and exploring different options, while also avoiding boredom, is quite important to you. How might you incorporate your passion for problem-solving in chemistry into a business career that also offers financial security?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I guess I could look for roles that involve a lot of analysis or strategic planning, maybe something like market research or data analysis in a business setting. That way, I can use my problem-solving skills while still being in a field that offers more opportunities for growth and financial security.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, explored discrepancies between interests and career options, and identified potential roles that align with their skills and values. They have a clearer understanding of their priorities, like financial security and intellectual challenge. While confidence hasn't been explicitly measured, the client is considering specific roles, indicating readiness to develop action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your idea of combining problem-solving in analysis or strategic planning roles sounds like a promising path that aligns with both your interests and goals. Possible options could include exploring business programs with a focus on analytics or even considering internships in market research. What specific steps might you take to learn more about these fields and assess your fit?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I could start by taking some introductory courses in business and analytics to see if I like them. I could also try to talk to people who work in those fields or maybe find some internship opportunities to get a feel for what the work is really like.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring introductory courses and speaking with professionals are great first steps. It also sounds like looking into internships could provide valuable hands-on experience. How do you plan to start reaching out to professionals or finding these opportunities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I might begin by checking with the careers office at school for any contacts or networking events. I'll also look at LinkedIn to see if there are any alumni working in those fields who might be open to chatting about their experiences. Plus, I'll keep an eye out for any internships that pop up on the university's job board.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Connecting with your school's career office and leveraging LinkedIn are excellent strategies for finding contacts and opportunities. Keeping an eye on the university's job board for internships can also be very effective. What timeline or milestones would you like to set for yourself to explore these options and gather insights?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think I’d like to start by the end of this semester, maybe have talked to a few people and taken at least one intro course. By next semester, I’d aim to have applied for at least one internship and have a clearer idea of which direction I want to go in.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan, including taking courses and networking. They have discussed potential barriers and agreed on self-monitoring through setting milestones. They have shown commitment and confidence in their steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "You've outlined a thoughtful timeline for exploring and gaining insights into these career paths. By the end of this semester, aiming to connect with professionals and complete a course will set a strong foundation. Having applied for internships by next semester can offer practical experience and clarity on your direction. This plan balances your need for both intellectual engagement and financial stability nicely.\n\nRemember, each conversation and course is a step towards discovering where you fit best. It’s fantastic that you’re taking proactive steps. Keep this momentum and trust in your ability to make informed decisions. As you move forward, I’m here to support you through any challenges or adjustments you might encounter. Don't hesitate to reach out whenever you need to reflect or reassess your plan.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support. I'll definitely reach out if I need to reassess anything or just get some guidance. It feels good to know I'm on a path, even if it's still a bit fuzzy.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan with steps, milestones, and coping strategies to explore a new career path, aligning with their goals and concerns. They feel supported and know to reach out for guidance when needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: major help please! any suggestions appreciated\nI’m currently a second semester freshman majoring in nursing. I recently realized that I don’t want to be a nurse anymore, and don’t know if I ever did. I do know that I like science, especially chemistry, so I was thinking of changing my major to chem. Did some more overthinking, and I don’t know if I want a career in chem or if I just like the subject?? Also I feel there aren’t many career options for a chem degree, besides chem engineering which I know I do not want to do.\n\nNow, I’m debating switching to something business-related, possibly marketing, accounting, or finance? I’ve read different things about marketing, some say its useless today and some say its great. I want a degree that is useful but also diverse and can give me options since I don’t know for sure what I want to do after college. I can see myself in marketing or real estate.\n\nObviously salary is important as well, and personally I’d rather have a boring/easy job that makes bank than do something challenging and not make as much money. BUT I also don’t want to hate my job and want to kill myself. \n\nI’m slightly introverted but can be outgoing. I like to think I’m good at math/analytics. I also like learning about human behavior and psychology.  I just don’t know where to go from here. All I know is I don’t want to be a nurse lol. Any help/pointers are much much appreciated. TIA!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

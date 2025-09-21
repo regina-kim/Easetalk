@@ -1,0 +1,188 @@
+{
+  "id": "ut5oht",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It’s great to have you here today. What’s been on your mind lately that you'd like to explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been feeling a bit lost and anxious now that the school year is over, and I'm not really sure what to do with all this free time. It's been stressing me out more than I expected.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel a bit uncertain when routines change. You’re feeling anxious because of the unexpected stress from having so much free time. What are some things you've considered doing, or what usually helps you manage stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I thought about finding a part-time job or maybe volunteering, but I'm not really sure where to look or how to get started. Usually, keeping busy with schoolwork helps distract me from stress, so this is all pretty new to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Exploring new opportunities can definitely feel overwhelming. You’re considering a part-time job or volunteering as a way to fill your time and manage stress. Have there been times in the past when you faced similar transitions, and how did you handle those?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I guess whenever I've had transitions like moving or starting a new semester, I just threw myself into schoolwork or made sure I had a set routine. It’s like having a plan helps me feel more grounded.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively captured the essence of the client's concerns, including her anxiety about free time, need for structure, and uncertainty about career paths. The client has shared past coping strategies and current feelings, showing empathy and rapport building. Goals and context are mutually understood.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having a plan really seems to help you feel anchored during transitions. As you think about filling this time with work or volunteering, what are some values or goals you’d like to focus on?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think I'd like to focus on gaining some practical experience that ties into my interests, maybe something related to the medical field. It would also be nice to develop skills that could help me feel more confident about my future career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Gaining practical experience sounds like an exciting and meaningful direction. How do you feel about exploring opportunities in the medical field that align with your interests and future career goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'm definitely interested, but I'm a bit unsure about where to start or if there are opportunities out there that fit my short summer timeline. It's a little intimidating to think about jumping into something new like this.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Starting something new can feel daunting, yet you're open to seeking opportunities. What might boost your confidence as you consider these steps toward gaining experience in the medical field?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think talking to people who are already working in the field could help, maybe getting some advice or learning about their experiences. Also, having a clearer idea of what roles I could take on for just a few months would make me feel more prepared.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk around gaining practical experience in the medical field and has identified steps such as talking to people in the field. However, there is still uncertainty about where to start and a need for confidence-building. Confidence levels and specific next steps are not fully clear, suggesting further exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Connecting with people in the field seems like a valuable way to gather insights and gain clarity. What steps could you take to reach out and learn from their journeys, and how might this align with your summer plans?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I could start by reaching out to some professors or advisors at my university to see if they know anyone I could talk to. Maybe I could also look into any local events or seminars related to the medical field. It feels like a good way to start figuring things out while also keeping busy during the summer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear goals, such as gaining experience in the medical field and connecting with professionals. They've identified specific steps like reaching out to professors and looking into local events. Confidence appears to be growing, and ambivalence has decreased as they consider actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Reaching out to professors or attending local events sounds like a proactive approach. Considering your interests and goals, possible options include setting a goal to contact at least three people within the next two weeks and attend one event or seminar this month. What do you think about creating a list of potential contacts and events, and how might you track your progress over the summer?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Creating a list sounds like a solid plan. I think it will help me stay focused and give me something to aim for. Maybe I could use a planner or an app to track who I've contacted and any events I find. That way, I can see the progress I'm making and adjust my efforts if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Using a planner or app to track your contacts and events sounds like a great strategy. By setting a goal to reach out to three people and attend one event, you're giving yourself clear targets to aim for. How would you feel about setting aside a specific time each week to review your progress and adjust your plans if necessary?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. Maybe every Sunday or something, I could sit down and go over what I've done and plan for the next week. It could help me stay organized and motivated, knowing I have that time set aside to refocus and make any changes if I need to.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a set time each week to review and plan sounds like a constructive approach. Setting aside Sundays for this reflection and adjustment could really help maintain your momentum. How do you feel about implementing this routine, and is there anything specific that might support you in keeping it consistent?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I feel good about it, honestly. Having a routine might make this summer feel a bit more structured. Also, maybe having a friend or family member check in with me to see how I'm doing could help keep me accountable and motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan that includes reaching out to contacts and attending events, and agreed on self-monitoring strategies like using a planner and weekly reviews. They've also considered accountability support from friends or family. The client expressed positive feelings and readiness to implement the plan, indicating commitment and confidence in their ability to proceed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It's wonderful that you feel positive about implementing this routine and that you're open to seeking support from a friend or family member. Having someone to check in with you can really boost your accountability and motivation. You've outlined some great goals for reaching out to professionals and attending events, and using Sundays to review your progress will keep you organized. With these steps in place, you're setting yourself up for a productive summer. Keep trusting your instincts and feel free to adjust as you learn more. You're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and advice. I'm hopeful about this plan and excited to see where it takes me this summer.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a structured plan and goals for the summer, including reaching out to contacts and attending events, with weekly progress reviews. Coping strategies and support structures are identified, indicating readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is anyone else struggling with feeling aimless during summer?\nHi there, 20F here\nJust wondering how you all fare during the summer. My last final was three weeks ago, and I just finished junior year. I work very hard and do well in school, but once it ends and I go from a rigid structure to nothing I feel disoriented and directionless.\n\nPart of it is that I feel the need to be constantly making progress. Another part is that I am pressuring myself to be figuring out my career path, because I hate not knowing exactly what I want to do. I'm good at school, but I'm also afraid that I won't be good at working and applying my skills to practical situations.\n\nSome of these fears are irrational--I've worked before, I've done great and I've discovered some aspects of my career that I like and dislike. I want to explore the medical field but I'm not sure if I could be hired for only 3-4 months as an entry level worker and then leave to go back to school.\n\nBasically summer gives me lots of generalized anxiety about my life and future that I don't have time to stew on during the school year. I know the obvious solution is to make arrangements for summer plans ahead of time so I don't run into this, but I had a short term change in my living situation and so I'm in a new place away from my university and feeling like everything is unfamiliar.\n\nSo much empty time and I'm not sure what to do with it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

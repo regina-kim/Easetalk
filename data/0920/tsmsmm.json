@@ -1,0 +1,188 @@
+{
+  "id": "tsmsmm",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm alright, just feeling a bit guilty for not studying today. I know I have time to get my projects done, but taking a day off still feels wrong somehow.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel guilty about taking a break. You value your education and want to do well. What's been going on that led you to decide to take a day off today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I've just been feeling really overwhelmed lately, and I thought taking a day off might help clear my mind a bit. But now I'm just stuck in this loop of feeling like I'm wasting time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Taking a break when you're feeling overwhelmed makes sense, especially when you're trying to manage stress. It seems like there's a tension between needing rest and feeling pressure to be productive. Can you tell me more about what's been overwhelming for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It's just been a lot with assignments, juggling classes, and trying to keep up with everything. It feels like there's always something I should be working on, and it gets to be too much sometimes.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's main concerns about guilt and pressure related to studying. The context of stress from assignments and classes has been detailed, and empathy has been shown. However, mutually agreed goals have not been established, indicating further exploration is needed.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing so many responsibilities can indeed feel like a heavy load. You’re experiencing a lot of pressure from all sides. How do you usually cope when everything starts to feel overwhelming?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I usually just try to power through it and keep working, hoping that getting stuff done will make me feel better. Sometimes I take short breaks, but I find it hard to relax without thinking about what needs to be done next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of guilt and overwhelm, as well as their coping mechanisms and the pressures they face. There's a clear understanding of the client's context and emotions, indicating readiness to strengthen motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It appears that taking breaks doesn't always provide the relief you're hoping for. What could it look like if you found a balance that allowed you to take a break and still feel satisfied with your productivity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I guess it would mean managing to step away for a bit without that nagging feeling of guilt. Maybe if I could convince myself that breaks are part of being productive, I wouldn't feel like I'm slacking off.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "That's an insightful thought about breaks being an essential part of productivity. What small steps could you take to start believing that taking time off is a valuable part of your process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Maybe I could try scheduling specific times for breaks, like actually putting it in my planner alongside my study times. If I treat them like any other task or appointment, it might help me see them as necessary and not just slacking off.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Planning breaks sounds like a thoughtful approach. By scheduling them, you’re acknowledging their importance in maintaining a healthy balance. How might incorporating planned breaks impact your overall stress and productivity levels?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I think it could help lower my stress since I'd have designated times to step away and recharge. Hopefully, it would also make me more productive during study sessions, knowing I have breaks to look forward to.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal (scheduling breaks) and articulated the benefits of this approach. Change Talk is evident, and the client has expressed confidence in the potential positive impact on stress and productivity.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Incorporating planned breaks seems like a promising strategy. As we move into creating an action plan, what would you like your break schedule to look like? Possible options include short breaks every couple of hours or a longer break after a major task. What's your preference?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think starting with short breaks every couple of hours makes sense for me. That way, I can stay focused on tasks for a bit but know that I have a mini-reward to look forward to. It might make it easier to dive back into work afterward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a well-considered plan. Scheduling short breaks every couple of hours offers a balance between focus and relaxation. How about we outline what steps you’ll need to take to implement this? For example, would setting reminders help, or would you prefer using a timer? Let's also think about any challenges you might anticipate and how you might address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Setting reminders on my phone could work, just so I don't forget. Using a timer might also help me stick to the break length and avoid going overboard. A challenge might be fighting the urge to keep working when the timer goes off, but maybe reminding myself of the benefits could help counter that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those are practical solutions. Setting reminders and using a timer can help you manage both work and break times effectively. To reinforce the habit, you might consider writing down the benefits of taking breaks somewhere you'll see them often. How do you feel about starting with these steps, and how can we check in to see how it's going?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I'm feeling optimistic about trying this out. Writing down the benefits seems like a good way to remind myself why it's important. Maybe we can check in next week to see how it's going and if I need to adjust anything.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to use timers and reminders for scheduled breaks and has discussed potential barriers, alongside solutions like reminding themselves of the benefits. They show commitment and readiness by planning a check-in to review progress, indicating preparedness to implement the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a great plan! It's wonderful to hear your optimism and willingness to try this out. Writing down the benefits as a reminder sounds like a helpful strategy to keep you motivated. Let's plan to check in next week and see how the scheduled breaks are impacting your productivity and stress levels. You’re taking a proactive step towards a healthier work-life balance, and that's something to be proud of. Keep up the good work and remember, change takes time and practice.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the support and guidance. I'll give this a try and see how it goes. Catch you next week!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addresses the client's guilt about not studying by creating a plan with scheduled breaks, coping strategies, and a check-in for progress. The conversation naturally concludes with optimism and next steps, fitting the termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: guilt about not studying\nanyone else feel weird or guilty for taking a day off studying? i have two projects due within two weeks and i know i can get them done before the deadlines, but i still feel bad about not working on them today. i never really take a break from studying/homework because my brain won’t let me without feeling bad or unproductive. any tips on how to overcome this weird guilt?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

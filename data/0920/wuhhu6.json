@@ -1,0 +1,188 @@
+{
+  "id": "wuhhu6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! Welcome. What brings you in today? I'm here to listen and understand what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've just been feeling super off lately. I used to be all about my studies and now I can't seem to get excited about anything, and with classes coming up, I'm stressed about whether I'm ready or not.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're grappling with a lot right now. Feeling disconnected from your studies and that pressure with classes nearing must be overwhelming. Can you tell me more about when these feelings started for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it all sort of started after I had a health scare this summer. I dropped out of my summer class and since then, it's like I've lost my groove. The excitement I used to feel is just kind of gone, and it's been hard trying to get back into things.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Experiencing a health scare sounds really challenging, and it's understandable that it might affect your excitement and motivation. It seems like you're feeling a bit lost since that event. What was it about your studies that used to excite you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess it was the idea of working on something big, like aerospace engineering, and all the possibilities that came with it. I used to love thinking about how things work and problem-solving but now, it's like the spark is missing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, including thoughts and feelings about their studies, health scare, and pressure from family. The client has also reflected on past passions and current interests, such as kickboxing. Empathy and rapport were established, and mutually agreed goals regarding their feelings and concerns are apparent.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Reflecting on your passion for aerospace engineering, it's clear that those ideas and the challenges once fueled your excitement. It's tough when that spark feels absent. What's one small thing that might help you reconnect with that sense of possibility?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Maybe finding a way to relate what I'm learning back to real-world scenarios would help, like watching documentaries or reading about current projects in aerospace. I think seeing the practical side of things might reignite some of that passion.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Exploring real-world applications could definitely offer a fresh perspective and spark that excitement again. How might incorporating these documentaries or articles into your routine influence your motivation towards your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think it could help remind me why I chose this path in the first place. If I can see the bigger picture and how what I'm learning applies, it might make diving back into my studies feel more meaningful and motivating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Rediscovering that bigger picture and seeing the connection to real-world projects might indeed reignite your passion. How confident do you feel, on a scale from 0 to 10, about trying this approach to help reconnect with your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I'd say maybe around a 6 or 7. I think it could help, but I'm still a bit unsure about everything. It'll take some time, but I'm hopeful it'll make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk about reconnecting with their passion for studies through practical applications and holds a confidence level of 6-7. They've identified a strategy, indicating readiness to explore concrete steps. The client remains unsure, suggesting staying in Guiding to further solidify their plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Acknowledging that you're feeling cautiously optimistic about this approach is an encouraging step forward. What might help you move from a 6 or 7 to a higher level of confidence in trying to reconnect with your studies through these real-world applications?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I think setting some small goals and gradually building up could help. Like maybe starting with one documentary a week or reading an article about a new project. If I can keep it simple and consistent, I might feel more confident over time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific goals such as incorporating documentaries and articles to reconnect with their studies. They have articulated a confidence level of 6-7 in trying this approach. Change Talk is present with a clear next step. Despite some remaining ambivalence, the client has shown commitment to small goals that align with their values and interests.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating small, manageable goals sounds like a promising way to build your confidence gradually. Let's consider setting a specific plan: you might start with one documentary or article each week to keep things consistent and achievable. What do you think could be some potential barriers to maintaining this new routine, and how might you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think time management might be one of the biggest barriers, especially with my job and trying to stay active with kickboxing. It’s easy to get caught up and forget to make time for these things. Maybe setting aside specific days or times in the week to focus on this could help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Designating specific days or times for these activities sounds like a practical way to manage your schedule effectively. By setting aside dedicated slots, you might be able to balance work, kickboxing, and your newfound goals. How would you like to structure your week to incorporate these documentaries or articles?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Well, I think maybe dedicating a couple of evenings during the week could work. Like, after a kickboxing session when I'm feeling more relaxed, I could wind down with a documentary or read an article. I could start with maybe Tuesdays and Thursdays and see how that goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Designating Tuesdays and Thursdays for these activities sounds like a thoughtful plan, allowing you to relax and enjoy them after kickboxing. How might you monitor your progress with this routine and ensure it aligns with your goals over time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): client(reflecting): I guess I could keep a simple journal or use an app to track what I watch or read and jot down a few thoughts on it. This way, I can see if it's making a difference in how I feel about my studies and adjust if needed. It could be a way to keep myself accountable too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan incorporating documentaries or articles into their routine, identified time management as a potential barrier, and proposed a strategy to overcome it. They also agreed to self-monitor their progress. Signals of readiness include the client's commitment to taking steps and planning to track progress, showing confidence in their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Tracking your progress with a journal or app is a fantastic method for staying accountable and seeing the impact on your motivation. Noting your reflections could provide valuable insights into how these activities are influencing your perspective on your studies. As you embark on this journey, remember that taking small steps consistently can lead to meaningful change. Keep embracing your hopefulness, and know that every effort counts. If ever you need to reassess your plan or seek more support, don't hesitate to reach out. You're doing a great job, and I'm here to support you along the way!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for the encouragement! I'll give this plan a try and see how it goes. I'll definitely reach out if I need any help or adjustments along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation covered a summary of goals, coping strategies, and a next-step plan, achieving termination goals. The client is ready to attempt their plan and reach out if needed, suggesting closure is appropriate.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Recommend gap semester?\nShould I take a gap semester?  Hey everyone, I am currently at community college trying to transfer as an Aerospace engineering major. I was taking a summer math course until I had a health emergency come up and it took me out of my class. Ever since then, I feel like I haven’t been myself. I’ve noticed that the things I used to be so passionate about are fading away and I don’t know why. I was taken out of my rhythm and it’s hard to get back on track.  Classes start next week, and I don’t feel ready at all. I have the pressure from my parents and my little sister who will be going to college after this year. I am feeling a bit lost and I was wondering thoughts on taking a gap semester. I feel like I need to be outside more, get into better shape and try to regain my passion for the things I loved. I started kickboxing and I’m loving it, I also have a job as a barista so I’m working trying to get a dirt bike and a new computer. Overall, I really want to be in college but I feel I need a small break. Thank you. :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "10kf81x",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! I'm glad you're here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've been thinking a lot about my PhD and whether it's the right fit for me, considering I'm not super passionate about the research itself. I'm more interested in seeing how my work can be applied rather than just focusing on basic science.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You find yourself questioning your PhD path because you're drawn to the practical applications of your work rather than just the research itself. How does that make you feel about your current studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It makes me feel a bit conflicted, to be honest. While I enjoy the challenges, I'm not sure if I'm fully committed to spending years on something that doesn't align perfectly with my interests.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling torn between enjoying the challenges but questioning the long-term commitment to something that doesn't fully match your interests. What aspects of your work do you find most fulfilling right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I really enjoy problem-solving and the technical skills I'm developing. Working through complex issues and learning new techniques is rewarding, even if the specific subject isn't my passion.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns and motivations about their PhD path, as well as feelings of conflict regarding their interests. The client's goals and values are partially understood, but further exploration could solidify understanding and build deeper rapport before strengthening motivation for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your enjoyment of problem-solving and skill development shines through, even if the subject itself isn't your passion. What originally drew you to this field, and how do you envision using these skills in a way that aligns more with your interests?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I was initially drawn to this field because of its potential to tackle challenging problems and make an impact, especially in industry settings. I envision using the skills I'm acquiring to work on projects that have a direct, practical impact—like developing technologies or solutions that address real-world issues.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited, including their thoughts and feelings about their PhD path. The context, like their preference for applied work and future industry plans, is clear. Empathy and rapport are evident. Goals regarding reconciling their interests with their current path are mutually appearing. This is a natural transition to guiding the client towards motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like having a direct, practical impact with your work is important to you. How do you see your current path bridging towards those industry settings and impactful projects in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I see this path as a stepping stone, really. The skills and experience I'm gaining will hopefully open doors to roles in industry where I can contribute to meaningful projects. I just need to keep reminding myself of the bigger picture.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "You're really focusing on how your current path can be a valuable stepping stone toward roles that align more with your desire to make a practical impact. What might increase your confidence in making this transition from where you are now to where you want to be in the industry?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I think gaining more exposure to industry-related projects or internships could help boost my confidence. Networking with professionals already in the field might also give me insight into how to leverage what I'm learning now for future opportunities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Engaging with industry-related projects and networking can certainly provide valuable insights and boost your confidence. On a scale of 0 to 10, how confident do you feel about taking these steps to connect your current experiences with future opportunities in the industry?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm at about a 6 right now. I know there's potential, but I'm still a bit unsure about how to go about it and whether I'll be able to make the connections I need.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, outlining a specific change goal of gaining industry exposure, and self-rated confidence at 6. Ambivalence decreased as the client sees the PhD as a stepping stone. Despite these positive signals, further guidance on detailed steps and addressing uncertainty could be beneficial.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your confidence level of 6 shows that you're aware of the potential and the steps you need to take, even if some uncertainty remains. What do you think could help raise your confidence from a 6 to a higher number, perhaps closer to where you'd feel more assured about bridging this gap?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think having a clearer plan or roadmap would help, like knowing exactly what skills or experiences I should focus on next. Maybe also getting advice from mentors or people who've made similar transitions successfully would make me feel more assured.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is demonstrating Change Talk, expressing a specific goal of gaining industry experience, and has a clear idea of steps (networking, internships) to increase confidence. Their confidence rating is at 6, suggesting readiness to develop concrete action plans. The client has reduced ambivalence by focusing on the steps needed for transition, indicating readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Creating a clear plan and seeking advice from mentors who've made similar transitions can indeed offer reassurance. Based on what you've shared, possible options include identifying specific skills to develop next or reaching out to potential mentors. How might you want to start creating this roadmap?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "I guess starting with identifying the skills that are most valued in the industry would be a good step. I could also make a list of potential mentors or industry professionals to reach out to for advice. Just getting some guidance on what to prioritize could make figuring out this path a lot easier.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Those sound like solid first steps to creating your roadmap. Identifying key skills and listing potential mentors can provide clarity. What goal would you like to set for your next step in this process, and how do you plan to approach potential mentors for guidance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I think a good goal would be to research and pinpoint three key skills that are in demand for the roles I'm interested in, then reach out to at least two industry professionals or mentors for advice on how to develop those skills. I'll probably start by sending a polite email or LinkedIn message to introduce myself and explain my interest in learning from their experiences.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a detailed and achievable goal. Pinpointing in-demand skills and reaching out to mentors can really pave the way forward. How do you anticipate managing any potential challenges that might arise, like not receiving responses or finding it difficult to identify those key skills?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "I think not getting responses is something I'll have to prepare for, so I'll try not to take it personally and keep reaching out to different people. As for identifying key skills, I might start by looking at job postings for roles I'm interested in to see what qualifications and skills they list. That should give me a clearer idea of what's important.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and actionable steps to research key skills and reach out to mentors. Potential barriers, such as lack of responses, have been anticipated with strategies in place. The client's commitment and proactive planning indicate readiness to advance beyond the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Planning to keep reaching out, even if you don’t receive a response at first, shows resilience. Looking at job postings is a practical strategy to identify key skills needed in the industry. By setting these steps in motion, you're making great progress toward your goals. Your initiative in researching skills and connecting with industry professionals is commendable. Moving forward, you can start by listing your three key skills and drafting your initial messages to potential mentors. Remember, each small step counts, and I'm here to support you as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks for the encouragement, it means a lot. I'll start working on this and let you know how it goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have effectively summarized goals, steps, and strategies for industry transition. A plan has been discussed, and the client is prepared to take actionable steps, indicating readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does it matter that I'm not passionate about my research?\nI decided to do a PhD because I wanted a job that would align with my desire to work on impactful, interesting, and challenging problems. \n\nBut at the end of the day, that's about as far as it goes. I have no intention of making my work my life. I intend to go into industry after finishing. A PhD was what I thought was a necessary step to get me where I want to be. \n\nFor reference, I'm in my first year. I enjoy the lab I joined but I've found that they largely work on basic science research whereas I'd prefer a nice balance between application and basic science with a heavier emphasis on application.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

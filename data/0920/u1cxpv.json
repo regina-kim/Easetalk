@@ -1,0 +1,272 @@
+{
+  "id": "u1cxpv",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today? I'm here to listen to your story and understand a bit more about what's going on for you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for meeting with me. I'm just trying to figure out if starting therapy now, with grad school coming up, is a good idea. I'm worried about balancing it all and if therapy might be too much on top of everything else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "The thought of balancing grad school and therapy seems overwhelming for you, especially with everything on your plate. It's understandable to feel cautious about adding more to your schedule. What are some of the things you're hoping to get out of therapy during this time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it does feel like a lot to juggle. But I'm really hoping to work on my self-esteem and social anxiety. I want to feel more confident and comfortable in new situations, especially since I'll be in a completely new environment soon.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're looking to boost your self-esteem and manage social anxiety so you can feel more confident in new environments, like grad school. It makes sense to want support as you navigate these changes. What past experiences have you had with self-esteem or anxiety that might help us understand your journey a bit better?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Well, I've always been pretty shy and unsure of myself, even in familiar settings. It's just gotten more noticeable now that I'm on the verge of stepping into something totally new and challenging. Past experiences usually involve me avoiding social situations because I'm afraid of being judged or messing up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about balancing therapy with grad school, including their self-esteem and social anxiety struggles. The therapist has shown empathy, understanding, and has gathered relevant background on the client's past experiences. The goals of the exploring phase have been met, making this a suitable point to transition to the guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling shy and unsure, especially when facing something new and challenging, like grad school, can be tough. You've identified a pattern of avoiding situations to dodge judgment or the fear of making mistakes. How do you imagine your life might change if you felt more self-assured and less anxious in these situations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I felt more self-assured and less anxious, I think I'd be more open to meeting new people and trying new things without constantly worrying about what others think. It'd be nice to focus on enjoying the experience rather than stressing over every interaction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Picturing a life where you can meet new people and embrace new experiences sounds liberating and enjoyable. It seems like reducing anxiety could open doors to a richer grad school experience. On a scale of 0 to 10, how confident do you feel about making these changes and embracing a more self-assured version of yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Hmm, honestly, I'd say I'm at about a 4 right now. I know it's something I want to work on, but I guess I'm still a bit unsure about how to get there and if I can really make that shift happen.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Starting at a 4 shows you’re acknowledging the desire for change, which is already a meaningful step. Imagine moving up just one point; what small changes or supports might help increase your confidence and make that shift feel more attainable?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Moving up to a 5 might mean starting to push myself a bit out of my comfort zone, like maybe speaking up more in group settings. It could also help to have some strategies to manage the anxiety when it pops up, so it doesn't feel so overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is aware of the benefits of reducing anxiety and sees a positive outcome, but confidence is at 4. There's some Change Talk about small steps, yet no specific change goal or action plan. Confidence is below 6, indicating the client is not quite ready to move to Choosing; more work in Guiding is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Taking small steps like speaking up more and having strategies to manage anxiety can definitely support your journey. You’re considering practical ways to build confidence, which is encouraging. What values or personal strengths can you draw upon to help motivate these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Well, I’m pretty determined once I set my mind to something, and I genuinely care about connecting with others, even if it scares me a bit. I think tapping into that determination and reminding myself why it's important could be motivating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some Change Talk, expressed specific changes they aspire to, and identified practical steps and values for motivation. However, their confidence is only at a 4, indicating the need for further exploration of strategies before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your determination and desire to connect with others are powerful motivators. Reminding yourself why these changes matter can really help you push through the discomfort. How do you see these strengths helping you take that next step toward feeling more self-assured?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think leaning into my determination can help me take those small risks, like engaging more in conversations, even when it feels awkward. Remembering how much I value connection might give me that extra push to not shy away when opportunities arise.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identified a specific change goal (increasing confidence), and considered practical steps. However, confidence is still low (4/10), indicating ambivalence. Further exploration may strengthen motivation or identify additional supports needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Embracing your determination and valuing connection can indeed serve as strong guiding lights. By focusing on these strengths, you might find the courage to engage more freely in conversations and seize opportunities, even when they feel a bit awkward. How does it feel to consider these strengths as allies on your journey to becoming more self-assured?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): It actually feels kind of reassuring to think of them as allies. Like, having these parts of me that can back me up when I’m doubting myself is comforting. It makes the idea of facing social situations a little less daunting, because I know I'm not starting from scratch.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown an understanding of their behavior and expressed a desire for change, yet their confidence in making changes is low. They acknowledge small steps forward and identify personal strengths, but specific change goals are not yet clear. Their confidence is below the threshold needed to advance. The conversation has explored their values and possible changes, but further exploration could enhance readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Recognizing those strengths as allies gives you a built-in support system, which can make facing those challenging social situations less intimidating. How might acknowledging this inner support change the way you approach opportunities to connect with others moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think acknowledging this inner support might make me more willing to take the plunge and try connecting with others, even if it's just small steps at first. It feels like having a safety net, so maybe I won't be as scared to put myself out there and see what happens.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client hasn't fully resolved ambivalence or established a specific change goal. Their confidence level is low (4), and further exploration of barriers and motivations is needed to strengthen readiness. They have identified some strengths but haven't clearly articulated a plan or specific change steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Seeing your strengths as a safety net can be incredibly empowering and might make each step feel more manageable. Even small steps forward can lead to meaningful connections and growth. What would it look like to take one of those small steps in the near future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I guess a small step could be initiating a conversation with someone in my class or even just participating more during discussions. Maybe trying to ask questions or share my thoughts, even if it's just once per class, could be a good start.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk, expressed a specific change goal (initiating conversations in class), and confidence appears to be increasing. The client also reflected on personal strengths and how they can serve as allies. There is a clear commitment to small steps toward change, indicating a readiness to move forward to action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Initiating conversations or participating more in class discussions sound like great first steps. It shows you're ready to engage and connect more with others. Based on our conversation, potential options for moving forward could include setting a goal to speak at least once in each class or planning to ask a question during discussions. What barriers do you anticipate, and how might your strengths help you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I think the biggest barrier would be my anxiety kicking in and making me overthink everything. But maybe if I remind myself of my determination and that it's okay to feel a bit awkward, I can push through it. It’s about taking that leap and not letting the fear of messing up stop me from trying.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Therapist: Understanding how anxiety might cause you to overthink is crucial, and using your determination as a reminder can help you push through those moments. To support your goal of speaking up in class, you might consider preparing a question or two in advance to ease some pressure. How do you feel about setting a specific goal for when you'll initiate these small steps, and what strategies will you use to monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "Client: Setting a specific goal sounds like a good plan; I think aiming to speak up in each class at least once a week could be a manageable start. As for strategies, I could keep a small journal or notes on my phone to track each time I participate, which might help me see my progress and keep me motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Therapist: Setting a goal to speak up at least once a week in each class is a fantastic start. Keeping a journal or notes on your phone to track your progress gives you a clear way to see your growth and stay motivated. How do you feel about checking in on your progress after a couple of weeks to reflect on what's working well and any adjustments you might need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Client: Yeah, I think checking in after a couple of weeks sounds good. It’ll give me some time to see how things are going and adjust if needed. Plus, it'll be nice to have a chance to talk about what's working and what needs tweaking.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to speak up in class once a week and plans to self-monitor progress through journaling. They have discussed potential barriers and strategies to overcome them. The client has expressed readiness to check progress and adjust if necessary, showing commitment to change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Therapist: Giving yourself time to adjust and reflect on your progress is a wise approach. Checking in after a couple of weeks will provide a great opportunity to celebrate what's working well and explore areas for improvement. Remember, each step you take, no matter how small, brings you closer to feeling more comfortable and connected. I'm here to support you, so please feel free to reach out anytime you need encouragement or guidance. Keep embracing your determination, and take pride in each stride forward. You're doing great, and I'm excited to hear about your experiences when we catch up next.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Client: Thanks, I really appreciate that. I’ll try to keep making those little steps and see where they take me. Looking forward to catching up and sharing how it’s going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals, strategies, and a plan for progress, and the therapist has highlighted these supports and encouraged follow-up, indicating readiness for session closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Would starting therapy when I start grad school be a bad idea?\nFor context, I'm joining my top choice this Fall (in the US). For the last year or so, I've been really feeling that I need to go to therapy. I have an extremely low self esteem, social anxiety and I've just been stressed over the smallest of things which manifests itself as irritation and general unpleasantness. The reason I haven't gone yet is that I live at home and I share my room with a younger sibling. There's no way for me to get privacy without asking for it and I don't want my parents to know about this. My mom kinda understands but my dad doesn't really get it and has been very apprehensive. I know that if I insist, he won't stop me but I don't want to have to deal with the awkwardness considering that they would know everytime I go for a session since I'd have to kick my younger sibling out of the room. I'd rather do it privately and handle this on my own before involving my parents. \n\nI've been at home since the pandemic began and I've been itching to move out which is why I'm very grateful for grad school. I'd like to start therapy as soon as possible since I worry about my ability to function as an adult in a new setting when I'm struggling with every human interaction. My only concern is that I'm sure therapy will be taxing (mentally and emotionally) and grad school will be taxing in so many ways. Would it be a good idea to do start both at the same time or should I wait some more? Are my assumptions that therapy would be too distracting correct?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

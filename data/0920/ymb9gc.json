@@ -1,0 +1,314 @@
+{
+  "id": "ymb9gc",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Honestly, I'm really struggling with my thesis and it's just draining every ounce of motivation I have left.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You're feeling overwhelmed by the demands of your thesis, and it's affecting your motivation. What about the thesis do you find most challenging right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's just that the topic doesn't interest me at all, and it feels like I've wasted so much time on something I'm not passionate about. Every time I try to work on it, I just feel stuck and frustrated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like there's a lack of passion for your topic, which makes the process feel frustrating and unfulfilling. Can you tell me a bit more about how you chose this topic and what your experience has been so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Well, I didn't really choose it, my advisor did, and I just went along with it because it seemed like a good idea at the time. But now, after 3.5 years, I'm realizing it's not what I wanted to do at all, and I feel trapped by it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed the core of their concern: a lack of passion for their thesis topic, feelings of entrapment, and a sense of wasted time. Empathy and rapport seem established with mutual understanding of the issue. Exploring goals appear to be met, making it appropriate to move to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like you're feeling trapped by a decision that wasn't fully your own, and it's weighing heavily on you. If things were different and you could work on a topic you're passionate about, what would that experience look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I'd feel a lot more excited and motivated. I'd probably be looking forward to the research and writing, and maybe even feel proud of what I'm doing. It would be nice to actually care about the results and see the value in my work.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining that enthusiasm and pride in your work sounds like a fulfilling experience. How might pursuing a topic you're passionate about align with your long-term goals or values, and what would that mean for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): If I could do work that excites me, it would probably align better with the career path I'm aiming for and feel more meaningful. It would mean finally having something to show for my efforts that I'm proud of and not just something I did to get through.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Pursuing a topic that excites you seems to really connect with your career aspirations and personal fulfillment. On a scale of 0 to 10, how confident do you feel about finding ways to incorporate more passion into your current work, even if it means making some adjustments?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, probably around a 3 right now. It feels like there's not much room to change things at this point, given how close I am to the deadline, so it's hard to see how I could make the project more interesting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing a high level of frustration and disinterest in their current project. Although they have envisioned life with more passion-driven work, confidence in making changes is low (3). Ambivalence remains high, and specific change goals have not been established. The guiding phase needs to continue to reduce ambivalence and explore feasible steps.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit stuck with the current situation and uncertain about making changes. What small steps or adjustments do you think could help increase your interest or motivation, even if it feels challenging right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe trying to find some angle within the project that relates more to my interests, or setting small goals to make the work feel a bit more manageable. But honestly, even thinking about small changes feels a bit overwhelming at the moment.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a strong lack of motivation and confidence (rated as 3) in making changes due to feeling trapped by the project and its imminent deadline. While potential small adjustments were discussed, the client feels overwhelmed and unable to visualize meaningful change. Thus, continuing in the Guiding phase is necessary to further explore options and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Acknowledging that feeling of overwhelm is important. What might be some small, manageable steps you could take that align with your interests and help lessen that feeling of being overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "I guess I could start by breaking the work into smaller chunks and tackling one at a time, instead of looking at it as one huge overwhelming task. Maybe I could also identify parts of the project that can be tied back to something I care about, just to make it feel a bit more connected to my interests.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed significant ambivalence and a lack of confidence (rated at 3) in making changes. Although some small steps were identified, the client feels overwhelmed and trapped. Change Talk is present but not strong enough to indicate readiness. The guiding phase should continue to further explore options and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Breaking the work into smaller, more manageable pieces and finding connections to your interests sounds like a promising approach. In what ways do you think these steps might impact your motivation or feelings towards the project?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think breaking it down could help me feel less overwhelmed and more in control, which might make it easier to get started on the work. Finding a connection to my interests could just make the whole thing feel a bit less soul-crushing, even if it's just in small ways.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing significant ambivalence and overwhelm, with confidence low at 3. While small steps were discussed, the client remains uncertain about implementing changes. More guidance on increasing confidence and reducing overwhelm is needed before moving to planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Recognizing that sense of control and connection seems like it could really make a difference in your motivation. How do you see these adjustments influencing your overall experience and outlook on the project as you move forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think they might help me approach the project with a bit more positivity, or at least make it feel a bit more bearable. It might not make me love the project, but it could definitely help me get through it without feeling so defeated all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a low confidence rating of 3 and continues to exhibit significant ambivalence about completing the project, despite identifying some possible steps to reframe their experience. Change Talk is present but not yet strong or specific enough to indicate readiness for action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Shifting towards a more positive outlook, even with small changes, seems promising for your experience with the project. What do you think could support you in continuing to find and focus on these connections as you progress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Maybe setting aside some regular time to remind myself why I'm doing this and how it fits into the bigger picture of my goals. Also, talking to others who might offer a different perspective or remind me of the end goal could help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some Change Talk by identifying small steps to make the project manageable and aligning it with personal interests. However, confidence is low at 3, and feelings of overwhelm persist. More exploration of confidence building and ambivalence reduction is needed to strengthen motivation before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "therapist(guiding): Setting regular reminders about your goals and seeking perspectives from others sound like supportive strategies. How might these steps contribute to maintaining your motivation and a sense of purpose as you move forward with the project?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): Regular reminders could help keep me focused on the long-term benefits and why it's worth pushing through. Talking to others might provide encouragement and new insights, making the process feel a bit less isolating and more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to break down the project and connect it to personal interests, showing progress in addressing their concern. However, they express feelings of overwhelm and uncertainty about implementing these changes. Additional exploration and support to reinforce confidence may be beneficial before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Recognizing how these steps can keep you focused and connected to your goals seems like it could be really valuable. How does it feel to think about incorporating regular reminders and conversations with others as part of your approach to this project?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(reflecting): It feels a bit reassuring, like I'm not completely stuck in this on my own. Having those reminders and conversations could give me some much-needed perspective and encouragement, which sounds like it could make a big difference in how I'm feeling about everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps and strategies to stay motivated, such as breaking tasks into smaller chunks and finding connections to interests. They have expressed increased positivity and a sense of control, indicating readiness for action planning. Change Talk is present, and ambivalence has decreased, signaling readiness to progress.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "It sounds reassuring to consider these supportive strategies, making the project feel more manageable and less isolating. Based on our conversation, possible next steps include setting regular reminders about your goals and scheduling time to connect with others for encouragement and fresh insights. What specific actions would you like to take to start implementing these strategies, and how might we track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "client(reflecting): I think I'll start by setting a reminder on my phone every morning to think about my long-term goals and how this project fits into them. I'll also try to schedule a weekly coffee chat with a friend or classmate to talk about our projects and share some encouragement. We could track my progress by checking in during our sessions to see how these actions are influencing my feelings toward the project.",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Scheduling daily reminders and weekly chats sounds like a proactive plan to stay connected to your goals and find support. How do you feel about setting these reminders, and what steps might you take to ensure the weekly chats happen regularly?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "client(choosing): client(reflecting): Setting the reminders feels like a practical step that I can easily handle, so I'm feeling good about that part. For the weekly chats, I'll reach out to a couple of friends and see who might be up for a regular meet-up. I'll probably set up a recurring event in our calendars to make sure we stick to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Reaching out to friends for regular meet-ups and setting reminders both sound like great ways to maintain focus and support. How do you think having these consistent check-ins might impact your overall experience with the project in the coming weeks?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "client(choosing): client(reflecting): I think having regular check-ins will help me feel more grounded and less alone in this process. It might make the project feel less overwhelming, and I could start to feel more motivated knowing I have a support system to rely on.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to set daily reminders and schedule weekly chats, addressing barriers by reaching out to friends and setting calendar events. They express confidence and commitment to these steps, indicating readiness to proceed beyond the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Feeling more grounded and supported can definitely lighten the load and boost your motivation. Setting up reminders and regular check-ins with friends are wonderful steps toward making your project feel more manageable. As you move forward, remember to give yourself credit for these proactive steps and notice the positive shifts in how you feel about the project. We can revisit how these actions are impacting your experience in our upcoming sessions, ensuring you stay on track. Keep up the great work—you're making thoughtful and encouraging strides.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate your support and guidance. I'll work on getting those reminders and meet-ups going, and I'll let you know how it all goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan with reminders and supportive meet-ups, showing progress toward managing the project's stress. The session concludes with encouragement, meeting termination goals. Closure was adequately invited by reflecting on steps and feelings.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you get through a project that removes your will to live?\nI've been working on the project my advisor assigned me for 3.5 years now. I'm finally at the point where I can get my masters from it, but my will to live is basically gone. It's not the work I came to grad school to do, it doesn't get at any of the things I wanted to study in grad school, and it's taken 70% of my grad school career that I can't get back, and I don't even make enough money to buy something that can distract me from how miserable I am. I have 1 month to get the thesis finished, and every time I open it I just start crying. I'm not even sure it's worth it anymore and I don't know what to do. I want something to show for my time in grad school but I just hate this work so much. I don't want to interpret the stats, I don't care about the results, just hearing the project topic makes me want to take my laptop and smash it into little tiny pieces.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

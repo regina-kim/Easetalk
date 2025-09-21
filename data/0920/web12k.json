@@ -1,0 +1,188 @@
+{
+  "id": "web12k",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! Welcome. What brings you here today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. Lately, I've been trying to figure out my academic path and feeling pretty overwhelmed about whether I should focus on a specific area in my undergrad or just go for a general degree and aim for grad school. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating academic choices can feel daunting, especially with so many options ahead. What aspects of each path are weighing on your mind the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I'm mostly worried about the time and money it'll take to get a BS with a concentration. I'm also wondering how it'll affect my job prospects later on, especially since a lot of geology jobs seem to require a master's anyway.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Considering the financial and time investment makes a lot of sense, and I can see how job prospects would weigh heavily on your mind. What other thoughts or feelings come up when you consider these options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I feel like I'm playing catch-up since I didn't take school seriously at first, so there's this pressure to make the \"right\" decision now. It's a bit stressful, and sometimes I worry about whether I'm on the right path at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern regarding academic decisions, provided context about their past and current situation, and discussed their feelings of stress and pressure. The therapist has shown empathy and understanding. However, more exploration of the client's motivations and values would be beneficial before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling the pressure to make the \"right\" decision can definitely add to the stress, especially with the sense of catching up from before. What kind of support or information do you think could help ease some of this pressure as you explore your options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I think talking to people who've been through a similar situation would help, like students or professionals in the field. Getting some guidance from them might give me a better idea of what to expect. Also, having a clearer understanding of the career paths available with each degree could help me feel more confident in my choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the core of their concerns and feelings about their academic path. They've identified specific worries, recognized the pressure they feel, and mentioned potential support systems. The client's goals and needs have been clearly articulated, allowing for a natural shift to enhancing motivation and Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Connecting with others who have faced similar decisions could provide valuable insight. In considering those conversations and seeking clarity on career paths, what are some questions or topics you'd like to explore with them to help build your confidence in making this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I'd want to know about their experiences with the different degree paths and how those choices impacted their careers. I'd also ask about what skills or knowledge have been most valuable in their jobs, and if there's anything they wish they had done differently during their studies. Understanding how their decisions played out in real-world situations would be really helpful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Hearing personal experiences, especially about career impacts and valuable skills, can indeed offer a clearer picture. What do you think you'd discover about yourself or your goals by having these conversations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "I think I'd get a better sense of what I truly want from my career and education. Maybe I'll discover if I'm more drawn to pursuing something specialized or if a broader path with flexibility suits me better. Plus, understanding their journeys might reassure me that there's no single \"right\" way to go about this.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring what truly resonates with you and recognizing there's no single \"right\" path can be reassuring. How do these thoughts align with where you see yourself in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): It makes me realize that I don't have to have everything figured out right now and that my path can evolve as I learn more. I see myself working in a field related to water, maybe something that involves both science and communication, like environmental consulting or research. Knowing that there are multiple ways to get there takes some pressure off, which is nice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client demonstrates change talk, expressing a sense of direction and motivation, and has identified a specific career interest related to water. Conversations revealed insights into aligning personal goals with educational choices. Although some ambivalence remains, the client appreciates the flexibility of their path and feels less pressure. The development of specific goals for conversations with others indicates progress towards readiness for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "In thinking about your interest in working with water in roles like environmental consulting or research, what specific steps might you consider taking now to move toward that goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I guess I could start by reaching out to professionals or professors in those areas to network and learn more about what they do. Maybe I could also look into internships or volunteer opportunities related to water or environmental work to gain some hands-on experience and see what I really enjoy. Also, continuing to keep up with my studies and staying informed about the field would probably help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Building connections through networking, exploring internships, and staying informed are valuable steps. Considering these options, which step do you feel most ready to take first, and how might you approach it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I think I'm most ready to start reaching out to people in the field. I could email a few professors or professionals and ask if they'd be open to a chat about their careers and experiences. I'll also look into any upcoming events or workshops where I might have a chance to meet people and learn more.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Reaching out to professionals and attending events are excellent steps to start with. What might help you stay motivated and organized as you begin this networking journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): Keeping a list of people I want to contact and setting small goals, like reaching out to one person a week, might keep me on track. Staying curious and reminding myself that each conversation is a chance to learn something new could help maintain my motivation. Plus, seeing progress over time should be encouraging.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps—networking and seeking internships—to pursue their goal of working in water-related fields. They have a clear plan for self-monitoring by setting small goals and maintaining motivation. Discussions on barriers and commitment to initial steps suggest readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Setting small, achievable goals and keeping track of your progress is a great strategy to stay organized and motivated. Each conversation is a step forward, bringing you closer to your career aspirations. Remember, it's perfectly alright to take things at your own pace and celebrate each piece of new insight you gain. As you embark on this path, keep in mind that your curiosity and enthusiasm are powerful drivers. You’re already showing great initiative by planning to reach out and engage with others in your field of interest.\n\nMoving forward, consider setting a specific day each week dedicated to making these connections, and perhaps reflect on what you learn after each interaction. This can help reinforce your motivation and keep your momentum going. Remember, you're not alone in this journey—there’s support available to you. I'm here if you need guidance or encouragement along the way. Keep embracing those opportunities to learn and grow. You're doing wonderfully.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll try setting aside a day for this and see how it goes. I appreciate your support—I feel better knowing I have someone to check in with if I need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation covered summarizing the client's exploration of goals, potential steps, and coping strategies. A next-step plan was discussed, and the client expressed satisfaction, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Asking for perspective (BS with concentration vs just BS General, then go for masters)\nHey guys. I don't post on anything, but I kinda wanted to ask a large amount of people something so that I could get insight. \n\nFirst, to explain my situation.  I did not take schooling seriously at first, just sorta wasted time at the library since no one would question what I did there (eat junk food and binge youtube haha). But now I've shaped up, and found something I'm really interested in and passionate about, Geology. My favorite focus is water.\n\nAt my school, they offer a General Geology Degree that requires a minor(I've been going for a Creative Writing Minor and that's going perfectly). They also offer a Professional Geology Degree that can focus on Geology or Hydrogeology(what I like).\n\nMy main question is, is it worth it to pay more and spend more time in undergrad to get a BS with a concentration or just getting the BS without the concentration, and go for grad school?\n\nI just started taking my schooling seriously and will have a sit down with a Geology advisor (since I haven't really used these services since I was dumb af) later, but wanted to get random strangers opinions just in case someone brings up something I didn't know.\n\nAdditionally, how will it look when I'm looking for a job? In Geology, most jobs require a masters, so getting a BS with concentration doesn't seem with it, and I should just go to grad school and pursue a masters in something like that(Hydrogeology, Hydraulic Engineering, etc. I like water a lot haha)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

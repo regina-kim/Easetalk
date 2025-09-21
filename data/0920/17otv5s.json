@@ -1,0 +1,272 @@
+{
+  "id": "17otv5s",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, I guess. Just feeling a bit overwhelmed with everything going on right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be tough to feel overwhelmed, especially when there's a lot happening at once. What's been on your mind lately that's contributing to this feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, I'm really torn about what to do with my current classes since I'm switching programs. Plus, with my mom being so sick, everything just feels too much to handle right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing school and family can feel really challenging, especially with your mom's illness adding to the stress. Could you share more about the decision you're facing with your classes and how it's impacting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Honestly, I just feel like finishing the semester is pointless since I'm leaving the program. But at the same time, I feel guilty about quitting when I'm so close to the end. It's just difficult to focus on school with everything else going on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has detailed their main concern regarding the dilemma of continuing or withdrawing from their program, along with feelings of overwhelm due to their mother's illness. The client's story, thoughts, and feelings have been effectively elicited, and there is a good level of empathy and rapport established. Thus, the goals of the Exploring phase have been met.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the value of seeing your classes through against the stress of your current situation. How do you envision your life might change if you made a decision one way or the other?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I withdraw, I could focus more on taking care of my mom and preparing for the MPH program. But if I push through, I might feel a sense of accomplishment even though it feels pretty overwhelming right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Choosing between withdrawing and pushing through both have significant impacts on your life and priorities. What matters most to you when you think about your goals and how each option might align with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client: I think right now, taking care of my mom and being mentally ready for the MPH program are my top priorities. But I also don't want to feel like I've given up on something, even if it's not what I want to do anymore.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You're really focusing on what's most important to you: your mom and preparing for the MPH program. Balancing that desire with not wanting to feel like you're giving up is quite a challenge. Considering your priorities, how confident do you feel, on a scale of 0 to 10, about making a decision that aligns with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm at about a 5. I know what my priorities are, but making a decision that feels right and doesn't leave me with regrets is tough. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear priorities, such as caring for their mom and preparing for the MPH program, but still feels uncertain about making a decision, with confidence rated at 5. Change Talk is present, and a specific focus on priorities is evident, but ambivalence remains. Continued focus on guiding is needed to increase confidence and reduce ambivalence to move toward a specific change decision.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It sounds like you're in the middle of quite a dilemma, working hard to find a decision that sits well with you. What might help you move that confidence number from a 5 to a higher level, so you feel more at peace with your choice?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think talking it over with someone who's been through something similar could help, or maybe hearing some advice from my professors on what they've seen other students do in situations like this. Just getting some outside perspectives might make me feel more confident about my decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is still expressing ambivalence and has a confidence level of 5. Although change talk is present, a clear change goal or next step hasn't been identified. The client seeks external perspectives to build confidence. The guiding phase should continue to further explore these aspects and support the client in developing a more specific plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Connecting with others who have faced similar decisions or getting insights from your professors sounds like a thoughtful way to gather perspectives. What steps might you take to reach out to them and gather the advice you’re seeking?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I guess I could start by emailing my professors to explain the situation and ask for their input. Then, I could see if there are any student groups or forums where I could connect with others who've gone through something similar. Just taking those steps might help me feel less stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of their priorities and acknowledged the impacts of both options. They have identified steps to increase confidence and reduce ambivalence, but their confidence level is still at 5. Despite having Change Talk and a potential goal, the client's confidence is below the threshold for readiness.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "You've identified some proactive steps that could offer valuable insights and support. Reaching out to your professors and connecting with others who have faced similar challenges could provide the clarity you're looking for. How do you feel about taking these steps, and what might help you get started?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, I feel a little anxious about reaching out, but I know it's something I need to do. Maybe if I set aside some time this week to draft those emails and start looking for groups, it'll make the task less daunting. I think just starting small could help ease some of that anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified top priorities, has considered the impact of both options, and has outlined specific action steps to gather input from others. However, the client's confidence is at 5, indicating a need for further support and exploration. The client is still grappling with ambivalence, suggesting continuation in the Guiding phase to further solidify decision confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Taking small steps seems like a wise approach to manage that anxiety while moving forward. Setting aside specific time this week to draft emails and explore groups sounds like a practical plan. What do you think might motivate you to take that initial step, even when feeling anxious?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think reminding myself why I'm doing this in the first place could be a good motivator. It's all about prioritizing my mom's health and preparing for the MPH program, and those are important to me. Plus, knowing that taking these steps could bring some clarity to my decision might push me to get started.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear priorities and potential steps to gather information and support, but confidence is still at 5. They're experiencing ambivalence and anxiety about taking action, with no specific change goal set yet. Staying in the Guiding phase will allow further exploration of confidence and motivation, reducing ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Focusing on your priorities and the potential for gaining clarity sounds like a strong motivator. Keeping your reasons at the forefront could really help propel you forward. How does it feel to know that you're taking action aligned with what truly matters to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): It feels reassuring to know that I'm working towards what truly matters. Even though I'm anxious, there's some comfort in knowing that these steps could lead to a decision that aligns with my goals and priorities. It's a bit like taking control of the situation, even when everything feels uncertain.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to resolve their dilemma and expressed motivation linked to personal values. While confidence is currently at 5, proactive strategies have been discussed to increase it and address ambivalence. Change Talk is evident, focusing on values and priorities. The client shows readiness to proceed with action steps, signaling a potential transition to Choosing.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "It seems like you're finding some peace in taking intentional steps toward your goals and values, even amidst uncertainty. Considering the actions you’ve discussed—emailing professors and connecting with peers—what’s one small, specific goal you can set for yourself this week to start moving forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "Maybe I can set a goal to draft the emails to my professors by Wednesday and find one online forum or group by Friday. Breaking it down like this makes it seem more manageable and less overwhelming. I just need to commit to these small actions.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "Those sound like clear, manageable goals that align with your priorities. By planning to draft the emails by Wednesday and find a forum by Friday, you're creating a path forward. What potential barriers do you anticipate, and how might you navigate them to stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I think a big barrier might be my own procrastination, especially if I'm feeling overwhelmed. I might also get discouraged if I don't find a group right away. To combat that, I could set specific times to work on these tasks and remind myself that it's okay if things don't happen perfectly. Just making progress is key.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Setting specific times for these tasks and focusing on progress, not perfection, are excellent strategies. It's commendable that you're already considering ways to navigate potential barriers like procrastination and discouragement. How would you like to monitor your progress, and what support might be helpful for you along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): I think keeping a simple checklist or journal could help me track my progress. Checking things off might give me a small sense of accomplishment. As for support, maybe just updating a friend on my plans so they can encourage me or hold me accountable would be helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with manageable goals and discussed potential barriers, including procrastination and discouragement. They have also identified a self-monitoring strategy through checklists and journal updates, and sought support by informing a friend. This indicates readiness to move forward with action steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Using a checklist or journal to track your progress is a great idea, as it can offer a tangible sense of accomplishment and keep you motivated. Enlisting a friend's support for encouragement and accountability sounds like a positive step too. Your plan to draft emails by Wednesday and find a group by Friday sets a clear path forward. Keep reminding yourself of the importance of prioritizing your mom's health and your preparation for the MPH program. You're taking significant steps toward what truly matters, and that's something to be proud of. Remember, progress over perfection, and you're definitely on the right track. Looking forward to seeing how things unfold for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thank you, that really means a lot. I'll do my best to stick to my plan and keep moving forward, even if it's just a little bit at a time. I'll update you on how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarizes goals, coping strategies, and sets a clear next-step plan. The client feels reassured, has identified potential barriers, and established a support system. This provides a natural closure to the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I withdraw from my classes?\nLong story short... \n\nI am currently enrolled in a MSW program, but will not be pursuing it any longer. I'm starting an MPH program in the Spring at a different school. \n\nThere are only about 5 weeks of the semester left (this was my first semester), and I'm exhausted. My mom has been critically sick, and I've gotten really behind in some of my classes. I could email professors and probably get extensions, but I'm ready to drop out. I never plan on going back to the MSW program and I lack any motivation to finish. Although, I could push through.  \n\nMy gut instinct is to just withdraw, but my first thought is not always my best. :) \n\nWhat would you do if you were me? ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

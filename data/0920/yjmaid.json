@@ -1,0 +1,188 @@
+{
+  "id": "yjmaid",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to meet you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Nice to meet you too. I just wanted to chat about starting college a bit later than usual and how that’s been making me feel anxious and a bit out of place.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college at a different time can be overwhelming and bring up a mix of feelings. What has your experience been like so far with this transition?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, honestly, it's been a bit nerve-wracking. I keep thinking about how everyone else is younger and maybe more in tune with the whole college vibe, and that just makes me feel out of the loop.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit disconnected because of the age difference and the pressure to fit in. What aspects of college life have been most challenging for you so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess it's the idea of making friends and fitting in socially. Like, will I relate to the younger students or will it feel awkward? Also, the thought of balancing studies with everything else feels a bit daunting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about starting college later, including anxiety, feeling out of place, and social challenges. The therapist has shown empathy and understanding, and the client has expressed specific feelings and aspects of their situation. The essence of the client's story is clear, fulfilling the goals of Exploring.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be tough when you feel different from your peers and balancing everything seems overwhelming. What do you imagine life would be like if you found ways to connect with others and manage your studies effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I could connect with others and get a handle on studying, I think I'd feel much more at ease. I'd be excited about the college experience instead of anxious, and it'd be great to have a support system to lean on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a supportive network and feeling confident in your studies seems really important to you. What strengths do you have that might help you build those connections and manage your studies better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I’d say I’m pretty open-minded and good at listening, which I think can help with making friends. As for studies, I've always been pretty organized when I set my mind to it, so I guess I can use that to keep on track with classes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your open-mindedness and listening skills are wonderful assets for creating meaningful connections, and your organizational skills can certainly help you thrive academically. How do you see these strengths aligning with the goals you have for your college experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Well, I think using my open-mindedness to meet different people could help me find friends who share common interests. And with my organizational skills, I could plan my schedule to balance classes, studying, and socializing without getting overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by envisioning a positive college experience with connections and academic success. They have identified strengths that align with their goals. However, no specific change goal or next step has been set, and confidence levels haven't been explicitly mentioned.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your approach to using open-mindedness to build friendships and organizational skills to manage your time is really thoughtful. On a scale from 0 to 10, how confident do you feel in your ability to put these strengths into action to enhance your college experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I'd say maybe around a 6 or 7. I'm feeling a bit more optimistic now, but there's still some nervousness about actually putting myself out there and making it all work.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific goals to use open-mindedness and organizational skills to enhance their college experience. They showed optimism with a confidence level of 6 to 7. There's a decrease in ambivalence, and change talk is evident, indicating readiness for the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your optimism and awareness of some nervousness is a great starting point. Let's explore how you might turn that 6 or 7 into a 9 or 10. What specific steps could you take to connect with others and use your organizational skills in the coming weeks?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Well, I could start by joining a club or two that align with my interests. That might be an easy way to meet people. As for organization, maybe setting up a weekly schedule with dedicated time for studying, social activities, and some downtime might help me feel more in control.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Joining clubs sounds like a great way to meet people with shared interests, and creating a weekly schedule can really help you balance everything. Based on what you've mentioned, possible options include researching clubs you’re interested in and drafting a sample weekly schedule. How do you feel about starting with these steps, and what might be some challenges you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about starting with those steps. It seems manageable and a solid way to ease into things. The challenges might be staying committed to the schedule and not getting too shy or anxious about joining clubs and meeting new people.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Therapist(choosing): It's great that you're feeling positive about those initial steps. Staying committed and managing shyness are common concerns, but your openness and organization can be valuable tools here. Perhaps setting small, realistic goals each week could help you stay on track and gradually build your confidence. Would you like to brainstorm ways to keep yourself motivated and manage any nervousness that comes up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, I think that could really help. Maybe having some kind of reward system for sticking to the schedule or even keeping a journal to track how I'm feeling could be useful for staying motivated. It might also be nice to have a friend or someone to check in with regularly about how things are going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan: joining clubs and creating a weekly schedule. They have discussed barriers, like commitment and shyness, and suggested strategies for self-monitoring, such as a reward system and journaling. The client shows confidence and readiness to start these steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Creating a reward system and tracking your feelings in a journal can really boost motivation, and having regular check-ins with someone you trust could provide extra encouragement and support. It's wonderful that you're considering these supportive strategies. Moving forward, why don’t we start with setting up your first check-in and maybe drafting a simple plan for your reward system? Remember, small steps can lead to big changes. Keep trusting your instincts and be kind to yourself as you navigate this new journey. You're setting up a strong foundation, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I’ll start thinking about who I can check in with and what rewards might keep me motivated. I’m a bit nervous about sticking to it, but I’ll give it a shot.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear summary of goals and coping strategies, and a next-step plan was discussed. The client shows readiness to move forward with implementing these steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Starting college at 22/23\nHi ya'll, due to a number of obstacles in the past few years, I haven't gone to college at a 'normal' age. I think I'm ready to do it, but I feel so behind and weird about starting as an older student (22F). It's weird for me to start when most people are finishing up. I'm already accepted at my local community college and can enroll anytime, but I'm really anxious about it. How common is it for students to start later in life? Thanks!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}
