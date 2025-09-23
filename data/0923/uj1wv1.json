@@ -1,0 +1,167 @@
+{
+  "id": "uj1wv1",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I guess I’m just feeling overwhelmed with everything going on in school and trying to manage my mental health at the same time. It’s like I can’t find a balance. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and mental health can certainly feel overwhelming. What aspects of school are adding to your stress right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Definitely the workload and trying to keep up with all my classes. Plus, the pressure to maintain good grades for med school is super stressful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The pressure to keep your grades up for med school sounds intense and can certainly add to your stress. How does managing this workload affect your mental health?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It makes everything feel so much heavier, you know? Like, the anxiety just ramps up, and I find it hard to focus or get motivated. It’s like a cycle I can’t break out of.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feeling overwhelmed by school and mental health, with specific stressors including workload and pressure for good grades. Their struggles with anxiety and depression in college are clearly affecting their academic performance and dreams of med school. The therapist has built empathy and rapport by understanding these pressures and their effects on the client's mental health. There's a clear understanding of the client's feelings and thoughts, indicating readiness to explore motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That cycle sounds really challenging to manage. When you think about finding a balance between school and mental health, what would that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I think it would mean having some sort of routine or plan that lets me get my work done without feeling totally drained. Maybe finding ways to manage stress better so I don’t feel like I’m constantly drowning.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Creating a routine that helps you manage stress without feeling drained sounds like a positive direction. What small changes or steps do you think might be feasible to start moving towards that kind of balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess maybe starting with setting specific times for studying and breaks could help. Also, trying to prioritize tasks instead of attempting to tackle everything at once might make it feel less overwhelming. Maybe even just finding time for things I enjoy could help with the stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having specific times for studying and taking breaks, along with prioritizing tasks, sounds like a great approach to easing some of the overwhelm. How do your values and goals align with taking these steps towards balance and stress management?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I really value doing well in school because I want to get into med school, but I also know that taking care of my mental health is crucial if I want to succeed in the long run. Finding that balance is important to me because I don’t want to burn out before even getting to my goal.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific change steps, such as setting study times, taking breaks, and task prioritization, indicating readiness to move forward. The client acknowledges the alignment between their values in achieving academic success and maintaining mental health. Change Talk is evident, and the client's focus has shifted towards actionable steps. It appears the goals of the Guiding phase have been met, and it is appropriate to transition to the Choosing phase to develop concrete action plans. The exploration of values and goals, and the elicitation of potential strategies, effectively supported the client's motivation to manage both academics and mental health.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It’s great to hear that you recognize the importance of balancing both your academic goals and mental health. Considering your values, setting a goal to create a structured routine might be a beneficial next step. What do you think about starting with setting specific study and break times for the upcoming week? We can also consider options for prioritizing tasks or scheduling enjoyable activities. What possible barriers do you anticipate, and how might we address them together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "The idea of starting with a structured routine sounds really helpful, but I worry about sticking to it. I’ve tried planning things out before and ended up just feeling guilty when I didn’t follow through. Maybe we could talk about some strategies to stay motivated or adjust the plan if it doesn’t go as expected?",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "That's an insightful observation, and it's understandable to have concerns about sticking to a routine. It might be helpful to think of the plan as flexible, allowing you to adjust as needed without feeling guilty. We could explore strategies like setting small, achievable goals to maintain motivation or using reminders to keep you on track. What do you think about starting with one or two specific activities for the next week and checking in on how they feel? If barriers arise, we can brainstorm adjustments together.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I like the idea of starting small and keeping things flexible. Maybe I could pick just one or two tasks to focus on each day and see how that goes. I think setting reminders could definitely help me stay on track, too. Let's try it out and see what happens!",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought approach. Picking one or two tasks each day and using reminders provides a manageable way to start. Let's plan to check in on how this goes, and we can adjust if needed. What specific activities would you like to prioritize this week, and how will you remind yourself to stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think I’ll focus on setting aside time for my biology reading and doing practice problems for chemistry. Those are the two classes that stress me out the most right now. I could set reminders on my phone for those times, just to keep me accountable. Let’s see how that works out this week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified actionable goals and a clear plan: focusing on biology reading and chemistry practice problems, while using phone reminders for accountability. Barriers like maintaining motivation and flexibility in the routine have been discussed, and the client is open to adjusting the plan if needed. The client shows commitment by actively planning and taking steps, which signals readiness to move forward. An OARS feedback: The discussion effectively established a concrete plan and addressed potential barriers, but future sessions could further explore emotional support strategies alongside practical planning.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It’s wonderful that you’re pinpointing specific areas like biology reading and chemistry practice problems to prioritize. Setting phone reminders sounds like a practical way to keep you accountable. As you try this out, remember it's okay to adjust if things don't go perfectly. Checking in with yourself about how this plan feels will be key to making it work for you. Let's plan to revisit how this week goes and discuss any adjustments that might be helpful. You're taking an important step in finding that balance, and I'm here to support you through it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I’ll give this a shot and see how it feels. I'll let you know how it goes next week!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific activities to prioritize and a strategy to maintain accountability, alongside a flexible approach to obstacles. A plan for next steps is in place, and support has been affirmed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you get through college while dealing with mental illness?\nJust looking for advice/tips/anything. \nI been struggling with depression and stuff since high school, and now since starting college I’ve had pretty bad anxiety, too. I also just have a couple other issues. \n\nIt all really gets in the way of doing good in school, even though I’m on meds and found a therapist, I’m just constantly struggling. \n\nI want to go to med school so bad but I genuinely think I won’t be able to because it’s so hard for me to keep my grades up and do even decent in all my classes. I hate the thought of having to give up my dream because of this.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

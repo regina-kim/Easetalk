@@ -1,0 +1,188 @@
+{
+  "id": "10feoil",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I’m doing okay, just a bit stressed out. I've been trying to figure out which lab to join for my thesis, and it's been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a stressful decision to make. What are some of the factors that you're considering in choosing a lab for your thesis?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I'm really into the research at one lab, but the environment isn't the best. The other lab has a great vibe and a supportive PI, but the research doesn't excite me at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing those factors seems really challenging. You feel torn because one lab offers fascinating research, but you're concerned about the environment, while the other provides a supportive atmosphere, yet lacks that research excitement. What do you think is most important for you in this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, I think the research itself is super important because that's what I'll be working on for years. But then again, having a supportive environment would make the whole experience way more enjoyable. It's just hard to weigh them against each other.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated detailed thoughts and feelings about their lab decision dilemma, balancing a passion for research with the importance of environment and mentorship. The conversation has explored their concerns and context deeply. It appears that mutually agreed goals and rapport have been established, making it appropriate to transition to the Guiding phase where motivation and Change Talk can be evoked.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Choosing between compelling research and a supportive environment can indeed feel overwhelming. Reflecting on your values might help—consider what you hope to gain from this experience both professionally and personally. Perhaps thinking about where you see yourself in the future could also give some clarity. On a scale from 0 to 10, how confident do you feel about making this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I’d say maybe a 4 or a 5. I’ve got some idea of what I want, but the uncertainty about how things will actually play out makes it tough to feel confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Navigating uncertainty can be really tough. You're leaning towards the research aspect, yet you value a supportive environment. As you explore these thoughts, what might tip the scale towards a higher confidence level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I think talking to more grad students who are in similar situations or who have been through this decision before might help. Maybe getting a better feel for what the day-to-day is like in each lab could make things clearer for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Connecting with others who have faced similar choices sounds like a great step. Gaining insights from their experiences could provide clarity and increase your confidence. As you consider this, what do you hope to discover or learn from these conversations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I’m hoping to get a sense of how the work-life balance is in each lab, and how happy people are with their choices. Hearing about their struggles and what they would have done differently might give me a better perspective on what I should prioritize.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of their conflict between the research interest and the lab environment, indicating some discrepancy between their values and current situation. They have identified a potential action step, which is discussing with other grad students to gain further insights, although their confidence is moderate at 4-5. There is presence of change talk, but the client's ambivalence is still noticeable, as they are not yet entirely ready to make a decision. It would be beneficial to continue exploring their values and potential outcomes in greater depth before advancing to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): It makes sense to seek firsthand insights into work-life balance and personal satisfaction from others in similar positions. Learning about their experiences and choices could highlight aspects you haven't considered yet. What might you discover that would help you feel more certain about your path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I might discover that the lab environment and mentorship play a bigger role in overall satisfaction than I initially thought, or maybe I'll hear that following your research passion is worth the challenges. Getting those insights could help me weigh the pros and cons more realistically.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear specific change goal of speaking with other grad students to gain clarity, demonstrating Change Talk. They acknowledged their ambivalence and identified that discussions with peers could increase their confidence. The client is contemplating their priorities and the impact of the lab environment and mentorship on satisfaction. Although confidence is currently below 6, there is a path forward through gathering more information. Moving to the Choosing phase will allow the client to establish an action plan for connecting with peers and preparing for potential outcomes. OARS feedback: Reflective listening and open questions helped the client explore their values and consider new strategies to increase confidence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Building on those insights could indeed provide valuable perspective. As you consider speaking with current or former grad students, what steps could you take to ensure you gather the information you need for a well-informed decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think I should make a list of questions to ask them, like about their daily routines, how much support they get, and if they're happy with their choice. Maybe I can also reach out to alumni who have been in both types of labs to see how that shaped their careers. I'll probably set up some informal chats or coffee meetings with them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a proactive plan. Creating a list of targeted questions and reaching out to both current students and alumni can offer you a comprehensive view. Based on what you've shared, potential next steps could include scheduling those informal chats or coffee meetings and preparing your list of questions. What do you foresee as potential challenges in setting these conversations up, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I guess finding the time to meet with everyone could be tricky, and not everyone might be available or willing to chat. I might need to be flexible with my schedule and maybe even consider reaching out through email if in-person meetings aren't possible. I'll have to be persistent but polite in my follow-ups.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your flexibility and persistence sound like great assets in overcoming these challenges. It seems like you’re prepared to adapt to any scheduling conflicts and even consider alternate communication methods like email. As you move forward, how would you like to keep track of your progress and insights gained from these conversations?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I could start a journal or maybe just a simple document on my laptop where I jot down the key points from each conversation. That way, I can easily compare different perspectives and refer back to them when I'm making my decision. I’ll try to do a quick review after each chat to keep everything fresh in my mind.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly outlined an action plan to gather information from current students and alumni, identified potential barriers, and proposed strategies to overcome them. They have also agreed to self-monitor their progress through a journal or document. The client has expressed readiness and confidence by discussing flexibility and persistence in setting up meetings. These elements indicate they are prepared to proceed to implementing and reviewing their plan. OARS feedback: The conversation effectively explored the client’s concerns and built a solid action plan. Continue affirming their proactive approach while guiding them to reflect on their gathered insights.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Your plan to document the insights from each conversation is an excellent strategy. By tracking key points and comparing perspectives, you’ll have a clearer picture when the time comes to make your decision. Reviewing your notes after each chat will definitely help keep the information fresh and organized. You’ve set a solid foundation for moving forward. As you continue this journey, remember that each step you take brings you closer to clarity and confidence in your choice. Feel free to reach out if you need any support or if you'd like to reflect on your findings together. You're doing a fantastic job!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll definitely keep that in mind and reach out if I need more guidance. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a comprehensive plan to gather insights, identified potential challenges, and devised strategies for documentation and review. The session effectively concluded with achievements summarized and next steps clearly outlined.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help me decide on a lab!\nSo I have two labs, A and B. Our program (bio) makes us rotate prior to choosing our thesis lab. \nI’m really, really passionate about A’s research. A is a really good lab, PI has tons of funding, great connections, great facility, awards, etc. I rotated with A, told me to go rotate with C as well since they collaborate on the project I want to join. A is also really competitive to get into, so I agreed to rotate with C in a few weeks, even though it’s an engineering lab which I’m not into at ALL, but thought maybe it’ll help me understand A’s research better. Now I learn that if I join I might need to do a comentoring situation with both A and C which I’m really not into since I don’t want to get into biomedical engineering. Theoretically I could ask to stay solely in A if I don’t end up liking C when I rotate, but I’m not sure if that’ll seem odd since I agreed to rotating with C and if it will lower my chances of getting into A. Also, I’m not really a fan of the lab environment in A, it hasn’t been super welcoming from the other grad students, but the PI is a good mentor. I won’t get a lot of guidance since she wants independence, but I feel like it will be hard but make me a “better scientist.” Also, the PI will be retiring when the grant that I’m joining will finish, so theoretically we would be leaving at the same time, which I’m not sure if that’s a problem. \n\nOn the other hand, B is a good lab, has a great lab culture, I enjoy the methods used, really sweet PI that I feel comfortable asking questions to. BUT I’m not into the overall research topic at all, and really don’t want to be stuck in that field, and when I think about research I’m SO much more into A’s research. \n\nTLDR: Which lab should I join? The lab that checks all the boxes but I don’t like the research, or the one I really like the research, but has a lot of other problems",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

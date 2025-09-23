@@ -1,0 +1,167 @@
+{
+  "id": "sml4oj",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today? Is there anything on your mind that you'd like to share or discuss?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Honestly, I'm feeling pretty overwhelmed. Just trying to juggle everything with school, sports, and work has been tough, and I feel like I'm constantly running on empty.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a lot on your plate right now, and it's leaving you feeling drained. What part of your schedule feels the most challenging for you at the moment?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's probably the lack of sleep that's hitting me hardest. Between late nights studying and early mornings for training, I'm not getting enough rest.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing late nights and early mornings seems to be taking a toll on you. What do you think makes it difficult to get the sleep you need?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think it's a mix of everything piling up—like assignments, practice, and then work shifts. Plus, when I finally try to sleep, my mind just won't shut off because I'm stressing about what I’ll have to tackle next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their story, including their thoughts and feelings about being overwhelmed, the impact of inadequate sleep, and the stress of balancing responsibilities. They expressed a need for advice and support, indicating readiness to explore motivation for change. Rapport seems established with mutual understanding of current struggles. Moving forward can help to focus on enhancing motivation and eliciting Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like everything is blending into one big cycle of stress and fatigue. How do you envision your life being different if sleep was more manageable for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I could just get more sleep, I feel like I'd be more focused and less stressed. Maybe I'd actually have the energy to handle everything without feeling like I'm always about to crash.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It must be tough feeling like you're always on the edge of exhaustion. If you had more focus and energy, what might change in how you approach your day-to-day activities?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think I'd be able to plan and tackle my tasks more efficiently, like getting assignments done earlier. Maybe I'd even have time for things I enjoy, instead of everything just being about survival mode.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having more time for enjoyment sounds like a wonderful change. What small step do you think could help you move toward having that extra energy and focus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess trying to set a more consistent bedtime might be a start, even if it's just a little earlier. Maybe I could also find ways to unwind before bed, so my mind isn’t racing as much.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear change goal of setting a more consistent bedtime and finding ways to unwind before bed, indicating a motivation towards change. The conversation has effectively explored the discrepancy between current behavior and desired outcomes, with the client acknowledging the potential benefits of increased sleep. Change Talk is evident, and the client has shown a proactive step towards considering specific actions. Given these factors, advancing to the Choosing phase is appropriate to collaboratively refine and strategize the action plan. OARS feedback: The client responded well to reflections that connected their values with the benefits of change, which can be further leveraged in the next phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Establishing a consistent bedtime and unwinding before bed sound like promising steps. Would you like to explore some specific options for a relaxing bedtime routine or ways to support that earlier bedtime? We can also think about any potential challenges you might face with this new plan and how you might navigate them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds good. I could definitely use some ideas on how to wind down properly, and I’m sure there will be some bumps in trying to go to bed earlier with everything going on.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Based on what you've shared, possible options might include activities like reading, listening to calming music, or practicing mindfulness exercises before bed. How do these ideas resonate with you? We can also discuss strategies for handling any challenges, such as a busy schedule or racing thoughts, that might arise as you try to go to bed earlier.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "Client(choosing): Those sound like good ways to wind down. I think maybe listening to calming music could help me relax. As for challenges, yeah, my busy schedule and racing thoughts are big hurdles, so any strategies for dealing with those would be super helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Listening to calming music before bed sounds like a soothing choice. To manage your busy schedule and racing thoughts, perhaps setting a specific timeframe for winding down could create a clearer boundary between your day and night. How does this approach feel to you? We can also think about how you might handle nights when your mind is particularly active or your schedule is packed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Client(choosing): Setting a specific time to start winding down sounds like a good idea. It might help me mentally switch gears. I'm definitely interested in ideas for those nights when my thoughts are all over the place or when I get stuck with a packed schedule.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal to establish a consistent bedtime and unwind before bed, with specific actions like listening to calming music, and is open to setting a specific timeframe for winding down. Barriers such as a busy schedule and racing thoughts have been discussed, and strategies are being considered. The client shows interest in implementing these changes and acknowledges potential challenges. This demonstrates readiness to advance to the Terminating phase, focusing on maintaining and refining these strategies. Continue reinforcing the client's strengths and adaptability as they implement their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a practical approach—creating a boundary with a specific wind-down time can indeed help your mind switch gears. For those busy or restless nights, you could try writing down your thoughts to clear your mind or a short breathing exercise to calm your nerves. Would you like to give these ideas a try and see how they feel? Remember, this is a journey, and being kind to yourself is important. You've shown a lot of insight and determination today, and I'm confident that these steps will support your goal for better sleep. As you experiment with these strategies, we can continue to refine and adjust them together in our future sessions.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Yeah, I think I'll give those a shot. It’ll be interesting to see how they work out for me. Thanks for the support and ideas, and I’ll let you know how it goes next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps to improve sleep, such as setting a bedtime and using calming music. Strategies for challenges were discussed, and the client expressed readiness to try them. Future adjustments can be made as needed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice for busy full time students?\n\nI urgently would love tips that worked for you. Sleep tips/ study tips/common college programs for these/ etc..\nFull time student athlete who works here. I’m literally getting 4 hours of sleep avg. Been getting less recently.  Sometimes because of these there are labs that you can work on for straight 12 hours for 3 days and not be enough, and at times because I’m so stressed that I can’t fall asleep. Told few of my professors about this and their replies were to just manage my time well and “study ahead of time” like I’m not already studying here till 6am with my current classes. I totally would love to study ahead of time if humans didn’t need sleep and function well. Wish more professors cared sometimes. Professor who care thank you for understanding .\nSo any tips/advice would be greatly appreciated.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

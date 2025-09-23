@@ -1,0 +1,188 @@
+{
+  "id": "wp3y8g",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? Is there something on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm okay, just kind of stressed about this whole honors program thing. I'm not sure if it's something I should go for or if it's just gonna add more stress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing opportunities with potential stress can be challenging. What are some things that make you feel uncertain about committing to the honors program?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess I'm worried about the extra workload and if it'll be too much with everything else I'm doing. Plus, I'm not totally sure what the benefits are or if it's worth the effort.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the potential stress against the unclear benefits of the honors program. What are some of the commitments you currently have that make you concerned about managing additional responsibilities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, I've got classes, a part-time job, and some clubs I'm really invested in. I'm just not sure if I can handle piling on more, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive view of their concerns, including uncertainty about the workload and benefits of the honors program, and their current commitments. The client's thoughts and feelings have been explored, and there's a clear understanding of their dilemma. Empathy and rapport appear to be established, and a shared focus on evaluating the honors program decision is present. Moving to the Guiding phase to strengthen motivation and evoke Change Talk about prospective decisions and benefits seems appropriate. OARS feedback: Your reflections and open questions helped the client articulate their concerns, but ensure to affirm their ability to evaluate options effectively.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be tough to balance so many responsibilities. Considering the honors program, what would your ideal balance look like, and how might it align with your personal and academic goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think ideally I'd want to be challenged but not overwhelmed. If it helps me with grad school or internships, that'd be great, but I also want to make sure I still have time for the things I enjoy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Striking that balance between challenge and enjoyment is important. How do you think participating in the honors program might enhance or conflict with your long-term goals, like grad school or internships?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I feel like if it really boosts my chances for grad school or internships, it could be worth the extra effort. But if it's just busy work and doesn't add much to my resume, then maybe it's not the best use of my time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Considering the potential impact on your future, it sounds like you're focusing on whether the program will truly enhance your opportunities. On a scale from 0 to 10, how confident do you feel about making a decision that aligns with your goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, maybe like a 5 or 6? I feel pretty torn because it's hard to know if it'll really pay off in the end.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between the potential benefits of the honors program and their current commitments, aligning with their academic and personal goals. They've explored life with and without this change, articulated a key change goal (determining the program's true value), and reduced ambivalence by identifying specific benefits sought. However, confidence is rated at 5 or 6, indicating some lingering uncertainty. Therefore, it's advisable to continue guiding to further explore this ambivalence and reinforce confidence before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your uncertainty is quite understandable. It's a big decision, and being in the middle of the confidence scale reflects that complexity. What might help you move that confidence level up a notch or two, or what additional information do you feel you need?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think talking to someone who's been through the program could help, or maybe getting more details about what kind of projects or expectations there are. Just knowing more specifics would make it easier to decide.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to balance challenge with enjoyment and has identified the need for further information, which indicates readiness for planning specific actions. There is a clear discrepancy between the potential benefits of the honors program and the client's current commitments. Although the client's confidence is mid-range (5 or 6), they have identified actions to increase confidence, such as speaking with current program participants. With change talk present and a specific next step identified, it is appropriate to move to the Choosing phase. While guiding, exploring the client's uncertainty and values helped clarify potential benefits and align decisions with goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having more concrete information could certainly provide clarity. You mentioned talking to someone who's been through the program or getting more details on the expectations as potential next steps. Based on what you've said, possible options include reaching out to a current or former honors student for their insights or scheduling a meeting with a program advisor to discuss the specifics. How do these options resonate with you, and which one do you think would be the most helpful step forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "Talking to someone who's been through it sounds pretty useful because they can give me the real deal from their experience. Plus, meeting with an advisor could fill in any gaps they might not cover, so I think doing both would really help me out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It sounds like you have a solid plan to gather information from multiple perspectives, which is a great approach. To move forward, how do you envision reaching out to a former honors student and setting up a meeting with an advisor? What steps might you take to initiate these conversations effectively?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I could start by checking if there are any honors students in my network; maybe someone in a club or class knows someone. For the advisor, I guess I'd just email them to set up a meeting, right? Just gotta actually do it now.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those sound like proactive steps to gather the information you need. Reaching out through your network is a smart way to connect with someone who's been through the program, and emailing the advisor is a straightforward step to get the details you're looking for. How do you feel about setting a timeline for these actions, so you can keep the momentum going?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I think setting a timeline could be helpful so I don't keep putting it off. Maybe aim to contact someone by the end of this week and try to meet with an advisor sometime next week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear and actionable plan by deciding to talk to a former honors student and meet with an advisor. They have also proposed a timeline to initiate these steps, indicating commitment and confidence in their ability to proceed. Barriers like procrastination have been addressed with self-monitoring through setting a timeline. With these components in place, the client is prepared to move to the terminating phase. OARS feedback: The collaborative approach in developing a plan and addressing potential barriers worked well. Maintaining focus on self-monitoring strategies could enhance follow-through.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out timeline, giving you a manageable yet clear path forward. Reaching out by the end of this week and setting up a meeting next week gives you a structured approach to taking these steps without overwhelming yourself. As you work on these tasks, remember it's okay to take your time and make sure the decisions you make align with your goals and values. You've got a good plan, and embracing this momentum will surely help you gain the clarity you're seeking. Keep believing in your ability to navigate this decision-making process. You're doing a great job.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'm hoping this approach will make things clearer, and I'll try to stick with the timeline. I'll let you know how it goes next time we talk!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified actionable steps and a timeline to gather necessary information, addressing their initial uncertainty. A summary of goals, steps, and strategies has been discussed, meeting termination criteria. Reflecting on client engagement and planning will enhance future sessions.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Are college honors programs worth it?\nI got an invite to apply to it and I kind of want to but also it just seems like I’d be doing extra work. Should I do it? Are there any good benefits? Is the work overwhelming?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

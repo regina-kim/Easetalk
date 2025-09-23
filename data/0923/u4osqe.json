@@ -1,0 +1,293 @@
+{
+  "id": "u4osqe",
+  "subreddit": "GradSchool",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? I'm here to listen and understand more about what's been going on for you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I'm feeling pretty stressed and trapped, honestly. It feels like I'm stuck in a situation where I can't do anything right, no matter how hard I try.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling trapped and stressed sounds really overwhelming. Could you share a bit more about what's contributing to these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, it's mostly about this situation with my PhD advisor. I wanted to switch labs and thought everything was going fine, but now everything is falling apart, and I'm just feeling stuck.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds incredibly challenging, especially when you expected things to go smoothly. What's been happening with your PhD advisor and the lab switch that makes you feel like it's all falling apart?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It's like my current advisor is actively trying to sabotage my efforts. I thought I had the chance to move to another lab, but something went wrong after they talked to my current advisor, and now I'm back to square one.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed context about their situation, expressing feelings of being trapped and unsupported in their current lab environment. They have also described their relationship issues with both their current and prospective PIs. The therapist has demonstrated empathy and understanding, allowing the client to express their frustrations and concerns. With rapport established and the client's narrative clearly outlined, the conversation is ready to transition to the Guiding phase to focus on evoking Change Talk and exploring motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're facing a lot of frustration and feeling undermined by the situation. What changes do you think would help you feel less stuck in this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I feel like I need to find a way to switch labs without my current advisor interfering. It'd be nice to have some support from the department or someone who can mediate this without it turning into a bigger mess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding a supportive path through this sounds really important to you. What would be different for you if you could switch labs successfully with the right support in place?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): If I could switch labs successfully, I think I'd finally feel a sense of relief and freedom, like I could actually focus on my research and future without constantly looking over my shoulder. It'd be great to work with someone who supports my goals instead of blocking them.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having that sense of relief and freedom seems important for your well-being and success. On a scale from 0 to 10, how confident do you feel about finding that support and making the lab switch happen?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Right now, I'd say maybe a 3 or 4. I don't feel super confident because of what just happened, but I'm hoping there's still a chance to turn things around with the right help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing a strong sense of being trapped and has expressed a desire for change, specifically switching labs. While there is recognition of potential improvements with a successful switch, the client's confidence is low, as indicated by a rating of 3-4. Ambivalence persists with a focus on the advisor's interference rather than actionable steps. More work is needed to explore ways to increase confidence and develop a specific plan, including potential allies or advocates. Continuing in the guiding phase will better address these needs.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It sounds like there's a bit of hope amidst the setbacks, which is a great starting point. What small steps could you take to move that confidence to, say, a 5 or 6?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could talk to someone higher up in the department who might be able to help mediate or offer advice on how to handle this. I could also try reaching out to the new PI again, explaining my situation and seeing if there's any way to work this out with their support.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to switch labs with appropriate support and has identified talking to someone in the department as a potential step. A discrepancy between their current situation and their values of freedom and support has been established. However, their confidence is low, around 3 or 4, indicating lingering ambivalence. Further exploration is necessary to strengthen confidence and develop clearer steps before advancing to planning specific actions in the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Reaching out for guidance and support seems like a promising approach. How do you envision these conversations helping you feel more empowered to navigate this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think having someone from the department step in could help level the playing field, you know? It might make my current PI less likely to interfere. And if the new PI understands what I'm going through, maybe they'll be more open to helping me transition smoothly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a specific change goal: switching labs with departmental support. While exploring discrepancies and potential outcomes has occurred, the client's confidence remains low (3-4 on a scale) which suggests insufficient readiness to move to Choosing. Confidence boosting and reducing ambivalence should continue in Guiding to solidify the steps necessary for change. The client outlined possible small steps but needs further development of a concrete plan with improved confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "It sounds like having allies in your corner could really shift the dynamics in your favor. How would it feel to have that level of support as you work towards your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(exploring): It'd feel like a huge weight off my shoulders. I wouldn't feel so isolated and could finally concentrate on what I came here to do without the constant drama. Having support would just make everything seem a bit more possible.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear goal of switching labs and has identified steps to engage departmental support, indicating progress in resolving the discrepancy between their current situation and desired outcome. However, their confidence remains low, rated at 3-4, and they're experiencing significant ambivalence concerning their ability to enact these changes. Despite some presence of Change Talk, further exploration is needed to increase confidence and reduce ambivalence before developing specific action plans. Continuing in the Guiding phase will allow for deeper exploration and strengthening of motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Experiencing that support seems like it could truly change things for you. What values or goals are most important to you as you consider these next steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think my main goal is to work in a place that nurtures my research interests and supports my academic growth. I really value collaboration and mentorship, and I want to feel like I'm progressing towards my PhD without unnecessary obstacles.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated some Change Talk by expressing a desire for a supportive work environment and identifying steps they could take, such as seeking advice from department members and contacting the new PI. However, their confidence remains low at 3 or 4, indicating unresolved ambivalence. They have not yet established a specific change goal or next step with high confidence. Continuing in the Guiding phase will help further explore their motivations and increase their confidence towards taking action.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your desire for a supportive and nurturing environment aligns strongly with your ambitions. How might these values influence the way you approach reaching out to others for assistance with your lab switch?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Keeping those values in mind, I’d want to approach the conversation in a way that emphasizes my commitment to my research and how a supportive environment would help me achieve my goals. I’d try to communicate how important collaboration and mentorship are to me, and how this switch could benefit not just me, but the lab I’m hoping to join as well.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of moving to a supportive lab environment, essential for their academic growth, aligning with their values of collaboration and mentorship. Change Talk is present, as they have identified steps like consulting department heads and re-approaching the new PI. However, confidence is currently at 3 or 4, indicating low readiness for immediate action. While the client exhibits a shift toward addressing challenges, further confidence-building and reduction of ambivalence about their current situation are needed before developing specific action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "therapist(guiding): Highlighting your commitment and the mutual benefits sounds like a thoughtful approach. How does expressing these values and goals impact your confidence about reaching out for support?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(exploring): It makes me feel a bit more grounded and clear about what I want to convey. Instead of just focusing on the negative stuff with my current PI, I can put more emphasis on the positives of what I bring to the table and how this switch aligns with my aspirations. It feels like a more constructive way to approach things.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as reaching out to higher-ups and the new PI. They've articulated a clear discrepancy between their current situation and their values regarding collaboration and mentorship. The client's confidence has increased as they have begun to see a constructive way forward, focusing on positive outcomes rather than negative aspects. There is a decrease in ambivalence and sustain talk, with readiness signals such as specific goals and values-driven motivation being evident. It is appropriate to shift to the Choosing phase to develop concrete plans and strategies to overcome anticipated barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Thinking constructively about your aspirations and contributions seems to boost your confidence. As you consider these next steps, what specific actions would you like to take first, and how might you prepare for any challenges that could arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(planning): I think the first step should be reaching out to someone in the department who might mediate, maybe the department chair or a graduate advisor. I'll prepare by organizing my thoughts and maybe writing down key points about why the switch is important for my academic goals. For challenges, I’ll remind myself to stay calm and focused, even if things get tense or my current PI tries to interfere again.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Staying calm and focused sounds like a strong foundation for navigating this process. Based on what you shared, possible actions include drafting those key points for clarity and considering reaching out to the department chair or graduate advisor for support. How would you like to monitor your progress and ensure you're on track with these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(planning): I think checking in with myself regularly would help, maybe setting small goals to keep everything manageable. I could aim to draft my key points by a certain date and then plan when to contact the department chair. Keeping a journal might also help me process any emotions that come up, so I stay on track and don't get overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Keeping a journal and setting small, manageable goals could be great ways to stay organized and handle any emotions along the way. Based on this plan, some options might be setting specific dates for drafting your key points and reaching out to the department chair. How does this approach feel, and are there any other support systems or strategies you'd like to consider to help you through this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client(planning): It feels pretty solid, like I have a roadmap to follow instead of feeling lost in the situation. I think I'll also talk to some trusted friends or peers who might have been through similar situations for their insights. Having a support network outside of just the department could give me more perspective and maybe some encouragement when things get tough.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan involving reaching out to department officials and organizing thoughts, as well as self-monitoring strategies like setting small goals and keeping a journal. They have also considered potential barriers, such as interference from their current PI, and discussed ways to stay calm and focused. The plan feels solid to the client, and they have identified additional support systems like talking to trusted friends. These factors indicate the client is ready for action and self-monitoring. Moving to the terminating phase appears appropriate. OARS feedback: The client effectively identified steps to take and strategized on handling challenges, which shows preparedness to advance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Relying on your network of trusted friends and peers for insights seems like a wonderful way to gather support and different perspectives. You've laid out a thoughtful plan with key steps that include drafting your points and setting specific dates, alongside keeping a journal to manage emotions. This approach really seems to empower you with clarity and direction. Remember, your commitment to your values and goals is a significant strength throughout this journey. Keep leaning on those support systems you've identified, and give yourself credit for every step you take. Moving forward, feel free to reach out anytime you need additional support or encouragement. You've got this, and I'll be here cheering you on.",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll definitely keep those strategies in mind and reach out if I need more guidance. It's nice to feel like I'm not in this alone.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan with defined steps and coping strategies, along with a supportive network. The session summarized goals and next steps effectively, empowering the client to proceed confidently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice - PI Preventing Me From Changing Labs\nHi all! So I've been trying to change labs for a bit now. My relationship with my advisor has gone from bad to worse and the relationship can no longer be salvaged. For the past few months, my PI has repeated refused to support any accomplishment or research venture I had. The PI doesn't even fund any part of my PhD as I am a fellow in a dry lab with no resource costs. Even my conferences, poster printing, and publications I've had to pay for out of pocket. \n\nRecently, I began speaking to a new PI in my department about changing to their lab. They were initially supportive of it but just wanted to make sure things were cool with my current PI before I changed. I let my current PI know I was planning on changing labs and made the commitments to finish up all the pending work on a paper I was working on with them as a corresponding before leaving the lab. The current PI said they understood and supported the move. This was surprising but didn't think anything else of it. A few days past and now the new PI has pulled back their support after speaking to my current PI. I spoke to my current PI today and they sounded pleased with themselves regarding me not being able to leave. They gave me an ultimatum which drastically limits my dissertation if I wanted to stay in their lab after all of this. I'm sure the current PI (who is know for being petty and spiteful) meddled and prevented my change from going through. \n\nThe lab I was hoping to change into is the closest to what I'd like to do for my PhD at my school. My current PI has essentially put me being a rock and a hard place, making me chose between either continuing under them with major re-shifting of my dissertation, or leaving the program entirely. I don't know how I can possibly salvage the relationship with the other PI I wanted to change to in the hopes of changing to them still. It feels like I'm a prisoner of my PI. Any advice?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

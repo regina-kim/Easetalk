@@ -1,0 +1,251 @@
+{
+  "id": "s703ms",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Feel free to share anything that's on your mind, and we can explore it together.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling overwhelmed with my schedule and everything I've got going on. It's like I'm constantly running on fumes, and I'm not sure how to manage it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really exhausting, feeling like you have so much on your plate. What are some of the things that are taking up most of your time and energy right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's mostly my classes and the workload that comes with them. Plus, I have a job on the weekends, which makes it feel like there's no real break in sight.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing classes and work sounds incredibly demanding, leaving you with little time to recharge. How does managing both affect your daily life and how you feel overall?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It leaves me feeling pretty drained and constantly stressed. I don't really get the chance to relax or have time for myself, which is making everything feel harder.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated the essence of their story, including detailed context about their schedule, the demands of their classes and job, and the resulting stress and exhaustion. There is a clear understanding of the client's thoughts and feelings, and rapport has been developed. Given the depth of understanding achieved, it is appropriate to advance to the Guiding phase to begin exploring motivations for change. OARS feedback: The use of reflective listening has effectively captured the client's experience, while open questions have encouraged further elaboration, contributing to a comprehensive understanding of the client's situation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be really tough to feel constantly stressed and without downtime. How do you think things might change for you if you had more balance and time for self-care?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think I'd probably feel a lot more grounded and able to handle stuff better. Having time to just breathe and not think about work or school would be a game-changer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having that space to breathe really does sound like it would make a big difference. What small steps do you think you could take to start creating more balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I'm not even sure where to start with all this going on. Maybe trying to set some boundaries with my time, like taking short breaks for myself even if it's just for a few minutes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Setting boundaries and taking short breaks could be a great way to start finding that balance. How confident do you feel on a scale from 0 to 10 about giving yourself these moments amidst your busy schedule?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say I'm sitting at a 4 right now. It feels tough to imagine actually finding those moments, but I know it's important to try.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of the discrepancy between their current schedule and the need for balance and self-care. They have identified a potential small step of setting boundaries and taking short breaks but express low confidence in implementing this change with a confidence rating of 4. Ambivalence remains, and confidence needs to be bolstered before advancing to planning specific strategies. Continue guiding to explore underlying values, boost confidence, and address ambivalence. Further exploration of potential small actionable steps and confidence building would be beneficial before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Imagining those moments of self-care seems challenging right now, yet recognizing their importance is a strong start. What do you think might help boost your confidence from a 4 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Maybe finding small, realistic ways to actually fit it in might help, like setting reminders or trying to get a friend involved to keep each other accountable. Having some kind of plan might make it feel more doable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change, recognizing the benefits of more balance and self-care. They have identified initial steps to set boundaries and take short breaks, although their confidence is low at 4. There's emerging Change Talk about setting up reminders and accountability with a friend, signaling openness to planning. However, more exploration of specific strategies and boosting confidence is needed before advancing to planning. Continue encouraging the client to explore actionable steps and address barriers.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having a plan and support truly seems like it could make a big difference. Involving a friend and setting reminders could be great ways to make those small self-care moments more feasible. What values are most important to you that might motivate you to incorporate these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I really value my health and mental well-being, and I want to be able to do my best in school without feeling so burnt out. I guess knowing that taking care of myself could help me succeed in the long run is a big motivator.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current behavior and their valued goals of health and academic success. They’ve identified small steps like setting boundaries and involving friends for accountability, but their confidence level is still low at 4. Although there's a strong motivator in maintaining health and mental well-being, more work is needed to boost confidence and solidify a specific change plan. Continuing to explore and strengthen these initial ideas and confidence is essential before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Taking care of your health and mental well-being sounds like a powerful motivator, especially when it aligns with your goal to excel in school. How might focusing on these values influence your decisions about making time for self-care?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "It could remind me that taking breaks isn't just slacking off but actually helping me stay on track for my goals. Keeping those values in mind might push me to prioritize self-care, even when it feels like there's no time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific concern regarding stress and lack of self-care due to a demanding schedule. They expressed a desire for balance and acknowledged the importance of self-care for their success and well-being. Change Talk is present, as they are exploring boundary-setting and small steps for improvement. However, their confidence level is at 4, indicating ambivalence and a need for further exploration and support. It's crucial to deepen exploration of feasible actions and increase confidence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Keeping those values in focus can really shift your perspective on self-care, turning it into a crucial part of reaching your goals. What might be a small first step you feel ready to try this week to align with those values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client: I think I could start by setting a timer for a five-minute break every couple of hours when I'm studying. Even just getting up to stretch or take a breath outside might give me a little reset.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown progress in recognizing the importance of self-care and aligning it with their values of health and academic success. They have identified a specific change goal of setting a timer for breaks during study sessions and have explored ways to increase confidence, such as involving a friend. Although their confidence is currently at 4, the client has laid out actionable steps and understands the discrepancy between their current routine and desired state. It seems appropriate to move to the Choosing phase to develop a detailed plan to implement these changes and address barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Creating a routine of short breaks every couple of hours sounds like a practical and manageable first step. Do you think scheduling these breaks with reminders or involving your friend could support you in maintaining this new habit?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "Yeah, I think setting timers could help keep me on track, and having a friend involved could add some accountability. They could also remind me when I get too caught up in studying and forget to take breaks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "It sounds like involving your friend and setting timers could really support you in this effort. To move forward, would you like to create a simple plan where you set specific times for these breaks, and discuss with your friend how they can help keep you accountable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "Yeah, that sounds like a good idea. I think having set times could make it easier to stick with, and I’ll definitely talk to my friend about checking in with each other.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "therapist(choosing): Great, setting specific times for breaks might indeed help solidify this habit. How about we outline a plan together? You could decide on break times, maybe every two hours, and then figure out how often and in what way your friend might check in with you. Would that be helpful for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client: Sure, that sounds helpful. Maybe I could take a break every two hours when I'm studying in the evening, like at 7 and 9. I could ask my friend to text me around those times to make sure I'm taking the breaks.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan for incorporating self-care breaks into their study routine, involving setting specific break times and involving a friend for accountability. The client has demonstrated commitment by planning to discuss accountability with a friend and acknowledged the potential benefits of this approach. They have shown confidence in their ability to integrate these changes by identifying concrete steps and support mechanisms. Thus, the goals of the Choosing phase have been met, and the client seems ready to transition to the Terminating phase. OARS feedback: Reflecting on what worked well, the collaborative approach in developing a realistic plan and involving peer support was effective. Consider maintaining this collaborative element.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "It’s fantastic to see you creating a clear plan to incorporate breaks into your study routine. Setting those specific times at 7 and 9 pm for your breaks sounds really manageable and effective. Having your friend text you as a reminder adds a layer of support and accountability, which can be so helpful. Remember, these small steps are significant in maintaining your well-being and academic success. Keep focusing on your values of health and mental well-being to stay motivated. You’re doing great work here, and I'm confident you’ll feel the benefits soon. As we wrap up today, feel free to reach out anytime for more support or to share how things are going. Keep up the excellent work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, I appreciate your guidance. I'll definitely give this a try and see how it goes. I'll let you know if I need more support or if anything changes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a practical plan for integrating breaks into their study routine and enlisted support from a friend, aligning with their health and well-being goals. The session concluded effectively with actionable steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: It’s fine, sleeps overrated\nMy classes Monday- Thursday start at 8 am end at 6pm. With one 2 hour break for hw and study. Calculus, Chem, Assembly, Accounting, Chem lab, and a supply chain management course this semester. \n\nLooking at the syllabus with due dates for homework amount of tests and quizzes and everything else outside of self study is going to suck especially since I have to wake up at 5:30 each day. So assuming I’ll end up in bed by 12:30am and it takes me 1-2 hours to sleep I’ll average 3-4 hours a night with weekends being third shift physically intensive job 11-12 hours a shift to cover expenses. \n\nBut you know it’s not like sleep is needed to function fml.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

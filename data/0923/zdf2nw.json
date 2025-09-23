@@ -1,0 +1,167 @@
+{
+  "id": "zdf2nw",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's nice to have you here. What would you like to share with me today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I'm just feeling really lost and lonely lately... I used to have a good group of friends, but now it feels like everyone is drifting away and I can’t figure out why.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really difficult, feeling lost and lonely. You're wondering why your friends seem to be drifting away. Can you tell me more about what’s been going on?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just been weird because everything started off great, but now it's like everyone is forming their own groups and leaving me out. It's affecting how I feel about everything, even studying.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be tough to feel left out and see your friends forming groups without you. It sounds like this situation is impacting you across different areas of your life, including your studies. What's been the most challenging aspect for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, the hardest part is feeling like I'm doing something wrong, like maybe it's my fault. And this constant worry makes it really hard to focus on anything else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed feelings of loneliness and self-doubt, describing a shift in friendships and its effects on their academic focus. The therapist has successfully explored the client's emotions and the context of their challenges, building rapport and understanding. The client feels unsure about their role in the situation, indicating readiness to explore motivations for change. Moving to the Guiding phase will help the client identify and articulate Change Talk, addressing self-perceptions and motivations.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling like you're doing something wrong and worrying about it must be incredibly difficult, especially when it's affecting your focus on other things. I'm curious, what do you think your life might look like if you felt more connected with your friends again?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I felt more connected, I'd probably feel happier and more relaxed. I think I'd have more motivation to study and just enjoy university life more, instead of overthinking everything so much.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Reconnecting with your friends could bring a sense of happiness and relaxation that might boost your motivation and enjoyment in life. What small steps do you think might help you start to feel more connected with them again?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): That's a good question. Maybe I could start by reaching out to a couple of them to hang out more, like grabbing coffee or something casual. I guess just trying to be more involved without feeling too pushy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking those steps to reach out sounds like a wonderful idea. It shows a willingness to rebuild those connections and be more involved. How confident do you feel about trying this approach on a scale of 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I’d say maybe around a 6 or 7. I’m a bit nervous about it, but I think it could be worth it if it helps me feel better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current feelings of loneliness and their desire for happiness and connection, which aligns with their values. They have explored potential changes and identified a specific step to reconnect with friends, demonstrating motivation. The client has expressed a confidence level of 6-7, indicating readiness to proceed with a plan. Change talk is present, and ambivalence appears reduced. The guiding phase effectively addressed discrepancies and evoked motivation, setting the stage for the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your willingness to reach out shows real courage and self-awareness. Given your confidence level, let's explore some options for how you might go about this. You could decide on specific friends you feel most comfortable starting with or choose a regular day for these meet-ups. Which of these or other ideas do you think could work best for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with specific friends I feel more comfortable with is a good idea. Maybe I could text a couple of them and see if they’re free this week. Picking a regular day could also help keep things consistent, so I might give that a try too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a regular plan with friends you feel comfortable with sounds promising. Reaching out via text and setting a consistent day for meet-ups could provide you with a sense of stability. Are there any potential challenges you foresee with this approach, and how might you navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Well, I guess there's always that chance they might not respond or say they're too busy, and that could be discouraging. But I guess if that happens, I could try not to take it personally and maybe focus on finding other activities or groups on campus where I could meet new people.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It’s great that you're thinking about not taking it personally if things don’t go as planned. Exploring new activities or groups on campus is a wonderful backup plan. Would you like to set a specific goal for when you'll reach out to your friends and maybe explore some campus activities? How would you like to track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal could be helpful. How about I try reaching out to a couple of friends by this weekend and maybe explore some campus clubs the following week? I could keep a simple note on my phone to track who I’ve contacted and any new activities I’ve checked out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have collaboratively developed a clear goal and concrete action plan, including reaching out to friends and exploring campus activities. They have discussed potential barriers, and the client has shown commitment by setting a specific timeline and tracking method. The client also voiced confidence in their ability to implement these steps, indicating readiness to move forward. Providing OARS feedback, it's notable that the client's self-awareness and willingness to engage new strategies were effectively reinforced by affirmations and reflections. This demonstrates the client's readiness to transition from the Choosing phase to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting these goals sounds like a solid plan. Reaching out to friends this weekend and exploring campus clubs next week could really help boost your connections and enjoyment at university. Keeping track of your progress on your phone is a clever way to stay organized and motivated. Remember, every small step you take is a step towards feeling more connected and fulfilled. You're doing an amazing job being proactive about your happiness, and I’m here cheering you on. If you ever feel stuck or just want to share how things are going, I'm here for support. Take care and keep moving forward with your plans!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I'm feeling a bit more optimistic about trying this out. I'll definitely let you know how it goes and reach out if I need some guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals for reaching out to friends and exploring new activities, with coping strategies in place. Encouragement and support have been offered, aligning with termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Please help I am lost in life\nI am currently doing 1st year in IT, it's been a roller coaster for the past few months. \nI had a great start to my year made many friends really enjoyed being in university\nBut now every friends I made at the start are going away from me idk why? \nIs it because I am a boring person? Or.. What, I really don't understand \nThey are making their own groups, ignoring my messages and ppl whom I was really close to are slowly slowly avoiding me \nI genuinely don't have any friends and the ones I have I barely talk to them daily\nI am feeling very lonely and I have no motivation to study also cuz these things are coming into my mind and that's y I am not able to concentrate. \nIt's been just 2 months maybe I am going really harsh on myself, but if I see my other friends they are so well settled in their uni life it breaks my heart \nI really need help what should I do",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

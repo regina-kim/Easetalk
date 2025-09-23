@@ -1,0 +1,167 @@
+{
+  "id": "10mqwt1",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just a bit stressed about school stuff. I'm trying to decide if it's okay to write about a personal experience for a class essay.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a tough decision to make. You're feeling stressed because you're unsure about how personal to get in your writing, right? What's making you consider sharing this personal experience?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, exactly. It's just a big part of my past and feels like a story worth telling, but I'm worried about how it'll be received. Plus, it’s one of the few things I feel I can write about with some depth.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like this experience holds significant meaning for you and you want to convey it honestly. What are some of the concerns you have about how it might be received?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I guess I'm worried people might judge me or not understand where I'm coming from. It's also kinda scary to think about classmates having this insight into my past, especially since I don't know them at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploring phase has successfully captured the client's essence, including their internal conflict about sharing a personal narrative. Rapport is evident, as the client openly discusses their past issues and concerns. The client has reflected on alternative solutions, like writing on a blog instead, showing readiness to move towards change. Transition to guiding will allow focus on strengthening the motivation behind these decisions and exploring potential benefits or challenges of writing anonymously. OARS feedback: The client's openness and reflection on alternatives were effectively encouraged, demonstrating rapport and readiness for deeper motivation discussions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Sharing such a personal story indeed requires courage and vulnerability. What might be different for you if you chose to share this experience, or if you kept it to yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I share it, I could connect with someone who's been through something similar, or maybe even help someone. But if I keep it to myself, I avoid judgment and keep that part of my life private, which feels safer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Both options bring their own set of possibilities. If connecting with others or helping someone through your story feels important, how might that influence your confidence in sharing it? Alternatively, what value do you place on maintaining your privacy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Sharing could definitely be empowering and make me feel like my experience has a purpose, but my privacy is important too. I don't want to feel exposed or misunderstood. It's a tough balance to find between being open and protecting myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding the right balance between openness and privacy can be challenging. Considering the potential empowerment and purpose in sharing, what might help you feel more confident in your choice either way?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think being clear on my intentions for sharing would help—like if I'm focused on the possibility of connecting or helping someone, rather than worrying about judgment. Maybe also reminding myself that it's okay to hold back certain details if it feels too exposing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated recognition of the potential benefits and risks of sharing their personal story, showing both Change Talk and an understanding of how their choice aligns with their values. They have also identified an alternate path (an anonymous blog) for sharing their story, indicating a specific change goal. The client’s confidence in making a decision about sharing their experiences has increased, as evidenced by their proactive decision to explore another story for their essay. This indicates readiness to develop specific action plans, warranting a move to the Choosing phase. The client's open exploration and reflections helped clarify their intentions and facilitated this progress.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Thinking about your intentions seems like a strong foundation for making your decision. In terms of action, you could either explore drafting your essay with varying levels of detail to see what feels right, or maybe you could consider discussing your ideas with a trusted friend or mentor to gain insight. Which of these options, or perhaps another idea, feels like a good next step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Exploring a draft with different levels of detail sounds like a good way to test the waters without fully committing. I might also run it by a friend who knows my story well to get an outside perspective. That way, I can gauge what's too much or just enough before deciding how much to share.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It sounds like you've thought of a solid plan by exploring different drafts and seeking a friend's perspective. This approach honors both your intention to connect and your need for privacy. How do you feel about setting a timeline for drafting and discussing with your friend, or would you like to explore other steps to support your decision-making?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a timeline would probably help me stay on track and not overthink it too much. I think I’ll aim to have a draft ready in a week and then chat with my friend after that. It feels good to have a plan that’s flexible but also gives me some structure.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a timeline in place can indeed provide both structure and flexibility, helping to ease any overthinking. It's great to hear that you're ready to move forward with this plan. Would you like to talk about any potential challenges you might face in sticking to this timeline, or is there anything else you’d find helpful to discuss as you proceed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(reflecting): I guess the biggest challenge might be procrastination since that's something I struggle with a lot. I often put things off until the last minute, which adds stress. Maybe we could talk about some strategies to keep me on track or ways to motivate myself to actually stick to the timeline.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan involving drafting an essay with varying details and discussing it with a trusted friend. They have also recognized procrastination as a barrier and are receptive to discussing strategies to overcome it. This shows a commitment to their plan and a readiness to address challenges, signaling readiness to advance to the next phase. In the Choosing phase, effective collaboration and action planning were evident, particularly through the client's engagement in setting timelines and openness to overcoming procrastination challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Acknowledging procrastination as a challenge is a helpful step toward managing it. Creating small, manageable goals along your timeline might keep the momentum going and reduce last-minute stress. Perhaps setting aside specific times each day, even if just for a short period, could offer consistency. Celebrate the small wins to keep motivation high. How does that sound in terms of supporting you to stick to your plan?",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Yeah, setting smaller goals and sticking to a routine could help a lot. I like the idea of celebrating the little wins too—it might make the process feel less daunting and more rewarding.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear plan, including drafting varying levels of detail and discussing with a friend, along with strategies to address procrastination. They've identified potential challenges and explored coping strategies effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is it a bad idea to write about my previous drug problem for a narrative essay in my english class? (USA community college)\nNow that I'm a freshman in college I'm not really sure what I can and cannot get away with topic-wise.\n\nIt'd be about my struggle with using weed (so no hard drugs) as a coping mechanism, trying to fill a void in my life, and how I turned it into something good (still in the process of that 'good' actually, which is why I have more to write about regarding the drug problem).\n\nThe essays will be reviewed by my classmates but it's an online class and I don't know any of them so I'm not sure if that will raise the stakes at all. Everyone else so far has written some pretty personal/sad/TMI stuff but nothing drug-related.\n\nEdit: And no, I don't really have much else to write about. I feel like this would make more of an entertaining story since I have some particular ridiculous 'moments' in mind.\n\nEdit 2: And yeah I know I could ask my prof but this is kinda last minute (chronic procrastinator) so....\n\n**Edit: Thank you everyone for being kind, helpful and non-judgemental. I've found a completely different (far more appropriate) story to write about which I'm equally passionate for. I think I'll create an anonymous blog site someday, and I can post this drug-related story on there instead.**",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "1dbl0qw",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have some thoughts or feelings you'd like to share. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I'm just really stressed about my grades and how they’re affecting my chances of graduating. I'm trying to figure out what I need to do to get back on track, but it's overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must feel quite overwhelming to balance all of that pressure about your grades and future. What do you think is contributing the most to this stress right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's the fear of not being able to graduate and having to face the consequences of that. It feels like there's so much riding on this semester, and I'm just scared of failing again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Facing the fear of not graduating can create a heavy burden. It seems like the potential consequences are really weighing on you. How have you tried to manage these feelings or challenges in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've tried to organize my study schedule better and reach out for help when I'm stuck, but sometimes it just feels like I'm not doing enough. I also talk to friends about it, but I still feel kinda lost.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's story, highlighting their fear and stress regarding academic performance and its consequences. The client has shared thoughts and feelings about past attempts to manage stress, and the therapist has shown empathy and understanding. However, more exploration could deepen understanding of the client's challenges and emotions. Continuing in the Exploring phase could further strengthen rapport and ensure the client's context and concerns are fully understood before moving to Guiding.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "therapist(exploring): You're putting in a lot of effort to manage your stress by organizing and reaching out, yet still feeling lost can be tough. It sounds like you're seeking ways to feel more grounded. What do you think might help you feel more in control or supported right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I guess having a clearer plan or knowing exactly what I need to do to improve would help. Maybe having someone guide me through this process step by step could make a difference.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has openly expressed their primary concern about academic stress and fear of not graduating, which is the essence of their story. They have shared thoughts and feelings about their situation, including their efforts to manage stress and a desire for guidance. There is empathy and rapport, and the client has identified a potential goal of having a clearer plan or guidance. Thus, the goals of the Exploring phase have been met, allowing for a transition to Guiding. OARS feedback: The empathetic reflections and summarization of the client's feelings helped to uncover underlying needs and prepared the ground for moving forward.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Having a step-by-step guide can certainly provide a sense of direction and ease some of the stress. If you imagine having that support and clearer plan, how might it change your experience this semester, and what might life look like then?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): I think I'd feel a lot more confident and less panicked about everything. If I knew exactly what to do and had someone to check in with, maybe I'd feel more motivated and less like I'm just flailing around.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Feeling more confident and motivated sounds like a great outcome. As you think about having that support and plan, what small steps could you consider taking right now to start moving in that direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by talking to my professors and asking for their advice on how to tackle the material better this time around. Also, looking into tutoring or study groups might be helpful to keep me on track.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching out to professors and exploring tutoring or study groups are proactive steps. How might these small changes align with your goals for this semester and potentially transform your academic experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Well, if I get some guidance and support, I think I could improve my grades and feel more at ease. It might even change my whole outlook on school, making it less of something I'm dreading every day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific steps such as talking to professors and exploring study groups, which shows a move towards actionable goals. There's a clear shift in motivation as the client envisions improved confidence and motivation with a support plan. The discussion explored the client's life with the proposed changes, and the client articulated a desire for transformation in their academic experience. Sustained talk has decreased as the client focuses more on positive steps forward, indicating readiness to collaboratively develop specific action plans in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a supportive academic journey with guidance seems promising. As you consider these steps, let's develop a clear action plan. You mentioned reaching out to professors and exploring tutoring or study groups. How do you feel about setting a goal to contact your professors this week to discuss your course material? Additionally, when might you explore tutoring or study groups? What potential barriers do you anticipate, and how might we address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal to talk to my professors this week sounds doable. I think exploring tutoring or study groups could happen in the next couple of weeks once I get a handle on my schedule. As for barriers, I might feel awkward asking for help or worried about fitting everything in, but having a set time each week could help me manage.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Having clear steps and a timeline can pave the way to achieving your goals. Let's capture this plan: contact your professors this week and explore tutoring or study groups in the next couple of weeks. To tackle feeling awkward, perhaps preparing some questions in advance could ease those conversations. Considering your schedule, setting a consistent, weekly time to engage with these supports might help maintain balance. How does this plan align with your expectations, and how would you like to monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): The plan sounds like a solid start and works with what I was hoping for. I think I could keep track by setting reminders on my phone to check in on my progress and make sure I'm following through. Also, maybe we could talk about how things are going in our sessions, so I stay accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Checking in during our sessions and setting reminders on your phone are excellent ways to monitor your progress and stay accountable. This plan seems well-aligned with your goals and intentions. As you move forward, please remember that it’s perfectly okay to adjust the plan if needed. How do you feel about moving ahead with this approach, and are there any additional steps or support that might enhance your journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about moving forward with this plan. Having reminders and our sessions to keep me on track sounds reassuring. Right now, I can't think of any other steps, but I'll definitely reach out if I need more support as things progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan to contact professors this week and explore tutoring in the upcoming weeks. They have identified potential barriers, such as feeling awkward or scheduling issues, and proposed strategies like preparing questions and setting reminders. The client expressed confidence and commitment to the plan, indicating readiness to move forward. Monitoring progress through reminders and session check-ins shows self-motivation and accountability. OARS feedback: The collaborative plan-making and open dialogues have empowered the client, who demonstrated readiness for action. Continue to support this proactive engagement.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It’s encouraging to hear that you’re feeling good about the plan and finding reassurance in the reminders and our sessions. Remember, this journey is about finding what works best for you, and it’s completely fine to reach out for more support anytime you need it. By taking these steps, you’re creating a supportive and proactive environment for yourself. You’ve got this, and I’m here to support you every step of the way. Looking forward to hearing about your progress in our upcoming sessions.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(terminating): Thanks, that sounds really helpful. I'll start working on those steps and let you know how it goes. See you in our next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan, including goals, steps, and coping strategies for academic improvement. A check-in plan through reminders and therapy sessions is set. The session met termination goals, allowing for closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Please help me Reddit\nI have a 2.9 gpa and I’m repeating 3 classes. I got an F a D- and a D+ in these classes. What grades do I need to get a 2.5. I’m repeating them in one semester. I’m so scared. I just want to graduate. ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "w8btsq",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm feeling a bit anxious. I've been stressing over not doing an internship this summer and it seems like everyone else is ahead of me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough. You feel anxious because it seems like you're comparing your progress to others and worrying about falling behind. Can you tell me more about what led you to this concern?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I guess seeing everyone else doing internships made me feel like I'm missing out or not doing enough. It feels like there's this pressure to always be achieving something, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must feel overwhelming to see others moving forward while you worry about your own progress. It seems like the pressure to always achieve leaves you feeling like you're not measuring up. Can you share more about where this pressure comes from and how it impacts you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think a lot of it comes from seeing what my peers are doing and feeling like I need to keep up with them. Social media doesn't help either because it amplifies what everyone's doing. It's like there's this constant reminder of what I'm not doing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their concern regarding the anxiety about not doing an internship this summer, revealing underlying pressures from peers and social media. The context of their academic journey and future plans has been outlined, showing a good understanding of their current situation and feelings. Goals have been implicitly set around managing anxiety and understanding their path. This understanding and rapport indicate readiness to guide the client towards exploring their motivations for change and evoking Change Talk. Consider maintaining empathy and affirmations while deepening the focus on potential steps forward.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like social media really intensifies those feelings of needing to keep up. How do you think life might be different if you weren't constantly comparing yourself to others?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd probably feel a lot more relaxed and content with where I'm at. Without all the comparisons, I'd likely focus more on what I genuinely want to do rather than what I feel I should be doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining that sense of relaxation and contentment, what are some personal goals or interests you might pursue if you focused more on what you truly want?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I'd probably dive deeper into coding since I find it pretty interesting, and maybe spend more time on my volunteer work because it feels meaningful. Plus, I might explore more about economics outside of class, just because I'm curious.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring coding and volunteer work sounds really fulfilling, and pursuing economics out of curiosity could be enriching. Reflecting on these interests, how confident do you feel, on a scale from 0 to 10, about starting to focus more on what genuinely excites you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 or 7. I'm definitely interested and excited about those things, but sometimes the self-doubt and pressure still creep in and make it hard to fully commit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored the discrepancy between their current behavior and their values, such as feeling pressured by peers vs. personal interests in coding and volunteering. They've reflected on life without comparison pressures and identified specific interests to pursue. The confidence rating is 6-7, indicating readiness to explore action plans. The client has shown reduced ambivalence by focusing on personal growth over peer comparison. As guiding goals are met, we can move to the Choosing phase to develop action strategies for pursuing these goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Finding your interests and dealing with self-doubt can be challenging. Considering your interest level is at a 6 or 7, what small steps might help you start diving into coding or volunteer work without feeling overwhelmed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could start with setting aside a few hours each week specifically for coding practice, like a mini-project or course, and see how that goes. As for volunteering, I could look for opportunities that align with my interests and availability. Small steps might make it less daunting.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Designating time each week for coding and exploring volunteer opportunities that suit your interests sounds like a thoughtful approach. What do you think might be some barriers to sticking with these plans, and how could you address them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think procrastination and getting distracted by what others are doing could be barriers for me. Maybe setting specific goals or joining a study group could help keep me on track. Also, reminding myself why I’m interested in these things might keep me motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Making those plans more tangible with specific goals and a support system like a study group could indeed bolster your motivation. Would you like to brainstorm some specific goals for your coding practice or volunteer work, and discuss how we might monitor your progress together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Yeah, that sounds like a good idea. I think having clear goals would definitely help me stay focused. It’d be great to have someone to touch base with on how things are going and make adjustments if necessary.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a concrete action plan for engaging in coding and volunteer work, addressing potential barriers such as procrastination and distraction with strategies like setting specific goals and joining a study group. They've expressed a desire to have clear goals and a system for monitoring progress, indicating commitment and readiness to take steps towards their interests. The client also recognizes the importance of their motivations, enhancing their confidence in managing distractions. Thus, the goals of the Choosing phase have been achieved, and it's appropriate to move to the Terminating phase. OARS Feedback: The collaborative approach helped establish a clear plan, but continuous encouragement and support will be vital to maintain momentum.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating clear goals and having a check-in system sounds like a solid plan. For your coding practice, maybe you could aim to complete a small project within a month or enroll in a short course. For volunteering, perhaps start by selecting one opportunity to commit to for a few weeks. We can set up regular check-ins to see how you're progressing and to adjust your goals as needed. Keep in mind that this journey is about what excites and fulfills you. If you encounter hurdles, remember to reflect on your reasons for pursuing these activities. You've got a great mindset, and with these steps, you're setting yourself up for success.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "That sounds like a good plan. I’ll try to commit to those small steps and check in regularly. Thanks for helping me figure this out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a feasible plan for pursuing their interests in coding and volunteering, with established goals and a check-in system. They have strategies to handle potential barriers. The session successfully addressed their concerns.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm worried that I didn't do an internship in my first year.\nI do have three more hears left (I will be getting my degree by the end of two years but have a research project and thesis to finish the year after that) so I thought I'd take it easy this summer and do internships from the next summer but almost everyone I know around me is doing an internship this summer and it's giving me serious anxiety. I did a volunteer program for four months during my semester and I'm working on learning (and hopefully getting some sort of certification) for coding during the summer. \n\nAs of now my plan is to go to grad school after I finish my undergrad. \n\nI'm an economics major if it helps.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

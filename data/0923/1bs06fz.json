@@ -1,0 +1,167 @@
+{
+  "id": "1bs06fz",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling unsure about my choice to major in economics. I'm passionate about it, but my grades aren't as high as I'd like, and it's making me doubt myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough to feel passionate about something but still face doubts because of your grades. What aspects of economics do you find most engaging or exciting?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I really love understanding how different factors affect the economy, like how inflation and interest rates play out in the real world. It's fascinating to see how all these elements interact and impact people's lives.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're really drawn to the way economics helps explain the complex relationships in the world around us. Given this passion, how do you feel when facing challenges with your grades?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It's frustrating because I want to excel and understand everything deeply, but sometimes it feels like I'm just not getting it as quickly as others. It makes me question if I'm cut out for this.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's concerns and feelings about their academic performance and passion for economics. The client expressed a detailed context, including their passion for economics, frustration with their grades, and doubts about their ability to succeed in their chosen major. There is a clear rapport established, and the client's goals of exploring their major suitability were mutually acknowledged. Therefore, transitioning to the Guiding phase is justified to strengthen motivation and encourage Change Talk. The therapist effectively listened and reflected on the client's feelings, providing a strong foundation for moving forward.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're really passionate about the subject, and it's challenging when it doesn't come as easily as you'd hoped. What would it mean for you to continue pursuing this path despite the struggles?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think it would mean a lot to me because I'm genuinely interested in economics, and I can't picture myself studying anything else. But at the same time, I worry about how I'll handle the pressure if I keep struggling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Exploring your dedication to economics highlights how deeply it matters to you. If you continue on this path, what steps might help you bridge the gap between where you are now and where you want to be?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I guess I'd need to find new ways to study, maybe connect with peers or professors for help, and try to be okay with not always getting it right away. It might also help to remind myself of why I love the subject when things get tough.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's great that you're considering reaching out to others and focusing on your passion for economics. On a scale from 0 to 10, how confident do you feel about taking these steps and continuing your journey in economics?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 6 or 7. I'm still a bit unsure, but the idea of connecting with others and keeping my passion in mind does make me feel a little more hopeful about sticking with it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "During the guiding phase, the client expressed a strong passion for economics and acknowledged the challenges faced. A specific change goal emerged: finding new study methods and seeking support. The client rated their confidence as a 6 or 7, indicating a moderate level of readiness to take action. Change Talk was present, with a focus on maintaining passion and seeking improvement strategies. The client has moved from a position of doubt towards consideration of proactive steps, signaling readiness to develop a concrete action plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Therapist(choosing): It's encouraging to hear that you feel some hope and have thought of steps like reaching out and staying connected to your passion. To support your journey, let's set a goal together. Maybe you could aim to connect with one professor or classmate this week and explore different study techniques. How does that sound, and are there any potential challenges you anticipate with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Client(reflecting): That sounds like a good plan. I think reaching out is a great step, though I might feel a bit awkward or nervous about approaching professors or classmates at first. But I know it could really help, so I'm willing to give it a try.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It's fantastic that you're willing to take that step, even if it feels a bit awkward at first. Reaching out can really open up new perspectives and support. To help ease the nerves, you might consider preparing a few questions or topics beforehand. Would you like to explore any other options or strategies to make this feel more comfortable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having some questions ready sounds like a good idea. Maybe I could start by asking about specific things I'm stuck on or their advice on study techniques. I guess I could also remind myself that professors and classmates have probably been in my shoes before and might actually be happy to help. That's reassuring.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That's a thoughtful approach, reminding yourself that others have been in similar situations. Preparing questions or asking for study advice seems like a solid strategy. Alongside reaching out, we could consider setting a smaller goal, like spending a specific amount of time each day focused on the areas you find challenging. How do you feel about adding this to your plan, and can you anticipate any barriers you might encounter?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Spending focused time on challenging areas sounds helpful, and it could give me a clearer understanding of where I'm struggling. I might find it tough to stick to a routine or get easily frustrated if I don't see progress right away, though. But it's worth a try, and I think having a set time could help me stay more disciplined.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan that includes reaching out to professors or classmates and setting specific study times to address challenging areas. They have acknowledged potential barriers, such as feeling awkward and struggling with maintaining a routine, and have suggested strategies to overcome them, like preparing questions and reminding themselves that others have been in similar situations. The client shows readiness by expressing willingness to try new approaches and discussing how they'll handle challenges. They demonstrate a growing confidence in their ability to take steps toward change. OARS feedback: Reflecting on your dedication to find ways to succeed in economics highlighted your resilience and adaptability. Continuing to build these strategies will support your journey.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting aside dedicated time to work through challenging areas is a great way to build discipline and track your progress. It's completely natural to feel frustrated at times, but remember that progress often happens gradually. Your willingness to give it a try shows your commitment and resilience. As a next step, maybe start with a short, manageable amount of time each day and gradually increase it. If you ever feel overwhelmed, taking a short break or reflecting on why you love economics could renew your motivation. You've got a solid plan here, and I'm confident in your ability to navigate these challenges. Keep reminding yourself of how far you've come, and don't hesitate to reach out if you need support along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I'll definitely try to keep it all in mind and give this plan a shot. I appreciate all your help and guidance!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan with strategies to address challenges. They've expressed commitment to these goals. Encouragement and guidance were provided effectively, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is it a bad idea to major in something you kind of suck at but still passionate about?\nI'm a grade 12 who is going to be graduating high school in June. I'll be starting university in September, majoring in economics. But I am doubting myself a bit mainly because out of the seven courses I've taken in grade 12, it looks like my lowest grade will be economics. My grades range from 90-95%, with economics being the 90%. The median grade for my economics class was 90%, hence I performed average relative to my peers.\n\nThe thing is, is I studied so much for that class, did all the textbook questions, took notes, etc. because I am passionate about the subject. I can not imagine studying anything else. Despite this, I still finished average in my class. Perhaps because some concepts (e.g. graphs pertaining to competitiion theory like monopolies, oligopolies, etc.) didn't \"come naturally\" to me.\n\nMeanwhile, there were people in that class who are not even going into econ like I am, and are pursuing careers like engineering and computer science, and they took economics because according to them, it's an \"easy course\". Some of those people barely attended class, were disruptive during the lessons, yet got 95+ because according to them, all the concepts came naturally to them and therefore they barely had to study or do practice questions in order to succeed.\n\nSo yeah, after my performance in grade 12 economics, I've been constantly questioning whether or not this is the right major for me. But even though I'm bad at it, I'm still passionate about it. I've read *Capitalism and Freedom* and *The Wealth of Nations* in my spare time because I'm truly interested in economics. Everyday, I spend time reading news relevant to the ongoing cost of living crisis, rising inflation, rising interest rates, etc. Yet I performed so badly in that class.\n\nIf there are people who are able to effortlessly score 95+ and treat economics as an \"easy course\", but I barely scored a 90 while taking economics seriously, how on earth am I going to succeed as an economics major?\n\nWhat are your thoughts? Is this still the right major for me?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

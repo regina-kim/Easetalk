@@ -1,0 +1,167 @@
+{
+  "id": "y240ea",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I’m here to listen and support you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling a bit uneasy about how my first semester's going. I expected things to be a lot more challenging, but it feels way too manageable and I’m worried I’m missing something.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling concerned because the semester seems easier than expected. What do you think might be contributing to that feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I guess I just always heard that college was supposed to be super tough and time-consuming, but it doesn't feel that way for me right now. Plus, I'm retaking a course I already know pretty well, so maybe that's part of it too.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You might feel this way because the expectations you've heard about college being tough don't match your current experience, especially since you're retaking a course you're already familiar with. How do you feel about the possibility that things might change as the semester progresses?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I’m a bit anxious about that, to be honest. I mean, what if I suddenly get hit with a workload I can’t manage because I got used to it being easy? It’s like I’m waiting for the other shoe to drop.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase has successfully elicited the client's story, capturing both the initial concern and underlying feelings about their semester's workload and expectations. The client has shared relevant context, such as retaking a course and concerns about potential future challenges. Rapport and understanding have been established, and key themes like anxiety and mismatched expectations are clear. We can now proceed to the Guiding phase to evoke Change Talk by exploring the client's motivations and potential strategies for managing their concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be unsettling to anticipate changes that might affect your current sense of ease. What would it mean for you if the workload did increase and things became more challenging?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I think it would be a bit overwhelming at first, but I’d probably adapt. The thought of suddenly struggling stresses me out, though, because I’m not sure if I’d be able to handle it well after having it easy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Facing the potential of increased workload and challenge can indeed bring stress, especially coming from a period of relative ease. What aspects of your past experiences might help you adapt if things do become more challenging?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Well, I guess I've always been good at managing my time and staying organized. In high school, I had a few busy periods with projects and exams, and I managed to get through those okay. So I think I could use those skills again if things get tougher later on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your ability to manage time and stay organized really shines through, and it seems like those skills could be valuable if the workload increases. How might using these skills now give you more confidence in handling potential challenges later?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think starting to use those skills now could help me feel more prepared for any changes. Maybe if I practice managing my time and staying organized even with a lighter workload, I’ll build confidence and be ready to handle things if they do get tougher.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concern about feeling underwhelmed by their first semester workload and the anxiety about potential future challenges. The therapist elicited change talk by focusing on the client's past successful experiences with time management and organization, which the client recognized as valuable skills. The client expressed a plan to use these skills proactively to build confidence. With the presence of change talk and a specific strategy, the transition to developing specific action plans in the Choosing phase is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(choosing): That sounds like a proactive approach. You have some effective skills from the past that can really help you now. Would you like to set a specific goal for practicing these skills? We could explore options like creating a weekly schedule or setting small time-management challenges. What do you think would work best for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think creating a weekly schedule could be a good start. It might help me keep track of what I need to do and make sure I'm not taking things too lightly. Plus, it’ll give me a sense of consistency if things do get busier.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule sounds like a solid plan to keep things organized and provide consistency. How about we map out a simple schedule together, and perhaps identify any potential barriers that might come up? Doing so could make it easier to adjust if things start to get busier. What are your thoughts on this approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds really helpful. If we can map out a schedule, I think it’d give me a clearer picture of how my time is actually being spent. Identifying barriers would be useful too, so I can be ready to tackle them if they come up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Mapping out a schedule together can definitely provide that clarity and readiness. Let's start by identifying your key activities and commitments for the week. As we do this, we can also consider any potential obstacles—like unexpected assignments or time-consuming activities—that might arise. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a great plan. Laying everything out will definitely help me see what I'm working with. When I know what to expect, I feel like I can handle things better, even if something unexpected comes up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of creating a weekly schedule to manage time better and identified past skills to help adapt to changes. Potential barriers, such as unexpected assignments, have been discussed, and the client is open to self-monitoring by mapping out activities and commitments. They have expressed confidence in handling potential challenges, demonstrating commitment and readiness to take action. This indicates readiness to advance to the Terminating phase. OARS feedback: The collaborative goal-setting and focus on past experiences were effective in bolstering the client's confidence. Continuously encouraging self-monitoring will further empower them to adapt effectively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's wonderful to hear that you're ready to take these steps to organize your time and prepare for potential challenges. By mapping out your schedule, you're setting yourself up for success and building resilience against unexpected changes. You're showing a lot of foresight and willingness to adapt—key strengths that will support you.\n\nAs a next step, consider starting with a manageable schedule and gradually incorporating any potential barriers you anticipate, like unexpected assignments. Remember, it's okay to adjust as things evolve.\n\nYou've got this! We'll continue to support your progress and revisit the schedule together, ensuring it aligns with your goals. Keep up the great work, and remember to be kind to yourself along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll give the schedule a try and see how it goes. I'll keep in mind to stay flexible and adjust as needed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a plan to create a weekly schedule and has identified potential barriers. The next steps and coping strategies are clearly outlined. It is appropriate to conclude this session. OARS feedback: The use of reflections and affirmations helped build confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is it normal to be UNDERwhelmed first semester?\nFreshman here majoring in Computer Networking. I’m finding that majoring in networking is like comp sci without the majority of programming, or cybersecurity without a lot of the math requirements that major usually requires. \n\nI’m afraid that i’m not spending enough time in my classes/on assignments. I’m taking 16 credits right now (four classes with two labs) and I’m underwhelmed by the workload. \n\nMy comp sci and math classes are the only classes I really put decent time into. My english class is a composition course, and I only have essays as my grade.\n\nI’m also taking a networking course, but I took this same course last year so I’m familiar with the material. \n\nAm I not spending enough time? Did I just get lucky this semester? I was told all my life that the college workload was crazy, and being done with all my weekly work by Wednesday makes me feel like I’m doing something wrong",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "yobrpa",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It’s great to have you here. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling a bit stressed about my college classes. I had to withdraw from a couple, and I'm worried about how it'll affect me in the long run.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating college stress can be overwhelming. Withdrawing from classes might feel like a setback, but it sounds like you're trying to make choices that are best for you right now. What led you to decide to withdraw from those classes?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It was really about balancing work and school. My job was taking up more time than I expected, and I just couldn't keep up with all the coursework. I didn't want my grades to suffer too much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing work and school can certainly be challenging. It seems like you were prioritizing your well-being by making sure your grades didn't suffer. How are you feeling about the decision now, and is there anything specific you're concerned about regarding the future?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm still worried about how these withdrawals might look on my transcript. Like, will it affect my chances with jobs or grad school? I'm also hopeful that I can better manage my time going forward, but it's a bit nerve-wracking.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including the context and feelings about balancing work and school, withdrawing from classes, and concerns about future implications. The therapist effectively used reflections to empathize and explore the client's thoughts and emotions. Goals are mutually agreed upon, focusing on managing time better and understanding the impact of withdrawals. Moving to the Guiding phase will help in strengthening motivation for change and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It’s understandable to feel concerned about how withdrawals might appear on your transcript. On one hand, you're hopeful about managing your time better in the future, which shows your desire to improve and adapt. What might it look like for you if you successfully managed your time and workload in the upcoming semesters?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I could manage my time well, I think it would really ease my stress. I'd feel more in control and confident, and hopefully, I wouldn't need to withdraw from any more classes. Maybe I could even enjoy my courses more and focus on learning.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding that balance seems really important to you, and envisioning a future where you feel more in control sounds quite positive. What small steps do you think might help you start feeling that way about your time and workload?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think starting with organizing a detailed schedule could help. Maybe setting aside specific times for studying and work, and sticking to them as much as possible. Also, I might try to communicate better with my boss about my availability when school gets intense.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating a detailed schedule and improving communication with your boss both seem like practical steps that align with your goals for balance and control. As you think about implementing these changes, how confident do you feel on a scale from 0 to 10 about your ability to stick with this plan?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say I'm around a 7. I feel pretty motivated to make things work, but there's always that worry that something unexpected will throw me off. I guess I just need to be flexible and adjust as needed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively used OARS strategies to explore the client's concerns about college withdrawals and time management. The client has expressed a specific change goal of creating a schedule and improving communication with their boss. Their confidence level is at 7, indicating readiness to take action. The client has also engaged in Change Talk, expressing a desire for better balance and control. This suggests readiness to move to the Choosing phase to develop specific action plans and address potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling quite motivated and have some solid strategies in mind. Considering the possibility of unexpected challenges, what do you think might help keep you on track if something disrupts your plan? Maybe having a backup for your schedule or ways to adapt quickly?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Having a backup plan sounds smart. Maybe I could have a list of quick stress-relief activities or a plan for prioritizing tasks when things pile up. I guess just being kind to myself when things don't go exactly as planned would help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a backup plan and practicing self-kindness are great ways to stay on track. To support these ideas, perhaps you could create a list of stress-relief activities you enjoy and identify priority tasks ahead of time. How does having these options sound to you, and is there anything specific you'd like to include in your action plan to help ensure success?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think having a list ready would be super helpful. I might include things like a short walk, some deep breathing exercises, or even just taking a few minutes to listen to music. Identifying priority tasks in advance sounds good too, like making sure I tackle the most important assignments first.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a list of quick stress-relief activities and prioritizing important tasks are excellent strategies to maintain balance. Based on what you've mentioned, options like taking a short walk, doing some deep breathing exercises, or listening to music could be part of your plan. Would you like to set a goal for how often you'd like to use these activities, and how might you monitor your progress with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Tracking how often I use these stress-relief activities could definitely help me stay consistent. Maybe I could start with aiming to use one of these activities at least once a day and then keep a simple journal or checklist to note when I do them. That way, I can see what's working and make changes if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and a concrete action plan, including creating a detailed schedule, improving communication with their boss, and having a backup plan for stress relief and task prioritization. Barriers, such as unexpected challenges, have been anticipated, and the client has proposed self-monitoring through a journal. The client shows commitment and confidence in their ability to change, expressed through setting goals and tracking progress. Therefore, the client is ready to move to the Terminating phase. OARS feedback: The client’s motivation and self-reflection have been effectively supported, but future sessions could benefit from deeper exploration of emotional responses to challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful and practical approach to help you maintain consistency and see what's effective for you. Keeping a simple journal or checklist can provide insights and help you adjust as needed. It's great to hear that you're setting an achievable goal of incorporating one stress-relief activity each day. Remember, it's okay to be flexible with your plan and seek support when necessary. You're taking significant steps toward managing your time and stress more effectively, and you're doing a wonderful job at that. As your next step, why not start setting up your journal and identifying your priority tasks for the week? I'm here to support you as you continue on this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support. I'll start working on that journal and priority list this week. It'll be good to have something concrete to focus on.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully summarized the client's goals, coping strategies, and steps to improve time management and stress relief, alongside planning next actions. This closure supports the client's journey with practical tools and emotional encouragement.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How many W's did you have in college?\nThis is my first semester in college and I had to withdraw from 2 classes because of some circumstances involving my job and time management. I don't want to do it again and I just wanted to know if it's a bad thing and if you guys had a similar experience before? And how many W's is too many??",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

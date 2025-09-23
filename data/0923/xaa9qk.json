@@ -1,0 +1,167 @@
+{
+  "id": "xaa9qk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! Whenever you're ready, feel free to share what's on your mind or anything you would like to talk about today. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've just been feeling overwhelmed with school and my mental health has been really shaky. I'm thinking about dropping out for now, but I'm worried about how that'll look to everyone else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're juggling a lot right now, feeling both overwhelmed by school and concerned about how others might perceive your decisions. What's been the most challenging part for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's just feeling like I'm constantly failing, and the pressure is getting to me. I end up in this cycle of stress and anxiety, which makes everything feel impossible.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That cycle of stress and anxiety you're experiencing can really make things feel overwhelming. It sounds like you're carrying a heavy burden of feeling like you're not meeting expectations. What has this pressure looked like for you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It's like a constant weight on my shoulders. Every day, I wake up feeling anxious about all the things I have to do and how I'm not doing enough. By the end of the day, I'm just exhausted from overthinking everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed and personal account of their current struggles, feelings of pressure, and their thoughts about potentially dropping out of school. There is a clear understanding of the client's worry about others' perceptions, as well as their thoughts about alternative paths and desires for improved mental health. Empathy and rapport have been established, and the client has expressed some plans and desired outcomes. This provides a solid foundation to move to the Guiding phase, where we can further explore their motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling that weight daily sounds really exhausting. You're recognizing how this cycle is impacting you, which is an important step. What do you think your ideal day would look like if this anxiety and pressure were less present?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess an ideal day would be waking up and feeling motivated rather than anxious, getting through tasks without it feeling like a mountain to climb. I'd have some time to relax and not constantly stress about the future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a day where motivation comes naturally and tasks feel manageable sounds like a meaningful goal. What do you think might help bridge the gap between your current experience and this ideal day?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think taking a break from school might help, honestly. Just having some time to work on my mental health and maybe getting a job to take things one step at a time. It would give me some space to breathe and not feel so overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking a break to focus on your mental health could be a powerful way to create some space and find balance. How confident do you feel, on a scale from 0 to 10, about making this decision and taking that step?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 7? I feel pretty sure about needing a break, but there's still this lingering doubt about how it might affect my future or how others will see it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal, which includes taking a break from school to focus on mental health and potentially working at a retirement home. This aligns with their ideal day and life changes. Discrepancy between current state and desired state has been clearly evoked. The client expressed confidence at a level 7, indicating readiness to move forward. Ambivalence has decreased as they have discussed plans with family and have support. The guiding phase effectively facilitated understanding of their values and goals. OARS was effectively used to affirm and refocus on key aspects, helping the client feel heard. Moving to the Choosing phase to develop concrete action plans and address potential barriers is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking a break to focus on mental health seems like a thoughtful consideration. You're at a 7, which shows you're fairly confident in needing this change, yet you're also weighing the potential impacts on your future and others' perceptions. Based on what you’ve shared, possible options could include setting a specific timeframe for your break and discussing it with someone you trust to explore how this could fit with your long-term goals. How do these options sound to you, or is there another approach you’d like to explore?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a timeframe sounds like a good idea. I think it would help me feel like I'm not just giving up completely, but actually planning for a better future. Talking it over with my mom or someone I trust would probably ease some of the worry too. I'll definitely think about those options.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a timeframe and discussing your plans with someone you trust sounds like a solid approach. By taking these steps, you're actively planning for the future even while taking a pause. What do you think your first step might be in setting this timeframe or starting that conversation, and how can I support you in this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think my first step would be to sit down and really figure out how long of a break I need to feel better and get back on track. Maybe I can start by talking to my mom about it this weekend. Having a plan might make it easier to communicate my decision with others. Your support in just helping me organize my thoughts and being here to listen is really helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Organizing your thoughts to determine how long of a break you need seems like a wise first step. Talking with your mom this weekend could provide the support and clarity you’re seeking. I'm here to help you through this process and ensure you feel supported as you make these decisions. Would it be helpful to explore what specific things you'd like to communicate during your conversation with your mom, or is there another area you’d like support with right now?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think it would be helpful to talk about what I want to communicate. I want to make sure I explain why I need the break and how I plan to use the time effectively. Maybe also address any concerns she might have about me stepping away from school. That way, she understands where I'm coming from and sees that I've thought things through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of taking a break to focus on mental health and has begun developing a concrete action plan, including setting a timeframe, talking with trusted individuals, and addressing potential concerns. Barriers, such as others' perceptions and future impacts, have been discussed. The client shows readiness through commitment to take initial steps, such as talking with their mom. Thus, the client is ready to move to the Terminating phase. OARS feedback: The structured approach in exploring options and planning has built confidence. Continue affirming the client's strengths and clarify any emerging concerns.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "You're showing a lot of insight by wanting to clearly explain your reasons and plans to your mom. Sharing why you need the break and how you intend to use this time can help address any concerns she might have, and demonstrate that this decision is well thought-out. As you prepare for this conversation, perhaps jotting down key points could help you articulate your thoughts clearly. Remember, it's okay to express both your needs and your worries. You're actively taking steps towards a more balanced life, and that's commendable. I'm here to support you in any way you need as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely try writing down some key points beforehand to make sure I cover everything. It's nice to know I’ve got your support as I figure this out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated insight and established a concrete plan involving key steps, like discussing plans with their mom and organizing thoughts. They've articulated their goals and coping strategies, indicating readiness for closure. OARS feedback: Reflecting on your needs and articulating them thoughtfully has been effective in setting a clear path forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Will I be a failure for dropping out and working a minimum wage job?\nMy mental health has been really bad. I’m able to get a refund on tuition if I drop now. I’ve only been here three days (I’m in my second year) and I already am having mental breakdowns. My other option is to work at a retirement home, which honestly I don’t mind. I feel like it would relieve a load of pressure and stress off of me. \n\nBut I know I’d disappoint everyone in my life but honestly I’m used to that. Idk. I haven’t talked with my professors or anything. Idk anymore. I get so upset I feel sick. I really feel I’d be happier just going to a better school later while building my skills through some online stuff and books in my spare time (I’m in a tech program) and saving up for a course better suited for me when I’m ready and can take care of my health.\n\nIdk :(\n\nEdit : thank you all for the advice. \nI’ve made my plans. I’ve requested withdrawal forms. I talked to my mom and grandmother and they supported my decision, so I can live with them with low rent now. I plan to work and pay off my loans (they weren’t very much) the first year and then I plan to work for another year or two and save up for a school better suited for a program that I would be happier pursuing. I hope to seek mental health help too so I can function and gain life experience before going back. Thank you guys again. I read all replies and appreciate them all.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

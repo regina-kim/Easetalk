@@ -1,0 +1,293 @@
+{
+  "id": "uqjt8m",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just really overwhelmed with everything right now. I have to write this SAP appeal and it's just a lot with everything else going on. I just don't know how to approach it without messing it up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It’s understandable to feel overwhelmed with everything on your plate. You might be feeling anxious about writing the SAP appeal properly because there's so much at stake. What else is adding to your stress right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, I'm just stressed about trying to juggle everything - schoolwork, financial aid issues, and still dealing with my adhd medication mess. It just feels like every time I solve one problem, another pops up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Juggling multiple concerns can indeed feel quite exhausting, especially when it feels like there's no end in sight. You might be feeling stuck because addressing one issue doesn't seem to ease the overall burden. Can you tell me more about what you're experiencing with your ADHD medication?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It's just been a nightmare. My provider wanted to adjust my dosage and it turned into this mess with insurance and pharmacies. I’ve been mostly unmedicated for a while because of delays and issues with getting the meds, so focusing on anything has been really hard.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed account of their overwhelming situation, including their struggles with ADHD medication, financial aid, and the pressures of academic performance. The therapist has effectively used reflections and open questions to understand the client's experiences and emotions. However, the client's complex story with numerous interconnected stressors requires further exploration to ensure a mutual understanding of their priorities and goals before transitioning to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Navigating medication challenges can be incredibly frustrating, especially when it impacts your ability to focus and manage daily tasks. You may be feeling helpless because the delays are out of your control. How have you been coping with these difficulties so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): Honestly, not that well. I've been trying to keep up with everything, but it feels like I'm just barely scraping by. I did start going to the university counseling center, and they put me on an antidepressant, which has helped a bit with the mental side of things. But it's still really tough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's narrative has been thoroughly explored, covering their stressors, medication issues, academic struggles, and the emotional burden of their SAP appeal processes. The therapist has shown empathy and understanding, creating a strong rapport and has elicited a deep understanding of the client's context and feelings. This sets a solid foundation to move into the Guiding phase where the therapist can focus on evoking the client's motivation and readiness for change. OARS feedback: The use of empathy and reflective listening effectively built rapport and encouraged the client to share openly.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It's really commendable that you've taken steps to seek support at the university counseling center, and it's encouraging to hear that the antidepressant is helping somewhat. What have you noticed about the positive changes or effects from the counseling and medication so far?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Well, I guess I've felt a little more stable emotionally, not as up and down as before. It's definitely made it easier to get through the day without feeling completely overwhelmed. But I still feel like I’m not making much progress with everything that needs to be done.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "It's great to hear that you've experienced more emotional stability, making daily life a bit more manageable. Even amidst these small shifts, it seems like a gap remains between where you are and where you'd like to be. If you imagine how things might look without the current stressors, what differences do you envision or hope for in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I just want to be able to handle school without constantly feeling like I'm drowning. It'd be great to have my financial aid sorted, have my medication stuff resolved, and just be able to focus on my classes and do well. Not having this constant chaos would be amazing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Visualizing a life with less chaos and more focus sounds really appealing. It seems like reaching a place where you can manage school effectively and have your medication and financial aid sorted out aligns with your goals. On a scale of 0 to 10, how confident are you that you can move toward that vision, even with small steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I’d say maybe a 4 right now. I know I have some support with counseling and stuff, which is why it’s not lower, but everything just feels so tangled up right now that it’s hard to see a clear path forward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a vision of life with fewer stressors and a desire to improve their situation, but their confidence is low, rated at a 4. Although they've shown some awareness of their challenges and a desire for change, specific next steps or goals are not yet clearly defined. Additionally, the client's ambivalence is still present, indicating that further exploration and strengthening of change talk is needed before moving to the Choosing phase. Continuing in the Guiding phase will allow for development of specific goals and strategies to increase confidence and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's understandable to feel like everything is tangled, yet you still see some hope with the support you're receiving. That’s an important foundation to build on. What might help you to raise your confidence level from a 4 to a 5?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think having a more concrete plan for tackling each issue could help. Like, maybe breaking down what I need to do for the financial aid appeal and my classes into smaller, more manageable steps. And maybe getting a clearer timeline for when my medication issues might be resolved. That might make it feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing significant stress with multiple overlapping challenges, including financial aid appeals and medication issues. During the guiding phase, the therapist effectively used open questions and reflections to explore the client's vision for change, eliciting the desire for less chaos and more focus in their life. The client expressed a low confidence level (4) but identified that creating a concrete plan could help increase confidence. While change talk is present, the client's confidence is not yet at the level to begin action planning. Therefore, it is appropriate to continue guiding to further explore and strengthen their motivation and confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "therapist(guiding): Thinking about breaking things down into smaller, manageable steps sounds like a solid approach. It can often make challenges feel less daunting and more achievable. How do you feel about taking some time to explore what those smaller steps might look like for each of these issues?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): client(guiding): Yeah, I think that could be really helpful. It might make everything seem less like an insurmountable mess and more like a bunch of smaller tasks I can actually tackle. I'm willing to give it a shot and see how it goes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is demonstrating emerging Change Talk by expressing a willingness to break down their overwhelming tasks into manageable steps and acknowledging some progress. However, their confidence remains low, rated at 4, and they haven't set a specific, actionable change goal. They’re expressing ongoing confusion and struggle, indicating continued ambivalence. More work on reducing ambivalence, clarifying goals, and boosting confidence is needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Exploring those smaller tasks and seeing them as achievable steps could bring a sense of clarity and control. It sounds like you're open to this approach, which is a great mindset to have. What might be one small step you could focus on first that feels manageable for you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start with writing out a detailed plan for the financial aid appeal. If I can break that down into specific parts, like what I need to include and how I'll explain things, it might take some of the pressure off. Plus, I think having that sorted out first could help ease some of my worries.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is beginning to express Change Talk by identifying a need for concrete planning and has suggested actionable steps to improve their situation, such as breaking down the financial aid appeal process. However, their confidence in achieving these changes is currently low at a 4. Though there is some momentum, further exploration of change strategies and building confidence is needed before moving to the Choosing phase. The focus should remain on strengthening motivation and addressing ambivalence to prepare the client for action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Creating a detailed plan for your financial aid appeal sounds like a manageable and impactful step. Taking the time to outline what you need and how to present it could indeed help alleviate some stress. What do you think might be the first piece of information or section you'd want to tackle in that plan?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(guiding): I think starting with the main reasons for the appeal, like my grandmother's death and my instructor getting COVID, would be a good place to begin. If I can clearly lay out how those events affected my academic performance, it might make the rest of the process feel more straightforward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to make changes and has identified specific steps, such as creating a detailed plan for a financial aid appeal. However, their confidence is currently at a 4, indicating uncertainty and the need for further support in building confidence and reducing overwhelm. While there is some change talk and a specific goal, the client's situation remains complex and emotionally charged. It would be beneficial to explore further steps and build confidence before transitioning to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Highlighting those impactful events as the starting point for your appeal sounds like a meaningful step. By clearly explaining how they influenced your academic performance, you're setting a strong foundation for your plan. How does it feel to begin organizing your thoughts in this way?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(guiding): It feels a bit more manageable, actually. Like, just having a clear starting point makes it seem less overwhelming. It’s nice to have a focus instead of just feeling lost in everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific change goal, which is to create a detailed plan for the financial aid appeal, and has begun to identify initial steps in that process. Change Talk is present as the client acknowledges feeling more manageable after organizing thoughts. The client has expressed willingness to break issues into smaller tasks, indicating a shift towards action-oriented thinking. Although confidence is at a 4, the client's openness and proactive approach towards creating a plan demonstrates readiness to move forward. To support this transition, it was effective to affirm the client's mindset and focus on manageable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "It's great to hear that having a clear starting point makes things feel more manageable. Knowing where to begin often brings a bit of relief and clarity. As you work on this, what other steps would you like to include in your action plan that could support your progress with the financial aid appeal and your classes?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(choosing): I think the next step would be to gather any documentation or evidence that supports my appeal, like emails from my professor or any notes about my grandmother's passing. After that, I should probably outline how I've been addressing these challenges, like mentioning the counseling and any other support I've been using. That might help show that I'm actively trying to get back on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Gathering documentation and outlining your efforts to address these challenges are proactive steps. These actions can strengthen your appeal by showing the concrete steps you're taking. Would you like to set a timeline for when you'd like to have these sections completed, or is there another part of the plan you'd like to focus on first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client(choosing): I think setting a timeline would be helpful. Maybe I can aim to have all the documentation gathered by tomorrow and spend the next day outlining how I'm working to overcome these issues. That way, I can have a draft ready before the deadline and still have some time to make any necessary adjustments.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Setting a timeline gives you a clear path forward and can help you stay organized. Aiming to gather documentation by tomorrow and outlining your proactive steps the following day sounds like a solid plan. How might you track your progress and ensure that you're staying on target with your timeline?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "I think I could make a checklist or a schedule with specific times blocked out for each task. That way, I can see what I've done and what's left to do. Maybe I can set reminders on my phone to keep myself on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear, detailed action plan with steps and a timeline to complete the financial aid appeal. Barriers, such as gathering documentation and outlining challenges, have been addressed, and self-monitoring is in place through a checklist and reminders. The client has expressed commitment by setting a timeline and confidence in their ability to follow through. The collaborative development of the action plan and strategies to handle anticipated barriers indicate readiness to advance to the Termination phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Creating a checklist and scheduling time for each task is a practical way to stay organized and motivated. Using reminders on your phone can help keep you accountable and ensure you're moving forward steadily. As you work through this plan, remember to acknowledge each small success along the way, as it can boost your confidence and keep you motivated. You're taking thoughtful, deliberate steps towards your goal, and that's truly commendable. If you find yourself needing more support or guidance, know that I'm here to help you as you navigate this process.",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "I’ll definitely try to keep up with the checklist and reminders. It’s good to know you’re here if I need some extra help. Thanks for your support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan and timeline for their financial aid appeal. They've identified challenges, strategies, and coping mechanisms, and acknowledged available support. It's an appropriate point to conclude the session, affirming their proactive steps and preparedness.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on SAP appeal in context of TWO appeals and previous appeals?\nHo boy\n\nI am in trouble. I'm probably a terrible student at best of times and throw in some shitty life events that JUST GOT WORSE during covid and those downstream events, I'm sitting here writing my 3rd SAP appeal for Spring 2022 due tomorrow, and IF it gets approved, I will be writing another one for Summer 2022. My housing depends on it, so that is not good. And if my appeal doesn't go through I will also owe the college unpaid tuition and housing for 2022.  \n\n\nYEAH I KNOW. Its so bad. It just took me a while to figure out who to talk to when I realized things were off the rails and by the time it got to Financial aid advisor, she was pissed (I don't blame her, and I have worked with her before, she's great), and we only have a couple days.  \n\n\nWorking backwards. Fall 2020 was super fucked up. Had adhd medication problem and had to try and fail on different medication. Couldn't pay rent, and landlords turned off heat to force eviction and or/payment (didn't care about eviction protection and refused to fill out assistance paperwork), dealt with that but it wasn't pretty. And then I got covid and was dead sick for 3 weeks. Basically gave up on school and tbh, almost life. \n\n  \nFast forward, skipped Spring 2021, and enrolled again fall 2021 as I got covid rent assistance so felt I could. But it also kinda fell together last minute and I didn't have financial aid together yet (actually enrolling after start of classes) In the process of getting caught up, my landlords ended tenancy even though they had additional months rent (2) so had to move. Once moved, used the issues with rent and landlord on that SAP appeal for fall 2021 with the resolution being getting into university housing.   \n\n\nGREAT! Appeal when through, got aid towards end of semester.   \n\n\n**SPRING 2022 Appeal reason For Fall 2021 incomplete** Not great. I was super behind in my in person dance class because I missed a bunch. We made a plan to get me caught up if I attended the rest of the classes and the other students helped me get caught up for the final group dance project. One class later, the professor gets covid, cancels the rest of the classes and tells everyone to do a much abbreviated project. But now I have a lot more to figure out on own. Still seems doable, I have video of the last day we met and what the the dance routine was. I'm lost, but its doable. But I ask for more time given I'll have to figure out on my own. He agrees. Then a few days later, my grandmother dies, and I had to ask for another extension (and I felt like he was going to think I was lying at that point, but it happened). At some point, I'm getting back to trying to get the final project done, and I am just lost. But I'm trying, my tooth breaks from clenching my jaw and I just kinda stop, decide I'll figure out what to do next later \n\nBut, as you can guess from my user name, never did. Start spring 2022, I now have an incomplete and no financial aid. I dunno if I am going to appeal or if the instructor will allow me to turn in. \"I'll figure that out in a few days, I say.\" I didn't. Because I got my aid so late, I just used the refund to pay for a lot of what I needed for second semester. \n\n&amp;#x200B;\n\n**Summer 2022 Appeal Reason for Spring 2022** A couple weeks into 2nd semester, I'm floundering. I haven't figured out what to do about aid and late dance class final and instead of dealing with it, I just kinda.. gave up. Got myself into the university counseling center, they started me on antidepressant, once I got out of the worst of it, I was just racing to catch up on school work. Which I didn't get caught up fully when I realized I needed help and was in WAY over my head. But by the time I kinda got to talking to the right people, it's basically the end of the semester AND HERE WE ARE NOW. I am going to have to take an incomplete on another class, and another I have to argue and beg with professor to allow makeup work for missed in class activities. He agrees and I should pass (know material, aced two prior tests, so I'm current on the information, just not the work. Exam at end of week) On top of that, the mental health care provider thought my adhd might be slight be undermedicated, and she suggested that we increase the dose, but that has turned into a mess, with problems with the insurance (she wanted to use two different types of pills, a XR IR combo), with confusion at the pharmacy, with delays in the prior auth and with the school not having escript capabilities for adderall, and then a medication shortage, so I have to call around and find one that has brand adderall in stock, plus she is work from home right now due to some office construction on campus this week, so I'm literally waiting for a paper script in the mail. Almost a month since that started we've been dealing with the adderall problem and its not resolved so I'm working non-medicated and spending way too much time dealing with that.  \n\n\n**Right now, I am working on and need to finish my Spring 2022 SAP appeal tonight for 10am tomorrow.** I am writing it out now, the financial aid advisor said I should keep it to being about my grandmothers death and my instructor getting covid and canceling classes, thus changing the plan that was supposed to help address the missed course work. I am not supposed to use the broken tooth because it's still broken and even though I am enrolled at the dental school near me, its been a slow process getting that underway and I'll have to do god knows what to pay for the crown. So my financial aid advisor said not to include it because it's not resolved.\n\nI would really love some advice/insight. I need this, really need this and I've been working on it since this afternoon, trying to write out the series of events but feel like I'm either over or under-explaining. I'm also stuck in what is the resolution to my grandmothers death? If I say its the depression that I had treated now, then I won't be able to use for the next appeal.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

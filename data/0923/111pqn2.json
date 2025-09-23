@@ -1,0 +1,167 @@
+{
+  "id": "111pqn2",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. Just been feeling pretty overwhelmed and burnt out with all the schoolwork. It's like I'm in this cycle every semester where I hit a wall and it's tough to keep going.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling overwhelmed by the demands of school can be exhausting. What do you think contributes to this feeling of hitting a wall each semester?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it's just the constant pressure and workload that piles up. I start off strong, but as the semester goes on, it feels like I'm just drowning in assignments and exams.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be tough to feel like you're drowning under the pressure as the semester progresses. What has helped you manage or cope with this kind of stress in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, taking breaks and trying to get some exercise usually helps a bit. But sometimes it feels like there's not enough time to do anything other than study, so that makes it hard to keep those habits up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been effectively elicited, revealing their feelings of burnout and the cycle of pressure each semester. They have shared coping strategies that helped in the past, showing insight into their challenges. Empathy and rapport are evident, and there's a mutual understanding of the client's concerns. It's appropriate to move to the Guiding phase to strengthen motivation for change and explore solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finding time for breaks and exercise seems important to you, yet it feels like a challenge to fit them in. How might your life look different if you were able to consistently incorporate these habits?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd feel less stressed and maybe even more productive. Like, if I could balance study and downtime better, I wouldn't feel on the edge all the time, and I might actually enjoy what I'm learning more.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Achieving that balance sounds like it could bring a lot of positive changes to your life. On a scale of 0 to 10, how confident do you feel about finding a way to incorporate more balance into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe around a 5? I know it's possible, but it just seems hard to make it happen when everything feels so urgent all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling like it's possible, but challenging, is understandable given the urgency of your workload. Moving from a 5 on the confidence scale, what steps have you considered, if any, that could help tip the balance towards more integration of breaks and exercise into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I've thought about setting specific times for breaks or maybe even scheduling workouts like I do with classes. It just feels like something always comes up and throws me off, though.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear discrepancy between their current behavior and desired goals, and they have explored the potential benefits of change. Change Talk is present, with the client expressing a desire for better balance and considering specific strategies like scheduling breaks. Confidence is currently at a 5, indicating some belief in the possibility of change. Although ambivalence remains, the client is contemplating actionable steps towards change. Move to 'Choosing' to develop specific plans and address barriers. OARS feedback: The reflections and open questions helped the client articulate their concerns and imagine benefits of change. Continue building on specific strategies discussed.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Scheduling breaks and workouts like classes sounds like a promising approach. You’ve got a good start with those ideas. Based on what you mentioned, possible options could include setting a realistic, flexible schedule that accommodates unexpected changes or identifying a time each day to check in and adjust your plan if needed. What do you think about trying one of these strategies, or is there another approach that might suit you better?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of a flexible schedule because things always change. Maybe having a set time each day to review what needs to be adjusted could help me stay on track without feeling too rigid. I'll give that a shot and see if it helps with the balance.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a flexible schedule and adjusting daily sounds like a great way to manage those unexpected changes. How do you feel about setting a goal around this, like finding a consistent time for that daily review, and maybe we can discuss how you might monitor your progress with it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "Client(choosing): Yeah, setting a goal around this sounds like a good plan. I think choosing a specific time every evening to review my day and plan for the next could be helpful. I'll try to keep track of how it goes and see what adjustments I can make along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Choosing to review your day each evening is a constructive step. You’ve got a clear goal now, which is fantastic. How would you like to monitor your progress? Would keeping a journal or using an app to jot down your reflections work for you, or is there another method you prefer?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think keeping a journal could work for me. I like the idea of writing things down by hand—it might help me process better. I'll try to jot down how each day went and what adjustments I need to make.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of reviewing their day each evening and has committed to monitoring their progress through journaling. They have addressed potential barriers by adopting a flexible schedule to accommodate changes. The client has expressed confidence in this approach and is taking active steps to implement their plan. Given these developments, it's appropriate to move to the Terminating phase. OARS feedback: It was great to see you develop a plan that suits your needs and commit to monitoring your progress. As you move forward, continue to embrace flexibility and self-reflection.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach. By choosing to keep a journal, you're giving yourself a tool to reflect and make meaningful adjustments. It’s great to hear you’re ready to give it a try, and it seems like this method could really support your journey toward better balance. Remember, it’s perfectly okay to make changes as you learn what works best for you. \n\nAs you start this process, feel free to reach out if you need support or just want to share how things are going. You've got a solid plan in place, and I'm confident that by taking these steps, you'll begin to see the positive changes you're aiming for. Keep up the great work, and let's touch base soon to see how it's unfolding for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely try to stick to the journaling and see how it goes. I'll let you know how things are shaping up when we catch up next.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a solid plan to manage burnout through a flexible schedule and journaling, addressing their primary concern of mid-semester blues. Encouragement was effectively provided, and future support was welcomed, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you deal with the mid semester blues. I’m finding it harder and harder to study and I notice at this point in every semester this happens and I have failed classes in the past because of this.\nI’m taking microbio, chem, stats, and college algebra. I have been keeping up really well and have good grades in all my classes, but I’m feeling really burnt out and don’t know how to reduce this.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

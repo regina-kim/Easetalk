@@ -1,0 +1,167 @@
+{
+  "id": "v1zzb0",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share whatever's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hi, I've just been really stressed about this language credit I need to graduate. I've been dealing with some mental health stuff, and it's making school super hard to handle right now. I got accepted into a university, but I'm worried that they'll revoke it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds overwhelming, being stressed about the language credit and your mental health at the same time. You're worried about your university acceptance because of these challenges. Can you tell me more about what's been making it hard to handle school lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's just been a mix of anxiety and feeling really down, you know? Like, I want to do well and keep up with everything, but sometimes it's like I just can't bring myself to start or finish things.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing a heavy mix of anxiety and feeling down, which makes it challenging to start or finish tasks. It's understandable to feel this way when you're trying to juggle so much. What do you think contributes most to these feelings of anxiety and being down?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I think it's the pressure to do well and not let anyone down. Plus, seeing other people manage just fine makes me feel like I'm failing somehow.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about the language credit needed for university acceptance, along with the impact of mental health challenges on their academic performance. The therapist has demonstrated empathy and understanding through reflections and open questions, which has allowed the client to express their feelings of pressure and anxiety. The essence of the client's story is clear, and a mutual understanding of the concern and emotional context has been achieved. Moving to the Guiding phase can help strengthen motivation and evoke Change Talk. The therapist effectively used reflections to mirror the client's struggles and open questions to explore deeper.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That pressure to succeed and comparison with others can intensify those feelings of anxiety and being down. It's understandable to feel overwhelmed with these expectations. How might things look different for you if managing this pressure and comparison were a bit easier?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think if the pressure and comparison were easier to handle, maybe I'd feel more confident about my abilities and less afraid of failing. It might help me focus on what I need to do for myself, instead of worrying about everyone else.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like finding more confidence and focusing on your own needs could make a big difference in how you handle things. What steps do you think could help you start moving towards that sense of confidence and focus on yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I feel like just giving myself a break from comparing myself to others might be a good start. Maybe setting smaller, personal goals could help too, so it doesn't feel like everything's piling on at once.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking a break from comparison and setting smaller, personal goals sounds like a thoughtful approach to building your confidence. It could really help in making things feel more manageable. How do you feel about starting with one small goal that resonates with you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think starting with one small goal sounds doable. Maybe I could focus on just completing a couple of assignments this week, without worrying about perfection. Just getting them done might help me build some momentum.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying potential steps like setting personal goals and avoiding comparison. They've also acknowledged a specific goal, completing a couple of assignments without focusing on perfection. This indicates a readiness to make changes, and the client's confidence seems to be growing. Since the client is actively engaging in goal-setting and demonstrating decreased ambivalence, it seems appropriate to move to the Choosing phase to develop specific action plans around these ideas. Overall, the reflections and open-ended questions successfully guided the client toward identifying actionable steps and fostering motivation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Completing a couple of assignments this week sounds like a practical and achievable goal. It's great to focus on progress rather than perfection. As you work on them, what steps might help ensure you can stay on track and manage any stress that comes up?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I guess breaking the assignments into smaller tasks could help, so they don't feel as overwhelming. And maybe setting specific times to work on them could keep me organized and reduce stress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating smaller tasks and setting specific times to work on your assignments is a smart strategy to reduce overwhelm and stay organized. These steps can help maintain focus and manage stress effectively. Would you like to explore potential obstacles that might arise, and how you might address them if they do?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds helpful. I think one obstacle might be the urge to procrastinate, especially if I'm feeling anxious or down. Maybe I could try to notice when I start to get distracted and take a short break to reset.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Acknowledging the urge to procrastinate is a great step in planning for success. Taking short breaks to reset when you notice distraction is a helpful tool. As you move forward with your plan, consider what support you might need to stay on track. How would you like to monitor your progress or any challenges you face along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could jot down a few notes each day about how things are going, like what's working or where I hit a snag. Just keeping track might help me see patterns or progress, and then I can figure out what changes I might need to make.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has collaboratively developed a clear and concrete action plan that includes completing assignments and breaking them into smaller tasks, as well as setting specific schedules. They have also identified potential barriers like procrastination and strategies to manage them, such as taking breaks and monitoring progress with daily notes. The client shows readiness through taking-steps talk and agreeing to self-monitor. The goals of the Choosing phase have been met, so it's appropriate to advance to the Terminating phase. OARS feedback: The approach of focusing on smaller, manageable goals and addressing procrastination through breaks was effective. Ensure continued emphasis on self-monitoring and support-seeking in future sessions.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a fantastic idea, jotting down notes to track your experiences can really help you identify patterns and areas for adjustment. By reflecting on what's working and what might need tweaking, you're setting yourself up for continued growth and learning. You're taking proactive steps to understand your journey, which is commendable. Keep being kind to yourself as you navigate these changes. If there's ever a time you feel stuck, remember you're not alone—reaching out for support is always an option. For now, focus on those small, manageable steps and your own progress. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a good plan. I'll try to keep those things in mind and take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively addressed the client's concerns by outlining achievable steps, strategies for managing obstacles, and a tracking method to monitor progress. The client feels equipped to proceed with confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: got accepted into uni but don’t have one of my required language credits…what should i do? am i out of luck?\ni tried to get my second language credit this year, even had credit recovery, but even neglected to do that. i have been struggling a lot mentally the past two years. it’s not that i don’t care about school or that credit, i’ve just been struggling so much that i’ve barely been able to focus on all of my classes. however, this credit is the only one i need and i still managed to screw myself over about it. i have already been accepted but i’m afraid that it will be revoked.\n\ni still have three days to try and catch up but it’s basically useless at this point unless a miracle happens. is there anything i can do?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "121dpc5",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I’m here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I'm just feeling really stuck about my major and future career. I love art but I'm not sure if it's the right path for me, especially considering my previous challenges.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a career path can be quite overwhelming, especially when you have a passion for something like art. Could you share a bit more about the challenges you've faced with this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, so I've been doing art for a while but struggled as a freelancer because I'm not great at self-promotion. Plus, I'm worried that an art degree won't lead to stable job opportunities. The thought of trying something like occupational therapy is on my mind, but I feel unsure about making such a big change.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Transitioning between fields can be daunting, especially when considering stability and self-promotion. It sounds like the uncertainty is weighing on you, balancing passion for art with the idea of something new like occupational therapy. What draws you towards occupational therapy, and how do you feel about the potential changes it could bring?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Occupational therapy seems like a really meaningful career where I can make a difference in people's lives, which is something I value. The idea of having a stable job is appealing, but the switch feels intimidating, especially since I'm used to art and not quite sure if I'd succeed in a medical field.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their current dilemma regarding their career choice, including their passion for art, challenges with freelancing, concerns about stability, and interest in occupational therapy. The therapist has successfully created rapport and elicited details about the client's thoughts and feelings, along with the contextual background of their mental health and perception of different careers. It's appropriate to move to the Guiding phase to explore the client’s motivation and feelings about potential changes, as the current conversation phase has effectively met Exploring goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Occupational therapy certainly offers a chance to impact lives positively. It's clear how important stability and making a difference are to you. When you imagine your future, what aspects of your life align with your values and the direction you want to pursue?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I really want to feel secure in my career and know that I'm contributing positively to others' lives. I value creativity and helping people, so I'm trying to figure out how to balance those things. I just want to be confident in whatever path I choose, and feel like I made the right decision for myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing creativity with helping others is a meaningful pursuit. It's great to hear you want to contribute positively while feeling secure in your career. What would increase your confidence in making such a significant choice, and how might these values shape your ideal future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think having more information about what each path really looks like day-to-day would help. Maybe talking to people in both fields or getting some hands-on experience could boost my confidence. Also, understanding how I can integrate my creativity into a stable career would be ideal.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring both fields through conversations and experiences could indeed provide valuable insights. Integrating your creativity into a stable career sounds like a fulfilling goal. How might you begin reaching out to learn more about these paths, and what small steps could you take towards gaining that experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I could start by reaching out to some occupational therapists to learn about their daily routines and maybe see if any of them would let me shadow them. For art, I could look into internships or workshops that focus on creative careers to see how they manage stability. Just taking little steps like these might make the decision less intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the discrepancy between the client's current path and their values and goals. The client has expressed a clear change goal: gaining confidence through information and hands-on experience in both fields. Change Talk is present, with intentions to reach out to professionals and explore both career paths practically. The client’s confidence seems to be growing, supported by their plan to take concrete steps. Moving to the Choosing phase will allow for the development of specific action plans and strategies to address potential barriers. OARS feedback: The use of open questions and reflections has helped the client articulate their values and explore potential steps forward, laying a strong foundation for action planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It’s promising that you’re considering reaching out and exploring both the creative and occupational therapy fields. To support your goal, you might set a plan like contacting a few professionals in each area within the next month. How does creating a timeline for these small steps feel to you, and what potential barriers do you anticipate as you pursue this exploration?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Creating a timeline sounds like a solid plan. I think it would help me stay on track and make the decision process less overwhelming. As for barriers, I'm worried about time management with school and fear of rejection when reaching out to professionals, but I guess that's part of the process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a timeline could definitely offer structure and clarity. Concerns about time management and potential rejection are very common, but it’s great that you're aware of them. Perhaps planning specific times each week dedicated to reaching out and exploring could help manage your schedule effectively. How might you overcome the fear of rejection, and what support would be helpful in staying motivated through this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): client(choosing): I guess reminding myself that rejection is just part of learning and growing could help. Plus, even small steps forward are progress. Support from friends or classmates, like having someone to talk to about my plans, would be helpful. Also, celebrating little wins could keep me motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Recognizing that rejection is part of the learning process shows great resilience. Celebrating small victories and seeking support from friends can definitely keep your motivation up. To move forward, you could plan a weekly check-in with a friend to discuss your progress and celebrate achievements. How does involving someone in your journey feel for you, and are there particular small wins you'd like to focus on celebrating?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Involving someone else sounds comforting. It would be nice to have someone to share my thoughts with and keep me accountable. As for small wins, maybe celebrating each time I make a new contact or learn something significant could be a good start.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated their goal of exploring both occupational therapy and creative fields and has developed a concrete action plan involving reaching out and shadowing professionals. They have discussed potential barriers like time management and rejection, and proposed strategies like involving friends for support and celebrating small wins to overcome these barriers. The client has displayed confidence in handling challenges and is taking steps towards their goals. The Choosing phase has been successfully completed with well-structured plans and strategies, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Involving someone in your journey sounds like a great way to have support and accountability. Celebrating each new contact or significant learning is a wonderful idea to keep you motivated and acknowledge your progress. You've got a strong foundation with your awareness and plans. As you move ahead, remember that each small step is a step closer to your goal. I'm confident you'll navigate this exploration with grace and determination. When you're ready, setting a start date for contacting professionals could be your next actionable step. Wishing you the best as you embark on this journey, and remember, you've got the resources to succeed.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your confidence in me. I'll definitely keep all this in mind and start reaching out soon.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear plan with specific steps and coping strategies for exploring both career paths. They acknowledge potential obstacles and have a support system in place, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Stuck on a major early in college.\nHello everyone, sorry for the vague title. Currently I'm in my third quarter of my first year (technically second because I had to withdraw for mental health reasons but I'm going back). My current plan is getting an AA in Fine Art. I know, it's basically a joke degree but I'm an artist at a fairly respectable community college. (SPSCC if anyone cares.)\n\nAnyway, my issue is that I struggled for years to be a freelance artist but now I have mental health fixed, I'm wondering if I should try something more rigorous or dependable for a degree. I've been told I should try for an occupational therapist career because I've seen what they do now in person and it seems like a good job where I can actually help people. \n\nI really want my skills to be useful and helpful, because I am so unconfident in my ability to start a business and market myself. Another barrier to traditional employment is that I have face tattoos. Is there any way I can make this art degree into a \"proper\" career or should I keep trying to be a professional artist? Any advice will help. If I can't succeed as an artist I'd like to get into the medical field but I'm afraid nobody will want me. Thank you for reading ❤️",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "zyci4z",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm hanging in there. Just been struggling with balancing school and personal stuff, and it's starting to really get to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and personal life can be really challenging. It's understandable that it's starting to weigh on you. Can you tell me more about what's been particularly difficult lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's just been a mix of everything piling up at once. Schoolwork is getting overwhelming, and on top of that, my personal life feels like it's in chaos. It's hard to focus on anything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Managing so much all at once can feel really overwhelming. It sounds like the pressure from school and personal life is making it hard for you to concentrate. What's been going on in your personal life that's adding to this feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It's just a bunch of stuff with family and some friendship drama. I feel like I'm constantly worried or stressed about one thing or another, and it doesn't leave much room for schoolwork.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully explored the client's concerns about balancing school and personal life, revealing the pressures and emotional challenges involved. The client has shared specific stressors, such as family and friendship issues, which impact their academic performance. The rapport seems well-established, and the client has expressed a desire to find coping strategies to improve their mental health. This provides a strong foundation to move into the Guiding phase, where we can focus on strengthening motivation for change and evoking Change Talk. Offering reflections and open questions has helped deepen understanding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be really tough when it feels like everything is happening at once. Being constantly worried or stressed can indeed make it hard to focus on schoolwork. How do you think things might be different if you were able to find a better balance between school and personal life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I could find a better balance, I think I'd be able to focus more on my studies without feeling so overwhelmed. It'd be nice not to constantly feel like I'm playing catch up with everything.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding that balance could really make a difference for you, allowing more focus and less stress. What would life look like for you if you were able to maintain that balance consistently?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think life would be a lot calmer, and I’d probably feel more in control. I could enjoy my time with friends and family without always worrying about school, and maybe even have some time for myself to relax.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling calmer and more in control sounds really appealing. It seems like having that balance would bring more enjoyment and relaxation into your life. On a scale of 0 to 10, how confident do you feel about your ability to start moving towards this balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Right now, I’d say I’m at about a 4. I know it’s something I want, but figuring out how to actually make it happen feels pretty daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation is progressing well in the Guiding phase, as the client has expressed a desire for change and envisioned a life with better balance. However, the confidence level remains at 4, indicating that the client is not yet ready to move to the Choosing phase. More exploration of potential strategies to increase confidence and reduce ambivalence is needed to solidify readiness for action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Starting from a 4 shows that you already have some motivation to work towards change, which is a great start. What small steps do you think you could take to gradually increase your confidence in reaching that balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start with setting some boundaries for schoolwork and personal time. Maybe trying to stick to a schedule more strictly could help, and also finding some healthy ways to de-stress like maybe exercise or a hobby.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change, identified specific steps such as setting boundaries and sticking to a schedule, and considered healthy coping mechanisms. There is a noticeable decrease in ambivalence, but confidence is at a 4. We should continue to focus on strengthening this confidence and explore specific strategies to overcome barriers to change. Further guidance in strengthening motivation and reducing perceived obstacles is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Establishing boundaries and creating a schedule sounds like a promising way to start moving towards that balance. Incorporating de-stressing activities like exercise or a hobby can also provide that much-needed relaxation. How do you feel about trying one of these steps and seeing how it affects your confidence level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Yeah, I think I can give it a shot. Trying to stick to a schedule sounds doable, and maybe I'll start by adding a short walk or something easy into my day to see if it helps.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific change goal of setting boundaries and creating a schedule to help balance personal and academic life. They have also suggested small steps, such as integrating a short walk into their day, indicating some readiness for change. However, the client's confidence level is currently at a 4, indicating some ambivalence. More support strengthening confidence and reducing ambivalence is needed before advancing. Continue guiding to explore and bolster their confidence in implementing these changes.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Taking that first step by adding a short walk into your day sounds manageable and might really help in reducing stress. It's great that you're open to giving this a try. How would it feel to have this small routine as part of your day to support your goal of finding balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "I think it would feel good to have something consistent and positive to look forward to each day. It might give me a bit of structure and a chance to clear my head, which sounds pretty nice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client demonstrates change talk by considering specific steps like setting boundaries and incorporating a schedule, and expresses willingness to try them. The confidence level is at a 4, indicating some motivation but also room for growth. The client has explored life with more balance and identified steps to get there, showing movement towards change. However, confidence needs further strengthening before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Having something consistent and positive each day could indeed help clear your mind and add structure. It sounds like you're creating a supportive foundation for yourself. What other small changes do you think could complement this new routine in helping you achieve your goal of balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "Maybe I could also try to limit my screen time, especially in the evenings, to help me unwind and get better sleep. I've heard that journaling before bed can be a good way to process thoughts and feelings too, so maybe I’ll give that a try.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps, such as setting boundaries, adhering to a schedule, incorporating exercise, limiting screen time, and journaling. Change Talk is present, and the client has shown openness to trying these strategies. However, the confidence level remains low at 4, indicating ambivalence is still present. Continuing in the Guiding phase can further strengthen motivation and increase confidence. The client needs more exploration to solidify commitment to change before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Limiting screen time and trying journaling before bed might be excellent additions to your routine, promoting better rest and mindfulness. It's clear you're thoughtfully considering these changes. How do you think these adjustments could impact your overall sense of balance and well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "I think these changes could help me feel more in control and less overwhelmed, which would be a big relief. Better sleep and processing my thoughts might also make it easier to manage stress and focus on my academics.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific steps to improve their balance, such as setting a schedule, incorporating walks, limiting screen time, and journaling. They express belief in these changes positively impacting their life, although confidence remains low at 4. Change Talk is present, but ambivalence needs further reduction and confidence enhancement. The focus should remain on strengthening motivation and addressing barriers before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Feeling more in control and less overwhelmed sounds like a wonderful outcome. It's encouraging to see how these changes might lead to better sleep and stress management, supporting both your well-being and academic focus. What part of these potential benefits feels most motivating for you to pursue your goal of balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "I really like the idea of feeling less overwhelmed and having a clearer mind. Just knowing that I could handle stress better and be more focused on my studies makes me feel like it’s worth trying these changes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown readiness to move to the Choosing phase by articulating specific goals such as setting boundaries, sticking to a schedule, and incorporating exercise and journaling into their routine. They have expressed a clear understanding of how these changes align with their values and expected benefits, demonstrating reduced ambivalence. The client is motivated by the prospect of feeling less overwhelmed and more focused. Moving forward, the focus should be on collaboratively developing action plans and strategies for overcoming potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "The idea of managing stress better and gaining focus certainly seems like a strong motivator for you. Considering this, let's look at what an action plan might include. Based on your thoughts, options might involve committing to a daily schedule with a short walk, limiting evening screen time, and trying out journaling at night. How do these steps sound as part of your plan, and what might be a first step you’d like to commit to?",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client: These steps sound like a good start, and I think I can commit to trying them out. I’ll start with the daily walk since it’s simple, and I can gradually work on the other adjustments like limiting screen time and journaling.",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "therapist",
+      "statement": "Starting with the daily walk is a great first step—it’s simple and can set a positive tone for the other changes you want to make. It sounds like you're building a plan that feels manageable and supportive. How would you like to track your progress with these changes, and what might help you stay motivated along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "client",
+      "statement": "client: I think I could track my progress by keeping a small journal or using a habit-tracking app to note when I stick to these new routines. Setting small goals and maybe rewarding myself for staying consistent could help keep me motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Using a journal or habit-tracking app to note your adherence to the routines sounds like a practical way to monitor your progress. Celebrating small achievements can indeed boost motivation. Would you like to brainstorm some specific rewards you might find encouraging as you maintain these new habits?",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "client: Sure, brainstorming some rewards sounds fun. Maybe treating myself to a nice meal or a new book after a week of sticking to my routines could be motivating. Small things that I really enjoy would be great incentives.",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving daily walks, limiting screen time, and journaling. They have identified methods for self-monitoring progress through journaling or a habit-tracking app. Motivation is supported by setting small goals and rewarding themselves. They exhibit readiness through commitment to starting with a daily walk and confidence in maintaining the plan, as they find the steps manageable. Moving to Terminating is appropriate as the client is prepared to implement their plan with strategies to overcome barriers. OARS feedback: Your thoughtful commitment to these changes and practical approach to tracking progress is impressive and will serve you well in maintaining balance.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Choosing small, enjoyable rewards like a nice meal or a new book is a fantastic way to encourage yourself to stick to these routines. It's wonderful to see you planning ways to celebrate your progress. Your commitment to these changes, combined with tracking your progress and rewarding yourself, forms a solid foundation for achieving your goals. As you begin this journey, remember that it's okay to take things one step at a time and adjust as needed. You’re taking meaningful steps toward a clearer mind and better balance. Let's check in regularly to see how things are going and support you along the way. Keep up the great work—you're doing an amazing job!",
+      "phase": "terminating"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I’ll definitely keep you updated on how things are going. It feels good to have a plan and some goals to work toward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and strategies, including tracking progress and rewards. The client feels supported and motivated with a clear plan for improvement. Termination goals have been met with a supportive check-in plan. Excellent focus on tracking progress and celebrating small wins.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what are good coping skills for college when your personal life is affecting you emotionally and mentally causing poor academic performance?\nI didn't do so well during this semester due to my personal life issues. It affected me mentally and emotionally causing me to do poorly in school. What are good coping skills for college when feeling this way? I want to improve my mentally health for next semester",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

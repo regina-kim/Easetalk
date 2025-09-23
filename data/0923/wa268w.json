@@ -1,0 +1,188 @@
+{
+  "id": "wa268w",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've just been feeling a bit overwhelmed with this internship I'm doing and balancing it with my upcoming college schedule. It's kind of stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing an internship with college sounds like a lot to manage. How does this stress show up for you in your daily life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It’s like I’m constantly on edge, you know? I keep thinking about deadlines and how I’m going to fit everything in. It's hard to focus on anything else sometimes.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be challenging to always be on edge, with thoughts of deadlines and fitting everything in filling your mind. How have you been coping with these feelings up until now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I've just been trying to take it one day at a time, but it's tough. I sometimes distract myself with Netflix or hanging out with friends, but the stress is always there in the back of my mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has provided a clear essence of the client's concerns regarding the pressures of balancing an internship with college. The client's feelings of stress and current coping mechanisms have been explored, and mutual understanding and empathy have been established. There is an opportunity to strengthen motivation and explore potential solutions by transitioning to the guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It appears you've been trying different ways to manage your stress, yet it's still lingering. If you imagine your life with less stress, what might that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd feel a lot more relaxed and able to focus on my studies without constantly worrying about the internship. It would be nice to just enjoy college life a bit more, without that constant pressure.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding that sense of relaxation and focus sounds really appealing. What small changes do you think might start to bridge the gap between where you are now and that more relaxed college experience you're envisioning?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting clearer boundaries with my time and being upfront with my boss about my limits could help. I guess I need to be more intentional about my schedule and not overload myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking steps to set boundaries and manage your schedule intentionally sounds like a thoughtful approach. On a scale of 0-10, how confident do you feel about making these changes to create more balance in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I’d say around a 6. I know what I need to do, but actually following through feels a bit daunting. It’s hard to know how to start or how my boss will react.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk regarding setting boundaries and being intentional with their schedule. They have identified a specific change goal (discuss boundaries with their boss) and rated their confidence at a 6. However, there’s hesitancy in taking the first step and concerns about their boss’s reaction. There’s room to further explore strategies for this conversation and increase confidence before moving to Choosing. Therefore, continuing in the Guiding phase to address these areas is advisable.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling a 6 shows that you have some belief in your ability to make changes, even if it feels daunting. What do you think might help increase your confidence, even just a little, as you consider setting those boundaries and talking with your boss?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe having a clear plan or script for what to say to my boss could help. Also, talking it over with friends who might have been in similar situations might give me some perspective and boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific changes to manage stress, such as setting boundaries and not overloading their schedule. Their confidence level is at a 6, suggesting some readiness for change despite initial uncertainty. They have expressed a clear next step—discussing their workload with their boss using a plan or script, and seeking support from friends. The client's focus on creating a plan indicates readiness to develop action strategies, suggesting they are ready to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a plan or script for discussing your limits with your boss sounds like a wise step, and speaking with friends who've been through similar situations could offer helpful insights. As we move forward, would you like to set a specific goal for crafting that script or having those conversations with your friends? Let's also consider what potential barriers you might anticipate and how you’d like to monitor your progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds good. Maybe I can aim to draft a script by the end of the week and chat with a couple of friends over the weekend. I think a barrier might be overthinking what to say or just procrastinating, so maybe setting deadlines for myself could help me stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Drafting the script by the end of the week and having those conversations over the weekend gives you a clear timeline. Setting deadlines can be a great way to manage overthinking and procrastination. How do you feel about checking in on your progress next week to see how the script writing and conversations went?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think checking in next week would be helpful. It'll keep me accountable and give me a chance to reflect on how things went. Plus, it'll be nice to have some support while I work through this.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Great, I'm glad that having a check-in next week feels supportive for you. Crafting your script and speaking with friends are steps that show you're taking charge of the situation. As you move forward, remember that it's okay to adjust your plan as needed. Would you like to explore any other resources or strategies that might help you stay on track with these changes?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think having some resources on effective communication or maybe stress management techniques could be useful. Just something to help keep me grounded if I start feeling overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan—drafting a script and talking with friends—and has anticipated potential barriers, such as overthinking and procrastination, with a strategy of setting deadlines. They expressed confidence in their ability to take these steps and agreed to self-monitor by checking in next week. They also identified additional resources to support their efforts, indicating strong commitment and readiness for action. The action reflections were accepted, showing alignment with the therapist's guidance. OARS feedback: The collaborative creation of a clear plan and recognition of potential barriers worked well. Keep using deadlines and peer support as strategies.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Those sound like excellent resources to explore. Having tools for effective communication and stress management can really help you feel more grounded and prepared. I can provide some materials or suggest some places you might find those resources. As you work on your script and conversations, try to be kind to yourself, recognizing that taking these steps is a positive move towards your goals. Let's plan to connect next week to discuss how everything went and address any new insights or challenges. You're doing great, and each step forward counts.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that would be helpful. I'll try to keep moving forward and stay grounded, and connecting next week sounds good.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific plan to draft a script and consult friends, addressing how to communicate with their boss about quitting the internship. They also have a check-in set for accountability, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Repercussions to quitting internship early\nI’m currently doing a remote international internship with a startup company (i’m a rising junior). My contract technically states I end on September 30th as I entered it in April, BUT my boss had made it clear she wanted me to work for 6 months via email (so around end of November as I actually started doing work in May).\n\nI feel like I’m in way over my head and that I won’t have time to do an internship alongside my studies once college starts. I want to quit by September 30th but am scared as to what she would say/what would happen if I don’t stick it out for 6 months (I’ve been working for ~2 months now and quitting in September would make it a total of 4 months).\n\nI’m debating talking to her about it but don’t know what to say. Will there be any repercussions if I end this internship on a bad note? Any tips or advice would be much appreciated!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

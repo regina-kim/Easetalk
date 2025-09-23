@@ -1,0 +1,167 @@
+{
+  "id": "yh2r0q",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What would you like to talk about today? Feel free to share anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I guess I'm just feeling a bit down about not having any Halloween plans. It's tough seeing everyone else having fun while I'm just at home.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really hard when you see others enjoying themselves and you feel left out. What about Halloween usually brings you joy or excitement?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I usually love dressing up and hanging out with friends, but this time it just didn't happen. It's just the whole vibe of it, you know? The spooky stuff, the energy—it’s fun to be part of all that.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like Halloween holds a special place for you, with the costumes, the spooky atmosphere, and the chance to connect with friends. Not having plans this year might feel like missing out on something you truly enjoy. What do you think might have kept you from making plans this time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm not really sure, honestly. I think I just got caught up in schoolwork and the days slipped by. Before I knew it, it was the weekend and nothing was lined up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration has effectively captured the client's thoughts and feelings about missing out on Halloween plans, along with the underlying reasons such as schoolwork. Empathy and rapport are evident, and there is a mutual understanding of the client's enjoyment and disappointment regarding Halloween. It seems suitable to move to the Guiding phase to strengthen motivation for change and explore potential ways to address the current feelings of isolation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing schoolwork and personal time can be challenging. Reflecting on how you missed out this year, what might make future events like Halloween more enjoyable or different for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Maybe setting reminders to plan ahead or reach out to friends earlier could help. I think I need to find a better balance between work and fun so things like this don’t sneak up on me again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach—giving yourself reminders and reaching out to friends earlier. How might finding that balance between work and fun benefit other areas of your life as well?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think it could help reduce stress overall. Having some fun stuff planned might make the workload feel less overwhelming and give me something to look forward to amidst all the responsibilities.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding that balance seems like it could bring some joy and relief into your life. Having events to look forward to could make a big difference. On a scale of 0 to 10, how confident are you in your ability to make these changes and find that balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe around a 6? I think I can do it, but it's going to take some effort and getting used to. I really hope it helps though, because feeling overwhelmed by school isn’t fun.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client identified a specific change goal: setting reminders and reaching out to friends earlier to balance work and fun. Confidence is at a 6, indicating some belief in their ability to implement changes. The client has expressed understanding of the benefits of this balance, suggesting readiness to move forward. Change Talk is present, with a focus on reducing stress and enhancing enjoyment. To transition smoothly, collaboratively developing an action plan with strategies for potential barriers could be the next step.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "With a confidence level of 6, it sounds like you're open to trying new strategies to find that balance. Based on your ideas, possible options could include setting a regular reminder to plan social activities and scheduling some downtime weekly. Which of these options, or others you might be considering, would you like to explore for setting a goal?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with setting a regular reminder sounds doable. If I can just remind myself to check in with friends or plan something small each week, it might help make things feel less rushed and more enjoyable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting regular reminders sounds like a manageable first step. How would you like these reminders to fit into your routine, and what specific times or methods do you think would work best for you to ensure they become a helpful habit?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I think maybe setting a reminder on Sunday nights could work, like right before the week kicks off. I usually have some downtime then, so using that time to plan ahead for some fun stuff seems like a good idea.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Planning on Sunday nights sounds like a great option since you have some downtime then. It could be a relaxed moment to think about the week ahead. How do you feel about setting the reminder on your phone or using a planner to help keep this new routine consistent?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I'm leaning towards using my phone since it’s always with me, and I can set an alert that actually pops up. I think that’ll make it harder to ignore and could help me stick to it better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of setting regular reminders to plan social activities, and has decided on Sundays as a practical time for this routine. They have also chosen their phone as the primary tool for reminders, addressing some anticipated barriers. The client has expressed a confidence level of 6, indicating readiness to start taking steps. Their commitment to trying these strategies and adapting to a new routine signals their motivation for change. OARS Feedback: The client effectively identified practical steps and showed willingness to implement them. Encouraging more reflections on potential barriers might enhance ongoing planning.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Using your phone for reminders is a fantastic choice since it's always nearby and can give you timely alerts. This step could really help you stay on track and create more enjoyable moments in your week. Establishing this new habit on Sunday nights may gradually help reduce the feeling of being overwhelmed. Remember, you're making a positive change for yourself, and it's okay to take small steps. As you start this new practice, know that it's a work in progress and you're doing great by taking action. Keep at it, and you'll likely see positive changes as you go along. Looking forward, perhaps setting a follow-up time to reflect on how this strategy is working for you would be useful. Keep believing in yourself—you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I'll give it a shot and see how it goes. It feels a little daunting, but I'm hopeful it’ll help lighten things up a bit.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively outlined strategies for balancing work and leisure, with specific plans for reminders. The client feels hopeful about the changes, and a follow-up is encouraged to assess progress. OARS feedback: Affirmations and reflections were skillfully integrated to build confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone else alone on Halloweekend?\nI’ve got no plans and I’m all alone, playing sims and watching horror movies.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

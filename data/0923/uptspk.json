@@ -1,0 +1,167 @@
+{
+  "id": "uptspk",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling kinda down and lonely since coming back home for the summer. Just trying to figure out how to deal with it. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Returning home can feel quite different, can't it? You're feeling down and lonely because the change in environment might not be what you expected or hoped for. What's been on your mind about this transition?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's been a big shift from being surrounded by friends all the time to being back home where I don't know many people. I guess I'm just struggling to find ways to stay connected and not feel so isolated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It can be tough when such a big part of your social life suddenly changes. You're missing that connection with friends and feeling isolated because it's not as easy to find the same support network at home. What have you been doing so far to try and stay connected, or what kind of connection are you hoping to find?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've been hanging out with a friend who lives nearby and we go to a club meeting once a week. It's nice but it doesn't fill up all the empty time, you know? I'm hoping to feel more engaged and not just waiting for summer to end.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited thoroughly, covering their feelings of loneliness and isolation, the transition from college to home, and the context of their social environment. The therapist has established rapport and understanding, explored the client's attempts to stay connected, and the essence of the client's concerns is clear. Moving to the Guiding phase is appropriate to strengthen motivation and evoke Change Talk about coping strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Keeping busy and finding meaningful connections sounds important to you. It seems like you're seeking more engaging ways to fill your time and create a sense of fulfillment. How do you imagine your summer would look if you felt more connected and engaged?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think if I felt more connected, I'd have a more balanced mix of spending time with friends, maybe picking up a new hobby, or just having things to look forward to regularly. It'd be nice to have plans that don't make the days feel so long and uneventful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a mix of social time, hobbies, and exciting plans sounds like a fulfilling way to spend your summer. You're aiming for variety and activities that break away from monotony. What new hobby or activity are you curious about exploring to add that sense of engagement and anticipation to your days?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'm kinda interested in learning how to play the guitar or maybe trying out some local art classes. Just something different to focus on, you know? I think having something new to work on might help break the routine a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Trying something new like playing the guitar or taking art classes sounds like an exciting opportunity for growth and connection. These activities could bring a fresh perspective and energy to your summer. How confident do you feel about taking the first step towards exploring these interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'm a bit nervous, to be honest. It's always kinda intimidating to start something new, but I'm also kinda excited about the idea. I think I just need to push myself to actually do it and see where it goes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a desire for more engagement and connection through activities like learning guitar or taking art classes, indicating a specific change goal. They have expressed a mix of nervousness and excitement about starting these new activities, showing a shift towards Change Talk. The confidence level, while not explicitly numbered, suggests readiness to take the first steps despite some apprehension. The conversation effectively explored the discrepancy between their current and desired state and evoked Change Talk. It seems appropriate to move to the Choosing phase to develop concrete action plans. OARS feedback: The reflections helped deepen the client's exploration of interests, and open questions effectively guided them toward potential changes.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your excitement about these new possibilities is inspiring. To make this happen, would you like to set a goal to either enroll in a local art class or start learning guitar by a certain date? We can also consider which small steps to take first. For example, you could research classes or watch beginner guitar videos online. How does that sound as a starting point, and what might be a useful first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good idea. Maybe I could start by watching some beginner guitar tutorials online this week. It feels less intimidating to start in a low-pressure way like that. Then I could look up art classes near me and see if any catch my interest.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Watching beginner guitar tutorials online sounds like a fantastic and approachable first step. It allows you to explore at your own pace. Once you feel more comfortable, you could research local art classes to see what options are available. How about we set a goal for you to watch a few tutorial videos this week and check out art class options within the next two weeks? What potential barriers might you anticipate, and how can we plan to manage them together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds doable and setting a timeline helps me stay on track. I guess one barrier could be losing motivation if I don't pick it up quickly, or if the art classes are expensive or far away. Maybe having a backup plan or reminding myself it's about having fun could help keep me going. Could we maybe brainstorm some backup plans or ways to stay motivated if things don't go as planned?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Absolutely, having backup plans and motivation strategies can be incredibly helpful. If beginner guitar tutorials feel challenging, we could explore alternative resources like apps or short online courses. For art classes, perhaps consider free community workshops or online sessions if local classes are costly. How about setting small milestone goals and rewarding yourself for reaching them? This could keep the focus on enjoyment rather than pressure. What other backup plans or motivational techniques do you think might work for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of using apps or short courses for guitar. And for art, online sessions sound like a good backup if I can't find anything nearby. Setting mini-goals and rewarding myself could definitely help keep things fun and light. Maybe even sharing progress with my friend who's nearby could be motivating too. What do you think about that?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of engaging in new activities like learning guitar and exploring art classes, along with a concrete action plan including watching beginner guitar tutorials and researching classes. They have also identified potential barriers such as losing motivation and proposed strategies like using apps, setting mini-goals, and involving a friend. The client has expressed commitment and readiness to take steps, indicating confidence in their plan. It's appropriate to move to the Terminating phase to support the client's independent execution of their plan and provide closure to this phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Sharing progress with your friend sounds like a wonderful way to maintain motivation and keep it enjoyable. Having someone to celebrate your achievements with can add a layer of accountability and fun. Apps and online sessions provide flexibility, allowing you to explore at your own pace. Let's aim for you to watch a couple of guitar tutorials this week and explore art class options in the next two weeks. Reward yourself for each step, and involve your friend for encouragement. You've got a solid plan, and taking these steps is a big move towards a more engaging and fulfilling summer. You've got this, and I'm here to support you every step of the way!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and suggestions. I'll give it a shot and keep you updated on how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to address summer loneliness, with defined goals and strategies. The therapist supported and affirmed the client's ideas, enhancing motivation. Providing this structure and encouragement aligns well with termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do yall cope with summer break depression/loneliness?\nI just finished with my first year of college and it was amazing. I lived on campus so I went out a bunch and made new friends and passed all my classes. But I'm back home and home is where I'm lonely af because I don't have many friends here and I can't drive so I can't go out anywhere by myself. \n\nThe good thing is that one of the friends I made only lives 10 minutes away and we're planning on hanging out every so often and I'm part of a club that meets to do stuff every Wednesday evening on campus (same friend is also part of it and will drive me there) but still. I'm not sure why I'm feeling depressed and lonely despite this but how do y'all cope with it especially since summer break is so long.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

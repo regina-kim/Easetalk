@@ -1,0 +1,272 @@
+{
+  "id": "tj0m66",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty down, to be honest. I've just been struggling with feeling really lonely and disconnected from people lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, feeling lonely and disconnected can be so overwhelming. Can you tell me a bit more about what's been happening or when you started feeling this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's been building up since I moved out of my old dorm a couple of months ago. I just don’t see my friends as much anymore, and it's like I don't know how to reach out or find new connections.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Moving out of your old dorm seems to have left you feeling isolated, which must be so difficult. You feel this way because you’re not seeing your friends as much and are unsure how to make new connections. What was it like for you in your old dorm, and how is it different now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): In the old dorm, I was always around people and we would hang out all the time, so it felt like I had a support system. Now, I'm in a suite where I get along with my suitemates, but we don't really interact much, so it feels kind of empty and quiet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive story, detailing their feelings of loneliness due to changes in their living situation and disconnection from their support system. The therapist has demonstrated understanding and empathy, effectively reflecting the client's emotions and concerns. The client's context, including the impact of their living situation and the history of relationships, has been explored thoroughly. Given the depth of exploration, it is appropriate to advance to the Guiding phase to strengthen motivation for reconnection and change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must have been comforting to have that constant support system around you in your old dorm. Now, the quietness of your new suite feels lonely. How do you feel about the idea of reaching out to your suitemates or perhaps finding other ways to connect with people?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "It's a bit intimidating, to be honest. I wouldn't even know what to say or do to start connecting with them, and I'm worried it might be awkward. Plus, I'm not sure where else to look for new connections right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's understandable to feel intimidated when thinking about reaching out. You've had a strong support system before, and it's natural to want that again. On a scale of 0 to 10, how confident are you about taking steps to connect with others, even if it feels awkward at first?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'd say it's probably around a 3 or 4. I want to try and be more social, but the thought of it makes me really nervous and unsure of myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's truly brave to consider stepping out despite feeling nervous. You're already showing a desire to reconnect, which is a great start. What do you think might help boost that confidence from a 3 or 4 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I had some ideas or a plan for what to say or do, it might help me feel a bit more prepared. I guess having a reason to reach out, like inviting them to do something specific, could make it less awkward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to reconnect and acknowledged the intimidation they feel towards reaching out, indicating some presence of Change Talk. However, their confidence is rated around a 3 or 4, demonstrating low readiness for change. Although they suggested having a plan might help, no specific change goal or next step has been collaboratively developed yet. More exploration of potential strategies and confidence building is needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Having a plan can definitely provide a sense of readiness and ease some of that nervousness. Inviting them to something specific sounds like a positive step toward connection. What kind of activities or settings do you think might feel comfortable and enjoyable for you and your suitemates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe something casual like grabbing a meal together or playing video games. Those feel low-pressure and give us something to focus on, so it's not just about trying to make conversation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "In the guiding phase, the client expressed a desire for social reconnection and identified specific activities to engage in with suitemates. Discrepancy between current social isolation and valued social connections was explored. Change talk emerged as the client considered steps to reconnect, though confidence remains low at 3-4. The client identified actionable ideas for reaching out, but confidence needs strengthening. Continue focusing on enhancing confidence and addressing barriers before transitioning to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Grabbing a meal or playing video games sounds like a wonderful way to create a relaxed atmosphere. It offers a shared experience without the pressure of constant conversation, which can make things feel more natural. Thinking about these activities, what might be the first small step you could take to set this in motion?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by just casually asking if anyone wants to join me for lunch or if anyone's up for a gaming session when I see them around. Like, just keep it chill and not make a big deal out of it. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a specific change goal: reaching out to suitemates for low-pressure social activities like meals or gaming. Confidence is low but the client is considering concrete steps to approach this challenge. There's been exploration of life before and after the move, and the client has shown a desire to change despite ambivalence. We should continue guiding to further enhance confidence and reduce ambivalence before advancing to choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "That sounds like a really approachable and low-pressure way to start a conversation. Keeping it casual can help ease the nervousness and make the interaction feel more natural. How do you feel about giving this a try the next time you see your suitemates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think I can give it a shot. It doesn't seem too overwhelming if I just keep it casual. I'll try to be more open to opportunities when they come up and see how it goes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to express Change Talk by acknowledging a desire to be more social and considering small steps to connect with suitemates, indicating movement towards a specific change goal. However, confidence remains low (3-4), and the client is still grappling with nervousness and uncertainty. While there is a budding plan to casually engage suitemates, further exploration of confidence-boosting strategies and addressing potential barriers is needed. Continuing in the Guiding phase will help solidify motivation and readiness for actionable planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "It's encouraging to hear that you're willing to give it a shot and see how it unfolds. Your openness to trying new things is a step towards building those connections you desire. How do you imagine your life might change if you start forming those new connections with your suitemates?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): If I start forming those connections, I think I'd feel a lot less isolated. It might help me feel more grounded and even improve my mood and motivation. Having people to talk to or hang out with regularly could make college feel more enjoyable again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun expressing Change Talk, indicating a desire to reconnect socially and considering specific actions to achieve this, such as inviting suitemates to casual activities. Confidence is currently low (3-4), but the client is open to trying new approaches and recognizes potential benefits like reduced isolation and improved mood. While the client is considering steps, they are still in the early stages of planning, and confidence needs strengthening before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Visualizing that more connected life, where you're feeling grounded and uplifted, sounds really motivating. Those positive changes could ripple into other areas of your life as well. What are some personal strengths or past experiences that you think might help you in creating these new connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Well, I guess I've always been pretty good at making people laugh and finding common interests with others. I used to be really involved in clubs and activities back in high school, which helped me connect with different groups of people. Maybe I can tap into those experiences and use them to help me reach out more now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific ideas for engaging with suitemates, such as casual activities like meals or gaming. They acknowledged feeling less overwhelmed by keeping interactions casual and have shown readiness to try these steps. The client has also reflected on how forming connections could positively impact their life, citing past strengths that could aid them. Change Talk is present, and the client appears motivated with at least one specific goal. Thus, the conversation is ready to move to the Choosing phase to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Your ability to make people laugh and find common interests is such a valuable strength, and tapping into those past experiences sounds like a great way to connect with your suitemates. Considering everything you've shared, a possible plan might be to start with inviting them for lunch or a gaming session, using your humor and shared interests to break the ice. What do you think about setting a small goal, like inviting them within the next week, and reflecting on how that goes? We can also think about any potential barriers you might anticipate and how you might navigate those.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): That sounds like a solid plan. Setting a goal to invite them within the next week is something I can definitely aim for. I guess a potential barrier might be feeling awkward or rejected if they’re not interested, but maybe I just need to remind myself that it’s okay if it doesn’t work out right away and to keep trying.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "It's great to hear you're open to setting this goal for yourself. Recognizing that initial awkwardness or fear of rejection is natural, and reminding yourself it's okay if things don't go perfectly at first is a healthy approach. Do you think it would be helpful to have a plan for what you might say or do if you feel that awkwardness, so you feel prepared in the moment? Also, how would you like to keep track of your progress and reflect on how things are going?",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, I think having a little plan for what to say would be helpful, just so I don't freeze up in the moment. Maybe I could keep it simple, like, \"Hey, I'm grabbing lunch, wanna join?\" or \"I'm thinking about gaming later, anyone up for it?\" As for tracking progress, maybe I could jot down a few notes after each interaction to see what worked and what felt challenging. That way, I can figure out what's helping me connect better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Having a simple script like that sounds like a great way to boost your confidence and ease those initial jitters. Jotting down notes after each interaction is a thoughtful way to reflect and adapt. Based on this plan, you could try inviting them within the next week, using your humor and past social skills to enhance the experience. Shall we agree to check in on how it's going and adjust the plan if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): That sounds good to me. I'll try to work on inviting them and use what I've learned in the past to make the interactions more fun and comfortable. Checking in sounds helpful too, so I can figure out what's working or if there's anything I need to tweak as I go along.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of inviting his suitemates for lunch or gaming within the next week, and has identified potential barriers like feeling awkward or rejected. He has also agreed on a strategy for self-monitoring by jotting down notes to reflect on what works and what doesn't, showing confidence and commitment to the plan. His action reflections were well-accepted, and he is open to adjusting the plan as needed. These elements indicate readiness to advance beyond the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "You've really put together a constructive and inviting plan, using your natural strengths and past experiences to guide you. It's wonderful to see you preparing to make those connections and being open to adjusting along the way. As you take this step, remember to be gentle with yourself and celebrate each effort, no matter the outcome. Let's plan to touch base soon, and I'm here to support you as you navigate these new interactions. Keep shining that humor and openness; it’s bound to create meaningful connections.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll give this a try and see how it goes. Looking forward to chatting again soon.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a plan to connect with suitemates by leveraging strengths like humor and past social skills. They are prepared to track progress and adjust as needed, meeting termination goals. Continued reflection and support will reinforce growth.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: college is making me feel super lonely\nI started going to college this year and it started off really great but now I’m really lost. I got to college in august about 2 months after a really rough break up so i was already a little depressed but i ended up making a good group of friends on my dorm floor that i hung out with very frequently. i was rooming with a friend of mine from high school, but i moved out this second semester as he was the worst roommate ever and just a really shitty person and friend in general. all of my friends thankfully took my side in the situation, but now that ive moved i dont see my friends that often at all anymore. my friend group had like 8 or so people in it with 2 or 3 i felt i had a genuine connection with. now i live in a suite with 3 guys i get along with but never really talk to. i don’t really text so i really only get to see and talk to three of my friends from my old dorm like maybe once a week. there are some who i haven’t even seen since i moved out 2 months ago. i’ve honestly never been more lonely and depressed in my entire life. my mental health was already not the best going into college but my friends helped me forget about it. now i find myself alone almost every day with no motivation to do anything and all i can think about is how lonely i am. I was already struggling with my grades but managed to stay afloat my first semester but now it’s even harder to do my school work and go to class. i want to reconnect with my friends or even make new ones but at this point in the semester im so lost as to how i would even do that.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

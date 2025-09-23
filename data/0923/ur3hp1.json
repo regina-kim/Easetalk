@@ -1,0 +1,188 @@
+{
+  "id": "ur3hp1",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've been kinda stressed about my thesis situation. Things aren't really going as expected with my advisor and the projects I was supposed to work on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging and frustrating. Can you share more about what's been happening with your advisor and the projects?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, it turns out my advisor isn't actually in charge of any of the projects I was supposed to be working on for my thesis. I found out by accident that she's more of a consultant, which means she doesn't have much control over how things are progressing, or not progressing, I guess.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit lost and maybe even let down by the situation. Could you tell me more about how this discovery has been affecting you and your work on the thesis?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, it's definitely been tough. I feel kind of stuck because none of the projects are moving forward, and it's making me worry about whether I'll be able to graduate on time. It's just been hard to stay motivated when everything feels so uncertain.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared specific concerns about their thesis situation, advisor, and related projects, providing a clear context of feeling stuck and worried about graduation. However, the therapist should explore the client's feelings further, gauge their thoughts on possible solutions, and understand their goals more thoroughly before moving to the Guiding phase. Continuing to build rapport and understanding is essential at this stage.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Navigating such uncertainty can be incredibly unsettling, especially when it's impacting your progress and motivation. How have you been coping with these feelings of being stuck and worried about your graduation timeline?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I've been trying to focus on other coursework and distract myself with things outside of school, but it's hard to shake the worry. I also talk to friends and family about it, which helps a bit, but I still feel a bit lost on what to actually do about it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively captured the client's feelings of being stuck, worried, and unsupported in their thesis situation. The therapist has built rapport and empathy by acknowledging the client's frustrations and uncertainty. The client has shared detailed context about their advisor's role and its impact on their progress and motivation. Given this understanding, it's appropriate to move to the Guiding phase to strengthen the client's motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It sounds like you've been doing your best to manage the stress and worry by seeking support from those around you. What do you think might help you feel more motivated or clearer about your next steps with your thesis?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Maybe having a clearer conversation with my advisor about the situation could help, but I'm not sure how to approach it. I guess if I could somehow get involved in a project that's actually moving forward, that might make things feel less uncertain, too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring ways to engage in that conversation with your advisor sounds like a promising step toward clarity. What might be important for you to communicate during that discussion, or what options do you think could help you feel more connected to your thesis work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I think it's important to let her know how confused and stuck I feel, and maybe ask if there are any other projects I could join that have more momentum. I'd like to understand what my options are and if there's a way to get more involved with something that's actually progressing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's meaningful that you're considering expressing your feelings and seeking new opportunities. What difference do you think it might make for you to be part of a project with more momentum, in terms of your motivation and sense of direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Being part of a project that's actually moving forward would definitely boost my motivation and give me a sense of purpose again. I think having a clearer path would help alleviate some of the stress and make me feel more confident about finishing my thesis on time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concerns and feelings of being stuck and uncertain. The client has expressed a desire to communicate with their advisor and seek projects with more momentum, showing specific change goals. Discrepancy between current and desired states has been identified, demonstrating readiness for change. The use of reflections and open questions has facilitated the client's articulation of specific next steps. With these elements, the client is ready to move into the Choosing phase to collaboratively develop action plans for engaging with their advisor and identifying suitable projects.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It sounds like joining a project with more momentum could really reignite your motivation and provide clearer direction. Based on what you've shared, possible options include preparing for that conversation with your advisor or exploring available projects more actively. What do you think would be a good first step to take toward these goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a conversation with my advisor is probably the best first step. I need to figure out how to express my concerns and see what options are available to me. Once I have a better understanding of the situation, I can look into other projects that might be a better fit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Engaging in that conversation with your advisor seems like a solid starting point. To prepare, you could consider jotting down your main concerns and questions. Would you find it helpful to outline what you hope to achieve from this discussion and explore ways to express your feelings and needs effectively? Additionally, what might be some barriers you anticipate, and how could you navigate them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, writing down my concerns and questions is a good idea. I definitely want to be clear about how this is affecting me and ask about other opportunities. One barrier might be if my advisor isn't very responsive or doesn't have any solutions, but I guess I could ask other faculty members for guidance if that happens.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a clear outline of your concerns and goals for the conversation seems like a proactive approach. Reaching out to other faculty members, should your advisor not be responsive, is a resourceful backup plan. How do you feel about setting a timeline for having this conversation? Also, what would help you stay motivated and on track while exploring other project opportunities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Setting a timeline is probably smart, so I don't keep putting it off. Maybe within the next week would be good. To stay motivated, I think I'll try to balance this with things that bring me joy outside of school, like hobbies or spending time with friends, so I don't get too overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and specific action plan by deciding to speak with their advisor about their concerns and options. They have anticipated potential barriers, such as their advisor's responsiveness, and have a plan to reach out to other faculty if needed. Additionally, the client is committed to setting a timeline and incorporating activities for maintaining motivation, indicating readiness to move forward. The client’s confidence to address these issues suggests they are prepared to transition to the Terminating phase. OARS feedback: The client showed clarity in outlining their concerns and proactive planning in preparing for the advisor conversation. Continuing to balance academic efforts with personal joy is a strong strategy.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Having a timeline of about a week sounds like a practical way to ensure you move forward with the conversation. It's wonderful that you're planning to balance your efforts with activities that bring you joy and help alleviate stress. To sum up, your key goals include preparing for the conversation with your advisor, expressing your concerns clearly, and exploring new project opportunities. Remember, reaching out to other faculty if needed is a solid backup. As you work on this, maintaining a balance with joyful activities will support your motivation. It’s impressive how you’re approaching this with such thoughtfulness. If you need any support along the way, know that you're not alone in this.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I'll try my best to follow through, and it's good to know there's support if I need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Goals and steps were clearly summarized, and a next-step plan involving a timeline and coping strategies was discussed. The client expressed gratitude and readiness to proceed, indicating closure on the session's objectives. OARS feedback: Reflecting and summarizing helped consolidate the client's action plan.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Any Red Flags I Missed?\nHi all, \n\nI'm in a thesis STEM MS where the professors/PIs largely choose students instead of having students rotate in labs or reach out to potential PIs. I was brought in to work on a few collaborative projects where the PIs and my advisor are not the same people. This was never mentioned to me, and I happened to find out when an undergrad and I were talking. For various reasons, any and all projects I was supposed to use for my thesis are either disjointed, have been delayed, or will no longer happen (it's been an entire semester and I've done no work on anything). Turns out my advisor merely \"consults\" on 1 of them and failed to mention she is not a PI on any project right now, is powerless to move them along, and seems to care a little less every day. This is slowly becoming more of an issue that could possibly keep me from graduating on time. \n\nIs any of this unusual, or is it just how it goes in academia sometimes? Is having an advisor who is not my PI problematic?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

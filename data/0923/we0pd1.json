@@ -1,0 +1,167 @@
+{
+  "id": "we0pd1",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've just been feeling pretty overwhelmed with school and trying to figure out what I really want to do. There's a lot on my mind about my current situation and future plans.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel overwhelmed when juggling school and future plans. What's been weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's mostly this feeling that I'm not on the right path with my major and that sticking with traditional college might not be the best fit for me. Plus, my lack of transportation just adds to the stress of everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're grappling with uncertainty about your major and whether traditional college is the right choice for you, on top of dealing with transportation issues. What thoughts have you had about what might be a better fit for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've been thinking about maybe working full-time and taking online classes instead, or even going back to community college. Both seem to offer more flexibility and fit better with my current situation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed concerns and considerations about their educational path, major, transportation challenges, and family dynamics, providing a comprehensive view of their situation. The therapist has empathized, reflected on the client’s feelings, and invited further exploration of potential fits, demonstrating rapport and understanding. Goals related to exploring have been achieved.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Those options you're considering seem to align well with your need for flexibility. How do you feel about the possibility of creating more balance in your life with these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, it feels like it could relieve a lot of pressure. I think having more control over my time could help me focus better and figure things out at my own pace. It's just the uncertainty and what my family will think that makes it tough to decide.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling relieved at the thought of more balance and control is a positive sign. What do you think your life might look like with less pressure from school and more time for you to explore your interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I imagine I'd feel a lot less stressed and maybe even enjoy learning more. With more time, I could explore different interests or career options without feeling rushed or restricted. It just feels like I'd have the chance to really find what suits me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Envisioning a less stressful and more enjoyable learning experience sounds really promising. How does this vision align with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "In the long run, I really want to find a career that I feel good about and that aligns with what I value, like having stability and being able to support myself. Right now, I feel like having more freedom to explore might lead me to something that fits better with those goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a clear vision of a more balanced and flexible educational path, aligning with their long-term goals and values. Change talk emerged when discussing options like working full-time and taking online classes, as well as exploring various interests at their own pace. The client articulated specific concerns about family opinions and financial stability, but their exploration of potential paths shows readiness to consider actionable steps. Ambivalence is still present, particularly regarding family acceptance, indicating the need for more guidance on this aspect.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Thinking about a future where you can explore freely and find a career that aligns with your values sounds empowering. As we consider steps toward this vision, what would you like to set as your initial goal? Options could include researching online programs, discussing plans with your family, or exploring new career paths.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting by researching online programs is a good step. It'll help me understand what's out there and if it aligns with what I'm hoping for. Once I have some solid options in mind, I can start thinking about how to discuss it with my family.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring online programs sounds like a proactive and insightful first step. How would you like to approach this research? You might consider setting aside specific times to explore different programs or reaching out to current students for insights, for instance.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think setting aside some regular time each week to look into different programs could work. Maybe I'll also join some online forums or groups where people share their experiences with different programs. That way, I can get a feel for what's out there and what might suit me best.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a structured routine for researching programs and engaging with online communities sounds like a solid plan. What potential challenges do you foresee with this approach, and how might you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(reflecting): I might get overwhelmed with all the information or find it hard to stay motivated. To overcome that, I could make a checklist of things I’m looking for in a program to keep myself focused and maybe set small, manageable goals each week to keep moving forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to research online programs and has developed a concrete action plan, including setting regular times and joining forums. They have identified potential challenges such as feeling overwhelmed and have proposed strategies like using a checklist and setting small weekly goals to overcome them. The client shows confidence in their ability to make these changes. They are ready to move into the Terminating phase to further support their autonomy and self-monitoring. OARS feedback: Your dedication to proactively researching and planning is commendable. Continuing to break tasks into manageable steps will help maintain your progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Making a checklist and setting small goals each week is a practical way to stay focused and motivated. It’s wonderful that you’re thinking ahead about how to manage potential challenges. As we wrap up today, remember that you're taking important steps towards a future aligned with your values and aspirations. Keep trusting yourself and the process. Next, let’s plan a follow-up to discuss your progress and any new insights or questions that might come up. Keep up the good work, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I’ll try to stick to the plan. I appreciate your support and I’ll definitely reach out if I get stuck or need more guidance. Looking forward to our next session!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified initial steps and coping strategies for exploring online education options and managing potential challenges. A follow-up plan is agreed upon, marking a natural conclusion to this session. The client feels supported and prepared for next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: So I’ve started college but I want a change\nI’m a first year student who’s recently finished summer school and overall I’ve enjoyed my time at university, but I honestly don’t think it’s for me. That’s not to say that I want to drop out, but I was hoping to get a full time job and take classes online instead. Also, I don’t have a car or any other sort of transportation besides walking or being driven around by a relative’s vehicle, so honestly, I don’t have reliable transportation when I’m at school. This is why I’d rather stay at home. \n\nAnyway, if that doesn’t work, I was thinking about just going back to cc (which was supposed to happen in the first place), but my family is pretty against me doing that and believe that I would be selling myself short by doing so. I’ve also considered dropping out as well because the major that I have chosen doesn’t seem to be a proper choice and it may not help me in the long run (elementary education). I’d rather not waste anyone’s time and money, you know? \n\nThen also there are some things in my personal life that I haven’t shared with my family and I’m unsure that if it ever comes up in conversation or I decide to tell them, then they’ll stop helping me pay for school. That’s why I wanted to get a job just in case something were to happen and they decide not to help anymore. \n\nNot sure what to do anymore :(",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

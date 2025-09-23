@@ -1,0 +1,167 @@
+{
+  "id": "xj26os",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's good to meet you. Feel free to share what's been on your mind lately or any challenges you might be facing. I'm here to listen and support you in any way I can.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Thanks for meeting with me. Lately, I've been thinking about whether I should go back to college or not. I dropped out before, and I'm worried about failing again and disappointing everyone. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel concerned about the possibility of disappointment, especially when it's something important to you. What was your experience like when you were in college before, and what led you to decide to leave?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It was pretty tough, to be honest. I was studying psychology, and I felt really overwhelmed with the workload. I guess I just didn't handle it well and ended up leaving because I couldn't keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling overwhelmed with the workload can be quite difficult to manage. What aspects of the workload did you find most overwhelming, and how did that impact your decision to leave at the time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It felt like everything was piling up too fast, like the reading and assignments. I started falling behind and then just felt like I couldn't catch up, which made me panic and doubt if I could even do it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared significant details about their past college experience, including feelings of being overwhelmed and concerns about disappointing others. There's a deep understanding of their previous challenges and current apprehensions. Empathy and rapport have been established with the client, and there is a clear goal to explore the possibility of returning to college. Moving to the Guiding phase is appropriate to begin strengthening the client's motivation for change and evoking change talk. The exploration phase's use of reflective listening was effective in understanding the client's story and concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must have been tough to feel like you were constantly trying to keep up and still falling behind. When you think about the possibility of going back now, what parts of going back to college excite you, and what might be your biggest concerns?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "The idea of learning about something I'm interested in and potentially getting my degree excites me. But I'm really worried about the workload again and the fear of not being able to handle it, even if I try harder this time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing excitement with concerns is a normal part of considering such a significant decision. What strengths do you think you have now that could help you manage the workload differently if you choose to return to college?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think I've become a bit more self-aware about how I learn and manage my time. Plus, I know I can ask for help if I need it now, which I didn't really do before.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Recognizing your growth in self-awareness and knowing when to seek help are valuable strengths. How might these insights shape your approach to managing the workload if you decide to go back to college?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I guess I'd try to be more proactive about asking for help when things start to get overwhelming, instead of waiting until it's too late. I could also try to set up a better schedule for studying and assignments so I don't fall behind like last time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed excitement about returning to college and has identified strengths such as increased self-awareness and willingness to seek help. These strengths address previous challenges, demonstrating increased readiness for change. The client has also explored how these strengths may help manage potential barriers, indicating a specific change goal. Confidence appears to be higher, as the client articulated a clear strategy for handling workload, aligning with change talk and decreased ambivalence. This suggests readiness to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating a proactive plan around seeking help and time management seems like a solid foundation for success. Considering these strategies, what specific steps could you take to get started on this path? Options could include researching study resources or setting up a meeting with an academic advisor. What do you think might be helpful for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think setting up a meeting with an academic advisor could really help me figure out a plan. Maybe they could suggest some study resources or give advice on managing the workload better. Plus, I could look into any support services the college offers, like tutoring or workshops.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Connecting with an academic advisor and exploring support services sounds like a promising approach. How do you envision taking these first steps, and what timeline feels realistic for you to initiate these actions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I guess I could reach out to the school and set up a meeting with an advisor in the next couple of weeks. It'd be good to gather all the info before making a decision about reapplying, so maybe aiming for sometime this semester sounds doable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Reaching out to an advisor within the next few weeks and gathering information this semester seems like a thoughtful timeline. What might help you stay on track with this plan, and how would you like to monitor your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I could set reminders on my phone to keep me on track and maybe check in with a friend or family member about my progress. Having someone to talk to about it might help keep me motivated and accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of returning to college and has developed a concrete action plan, including meeting with an academic advisor and exploring support services. They have discussed potential barriers, such as workload management, and have proposed self-monitoring strategies like setting reminders and checking in with a friend or family member. The client demonstrates commitment and confidence in taking these steps, indicating readiness to move to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting phone reminders and involving a friend or family member to check in are great ways to maintain motivation and accountability. You've laid out a practical and supportive plan. By reaching out for help and resources, you're really setting yourself up for success. As you move forward, remember to celebrate small wins along the way. Each step you take is bringing you closer to your goal. Keep trusting in your strengths, and know that you're capable of navigating this journey. If you ever feel uncertain, reaching out for support from those around you is always a strong move. You're on a good path here!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. It feels good to have some steps to follow, and I'll definitely keep this all in mind.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified strengths, formulated a plan, and set a timeline for reaching goals. They have also established support strategies, meeting termination goals. This session effectively harnessed strengths and collaborative planning.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Tips for potentially going back to college?\nI dropped out in my second year of psychology coz it was quite hard. Looking back I think while yes it was hard I definitely didn’t put in as much effort as I could have. Oops. I’m wanting to potentially go back and try again but I’m worried it will in fact be too hard even if I try really hard this time. I don’t think I could deal with everyone’s disappointment in me for a second time. Should I reapply for next year? Or does anyone have any degree suggestions similar to psych that may not be “as intense”? \nCheers!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

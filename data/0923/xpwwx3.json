@@ -1,0 +1,167 @@
+{
+  "id": "xpwwx3",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? If there's anything on your mind you'd like to talk about, I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright, just a bit stressed. I've been thinking a lot about job options and how to balance my schedule and future goals, and it's been weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing job options with your schedule and future goals can feel overwhelming. What aspects of this situation are weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's mostly about making the right choice that won't mess up my future plans. Like, do I prioritize immediate financial needs or focus on building my resume for long-term career benefits?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're caught between the need for immediate financial stability and the desire to invest in your long-term career. Can you tell me more about what your future plans and goals look like?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, for sure. So I'm aiming to get a solid tech internship and eventually land a good role in the field after graduation. But I also need to cover expenses now, and it's tricky trying to find the right balance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about balancing financial needs with long-term career development, expressing specific details and underlying feelings. They articulated future goals and provided context about their decision-making dilemma. Empathy and rapport have been established, as seen in the client's openness. This sets a foundation to move into the Guiding phase, where the focus can shift towards strengthening the client's motivation for change and evoking Change Talk. Summarizing and reflecting effectively helped clarify the client's priorities and feelings, facilitating a mutual understanding of their situation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Pursuing a tech internship while managing present expenses is a challenging balance. How do you see each option aligning with your vision for the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Well, working in the IT department seems more aligned with my vision because it’s experience directly related to my field, which could be beneficial for tech internships later. But the other jobs offer more money and flexibility, which could help me manage my current expenses better and reduce stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the value of gaining relevant experience against the financial relief and flexibility other jobs offer. What do you think might be the impact on your future if you choose one path over the other?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "If I choose the IT department job, it might put me in a better spot for future tech roles by boosting my resume and giving me relevant experience. But if I go for a job like Doordash, I could manage my finances better right now, which might reduce some immediate stress but could mean fewer opportunities to gain tech experience.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Both paths offer unique benefits and challenges. How does balancing immediate financial stability with gaining tech experience align with your core values and long-term aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): That's a tough one. I guess my core values lean towards building a solid foundation for the future, so the tech experience is important. But at the same time, I value stability and being stress-free, which makes the immediate financial help appealing too. It's like I'm trying to prepare for the future without struggling too much right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated the discrepancy between immediate financial needs and long-term career goals, showing an understanding of how each job option aligns with their values and aspirations. The conversation explored potential impacts of each choice on future goals and immediate stress. The client has expressed a preference for building a solid foundation for the future, indicating readiness to set specific goals and make actionable plans. Having addressed ambivalence and evoked Change Talk, it's appropriate to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Considering your core values, it seems like both financial stability and gaining tech experience hold significant importance for you. Based on what you've shared, possible options could include exploring part-time opportunities in IT that might offer both experience and some income or finding a balance between two roles. What would be a realistic and attainable goal for you right now?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): A realistic goal might be trying to find a part-time IT role that doesn't take up as much time, so I can maybe do a bit of something like Doordash on the side. That way, I can get some relevant experience but still have flexibility and extra cash when I need it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful plan that aligns well with your values and current needs. Having both a part-time IT role and a flexible side job like Doordash might provide the balance you’re looking for. What steps do you think you could take to start pursuing this goal, and how can we plan to address any challenges you might face along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(planning): I guess the first step would be to check out the openings in the IT department and see if there are any part-time roles available that fit my schedule. After that, I could look into signing up for a flexible job like Doordash. As for challenges, managing my time and making sure I don’t burn out will be important, so maybe establishing a schedule could help. Maybe we can work on some strategies to deal with stress and keep everything balanced.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a schedule sounds like a proactive step that could help in balancing both roles. Exploring IT openings and getting started with Doordash will give you a clearer picture of how to allocate your time. As for managing stress, how about we develop some strategies together, like setting boundaries for work hours or incorporating relaxation techniques into your daily routine? How would you like to monitor your progress and ensure you're staying on track with your goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): Yeah, setting boundaries sounds like a good idea, and maybe I could try some relaxation techniques or short breaks during the day to keep stress levels down. To monitor my progress, I could check in weekly on how well I'm keeping up with my schedule and see if I'm balancing things okay or if I need to adjust anything. We could maybe have regular sessions to go over how things are going and tweak the plan if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal to balance a part-time IT role with a flexible job like Doordash, aligning with their values of gaining tech experience and financial stability. They have outlined actionable steps including checking IT openings and managing stress through scheduling and relaxation techniques. They've also agreed to self-monitor progress through weekly check-ins and regular sessions to adjust plans if necessary. The client's commitment and planning indicate readiness to advance. OARS feedback: The session effectively used reflections and affirmations to solidify the client’s confidence, while open questions helped explore and clarify their motivations.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Checking in weekly to assess your progress and make necessary adjustments will help keep you aligned with your goals. Incorporating relaxation techniques and taking short breaks throughout the day can also be beneficial for managing stress. Regular sessions can provide an opportunity to reflect and adjust as needed. You're taking proactive steps towards a balanced approach, which is really commendable. Remember, you’re building towards your future while caring for your present well-being, and I’m here to support you every step of the way. Looking forward to hearing about how things unfold for you!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support and guidance. I'll give these strategies a try and keep you updated on how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clarified goals and steps for balancing financial needs with career aspirations, while developing coping strategies for stress management. A plan for monitoring progress is in place. OARS feedback: Effective affirmations and reflections supported goal alignment.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Choosing between jobs that are better financially and one’s that add to your resume\nThis decision has been bothering me for the past couple of days. I’m a computer science major who is studying for my masters (am a freshman atm) but choosing where to work during the school year isn’t exactly as easy as your summer job, obviously. My school has an IT department that students can work for that seems like pretty great experience and allows a little bump to my resume when I am to apply for internships in the tech field. \n\nOn the other hand though, you have jobs like Doordash that allow more flexibility in your schedule (which would be extremely helpful) and just pay significantly more. I’m not just referring to Doordash but many jobs in the area. This is not a straightforward do this or do that question of course, but I’m just stuck at a cross roads and am having a hard time choosing. Anyone got any pointers on what I should choose here? This isn’t going to be a full commitment, I hope to get an internship instead as I progress through college, but the choice still matters, thanks so much for the help in advance.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

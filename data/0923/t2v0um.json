@@ -1,0 +1,188 @@
+{
+  "id": "t2v0um",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for talking with me. I've just been feeling really stuck with my studies this semester. It's like no matter how much I study, nothing seems to stick, and it's getting really frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling frustrated because you're putting in a lot of effort, but not seeing the results you expect. What's been happening in your life that might be affecting your studies?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's a mix of things, I guess. There's just a lot going on, like trying to balance classes, work, and some personal stuff. I just feel overwhelmed, and it's hard to focus on any one thing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It can be really tough to manage so many responsibilities at once, and feeling overwhelmed makes it hard to concentrate. How have you been coping with all these demands on your time and energy?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I've been just trying to push through, but it's like running on empty. I'm not sure if it's the best way to handle things, but I don't really know what else to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of frustration and overwhelm related to their studies, along with the broader context of balancing other responsibilities. The client expressed coping by pushing through despite feeling depleted. The therapist has effectively explored the client's thoughts and feelings, and empathized with their challenges. The conversation has developed rapport and mutual understanding, which indicates readiness to guide the client towards identifying motivation for change. The empathic understanding and detailed context provided form a strong basis to proceed to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be exhausting to feel like you're pushing through without much left to give. When you imagine a future where everything feels more balanced, what does that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I dream of having a routine where I can handle my classes and work without feeling like I'm constantly scrambling. I'd love to have time for myself too, to just relax or do something I enjoy without feeling guilty about not studying.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having time for yourself and maintaining a balanced routine sounds really important to you. What small changes do you think might help you move toward that vision, even if they're just steps in the right direction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try setting more realistic study goals or breaking my tasks into smaller, manageable chunks. Also, allowing myself some downtime without feeling guilty might help recharge my energy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Acknowledging that setting realistic goals and taking breaks is crucial can be a great start. On a scale from 0 to 10, how confident do you feel about implementing these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe around a 5 or 6. I want to be more consistent with it, but I worry about slipping back into old habits. It's a bit hard to trust myself to keep it up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for a balanced routine and identified potential steps to achieve it, such as setting realistic study goals and allowing downtime. However, their confidence is rated at a 5 or 6, indicating some uncertainty. While there is some Change Talk and exploration of a future with change, the client's confidence needs bolstering, and there's concern about reverting to old habits. Continuing in the Guiding phase will help strengthen the client's motivation and confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It's understandable to have concerns about maintaining changes, especially when you're trying to break old patterns. What has helped you succeed in making changes in the past, and how might those strategies support you now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): In the past, I've found that having some kind of accountability, like a friend checking in or setting reminders, has helped me stick to new habits. Maybe I could try to incorporate those strategies again to help keep me on track this time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific vision for change, including setting realistic goals and incorporating downtime, indicating a readiness to begin planning concrete steps. Change Talk is present, with a confidence level around 5 or 6, and strategies such as accountability have been identified to overcome barriers. The client's ambivalence is acknowledged but seems manageable with support. Moving to the Choosing phase can help solidify a plan based on these identified strategies and goals.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Having accountability through friends or reminders has clearly been helpful for you in the past. Let's think about how you might set this up for yourself now. Based on what you mentioned, some possible options could include scheduling regular check-ins with a friend or setting up reminders on your phone to take breaks and stick to realistic study goals. How do you feel about trying one or both of these strategies?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think both could be really helpful. Having a friend check in would make me feel less alone in this, and reminders on my phone would keep me on track without overthinking it too much. It's worth a shot to see if it makes a difference.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Creating a support system with a friend and using phone reminders sounds like a solid plan. What steps do you think you'll take first to get this set up, and are there any potential challenges you anticipate that we can plan for together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I guess my first step would be reaching out to a friend who I can trust to check in with me regularly. Then, I'll set up some reminders on my phone for breaks and study goals. A potential challenge might be sticking to it when things get really hectic, so maybe we could plan for how to handle those busy times without falling off track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Reaching out to a trusted friend and setting phone reminders are great steps forward. To prepare for those hectic times, perhaps you could discuss with your friend how they might help during those moments, or consider building flexibility into your reminders. How do you feel about these ideas, and is there anything else you think might be helpful to address the busy periods?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of talking to my friend about those busy times. Maybe they can help keep me grounded and remind me of my goals. Also, having flexible reminders seems smart, so I don't feel too pressured. I'm not sure what else could help, but maybe just acknowledging that it's okay to be flexible would make a difference.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan, involving reaching out to a friend for support and setting phone reminders for balance. They have discussed potential challenges, like busy periods, and planned strategies such as involving their friend and maintaining flexible reminders. The client shows commitment by acknowledging these steps are worth trying and is aware of the need for flexibility. This indicates readiness to proceed with implementing the plan and monitoring progress. OARS feedback: The client effectively used their past experiences to develop a realistic plan with supportive strategies. Continue to explore flexibility and allow room for adjustments, which will build resilience as they implement these changes.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Acknowledging the need for flexibility during busy times and discussing it with your friend sounds like a wise approach. It's great to see you're considering how to balance structure with adaptability. Remember, it's perfectly okay to adjust your plan when needed, and being kind to yourself is part of the process. As you move forward, know that you're taking meaningful steps toward your goals. If something doesn't go as planned, it's all part of learning and growing. Keep leaning on your support system, and trust in the progress you're making. Feel free to reach out anytime for more guidance or support. You're doing really well on this path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll do my best to stay flexible and keep moving forward, and I'll definitely reach out if I need more help.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified strategies to overcome study challenges, including accountability and flexibility. They have a plan for reaching out to a friend and setting reminders. Termination goals are met with coping strategies and next steps discussed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Hitting a wall in my studies\nThis semester has been hard on me. I keep hitting a wall in my studies, I keep forcing myself to study but it's not really helping if Im only absorbing just a small amount of knowledge from hours of studying. Have u guys been in these situation? And if u have been in this situation how do u get out of it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

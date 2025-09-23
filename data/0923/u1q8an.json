@@ -1,0 +1,167 @@
+{
+  "id": "u1q8an",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? Feel free to share anything on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I've been thinking a lot about taking a year off from school. I just need a break from everything and everyone here. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Taking a year off sounds like a big decision. What is it about school that's making you feel like you need a break right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's a mix of things, really. The environment just feels off to me, and I can't seem to connect with my classmates or professors. Plus, I feel like I need some time to focus on myself and figure out what I really want.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling disconnected from the people around you at school, and that's weighing on you. Taking time to focus on yourself can be really important. What are some things you've been considering doing during your break to help figure out what you want?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I've been thinking about traveling, experiencing new cultures, and maybe picking up a new language. I also want to work on my mental health and just have some time to breathe and reflect, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been elicited effectively, revealing their disconnection with classmates and a desire for personal growth through travel and self-reflection. The therapist has built rapport and showed empathy by acknowledging the client's feelings and aspirations. The goals of the Exploring phase appear to be mutually understood. The client’s motivations for a year off have been detailed, allowing for a transition to strengthening motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful way to spend your time away. Traveling and working on your mental health can offer fresh perspectives and clarity. How do you see these experiences helping you reconnect with your goals or passions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I feel like experiencing new places and meeting different people could really help me understand myself better. Maybe it could even help me figure out what I’m passionate about and align my goals with something that truly excites me. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Exploring new places and meeting diverse people might truly illuminate those aspects of yourself. What aspects of your life or future do you hope to gain more clarity on?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I hope to gain more clarity on my career path, like what I really want to pursue after college. I also want to understand myself better in terms of what makes me happy and fulfilled outside of academics.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Gaining clarity on your career path and understanding what brings you happiness sounds essential. How does the idea of aligning your career with your passions and happiness make you feel about the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Honestly, the idea of aligning my career with my passions sounds both exciting and a bit daunting. I just hope that taking this time off will help me feel more confident about the choices I make moving forward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed strong motivation to take a year off from college, clearly outlining their desire to travel, learn new languages, and focus on mental health. They have identified the benefits of these experiences for personal clarity and career alignment. Change Talk is present with specific goals, and the client's excitement and hope for increased confidence in future choices indicate readiness to plan next steps. There is a clear discrepancy between the current situation and desired values. Moving to the Choosing phase is appropriate to develop action plans and address potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking time off to gain confidence in your choices and align your career with your passions seems both exciting and wise. Based on what you've said, potential steps might include planning your travel destinations and deciding on activities to support your mental health. How do you feel about exploring these options and identifying any barriers you might face during this break?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I feel pretty excited about planning where to go and what to do for my mental health, but I'm also a bit nervous about financial stuff and how to explain this decision to my family. I'm worried they might not understand why I need this break.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "It's understandable to feel both excitement and apprehension about these big steps. Possible options to address these concerns include budgeting for your travels and finding ways to communicate your needs to your family. How do you feel about creating a plan to manage your finances and preparing to have an open conversation with your family about your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "The idea of creating a plan makes me feel a bit more grounded, like it could help me tackle those worries step by step. I'm just hoping I can get my family to see where I'm coming from, even if it's a bit difficult at first.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a step-by-step plan to manage your finances and approach your family can truly provide some clarity and confidence. We could explore options like setting a travel budget, identifying potential cost-saving measures, and practicing how you'll discuss this with your family. What are your thoughts on starting with these steps, and are there any specific strategies you have in mind for talking to your family?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a budget and cost-saving ideas sounds like a good first step. As for talking to my family, maybe I could show them how this year off could benefit my future and mental health, like share some articles or stories of others who've done the same.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal of taking a year off to travel and work on personal growth, and a concrete action plan involving budgeting and family discussions. Barriers such as financial concerns and family communication have been acknowledged, and strategies for overcoming them have been discussed. The client has expressed a commitment to these plans and steps, showing readiness to advance. The client’s confidence seems to be growing as they are open to taking actionable steps. Move to Terminating to support the client in finalizing and solidifying their plans. Your openness and thoughtful reflections have helped the client align their goals and strategies effectively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those sound like very thoughtful strategies. Starting with a budget and cost-saving ideas gives you a solid foundation to build on, and sharing stories and articles might help your family understand your perspective more deeply. It’s great to see you preparing to communicate openly with them. Remember, being patient with yourself and your family during this conversation is key. As you work on these plans, know that taking small steps can lead to significant progress. You’re making informed decisions, and that’s commendable. Keep leaning into that excitement and courage as you move forward. For our next step, let's check in soon to see how these initial plans are shaping up and explore any new insights or challenges that arise.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I appreciate the encouragement and the reminder to be patient. I'll start working on those plans and see how things unfold. Checking in soon sounds good, so I can share any updates or bumps in the road.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals were met by summarizing the client's strategies and acknowledging their thoughtful approach. A next-step plan was discussed, including budgeting and family communication strategies. Affirmations were used to encourage confidence and excitement.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: i want to take a year off of my second year in college\nI really regret not taking this year off but I'm passing it because I have a good grades, but i really want to take the next year off i want to travel around the world and work on myself, learn another languages , and most importantly work on my mental health, i also can't stand my classmates and my professors i hate every minute I'm spending it with those fu*kers, i just want to take a full year off, is that bad am i ruining my future",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

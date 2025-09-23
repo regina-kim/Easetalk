@@ -1,0 +1,188 @@
+{
+  "id": "rwup9n",
+  "subreddit": "GradSchool",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just feeling a bit overwhelmed with school stuff. I've been having some trouble with my thesis and my advisor, and it's stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Juggling schoolwork and dealing with thesis challenges can be really tough. What specifically has been stressful about your thesis and the interaction with your advisor?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's like I can't seem to do anything right with my thesis. My advisor seems really unhappy with me, and I'm worried it's going to mess up my scholarship if I switch to a non-thesis track. It just feels like everything's piling up at once. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing multiple pressures can indeed feel overwhelming, especially when it involves something as significant as your thesis and scholarship. How have you been managing this stress, and what kind of support do you think might help?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Honestly, I haven't been managing it very well. I've just been trying to keep up with everything and not fall behind, but it's been tough. Maybe having some clear guidance or a plan would help, but I'm not sure where to start.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed concerns about their thesis challenges, including the relationship with their advisor and the potential impact on their scholarship. The conversation has effectively explored the client's thoughts, feelings, and context, offering a comprehensive view of their dilemma. There is established rapport, and the client has expressed a need for guidance. Moving to the Guiding phase can help strengthen motivation for change and evoke change talk by focusing on exploring potential solutions and plans. OARS feedback: The exploration was deep and empathetic, capturing the client's emotional distress and context, which facilitates a smooth transition to exploring motivation and solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having a clear path can indeed make things feel more manageable. If things were to improve with your thesis and advisor, what would that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess it would mean having better communication with my advisor and understanding exactly what she expects from me. I'd like to feel more confident in my work and meet deadlines without being so stressed out. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Improved communication and clarity with your advisor could really help reduce stress. What steps do you think might help boost your confidence in your work and meet those deadlines?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think breaking down my work into smaller, manageable tasks could help me stay on track. Maybe setting up regular check-ins with my advisor to go over progress and get feedback would be good too, so I don't feel so lost.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Breaking tasks into smaller steps and having regular check-ins sounds like a practical approach. On a scale of 0 to 10, how confident do you feel about implementing these strategies to improve your situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, maybe around a 5 or 6. I feel like these ideas could work, but I'm still a bit unsure about how my advisor will respond. I just hope she’s open to it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated change talk by identifying specific goals like improving communication with their advisor and breaking tasks into smaller steps. They have expressed a confidence level of 5 or 6, indicating moderate readiness but with some remaining ambivalence about their advisor's response. While there is a clear change goal, the client's uncertainty and current confidence level suggest that continuing in the Guiding phase would be beneficial to further explore and strengthen their confidence and resolve.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It's understandable to have some uncertainty about how your advisor might react. Navigating these dynamics can be challenging. What might help you feel more prepared or confident in approaching your advisor about these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I think preparing a clear plan to present to her might help. If I can show I've thought it through and am committed to improving, maybe she'll be more receptive. Also, maybe practicing what I want to say with a friend or writing it down first could ease my nerves a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals such as improving communication with their advisor, breaking tasks into manageable steps, and setting up regular check-ins. They've demonstrated motivation by suggesting a strategy to boost confidence—preparing a plan to present to the advisor. Confidence is rated around 5 or 6, indicating some readiness but also areas for growth. Change Talk is moderately present with reduced ambivalence. Given these factors, moving to the Choosing phase to collaboratively develop a detailed action plan and strategies to handle anticipated advisor responses would be beneficial.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a clear plan and practicing your approach can certainly help boost your confidence. Based on what you mentioned, options could include drafting a detailed outline of your thesis tasks or scheduling practice conversations with a friend. How would you like to begin, and what other steps might support you in this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think starting with drafting a detailed outline of my thesis tasks sounds like a good first step. Breaking it down might make it less overwhelming for me. After that, I could try practicing the conversation with a friend to get comfortable with what I want to say. Maybe even writing an email draft to summarize my plan could be useful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Developing that outline as a first step sounds promising and can make your workload feel more approachable. Practicing with a friend and drafting an email to your advisor are great strategies to enhance your communication. What might be some potential challenges you foresee, and how do you think you could address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(reflecting): I think one challenge could be staying motivated to stick to the outline, especially if things get overwhelming. And I'm a bit anxious about my advisor's reaction, like if she doesn't seem supportive of my plan. To address that, maybe I could set small rewards for myself when I complete parts of the outline and remind myself to stay calm and open-minded during the conversation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting up small rewards for completing parts of your outline is a great way to maintain motivation. Staying calm and open-minded during your conversation reflects a constructive mindset. Would you find it helpful to set specific milestones for your outline or brainstorm phrases that help you stay composed if your advisor's reaction is different than expected?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, setting specific milestones could definitely help keep me on track. As for staying composed, maybe having a few calming phrases in mind would ease my nerves, like reminding myself that feedback is part of the process and it's okay not to have all the answers right away.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan, including drafting a thesis task outline, practicing conversations, and drafting an email for their advisor. They have also identified potential challenges, such as staying motivated, and proposed strategies like setting milestones and using calming phrases. The client's commitment is evident, although there remains some anxiety about the advisor's reaction. Given these elements, the client is prepared to move forward, and the focus can shift to implementing and adjusting the plan as needed. OARS feedback: You have demonstrated a strong commitment to improving the situation by developing a detailed plan and considering challenges proactively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Creating milestones can certainly keep you on track and break down the workload into more manageable pieces. Having calming phrases, like the ones you mentioned, can be a powerful way to stay grounded during your conversation. As you prepare to take these steps, remember you’re building skills that will serve you well beyond this situation. You have a thoughtful approach and a clear plan, and that’s a significant strength. Moving forward, starting with your thesis outline and setting those milestones could be your next steps. If you need any further support or encouragement, remember I'm here to assist you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate that. I'll start by focusing on the outline and setting those milestones. It helps knowing I have a plan and that I can come back for support if I need to.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively met termination goals, including summarizing steps and coping strategies while planning next steps. The client demonstrated understanding and readiness to implement the strategies discussed. Affirming client’s progress and strategy-building helped build confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Form to switch from thesis to non thesis\nI am scared and in dilemma. This is my second semester here. My advisor has been unhappy with me for sometimes because I couldn't meet the deadline with my thesis timeline. \n\nAlso since in our last visit, I asked some silly question which made her judge my intellectual level perhaps. I zone in and out of conversation a lot and she thinks I do not pay attention to the details.\n\nLast time, I sent her a proposal draft and she never got back to on that. Just like that, semester ended. After filling up a evaluation form, she now says that I should give up thesis. She sent me a bunch of comments saying I couldn't stick to the deadline and I am bad at communication as I never sent her a follow up email on the proposal draft. \n\nI sent her an email asking for her genuine guidance. My dilemma is I am an international student and am sustaining here because of the scholarship and stipend. If I change to thesis, I believe I will lose both. Now that the winter semester is starting, I don't know if should switch as she advised me or convince her to let me do my thesis. If I do convince her, I feel like she would be hard on me. \n\nThe way she is pressuring me to drop the thesis makes me feel like she just doesn't want me to be part of her project anymore.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

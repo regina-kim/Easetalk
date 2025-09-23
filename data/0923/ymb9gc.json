@@ -1,0 +1,272 @@
+{
+  "id": "ymb9gc",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? If there's anything on your mind or any part of your story you'd like to share, I'm here to listen.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I'm just really overwhelmed right now. This project is draining me and I'm struggling to see the point of it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds overwhelming dealing with a project that feels draining and pointless. What's been the hardest part for you about this project?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it's just that it feels so disconnected from what I actually wanted to do. I had all these ideas and interests when I started, and now it feels like I'm stuck in something I don't even care about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Feeling stuck in something that doesn't align with your original ideas can be really frustrating. It seems like there's a gap between your initial interests and where you find yourself now. Can you tell me more about those ideas and interests you had at the beginning?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, at the start, I was really excited about diving into research that tackled real-world problems, something meaningful to me and maybe even to others. I envisioned working on projects that matched those interests, but somewhere along the way, that got lost, and now I'm stuck with this thing I can't stand.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed story about feeling overwhelmed and disconnected from their project, which includes the context of initial excitement and current frustration. The conversation has successfully elicited the client's thoughts and feelings, providing insight into their motivations and struggles. Empathy and rapport appear to be established through reflective listening. With the essence of the client's story captured and mutual understanding developing, it is appropriate to begin strengthening motivation for change and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That must be tough, having your passion and vision feel lost along the way. When you imagine working on projects that feel meaningful, how do you think that might impact your motivation and satisfaction?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think I'd feel a lot more driven and fulfilled, like I was actually making a difference, you know? It would probably make the late nights and stress feel worth it, instead of just exhausting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling driven and fulfilled by meaningful work sounds incredibly rewarding. How would taking steps towards aligning your projects with your original interests change your current experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "It would probably make things feel a lot more bearable, like I'd have a reason to push through the tough moments. I think it would remind me why I wanted to be here in the first place and give me some hope that things could be better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Recapturing that sense of purpose might breathe new life into your work and provide the motivation you’re seeking. On a scale from 0 to 10, how confident do you feel about exploring ways to reconnect with your initial interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Probably somewhere around a 4 or 5. I mean, I want to feel that connection again, but I’m not entirely sure how to get there right now. It feels like I'm in too deep with this current project to pivot easily.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current project and their original goals, indicating the issue has been explored. However, their confidence in making changes is low (4-5), and there's significant ambivalence about the project's worth and potential for change, shown by the sustain talk. The client needs more guidance to increase confidence and reduce ambivalence. Continuing to guide by exploring specific ways to enhance alignment with their interests will be beneficial before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Navigating this situation sounds challenging, especially when you're feeling deeply invested in your current project. It's encouraging that you're considering reconnecting with your initial passions, even if it feels uncertain at the moment. What small steps do you think could help you start exploring that path, even while you're involved with your current project?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I guess maybe I could start by setting aside a little time each week to look into topics that interest me, just to remind myself of what I care about. Maybe even reaching out to others in the field who share those interests, just to get some fresh perspectives.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current project and their original values, as well as a vision of how life could improve with change. They have also identified a potential small step, but their confidence is below 6. Change Talk is present, but the client's ambivalence and lack of confidence suggest a need for further exploration. The current focus should remain on strengthening motivation before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Those sound like thoughtful steps towards rekindling your interests. Taking time to explore topics you care about and connecting with like-minded people could bring fresh energy and insights. How might these small changes begin to influence your current work experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): If I start doing that, I might feel a bit less trapped by what I'm working on now, like there's still a way to make grad school meaningful for me. It could give me something to look forward to, even if my current project isn't what I wanted.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a strong desire to reconnect with their initial interests and identified specific small steps toward this goal, such as setting aside time weekly and reaching out to peers. However, their confidence rating is only 4-5, indicating significant ambivalence remains. While Change Talk is present, the client's uncertainty about how to integrate these changes with current obligations suggests they are not yet ready to move to the Choosing phase. Further exploration of their confidence and strategies to address barriers is needed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Rediscovering a sense of excitement and purpose through these small actions seems like it could make a real difference in how you view your current situation. As you begin to explore and reconnect with what truly matters to you, what impact do you imagine this will have on your resilience and overall well-being during challenging times?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think it might help me cope better with the stress and frustration, knowing there's something beyond just this project. It could make me feel less overwhelmed and more capable of pushing through the tough days, with the hope that there's something better on the horizon.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both the challenges and potential benefits of aligning their work with their interests. They've identified small steps to explore meaningful topics and acknowledged the potential impact on their resilience and motivation. Change Talk is present, but their confidence level is 4-5, which indicates some ambivalence remains, and no specific change goal has been fully established. Continuing in the Guiding phase would help build confidence and clarify goals further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Having that hope and a sense of something better ahead sounds crucial for managing tough days. As you embrace these small changes and reconnect with your passions, what other aspects of your life do you think might also benefit from this renewed sense of purpose?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I bet it could spill over into other parts of my life too, like maybe I'd have more energy to spend time with friends or pick up hobbies again. It might help me feel more balanced and less drained overall, which would be really nice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively evoked a discrepancy between the client's current project and their initial values and goals. The client has explored life with and without change, expressing hope and a desire to reconnect with their passions. Confidence levels have been discussed and several actionable steps have been identified. Change talk is present, but confidence is still below 6, indicating some ambivalence. More exploration is needed to strengthen the client's confidence and commitment to change before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Therapist(Guiding): It's inspiring to hear how reconnecting with your passions could rejuvenate not just your work but also your personal life. Cultivating that balance could enhance your energy and well-being. What values or goals in your life might these changes help you move closer to?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "Client(Reflecting): I think it would bring me closer to feeling fulfilled and genuinely happy with my choices. I want to live a life that aligns more with my interests and values, rather than just going through the motions because I feel stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to articulate specific steps towards change, expressing a desire to reconnect with initial interests and noting potential positive impacts on their work and personal life. While confidence is still moderate (4-5), the client has identified meaningful actions and expressed Change Talk, indicating reduced ambivalence. The discrepancy between current behavior and desired values is clear, and the client is starting to embrace hope and purpose. We can advance to Choosing to collaboratively develop concrete action plans and address barriers to implementing these changes. OARS feedback: The reflections deepened understanding of the client's struggles and aspirations, while affirmations reinforced their thoughtful planning. Adjust by ensuring confidence-building continues as a focus.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Your desire to live a life that truly reflects your interests and values is such a powerful motivator. As we consider moving forward, what specific goal would you like to set to begin aligning your daily actions with your deeper values? Perhaps we could create an action plan, like dedicating a specific time each week to explore new interests or reach out to colleagues. What do you think might be a manageable first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I think setting aside an hour or two each week to dive into topics that excite me would be a good start. I could also make a list of people I admire in the field and reach out to them, just to learn from their experiences. Having some structure might help me feel like I'm making progress towards something that matters to me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful and practical plan to start taking steps towards your deeper interests and values. Dedicating a couple of hours each week to explore exciting topics and connecting with inspiring individuals can create a sense of progress and fulfillment. How do you feel about setting a specific time during the week for this exploration, and what potential challenges can you foresee in maintaining this routine? Let's think about how you might overcome those barriers.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about dedicating, say, Wednesday evenings to this exploration. It's usually a quieter time for me, so it could work. The biggest challenge might be sticking to it when I feel overwhelmed with my current project, but I guess reminding myself why I'm doing it could help keep me on track. Maybe I could also set small, achievable goals each week to make it more manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Wednesday evenings sound like a great choice for your dedicated exploration time. Having this routine can be a meaningful way to reconnect with your interests, even when overwhelmed by other tasks. To support this, setting small, achievable goals each week could definitely enhance your motivation and sense of accomplishment. What sort of small goals might you consider setting initially to ensure this routine remains both enjoyable and sustainable for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(reflecting): I think starting with something simple, like reading an article or watching a lecture online about topics I'm curious about, would be a good goal. Maybe I could also aim to reach out to at least one person every couple of weeks, just to introduce myself and ask about their career path. Keeping the goals small and manageable seems key to not feeling overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear goals, such as dedicating time on Wednesday evenings for exploration and reaching out to professionals. An action plan with manageable goals is established. Potential barriers, including feeling overwhelmed, are acknowledged with strategies to overcome them, like setting small goals. The client demonstrates readiness with a commitment to take steps and a structured plan, showing confidence in managing challenges. The Choosing phase has effectively addressed the client's needs and prepared them for moving forward. OARS feedback: Great work in forming a solid action plan that aligns with your values and builds resilience by addressing potential barriers proactively.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "therapist",
+      "statement": "Staying focused on small, manageable goals like reading an article or watching a lecture is a smart way to ease into this new routine. Reaching out to someone every couple of weeks can also provide valuable insights and connections without adding too much pressure. These steps are paving the way for a more fulfilling and balanced life that aligns with your values. Remember, it's a journey, and each small step counts. Keep reminding yourself of the \"why\" behind your actions to maintain motivation. Let's plan to touch base regularly to see how you're progressing and to tweak the plan if needed. You're doing a wonderful job in shaping a path that resonates with who you truly are.",
+      "phase": "terminating"
+    },
+    {
+      "index": 38,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll try to keep that momentum going and check in as needed. It feels good to have a bit of a roadmap.",
+      "phase": "terminating"
+    },
+    {
+      "index": 39,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to reconnect with values, coping strategies discussed, and a next-step plan established. Touching base regularly is agreed upon. Affirming the client's progress and motivation can reinforce confidence in continuing this path.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do you get through a project that removes your will to live?\nI've been working on the project my advisor assigned me for 3.5 years now. I'm finally at the point where I can get my masters from it, but my will to live is basically gone. It's not the work I came to grad school to do, it doesn't get at any of the things I wanted to study in grad school, and it's taken 70% of my grad school career that I can't get back, and I don't even make enough money to buy something that can distract me from how miserable I am. I have 1 month to get the thesis finished, and every time I open it I just start crying. I'm not even sure it's worth it anymore and I don't know what to do. I want something to show for my time in grad school but I just hate this work so much. I don't want to interpret the stats, I don't care about the results, just hearing the project topic makes me want to take my laptop and smash it into little tiny pieces.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

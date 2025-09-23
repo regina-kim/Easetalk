@@ -1,0 +1,188 @@
+{
+  "id": "15zkadg",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you in exploring whatever is on your mind. What's been going on lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've just been feeling really overwhelmed with starting college and adjusting to everything new. It's like there's so much to handle and I'm worried I won't be able to keep up with it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college is a big transition, and it's understandable to feel overwhelmed with all the changes and responsibilities. What are some specific aspects of this new experience that are weighing on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's mostly the classes and the workload that's stressing me out. I've got Bio and Chem right off the bat, and I'm just scared it's going to be way too much. Plus, being away from my parents and everything familiar is really tough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing challenging classes like Bio and Chem right from the start can indeed feel daunting. Being away from your parents and familiar surroundings adds another layer to the stress. How are you finding ways to cope with these feelings and the workload so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I'm not really sure how to cope yet. It's like I'm just trying to take it day by day, but it feels like there's always something new to worry about. I haven't quite figured out a routine or strategy that works for me yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about the overwhelming transition to college, including concerns about coursework and missing home. The therapist has shown empathy and understanding, exploring the client's coping mechanisms and specific stressors. However, the client's coping strategies and goals have not been sufficiently explored. Continuing in the Exploring phase would allow for further development of rapport and a deeper understanding of the client's story.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Navigating each day as it comes without a routine can definitely add to the sense of being overwhelmed. It's understandable to feel a bit lost when everything seems new and challenging. Have there been any moments or activities that have offered you even a small sense of relief or comfort during this time?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): Well, I've taken a few walks around campus and that kind of helps clear my head a bit. It gives me a break from everything, even if it's just for a little while. But beyond that, I haven't really found anything else that feels comforting yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been clearly elicited, including specific feelings of overwhelm due to new college responsibilities, classes, and being away from home. The client has expressed uncertainty in coping strategies but found some relief in taking walks. Empathy and rapport are evident, as well as a focus on mutually agreed goals such as managing stress and finding comfort. This sets a solid foundation for moving into the Guiding phase to explore motivation for developing coping strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Taking walks sounds like a helpful way to find some relief and reset your mind. It's great that you've discovered that small comfort. What do you think it would be like to explore more of these small moments of comfort or relief in your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): It might be a good idea to try and find more of those moments. I'm just not sure where to start or how to fit them in with everything else going on. But if it could help with feeling less stressed, I'm open to giving it a try.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring more moments of comfort could be a valuable step toward easing the stress. What might be one small activity or interest you've enjoyed before that could be reintroduced into your current routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I used to enjoy reading for fun, but I haven't really made time for it since starting college. Maybe I could try setting aside a little time each day to read something I like, even if it's just for a few minutes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "That's a wonderful idea to bring reading back into your routine, even in small doses. How do you think setting aside this time for reading might influence your overall stress and your college experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think it could help me relax a bit and take my mind off all the schoolwork and stress. Even just a little escape each day might make things feel more manageable and remind me of the things I enjoy.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is beginning to explore potential actions, such as reintroducing reading for leisure, suggesting a shift from ambivalence to considering change. Discrepancy between current stress levels and desired relaxation is evident. The client expressed openness to incorporating positive changes and identified small steps toward managing stress, indicating increased motivation. With change talk present and a specific goal identified, the session is ready to transition to the Choosing phase to collaboratively establish action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Bringing reading into your routine sounds like a comforting escape and a way to reconnect with what you enjoy. To start integrating this, we could think about a specific time during the day to try reading for a few minutes. Based on your schedule, when do you think would be a good time to enjoy this moment of relaxation?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Maybe in the evenings, after dinner, could work. It might be nice to wind down with a book before bed instead of stressing over the next day's classes. I'll give it a shot and see how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Setting a time in the evenings for reading sounds like a peaceful way to wind down. Would it be helpful to decide on a specific book or genre you’d like to start with, or would you prefer to mix it up based on what you feel like each day? This might also help anticipate any barriers, like not knowing what to read.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I think I'd like to start with something familiar, maybe a favorite book that I've read before. That way, it's comforting and I won't feel pressured to keep up with something new. Once I get into the habit, I might mix it up depending on my mood.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Choosing a favorite book is a wonderful way to ease back into reading and brings an extra layer of comfort. As you start this routine, how will you know if it's helping with stress relief or if adjustments might be needed? Perhaps we could think about how to monitor its impact on your mood and stress levels.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I guess I could keep a little journal or just jot down a few thoughts each day about how I'm feeling. If I notice I'm a bit more relaxed or if the stress feels more manageable after reading, I'll know it's working. If not, then I might need to tweak the routine a bit.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal of integrating reading into their routine as a stress reliever and has identified a specific action plan to read in the evenings. Barriers, such as choosing what to read, have been addressed, and the client has agreed to self-monitor through journaling. The client has shown commitment and steps talk by planning to start the routine and monitor its impact. Thus, the goals of the Choosing phase have been met, indicating readiness to advance. OARS feedback: The process effectively used reflections and open questions to help the client set a specific plan, with affirmations that supported the client’s confidence in managing stress through enjoyable activities.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That's a great approach, keeping track of your feelings can provide insights into how this new routine impacts your stress levels. It's a flexible way to monitor and adjust as needed. Remember, these small steps towards comfort can build a strong foundation for managing stress. Embrace the process, and be kind to yourself as you make these changes. If you need support or adjustments along the way, feel comfortable reaching out. You've taken a positive step today, and that’s something to be proud of. Keep going, one page at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I'll give it a try and see how it goes. I appreciate your help and will definitely reach out if I need anything.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully addressed the client's stress by establishing a reading routine, which includes specific timing and monitoring its impact through journaling. This plan offers a concrete coping strategy to manage overwhelm.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does anyone else feel overwhelmed with college?\nIt’s my 2nd day being a Freshman on campus just moving in and honestly I feel so overwhelmed. I’m overwhelmed with worrying about my classes and being in a new environment and missing my parents :( I got placed in both Bio and Chem and I’m scared it will be too much and I’m going to fail. I keep hearing all these stories of people barely keeping up and having to study late into the night. Also how my professors say for every hour of class, study for 2 outside of class, that will lead me to have to study for around 17 hours cause my labs are quite long (not even counting my 2 other classes). I’m worried I won’t have any free time or life outside of college to pursue my hobbies or just have a life in general. Does anyone have any words of advice of words of comfort, im straight up not having a good time right now :(\n\nThank you for reading this",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

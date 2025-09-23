@@ -1,0 +1,167 @@
+{
+  "id": "126cjm0",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling really confused and stressed about school lately. It's hard to know if I'm making the right choices.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "School can definitely be a source of stress and confusion. What specific aspects have been weighing on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I just got a D+ in one of my classes, and it's really thrown me off. My GPA is suffering, and I'm not even sure if this path is right for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be really tough to see your grades not reflecting your efforts and feeling uncertain about your path. What thoughts do you have about your current major or the classes you're taking?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm not really passionate about what I'm studying; it feels like I'm just going through the motions. I wanted to be closer to home, so I picked this school, but it doesn't feel like the right fit for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed confusion, stress, and dissatisfaction with their current educational path, highlighting a lack of passion and a desire for family approval. The essence of the client's situation and emotional state has been effectively elicited, with a focus on grades, major dissatisfaction, and family pressure. This provides a solid foundation for transitioning to the Guiding phase to explore motivations and change talk. Moving forward, maintaining empathy while encouraging exploration of values and goals will be important.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That must be really challenging, feeling disconnected from your studies and environment. How do you imagine things might be different if you were studying something you felt passionate about or at a place that felt more like home?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, if I were studying something I actually cared about at a place I chose, I think I'd be way more motivated. It might even make the whole studying thing more fun instead of feeling like a chore.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Studying something you care about in a place that feels right could really transform your experience. What changes would align more closely with your goals or values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think maybe going to a college I actually wanted to attend could help. Also, picking a major that interests me might make things less of a drag. It's important for me to feel like I'm doing this for myself, not just for my family.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Choosing a college and major that truly resonate with you seems really important. How confident are you, on a scale from 0 to 10, about exploring these changes to better align with your goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say maybe a 5 or 6. I mean, I'm open to exploring, but it feels a bit overwhelming. There’s a lot to consider, and I'm nervous about making the wrong choice again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change and identified specific goals, such as attending a college they chose and finding a major that interests them. The client also expressed moderate confidence (5-6) about exploring these changes. Change Talk is present, with decreased ambivalence about their current situation. The conversation has effectively explored the client's values and goals, indicating readiness to move to the Choosing phase to develop actionable steps. Continue using OARS to maintain focus on their autonomy and confidence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Considering the importance of making choices aligned with your own goals and values, let's work on creating a plan that makes this exploration feel manageable. A possible first step could be researching colleges or majors that spark your interest. Additionally, speaking with advisors or people in fields you're curious about may provide insights. Would you like to explore these options further, or is there another step that feels more fitting for you right now?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think starting with some research would be good. Maybe if I look into colleges and majors, I might get a better sense of what excites me. Talking to people could help too, but I'm not really sure where to start with that part.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring and researching colleges and majors is a promising step. To support this, you might begin by listing majors or schools that initially catch your interest. Then, consider reaching out to academic advisors or career counselors for guidance—many schools offer such resources. How does starting with this approach sound, and can I help with brainstorming any specific people or resources that might assist you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I can start with making a list of majors and schools that seem interesting. Getting in touch with an advisor or career counselor seems a bit intimidating, but I know it could be helpful. Maybe starting with a basic internet search would be a good step before reaching out to someone.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Beginning with an internet search sounds like a practical way to ease into this process. Taking small, manageable steps can make the exploration feel less overwhelming. Once you have some initial ideas, reaching out to advisors or career counselors could feel more approachable. Would you like to discuss how you might structure your search or ways to make that first outreach less intimidating?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, structuring my search would probably help me feel more organized and less scattered. Maybe I could start by setting some criteria, like location, programs offered, and campus vibe. As for reaching out, it might be easier if I prepare a few questions in advance, so I don't feel lost during the conversation. Do you have any tips for making that first contact?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to explore colleges and majors that align with their interests and values, and has developed a concrete action plan. They have discussed barriers, like feeling overwhelmed or intimidated by contacting advisors, and agreed to self-monitor by starting with an internet search. The client has expressed willingness to take steps and has refined the action plan by setting criteria and preparing questions in advance. It's appropriate to move to Terminating as the client shows readiness to act and confidence in their chosen path. OARS feedback: The client’s exploration of interests and readiness to act were effectively guided. Consider reinforcing confidence through affirmations of their initiative and resilience.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting criteria for your search is a smart approach and can really help narrow down your options to what truly matters to you. Preparing questions in advance can also ease the discomfort of reaching out. Some helpful tips might include starting with a brief email, introducing yourself, mentioning your interests, and expressing your curiosity about their program or career path. Keeping it simple can make it feel less daunting. How does this plan fit with what you’re hoping to achieve, and are there any specific questions you're considering asking?",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I’m definitely going to try that. Keeping things simple sounds way less overwhelming. I'll think about some questions related to what interests me most about their programs. Hopefully, that’ll make the conversation more focused.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a plan to research colleges and majors, using criteria to guide their search and preparing questions for outreach. These steps align with their goals and coping strategies, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I drop out of community college?\nI just found out I got a D+ in one of my end early classes which brought my gpa to a 2.4. I already failed one class and now I failed this one. I honestly have no idea what I want to do in life and am only attending to make my family members shut up. Should I just power through it or drop out? Or attend a college that I ACTUALLY wanted to go to. (Im also attending the cc to be closer to home)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

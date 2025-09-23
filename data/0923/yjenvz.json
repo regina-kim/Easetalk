@@ -1,0 +1,167 @@
+{
+  "id": "yjenvz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! How are you feeling today? Is there anything on your mind that you’d like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I'm feeling a bit anxious, honestly. I've been thinking a lot about going back to school for my MPH, but I'm worried about whether it's the right move at my age and if I'll even get in.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel anxious about making such a big decision. You're feeling this way because going back to school involves a lot of uncertainties and considerations. What are some of the things that make you excited about pursuing your MPH?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I'm really excited about the idea of diving deeper into health policy and data analysis. It's something I've always been interested in, and it's a chance to make a bigger impact beyond bedside care.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds like a meaningful opportunity to expand your impact in a field you care about. Focusing on health policy and data analysis seems to align well with your interests. What are some of the concerns or challenges you're anticipating about this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm worried about balancing school with my current job and family responsibilities. And there's the financial part, too—it's a lot of money, and I'm not sure if I'll get accepted with my GPA from back when I graduated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated their thoughts and feelings about pursuing an MPH, including their motivation, excitement about health policy and data analysis, and concerns about balancing responsibilities and financial implications. They have also shared relevant context about their career goals and educational background. Empathy and rapport are evident, with mutually agreed goals starting to appear. The conversation has reached a point where it can transition to guiding to further explore motivation and evoke change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing responsibilities and financial concerns can indeed add to the pressure of making such a decision. Considering those factors, how might this decision impact your life goals, both with and without pursuing the MPH?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I go for the MPH, it could open up new career paths and potentially lead to more fulfilling work in health policy. Without it, I might feel stuck in my current role, which isn't really where I see myself long-term. I just want to be sure I'm making the right choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Pursuing the MPH seems to offer exciting possibilities for your future and aligns with your passion for health policy. Imagining the potential for growth and fulfillment in that field, how do you feel about handling the challenges that come with this opportunity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think I can handle the challenges, even though it might be tough at times. It's just a bit daunting to think about juggling everything, but the idea of doing work that feels more meaningful keeps me motivated.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You're envisioning a future where your work aligns more closely with your values, and that motivation can be a powerful driver. How confident do you feel on a scale from 0 to 10 about managing those challenges to pursue this path, and what might bring you closer to a 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm probably around a 6 or 7 right now. I think feeling more confident about my ability to keep up with the coursework and knowing more about financial aid options could help bump that up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their current role and future aspirations, showing motivation to pursue a more fulfilling career in health policy. They have explored life with and without change, expressing the potential for career growth versus feeling stuck. Confidence was measured using a confidence ruler, with the client rating themselves a 6 or 7. Change Talk is present, with the client expressing a strong motivation rooted in meaningful work. The goals of the Guiding phase have been met, and it is appropriate to move to the Choosing phase to develop specific action plans and strategies for overcoming identified barriers. OARS feedback: The exploration of both excitement and concerns about the MPH was productive in clarifying aspirations and challenges. In the next phase, we can focus on specific strategies for dealing with those challenges.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching a 6 or 7 shows a solid foundation of confidence already, and considering coursework and financial aid are thoughtful steps to build on that. Possible options might include researching financial aid opportunities or speaking with current MPH students to gain insights into balancing school and other responsibilities. What do you think could be your first steps in exploring these areas?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Maybe I should start by reaching out to the schools I'm interested in to get more info on financial aid and scholarships. Talking to current students sounds like a great idea, too—I could join some forums or groups to see what their experiences are like.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Connecting with schools for financial aid details and engaging with current students are proactive ways to gather crucial information. Setting small, manageable goals can make this exploration feel less overwhelming. Perhaps you could set a timeframe for when you'd like to reach out to these schools and students. How does that sound as a starting point, and is there anything else you might want to include in your action plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid starting point. I think giving myself maybe a couple of weeks to contact the schools and start reaching out to current students would be a good first step. I might also look into online forums or groups this weekend to see if I can connect with some current MPH students.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating that initial timeline feels like a concrete and achievable step forward. Giving yourself a couple of weeks to reach out to schools and current students is a practical approach. Additionally, exploring forums this weekend can offer immediate insights and support. How do you feel about checking in on your progress after a few weeks to see how things are unfolding and if any adjustments to your plan are needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Checking in sounds like a good idea. It'll help me stay on track and see if I'm moving in the right direction. Plus, it'll give me a chance to reassess and tweak things if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of pursuing an MPH and developed specific action steps such as contacting schools for financial aid and engaging with current students. Potential barriers like financial aid and balancing responsibilities have been discussed, and a self-monitoring check-in plan is in place. The client shows readiness through commitment to taking steps and confidence in managing challenges. It is appropriate to transition to the Terminating phase, as the client is actively engaging in the plan and prepared to reassess their progress. OARS feedback: Reflecting on concrete plans and affirming commitment have helped solidify next steps.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting up a check-in can indeed keep you aligned with your goals and allow room for reassessment if necessary. You’re showing a lot of commitment and strategic thinking in approaching this decision. As you embark on these steps, remember that each small action you take is bringing you closer to where you want to be. If you ever feel stuck or need further guidance, I'm here to support you. Let's touch base in a few weeks to see how you've progressed and explore any adjustments you might need. You're on a promising path, and your dedication is really inspiring.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the support. I'll definitely reach out if I need some extra guidance along the way. Looking forward to catching up in a few weeks to see how things are shaping up.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan and realistic timeframe, with coping strategies and a next-step plan discussed. Confidence and commitment are evident, with a follow-up plan established. Affirming the client's dedication fostered empowerment.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: MPH at 37? Currently an RN looking for a change\nI am strongly considering getting an MPH with an emphasis in health policy/data analysis. I am currently an RN case manager at a hospital and I'm tired of being \"bedside\" even though I don't work as directly with patients anymore. The role does not provide much growth unless I want to be in management and hospital management sounds like a nightmare to me. I'd like to go into health policy with some data analysis. I haven't been back to school since I graduated undergrad in 2007. Spent time staying home with my kids and I've been working regularly for almost four years now. \n\nAre the MPH programs hard to get into? I'm hoping my job experience gets me in. I left undergrad with a 3.3 GPA. Currently looking for an online or hybrid program, so far UMD (u of Maryland or BU online seem to have good options).  Any other suggestions for programs?  I'm hoping to stay under 40k.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

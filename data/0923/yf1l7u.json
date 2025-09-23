@@ -1,0 +1,167 @@
+{
+  "id": "yf1l7u",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's been on your mind lately? Feel free to share anything you'd like to discuss today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for asking. I've just been really caught up thinking about grad school and whether it's even worth applying given my past academic record. It's been making me feel kinda down.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Taking a big decision like grad school can definitely stir up some emotions, especially with past experiences in mind. What specifically about your academic record is causing you concern?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, my GPA from undergrad wasn't great, and seeing that number makes me doubt my abilities. It's like a constant reminder of the mistakes I made back then, and I'm worried it might hold me back from getting into a grad program.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to feel that way when reflecting on past experiences. Your GPA seems to represent more than just a number; it feels like a symbol of those past decisions. What aspects of grad school are drawing you towards applying despite these concerns?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've always felt like pursuing a master's could open up more opportunities for me career-wise, and I genuinely love learning. Plus, I think I have a better handle on balancing life and responsibilities now, compared to when I was younger.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation successfully elicited the client's story, revealing concerns about past academic performance, motivations for grad school, and current self-assessment. The therapist demonstrated understanding and empathy, focusing on the client's feelings and context. The client expressed both doubts and motivations, indicating readiness to explore motivations further. Moving to the Guiding phase can strengthen motivation for change, focusing on the client's goals and potential strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you have a passion for learning and a clearer sense of balance now, which are great strengths. How do you envision your life changing if you decide to take the leap and apply to grad school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I imagine it could lead to a more fulfilling career and a sense of personal accomplishment. It might also help me prove to myself that I've grown and can succeed despite past setbacks.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Pursuing grad school seems to align with your goals for personal growth and career fulfillment. Considering these potential changes, what steps do you think might increase your confidence in applying?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by researching programs that might be more lenient with GPA requirements or offer conditional acceptances. Maybe reaching out to admissions counselors to discuss my situation and see if there's any flexibility could help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring programs with flexible requirements and reaching out to admissions are proactive steps that can bolster your confidence. On a scale from 0 to 10, how confident do you feel about starting this research and reaching out?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I'd say maybe around a 6. I feel motivated but there's still that lingering doubt about how they'll perceive my application given my past GPA. ",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific steps, such as researching programs and reaching out to admissions. They articulated a change goal (applying to grad school) and their confidence level is at a 6, indicating a readiness to explore actionable steps towards their goal. Ambivalence seems reduced as they reflected on their personal growth since undergrad. This suggests they are ready to move to the Choosing phase to develop specific action plans and strategies for anticipated barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your motivation is a strong foundation to build on, and it's great to hear you're at a 6. Based on what you've mentioned, options like starting with programs known for leniency and connecting with admissions could be tangible first steps. How do you feel about setting a goal to research and contact a few programs within the next week, and what might help you overcome any doubts in that process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal like that sounds reasonable, and I think it might help to actually see what's out there rather than just worry about it. To overcome doubts, maybe I could prepare a list of my strengths and recent accomplishments to remind myself of what I bring to the table.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a list of your strengths and recent accomplishments is a great way to boost confidence and remind yourself of your capabilities. As you set your goal to research and contact programs in the next week, is there anything else you might need or any supports that could assist you in this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think having someone to bounce ideas off of or just to check in with during the process could be helpful, maybe a friend or a mentor. Also, some tips on how to approach the admissions conversations might ease my nerves.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a friend or mentor to support you and offer feedback sounds like a wonderful strategy. They can help you stay motivated and provide valuable perspectives. For admissions conversations, you might consider preparing some key points or questions ahead of time to guide your discussions. How do you feel about setting a time to check in with your support and formulating some conversation starters for the admissions calls?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): That sounds like a solid plan. I think setting a time to talk to my friend about this could keep me accountable. As for conversation starters, I could jot down a few questions about program specifics and how they accommodate different student backgrounds.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of researching and contacting grad programs. They've identified potential barriers, such as their GPA concerns, and planned strategies to address them, including support from friends and preparing for admissions conversations. The client has demonstrated commitment by outlining specific next steps and reflecting on their strengths. These actions and the client's confidence in their plan suggest that the Choosing phase goals are met and they are ready to move towards Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having accountability through talking with your friend is a wonderful way to stay on track, and preparing questions about program specifics will definitely help guide meaningful conversations with admissions. Your proactive approach and self-awareness really shine through, and these steps you're taking truly align with your goals for growth and success.\n\nTo wrap things up, your next steps involve researching programs, reaching out to admissions, and preparing your conversation starters. Having regular check-ins with your friend or mentor for support will also be key. Remember, you’re equipped with many strengths, and this plan will help navigate any challenges.\n\nI'm excited for the path you're forging, and I believe you're making thoughtful decisions toward your goal. Keep embracing your potential and feel free to reach out whenever you need. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and support. I'll start working on this plan right away and keep you updated on how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan involving research, outreach, and support systems to boost confidence in applying to grad school. Termination goals are met, with steps and coping strategies discussed effectively. Great use of affirming and summarizing.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Thinking of applying, but I’m anxious…\nHi all, I thought this would be the best place to post this. I graduated with my BA back in 2018, &amp; I’ve recently been toying with the idea of going to grad school. However, when I looked at my transcript recently, I was disappointed in myself when I saw my graduating GPA. It was a 2.30 I believe. I certainly was not the world’s best student, and I made a lot of mistakes. I was also working full time and dealing with loss in my personal life. I consider myself an intellectual for the most part, and seeing that GPA just made me feel a bit idiotic. The school that I was thinking of applying to told me they typically require a 2.75 but that “there are possible ways around that”. I guess what I’m wondering is do I even stand a chance at all of getting into a master’s program anywhere? Due to work &amp; life I’d have to go the online route… I’m now 30 and much more the wiser but am just wondering if I should perhaps lose hope when it comes to the idea of grad school. Not trying to gain sympathy, just wanting some honest opinions. Thank you for your time if you read this!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

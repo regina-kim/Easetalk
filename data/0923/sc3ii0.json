@@ -1,0 +1,167 @@
+{
+  "id": "sc3ii0",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, I guess. Just been a bit stressed about some stuff in the lab.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds challenging. Stress can be tough to manage. Can you tell me more about what's been happening in the lab?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I've been struggling with picking up some lab techniques, especially surgeries, and it's been really hard on my confidence. It feels like I'm the only one who's not getting it, and it's frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be really overwhelming feeling like you're the only one struggling with this. You're putting in a lot of effort, and that can be draining. What else has been on your mind regarding these lab techniques?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Mostly, I keep worrying about how this might affect my future in research. I really thought I'd be able to master these skills, and it's tough seeing others move forward while I'm stuck.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and concerns have been effectively elicited, including their thoughts and feelings about struggling with lab techniques and the impact on their confidence and future. Empathy and rapport have been established, as evidenced by the client's openness about their challenges. The context and feelings behind the client's thoughts have been explored. It is appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're deeply concerned about your future in research and how these struggles might impact it. You've got a clear vision for where you want to be. What do you think could help bridge the gap between where you are now and reaching your goals in mastering these skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess finding a better way to learn or maybe getting some one-on-one guidance could help. I just feel like I need more support or a different approach to finally get the hang of it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling the need for more support is completely understandable, especially when you're aiming for success in such a challenging field. What kind of support or approach do you think would make the biggest difference for you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, if I could find someone who's patient and good at teaching, that would probably make a world of difference. Maybe having more time to practice without feeling pressured would help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having a patient mentor and more practice time could really foster your learning and build your confidence. It's clear how important this is to you. On a scale from 0 to 10, how confident do you feel about finding such support and making these changes happen?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Maybe around a 5 or 6. I feel like it's possible, but I also worry about whether I'll actually find someone who can help in the way I need.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively evoked discrepancy between the client's current skills and their vision for success in research. The client has identified a potential change step—finding a supportive mentor—and their confidence level is approximately 5-6, indicating some belief in the possibility of change. Change Talk is present as the client expresses a desire for a 'patient mentor' and 'more practice time'. Since these guiding goals have been met, it's appropriate to move to the Choosing phase to develop action plans. Good use of reflections and open questions encouraged deeper exploration; ensuring more affirmation and summarizing could enhance future sessions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(choosing): You're feeling somewhat hopeful, but still have some concerns about finding the right support. Let's explore some options. Based on what you've shared, possibilities include reaching out to colleagues or professors you trust for mentorship, or seeing if there are workshops or additional practice sessions you could join. How do these options sound to you, or is there something else you have in mind?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Those options sound pretty good, actually. I think reaching out to a professor I trust for mentorship might be a good start. Workshops could be helpful too, if they're available. I just need to take that first step and see what's out there.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Taking that first step shows a lot of initiative and courage. Reaching out to a professor for mentorship could provide the support you're looking for, and exploring workshops could expand your opportunities for practice. How about we set a goal to reach out to one professor this week and research any available workshops? What potential barriers do you think you might encounter, and how can you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(planning): Reaching out to a professor this week sounds doable, and I'll look into workshops too. I guess the biggest barrier is my anxiety about reaching out and admitting that I'm struggling. Maybe if I remind myself that it's a step towards getting better, it might help me push through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Acknowledging your anxiety about reaching out is a really important insight, and using it as motivation to improve shows your strength. Reminding yourself that seeking help is a positive step forward can indeed make it easier. How about setting a reminder for yourself to reach out by mid-week as a prompt? And would it help to prepare what you'd like to say beforehand to ease some of that anxiety?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): Yeah, setting a reminder sounds like a good idea, and prepping what to say could definitely help ease my nerves. I think if I have a plan, I'll feel more prepared and less anxious about it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan to reach out to a trusted professor for mentorship and explore workshops, addressing the need for support. They have identified anxiety as a barrier and plan to manage it by preparing what to say and setting reminders. The client shows commitment and an understanding of the steps needed to overcome potential barriers, signaling readiness to move forward. The progress made in planning and self-monitoring indicates that the client is ready to transition to the Termination phase. OARS feedback: Reflecting on insights about anxiety and affirming the client's initiative in tackling the issue helped build confidence and readiness for action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a plan can definitely make a big difference, and it's great to hear you're considering ways to make it easier for yourself. So, let's summarize what we've talked about: Your main goals include reaching out to a professor for mentorship and looking into workshops for additional practice. You're planning to set a mid-week reminder and prepare what you'll say to help manage any anxiety. This approach shows your commitment to your growth and willingness to embrace support. Remember, every step you take is progress. We're here to support you through this journey. Looking forward to hearing how it goes next time we chat!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll keep you updated on how it all goes, and hopefully, I'll have some positive news to share next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and coping strategies for the client's concern about improving lab skills. A concrete plan was developed with specific steps and managing anxiety, demonstrating readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone else struggle with lab techniques?\nHey, Neuroscience Ph.D. candidate here. I work in a systems neuroscience lab. Therefore, one of the things you probably guess that we do are surgeries, except I could never learn how to do them. In short, the post-doc who taught me was not a very good teacher and the lab environment has not been the best for learning. I was taking so long to learn them that my PI basically said that the staff research scientist would do all my surgeries while I focused on building other skills. This has been probably one of the single biggest blows to my confidence as a researcher. A skill that I was sure I could learn. Everyone else in my cohort was able to learn them but me, and I cannot get over this. I hate being the only one who seems to not be able to do a very core thing in systems neuroscience. \n\nAny advice is welcome. I am trying my best to look past this, but it's hard. I am not particularly good at anything else. So, I am not bringing some other core skill to the lab that makes up for this deficiency.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

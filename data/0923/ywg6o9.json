@@ -1,0 +1,167 @@
+{
+  "id": "ywg6o9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen to whatever you'd like to share today. What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've been really stressing about picking a major. I'm in a spot where I don't enjoy my current classes, and I'm worried about my future job options. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can definitely feel overwhelming, especially when you're unsure about your current classes. It seems like you're feeling a lot of pressure because you want to make the right choice for your future career. What are some interests or subjects that you find engaging?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's a lot. I guess I've always been kind of interested in finance because I think money and how it works is pretty cool. I've thought about it being more practical too, like in terms of job stability and opportunity.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're drawn to finance not only because you find it intriguing but also due to the potential stability and opportunities it might offer. What aspects of finance capture your interest the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think it's the idea of understanding how markets work, investments, and managing money effectively. It just seems like such a useful skill to have, both personally and professionally.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their struggle with choosing a major, revealing their interests in finance and the practical considerations behind this choice. They also expressed dissatisfaction with their current classes and the urgency they feel to decide due to their academic timeline. There is a clear understanding of their situation and feelings, as well as established rapport. We can move to Guiding to explore their motivations and potential changes further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Finance seems to align with both your interests and practical goals. Considering your enthusiasm for learning about markets and investments, how do you envision your life if you pursued finance as a major?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I pursued finance, I picture myself feeling more motivated in my classes because they would be about stuff I find interesting. Plus, I'd probably feel more confident about job prospects after graduation, knowing that there's a solid demand for finance skills.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a future where you're more engaged in classes and confident about job prospects sounds encouraging. What would change in your life if you decided not to pursue finance and stayed with your current path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): If I stick with my current path, I worry I'd keep feeling stuck and frustrated with my classes, and that could affect my motivation and grades. Plus, I'm not sure I'd feel as optimistic about job options down the line.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Considering those feelings of being stuck and frustrated with your current path, it seems like pursuing finance might offer you a more fulfilling direction. Reflecting on these contrasting possibilities, what are your thoughts about moving towards a decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I'm definitely leaning towards making the switch to finance. It feels more aligned with what I'm interested in and how I want to see my future. I just want to make sure it’s the right move and that I’m not just running away from the math struggles in my current major.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by articulating a preference for switching to a finance major due to stronger alignment with their interests and future career optimism. They weighed life with and without this change, identifying a discrepancy between their current dissatisfaction and a more appealing future. The client's confidence in wanting to pursue finance seems strong despite residual ambivalence about current math struggles. A specific change goal has emerged, supported by consistent reflections and summaries that reinforced exploration. Transitioning to the Choosing phase is appropriate to collaboratively develop action plans and address potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Switching to finance aligns with your interests and future aspirations, which is great. To ensure it's the right move, perhaps you could explore finance-related courses or talk to someone in that field. Based on what you've mentioned, some options might include trying an introductory finance class or seeking advice from a finance advisor or mentor. What steps do you feel ready to take towards making this decision, and how can we plan to address any math challenges you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Trying out an introductory finance class sounds like a good first step. I could also reach out to a finance advisor to get more insight into the field. As for the math challenges, maybe I could look into tutoring or extra study resources to help me get through those parts if they come up in finance too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring an introductory finance class and speaking to a finance advisor sound like practical and insightful steps. Considering the math challenges, looking into tutoring or study resources can definitely help ease any concerns. How do you feel about setting a timeline to try these steps, and what support might you need along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Setting a timeline seems like a smart move to keep things on track. I think maybe I could try the finance class next semester and reach out to an advisor in the next few weeks. Support-wise, having someone to check in with, like a counselor, could help keep me focused and give me a space to talk through any worries.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a timeline can really help keep your momentum going. Trying the finance class next semester and connecting with an advisor soon sounds like a solid plan. Checking in with a counselor can offer you the support and space you need to navigate any concerns or adjustments. Would you like to discuss how often you'd like those check-ins or any additional resources you might find helpful along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting up regular check-ins would be helpful, maybe once a month to start and see how it goes. As for other resources, if there are any workshops or group sessions for students exploring majors or dealing with similar indecision, that could be cool to try out too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a clear goal of exploring finance as a major and has developed a concrete action plan, including trying an introductory class and consulting with a finance advisor. Barriers, such as math challenges, have been discussed, with potential solutions like tutoring considered. The client has expressed readiness through commitment talk, agreeing to a timeline, and setting up regular check-ins for support. Confidence in managing the transition is evident. The client appears prepared to advance their decision-making process with adequate support and self-monitoring strategies in place, suggesting readiness to move to the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having monthly check-ins sounds like a great way to manage your progress and gain support. Workshops or group sessions for students might provide additional insights and shared experiences that can be really encouraging. As you move forward with these plans, remember it's perfectly okay to adjust the frequency of support based on what feels right for you. You've got a clear path and the resources to back you up, which is fantastic. Looking forward to hearing about your journey and supporting you every step of the way!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds really reassuring. I'll try to follow through with these plans and see how it goes. I'll definitely keep you posted!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively summarized goals, discussed steps, and addressed potential challenges with a next-step plan. The client feels reassured and ready to proceed, making it appropriate to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College major troubles\nI am having trouble deciding what I want to do as a major. I am doing the pre-requisite classes for computer science at the moment and I really don’t enjoy these math classes and I am not doing well. \n\nI am considering changing my major to finance because I find money interesting and I really want to graduate school with a major that will provide a selection of jobs. \n\nI am a junior in college with an associates right now so I feel like I need to make a decision soon so I can graduate on time.\n\n\nThoughts on this decision?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

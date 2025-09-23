@@ -1,0 +1,209 @@
+{
+  "id": "17103cd",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, to be honest, I'm feeling pretty overwhelmed and just kinda stuck. I really want to figure out how to clear my mind and get some energy back.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Feeling overwhelmed can be really tough. It sounds like you’re searching for ways to regain some clarity and vitality. What do you think might be contributing to these feelings of being stuck?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I'm not entirely sure, but I think it's a mix of having too much on my plate and feeling isolated. It's been hard to find any sort of balance or motivation lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing a full plate while feeling isolated can certainly make things challenging. You might be experiencing this mix of being overwhelmed and disconnected because there's so much happening all at once. Can you share more about what's been filling up your plate lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Well, there's definitely a lot of schoolwork and assignments piling up. On top of that, I feel like I'm constantly overthinking everything, and it's just exhausting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and stuck, with contributing factors such as a heavy workload and isolation. There is a clear expression of desire to regain motivation and clarity. The therapist has shown empathy and understanding, and the client's context and concerns have been explored in depth with rapport established. It is appropriate to advance to the Guiding phase to help the client strengthen motivation for change, as the Exploring goals have been met. OARS feedback: The use of empathetic reflections helped in building rapport and understanding the client's struggles with balance and motivation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Managing schoolwork along with constant overthinking must feel exhausting indeed. I'm curious, how do you envision things might be different if you could clear your mind and regain some energy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I could clear my mind and get some energy back, I think I'd be able to focus better and maybe even enjoy my work more. It’d be nice to have the mental space to relax and not feel so weighed down all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That sounds like a meaningful change you'd like to see. Not feeling weighed down and having the mental space to relax could bring a lot of positivity into your life. On a scale of 0 to 10, where 10 means you're totally confident you can clear your mind and regain energy, where do you see yourself right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm probably at a 3 right now. It feels like there's a long way to go, but I'm hoping there are some steps I can take to gradually get there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Starting at a 3 shows you’re already thinking about change, which is a good start. What might help you move up even just one point on that scale?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe trying out some small changes in my routine, like setting aside time for breaks or finding a new hobby to get my mind off things. I think building some better habits could help me feel a bit more energized and less overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The guiding phase effectively explored the client's desire for a clearer mind and more energy. Discrepancy was evoked between their current overwhelmed state and their goal of feeling energized and focused. The client considered life without change and proposed small routine changes, indicating readiness for action planning. However, the confidence level is low (3), suggesting further exploration to strengthen motivation is needed before moving to action planning. Continue in Guiding to further address ambivalence and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Considering trying out small changes in your routine, like breaks and new hobbies, seems like a thoughtful approach. Building better habits might gradually lift that feeling of being overwhelmed. What values or goals do you think these new habits might help you move closer towards?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think these habits might bring me closer to feeling more balanced and fulfilled. I really want to enjoy my college experience more and not just be constantly stressed out. It'd be nice to have some moments of genuine relaxation and maybe even some fun.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to feel more balanced and fulfilled, with specific ideas for small changes like breaks and hobbies. They've identified some values and goals, such as enjoying college more and reducing stress, but confidence remains at a 3, indicating substantial ambivalence remains. Change Talk is emerging, but further exploration and confidence building in the Guiding phase can deepen motivation before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Enjoying your college experience more and finding balance sounds like a wonderful goal. Creating moments of genuine relaxation and fun can indeed help lighten the stress. What do you think could be the first small step towards incorporating these new habits into your daily life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could start by setting a specific time each day for a short walk or just some time outside to clear my head. I think just stepping away from my desk for a bit might help me reset and feel a little less overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to make changes, such as incorporating breaks and new hobbies, to feel more balanced and fulfilled. They articulated a clear goal of enjoying the college experience more and identified a specific first step: setting time for a short walk or time outside. They recognized how these steps align with their values of balance and fulfillment. Although their confidence level is at 3, which is low, the presence of Change Talk and a specific action plan suggests readiness to move forward to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Taking a short walk or spending time outside each day to clear your head sounds like a great first step. As you begin this, what might be some of the challenges you anticipate, and how could you plan to overcome them? We can brainstorm some options together to support you on this path.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): One challenge might be actually sticking to it every day, especially when things get busy. I guess planning it into my schedule like an appointment could help. Another issue could be the weather, but maybe on those days, I could try some indoor activities like stretching or listening to music to still get a break.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Planning it into your schedule like an appointment is a solid strategy to ensure consistency, and having alternatives like stretching or listening to music for bad weather days shows great foresight. Would you like to create a specific action plan for how and when you'll start these activities, and how you'll keep track of your progress? We can also think of some ways to remind yourself of your goal to enjoy college more, even during busy times.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): Yeah, creating an action plan sounds really helpful. I think I could start with a 10-minute walk right after lunch every day, and maybe I can jot down how I feel afterward in a journal or on my phone to track my progress. As for reminders, maybe I could set an alarm or use a sticky note on my desk with a reminder about my goal to enjoy college more.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Therapist(Choosing): Starting with a 10-minute walk after lunch each day and tracking your feelings in a journal or on your phone sounds like a thoughtful plan. Setting an alarm or using a sticky note as a reminder to enjoy your college experience is a wonderful way to keep your goal in mind. How about we check in on how these steps are working for you after a week or so? This way, we can make any adjustments needed to keep you on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Sure, checking in after a week sounds good. It'll be nice to see if these small changes make a difference, and then we can tweak things if needed. Thanks for helping me figure this out!",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and a concrete action plan, which includes taking a 10-minute walk after lunch and tracking feelings. Barriers like consistency and weather have been discussed, with solutions proposed. The client shows commitment and readiness to start the plan, and there's agreement to self-monitor and check in after a week. These indicators suggest the client is prepared to move towards Terminating as they are equipped with strategies and a monitoring system to manage their concern. It's important to affirm the thoughtful planning and readiness for change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "You're welcome! It's exciting to see you taking these first steps towards feeling more balanced and enjoying your college experience. Remember, every small change can lead to bigger shifts over time, and you're already making thoughtful choices. I'll be here to support you, and we can celebrate any progress, no matter how small. Looking forward to our check-in next week—keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I'm hopeful about it. I'll keep you posted on how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and steps to address feelings of overwhelm, with an action plan for implementing new habits. A follow-up check-in was planned, providing closure and next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help with Mental Health and Health Overall During College\nHi all! \n\nI am a junior and feel completely burnt out. I have no social life (literally only one friend who lives on the other side of the state and even then we haven't hung out in almost 2 years). I feel like my brain is full, kinda like brain fog, so I cannot focus on what I need to be focusing on. I have no energy. It doesn't matter how much I sleep, I never feel alright. I have no motivation to keep on going because of all of this. I want to do good, and I know I can do good, but I feel so weighed down in my mind that I can't. \n\nHow can I remedy this? How can I get a clearer mind and feel better so that I can do better?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "sfaprr",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything specific on your mind that you’d like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I'm feeling kind of confused and overwhelmed right now. I'm really unsure about what direction to take with my major, and it's been stressing me out a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can indeed feel overwhelming. What aspects of this decision make you feel confused and stressed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's the uncertainty, like, not knowing if I'll enjoy the career paths my major could lead to or if I'll even be good at them. Plus, there's pressure because I want to make sure I can find a job that pays well.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the uncertainty of future satisfaction and success against the need for financial security. What aspects of your interests or strengths do you think might guide you in this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Well, I know I'm really into science, especially chemistry, but then there's this part of me that's curious about business stuff like marketing and finance. I'm also pretty good with numbers and analytics, and like learning about how people think. So, it's just hard to decide which path to follow.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings about their confusion around choosing a major, highlighting preferences for science and business, concerns about career prospects, and the importance of a good salary. Through mutual dialogue, we've established rapport and a clear understanding of the client's dilemma. It's time to guide the client towards exploring motivations and evoking change talk around their career path choices. The reflections helped clarify the client's interests, and summarizing key points provided structure. As we move to the next phase, I'll continue affirming the client's strengths and explore their motivations further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your curiosity in both science and business shows your diverse interests and strengths. Reflecting on what truly excites you about these subjects could be helpful. How do these interests align with what you envision for your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess I see myself in a job where I can use my analytical skills and maybe do something creative or strategic. I want a role that's interesting but also provides stability and good pay. It's just tricky figuring out which path fits best with that vision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your vision of a role that combines analytical skills with creativity and strategy is intriguing. Considering how both science and business might offer these elements, what do you think it would look like to merge your interests into a career path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): That's a good question. I guess it might look like working in a field where I can analyze data or trends but also come up with creative solutions or strategies, maybe like market research or something in that realm. But I'm still not entirely sure how to get there or if that's what I really want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring the idea of market research is a creative blend of your interests. How confident do you feel, on a scale from 0 to 10, about taking steps towards exploring this field further, and what might boost that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I’d say maybe a 5 or 6. I think doing some informational interviews or shadowing someone in that field might help, but I'm not sure how to find those opportunities. Also, just learning more about what a job in market research really involves might boost my confidence too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between their major and their desired career path, exploring both science and business interests. There is a specific exploration of market research as a potential career, and the client has articulated steps such as informational interviews and shadowing to boost confidence. Change Talk is present, and the client's confidence level is between 5 and 6. However, there is still some ambivalence about the direction. More exploration and boosting confidence could be beneficial before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's great that you’ve identified some practical steps like informational interviews and shadowing. That curiosity can really open doors. What value do you think exploring these options could bring to your understanding of the field and your decision-making?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Exploring these options could give me a better sense of what day-to-day work in market research is actually like, and if it aligns with what I want in a career. Plus, talking to people in the field could provide insights I hadn't considered and help me figure out if it's a good fit for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored their interests and articulated a vision for a career combining analytical and creative skills. They have identified specific steps, like informational interviews and shadowing, to explore market research further. Their confidence level is around 5 or 6, indicating moderate readiness, and they have expressed a decrease in ambivalence about pursuing nursing. The client shows readiness to move into the Choosing phase, where action plans can be developed to pursue their identified interests in market research or other business-related fields.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your plan to explore market research through informational interviews and shadowing opportunities can certainly provide valuable insights and clarity. Shall we create a specific action plan for reaching out to professionals in the field? Some possibilities might include utilizing networking platforms, attending industry events, or seeking guidance from career services at your school. How does that sound as a starting point?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan! I think starting with career services at my school could help since they might have connections or advice on where to look. I could also try networking platforms like LinkedIn to find professionals willing to chat or maybe even check out any upcoming industry events. It feels like a good starting point to really dive into this option.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It's wonderful to hear you're ready to dive into exploring market research more deeply. To keep everything on track, we can outline a step-by-step plan. How about starting with setting an initial goal to contact your career services this week for advice and potential contacts? Following that, you could dedicate some time to exploring LinkedIn for professionals in the field and look for any upcoming industry events. What do you anticipate might be your biggest challenge in following through with this plan, and how can we address it together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "I think my biggest challenge might be finding the courage to actually reach out to people and not feel awkward about it. I can get a bit anxious about networking and speaking to strangers. Maybe we could talk about some ways to approach these conversations that would make me feel more comfortable and confident?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Feeling anxious about networking is completely normal, and it's great that you're open to finding ways to navigate it. We can work on some strategies to ease that discomfort. Perhaps preparing a few key questions or points of discussion could help boost your confidence. Another option might be practicing with a friend or in front of a mirror to get more comfortable with the conversation flow. How do you feel about starting with these approaches to make reaching out feel more manageable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Practicing with a friend or in front of a mirror sounds helpful. I think having some go-to questions ready would make me feel more prepared and less likely to freeze up. It would be nice to have a few practice runs to get used to the idea before actually reaching out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan to explore a potential career in market research through networking and informational interviews. They identified potential barriers, like anxiety with networking, and agreed on strategies to tackle them, such as practicing with friends and preparing questions. Their commitment and willingness to take steps towards their goals, along with their self-monitoring plans, indicate readiness. OARS feedback: The client showed great openness in identifying their hesitations and strengths, and working on specific strategies will build their confidence. Continuing to practice networking will be beneficial.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It's great to hear that you're considering these preparations to help ease the anxiety of networking. Practicing with a friend or in front of a mirror can really help build that confidence. Having some go-to questions ready will surely make these conversations feel more natural for you. Let's set a small goal for this week: try practicing a couple of times with a friend or on your own. This could make a big difference in how you feel about reaching out. Remember, it's all about taking small steps towards your goals. You're doing a fantastic job leaning into this process!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll start with some practice sessions and see how it goes. Hopefully, I can feel more at ease with this whole networking thing.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client identified practical steps and strategies to overcome networking anxieties in exploring market research. Goals and coping strategies have been summarized and discussed in detail, indicating readiness to conclude this session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: major help please! any suggestions appreciated\nI’m currently a second semester freshman majoring in nursing. I recently realized that I don’t want to be a nurse anymore, and don’t know if I ever did. I do know that I like science, especially chemistry, so I was thinking of changing my major to chem. Did some more overthinking, and I don’t know if I want a career in chem or if I just like the subject?? Also I feel there aren’t many career options for a chem degree, besides chem engineering which I know I do not want to do.\n\nNow, I’m debating switching to something business-related, possibly marketing, accounting, or finance? I’ve read different things about marketing, some say its useless today and some say its great. I want a degree that is useful but also diverse and can give me options since I don’t know for sure what I want to do after college. I can see myself in marketing or real estate.\n\nObviously salary is important as well, and personally I’d rather have a boring/easy job that makes bank than do something challenging and not make as much money. BUT I also don’t want to hate my job and want to kill myself. \n\nI’m slightly introverted but can be outgoing. I like to think I’m good at math/analytics. I also like learning about human behavior and psychology.  I just don’t know where to go from here. All I know is I don’t want to be a nurse lol. Any help/pointers are much much appreciated. TIA!!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

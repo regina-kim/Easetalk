@@ -1,0 +1,167 @@
+{
+  "id": "rt957i",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you're here to chat. How can I support you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! Thanks for reaching out. I've been having a tough time with test anxiety lately, and it's really starting to affect my performance and confidence.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, especially when it's impacting your confidence and performance. Can you share a bit more about what happens when you experience this test anxiety?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, so when a test is coming up, I start to feel really nervous and my mind just goes blank during the exam. It's like all the studying I did just vanishes from my head, and I can't focus at all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing a lot of stress leading up to and during the exams, making it hard to recall what you’ve learned. What sort of thoughts or feelings usually come up for you before and during the test?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Before the test, I start worrying that I’ll forget everything or that I’ll fail, and then during the test, it's like I'm in a fog and just panic. It's like a cycle of negative thoughts that I can't shake off.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed thoughts and emotions around test anxiety and provided context about its origin. There is a clear understanding of the client’s experience, thoughts, and feelings related to their concern. Rapport is being built with empathetic reflections and open questions. The client seems ready to explore their motivation for change and consider potential strategies to overcome the anxiety. Moving to the Guiding phase would allow for eliciting Change Talk about overcoming test anxiety.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That cycle you're describing can feel overwhelming, especially with those recurring worries of forgetting or failing. Imagine for a moment if this anxiety wasn't as strong—how might that change your test experience or your confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If the anxiety wasn't so overpowering, I'd probably be able to focus better and actually remember what I've studied. I think I'd feel more confident and maybe even a bit more relaxed going into tests, like I actually have a chance to show what I know.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Visualizing feeling more focused and confident during tests brings a sense of hope, doesn't it? What do you think it might be like to align your test experience with your goals and strengths, if anxiety were less of a barrier?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Yeah, it definitely feels hopeful thinking about it that way. If anxiety wasn't such a big deal, I think I'd be able to tackle tests feeling more prepared and like I had a fair shot at doing well, reflecting what I actually know.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Embracing that hopeful vision can be quite empowering. What aspects of your strengths or past experiences can you draw on to support this positive change in your confidence and preparedness for tests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I've always been pretty good at organizing my study materials and managing my time, so I think I could use those skills to help me prepare better. Also, there were a few times when I surprised myself by doing well on tests I was really worried about, so maybe remembering those could boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The guiding phase has effectively evoked a discrepancy between the client's current experience with test anxiety and their ideal state of confidence and focus. The client has expressed change talk by visualizing improved test experiences and identifying specific strengths (e.g., organizing study materials) that could facilitate this change. There's a hopeful tone, and the client mentioned past successes as confidence boosters. As these elements align with the readiness signals for moving forward, it's appropriate to transition to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Those are valuable strengths and experiences to build upon. Considering your skills in organization and time management, along with the positive outcomes from past tests, a few possible options could be setting a structured study plan or practicing relaxation techniques before exams. How do you feel about exploring these or other strategies to help manage the anxiety and enhance your test performance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think setting up a structured study plan sounds like a great start, and maybe some relaxation techniques could help me calm down before the test. I'm open to trying out different strategies and seeing what works best for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a structured study plan and incorporating relaxation techniques both sound like promising steps. How about we work together to set a specific goal for your study plan? Then we can discuss a few relaxation methods you might like to try, such as deep breathing or mindfulness. What do you think would be a manageable goal to start with, and are there any relaxation techniques that interest you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Setting a manageable goal for my study plan sounds good. Maybe starting with dedicating an hour a day to focused study sessions could be realistic. As for relaxation techniques, I've heard about deep breathing and would like to try that, and maybe some mindfulness exercises too, like short meditations.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Dedicating an hour a day to focused study sessions is a practical goal to begin with, and trying deep breathing alongside mindfulness meditations can be calming techniques to explore. Let's outline an action plan: perhaps you could schedule your study hour at the same time each day to build a routine? For the relaxation methods, you could start with a few minutes of deep breathing before your study session and gradually incorporate short meditations. How does this plan sound to you, and are there any potential barriers you can foresee that we might plan for?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "That plan sounds really doable, and I like the idea of having a set routine. I think the biggest barrier might be just sticking to it consistently, especially when I have other assignments or feel too tired. Maybe having a backup plan for those days could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal with a concrete action plan, dedicating an hour a day to focused study sessions and trying relaxation techniques like deep breathing and mindfulness. They also identified potential barriers, such as consistency, and considered having a backup plan. The client showed readiness by accepting the action reflections and expressing commitment to the plan, indicating confidence in executing the strategy. This progress suggests readiness to advance to the Terminating phase, where the focus can be on maintaining and evaluating the action plan's effectiveness. OARS Feedback: The collaborative approach in setting a realistic study routine and exploring relaxation techniques worked well, reinforcing the client's involvement and ownership in their change process.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's great that you're already thinking about staying consistent and having a backup plan for those tougher days. We can definitely incorporate some flexibility into your schedule to accommodate for those times. Perhaps on busier days, even a shorter study session could be just as effective, and maybe a quick two-minute deep breathing exercise could help you stay on track. Remember, it's about progress, not perfection. You're taking important steps towards managing your anxiety and enhancing your performance. I'll be here to support you as you try these strategies, and we can adjust the plan as needed. Let's touch base soon to see how things are going and discuss any adjustments. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and help with making these plans. I'll give it a shot and see how it goes, and we'll definitely chat about how it's working out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and coping strategies, with a clear next-step plan for study habits and relaxation techniques. Client expressed readiness to implement the plan and check in for adjustments. Affirmation and encouragement were well integrated.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How to overcome test anxiety?\nContext: back in my sophomore year of high school (around 3 years ago), I had a class that has completely destroyed my morale when it came to studying and taking tests. Though I have tried to overcome it, It still does take a strong toll on my ability to take a test \n\nTo those who have of their test anxiety, how did you guys do it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

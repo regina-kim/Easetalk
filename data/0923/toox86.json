@@ -1,0 +1,230 @@
+{
+  "id": "toox86",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been really stressed trying to decide between these two universities for my computer science degree. It's a big decision, and I'm feeling stuck.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a university can indeed feel overwhelming because it's such an important decision. What are some of the factors that you're considering as you weigh your options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Well, there's the cost, especially since Berkeley is cheaper for me. But then there's the reputation and opportunities at CMU. I keep going back and forth between the two.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing cost and reputation sounds challenging, especially when both have strong points. What feelings come up for you when you think about each option?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Thinking about Berkeley makes me feel practical and safe because it's cheaper and closer to home, but then CMU feels exciting and like a new adventure. It's like security versus stepping out of my comfort zone.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The goals of the exploring phase have been met as the client has shared their thought process and feelings regarding the decision between the two universities. The client has articulated the essence of their struggle, balancing cost and reputation, and expressed feelings of security versus adventure. There is a clear understanding of the client's dilemma, and empathy has been demonstrated. It could be beneficial to move to the guiding phase to strengthen the client's motivation and explore their desires and values further. During exploring, the use of open questions and reflections helped clarify and deepen the client's narrative.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems you're navigating a real crossroads between security and adventure. How might attending each university align with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "That's what makes it tough! With Berkeley, I feel like I'm making a smart financial decision that sets me up well for the future. But CMU seems like it could offer incredible experiences and connections that might be really valuable in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Both universities offer unique benefits that align in different ways with your goals. What aspects of each choice seem most aligned with who you aspire to be in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "When I think about Berkeley, I picture myself being financially responsible and having stability, which is important to me. With CMU, I imagine growing through challenging experiences and making connections that could help me become more innovative and influential in my field.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Therapist: You're painting a vivid picture of two distinct paths toward your future self. If you envision your life five years from now, how do you see each university shaping that journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "With Berkeley, I see myself having a strong foundation, maybe even saving money for other goals like grad school or starting a business. At CMU, I imagine being pushed to my limits, with experiences that could set me apart in the tech industry. Both paths seem to offer different kinds of growth.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their values of financial responsibility and the excitement of new experiences. They have explored their future life scenarios with both options and have outlined specific potential outcomes. This reflects change talk as they envision different self-growth paths. However, a specific change goal or next step was not identified, and confidence levels were not assessed. To ensure clarity and readiness for the Choosing phase, further exploration is needed to determine the client's confidence and commitment to a decision.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Each option you’re considering offers its own unique growth opportunities and aligns with different aspects of your future vision. How do you feel about the potential challenges and rewards each path may bring as you think about your journey ahead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Honestly, the potential challenges at CMU feel a bit daunting, but I'm also curious about how much those challenges could help me grow. At Berkeley, the challenges might feel more manageable, but I wonder if I'd miss out on something by not pushing myself as much.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored the discrepancy between values of financial responsibility and adventurous growth. They’ve discussed life scenarios with each choice and expressed excitement and fear about respective challenges. Change Talk is present but no specific next step or clear readiness to decide, indicating ambivalence remains. We'll continue guiding to further reduce sustain talk and solidify a change goal.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Facing the potential challenges at CMU and the more manageable ones at Berkeley seems like a meaningful reflection of your inner curiosity and desire for growth. What role do you see curiosity and growth playing in your decision-making process for the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Curiosity is a big deal for me. I always want to learn and experience new things, which makes CMU tempting. But I also value growth that's sustainable, and Berkeley's stability might help me pace myself better. It's tough balancing the two!",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has explored discrepancies between their values and the two university options, considering each path's alignment with their future goals. Change Talk is present, as the client articulates specific growth opportunities associated with each choice. However, they remain ambivalent, balancing curiosity and sustainable growth. The conversation could benefit from further exploration of confidence and specific next steps, particularly in clarifying their commitment level. Therefore, continuing in the Guiding phase is advisable to deepen this exploration and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Your curiosity and desire for sustainable growth both seem to hold significant weight in your decision. As you think about balancing these, what small steps could you take now to explore each path further and see where they might lead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(exploring): Maybe I could talk to some current students or alumni from both schools to get a real feel for what life is like there. I could also visit the campuses if possible and see which one resonates more with me. Getting some firsthand insight might help me see things clearer.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals, such as speaking with students or alumni and potentially visiting campuses, revealing proactive steps towards decision-making. Change Talk is evident as the client weighs values like curiosity and growth, and ambivalence seems reduced with a clearer understanding of challenges and rewards linked to each option. Confidence in exploring options appears strong, indicating readiness to move to the Choosing phase to solidify an action plan. OARS feedback: The use of open questions helped draw out the client's values and goals, while reflective listening supported their exploration of potential paths.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Talking to students and visiting campuses are excellent steps to gain firsthand insight into each option. As you consider these steps, what specific questions or experiences do you think would help you further clarify your decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(exploring): I'd want to ask about the workload and how manageable it is, and what kind of support systems are in place. Also, I'm curious about the culture and how collaborative or competitive it is. Maybe even get a feel for what students do for fun and how they balance academics with their social life.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Exploring those aspects will certainly give you valuable insight. In terms of next steps, you could set a goal to reach out to a couple of current students or alumni from each university and plan a campus visit if possible. What do you think might be some barriers to taking these steps, and how could you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): I think a barrier might be just finding the right people to talk to or getting responses, since everyone is busy. I could overcome it by reaching out through forums or social media where students might be active, or maybe contacting the universities' admissions offices to help connect me with students willing to chat.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "therapist(choosing): Those are proactive strategies to connect with students or alumni, and contacting admissions offices could provide additional support. As you move forward, how would you like to monitor your progress and ensure you’re gathering the information you need to make an informed decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): client(choosing): I guess I could keep a little journal or notes on what I learn from each conversation or visit. That way, I can look back and see which aspects really stood out to me. Maybe setting a deadline to make a decision would also help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear and actionable plan that includes speaking with students, visiting campuses, and maintaining a journal to track insights, which addresses their decision-making concern. Barriers such as reaching out and receiving responses have been anticipated, with strategies to mitigate them. The client has also expressed commitment to taking these steps and confidence in tracking progress, indicating readiness to proceed. The plan is concrete, and the client is prepared to self-monitor effectively. Regular reflections are accepted, and the client shows confidence in evaluating information to make an informed decision.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "That's a thoughtful approach. Keeping a journal to document your insights can help clarify your thoughts, and setting a deadline could keep you motivated and focused. You've outlined clear steps and strategies to overcome potential barriers, which demonstrates a strong commitment to making an informed decision. Remember, this process is all about finding the right fit for you. Take it one step at a time and trust that you're moving in the right direction. If you ever feel uncertain or need further support along the way, know that you're not alone and there are resources and people ready to assist you. Keep nurturing that curiosity and commitment to sustainable growth. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and advice. I'll definitely keep that in mind and try to stay open to whatever I find.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated clear steps and strategies for exploring both options, with proactive measures to overcome barriers. A deadline and progress tracking through journaling have been set. Goals and coping strategies were summarized, inviting closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: CMU CS or UC Berkeley EECS?\nSo I got into both programs, and I'm having a really hard time deciding what to choose. I'm in-state for UC Berkeley, so tuition would be significantly cheaper. But other than this, I love both schools, and I don't know what to choose!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

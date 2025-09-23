@@ -1,0 +1,251 @@
+{
+  "id": "tejhs6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you here today? I'm here to listen and explore what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I just feel so overwhelmed juggling everything with school and my kids. I’m struggling to figure out if I should keep going this semester or just take a step back.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and family is challenging and it's natural to feel overwhelmed. You're considering either continuing or taking a break, which seems like a tough decision. Can you share more about what makes each option appealing or concerning for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, if I keep going, I feel like I'll be accomplishing something and not falling behind, but it's just so stressful. On the other hand, if I take a break, I feel like I'm letting myself down or wasting time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "You're caught between wanting to keep progressing with your studies and the stress it brings, while also feeling like taking a break might mean not living up to your own expectations. Both options have their own appeal and challenges. What has helped you manage stressful times like this in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Usually, I try to break things down into smaller tasks and tackle them one at a time, but right now, everything just feels like too much. I’ve also relied on support from family, but even that feels shaky with everyone having their own stuff going on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive picture of her situation, including the pressures of managing school and motherhood, her emotional conflict about withdrawing, and past coping strategies. Empathy and rapport have been established, and the client's goals are clearer. The conversation has also tapped into her feelings of stress and fear of failure. These insights set a solid foundation to move into the Guiding phase, where we can focus on enhancing motivation and exploring change talk further. The client's openness about her challenges is a strength that can be leveraged in the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like breaking tasks into smaller pieces and leaning on family support have been helpful strategies for you in the past, even if they feel less effective right now. Considering your current situation, what do you think might help you feel more confident about the decision to either continue or take a break this semester?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think maybe talking it through more and getting some perspective would help. It might also help to set some sort of deadline to make a choice, so I'm not in limbo forever.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Taking time to talk it through and setting a deadline for your decision seem like thoughtful steps to gain clarity and move forward. On a scale from 0 to 10, how confident do you feel about being able to make a decision that aligns with your values and current needs?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I’d say I'm probably at about a 4 right now. I feel pretty stuck, and it's hard to feel confident when I'm not sure what the right move is. But talking it through is helping a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Acknowledging that you're at a 4 shows that while it's challenging, there's some room for growth in your confidence. Exploring your values and what's most important to you might help bridge that gap. What aspects of your life or goals do you feel strongly about that can guide your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I really value education and want to set a good example for my kids by finishing my degree. At the same time, I know I need to be present for them and take care of myself, too. It's just hard to balance those priorities right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing ambivalence about continuing or withdrawing from the semester and has articulated a discrepancy between her values of completing her education and being present for her children. However, significant ambivalence remains, and the client's confidence level is currently low at 4. Although she has acknowledged some potential steps, such as talking it through and setting a deadline, further exploration is needed to strengthen her confidence and resolve ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Balancing your aspirations for education with being present for your kids and self-care shows how deeply you value both your growth and your family's well-being. Understanding these priorities can guide you toward a decision that aligns with what matters most to you. How might you envision your life if you were able to achieve this balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): If I could find that balance, I think I'd feel more at peace and not so torn all the time. It would mean I’m making progress with my education while still being there for my kids, and that would make me feel like I'm doing right by them and myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their educational goals and the challenge of balancing family life, specifically with a newborn and a toddler. They have expressed Change Talk about wanting to set a deadline and gain perspective, indicating a move towards decision-making. However, their confidence level is currently at a 4, and they still feel uncertain about the right path. While values and priorities have been explored, more guidance is needed to increase confidence and resolve ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Imagining a life where you achieve that balance between education and family is a powerful motivator. Feeling at peace and fulfilled in both areas reflects how much you care about your own growth and your family's happiness. What small steps could you take in the coming days to start moving toward that vision of balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could try setting smaller, more manageable goals for school each week, like focusing on just one assignment at a time. Also, I could carve out specific times to study when the kids are napping or if someone can watch them, so I feel more organized and less overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to gain perspective and set a deadline for decision-making, indicating a readiness to focus on specific action steps. There have been explorations of values, the discrepancy between current stress levels and the ideal balance, and reflections on potential solutions. The client expressed confidence at 4, slightly low but open to growth. We should continue guiding to reinforce confidence and resolve ambivalence. The client is not quite ready to advance to the Choosing phase as they still need to solidify their confidence and commitment to specific actions.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "therapist(guiding): Focusing on smaller, manageable goals and setting aside dedicated study times are thoughtful strategies to help create that balance you're envisioning. It sounds like these steps could make the journey feel less overwhelming and more achievable. How might these small changes impact your confidence in handling this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think having a plan, even just a loose one, could really boost my confidence. If I can see myself making even small progress, it might help me feel more in control and less like everything is spiraling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is exploring their values and has identified specific strategies to enhance balance and confidence, but their confidence remains low at 4. While there is some change talk, the discrepancy between values and current behavior is not fully resolved. Further strengthening of motivation and confidence is needed before setting specific action plans. Continue exploring their vision for balance and address ambivalence to solidify readiness for concrete planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Visualizing progress through a loose plan can indeed instill a sense of control and confidence. Recognizing that even small steps forward contribute to a greater sense of accomplishment is important. How do you feel about taking these initial steps and seeing where they might lead you in the next few weeks?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I'm feeling a bit more optimistic about it. Taking those initial steps seems like a good way to test the waters without fully committing either way just yet. It feels like a small way to start figuring things out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing more Change Talk, with specific steps identified to address her concerns, such as setting manageable goals and dedicated study times. Her confidence has increased since the initial 4, as indicated by her feeling more optimistic about taking small steps forward. The discrepancy between her educational goals and current challenges has been acknowledged, and she is envisioning a balanced life. These are strong signals of readiness to move to the Choosing phase, where concrete action plans can be developed and potential barriers addressed. Continue reinforcing her optimism and planfulness.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Your optimism about these initial steps is promising. Testing the waters by setting small, manageable goals can be a gentle way to explore what works best for you and your family. Would you like to outline a specific action plan to guide you over the next few weeks, and perhaps consider any potential barriers you might encounter along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think coming up with a specific action plan could really help me stay on track. I know things can get unpredictable with the kids, so considering potential barriers and having a backup plan might be a smart move.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Creating a specific action plan and considering potential barriers can indeed help you stay organized and prepared. Based on your thoughts, possible options include setting weekly educational goals, identifying specific study times, and having backup childcare plans. How do these options align with your thoughts, and are there any other strategies you think might be important to incorporate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(choosing): Those ideas sound pretty solid to me. I think setting weekly goals and finding study times that work around the kids' schedules is a good start. Maybe I should also communicate more with my professors about any extra support they might offer if things get too overwhelming.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Reaching out to your professors for support when needed is a proactive strategy and can enhance your ability to manage your time and expectations. Setting weekly goals, aligning study times with your kids' schedules, and maintaining open communication with your professors form a comprehensive plan. How do you feel about implementing this plan, and would you like to decide on a way to monitor your progress and adjust as necessary?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about giving this plan a shot. It sounds like a reasonable way to try to balance everything without adding too much pressure. I think keeping a journal or some notes about how things are going could be helpful, just to track what works and what doesn't, and adjust as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear and concrete action plan that includes setting weekly goals, aligning study times with her children's schedules, and maintaining open communication with professors. Potential barriers have been discussed, and the client has agreed on self-monitoring by keeping a journal to track progress and make necessary adjustments. She is showing optimism and readiness to implement the plan, signaling a readiness to advance to the Terminating phase. The process has effectively addressed her concern about balancing family responsibilities and education.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Taking the step to implement this plan and keeping a journal to track your progress is an excellent approach. This will help you reflect on what works well and where adjustments might be needed, allowing you to stay flexible and responsive to your circumstances. You've laid out a thoughtful path that considers both your educational goals and family responsibilities. Remember, it's perfectly okay to ask for support when needed and to celebrate every little victory along the way. I'm encouraged by your willingness to take these steps, and I'm here to support you as you navigate this journey. Keep in mind that you have the ability to adapt and grow through these experiences. Looking forward to hearing about your progress in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll give this plan a go and see where it takes me. I'll make sure to jot down my thoughts and progress and look forward to sharing how it goes. See you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a specific action plan, considered potential barriers, and expressed optimism about their strategy. They also plan to track progress. These elements fulfill the necessary criteria for successful session termination.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: To withdraw or to not withdraw from the semester..\nI just had my daughter 6 weeks ago. The week my classes started, I gave birth to my daughter. I thought i could handle taking 2 classes with a toddler &amp; newborn, but god was I totally wrong. I emailed my professors &amp; told them that I just gave birth &amp; they told me &amp; I can turn in my work whenever with no penalties. I’m so in between on if I should withdraw from this semester, or if I should continue with the classes. It’s just so fucking hard being a stay at home mom with a toddler &amp; newborn + being a college student. I feel like a failure if I withdraw and I hate it. Any other moms who just had a baby &amp; are still taking classes? How are you handling it?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "vrj8dk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty overwhelmed. I've been stuck in this loop of not knowing whether to stick with computer science or switch to a business major, and it's stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be tough feeling caught between these two options. What aspects of each path are contributing to your uncertainty?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, it's definitely tough. With computer science, it's all about the challenge and future job prospects, but I struggle with the material. On the flip side, business seems more manageable but I'm worried it might not be worth it in the end.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing challenge with manageability must be quite the balancing act. What experiences or feelings have you had with each subject that might be adding to this dilemma?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "With computer science, I often feel like I'm drowning in material I don't fully understand, especially since learning online was so hard for me. Business feels more within my grasp, but there's this nagging worry that it might not lead to as rewarding a career.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploring phase successfully elicited the client's story, revealing the internal conflict and feelings associated with choosing between computer science and business. The client shared detailed context about past experiences, struggles with online learning, and career concerns. Empathy and rapport were established as the therapist acknowledged the challenge and listened to the client's dilemma. A mutual understanding of the client's goals and concerns emerged, indicating readiness to advance. During Exploring, open questions and reflections helped deepen the conversation. Moving forward, more focus on evoking Change Talk and strengthening motivation for potential paths is needed.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the fulfillment of overcoming challenges against the ease of understanding and future satisfaction. How do you envision your life if you were to excel in either computer science or business?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "In computer science, I imagine feeling proud of overcoming the tough parts and landing a well-paying, stable job. With business, I see myself being more comfortable with the material and enjoying the courses more, but I worry about whether it would bring the same financial and career rewards.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You have a clear vision of success in both fields, yet each comes with its own set of uncertainties. What values or priorities might help you decide which path aligns better with your long-term goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think stability and a good income are pretty important to me, but I also want to feel competent and not constantly stressed out by my studies or job. I guess I'm trying to balance financial security with personal satisfaction.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring that balance between financial security and personal satisfaction is crucial for you. If you imagine yourself years from now, thriving in a career that aligns with these values, what does that look like, and what steps might help you feel more confident in moving toward that vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): If I picture myself thriving, I'm in a role that challenges me but also lets me feel capable and competent. I think having a mentor or more hands-on experience could help me gain confidence and clarity on which path to take.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision for success in both fields, identified key values such as financial security and personal satisfaction, and considered potential steps like finding a mentor to gain clarity. There has been a shift towards Change Talk, as the client has explored future scenarios and strategies to build confidence. These indicators suggest readiness to move to the Choosing phase, where specific action plans and strategies for anticipated barriers can be developed. OARS feedback: The discussion effectively explored the client's values and long-term goals, aiding in aligning their career path with personal aspirations. Continuing to affirm strengths and explore specific actions will support progress.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It’s insightful that you consider mentorship and hands-on experience as steps towards achieving that vision. To explore these ideas further, possible options could include seeking internships or talking to professionals in both fields. What do you think about setting a goal to connect with someone in each area, and perhaps plan a small step to reach out for advice or shadowing opportunities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "That sounds like a good plan. Getting a first-hand look at what each career might be like could really help me make a decision. I'll try reaching out to some alumni or professionals in both fields to get their insights and maybe see if I can shadow them or chat about their day-to-day experiences.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating connections with alumni or professionals is a proactive step toward clarity. What would be some initial actions you could take to start reaching out, and how might you track your progress in this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I could start by checking my university's alumni network or LinkedIn to find people working in both fields. I might send them a message introducing myself and asking if they'd be open to chatting about their experiences. To track my progress, I could make a list of people I reach out to and note any responses or meetings I set up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Reaching out via your university's alumni network or LinkedIn sounds like an excellent strategy. Crafting a thoughtful message to introduce yourself is a great way to start. Keeping a list of contacts and tracking responses will help you stay organized and motivated. How do you feel about setting a timeline for these actions to ensure you can evaluate your progress and make adjustments if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "Having a timeline sounds useful to keep me on track. Maybe I could aim to reach out to at least five people in the next two weeks, and then set up any meetings or calls within a month. That way, I have enough time to gather insights before making any big decisions about my major.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to connect with professionals in both fields and has agreed to self-monitor the outreach process. They have shown readiness through steps-talk and reflections on their strategy. With a concrete timeline in place, they are poised to assess their interests and capabilities in both areas. Moving to Terminating is appropriate as the client demonstrates commitment and confidence to take these steps. OARS Feedback: The client’s proactive attitude and detailed planning were key strengths in this phase. Going forward, ensuring timely follow-ups will help maintain momentum.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Planning to reach out to five people within the next two weeks is a smart and manageable goal. It will give you a solid foundation of insights to help guide your decision-making. Setting meetings or calls within a month is a thoughtful approach to allow yourself time to reflect on what you learn. You're really building a strong framework to ensure that your choices are informed and aligned with your values. Remember, every step you take is progress. If you ever feel overwhelmed or need further guidance, support is always available. Keep believing in your capacity to navigate this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. I'll definitely reach out if I need more help or feel stuck along the way. It's good to know I'm not alone in figuring this out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified key steps to align with their values, set clear goals, and established a timeline to gather insights from professionals. They have a plan to manage their decision-making process and expressed understanding of available support.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Stay in computer science or switch to business?\nI’d appreciate any sort of help as I’m lost. I’m currently in Turkey on vacation with my parents but I need to decide what I want to do so I can make it to the fall term. \n\nI started my computer science major online in 2020 in a university for one year, than switched to a different university for applied computer science for another year first semester online, second in person. I’m going into my third year after the summer and I barely have any knowledge of the subject I’m doing. I’ve had a difficult time learning online and learning computer science in general. \n\nI did some thinking and the only reason I want to switch is because I find computer science hard, which I don’t think is a valid reason for me, and it’s only going to get harder as I’m closing in on the major. I can’t decide if I want to switch to business or not. People say that business is useless and a waste of money, while computer science is the future and has well paying jobs. \n\nI’m so lost at what I’m supposed to be doing and it’s so stressful. I’d kindly appreciate any kind of input.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

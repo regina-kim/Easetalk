@@ -1,0 +1,230 @@
+{
+  "id": "1cliznk",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It seems like you might have something on your mind. Feel free to share what's been going on or anything you'd like to talk about today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, I've been feeling really drained lately. Between finishing my degree and working full-time, I'm just not sure if I should push on or take a breather. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and studies can really take a toll. You might be feeling overwhelmed because you're juggling a lot at once. What's been most challenging for you in managing these responsibilities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, it's the constant hustle—commuting, working full-time, trying to maintain my grades—it's all been pretty exhausting. I just feel like I'm always on the go with no time to recharge. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're caught in a cycle of constant activity, which can be really tiring. You might be feeling exhausted because there's little time left for yourself. How do you usually try to find moments to recharge, if at all?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I haven't really found much time to recharge lately. When I do have a moment, I usually end up just scrolling on my phone or trying to catch up on sleep, but it never feels like enough.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a detailed narrative, highlighting feelings of exhaustion and concerns regarding career and education decisions. They've articulated their achievements and fears around taking a break. The client also expressed their struggle with balancing work, commuting, and time for relaxation. This demonstrates a thorough understanding of their situation, their aspirations, and the challenges they face, indicating the goals of the Exploring phase have been met. Moving to Guiding would allow a deeper exploration of motivation for making a decision about taking a break. OARS Feedback: The client shared openly, feeling heard allowed for a better understanding of their story. Continued reflection and open questions can deepen this exploration in the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like your current ways of recharging aren't quite fulfilling. Imagine if you made a change and found more effective ways to truly relax—how might that impact your energy levels and overall well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I think it would make a big difference. If I could find something that really helped me unwind, maybe I'd feel less burned out and more motivated. I just don't know what that looks like right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding the right way to unwind could indeed be a game-changer for you. What are some things you've enjoyed in the past that left you feeling recharged or invigorated?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I've always enjoyed being outdoors, like hiking or just sitting in a park. I used to draw a lot too, which helped me relax, but I haven't done that in a while.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Reconnecting with activities like being outdoors or drawing could potentially reignite that sense of relaxation for you. On a scale from 0 to 10, how confident do you feel about trying to reintroduce one of these activities into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Probably around a 5. I want to try, but fitting it into my schedule feels like it could be tough. I’m willing to give it a shot, though, if it means feeling a bit more balanced.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed understanding of the potential benefits a change could bring, such as feeling less burned out and more motivated. Some exploration of past enjoyable activities led to the identification of outdoor activities and drawing as possible ways to recharge. The client's confidence to reintroduce these activities was rated at 5, indicating some willingness but also acknowledging challenges in scheduling. However, concrete plans or specific next steps have not been clearly established, which suggests the need to continue guiding to further clarify and strengthen commitment before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You're considering making space for these activities, which shows you're open to creating some balance. What might help you move that confidence level from a 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having a set plan or maybe starting small could help. Like, scheduling a short hike on the weekend or setting aside just 10 minutes to draw during the week. Having some accountability might help too, like telling a friend about my plans.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed some motivation for change by considering reintroducing activities that could help with relaxation and well-being. They have identified potential actions such as scheduling time for hikes or drawing, and are open to accountability. However, their confidence level remains at a 5, indicating ambivalence and a need for further support and planning to increase readiness. Existing Change Talk is promising, but additional exploration and support to solidify motivation and address barriers are needed to prepare for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a plan and starting small sounds like a thoughtful approach to integrating these activities into your life. It seems like having a bit of structure and support could boost your confidence in making this change. How do you feel about reaching out to a friend to share your intentions and perhaps even plan a short hike together?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think that could actually help a lot. Having someone else involved might make it easier to stick to my plan. Plus, it'd be nice to share the experience with a friend. I'll reach out to someone soon and see if they're up for it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to take a break due to mental exhaustion and has identified potential activities that may help in achieving better work-life balance. They have articulated a clear change goal of taking a break and have shown willingness to explore small actions to reach their goal. However, there is still notable ambivalence and sustain talk, particularly about the perceived risks of taking a break. The confidence level is at 5, which does not reach the threshold of 6 for progressing. Continuing in the Guiding phase will help further explore and reduce ambivalence, increasing readiness for change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Having support from a friend sounds like a wonderful way to make this change more enjoyable and sustainable. Taking this step shows your commitment to enhancing your well-being. How does this idea align with your goals for feeling more balanced and energized in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): It definitely lines up with what I want. I really need to feel more in control and less overwhelmed. Sharing these activities with a friend sounds like a good way to break out of this exhausting cycle and find some joy again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed change talk by recognizing the need to rebalance their life through activities they previously enjoyed, like hiking and drawing. They have identified a specific action—reaching out to a friend for support—which aligns with their goal to feel more in control and less overwhelmed. Their confidence level is around a 5, but they have a plan to increase it and have expressed a commitment to following through. These signals indicate readiness to collaboratively develop specific action plans, so moving to the Choosing phase is appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Bringing joy back into your routine through shared activities sounds like a meaningful goal. Based on what we've discussed, an option could be setting a specific time for a short hike with your friend each week, and another could be allocating a regular 10-minute drawing session into your schedule. How do you feel about trying these steps and what potential barriers do you foresee?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I really like the idea of setting a specific time for both, it makes it more real and achievable. A potential barrier might be my unpredictable work schedule, but if I plan ahead and stay flexible, I think I can make it work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Creating a specific plan while staying flexible seems like a solid strategy to address potential scheduling conflicts. It's great that you're already thinking about ways to adapt. How about we set a goal to try these activities for a couple of weeks and check in on how it's going? What support might you need to keep this momentum?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. I'd appreciate some reminders or prompts, maybe a note on my phone or a reminder from my friend. I'll also let them know I’m trying to stick to this plan so they can help keep me accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "therapist(choosing): Engaging your friend for accountability and using reminders on your phone are excellent strategies to maintain focus. It shows your proactive commitment to nurturing this change. Let's aim for a two-week trial of these activities, and we can touch base afterward to reflect on your progress. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I'm hopeful that with these reminders and some accountability, I can really stick to it and start feeling more balanced. I’m looking forward to seeing how it goes and touching base soon.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear action plan to increase balance in their life through scheduled activities and accountability. Potential barriers like an unpredictable work schedule have been identified, and strategies like reminders and friend involvement have been agreed upon. The client shows commitment and readiness to implement the plan, which aligns with their goal of feeling more balanced and less overwhelmed. The ongoing engagement with the plan for two weeks with a subsequent check-in indicates readiness for termination. OARS feedback: The use of open questions and reflections effectively elicited the client's intentions and barriers, while affirmations strengthened their confidence in the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "It’s encouraging to hear your optimism and readiness to make these changes. You’ve set a clear and achievable plan, and with the support of your friend and reminders, it feels like you're setting yourself up for success. Remember, every small step is a step forward, and each effort counts. I'm here to support you, and we’ll reconnect in a couple of weeks to see how things are progressing and adjust if needed. You've got this, and I’m confident you’ll find that sense of balance and joy you’re seeking. Take care until then!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate all the support and encouragement. I'm feeling pretty motivated to give this a real shot. We'll touch base soon and see how it's going. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals and coping strategies, and the client has a clear plan and support system. We discussed next steps, and the client feels motivated and ready to proceed. Good use of open questions and reflections enhanced client engagement.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I take a gap year? I already have Jr. Dev job\nI am about to graduate with an Associates of Applied Science in Multimedia and Web Development in a couple weeks. Not the best degree choice considering the market. When I first started my degree my goal was to become a front-end web developer, but that was in 2021 and it seems most companies are looking for full-stack.\n\nI am graduating with highest honors with a 4.0 GPA, woo! I have won some awesome awards like \"Student of the year\" just last month out of all the people going for business, technology, and workforce readiness degrees. I was in Phi Theta Kappa, and was a chapter officer.\n\nI am tired. I worked a full time job through this entire school trip and I am genuinely tired.\n\nHere is the thing, I already have a Jr Software Developer position. I started a couple months ago. I got this job due to an internal promotion, I was already at this company as a lead IT technician, and I networked the hell out of the developers and they finally took me in. I live an hour from my work so I spend a good 10 hours a day just with work and commuting, it has been really rough this last semester but I am making it.\n\nI want to take a break. I got the jr dev job. I want a break. I am so mentally exhausted. But the doom scrolling on reddit scares me. I had people tell me I only got lucky and it won't be so easy next time I get a job (this wasn't easy, either. I bugged them for almost 2 years before they had a position opened, and that is not including the hundreds of other applications I did in the meantime). I admit that I got really really lucky, and would not be here if I wasn't already an internal candidate. I have been told that I should leave this job now anyway because it pays so low compared to other jr dev positions. I took the low pay because it is my very first jr dev job and I did not have much room to sell myself and didn't want to lose the opportunity because I got greedy with money.\n\nI want to take a break, but I keep reading it is an absolutely terrible idea to take a break and that companies look down on that and that it will make it much more harder to go back to school. When I started my associates degree, I was 25 so I was already out of high school for a good 7 or 8 years. I feel like I could do a year break and get back into it. But I also worry that schools won't look at me highly if I take a year break.\n\nI am hoping that if I do take a break, the fact that I had a 4.0 gpa and was in the honor society would make me still be someone they accept and possibly allow scholarships. I am afraid of taking on more student loans.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

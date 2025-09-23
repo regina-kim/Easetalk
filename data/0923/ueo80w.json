@@ -1,0 +1,209 @@
+{
+  "id": "ueo80w",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to be here with you today. What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just a bit overwhelmed thinking about grad school. I’m worried my past GPA is going to hold me back even though things are better now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Grad school can certainly feel like a big step. You're feeling worried about your past GPA because you're concerned it might affect your future opportunities, even though you've made improvements recently. What changes have you noticed that make you feel things are better now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I've been able to manage my mental health a lot better and I'm not juggling as many jobs, so I can focus more. I feel like I have a clearer head and more energy to tackle things now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must feel empowering to have a clearer head and more energy to tackle your goals. Managing fewer jobs and handling your mental health effectively sound like significant steps forward. How did you come to make those changes?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I realized I needed to prioritize myself more and recognize when I was overwhelmed. Therapy has definitely helped, and I've learned to set boundaries to avoid taking on too much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concerns about grad school, past GPA issues due to mental health, and recent improvements in their situation. The therapist has effectively used reflections to acknowledge the client's progress and challenges. Empathy and rapport are established, and goals about pursuing an MBA are mutually clear. Thus, it's appropriate to advance to Guiding to explore motivations and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Setting boundaries and prioritizing yourself seem to be pivotal changes you've embraced. It shows a lot of self-awareness and dedication. How do these changes align with your aspirations for grad school?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think these changes mean I'm in a better place to succeed in grad school now. I feel more capable of managing the workload and stress, but I'm just worried that my past record might overshadow my progress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your progress and self-awareness highlight a strong readiness for what's ahead in grad school. It seems like you're in a much better place now to handle the challenges. How might you bridge the gap between your past record and your current capabilities to feel more confident about applying?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe I can focus on the things I've improved and how I've changed when I write my application. I guess showing that I'm more prepared now could help, but it's just hard not to dwell on that GPA.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your focus on showcasing your improvements and growth sounds like a great approach. Highlighting how you've learned to manage your workload and stress can really emphasize your readiness for grad school. On a scale from 0 to 10, how confident do you feel about sharing your story in the application?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I’d say maybe a 5 or 6. I know I've made progress, but it’s tough to shake off the nerves about whether it'll be enough to convince the admissions folks.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a change in self-awareness and has identified specific strategies for highlighting improvements in their application. They've articulated a specific change goal: focusing on showcasing their improvements and growth in their grad school application. However, their confidence is currently at a 5 or 6, which suggests there is room to further explore and strengthen their self-assurance before proceeding to action planning. Therefore, continuing in the Guiding phase will allow for further exploration of their confidence and strategies to address their concerns.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Acknowledging that progress while feeling nervous is completely normal. It sounds like you're midway through gaining confidence in sharing your story. What aspects of your journey do you feel most proud to highlight that might help nudge that confidence closer to a 7 or 8?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I'm really proud of figuring out how to balance my mental health and responsibilities better. Also, holding down three jobs while in school shows I'm dedicated and hard-working. I think showing that perseverance and growth could help bump up my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated Change Talk by identifying specific improvements and strategies, such as balancing mental health and responsibilities better and displaying perseverance. They have recognized a clear discrepancy between their past academic performance and current capabilities, and have developed ideas on how to present their growth in their application. However, their confidence is currently at a 5 or 6, which indicates some ambivalence remains. More exploration of strengths and further confidence building is needed before advancing to specific action planning. Therefore, it's beneficial to continue guiding until a higher level of confidence is expressed.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your dedication and perseverance definitely stand out as strengths in your journey. Highlighting how you've balanced multiple responsibilities while managing your mental health is a compelling part of your story. How might focusing on these achievements further reinforce your confidence about sharing your progress in your application?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): Focusing on these achievements might remind me of how far I've come and how capable I am now. It could help me see my past as part of my growth, rather than just a setback, and that could boost my confidence when applying.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's discrepancy between past academic performance and current self-improvement. Change Talk is present, with the client identifying specific growth areas to highlight in the application. Confidence has been expressed at a 5 or 6, with steps to increase it identified. The client is less focused on the past and more on strengths, suggesting readiness to develop specific action plans. Move to Choosing to collaboratively solidify steps for the application process and address any remaining barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Your perspective on seeing your past as part of your growth is truly insightful. Let's consider creating an action plan to weave these achievements into your application. Options might include drafting specific examples of your perseverance and balance, or seeking feedback from someone you trust to refine your narrative. What steps do you feel would be most helpful for you to take initially?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(exploring): I think drafting specific examples would be a good start. Maybe I can jot down stories or situations where I managed to balance everything despite the challenges. Getting feedback after that sounds helpful too, just to see if I'm highlighting the right stuff.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Drafting specific examples sounds like a solid starting point. Capturing those stories of balance and perseverance will help illustrate your journey effectively. Once you have those narratives, getting feedback can be a great way to ensure you're emphasizing the right aspects. How do you plan to approach gathering and organizing these stories, and who do you think could provide meaningful feedback once you're ready?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(exploring): I'll probably start by listing out some key moments or challenges and how I handled them. Maybe I'll focus on specific times when I had to juggle work, school, and taking care of myself. As for feedback, I think a trusted professor or the career center might be a good start since they'd understand how to align it with what schools are looking for.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Your plan to list key moments and challenges is a thoughtful way to organize your thoughts and showcase your journey. Focusing on those specific times of juggling responsibilities will really highlight your capabilities. Seeking feedback from a trusted professor or the career center sounds like a valuable step to refine your application. How do you feel about setting a timeline for drafting these stories and reaching out for feedback, to keep yourself on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Setting a timeline sounds like a smart move to keep things rolling. I think I'll aim to have my drafts done in a couple of weeks and then reach out for feedback shortly after that. That way, I’ll have enough time to tweak everything before any deadlines.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of integrating their achievements into the grad school application, established a concrete action plan to draft specific examples and seek feedback, and discussed potential barriers such as confidence. They also agreed to self-monitor by setting a timeline for completing drafts and reaching out for feedback. The client shows commitment and confidence in moving forward with the plan. Action reflections were accepted, and the client is taking steps. Transitioning to termination would be appropriate, focusing on maintaining the plan and monitoring progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Your plan to draft your stories within a couple of weeks shows great initiative, and having a timeline can definitely help keep you on track. Completing the drafts and then reaching out for feedback will give you space to refine and strengthen your application. It's clear you're committed to presenting your best self. Remember, each step you take is a testament to your dedication and growth. Keep building on that momentum. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I’ll definitely try to stay on track and keep that momentum going. It's reassuring to know I’m moving in the right direction.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a detailed plan to highlight their achievements in applications and a clear timeline for action and feedback. Their commitment to maintaining momentum and seeking growth aligns with their goals. Affirming their initiative and dedication has reinforced their confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Getting into grad school\nSo I did a lot in college as well as worked 3 jobs. I graduated with a 2.3 GPA. This was primarily due to mental health issues. Am I screwed or what? I want to get my MBA now that my life is a little more stable but I’m feeling discouraged.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

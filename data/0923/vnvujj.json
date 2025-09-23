@@ -1,0 +1,230 @@
+{
+  "id": "vnvujj",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I assist you today? Feel free to share anything that's on your mind or any concerns you might have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! So, I'm kinda stuck trying to figure out if I should stick with an associates in arts like my advisor suggests or go for an associates in science since I want to get into computers. It's all a bit confusing, and I'm not sure what's best for transferring later.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing between those two paths seems like a big decision, especially with your interest in computers and future plans. You might be feeling unsure because both choices offer different opportunities and challenges. What are some factors you're considering in making this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Yeah, exactly. I'm thinking about what would make transferring smoother and what aligns better with my future goals in tech. Also, I wonder if one choice might limit my options later on or if it’s more about the classes I take.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the potential impact of each choice on your future opportunities in tech and the ease of transferring. It's understandable to be concerned about how your decision might shape your options. What specific goals do you have in tech that you're hoping to align your studies with?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm aiming for a career in software development, something like programming or maybe even cybersecurity. I want to make sure that whatever I choose now gives me a solid foundation, so I can build on that easily after transferring to a university.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed information about their educational dilemma, including concerns about transferring and future career goals in tech. The therapist has effectively used open questions and reflections to understand the client’s situation and emotions. They've explored the client's considerations for each option and clarified their specific career aspirations. The goals of the Exploring phase have been met, and there's a good understanding of the client's story, allowing a transition to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your desire to build a solid foundation for a future in software development or cybersecurity shows your commitment to your goals. What aspects of software development or cybersecurity most excite you, and how do you envision your education supporting those interests as you move forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I love the idea of creating something from scratch, like bringing ideas to life through coding. With cybersecurity, it’s the challenge of protecting information and staying ahead of threats that excites me. I want my education to help me develop the skills to tackle real-world problems and stay on top of new tech trends.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Creating something new and protecting information are both exciting and impactful paths. It's great that you want your education to equip you with the skills to address real-world challenges and keep up with tech advancements. How do you see your choice of degree influencing your ability to achieve these ambitions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I feel like choosing the right degree could really set the stage for how well I pick up those essential skills. If I go with the associates in science, I think it would push me more towards technical classes that align with my interests. But at the same time, I’m worried if an associates in arts might make transferring easier and still let me explore tech later.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing your interests in technical skills with the potential ease of transferring is a thoughtful approach. You're considering how each path might impact your ability to develop those essential skills for a career in tech. On a scale of 0 to 10, how confident do you feel about making a decision that aligns with your aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'm probably at a 5 right now. I feel torn because both have their pros and cons, and I don’t want to make the wrong choice and regret it later.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed their interest in software development and cybersecurity, identifying a desire to develop skills for real-world challenges. A discrepancy between their current position and their aspirations has been explored, but they remain ambivalent with confidence at 5. Given that they have not yet resolved their ambivalence or expressed specific change goals, it is best to continue guiding to build confidence and evoke change talk further.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Navigating the pros and cons of each option shows you're really giving this decision careful thought, and it's okay to have mixed feelings. At a 5, you're right in the middle, which means there's room to explore what might increase your confidence. What do you think could help you feel more certain about your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think talking to more people who’ve been in a similar situation could help, like students who transferred with either degree. Maybe hearing their experiences would give me a better idea of what to expect. Also, looking into the specific classes and how they relate to tech careers might make things clearer for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both Change Talk and ambivalence, highlighting a clear discrepancy between their current educational path and future career goals. They have identified specific aspects of both paths and articulated a desire to explore real-world applications in tech. However, confidence is currently at a 5, indicating continued ambivalence. The client has identified actionable steps to increase confidence, such as speaking with peers and researching specific classes. We should continue in the Guiding phase to further explore these strategies and strengthen their confidence before developing a specific action plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reaching out to others who have navigated similar paths and learning from their experiences is a proactive step that could give you valuable insights. Exploring specific classes that relate to your tech career interests could also solidify your thoughts. What might be your first step in reaching out or gathering more information?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by talking to students or alumni from my community college who transferred and see which degree they chose and why. Maybe I can find some student groups or forums online. I should also look at the course catalogs for both degrees to see how they line up with tech-related careers.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in both software development and cybersecurity, and recognizes the importance of their educational decisions in achieving career goals. They show initiative by considering reaching out to peers and examining course catalogs to resolve their ambivalence. However, their confidence is currently at a 5, indicating a need for further exploration and support before committing to a specific action plan. Continue in the Guiding phase to further explore information gathering and build confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Connecting with students or alumni and exploring student groups or forums sounds like a great way to gather firsthand insights. Reviewing course catalogs will help clarify how each degree aligns with your career goals. As you consider these steps, what feelings arise about taking this approach to inform your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(exploring): I'm feeling a bit more hopeful and less stuck, like there's a clear path forward to get the info I need. It's reassuring to know that I have options to explore before making the decision, and that I don't have to rush it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying specific actions to increase confidence, such as reaching out to students and reviewing course catalogs. They demonstrated a shift from ambivalence to hopefulness and clarity. The client has identified next steps and seems ready to develop a specific action plan to connect with others and gather information. Given the client's increased confidence and forward-thinking, it's appropriate to move to the Choosing phase. OARS feedback: Summaries were effective in helping the client organize their thoughts and identify next steps. Continue affirming specific actions to reinforce the client's proactive approach.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Feeling more hopeful and less stuck is a positive shift as you explore your options thoroughly. You’ve outlined some practical steps that could guide you towards a more informed decision. Based on what you've shared, possible options to consider might include setting a timeline for reaching out to students or alumni, or scheduling time each week to review course catalogs. How do you feel about creating a specific plan to move forward with these actions?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(exploring): Creating a specific plan sounds like a good idea. I think setting a timeline could help me stay organized and focused, so I don't procrastinate. Maybe if I aim to talk to at least two people and go through the course catalogs in the next couple of weeks, that could be a good start.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Setting a timeline to talk to at least two people and review course catalogs is a proactive and focused approach. It sounds like this plan could help you feel more organized and confident in your decision-making process. What might be some potential challenges or barriers you anticipate, and how can you prepare to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(exploring): I guess one potential challenge could be finding people who actually have the time to talk or are willing to share their experiences. Also, I might get overwhelmed with all the information and options, which could make me second-guess things. To address these, I could reach out to multiple people to increase my chances and maybe jot down key points from my research to keep things clear.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Thinking about potential challenges and having strategies in place is a smart move. Reaching out to multiple people increases the likelihood of gathering diverse perspectives, and jotting down key points can help in managing information overload. How do you feel about setting a reminder or having a small weekly check-in to track your progress and adjust your plan if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a reminder or having a weekly check-in sounds helpful. It could keep me accountable and also give me the chance to reassess if I need to. I think it would also help me feel less anxious about keeping track of everything.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and a concrete action plan, which includes talking to students or alumni, reviewing course catalogs, and setting timelines. They have also identified potential barriers, such as finding willing participants and managing information overload, and have proposed solutions like reaching out to multiple people and jotting down key points. The client has agreed to self-monitor by setting reminders and having weekly check-ins. These elements indicate readiness to proceed to the next phase. OARS feedback: The client's proactive approach and willingness to implement a structured plan are commendable. Continuing to reflect on their progress will be beneficial.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Having a reminder or weekly check-in to track your progress is a wonderful idea. It seems like this could offer some structure and ease any anxiety about managing your plan. You've got a solid strategy for moving forward, which includes connecting with others and organizing your research. Remember, you’re taking meaningful steps towards clarity, and that's something to be proud of. Let’s keep the momentum going by setting a specific day and time for these check-ins, so you can ensure this plan fits smoothly into your routine. ",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "I'll aim for a Sunday evening check-in; that way, I can reflect on the week and plan ahead. Thanks for helping me get this organized—I think having that routine will definitely help me stay on track.",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan with specific steps, timelines, and coping strategies for potential challenges. They have expressed confidence and readiness to move forward, achieving clarity. Let's celebrate this progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Associates in arts or Associates in science? Transfer out of community college.\nSo I want to major in computers which is associates in science but my advisor wants me to stay in associates in arts and use it to transfer out of community college.\n\nShould I listen to my advisor and stay in associates in arts or go into associates in science and follow the computers path way in the college.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

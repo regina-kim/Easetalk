@@ -1,0 +1,251 @@
+{
+  "id": "ychwgk",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's good to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for seeing me. I've just been feeling really overwhelmed with my coding class and thinking about withdrawing, but it's making me feel like I'm failing at everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It can be really tough to feel overwhelmed and like you're not meeting your own expectations. Can you share more about what's been particularly challenging for you in the coding class?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just been a lot to take in since it's my first time coding. I feel like I'm always playing catch-up, and no matter how much tutoring I do, I can't keep up with the assignments.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're putting in a lot of effort, yet the feeling of constantly playing catch-up is really weighing on you. What has been your experience with the tutoring, and how do you feel it's impacting your learning?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Tutoring helps a bit, but sometimes I still struggle to fully understand the concepts. It's frustrating because I feel like I'm not progressing as much as I should be, and it makes me doubt if I'm cut out for this.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation successfully established empathy and an understanding of the client's situation, including their feelings of failure and comparison with their girlfriend. The therapist demonstrated good use of reflections and open questions to elicit the essence of the client's experience. The client expressed clear concerns and feelings about their coding class, which aligns with the Exploring phase goals. It is appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be disheartening when progress feels slow despite your hard work. What do you imagine your life would be like if you felt more confident in your coding skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think I'd feel a lot more relaxed and less anxious about school. I'd probably have more time to enjoy being with my girlfriend and not feel so down when comparing our progress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a more relaxed and confident version of yourself sounds encouraging. How would feeling less anxious and having more time for relationships align with your bigger life goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think it would definitely make me happier and feel like I'm on a better path toward my career goals. I'd like to enjoy the process of learning and not feel so pressured, which would probably help me stay motivated and committed to my studies in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That vision of enjoying learning and feeling motivated aligns well with your career aspirations. On a scale of 0 to 10, how confident do you feel about achieving this relaxed and committed version of yourself with your coding skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Probably somewhere around a 4 or 5. I feel like there's a lot of room to grow, but I'm not entirely sure how to get there right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to feel more relaxed and motivated, aligning with career goals. However, their confidence in achieving these changes is still low (rated 4 or 5), and there is significant ambivalence about withdrawing from the course. The conversation has successfully explored discrepancies between current feelings and desired outcomes, but the client has not yet articulated specific change goals or steps. Continuing in the Guiding phase will allow further exploration of confidence-building strategies and reduce ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your honesty about feeling at a 4 or 5 shows a real awareness of where you're at and where you'd like to be. What do you think might help you move a little closer to feeling more confident in your coding skills, even if it's just a small step?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe finding a study group or someone from my class who's also struggling, so we can figure things out together. I think having someone to relate to and share the learning experience with could make it feel less isolating and overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of how their life would improve with more confidence in coding, aligning with their career goals. They have identified a potential small step (finding a study group) to increase confidence, indicating emergence of Change Talk. However, their confidence level is at 4 or 5, showing ambivalence is still present. More exploration of potential strategies and increasing confidence is needed before advancing to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Connecting with others who are going through similar struggles can indeed make the journey feel more manageable and less isolating. How does the idea of forming a study group or partnership with a classmate fit into your vision of feeling more at ease and supported in your learning process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): It feels like a good step in the right direction. Knowing there's someone else who gets it and is in the same boat might make the tough parts feel a bit lighter. Plus, it might be nice to have someone to bounce ideas off of when something just isn't clicking.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying a potential strategy—the formation of a study group—to help alleviate feelings of isolation in their learning process. However, their confidence level remains moderate (4-5), and further exploration of this idea and its implementation would be beneficial. The client's ambivalence is still evident, indicating a need for continued support in strengthening their confidence and motivation. Staying in the Guiding phase will allow for deeper exploration of how a study group could be concretely set up and its potential impact on their learning experience.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Building that support system sounds like it could provide both relief and encouragement as you navigate your studies. What value do you see in having a collaborative learning environment, and how might it influence your sense of progress and motivation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think it could really boost my confidence, knowing I'm not alone in this and that there's someone to share the ups and downs with. It might also keep me more accountable and motivated if I'm working with someone else who has similar goals, and seeing them progress could inspire me to push through the tough times.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change by discussing how forming a study group might alleviate feelings of isolation and boost motivation. They've identified a specific step—finding a study group or partner—to move forward, indicating some elements of change talk. However, their confidence level is still below 6, suggesting that further exploration and strengthening of motivation is needed to solidify their commitment to this step. More guidance could help further reduce ambivalence and address barriers to forming these connections.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "The idea of boosting your confidence through collaboration and shared experiences is powerful. Sharing the ups and downs can certainly make the journey more fulfilling and less daunting. How does the thought of accountability and mutual inspiration resonate with your overall approach to learning and achieving your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): It resonates a lot, actually. I think having that kind of support would make me more disciplined, knowing someone else is counting on me too. Plus, seeing someone else make progress can be really motivating and remind me that it's possible to get through this.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific change goal of forming a study group to enhance confidence and accountability. This indicates progress as it aligns with their broader life goals of enjoying learning and achieving career aspirations. The confidence level expressed is at 4-5, suggesting room for growth, but the client has identified practical steps such as finding companionship in learning, which reduces the sense of isolation and supports motivation. While ambivalence hasn't fully dissipated, the client is oriented towards actionable steps, showing readiness to develop specific plans. OARS feedback: The conversation effectively used reflections to explore motivations and affirmations to bolster resilience. Continue building on the client's insights about collaboration and accountability to refine specific strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "With your enthusiasm for shared learning and support, forming a study group seems like a meaningful step. How would you like to go about reaching out to classmates or setting up this study partnership? Would you prefer approaching a couple of people directly or perhaps suggesting it in a class forum? We can brainstorm some options if that would help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I think suggesting it in a class forum could be a good start. That way, I can see if anyone else is interested without feeling too nervous about approaching someone directly. If a few people respond, we can then get together and figure out a schedule that works for everyone.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful approach, using the class forum as a way to gauge interest while keeping it low-pressure. What steps do you think you might take next to put this plan into action, and how do you see us tracking your progress on this?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(choosing): I'll probably make a post in the class forum after our next session and see what kind of response I get. Once I know who's interested, we can set up a time to meet and discuss how we'll work together. Maybe we can check in during our sessions to see how it's going and if there's anything I need to adjust or improve on.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Creating a post in the class forum sounds like a great starting point. Checking in during our sessions to review your progress and make any necessary adjustments to your plan is a solid way to keep moving forward. Is there anything else you might need to feel prepared for reaching out, or any specific tools or resources you believe would support this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(choosing): I think I'm mostly ready, but maybe some tips on how to phrase my post would help. I want it to seem open and inviting, so people feel comfortable responding. If there are any resources on effective study group dynamics, that could be useful too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan to form a study group, starting with a low-pressure approach by posting in a class forum. They have acknowledged the potential benefits of shared accountability and have a strategy for tracking progress by checking in during sessions. The client is seeking additional support for phrasing their post and resources on study group dynamics, indicating proactive engagement with their action plan. The client has shown commitment and confidence in taking these steps, aligning with the goals of the Choosing phase. Given these elements, they are ready to advance to Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Finding the right words to make your post open and inviting is a wonderful idea. You could mention your interest in forming a supportive study group and highlight the benefits of mutual encouragement and shared learning. As for resources, there are plenty of articles and guides on effective study group dynamics that I can recommend next time. You're setting yourself up for success by preparing thoughtfully. Remember, taking this step is already a sign of your commitment and courage. Let's touch base on how the forum post goes, and I'm here to support you as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I really appreciate your help. I'll give the post my best shot and check out those resources. Looking forward to updating you on how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has effectively outlined a plan to create a study group and is prepared with actionable steps. The session successfully addressed key goals, steps, and coping strategies alongside a next-step plan, suggesting readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Withdrawing from a Course and Feeling like a Failure\nHey guys, so I'm majoring in computer science and this is my first time with coding, which I'm learning about JAVA programming and man it was hard to grasp. I'm doing a lot of tutoring, but I'm always two assignments behind. I still have until November 28 to withdraw, but I'm probably going to withdraw and I just feel like a failure. I go to a community college and my girlfriend goes to a university and majoring in the same thing as me, but her workload and due dates are much more crazier than mines. I know I shouldn't be comparing, but it makes me feel such a failure and a disappointment to myself and to her. How do I get around this feeling and thoughts? This is my second year, but I feel like I will be behind from getting my Associate's and my two certificates, while my girlfriend should be getting hers this year.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

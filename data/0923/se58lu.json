@@ -1,0 +1,188 @@
+{
+  "id": "se58lu",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It looks like you might have something on your mind. What's been going on for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I've just been really anxious ever since I got accepted to college. I've been second guessing if it's even the right choice for me and it's kind of freaking me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college is a big step, and it's understandable that you’re feeling anxious and unsure about the decision. What about the situation has been making you second-guess your choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's the fear of the unknown, you know? Like, what if I end up hating it or feeling out of place? It's just a lot to think about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The uncertainty of starting something new can be overwhelming, especially when there's a fear of not fitting in or not enjoying it. What aspects of college life are you most apprehensive about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think it's mainly the social aspect. I'm worried about making friends and fitting in, and then there's also the academic pressure. I'm scared I'll struggle with the workload and end up failing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the core of their anxiety regarding college, expressing fears about fitting in socially and managing academic pressures. The therapist has empathized and elicited the client's feelings and concerns, building rapport and understanding. While a mutual goal around addressing these fears is emerging, more exploration could deepen understanding of the client's strengths or past experiences with similar feelings before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "The thought of making new friends and managing academic pressure can indeed be daunting. It sounds like these are weighing heavily on your mind. What's been your experience with making friends or handling challenging situations in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): Well, I usually take a while to warm up to new people, so making friends has always been a slow process for me. As for challenging situations, I tend to overthink and stress out a lot, which isn't very helpful.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive account of their anxiety about starting college, including fears about social integration and academic pressures. The therapeutic conversation has effectively delved into the client's emotions and previous experiences with similar challenges. Empathy and rapport have been established, and the client's underlying fears and concerns are clearly understood. This provides a solid foundation to begin strengthening motivation for change and evoking Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It’s understandable that past experiences might influence how you feel about the future. Imagine a scenario where things go well in college—what might that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): Honestly, in a perfect world, I'd find a good group of friends who get me and support me. Academically, I'd like to feel capable and not overwhelmed all the time, maybe even enjoy some of my classes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Finding a supportive group of friends and feeling capable in your studies sounds like an ideal college experience. What strengths or past successes do you think might help you in creating this future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): Well, I guess I'm pretty persistent when it comes to things I care about. Once I get over the initial anxiety, I can be pretty driven. I've managed to push through tough spots before, so maybe that will help.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your persistence and ability to push through tough situations are valuable strengths. How do you see these qualities playing a role in your college journey, especially in building friendships and managing academics?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think once I get settled, I could use that drive to really put myself out there and meet new people, maybe join some clubs or activities that interest me. And academically, I could try to stay organized and seek help early if I start feeling overwhelmed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of success in college and has identified strengths like persistence and drive that can aid in achieving these goals. The client has begun to articulate specific strategies, such as joining clubs and seeking help academically, indicating a readiness to explore actionable steps. Change Talk is present, with decreased ambivalence. The phase's goals have been met, and it is appropriate to move to the Choosing phase to develop specific action plans. OARS feedback: Reflective listening and affirming the client's strengths helped in solidifying their motivation and readiness for change.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your plan to engage in clubs and stay organized academically shows great initiative. As you consider your next steps, what specific goals would you like to set for making new friends and handling your coursework? Perhaps joining one club and setting a study schedule could be initial options. How do these sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good plan. Maybe I'll look into clubs related to my major or hobbies to start with. For the study schedule, I could try setting aside specific times each week to keep up with the workload.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Your ideas of joining clubs related to your major or hobbies and establishing a weekly study schedule are excellent starting points. What do you foresee as potential challenges in pursuing these goals, and how might you prepare to address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): client(choosing): I think the biggest challenge will be staying motivated, especially if I'm feeling anxious or out of place. I guess I could prepare by reminding myself why I chose these goals and maybe setting small, achievable tasks to keep the momentum going.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Staying motivated can indeed be challenging, especially in new environments. Your approach of reminding yourself of your reasons and setting small, achievable tasks is a great strategy. How would you like to track your progress and ensure you stay on course with your goals? Perhaps setting weekly reflections or finding a buddy in your club could be helpful. What are your thoughts on these or any other ideas you have?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Yeah, I think setting aside some time each week to reflect would be helpful, maybe jotting down what went well and what I could improve. Having a buddy from a club sounds great too; it could be motivating and make things feel less daunting.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan involving joining clubs and setting a study schedule. They have identified potential barriers, such as maintaining motivation, and proposed strategies like weekly reflections and finding a buddy. The client has demonstrated commitment to these goals and has accepted and refined action reflections, signaling confidence in their ability to manage the transition to college life. The Choosing phase objectives have been met, and the client appears ready to advance. OARS Feedback: The client's persistence and previous experiences were effectively affirmed, and open questions facilitated the creation of a realistic and personalized plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Reflecting weekly and noting both successes and areas for improvement will definitely help you stay on track. Connecting with someone from a club as a support buddy is a wonderful idea, making new experiences more enjoyable and less intimidating. As you prepare to start this new chapter, remember your persistence and past resilience. You're equipped with a solid plan and strategies to cope with potential challenges. Stay kind to yourself as you navigate this journey. I'm confident you’ll find those supportive friendships and achieve your academic goals. Remember, I'm here to support you every step of the way. Keep going, you're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thank you, I really appreciate all your help and support. I’ll definitely try to keep these strategies in mind as I move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified goals and coping strategies, and a next-step plan has been discussed. They have affirmed their strengths and set up strategies for monitoring progress. OARS feedback: The session effectively used affirmations and reflections to build confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Just got my first acceptance, but now I'm second guessing even wanting to go and riddled with fear.\nIt all feels so real now. I'm a generally anxious person so I'm sure it may just be that but I'm not even sure I want to go now. I've put in all this hard work and time and now I'm so worried. What if i get through all of this and, by the time I'm there, I'm miserable? Has anyone else felt this way? How did you get over it if so?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

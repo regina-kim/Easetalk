@@ -1,0 +1,188 @@
+{
+  "id": "u0qh5i",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here for a conversation. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey there! I'm just feeling super unsure about my major right now and it's been stressing me out a bit. I want to shift gears from marine bio but don't know which path I should take to become a psychopharmacologist. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a new direction can definitely feel overwhelming, especially when you're passionate about different fields. What aspects of psychopharmacology draw you in?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's the blend of psychology and chemistry that really fascinates me. I love the idea of understanding how drugs affect the mind and behavior, but I'm just not sure how to get there academically.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The intersection of psychology and chemistry is indeed fascinating and can offer a lot of opportunities. What steps or resources have you considered or explored so far in relation to shifting toward psychopharmacology?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I've done some research online and found that a chemistry or psychology degree might be a good start, but I haven't talked to any advisors or professors yet. I'm kinda stuck between just switching to chemistry or maybe even considering a double major.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their uncertainty and the factors contributing to their stress about choosing a major. They have identified their interest in psychopharmacology and their dilemma in deciding between chemistry and psychology. The therapist has built rapport and explored the client's thoughts and feelings about their current and potential academic paths. Moving to the Guiding phase is appropriate to strengthen motivation and evoke Change Talk about potential academic choices and steps forward.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Transitioning between majors can certainly present a lot of choices. What would life look like for you if you made this change? How does it align with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I switched, I think I'd feel more aligned with my interests and possibly more motivated. Long-term, I want to make a difference in mental health treatment, so this feels like a step in that direction. But I’m also worried about the extra workload and time it might take.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Pursuing a path that excites you and aligns with your values can be incredibly rewarding. What would it mean for you if you managed to balance the extra workload with your goal of impacting mental health treatment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): It would mean a lot to me. I'd feel like I'm really working towards something meaningful and making a difference. But I guess I'm just worried about managing everything and not burning out in the process.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing a meaningful pursuit with self-care is important. How confident are you, on a scale of 0 to 10, in your ability to manage the workload while preventing burnout? What might increase your confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 5 right now. I think having a clearer plan and some support from advisors or mentors would probably boost my confidence a lot.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The patient has expressed Change Talk by exploring how a switch to a new major aligns with their values and goals of impacting mental health treatment. They have identified a specific change goal of switching majors, but confidence is currently at a 5 on their ability to manage the workload and prevent burnout. To effectively move to the Choosing phase, we need to further address ambivalence by increasing confidence to at least a 6 and identify specific next steps to support their decision. Therefore, continuing in the Guiding phase is appropriate.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Having a plan and support can definitely make a big difference. What small steps do you think you could take to move toward that clarity and support, keeping your goals in mind?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Well, I guess I could start by setting up a meeting with an academic advisor to discuss my options and make sure I'm on the right track. Maybe I could also reach out to a professor in the psychology or chemistry department to get some insights on career paths and what the workload might look like.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk, identifying a specific step of meeting with an academic advisor, which demonstrates readiness to move forward. They have considered life with and without change, aligning the switch with their values of impacting mental health. Confidence is at 5, indicating room for growth but awareness of steps needed. Ambivalence is reduced as they've identified strategies to increase confidence. Move to the Choosing phase to support action planning and explore potential barriers to these steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Meeting with an advisor and reaching out to professors are great steps toward gaining clarity and support. To turn these ideas into actions, you might consider setting a goal, like scheduling a meeting with an advisor in the next week. How does that sound? Additionally, we could explore other support options, like peer study groups or campus resources, to help balance your workload. What do you think might work best for you in terms of support?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds good. I’ll try to schedule a meeting with an advisor soon, maybe even this week. As for support, I think joining a study group could be really helpful, especially for chemistry. I’ve also heard there might be some workshops or resources on campus for time management, so maybe I should check those out too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Therapist (choosing): It's great to hear you're planning to meet with an advisor soon and explore study groups. Setting these actions in motion can really enhance your path forward. Let’s set a goal to join a study group within the next two weeks and look into those time management resources. How do you feel about checking in on your progress in our next session? This way, we can make adjustments if needed and keep you supported along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a solid plan. I feel pretty good about checking in on my progress next time. I think having these goals will help keep me on track and give me a clearer sense of direction. Thanks for helping me sort through this.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's wonderful to see you taking proactive steps toward your goals. Having concrete plans can really provide direction and boost your confidence. Let’s aim to revisit your progress in our next session, ensuring you stay supported with any adjustments needed. Is there anything else you'd like to consider as part of your action plan, or any other resources you think might be helpful at this stage?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think we’ve covered the main steps for now, but I’ll keep an eye out for any other resources or opportunities that pop up. If I come across anything or have questions, I can bring them up in our next session. Thanks again for the guidance.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan, including meeting with an advisor, joining a study group, and utilizing campus resources for time management. They expressed confidence in their ability to proceed with these steps and are open to adjusting plans if necessary. The client also agreed to self-monitoring by checking in on progress during the next session. Moving to the Terminating phase is appropriate as the client shows readiness and commitment to their action plan, indicating confidence and taking steps towards change. OARS feedback: It's encouraging to see your proactive approach and commitment to your goals. Revisiting your progress will ensure continued support and direction.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Absolutely, and I'm glad to hear you're open to exploring resources and opportunities as they arise. Keeping an eye out for what's available can only enhance your journey. Remember, you're doing a great job laying the groundwork for success. I'm here to support you, so feel free to bring up any questions or thoughts in our next session. You're on a thoughtful path, and I'm confident you'll manage to balance everything beautifully. Take care until we meet again!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate all the support. I'll try to stay on top of things and reach out if I need to. See you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set clear goals, such as meeting an advisor and joining a study group, with plans to check progress. The session effectively summarized steps and strategies, ensuring the client feels confident and supported moving forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What should I major in?\nI am currently a second year marine bio major, but am now thinking of changing to a different major. Right now I believe I want to become a psychopharmacologist, but I am not really sure what bachelors degree that would require. I was wondering if anyone on here had any ideas. I’m currently thinking a BS in chem would be best, but I am unsure.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

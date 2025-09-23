@@ -1,0 +1,167 @@
+{
+  "id": "1ecy7gg",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Would you like to share a bit about what's going on with you today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I've been feeling kinda stuck about picking a major for uni. My parents and I have different ideas about what I should study, and it's stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can be overwhelming, especially when you feel caught between your own interests and your parents' expectations. What are some of the ideas you and your parents have been discussing?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I'm really interested in engineering, especially mechatronics, but my parents think it might be too hard for me and want me to study English instead. They think it would be an easier option for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're passionate about engineering and mechatronics, but there's also concern from your parents about the difficulty. What draws you to mechatronics, and how do you feel about their suggestion of studying English?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've always been fascinated by how things work and the idea of building and creating through engineering really excites me. As for studying English, I think it's interesting too, and I am good at it, but it feels like more of a safe choice rather than what I'm truly passionate about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their struggle with choosing a major, balancing personal interests, parental expectations, and financial concerns. There is a clear understanding of the client's thoughts and feelings, including their passion for engineering and concerns about financial burden. Empathy and rapport have been established, with mutual goals emerging around finding a path that aligns with the client's interests and circumstances. Moving to the Guiding phase can help strengthen motivation and evoke Change Talk to explore options further.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It's clear that engineering sparks a real excitement in you, and it's understandable to feel that English might be more of a comfort zone. How do you envision your life differently if you were to pursue mechatronics versus English?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I went with mechatronics, I see myself really diving into projects, maybe even working on something innovative and being proud of what I create. On the other hand, with English, I think I'd end up in a stable job, maybe teaching, but it might not feel as fulfilling or exciting to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It's wonderful to hear how vividly you imagine yourself thriving in mechatronics, with projects that could bring you a sense of achievement. Comparing that to a stable yet perhaps less fulfilling path in English, what does this tell you about what you truly value in your career and life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess it shows that I value creativity and innovation, and I want to feel proud and excited about the work I'm doing. Stability is important too, but I don't want to settle for something that feels like just going through the motions.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your desire for creativity and innovation really shines through, and it's great to see how much importance you place on feeling proud of your work. Considering these values, how might they influence your decision-making when choosing between a path of excitement versus one of stability?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think these values push me more towards choosing the exciting path with mechatronics, even if it seems challenging. I want to take a chance on something that could be really fulfilling for me, rather than just playing it safe.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their passion for mechatronics and the stability of studying English, highlighting the importance of creativity and innovation over mere stability. Change Talk is present, as the client is leaning towards the more challenging path of mechatronics despite parental concerns. The client also acknowledges the influence of family expectations and financial considerations, showing a nuanced understanding of their situation. Given these insights and the client's expressed willingness to pursue a fulfilling path, it's appropriate to move to the Choosing phase to develop actionable plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Choosing a major is such a significant step, and it's inspiring to hear your commitment to pursuing something fulfilling. Considering your passion for mechatronics, how would you like to proceed in setting a goal or action plan for exploring this path further? Perhaps researching programs or speaking with professionals in the field might be options to consider.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think researching programs would be a good start, maybe seeing what courses would be like and what kind of projects I could work on. Talking to someone already in the field sounds useful too, to get a real sense of what it's like and maybe advice on how to prepare for it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring programs and connecting with professionals both sound like excellent steps. Which one would you like to start with, or do you have other ideas in mind? Identifying potential challenges, like time management or finding resources, and how you'll address them can help along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I think I'll start with researching programs, getting a sense of what the coursework and projects entail. After that, I can try reaching out to someone in the field. As for challenges, I know I need to work on my time management, so maybe setting a study schedule or finding a mentor could help me stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Setting a study schedule and finding a mentor are great strategies to support your journey. How will you go about researching the programs, and what steps might you take to find a potential mentor? If any barriers come to mind, we can brainstorm ways to overcome them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): For researching programs, I think I'll start by looking at the websites of universities in my area and reading about their engineering courses, especially mechatronics. As for finding a mentor, I might reach out to my network or see if any of my teachers know someone in the field. A barrier might be finding someone willing to mentor me, but maybe I could join some engineering forums online to connect with people.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to pursue mechatronics, demonstrated by a commitment to researching programs and finding a mentor, indicating strong motivation and actionable steps. They've addressed potential barriers like time management and finding mentorship, with strategies such as setting a study schedule and leveraging their network. The client expresses a strong commitment to change and an understanding of their values and challenges. Considering these signs of readiness and progress in planning, it seems appropriate to move to the Terminating phase. OARS feedback: Your clear vision and proactive approach to overcoming barriers demonstrate your readiness for the next steps. Keep leveraging your strengths and support systems.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Starting with university websites is a practical approach, and reaching out through your network shows proactive thinking. Joining online forums can open doors to valuable connections and insights. If finding a mentor proves challenging, remember that even small steps, like interacting in forums, can be incredibly beneficial. Your dedication is inspiring, and setting a clear study schedule will definitely help you manage your time effectively. As you embark on this exciting path, know that you're building a strong foundation for a fulfilling career. Keep moving forward, and remember, every step you take is a step closer to your goals.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that all sounds like a solid plan. I'll definitely start diving into those resources and see where it takes me. I'll keep you updated on how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set goals and strategies for exploring mechatronics, including researching programs, setting a study schedule, and seeking mentorship. A next-step plan is in place. Their dedication and proactive approach are commendable.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: how did you guys choose your major?\nso apparently, I finished my exams and got 84%. in my country, applying to universities depends on the mark you get. apparently I really don't know what should I do. I don't like med school so we leave this option behind. I'm interested in engineering, literally any engineering field but specifically rn I have mechatronics engineering in mind. my parents on the other hand don't really support my decision about engineering. universities are completely free, except for the private universities of course. my parents want to get me into a private university but tbh my family is not that financially stable and my parents already have plans of moving out of our apartment, get a house and a new car. I really don't want to trouble them with my uni fees especially that they've spent 7000$ on my tuitions and school stuff. my boyfriend is saying that this is an opportunity that I shouldn't miss but he doesn't get it, his family is rich and they plan on sending him to study medicine in another country so he doesn't understand why I feel so guilty. my mom said I should study English and since I'm already good at it I won't have much trouble. to me, I'm flexible, I don't mind studying anything but it's still a hard decision to make\n\nedit: I really didn't think anyone would notice this post but I need to thank you all. I read every single comment and they're all so helpful. the reason I don't have a major in my mind is because I'm good at any subject in hand and maybe, just maybe because my parents always decided everything on my behalf lol. My parents are against engineering is because they believe I'm a lazy one and won't be able to put up with how hard it is all because of my high school grades (apparently i have adhd and depression but im off meds which affected my grades). I know there's nothing like an easy major and that's what I've been trying to tell them but yeah. my mother only suggested studying English so I could be an English teacher. i mentioned that in my country we can apply to universities depending on our marks, the less you get the less options you have. also studying in another country or in another city in my country is not an option lol. again, thanks a lot for your help",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

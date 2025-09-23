@@ -1,0 +1,167 @@
+{
+  "id": "108fuiy",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! Whenever you're ready, feel free to share what's on your mind. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! So I've just been feeling really stuck and like I'm not really getting what I want out of college. It's like every day is just the same, and I'm not sure how to break out of that.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling stuck in a routine that doesn't fulfill you. What aspects of your college experience do you think contribute to these feelings?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's the whole social scene. I only hang out with the same two guy friends who don't really share my interests, and I haven't found anyone else I vibe with. Plus, I'm just not doing much outside of class and homework.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling isolated and perhaps disconnected from your current social circle. What kinds of activities or interests do you wish you were engaging with more at college?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I really wish I had a group to go out with and try new things, like maybe join a club or just explore different events around campus. It'd be nice to have friends who are into the same stuff as me and can motivate me to get out more.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of isolation and dissatisfaction with her current social scene at college. She has expressed a desire for a more engaging social life and interest in activities that align with her preferences. The therapist has demonstrated understanding and empathy, and key aspects of the client's story and feelings have been elicited. It's a suitable point to transition to guiding, focusing on exploring her motivations and potential changes. OARS feedback: Continue utilizing open questions and reflections to deepen understanding and guide the client toward identifying specific motivations for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having a group to share those experiences with could make a big difference. How do you imagine your college life might change if you found a circle that shared your interests?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it would feel a lot more exciting and fulfilling. I'd probably be more motivated to get involved in different activities, and it would be nice to have people to share all those college experiences with.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Meeting people who share your interests definitely sounds enriching and motivating. What small steps do you think you could take towards finding and connecting with such a group?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by checking out some clubs or groups on campus that align with what I like. Maybe also try striking up conversations with classmates or attending campus events to meet new people.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring clubs and connecting with classmates and events could open up new opportunities for you. How do you feel about taking the first step towards trying one of these ideas?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'm a bit nervous about it, but also kind of excited. I guess it feels like something I need to do if I want things to change, so I'm willing to give it a shot and see what happens.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated readiness to move forward by expressing Change Talk, acknowledging specific steps toward change, and showing a willingness to engage in new activities to find a more fulfilling social circle. The therapist effectively used OARS by exploring discrepancies between the client's current situation and desired outcomes, reflecting on the client's feelings and motivations, and summarizing potential steps. The client’s excitement and motivation indicate a readiness to develop specific action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Taking that first step can be both daunting and exciting, and it's great that you're willing to explore these new opportunities. To support you in this journey, we can create a plan outlining some specific actions. Based on what you mentioned, possible steps include attending a club meeting that interests you or planning to talk to a classmate after class. We can also think about how to overcome any barriers, like feeling nervous, and discuss ways to monitor your progress. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think having some kind of roadmap might make it less intimidating. It'd be helpful to have those steps laid out so I can actually see what I need to do and how to tackle the nervousness part.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a clear plan can definitely make taking action feel more manageable. Let's start by setting a small, achievable goal, like attending one club meeting this week or chatting with a classmate. We can then explore ways to ease your nerves, such as preparing a few conversation starters or finding a friend to go with you. How do you feel about deciding on one specific action to take this week and perhaps discussing how it went in our next session?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think picking one specific thing to do this week could definitely help. I'll aim to go to a club meeting or maybe chat with someone after class. Having something to try sounds good, and I like the idea of checking back in with you on how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "therapist(choosing): That sounds like a great approach. So, attending a club meeting or chatting with someone after class will be your focus this week. Remember, it's perfectly okay to feel a little nervous—it's part of the process. Perhaps you could jot down a few thoughts about your interests to share, or even make a list of clubs you’d like to explore. We can discuss any challenges you face and your achievements in our next session. How does that plan feel for you moving forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That plan feels pretty doable. I like the idea of writing down my interests and having a list of clubs to check out. It'll give me a starting point, and I think it'll help calm my nerves a bit. I'm looking forward to seeing how it goes and talking about it next time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal to attend a club meeting or engage with a classmate, which aligns with her desire to find new connections and interests. A concrete action plan is in place, including strategies to manage her nervousness. She has expressed commitment to these actions and plans to report back on her experiences, demonstrating readiness to move forward. The client is showing confidence in tackling her nervousness by preparing conversation starters and identifying clubs of interest. This progress indicates readiness to advance. OARS feedback: Building specific action steps and addressing potential barriers worked well. In the next phase, we can focus more on reinforcing her positive experiences and sustaining new connections.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "therapist(closing): I'm really glad to hear that you feel comfortable with the plan. Jotting down your interests and having a list of clubs is a smart way to approach this, making it less overwhelming and more structured. It sounds like you're taking some empowering steps forward. Just remember, you’re not alone in this—support is always here when you need it. I'm eager to hear about your experiences and reflections next time we meet. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(closing): Thanks so much for the support. I'll give it a shot and see how it goes. Looking forward to sharing what happens next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to engage in new social activities, addressing their concerns about routine and isolation. They feel empowered and supported, with specific steps and coping strategies in place. Session goals have been effectively summarized and concluded.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Bored with the same thing day in day out and need advice\nSince I’ll be going back to school soon, I’ve been thinking about how much my life in college is lacking. I feel stuck in it and need some advice. \nI (20f) hang out with the same 2 dude friends literally every single day. I don’t have any female friends, and at times i feel like my guy friends don’t or cannot ever fully understand me and my feelings because of the gender difference. They are great friends, but they don’t like to go out at all, and they have very different interests from me that makes me feel excluded sometimes. But I just have nothing else to do most of the time (besides homework) that I end up just in their dorm 24/7 even if they’re just sitting there playing elden ring (which i’m not a fan of). I’ve tried branching out and trying to make other friends but it doesnt feel that comfortable and i havent found anyone that i click with really. I’m rooming with a girl I don’t know and I avoid talking to her because its awkward and she uses my shit, but I don’t want to spend another semester cooped up in their dorm wishing there was more to my life. \nWhat do y’all think i should do?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

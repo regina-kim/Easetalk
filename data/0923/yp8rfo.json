@@ -1,0 +1,188 @@
+{
+  "id": "yp8rfo",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! I'm here to listen and support you. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been feeling a bit overwhelmed recently, especially with managing my time and staying on top of everything. It's like there's always this constant battle against putting things off.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, trying to juggle so much at once. What do you think is contributing to this feeling of being overwhelmed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I think it's just the sheer amount of things I need to do. There's always assignments, chores, and other commitments. It's like they keep piling up, and I don’t always know where to start.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like there's a never-ending list of tasks, creating a sense of pressure. How do you typically decide which task to tackle first when you're feeling like this?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: Honestly, I usually just go with whatever feels most urgent at the moment, but that often means other stuff falls behind. It's not the best strategy, and it adds to the stress.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared specific details about their struggle with time management and procrastination. They have also expressed how their current approach increases stress. However, we need more in-depth exploration of their feelings and thoughts on how this impacts other areas of their life. The rapport is good, but more exploration is needed to fully understand and establish mutually agreed goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like handling the most urgent tasks can sometimes leave you feeling like you're playing catch-up. What impact does this have on how you feel about your accomplishments and overall progress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: It sometimes leaves me feeling like I'm not making as much progress as I should be. Even when I finish something, there's always a nagging feeling that I'm still behind on other tasks.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a detailed account of their struggle with time management and procrastination. They shared feelings of being overwhelmed and the impact on their sense of accomplishment. The therapist has effectively explored the essence of the client's story and built rapport. Mutually agreed goals to address procrastination might be emerging given the insights shared. Thus, it's time to guide the client towards change talk by exploring their readiness to tackle these challenges.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Your sense of progress seems overshadowed by what remains to be done. What would it look like if you felt more in control and accomplished with your tasks?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: I think I'd feel a lot more relaxed and satisfied. If I could get things done without feeling like I'm constantly behind, I'd probably be more motivated and less stressed overall.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Feeling more relaxed and satisfied sounds like a positive shift. What small changes do you think might help you move toward feeling more in control and motivated?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: Maybe I could try sticking to a more consistent routine or breaking tasks down into smaller, more manageable parts. Also, cutting out distractions, like my phone, might help me focus better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Finding ways to create a consistent routine and focusing on smaller tasks seems like a constructive approach. On a scale from 0 to 10, how confident do you feel about your ability to implement these changes and reduce distractions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(self-assured): I'd say maybe a 7. I know it's going to take some effort to really stick to these changes, but I think they're doable. It's just about keeping myself accountable and remembering why it's important.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated readiness to move forward: a discrepancy between their current behavior and desired outcomes has been established, and specific strategies for change have been identified. Change Talk is present, with the client expressing a goal to feel more in control and accomplished by implementing a routine and breaking tasks into smaller parts. The client's confidence level is a 7, suggesting a strong belief in their ability to make these changes. The focus will shift to developing a concrete plan. Moving forward, ensure ongoing support and accountability are incorporated.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Considering your confidence level, it's great to see you're feeling a 7 out of 10. Let's work together to harness that motivation. Which specific goal would you like to focus on first, establishing a routine or managing distractions? We can also explore how you'd like to track your progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(deciding): I think establishing a routine might be a good first step. Once I have a routine in place, it might naturally help with managing distractions, too. For tracking progress, maybe keeping a journal or using an app could work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Your decision to start by establishing a routine seems like a solid foundation for change. You mentioned journaling or using an app to track your progress—both sound like effective tools. Would you like to brainstorm what an ideal routine might look like for you, or perhaps explore some apps that could support your journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(deciding): Yeah, brainstorming an ideal routine sounds helpful. I could use some ideas on structuring my time better and maybe some recommendations for apps that are good for keeping track of everything.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating an ideal routine is a great step forward. How about we start by discussing what your typical day looks like and identify areas where you could add structure? For apps, options like Todoist or Habitica can be quite helpful for tracking tasks and habits. What do you think of these ideas, and do you have any specific preferences for how you'd like your day to be structured?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): I like the idea of starting with what my day looks like now and figuring out where I can add more structure. I haven't used Todoist or Habitica before, but they sound promising. I think I'd like my day to have set times for studying, exercising, and maybe some downtime for myself.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of establishing a routine and has discussed specific strategies for progress tracking, like using a journal or app. They've also shown commitment by reflecting on their current habits and expressing willingness to explore new tools like Todoist or Habitica. The client seems confident in their ability to implement these changes and understands the connection between a structured routine and managing distractions. Given these developments, it's appropriate to advance to the Terminating phase, where ongoing monitoring and support can be provided to ensure sustained progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Visualizing how your day can flow with set times for studying, exercising, and personal downtime is an excellent beginning. Recognizing these priorities shows you're ready to create a routine that supports your goals. Giving Todoist or Habitica a try could be a fun way to track your progress and keep you motivated. As you explore these apps, remember that flexibility is key—it's perfectly okay to adjust your routine as needed. Your willingness to embrace these changes is truly commendable. Let's catch up next time to see how this new structure feels for you and discuss any tweaks you might want to make. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I appreciate your help. I'll give these ideas a shot and see how it goes. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client discussed goals, plans for a routine, and tracking progress using apps, meeting termination goals. They showed readiness to implement changes and revisit progress next time. OARS feedback: The session effectively used reflecting and summarizing to solidify the client's plans.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: 6 Ways to Beat Procrastination in College\n \n\nMany college students often have a problem with procrastination or putting tasks on the back burner. It could be you have procrastinated completing that term paper which is vital to your final grade, doing your laundry or cleaning your room. Procrastination can easily prevent you from achieving your full potential. While it can be a hard habit to overcome, there are certain ways you can beat procrastination.\n\n1. Prepare a To-Do List\n\nThere’s a certain feeling of satisfaction that occurs when you check off a task on your to-do list. You should always try to prepare a list of tasks, school assignments, and other chores that need to be done. This helps you to stay on track and offers a confidence boost once you complete a task on the list.\n\n* Make a Routine\n\nOne of the best ways to beat procrastination is to turn responsibilities into habits. By making habits, you will train your mind to be focused on completing a task during specific days or times. For instance, if you make a habit of doing your assignments in the evening, when that time comes, you are able to remember to do your homework.\n\n* Divide Tasks into Smaller Pieces\n\nIf you have a long assignment, it helps to break it down into smaller pieces. The assignment will also seem less daunting if tackled in small bits. If you have a long essay to write, start with just preparing the essay outline. You can then write the body paragraphs in the coming days and edit the essay on a different day. This way, you are able to enhance creativity while increasing your attention span.\n\n* Get Help\n\nIf you have an assignment that is secretly giving you nightmares and you can’t simply gather the courage to sit down and start working on it, you can ask for help. You can [**get help with your essay**](http://tutorsnest.com/), term paper, dissertation, and other assignments online.\n\n* Switch off Your Phone\n\nYour smartphone can be a great source of distractions when you’re doing an important task. You will always be tempted to check social media pages and notifications on your smartphone while working on an important school assignment. This eats into your productive time and drains your mental strength and focus. Try to switch off your phone for a couple of hours when you’re busy doing something important.\n\n* Stay Focused on the End Goal\n\nWhenever you feel like procrastinating, try to imagine the awesome feeling that you get when you reach the finish line. Think of the feeling of receiving your degree. That thought alone can be a great source of motivation to complete important tasks in college.\n\nThere you go – the top 6 tricks to avoid procrastination for college students. They all boil down to planning your tasks meticulously and using your time wisely.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

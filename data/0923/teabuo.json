@@ -1,0 +1,167 @@
+{
+  "id": "teabuo",
+  "subreddit": "GradSchool",
+  "category": "emotional",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I'm feeling a bit anxious, honestly. There's so much on my mind about finishing my PhD and what comes next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "The weight of completing your PhD and thinking about the future seems to be quite overwhelming for you. Can you share more about what's been on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's like I'm so close to the finish line, but I keep worrying something will go wrong. Even though I've achieved a lot, it still feels like I'm just waiting for the other shoe to drop.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be tough to carry that feeling of uncertainty despite your accomplishments. You've worked hard and achieved so much, but the fear of things not going as planned is still there. What are some specific concerns or thoughts you've been having about the future?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I worry that something unexpected will mess up my graduation, like maybe my last experiment won't go as planned or I'll miss a requirement I didn't know about. I'm also nervous about starting my new job, even though it's my dream position, because I'm afraid I won't live up to everyone's expectations.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of anxiety and fear regarding their PhD and future job. The therapist has successfully elicited the essence of the client's story, including their thoughts, feelings, and specific concerns about graduation and meeting expectations. Empathy and rapport have been established, and the client's goals are clear. Moving to the Guiding phase will help strengthen the client's motivation for change by focusing on their accomplishments and how they can manage their fears.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're navigating a lot of pressure and self-doubt, even with your incredible achievements. What do you think life would look like if these worries were resolved, and you could move forward without them weighing on you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): If these worries were gone, I think I'd feel a lot lighter and more confident. I'd be able to enjoy the excitement of finishing my PhD and starting my dream job without constantly second-guessing myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining that sense of lightness and confidence sounds incredibly freeing. How does this vision of a worry-free future align with what you truly value and want for yourself moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): It aligns really well because I value feeling accomplished and secure in my abilities. I want to embrace the opportunities ahead instead of fearing them. Being able to trust in my hard work and enjoy my successes is what I truly want for myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Embracing opportunities with a sense of trust in your abilities and hard work indeed resonates with what's important to you. How do you see yourself beginning to cultivate that feeling of security and accomplishment as you approach this new chapter in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think I need to remind myself more often of what I've already achieved and how far I've come. Maybe also talk to my advisor or peers who can give me some perspective and reassurance. Celebrating the small victories along the way could help too, just to keep me grounded and focused on the progress I've made.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of life without their current worries, aligning these aspirations with their values of feeling accomplished and secure. They have identified steps such as seeking reassurance from peers and celebrating small victories to bolster their confidence. Change Talk is present, with the client showing motivation to embrace opportunities. Barriers and strategies have been explored, indicating readiness to move to the Choosing phase to develop specific action plans. OARS feedback: The use of reflections and open questions effectively deepened the client's exploration of future possibilities and values, facilitating a shift towards actionable steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Those sound like meaningful steps to reinforce your sense of achievement and security. Would you like to set a goal, perhaps focusing on one of these steps, like regularly acknowledging your achievements or seeking support from others? Together, we can create an action plan to help make this goal part of your routine. What might be some potential challenges you anticipate, and how could we address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good idea. I think focusing on regularly acknowledging my achievements could be a great start. A challenge might be that I sometimes get caught up in my work and forget to take a step back and reflect. Maybe we could come up with a reminder system or schedule a specific time each week to reflect and celebrate what I've accomplished.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a reminder system to regularly acknowledge your achievements sounds like a practical and supportive strategy. You could set a weekly time, perhaps, as a reflection moment to celebrate your progress. To help with this, options like setting an alarm, using a journal, or even having a check-in with a peer or advisor could be effective. What feels like the best option for you to ensure it becomes part of your routine, and how might you track your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think setting a weekly alarm could work well for me, maybe on a Friday after I've wrapped up the week. Journaling seems like a good way to keep track of my reflections and accomplishments too. I could write down one or two things I'm proud of each week and look back on them when I'm feeling doubtful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Using a weekly alarm as a reminder and journaling your achievements sounds like a thoughtful way to stay connected with your progress. You might find that reviewing these reflections when doubts arise boosts your confidence. How about we agree on checking in about this strategy in future sessions to see how it's working for you and make any needed adjustments?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. Checking in during our future sessions will help keep me accountable and let us tweak things if needed. I'm hoping this approach will remind me of all the good stuff I'm doing and help ease some of the anxiety I've been feeling.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan that includes setting a weekly alarm and journaling to acknowledge achievements. Potential barriers, such as forgetting to reflect, have been discussed with strategies in place to address them. The client has shown commitment to this plan and is open to adjusting it if needed. There is a sense of confidence and forward movement in their reflections and agreements, indicating readiness to advance. Summarizing these steps and strategies, while affirming the client's proactive approach, helps solidify their commitment and readiness.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "We'll make it a point to revisit this strategy in our upcoming sessions to ensure it's helping as intended and make any necessary tweaks. Acknowledging your achievements can be a great way to mitigate anxiety and bolster your self-confidence. Your dedication to embracing this new chapter is truly inspiring. Remember, you're not alone in this journey, and every positive step is a testament to your resilience and growth. Let's keep nurturing that positivity and focus on your strengths as you continue to thrive.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support. It definitely helps to know I'm not doing this alone, and I'm looking forward to seeing how this new routine works out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to acknowledge achievements, developed a practical plan, and shown a commitment to ongoing reflection. They feel supported and are ready to implement their strategy with future session check-ins. This session successfully addressed termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Help me convince myself I will graduate\nI am a 6th year PhD candidate. I have passed my prelims, passed my proposal (Oct), I have 3-4 articles published as a first author. I have finished 2 out of 3 experiments proposed. The last experiment is scheduled to be done in April.\nI have a job offer from a very reputable place which is like a dream job for me... Yet I still cannot convince myself that I am actually going to graduate soon. I feel like the rug will be pulled from under my feet. \nPlease help me convince myself.\nAppreciate in advance.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

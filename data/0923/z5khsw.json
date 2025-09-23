@@ -1,0 +1,188 @@
+{
+  "id": "z5khsw",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling pretty stressed out. Just figuring out what to do about this history class I'm struggling with.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like the history class is weighing heavily on you. What about it is making you feel stressed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's just that I didn't start off great and now I'm kind of behind. It's tough to catch up and I’m worried about my grade.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Catching up can indeed be daunting, especially when you feel like you're starting from behind. What's been the most challenging part about trying to catch up so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, balancing everything has been tough. Between work and other commitments, finding the time and energy to focus on the class has been a real struggle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's stress about their history class, capturing their feelings of being behind and struggles with balancing commitments. The therapist has demonstrated empathy, understanding, and has elicited the client's context. However, mutually agreed goals and a deeper understanding of the client's thoughts and feelings around dropping the class or continuing have not yet been fully explored. Therefore, continuing in the Exploring phase would be beneficial to gather more insight and establish clear goals.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Managing multiple responsibilities can definitely feel overwhelming. You might be feeling stretched thin because of all the commitments you’re juggling. How do you usually manage when things start piling up like this?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I kind of just try to push through and hope for the best. But this time, it feels like I'm just constantly one step behind no matter what I do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully explored the client's challenges with balance and stress related to their history class. The client has shared their feelings of being overwhelmed and discouraged, as well as the specific issues of falling behind due to other commitments. There is strong rapport and empathy established. We can now advance to the Guiding phase to focus on exploring motivations for change and evoking change talk regarding the decision to continue or drop the class. The exploration effectively used reflections to deepen the understanding of the client's struggle.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Balancing so much can indeed be exhausting. You seem determined to push through, yet it's still challenging. What would life look like if you found a way to manage this situation more effectively?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): If I could manage things better, I guess I'd feel a lot less stressed and more in control. I'd have more time to focus on my studies without feeling overwhelmed by everything else going on.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Having that sense of control sounds really valuable. What do you think is one small step that could make balancing your commitments feel more manageable?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Maybe setting up a better schedule or routine could help. If I plan my time more effectively, I might be able to fit in study sessions without feeling so rushed.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating a routine sounds like a promising idea. How confident do you feel on a scale of 0 to 10 about setting up a schedule that helps you balance everything better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 6 or 7. I think it’s doable, but I just need to actually sit down and make it work with my current commitments.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The guiding phase has effectively evoked discrepancy between the client's current situation and their desired state, with exploration into life with better management of commitments. The client expressed Change Talk, identifying a specific goal to set up a better schedule, and rated their confidence at 6-7 on a scale, indicating readiness to explore concrete action plans. Ambivalence about continuing the class is evident but has reduced through exploration. Move to the Choosing phase to collaboratively develop a specific action plan for time management and address barriers. OARS Feedback: Reflecting on the client's determination and exploring potential small steps was effective, but further support may be needed to solidify action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Developing a schedule could indeed be the key to finding balance. Based on our conversation, possible steps might include setting specific times for study, work, and rest. How does that sound to you? We could also consider exploring tools or apps that could help you manage your time more efficiently. What are your thoughts on these options?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. I've heard of some time management apps, so maybe I should give those a try to keep everything organized. Having set times for everything might help me stick to it better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Therapist(choosing): It's great that you're open to trying out time management apps. Setting clear times for study, work, and rest could really help create that balance you're seeking. What specific steps do you think you could take to start implementing this plan? What, if any, potential barriers do you foresee, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I could start by researching a few time management apps and seeing which one fits my needs best. Then, I’d try to block out specific times in my calendar for work, study, and downtime. As for barriers, I might struggle with sticking to the schedule, especially if unexpected things come up, but maybe I could build in some flexibility to handle that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Researching time management apps and setting specific blocks for work, study, and downtime sounds like a solid start. Flexibility is a smart consideration for dealing with unexpected events. How would you like to track your progress and ensure you're staying aligned with your schedule? Perhaps reviewing your plan weekly could help you adjust as needed. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Checking in weekly sounds like a good idea to see how well I'm sticking to my schedule and making adjustments if things aren't working out. I could set a reminder to review my week every Sunday and see what changes I might need to make for the upcoming week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to manage their time more effectively, incorporating the use of time management apps and setting specific times for work, study, and rest. Potential barriers, such as sticking to the schedule and handling unexpected events, have been discussed with strategies like flexibility. The client has agreed to self-monitor progress with weekly reviews. The client is showing signs of commitment and confidence in implementing their plan. OARS feedback: The process of collaboratively creating a plan and addressing potential barriers appeared effective. In future sessions, continue encouraging reflections on successes to build confidence.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Setting a Sunday reminder to review your week and make necessary adjustments is a fantastic approach. It’ll help you stay proactive in managing your commitments. Embracing flexibility while keeping an eye on your progress seems like a strong strategy. Remember, you're making these changes to improve your balance and well-being, so be gentle with yourself as you adapt. \n\nI’m really impressed by your thoughtful planning and willingness to try new tools. You’re taking meaningful steps toward reducing stress and gaining more control. I'm here to support you as you implement these changes. Feel free to reach out anytime. \n\nLooking forward to hearing about your experiences when we meet next. Remember, small steps can lead to big changes. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I’ll definitely give it a try and see how things go. I appreciate the support and will reach out if I need any help along the way. Talk soon!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively addressed the client's concern by setting a plan for time management, coping with unexpected events, and maintaining flexibility. The client appears prepared to implement these strategies. Acknowledging their proactive approach further builds confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Dropping a class/semester?\nSo I’m taking one history class and it’s the only class I’m taking. It’s a mini-mester. I took an exam and got a 60-something and he drops the lowest one. I didn’t do a paper that was due because of work and there is hw that is due today, that idk if I’ll finish that because I had a lot going on this week and I’m at work currently. I’m debating weather to just drop the class or keep going and see how it goes. I just feel that because I already had a rough start to the class, I feel discouraged :/ what should I do?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

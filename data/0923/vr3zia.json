@@ -1,0 +1,188 @@
+{
+  "id": "vr3zia",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you in today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I just really need some help dealing with the aftermath of a rough semester. I'm feeling super anxious about last semester's results and it's affecting my start to this one.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, especially when the past impacts your present. What about last semester is causing you to feel this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's just the fear of seeing how bad I might've done and letting down myself or others. It's like this looming cloud I can't shake off.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a heavy burden, worrying about disappointing both yourself and others. How has this anxiety been affecting your current semester so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It's like I'm stuck in this cycle of avoiding everything, and it's making it hard to even show up to campus. I just feel paralyzed when it comes to checking emails or facing classes.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's concerns, focusing on the anxiety and past experiences affecting their current situation. The client shared their feelings of anxiety and the context of a difficult semester, including significant personal challenges. Empathy and rapport were established through reflective listening, acknowledging the burden the client feels. The client appears ready to delve deeper into motivation for change and explore potential strategies. Moving to the Guiding phase will help focus on strengthening motivation and evoking Change Talk. Adjust by maintaining empathy while encouraging the client to express their desires for change and identify their motivations.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough feeling trapped in that cycle and facing such a strong sense of paralysis. Imagine a semester where this anxiety doesn't hold you back. How would life be different for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd feel so much freer, like I could actually focus on my studies and enjoy learning again. I imagine I'd be more confident and willing to engage with my peers and professors without that constant fear hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Experiencing that sense of freedom and renewed confidence sounds truly empowering. What do you think are some small steps that could help you start moving towards that vision of feeling freer and more engaged?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe starting with just opening my emails could be a first step, even if it's just a little bit at a time. Also, maybe trying to attend just one class and gradually working my way up might help ease some of the anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking those initial steps to open emails and attend a class sounds like a thoughtful approach to easing back into things. How confident do you feel, on a scale from 0 to 10, about starting with these small steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 5 or 6? It’s not super high, but I think with some effort I might be able to push through the initial resistance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and a vision of how life would be different without anxiety, which indicates the presence of change talk. They've identified specific initial steps, such as opening emails and attending a class, and rated their confidence at a 5 or 6. However, this confidence level suggests the client may still be experiencing ambivalence and could benefit from further strengthening of their motivation and confidence. Therefore, it would be beneficial to continue guiding to help the client build more confidence and further address any ambivalence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching a 5 or 6 shows that there's some belief in your ability to take these steps, which is a solid starting point. What might help boost that confidence level a bit more, even by one or two points?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe having a plan in place, like setting specific times to do these tasks or even having a friend check in with me, could help. Also, reminding myself of past successes might give me that extra push.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a vision of a more engaged and anxiety-free semester and identified specific steps such as opening emails and attending classes. Confidence is at a 5 or 6, showing potential readiness. They have suggested strategies like planning and support from friends to boost confidence. Change Talk is present, and ambivalence appears reduced. The guiding phase has effectively explored the discrepancy, evoked Change Talk, and discussed small steps, indicating readiness to move to the Choosing phase to develop specific plans. OARS feedback: The focus on envisioning a positive future and discussing concrete steps has helped clarify goals, but confidence building could be further supported in the next phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a plan and having support from a friend can certainly enhance your confidence and motivation. Shall we consider setting a goal of opening your emails at a specific time each day and aim to attend one class this week? We could explore how you might remind yourself of past successes and discuss who could be a supportive friend to check in with you. What do you think of these options?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think setting a specific time might make it feel less daunting, and having a friend to check in with me could keep me accountable. I have a friend in mind who I think would be supportive. As for past successes, maybe I can jot down a few achievements to look at when I'm feeling unsure.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "It sounds like you have a thoughtful plan forming, which is wonderful. Setting a specific time for your emails and attending one class this week are excellent goals. Identifying a supportive friend and listing your past achievements can provide that extra encouragement. Would you like to decide on the specific time for these tasks and how often your friend could check in with you? Additionally, we could talk about how you'll document and review your achievements.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think deciding on a time would really help me stick to it. Maybe I can set a reminder to check my emails every afternoon around 2 PM. As for classes, I can try to attend my Tuesday morning class since it's one of my favorites. I'll ask my friend to check in with me maybe twice a week to start, just to see how things are going. For the achievements, I could keep a little journal and write down a couple of things I'm proud of each week. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Your plan sounds well thought out and manageable, which is fantastic. Setting a reminder for emails at 2 PM and choosing to attend your favorite Tuesday morning class are great choices. Having your friend check in twice a week adds a layer of support, and keeping a journal of your achievements will help you recognize and celebrate your progress. Would you like to explore how to track these steps and check in on your progress regularly?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. Maybe I can use a planner or even just my phone calendar to track when I’ve completed these tasks. Having a set way to monitor my progress might make it easier to see how I’m doing over time. Checking in once a week to look at what I’ve accomplished could also be motivating. What do you think?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have collaboratively developed a clear, concrete action plan, including specific tasks like checking emails at 2 PM, attending a favorite Tuesday class, and weekly progress tracking. Barriers like anxiety and accountability have been addressed through strategies such as friend check-ins and a journal for past successes. The client demonstrates commitment and readiness through actionable steps and the plan to self-monitor. Given the established plan and client's expressed confidence, it is appropriate to move to the Terminating phase, focusing on maintaining momentum and long-term support.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Using a planner or phone calendar to track tasks is a practical approach to visualize your progress, and a weekly check-in to review your achievements sounds motivating. It's great to see you taking proactive steps. Keeping these organized will not only help you stay on track but also give you a sense of accomplishment as you see your progress unfold. You’re doing an amazing job laying the groundwork for positive change. Remember, every small step is a step forward, and we're here to support you on this journey. Let’s aim to check in on how this plan unfolds for you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "That sounds like a good plan. I'll try to stick with it and see how things go. Thanks for the support and guidance—I really appreciate it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a detailed plan with clear goals, steps, and supports to manage anxiety and prevent burnout this semester. They acknowledge their progress and appreciate the guidance. Future check-ins are planned to monitor progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Tips on overcoming burnout + anxiety over previous semester results\nlong tory short I had a pretty traumatic previoos semester (went through a miscarriage and a bad breakup all within the last 6-7 weeks of school) and might have fumbled my first semester of the year cause my mental health went to shit and I felt so burntout by the time exam's had rolled around - I didn't work as hard as l should've/would've under normal circumstances. \n\nthis week is the first week of my second semester of the year and although I feel mentally stronger than I did previously &amp; actually quite determined to deal with the semester, im also experiencing extreme crippling anxiety over my performance and results of the previous semester (like I literally can't bring myself to open my student email and today, which was the first day of school, I just sat in my car in the uni carpark for almost 2 hours before ultimately driving home because I was afraid to see my peers &amp; lecturers - I don't know why lol). i really don't want to let the burnout i experienced in the previous semester &amp; thr anxiety over it all spill over into the present and affect my studies this semester. \n\nany tips on getting over burnout as well as dealing with/letting go of anxiety surrounding performance in the previous semester?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

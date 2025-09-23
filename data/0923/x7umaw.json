@@ -1,0 +1,251 @@
+{
+  "id": "x7umaw",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I’m here to listen and support you. What would you like to share today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've been feeling pretty torn about whether I should quit my part-time job or not. It's been a lot to juggle with school, and I'm just not sure what the best choice is.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing work and school can certainly be challenging. You’re feeling torn because managing both seems overwhelming at times. Would you like to talk more about what you're experiencing with your job and school?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's just that the job takes up a lot of my time, especially at night, and I feel like I'm missing out on studying and just having downtime. I like having the extra cash, but I’m wondering if it’s worth the stress it brings.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That sounds like a tough spot to be in. You're weighing the benefits of extra cash with the stress and loss of study time and downtime. What’s been most challenging for you about managing both commitments?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I think the hardest part is feeling constantly drained. After working late, I’m too tired to focus on school or really enjoy my free time. It’s like I never have a moment to fully relax and recharge, which is frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the essence of the client's dilemma, detailing the context and underlying feelings of being drained and missing out on important activities. The client has expressed their struggle and provided background on education, finances, and personal experiences, indicating a comprehensive understanding of the situation. Empathy and rapport were established, making it suitable to advance to Guiding to explore motivation for change. Reflection and summarizing were used well to deepen the client's narrative and demonstrate understanding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be incredibly tough to feel so drained and not have time to recharge. You're caught between the need for extra money and the impact it has on your energy and focus for school. On a scale of 0 to 10, how confident are you in making a decision about this?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I’d say I’m sitting at about a 4 or 5. I keep going back and forth about it, and just when I think I’ve made up my mind, I second-guess myself.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Deciding between staying or leaving can be really challenging with all these mixed feelings. You're at a 4 or 5, which shows there's some confidence but also uncertainty. What would need to happen for you to feel more confident about your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think I would need some clarity on what’s more important to me right now. Maybe if I had a clearer picture of how much the job is affecting my studies and mental well-being, it would help. Having some kind of plan or assurance about getting a job related to my degree later on would also make quitting feel less risky.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Therapist(guiding): Gaining clarity on your priorities and understanding the job's impact on your studies and well-being is important to you right now. Thinking ahead about future job opportunities could make the decision feel less risky. How do you envision life might differ if you decide to quit the job versus if you stay?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): If I quit, I imagine having more time and energy for my studies and personal life, which sounds like a relief. But if I stay, I’d keep having that extra money and stay connected with my work friends, even if it means more stress. It's a tough call.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a significant discrepancy between their current work situation and their values of prioritizing education and mental well-being. There's been exploration of life with and without the job, revealing a desire for more time and energy. The client also identified a need for clarity and security in future job opportunities. Confidence is currently at a 4-5, indicating ambivalence still present. While some Change Talk is evident, the client lacks a specific change goal and remains uncertain. Continuing in the Guiding phase can further explore their priorities and potential strategies to increase confidence in decision-making.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "The idea of having more time and energy for your studies and personal life seems like something you value, and yet, the financial stability and connection with your work friends are also important to you. How might aligning your decision with these values influence your overall well-being and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): Aligning my decision with what I truly value could really help in feeling more balanced and less stressed. If I focus more on my studies and well-being, it might boost my academic performance and mental health. But maintaining financial stability and friendships from work isn't something I want to completely overlook either.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current situation and their values: the need for more time and energy for studies and personal life versus the benefits of financial stability and friendships. They have explored life scenarios with and without change and identified specific areas that require clarity, such as the impact of the job on their studies and well-being. Although the client has expressed some Change Talk and identified a goal, their confidence remains at 4-5, indicating some ambivalence persists. Further exploration is needed to solidify their confidence before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Finding that balance between your studies, well-being, and financial stability is essential. It seems that prioritizing your values could enhance both your academic performance and mental health, while also considering the importance of financial stability and relationships. What small steps do you think you could take to explore these priorities further and see how they fit into your life right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Maybe I could start by setting aside some time to really assess how much the job is affecting my studies and mood, like maybe journaling or keeping track of my energy levels. I could also look into potential job opportunities related to my degree to see what's out there. That might give me a better idea of what I’d be giving up or gaining.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their current job and personal values, expressing a desire to prioritize studies and well-being over financial stability. They’ve explored both life scenarios with and without change, and there's a reduction in ambivalence with a focus on aligning decisions with their values. However, the confidence level remains at 4 or 5, which indicates uncertainty. While there is some Change Talk, the client hasn’t established a specific change goal or next step with sufficient confidence. Thus, it's prudent to continue in the Guiding phase to further solidify confidence and address remaining ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Exploring how your job impacts your studies and mood, alongside checking potential career opportunities, can offer valuable insights. Taking small steps like journaling or researching can help clarify what aligns best with your values and goals. How do you feel about starting with these steps to gain a clearer picture?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about starting with those steps. It’s manageable and might give me the clarity I need to make a more informed decision. I'll try to be more mindful of my energy and see what's out there job-wise that aligns with my degree.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated the discrepancies between their current job and personal values, explored the potential impacts of staying or leaving, and expressed some Change Talk by considering specific steps like journaling and researching job opportunities related to their degree. However, the confidence level is still low (4-5), and ambivalence is present. While small steps are identified, a clear change goal or next step has not been firmly established. Continued exploration of values and priorities is needed before advancing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's great to hear that you're feeling positive about these initial steps. Being mindful of your energy and researching job opportunities could really help bring the clarity you're seeking. What do you think might support you in staying committed to these steps as you move forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think having a routine or schedule for when I journal or look up jobs could keep me on track, like setting specific days for these activities. Maybe talking to friends or family about it could also keep me accountable and give me some extra perspective or motivation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk and identified specific next steps, such as journaling and researching job opportunities, which are aligned with their values and goals. They have also developed a plan to maintain commitment to these steps. The client's confidence appears to have increased, signaling readiness to move forward. It's valuable to recognize the client's proactive approach to staying mindful of their energy and seeking clarity, which has contributed positively to their decision-making process.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Routine and accountability can indeed provide strong support in staying committed to your goals. Scheduling specific times for journaling and job research sounds like a practical plan, and reaching out to friends or family for perspective might offer additional motivation. Would you like to explore how you can integrate these activities into your weekly routine and who you might talk to for support?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, I think it would be really helpful to figure out how to fit these activities into my weekly routine. Having a set schedule might make it feel less overwhelming. I could probably talk to my boyfriend about it since he’s been really supportive, and maybe even a few close friends who know what I’m going through.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Creating a set schedule and reaching out to your boyfriend and close friends for support seems like a solid plan. How about we brainstorm some specific days and times that might work for journaling and job searching, and consider what kind of support you might ask from them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "client(choosing): client(reflecting): That sounds good to me. I think maybe setting aside a couple of evenings during the week, like Tuesday and Thursday, for journaling could work since those are usually less busy for me. For job searching, maybe Sunday afternoons could be a good time. As for support, I guess I could ask my boyfriend to check in with me on those days to see how things are going, and maybe grab coffee with friends to chat and share any updates.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Scheduling less busy evenings for journaling and Sunday afternoons for job searching sounds like a practical plan. Asking your boyfriend to check in and discussing updates over coffee with friends can be wonderful sources of support. How do you feel about committing to this schedule, and what next steps might help solidify this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(reflecting): I feel pretty good about committing to this schedule. It feels doable and not too overwhelming. Next steps might include actually putting these times into my calendar so I don't forget and maybe sending a quick message to my boyfriend and friends to let them know what I'm planning and ask for their support.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal to assess their job's impact on their studies and mental health, with a concrete plan involving journaling and exploring degree-related job opportunities. They have identified and discussed barriers, such as maintaining motivation and accountability, and devised strategies like scheduling specific times and involving supportive friends and family. The client expresses confidence and readiness to implement these steps toward making a more informed decision about their job. We will move to the next phase, as the client is committed and has taken steps to integrate these activities into their routine.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Adding these times to your calendar and reaching out to your boyfriend and friends for support are excellent steps to solidify your plan. It seems like you've created a balanced approach that respects your current commitments while making space for exploration and reflection. You’re making thoughtful decisions that align with your goals. Remember, it's okay to adjust your plans as you go along. You're doing great, and I’m confident you'll find the clarity you're seeking. Feel free to reach out if you need more support or adjustments along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I’ll definitely start by adding everything to my calendar and reaching out for support. I'll keep in mind that it's okay to tweak things if needed. Thanks again for the help today!",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session covered goal summaries, coping strategies, and a next-step plan. The client is confident and has a support system for accountability. The therapist effectively utilized summarizing and affirming techniques to reinforce the client's decisions.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I Quit My Part Time Job to Do School Full-time?\nFor context, I’m in the education program with and in five courses (full time). I work in a dining venue that requires working till pretty late at night most times. It’s been a while since i’ve been considering quitting cause I do not enjoy being there (but do like the friends i have there). \nThe last time I worked part time (three shifts) and did school full time, it was really bad for my mental health and I had to drop a course the next semester. \nLuckily my parents (bless their souls) saved up for my education so I don’t have to worry about student loans or paying for school. I also have around 13K in the bank and i’m not a huge spender besides gas money and my phone bill. Money is nice to have n’ all but i’m debating quitting and working during the summer/finding a job related to my degree so I can have more time to study, have free time and hang out with my boyfriend. \n\nShould I still work and risk the having to balance full time school so I can have some money, or should I quit and focus on university full time? \n\nTL;DR: Debating quitting part time job cause I am in university full-time. Conflicted between having more money or being able to focus on studying/having free time.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

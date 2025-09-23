@@ -1,0 +1,167 @@
+{
+  "id": "1c598nl",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty anxious right now. My professor left this really vague feedback on one of my quizzes, and it's stressing me out because I have no clue what she wants to talk about.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be frustrating to have unclear feedback and not know what your professor's expecting. What do you think might be concerning you the most about this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think it's just the uncertainty of it all. Plus, I'm worried about how it might affect my grade, and I already feel like I'm not doing great in her class.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The uncertainty and concern about your grade must feel overwhelming right now. You're feeling anxious because you're unsure how this could impact your performance in the class. How have you managed situations like this in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: In the past, I've tried to focus on what I can control, like making sure I'm caught up on other assignments. But it's tough to stay calm when everything feels so up in the air, and my mind just keeps spiraling with \"what ifs.\"",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's concerns about vague feedback and anxiety related to academic performance have been clearly articulated. The context, including struggles with ADHD and DSPS accommodations, has been explored, and the client has shared past coping strategies. Empathy and rapport are evident, with mutual understanding around the client's anxiety and uncertainty. Moving to the Guiding phase is appropriate to strengthen motivation and explore potential avenues for addressing these concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It can be really challenging to manage those \"what ifs\" when things feel uncertain and stressful. It's commendable that you try to focus on what you can control, like staying on top of your other assignments. How might it feel different for you if you were able to find a bit more clarity or reassurance in this situation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I think having more clarity would definitely help ease my anxiety. If I knew what she wanted to discuss, I could prepare myself mentally instead of just imagining worst-case scenarios.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding clarity could indeed make a big difference in easing your anxiety. You mentioned imagining worst-case scenarios; how might things change if you focused on possible positive outcomes instead?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client: If I focused on positive outcomes, maybe I could see this as a chance to improve my relationship with the professor or get some guidance on how to do better in the class. It would definitely feel less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Envisioning those positive outcomes could really shift your perspective and lessen the anxiety. It's great that you see the potential to improve your relationship with the professor. On a scale from 0 to 10, how confident do you feel about reaching out to your professor for more clarity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client: I'd say maybe a 6. I'm a bit nervous about how she'll respond, but I know it's something I need to do to get some peace of mind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of reaching out to the professor for clarity, indicating readiness to consider actionable steps. Confidence is noted at a 6, and the client has begun to explore positive outcomes, suggesting a shift from ambivalence. The discussion includes reflections on the impact of gaining clarity and potential relationship improvement, meeting guiding phase goals. The focus can now shift to specific strategies and addressing barriers. Moving to Choosing will allow for collaborative planning, such as preparing for the conversation with the professor and managing anxiety. OARS feedback: Reflecting on potential positive outcomes seemed to help shift perspective. Ensure continued support with confidence-building and addressing potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "A 6 shows you're leaning towards taking that step, which is significant. Shall we explore options to build on that confidence, like drafting an email or preparing questions? What might be a manageable first step for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with drafting an email could be a good first step. That way, I can organize my thoughts and have a clear way to ask for the information I need without getting overwhelmed in the moment.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Drafting an email sounds like a thoughtful and organized approach. It allows you to clearly express your concerns and questions. What key points would you like to include, or do you have any specific questions in mind for your professor? We can also think about any potential challenges you might face and how you might handle them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Well, I definitely want to ask about what she meant by \"see me\" and if there's anything specific I should be aware of regarding the quiz. I'd also like to mention the accommodations and see if there's any advice she has for improving my performance. As for challenges, I guess I'm worried about misinterpreting her tone or getting a response that doesn't actually address my concerns.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Including those key points sounds like a solid plan for getting the clarity you need. Asking about the meeting, the quiz, and mentioning your accommodations can guide the conversation positively. To address potential challenges, perhaps you could draft follow-up questions in case the initial response isn't clear. How do you feel about setting a specific time to send the email, and would any support in crafting it be helpful?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think setting a specific time to send the email could help me feel more prepared and less likely to procrastinate. Maybe I could aim to send it tomorrow morning? As for support, having a second set of eyes on it would be great just to make sure I'm conveying everything calmly and clearly.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan to draft and send an email to the professor, which includes key points to address their concerns. They have also discussed potential barriers, such as misinterpreting tone or unclear responses, and identified strategies like follow-up questions and getting support to overcome them. The client shows readiness with a commitment to send the email by setting a specific time, indicating a proactive step in managing their anxiety and taking control over the situation.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Sending the email tomorrow morning seems like a wise choice to keep the momentum going. Having someone review it can definitely boost your confidence in conveying your thoughts effectively. You've got a thoughtful plan to seek clarity and support, which is really commendable. Remember, this is an opportunity to gain understanding and strengthen your communication skills. Once the email is sent, you’ll have taken a significant step towards easing this concern. If you'd like, we can review your draft together before you send it. You're making important strides, and that's something to be proud of.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate that a lot. I'll definitely work on the draft tonight and have it ready for review tomorrow. It's nice to feel like I'm taking control of this situation, even just a little.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan to draft and send an email to the professor, addressing concerns with potential challenges in mind. They've identified support needs and set a timeline, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Professor Left The Most Vague Feedback on Canvas\nSo, I’m in an online personal finance class as one of my courses in my college. I’m not doing the best, as I needed DSPS accommodations (I have anxiety and ADHD), but I didn’t get accepted until just the other day (90% of the way through the semester), and my meeting for choosing said accommodations wasn’t until yesterday. I just sent out the letters earlier today. I am sitting at a C- in the class right now, as a quiz I did got me just above a 70%. We submit assignments through canvas, and occasionally she leaves feedback. \n\n\nToday I checked my grades and saw I got a 40/50 on the quiz. Along with this grade was a feedback message. I click on it, and all it says is “see me.” and nothing else. I got confused and emailed her, and I’m waiting to see what she wants to talk about, but it’s making my anxiety go through the roof. I’m hoping she will see my letter and be more understanding because I admit I haven’t done the best in her class. There were a few assignments I didn’t turn in because they were really confusing and stressed me out. This professor seems to be all business and very strict, and I’m honestly a little intimidated by her.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "14usmrk",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and understand your story.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've been really stressed about my summer math class and trying to figure out if I should stick with it or drop out. It's just been a lot to handle with everything else going on.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Managing all those commitments sounds overwhelming. What about the math class is most stressful for you right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, it's just that math is really tough for me, especially online. I can't seem to get the hang of it through videos, and it's making me anxious.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Navigating online learning can definitely bring its own challenges, especially when the subject feels tough. You might be feeling anxious because the mode of learning isn't aligning with how you learn best. How has this stress been affecting you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: It's been taking a toll on my focus and motivation. I find myself getting easily frustrated and it's hard to concentrate on anything else when I'm worried about falling behind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's concerns regarding the summer math class. The therapist has elicited the essence of the client's story, including stress from online learning, potential disappointment of family, and future career goals. The client has expressed feelings of anxiety and frustration, providing detailed context. Empathy and rapport have been developed, and mutually agreed goals have surfaced, making it appropriate to move to the Guiding phase to strengthen motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "I hear that this situation is affecting both your concentration and motivation. It's understandable to feel frustrated when you're worried about keeping up. Considering all this, how do you envision your life might change if you decided to stick with the math class or, alternatively, if you chose to drop it?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: If I stick with it and manage to pass, it would be a relief since I'd be done with my degree, but I'm worried about the stress and potential risk of failing. On the other hand, if I drop it, I could focus more on getting physically ready for the police academy, but I'd feel like I'm letting my parents down by not completing my degree on time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing these important decisions can feel challenging. It sounds like both options have significant impacts on your future and personal values. What aspects of completing your degree are most important to you, and how do they align with your goal of preparing for the police academy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Getting my degree feels like a big accomplishment and it would make my parents proud. Plus, it might give me an edge in the police academy applications. But being physically ready is crucial too, so it's hard to decide what's more important right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Both getting your degree and being physically prepared for the police academy hold important places in your life. Each path offers its own set of rewards and challenges. On a scale of 0 to 10, how confident do you feel about balancing both priorities and making the decision that's right for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client: Honestly, I'd say around a 4 or 5. I feel pretty torn and it's hard to see how I can manage both without sacrificing something important.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a significant level of ambivalence and stress regarding continuing their math class, balancing it with preparing for the police academy, and meeting their parents' expectations. Confidence is rated at a 4 or 5, indicating uncertainty about managing these priorities. Although the client's dilemma between pursuing the degree and preparing for the academy is well-explored, their low confidence suggests more support is needed to strengthen motivation and resolve ambivalence before advancing to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Finding a balance between these priorities is clearly challenging for you. It's understandable to feel torn when both paths are significant. What small steps or changes might increase your confidence level, even by just a point or two?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client: I guess setting a more structured daily routine could help me manage my time better. Maybe dedicating specific hours for math and for physical training might make things feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed both Change Talk and ambivalence, indicating a desire for change but uncertainty about how to proceed. They've identified potential small steps to increase confidence and have considered the implications of their decisions on their values and future goals. However, their confidence level is still low, around a 4 or 5. Further exploration is needed to build their confidence and clarify their commitment before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a structured routine sounds like a promising way to manage both of these priorities. Developing a consistent schedule might help alleviate some of the overwhelm and increase your confidence. How might you start putting this routine into practice, and what support do you think would be helpful in this process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): client: I could begin by blocking out specific time slots in my calendar for study and exercise, maybe even set reminders. Having a study buddy or workout partner could keep me accountable, and talking to a tutor or mentor about my struggles could provide some guidance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed significant Change Talk, acknowledging the benefits of both completing the degree and preparing for the police academy. They've identified a specific action plan to establish a structured routine, which serves as a tangible next step towards their goals. The confidence ruler indicates a midpoint level of confidence (4-5), showing ambivalence but also openness to improvement. A summary was provided and elicited a constructive reaction from the client, demonstrating progress. It's appropriate to move to the Choosing phase, focusing on solidifying these plans and addressing potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Crafting a routine with designated time slots sounds like a solid plan. Starting with calendar reminders and seeking a study buddy or workout partner for accountability are great steps. For additional support, reaching out to a tutor or mentor could offer valuable guidance. How about we set a goal to implement this routine over the coming week, and decide on ways to monitor your progress, such as weekly check-ins or journaling?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client: That sounds like a plan. I can start by setting up my calendar and reaching out to a classmate or friend for support. Maybe journaling at the end of each day will help me reflect on what's working and what needs adjusting. I can keep track of how things are going and talk about it next week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Creating a calendar and reaching out for support are excellent starting points. Journaling daily will also provide you with insights on your progress and adjustments needed. Would you like to set a specific goal for the number of study or exercise sessions in the coming week, and decide on a day to review your reflections?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client: Sure, let's say I'll aim for three study sessions and three workout sessions in the coming week. I'll review my reflections every Sunday to see how it's going and make any necessary changes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "therapist(choosing): Setting a goal of three study and workout sessions each week is a great start. Reviewing your reflections every Sunday will give you a chance to assess your progress and make any adjustments needed. How do you feel about sharing your reflections during our next session to explore what worked well and any barriers you encountered?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client: Yeah, I think sharing my reflections would be helpful. It might give me some new perspectives on how to tackle things better and see what I might be missing. I'm up for discussing it next time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of balancing study sessions with workouts and has set concrete plans like using a calendar and journaling. They have also identified barriers, such as struggles with online learning, and discussed potential supports like study partners and mentors. The client shows commitment by agreeing to review and reflect on their progress weekly, indicating readiness to advance. To solidify progress, it may help to affirm their initiative in setting structured goals and maintaining reflection, and to explore further support if needed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "That's a fantastic approach. Sharing your reflections can certainly offer fresh insights and highlight areas for improvement. It's encouraging to see your openness to exploring new perspectives and strategies. Remember, creating this balance is a journey, and you're making meaningful steps. Let's plan to revisit your reflections in our next session and see how this routine is supporting your goals. You’ve got this, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client: Thanks, I appreciate the support. I’ll do my best to stick to the plan and we’ll see how it goes. Looking forward to our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have discussed a structured routine, methods for accountability, and a plan for reflection, addressing the client's concerns. The client will implement this strategy and share reflections next session, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I drop out of my Summer class?\nI (20f) only have to do one more math class to get my general 2 year degree, however all the summer classes at my community college are only online for summer quarter. Math is my worst subject so this is very alarming, but I signed up for one online however I'm finding it extremely difficult to grasp the concepts through videos, and typing my answers is extremely stressful. There are a lot of really good in person classes for the fall, but my parents are really looking forward to me graduating by the end of Summer.\n\nMy goal is to be hired and go to the police academy by fall and be graduated by August. I don't need a degree to be hired, but it would look better on my application and possibly give me a small pay boost if I'm hired. I really don't want to disappoint my family, but at the same time I'm very concerned and don't want to end up failing. I also need to build muscle for the physical test, but I haven't had the time due to work and classes. I've never been good at online classes (my grades were the worst during the pandemic) and the tutors at my college seem very busy when I go there. What's the right thing to do?\n\nEdit: Thank you all so much. I'm going to try and power through it. :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

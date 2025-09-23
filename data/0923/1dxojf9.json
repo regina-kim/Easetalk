@@ -1,0 +1,209 @@
+{
+  "id": "1dxojf9",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, how are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty stressed out. I've been really worried about this upcoming Python exam for my chemical engineering class. It's been tough, and I'm not sure how to prepare for it effectively.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel stressed about an important exam. You might be feeling overwhelmed because it's challenging to balance studying and other responsibilities. What's been the hardest part for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, the hardest part is looking at a piece of code and figuring out what's wrong with it. It's like I just freeze up or can't see the mistakes, even when I think I should know it. Plus, the practice exams don't really help since they're so different from the real ones.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're experiencing some frustration with identifying errors in code, and it's adding to your stress. You might feel stuck because practice exams aren't matching up with what you encounter on the real ones. What strategies have you tried so far to tackle these challenges?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've tried doing all the homework and going to office hours, but it just doesn't seem to click during the exams. I also make a cheat sheet, but I'm not sure if I'm including the right stuff on it. It's like I can't translate what I've been studying into the actual test.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive view of their concerns regarding the Python exam, including difficulties with identifying code errors, the ineffectiveness of practice exams, and strategies attempted so far. We've built rapport and empathy, understanding the stress and frustration involved. The client has also expressed their motivation to succeed in the exam to graduate. Now, it would be beneficial to move to the Guiding phase to strengthen motivation for change and explore possible strategies to better prepare for the exam.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds really challenging, and it seems like you're putting in a lot of effort to prepare. Your commitment to attending office hours and creating a cheat sheet shows your dedication. If things clicked the way you wanted, how do you imagine your exam experience would be different?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I imagine I'd feel more confident and less anxious going into the exam. I wouldn't second-guess myself as much, and I'd be able to recognize errors in the code more quickly. It feels like everything would just flow better, and I'd finally be able to show what I know.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your vision of feeling confident and having everything flow during the exam is quite powerful. It's clear how much you want to demonstrate your knowledge effectively. On a scale from 0 to 10, where 0 is not confident at all and 10 is fully confident, how confident do you feel about your ability to identify coding errors right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'd say I'm at about a 3 right now. I know I have some understanding, but when it comes to the pressure of the exam, my confidence just drops.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It takes courage to acknowledge where you are on that scale. Even though you're at a 3, you clearly have some foundation in understanding. What do you think might help to boost your confidence, even just a little?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe practicing more with actual examples of faulty code could help. If I could find ways to simulate the pressure of the exam while I'm studying, that might make me feel more prepared. Also, getting feedback on what I'm doing right or wrong during practice could be really beneficial.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current confidence level in coding and their desired exam performance. They have explored how life would differ with more confidence and identified specific strategies to improve, such as practicing under exam conditions and seeking feedback. However, their confidence is currently at a 3, indicating a need for further strengthening of motivation and exploration of barriers before setting concrete change goals. Therefore, it's best to continue in the Guiding phase to ensure a robust foundation for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Practicing with real examples and simulating exam conditions sounds like a thoughtful approach to building confidence. It's great that you're considering feedback as part of that process. How might incorporating these strategies change your perspective or confidence about the upcoming exam?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): If I can actually practice under conditions similar to the exam, I think it would make a huge difference in how I feel. It might help me stay calm and focused, and if I get used to spotting mistakes in practice, I think my confidence would go up for the real test.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a vision of improved exam performance and confidence, and has suggested potential strategies like practicing with real examples and simulating exam conditions. However, the client's confidence level is currently low (3 out of 10), and more exploration of these strategies and their viability is needed. Confidence enhancement and the development of specific, actionable steps are essential before moving forward. Continuing the Guiding phase will allow further strengthening of motivation and strategy refinement.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Feeling more calm and focused during the exam is a valuable goal, and it's encouraging to hear how practicing under exam-like conditions could make that possible for you. By getting used to identifying mistakes in practice, where do you see your confidence level moving from a 3?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): If I can really commit to those strategies, I could see my confidence creeping up to maybe a 5 or 6. It’d definitely be a step in the right direction and might help me get closer to passing this time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of building confidence through practicing under exam-like conditions and receiving feedback. Change Talk is present, as they are considering strategies and envisioning a higher confidence level. Although their confidence is currently a 3, they aim to reach a 5 or 6 by implementing these strategies. The client has shown a reduction in ambivalence by identifying actionable steps. It's appropriate to move to the Choosing phase to collaboratively develop specific action plans based on these strategies. OARS feedback: Reflecting on the client's vision and exploring practical strategies effectively guided the conversation towards actionable steps. Continue affirming and refining action plans as the client progresses.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "That's a promising shift towards greater confidence! Let's consider creating a specific action plan together. Based on what you mentioned, possible options include dedicating certain study sessions to practice under exam conditions and seeking detailed feedback on your work. How does that sound, and are there any other steps you'd like to include?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think setting specific times to practice under exam conditions will help. Maybe I could also use study groups to get feedback from classmates or even the TA. If I can stick to this plan, I think it'll give me a better shot at passing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "It sounds like you have a well-rounded approach with your plan to practice under exam conditions and involve your study group or TA for feedback. Scheduling these sessions can make them more structured and effective. What specific days or times do you think would work best for you to dedicate to this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): I think I could set aside some time on weekends, maybe Saturday afternoons, when I don't have classes or other commitments. I could also try to fit in shorter sessions during the week, like in the evenings after classes. That should give me enough time to practice without feeling overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It sounds like you've identified a practical schedule with Saturday afternoons for longer practice sessions and shorter weekday evening sessions. This balance can help maintain your momentum without overwhelming you. How about we outline how you'll monitor your progress and any barriers you might anticipate with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Good idea. I could keep a study journal to track what I work on each session and note any patterns or mistakes I keep making. As for barriers, I might need to watch out for procrastination or getting distracted. Making sure I stick to the schedule and not letting other things interfere will be key.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and concrete action plan, which includes practicing under exam conditions, seeking feedback, scheduling study sessions, and self-monitoring through a study journal. They have also identified potential barriers, such as procrastination and distractions. The client expresses commitment to the plan and demonstrates confidence in their ability to improve their performance. Given these elements, it seems appropriate to advance to the next phase. OARS feedback: The client effectively articulated their needs and constructed a viable plan. Encouraging their use of feedback and self-monitoring can further enhance their progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Using a study journal to track your progress is an excellent strategy to identify patterns and areas for improvement. Recognizing potential barriers like procrastination and distractions is important, and having a plan to manage these will support your success. You're really setting yourself up for growth. Remember, you've made a commitment to yourself, and that's a powerful step. As our next step, let's ensure you have the support you need to stick to your schedule. If anything feels overwhelming, reaching out to your TA or peers could provide additional support. You've got this, and I'm confident that this thoughtful approach will make a difference. Keep in mind that progress, no matter how small, is still progress. Reach out if you need any further encouragement or guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement and the reminder that progress is key. I'll definitely keep in mind reaching out if things get tough.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear action plan, identified potential barriers, and discussed monitoring progress, aligning with termination goals. The next-step support plan was also addressed, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I have an upcoming chemical engineering python exam and I am not sure how to prepare for it \nI am retaking the course as it was so difficult. I do the homework, visit office hours, but still have a hard time doing the exam. It’s an intro class for solving differential equations using Python with Spyder. The exams always consists of solving differential equations and the professor providing screenshots of a code and tells you that you need to find what is wrong with it. How do I go by looking at the code and seeing what’s wrong with it effectively? He allows us to bring 1 cheat sheet.  He sometimes gives hints in the exam by partially starting the code and letting you complete it. He also provides a practice exam but it is nowhere near similar to the real one, so I don’t get why he does that. I haven’t done code in a long while and I am very frustrated with this course. This is the only course I have left until I graduate but it seems I may fail again for the second time. ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

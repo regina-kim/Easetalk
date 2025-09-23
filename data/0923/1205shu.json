@@ -1,0 +1,167 @@
+{
+  "id": "1205shu",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm doing alright, just a bit overwhelmed with choosing a major. It's been on my mind a lot lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can indeed feel overwhelming with so many options. What's been making this decision particularly challenging for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's just the pressure of making the \"right\" choice, you know? I’m worried about picking something and then realizing later it’s not what I want to do.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "That pressure to make the \"right\" decision feels heavy because you're concerned about future regret. What aspects of different majors are you considering or interested in right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm really interested in law and the justice system, but business management also seems like it has a lot of practical applications. It’s tough because they all have their own pros and cons.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has successfully explored the client's feelings of being overwhelmed by the decision of choosing a major, emphasizing their fear of regret. The client has expressed interest in law and business management, and articulated the pressure of making the right choice. There is a good understanding of the client's concerns and context. Moving to the Guiding phase can help in exploring the client's motivations and goals related to each option. OARS Feedback: The exploration was empathetic and focused, allowing the client to open up about their concerns, which sets a solid foundation for guiding them toward identifying their priorities.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Both law and business management have unique opportunities, and it sounds like you're weighing their potential impact on your future. How might each of these paths align with your long-term goals or values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "That's part of what I'm trying to figure out. I like the idea of helping people with the law but also being versatile in business seems smart. It's like, what do I want to commit to more?",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Committing to a path that resonates with your values is important. How do you see each option supporting the kind of life you envision for yourself in the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I guess with criminal justice or being a paralegal, I see myself doing something meaningful and directly helping people. But with business, it feels like there’s more financial stability and flexibility in career choices. It’s just hard to picture what will actually make me happy long-term.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding a balance between meaningful work and financial stability is a common challenge. When you imagine your future, what aspects of happiness and fulfillment are most important to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think feeling like I’m making a difference is really important to me, but I also want to be able to support myself comfortably. I just want to find something that feels rewarding but also gives me room to grow and adapt.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for both meaningful work and financial stability. They have articulated the values and potential futures associated with each major. Change Talk has emerged as the client considers these paths in relation to long-term happiness and fulfillment. The conversation has built a foundation for specifying change goals. The client is reflecting on their values and how they align with career choices, indicating readiness to develop specific action plans. Moving to the Choosing phase will help address strategies for overcoming barriers and solidify their decision-making process.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring a path that feels rewarding and offers growth is essential. As you consider your options, what might be some initial steps you could take to explore these fields more deeply, such as talking to professionals in those areas or trying internships?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I’ve thought about reaching out to people who work in these fields to get some real-world insights. Maybe I could also look into internships or shadowing opportunities to see what day-to-day life is like in each area.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Connecting with professionals and gaining firsthand experience through internships or shadowing sounds like a great plan to deepen your understanding. What do you think could be your first step to begin this exploration? Perhaps making a list of potential contacts or researching internship opportunities could be a starting point. How do you feel about moving forward with this approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I’m a bit nervous about reaching out to people, but I know it’s necessary. I think starting with a list of contacts and seeing if there are any local internships I could apply for is a good first step.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a list of contacts and researching internships is a proactive first step. It’s completely normal to feel nervous about reaching out, but those conversations can provide valuable insights. How might you go about making that list? Would you like to brainstorm ways to manage any nervousness you might feel in reaching out?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Making a list sounds doable. I guess I could start by looking on LinkedIn or asking around if anyone knows people in those fields. As for managing the nervousness, maybe I should plan what I want to say beforehand so I don’t freeze up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of exploring career options in criminal justice, paralegal work, or business management. They have developed a concrete action plan involving creating a list of professional contacts and researching internship opportunities. The client has also discussed potential barriers, such as nervousness about reaching out, and has agreed to self-monitor by preparing conversation plans in advance. They exhibit readiness through acceptance of action reflections and demonstrate a commitment to taking steps by expressing willingness to move forward. The client is confident about beginning the exploration process, indicating preparedness for the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Planning your conversations in advance is a smart way to feel more confident. You have a clear strategy to start by exploring LinkedIn and tapping into your network for potential contacts. Practicing what you want to say can definitely help ease those nerves. Consider setting small, achievable goals, like connecting with one person at a time, to make the process feel less overwhelming. Remember, taking it step by step is perfectly okay. I’m really encouraged by your efforts to explore these career paths thoughtfully. As a next step, how about setting a timeline for when you'd like to reach out to your first contact or find an internship opportunity? Having a timeline can create a sense of momentum and ensure you stay on track. You're already making great progress, and I'm here to support you as you move forward.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Setting a timeline sounds like a smart move to keep me on track. I'll aim to reach out to my first contact by next week and look for internship opportunities over the weekend.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear steps, such as creating a contact list and planning their outreach strategy, with a timeline to maintain progress. They have a structured plan to address their primary concern. OARS feedback: Reflective affirmations and summarizing helped clarify goals and next steps effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Advice on criminal justice or paralegal major?\nI just turned 20 and got my GED I'm applying to an online college (Eastern Gateway Community College) I'm stuck between getting an associate in criminal justice, paralegal, or business management. Anyone got advice or major in any of these? Thank you!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

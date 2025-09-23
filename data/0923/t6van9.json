@@ -1,0 +1,167 @@
+{
+  "id": "t6van9",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I'm feeling a bit overwhelmed. I've got this big decision to make about grad school and it's kind of consuming all my thoughts right now. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Grad school can be a big decision, and it's understandable to feel overwhelmed. What about the decision feels most consuming for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I guess it's the whole weighing what I want versus what's practical. Like, I want to go to a school that aligns with my goals, but the financial aspect is hard to ignore. It's just tough to figure out which should take priority.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing personal goals with financial considerations can certainly be challenging. You value aligning with your aspirations, yet the financial aspect is weighing heavily on your mind. How are you currently navigating or processing these priorities?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I'm trying to list the pros and cons of each option, but that only helps a little. I also keep thinking about how taking loans might affect me later on versus missing out on the perfect program. It feels like a lot and I don’t want to regret my choice.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns about balancing aspirations with financial realities, and the context behind their decision-making process is clear. They've discussed the pros and cons, financial implications, and potential regrets. Empathy and rapport appear to be well-established, and mutual understanding of the client's goals is apparent. Moving to the Guiding phase could help focus on exploring motivations and evoking Change Talk to aid in decision-making.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Balancing these important factors is no small task. You’re clearly thoughtful about the impact of loans versus the opportunity of an ideal program. What would life look like for you if you chose the program that aligns with your goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I went with the program that aligns with my goals, I see myself being more engaged and excited about my studies. It might open more doors for me career-wise, but I'd definitely have to deal with the stress of loans and the pressure to succeed to make it all worth it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Choosing a program that aligns with your goals sounds potentially fulfilling, yet the stress of financial commitments is also very real. Considering both these elements, what could motivate you to embrace the challenges of pursuing your desired program?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think knowing that I'm investing in my future and working towards something I'm genuinely passionate about would keep me driven. Plus, the idea of having better career prospects and networking opportunities is motivating, even if the financial part is a bit daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "The idea of investing in a future you're passionate about and the potential for career growth seems to hold significant value for you. How do these aspirations align with your long-term life goals and current values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think they align pretty well with my long-term goals. I want a career that I find fulfilling and that challenges me, and being in a program that matches my interests seems important for that. My current values include personal growth and making choices that will set me up for success down the line, even if it means taking some risks now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear vision of how choosing the program aligning with their goals could impact their life positively and is motivated by future career prospects and personal growth, despite financial concerns. They recognize the alignment with long-term goals and values, indicating a readiness to move towards specific planning. The client expressed motivation and a possible change goal: pursuing a program aligning with their passions. Change Talk is evident, and ambivalence has decreased, suggesting readiness to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reflecting on your values of personal growth and long-term success, would you like to explore setting a clear goal for your grad school decision? Based on your thoughts, options might include focusing on programs that align with your aspirations or finding ways to manage potential financial burdens. How do you feel about creating an action plan to weigh these paths?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Creating an action plan sounds like a good idea. I think having a clearer game plan could really help me feel less overwhelmed and more in control of the situation. It'd be useful to have a structured way to evaluate the risks and rewards of each option.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(choosing): A structured game plan can certainly provide clarity and direction. Based on what you've shared, perhaps we could explore two main paths: assessing programs that align with your goals and strategies to manage finances, like scholarships or part-time work. What steps do you think would be most helpful in moving forward on these paths?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think first, I could reach out to the top schools and see if there are any additional funding opportunities that I might have missed. For the financial part, maybe I could look into part-time work options or even talk to current students about their experiences balancing work and study. It feels like getting more information might help me make a more informed decision.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Exploring funding and work opportunities could indeed provide valuable insights and options. Would you like to set a goal of reaching out to schools and current students within the next few weeks? It might also be helpful to create a list of questions you want to ask. How does that sound as a plan to keep you informed and empowered in your decision-making?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. Setting a goal to reach out within the next few weeks will keep me on track, and a list of questions could make sure I cover everything I need to know. I think having these conversations will really help clarify which path feels right for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of reaching out to top schools for additional funding opportunities and exploring part-time work to manage finances. These steps align with their values and long-term goals. They have shown commitment to the action plan by agreeing to a timeline and a strategy to gather information, indicating readiness to advance. Confidence in managing potential barriers is evident, making them prepared to move towards the termination phase. OARS feedback: Your thoughtful exploration and readiness to take action are commendable. As you reach out to schools and students, continue leveraging your curiosity and practicality.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "I'm glad to hear that you're feeling good about this plan. Reaching out to schools and students and having a list of questions ready will definitely keep you organized and informed. You're taking proactive steps towards your goals, and that's commendable. Remember, it’s okay to take your time with this decision – it’s all part of investing in your future. Keep focusing on what aligns with your long-term aspirations and values. I'm here to support you along the way. Let's set a time to check in soon to see how things are progressing and to talk about any insights you might gather. You're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate it. I'll start reaching out and see how things unfold. I'll be sure to keep you updated on my progress and thoughts. Let's catch up soon!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan for reaching out to schools and students, which aligns with their values and goals. They are motivated and proactive, having established concrete steps and timelines to address their concerns. Providing affirmations and summarizing key points helped solidify their confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Master's Program Decision Advice Needed\nI'm a prospective master's student that applied to higher education programs. I got into both my top schools and my safety school (yay!!), but the top schools didn't offer me much in terms of scholarships. I just got an assistantship for my safety school that would cover pretty much everything, along with a stipend for living expenses. The issue is that the safety school isn't as good of a fit as the other schools in terms of my academic interests and career goals. I also don't have any loans from undergraduate, so I am okay with taking out loans for graduate school. Another factor is the safety school is my current undergraduate institution, so I wouldn't have to move unless I wanted to be closer to the school, whereas the other schools are either across the state or out of state. \n\nShould I take the full ride even though I'm not totally in love with the program? Or should I take out loans to go to a program that perfectly aligns with my goals? What helped you pick a program?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

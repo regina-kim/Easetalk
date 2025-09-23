@@ -1,0 +1,167 @@
+{
+  "id": "z2m99s",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What's been on your mind lately? Feel free to share anything you'd like to talk about today.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been really stressed about my thesis and it's making me think about quitting my master's program. I'm also trying to figure out how to handle this with my job. It's just all been a lot to juggle.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing a thesis, a job, and everything else sounds overwhelming. What about your situation feels most challenging right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, it's just the constant stress and pressure of the thesis hanging over me. I feel like I can't fully commit to my job or focus on anything else because it's always in the back of my mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The persistent pressure from your thesis seems to be taking a toll on your ability to concentrate on your job and other aspects of life. It must be exhausting to have that stress continually lingering. How have you been coping with these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I've been trying to just push through, but it's not working out too well. I can't seem to find the motivation or energy to make any real progress on the thesis. It's like I'm stuck in this loop of stress and avoidance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase has successfully captured the essence of the client's story, detailing the emotional impact of juggling a thesis and job, and the coping mechanisms attempted. The client's core struggle and the context surrounding it are clear, with mutual understanding and rapport established. Moving to the guiding phase will help explore motivations for change and evoke Change Talk. OARS feedback: Effective summarizing and reflecting captured the client's stress and avoidance issues, allowing for a comprehensive understanding of their predicament.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling stuck in that loop of stress and avoidance sounds really tough. What do you think would be different if you were able to move through this stress and get unstuck?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): If I could move past this, I think I'd probably feel a lot more relieved and energized. I could focus on my job without guilt and actually enjoy my free time instead of worrying about what I'm not doing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Being able to focus on your job and enjoy your free time without guilt sounds like a meaningful shift. What do you think it might take to start moving towards that sense of relief and energy?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): Maybe it would mean making a decision about the thesis, like whether to quit or find a way to get it done without driving myself crazy. I guess I also need to figure out how to communicate this to my job in a way that feels right.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Considering those options seems important. How might aligning your decisions with what matters most to you help bring about that relief and energy you're seeking?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Aligning my decisions with what matters most, like my mental health and career, might help me feel more in control and less stressed. It could make it easier to prioritize and find peace in the choices I make, whether that's completing the thesis or choosing to let it go.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current stress levels and their values of mental health and career, which suggests progress in the Guiding phase. Additionally, they have begun identifying potential change strategies, such as deciding on their thesis and how to communicate this to their job, indicating readiness for the Choosing phase. The client has also shown a desire to align decisions with their values, decreasing ambivalence. In moving to Choosing, the client can benefit from developing concrete action plans. Incorporating open questions and affirmations helped uncover these insights. Continue using reflections to explore feelings and affirmations to bolster confidence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Thinking about aligning your decisions with your mental health and career priorities seems to offer a path to feeling more in control and at peace. Based on what you’ve shared, possible options include either setting a clear goal to finish the thesis with manageable steps or deciding to discuss a break or change with your program advisor. How would you like to proceed with setting a goal or creating an action plan for this?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think setting a clear goal to either complete the thesis or officially take a break sounds like a good start. Maybe if I set smaller, manageable steps, it'll feel less overwhelming. I could also talk to my program advisor to explore what options I truly have.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating smaller, manageable steps for your thesis sounds like a practical approach, and discussing options with your program advisor can give you clarity. What would be a realistic first step you might take towards this goal, and how would you like to monitor your progress along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I think a realistic first step could be setting aside a specific time each week just to work on my thesis without distractions. Maybe I can start with just an hour or two and see how it goes from there. To monitor my progress, I could keep a journal or checklist to track what I accomplish during each session, which might help me feel more motivated and see the progress I'm making, even if it's small.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Allocating a dedicated time each week for focused thesis work sounds like a solid starting point. Keeping a journal or checklist to track your accomplishments is a great way to motivate yourself and recognize the progress you’re making. How do you feel about setting a specific day and time to start this, and what might help ensure you stick to it?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(planning): Scheduling a specific day and time feels like a good move. I think I could start with Sunday afternoons since I usually have less going on then. To help me stick to it, maybe setting reminders on my phone or even telling a friend about my plan for some extra accountability could work.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of either completing the thesis or taking a break and has developed an action plan involving setting aside weekly dedicated time and tracking progress with a journal. Barriers such as distractions and ensuring commitment have been discussed, and strategies like setting reminders and involving a friend for accountability have been proposed. The client shows commitment by planning specific steps and demonstrates confidence in their ability to follow through. It's appropriate to move to the Terminating phase as the client is ready to implement their plan. OARS feedback: The client showed great insight and planning skills in creating a structured approach. Continuing to leverage accountability measures will be beneficial.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Sunday afternoons sound like a peaceful time to focus on your thesis. Setting reminders and sharing your plan with a friend for accountability are excellent strategies to help you stay committed. As you embark on this, remember that each small step is a victory, and you're aligning your actions with what truly matters to you. I'm truly impressed with the thoughtful steps you've outlined. Moving forward, reaching out to your program advisor could provide you with more options and ease. I'm here to support you as you navigate this journey. Keep believing in yourself, and take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds really encouraging. I'll definitely give it a try and see how it goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined clear steps towards resolving their dilemma, including setting a specific schedule and seeking advisor input, and has strategies for accountability. The session effectively summarized goals and next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Quitting my masters?\nThis will require some context but I am interested in people’s opinions. \n\nI was hired for my current job about a year ago. The expectation was I would finish my master’s in August and start my job in October. I did not end up completing my thesis by then, but I kept the same timeline with my job. My company was extremely understanding and left it up to me if i wanted to start full time, part time, or delay my start until I finished my thesis. I started part time in october and after a month have not made any more thesis progress. I really really want to give up on my thesis and just work full time.\n\nThe thesis has always caused an immense amount of stress for me and it only gets worse with time. At this point I have to think that the mental and physical (namely sleep) benefits of quitting my thesis far outweigh the benefits of completing my degree. Is this something I can bring up to my boss or do you think I should stay silent on this?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

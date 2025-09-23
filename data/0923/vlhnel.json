@@ -1,0 +1,167 @@
+{
+  "id": "vlhnel",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have some thoughts or feelings you'd like to share. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I’ve been feeling kinda frustrated about this whole major switch thing. I thought I had it figured out with education, but now that I want to switch to pharmacy, it feels like I'm hitting a wall with the school’s policies. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating a major switch can definitely be overwhelming, especially when unexpected hurdles arise. You're feeling frustrated because you thought your path was set, and now school policies are complicating things. What has the process been like so far for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It’s been a bit of a rollercoaster, honestly. I went from being sure about teaching to suddenly wanting to go into pharmacy, and then finding out about these restrictions has been kind of a bummer. It just feels like I’m stuck and not sure what the best next step is.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Switching paths can definitely feel like being on a rollercoaster, especially when new obstacles pop up. You're feeling stuck because the sudden desire to change to pharmacy is clashing with these restrictions. Can you share more about what led you to consider this switch?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, I guess I started thinking about pharmacy after talking to a friend who’s in the program. It just seemed like a really solid career choice with good job prospects. Plus, I kind of realized I wanted something more science-oriented than teaching.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of frustration and being stuck regarding their major switch. The client has shared the context behind their decision and the difficulties they've faced with school policies. Empathy and rapport have been established, and the client's story and goals are mutually understood. Moving to the Guiding phase would help in strengthening their motivation and exploring potential solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Pharmacy's appeal with its science focus and strong job prospects certainly makes sense, especially after being inspired by your friend's experience. It sounds like there's a clear draw for you there. How do you feel this potential change in direction aligns with your goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it aligns pretty well with my goals, like I really want a stable career and pharmacy seems to offer that. Plus, I've always valued having a solid understanding of science, and I feel like being in a field where I can apply that knowledge would be fulfilling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Embracing a career where you can apply your passion for science and seek stability sounds very fulfilling. You’ve mentioned how important these values are to you, and they seem well reflected in the field of pharmacy. On a scale from 0 to 10, how confident do you feel about navigating the challenges involved in making this switch?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say maybe a 6 or 7. I feel pretty confident about my decision to switch, but the hurdles from the school are making me second guess if I'll be able to make it work smoothly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing your confidence in the decision with the obstacles you're facing is challenging. A 6 or 7 suggests you see a path forward but also recognize those hurdles. What might help increase your confidence to an 8 or 9, despite the school's policies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think having a clearer plan or some guidance on how to navigate the process would help. Maybe if I talked to someone who's been through a similar situation or got more insight from the school on alternatives, it would make me feel more secure about moving forward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear motivation towards switching to pharmacy due to alignment with their goals and values, indicating strong Change Talk. They have also identified a specific next step to increase their confidence, which is seeking guidance and alternatives from the school or others with similar experiences. Their confidence is at a 6 or 7, and they are seeking ways to increase it, showing readiness to move forward. Given these indicators, it's appropriate to transition to the Choosing phase to develop an action plan. OARS feedback: The use of reflections effectively clarified the client's goals and values, while open questions helped explore their confidence and possible next steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating a clearer plan and seeking guidance could definitely boost your confidence. Based on what you've shared, possible steps might include reaching out to someone in the pharmacy program or consulting a school advisor for insights on the policies. What do you think about exploring these options as part of your action plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that could be helpful. Talking to someone who's been through it might show me that there are ways to make it work, even with these restrictions. Also, getting a better understanding from the school about what my options are could really clarify things for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "therapist(choosing): That sounds like a solid action plan. Speaking with someone from the pharmacy program could provide valuable insights and encouragement, while consulting the school advisor could clear up any uncertainties about your available options. How would you like to approach reaching out to these people, and what steps might you take first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I'm thinking I could start by emailing the pharmacy program to see if they can connect me with a student or an alum who's been in a similar situation. For the school advisor, maybe I could set up a meeting to discuss all of this in more detail and see if they have any suggestions or resources that could help me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a proactive approach. Emailing the pharmacy program for connections and setting up a meeting with the school advisor are great first steps. How do you feel about setting a timeline for these actions, and is there anything else that might support you in moving forward with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think setting a timeline would be helpful to keep me on track and motivated. Maybe I could aim to email the pharmacy program by the end of this week and try to set up a meeting with the advisor early next week. Aside from that, I think just staying open to any advice or suggestions from those conversations will be important.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, including reaching out to the pharmacy program and setting up a meeting with the school advisor. They have also agreed on setting a timeline for these actions, which demonstrates commitment and a proactive approach. Barriers have been discussed, and the client is open to guidance and suggestions, reflecting confidence in their ability to overcome challenges. The client has shown readiness to advance, signaling a move to the Terminating phase. OARS feedback: The client's proactive approach and willingness to seek guidance were key strengths in this phase. Continuing to foster these qualities will aid in future endeavors.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting a timeline sounds like a great strategy to stay focused and motivated. Aiming to email the pharmacy program by the end of this week and meeting with your advisor next week seems like a practical plan. Staying open to advice will definitely help you gather useful insights. You're making thoughtful steps toward your goal. Keep trusting in your ability to navigate this journey. I'm here to support you along the way, and we can discuss how things are progressing in our next session. You’ve got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, that really helps. I'll get on those tasks and see how things go. I appreciate your support and will update you next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified clear steps to address their concerns and has set a timeline for action, showing readiness to move forward. The client feels supported and plans to update in the next session, indicating closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Major Advice\nI thought this was a good place to ask for advice on this topic, so here we go. I'm headed into my second year of college at a state school in PA. I am currently in their english department and planned on going into education. I have since changed my mind and I am thinking of going into Pharmacy. However, the school won't let me do the pre-pharmacy program because it was \"Designed for freshman\". The Pre-Pharmacy program is accelerated and takes a few years off your degree. I told them I was only really interested in pre-pharmacy and they said the best they could do was switch me to chemistry and then I could apply to pharmacy school and hope to get in. Should I keep trying? Am I wrong to think I should be allowed into the program since I've been a student for two years?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

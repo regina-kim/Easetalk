@@ -1,0 +1,167 @@
+{
+  "id": "vbr3vm",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What's been on your mind lately? I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've been really worried about applying to Berea College because of my past grades. My GPA was super low due to some tough times, and I'm not sure if getting a letter of good standing is even possible.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel worried given those past challenges. You're concerned about the impact of your previous grades on your application. What can you tell me about the tough times that affected your GPA?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it was a rough patch. I was dealing with undiagnosed major depression and autism back then, which really messed with my ability to focus and keep up with schoolwork. It just felt overwhelming, but things are better now with some help and medication.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you went through a really challenging period, and it must have been tough managing all of that. You’ve shown resilience by seeking help, and it seems like things have improved for you now. How are you feeling about these changes and the support you've received?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm feeling a lot better now, honestly. The help and medication have made a big difference, and I'm doing well in community college. It's just that the thought of those old grades holding me back is stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive narrative about their past struggles with mental health and academic performance, as well as their current progress and aspirations. The client's concerns about their application to Berea College and the letter of good standing have been clearly expressed, alongside their feelings of worry and stress about their past grades. There is a mutual understanding of the client's situation and the rapport appears to be strong. While the client has shown resilience and optimism about their future, they are in need of support and guidance to resolve their current dilemma.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your progress and determination are truly inspiring. You're doing well in community college, which shows how much you've grown. Considering the stress about your older grades, how do you envision things might be different if you decided to apply to Berea College now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I apply now, I feel like I'd be doing it as a completely different person compared to back then. I've got a better handle on things and a stronger GPA to show for it. But I'm still worried that those past grades will overshadow what I've achieved since.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Your progress and growth have clearly been significant, and you're approaching this with newfound strengths. If you imagine successfully applying now, highlighting your current achievements and personal growth, what might that mean for your future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I guess it would mean a lot to me, like proving to myself that I'm not defined by my past struggles. Getting into Berea could open up opportunities and be a fresh start, but it’s still nerve-wracking to think about whether they'll see past those old grades.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your vision of proving to yourself that you're not defined by past struggles is powerful. It sounds like gaining acceptance would mean a new beginning and validation of your journey. What aspects of your growth and achievements would you like to emphasize in your application to help convey this transformation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I'd definitely want to highlight the turnaround in my GPA and how I'm managing things better now with the right support and medication. I'd also focus on my dedication to my studies and any positive relationships I've developed with my professors, like my psych professor at community college.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated a strong awareness of their past challenges and the growth they've experienced since. They've expressed a clear goal to apply to Berea College and highlighted specific achievements, such as improving their GPA and managing their mental health more effectively. The client has also articulated the potential significance of being accepted, which indicates readiness to move forward. Given the presence of Change Talk and a specific next step of focusing on application strengths, it's appropriate to transition to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your ideas for highlighting your achievements and growth are truly insightful. Focusing on your improved GPA, effective management of your challenges, and strong connections with professors sounds like a solid foundation for your application. Would you like to set a specific goal around drafting a personal statement or seeking a letter of recommendation, perhaps from your psych professor, to help emphasize these strengths? Together, we can also look at any potential barriers you might face and plan how to address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): That sounds like a plan. I think getting a recommendation from my psych professor would really help, and drafting a personal statement to tell my story could make a difference too. I'm a bit nervous about writing it, but I know it's important to show how far I've come.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your decision to focus on a personal statement and a recommendation letter is a great step forward. Connecting with your psych professor for a recommendation could really highlight your progress and dedication. Writing the personal statement can indeed be daunting, but it's a chance to share your story and growth authentically. Would it be helpful to break down the personal statement into smaller, manageable steps? We can also brainstorm ways to tackle any nerves around writing. What do you think might be some helpful first steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, breaking it down into smaller steps sounds like a good idea. Maybe starting with an outline of the main points I want to cover would help. I could also jot down some specific examples of how I've improved, like specific challenges I've overcome or things I've learned along the way. And for the nerves, I guess just reminding myself why I'm writing it in the first place might help, you know?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Starting with an outline and listing specific examples of your growth is a fantastic approach. It allows you to organize your thoughts and ensure you cover the key points that showcase your journey. Reminding yourself of the purpose behind writing it can definitely help ease the nerves. Would you like to set a timeline for when you'd like to have your outline completed? We can also discuss how you'll monitor your progress and any strategies for overcoming any potential barriers that might arise during this process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Setting a timeline would definitely keep me on track. Maybe I could aim to have the outline done in a week or so? That way, I can take my time but still make steady progress. For monitoring progress, maybe I could check in with you or a friend every couple of days just to keep myself accountable. As for barriers, I'll try to focus on one part of the outline at a time so I don't get overwhelmed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal of applying to Berea College with a concrete action plan that includes drafting a personal statement and seeking a recommendation letter. They've discussed potential barriers, like nerves around writing, and have agreed on self-monitoring strategies such as setting a timeline and checking in with support. The client's commitment and confidence are evident, as they are taking steps to overcome challenges. It would be beneficial to move to Terminating, where continued support and encouragement can be provided as the client implements their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It sounds like you're setting a realistic and achievable timeline, and giving yourself a week to complete the outline is a thoughtful approach. Checking in with me or a supportive friend every few days can really help keep you accountable and motivated. Focusing on one part at a time is a great strategy to prevent feeling overwhelmed. I'm really impressed by your planning and the strategies you're putting in place. If ever you feel uncertain or stuck at any point, remember that I'm here to support you through it. You've got this, and each step you take is bringing you closer to achieving your goals. Looking forward to our next check-in to hear about your progress!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll make sure to take it step by step and reach out if I need some guidance. Appreciate all your support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully addressed the client's concerns, outlined coping strategies, and set actionable goals, including obtaining a recommendation and drafting a personal statement. The client feels supported and prepared for next steps.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Question about \"letters of good standing\"\nSo I spent my senior year of highschool in college, average grades, 3.0 gpa. But for the next 3 semesters, my gpa dropped to 2.5, to .6, to .4 due to severe mental issues. I've since been diagnosed with major depressive and autism, and enrolled in a local community college. \n\n I've brought my gpa up back to 3.0, and am confident my average for this school will go up to 3.5 or higher next semester since I'm medicated now.\n\nBack to the actual question, a public university near me, Berea college in ky, has a few qualities they need for admissions- and the only one I'm missing is a letter of good standing from every institution after HS I've been to. My community college will be fine, I'm even close to the psych professor here- however my first college's average gpa on file is 1.6, with two consecutive terms being much below 2. Should I even bother applying to Berea?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

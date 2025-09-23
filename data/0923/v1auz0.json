@@ -1,0 +1,209 @@
+{
+  "id": "v1auz0",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling pretty down lately because I got rejected from the only college I applied to, and I'm not sure what my next steps should be.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, facing rejection from the only college you applied to. It must feel overwhelming not knowing what to do next. Can you share more about what led you to apply to that particular college?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I really liked their engineering program, and I thought it would be a good fit for me. Plus, they have a high acceptance rate, so I thought I'd have a good chance of getting in.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your interest in their engineering program shows how much you've thought about your future. It must be hard dealing with the unexpected outcome, especially when you felt the odds were in your favor. What other options or paths have you considered since finding out?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Well, I haven't really thought about any other options yet. I just feel kind of stuck and unsure about whether it’s too late to apply somewhere else or what I should do next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being down and stuck after being rejected from their preferred college, providing context about why they chose it and their concerns about next steps. Empathy and rapport are being built, with the therapist affirming the client’s careful decision-making process and exploring further options. However, the client has not yet expressed clear goals or deeper motivations for change beyond the immediate situation, and more exploration is needed to solidify mutual goals and understand the client's broader aspirations.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling stuck and unsure is understandable, given how important this decision is for you. It's never too late to consider other possibilities. Have you thought about what aspects of the engineering program or the college appealed to you the most? Maybe we can explore those together and see if there are similar opportunities elsewhere.",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I liked the hands-on approach they offered and the collaborative projects. I also liked the campus vibe and how supportive the community seemed from my visit. I guess I just connected with that place more than I expected to, and now I'm not sure where else to look for something similar.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's feelings of disappointment and uncertainty after the college rejection. The client shared their interest in the specific engineering program and the appealing aspects of the rejected college. The therapist reflected and affirmed these feelings and strengths while suggesting exploring similar opportunities. Since rapport is strong and the client's story is well understood, it's appropriate to transition to the Guiding phase to strengthen motivation for exploring new options.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "It's understandable to feel a strong connection to a place that aligns with your values and goals. The hands-on learning and supportive environment are crucial to your decision-making. What do you think it might be like to explore other schools that offer similar hands-on and community-focused experiences? How would pursuing that change affect your sense of direction and confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): I guess it might help me feel like I have more options and not just stuck with no direction. If I could find another school with a similar vibe, maybe I'd feel better about things and more hopeful about my future.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Exploring other schools with similar qualities could indeed open up new possibilities for you. Recognizing that you have options might boost your sense of direction and confidence. On a scale of 0 to 10, how confident are you about finding a program that aligns with what you value in an engineering education?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(reflecting): I’d say maybe a 4 or 5 right now. I’m still not completely sure where to start or if there are schools out there that match what I’m looking for, but knowing there might be other options is a bit comforting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): It's great that you're at a 4 or 5—it shows there's some hope and openness to finding those options. What might help you move that confidence level up a notch or two? Are there specific steps or information you feel could support you in discovering schools with the qualities you value most?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think doing a little research into schools with strong engineering programs and maybe talking to some advisors or current students could help. Also, making a list of the things that are important to me in a school might narrow down my options and make me feel more confident in choosing where to apply next.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has acknowledged the possibility of exploring alternative schools and feels a bit more hopeful, but their confidence level is only at a 4 or 5. Although there are indications of readiness, such as recognizing the importance of exploring options and identifying potential steps, the client is still in the early stages of building confidence and planning. More work in the Guiding phase could solidify their motivation and raise confidence levels before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Researching schools and connecting with advisors or students sounds like a solid plan. Making a list of what you value most could really clarify things for you. How might taking those steps impact your confidence and overall feelings about this journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): Taking those steps could definitely help me feel more in control and positive about my situation. It might even boost my confidence to a 6 or 7 because I’d be actively searching for a place that fits me, instead of feeling like I’m just stuck with no options.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed important Change Talk regarding exploring new options and has outlined a specific plan to research schools, talk to advisors, and list valued aspects of a program. This indicates a shift from feeling stuck to being proactive. The client’s confidence has increased from a 4-5 to the potential 6-7 range with planned actions, which suggests readiness to develop specific action plans. OARS feedback: The use of open questions and reflections effectively helped the client clarify their values and increase their confidence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Your plan to research and connect with advisors or students is a proactive way to regain control over your future. To help you move forward, would you like to set a specific goal for when you'd like to start this research or perhaps identify which advisors or students you might reach out to first? We can also anticipate any barriers you might face in this process and think about ways to overcome them. How does that sound?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good idea. Maybe I can start the research this week and try to reach out to at least one advisor or student by next week. I think the hardest part might be just getting started and figuring out where to find people to talk to, but once I get going, I think it'll get easier.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Starting your research this week and reaching out by next week gives you a concrete timeline to work with. To begin, perhaps you could focus on online resources, such as school websites or forums, to find potential contacts. Feeling hesitant about where to start is common, but as you mentioned, taking that first step can make it easier. How can you prepare for any initial challenges you might face in finding people to talk to? And how would you like to track your progress to ensure you're moving forward as you hope?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): I think preparing some questions or topics in advance might help me feel more confident when reaching out to people. I could also make a checklist to track who I've contacted and what steps I've taken. That way, I can see that I'm making progress, even if it feels slow at first.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Preparing questions in advance is a great strategy to boost your confidence in conversations. A checklist to track your contacts and progress will certainly help you stay organized and motivated. As you take these steps, how would you like to celebrate your achievements along the way, even the small ones? Recognizing your progress can keep you encouraged on this journey.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Celebrating sounds like a good idea, even if it's just small things. Maybe I can treat myself to my favorite snack or take a break to do something I enjoy, like watching a movie or going for a walk. That way, I can acknowledge the work I'm putting in and keep myself motivated to continue.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to start research and make contacts within a specified timeline. They have considered potential barriers, such as initiating contact, and proposed strategies like preparing questions and creating a checklist to monitor progress. They have also identified ways to celebrate small achievements, indicating readiness to proceed. Given these factors, the client is demonstrating commitment and taking steps toward their goal, suggesting readiness to advance to the Terminating phase. The collaborative nature of developing this plan and addressing potential challenges effectively supports the client's confidence and motivation.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Those are wonderful ways to celebrate your progress and keep your spirits high. Treating yourself to a favorite snack or taking a break to enjoy activities you love are excellent ways to acknowledge your efforts. You've built a thoughtful plan with concrete steps and meaningful rewards, which will definitely support your journey. It's inspiring to see your commitment to finding a program that suits you best. Keep trusting in your efforts and adaptability, and remember, I'm here to support you as you move forward. Keep me updated on your progress, and take it one step at a time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Thanks, I really appreciate your support and guidance. I'll definitely keep you posted on how things go. Here's to taking it one step at a time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete plan with specific steps, a timeline, and strategies to overcome challenges. Celebratory steps are in place, showing readiness to implement their plan. The session can naturally conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: The only college that I applied to rejected me\nI (19) got rejected after applying to an engineering school that I really wanted to go to. This school also has a high acceptance rate. I slowly got sick and tired of going to a community college and I finished and I want to transfer but I’m afraid that it’s too late to apply to other colleges. If this college (with its really high acceptance rate) openly rejects me, then it’s over when it comes to my hopes of going to college.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

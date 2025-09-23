@@ -1,0 +1,188 @@
+{
+  "id": "wmrrqf",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you today? Is there anything on your mind that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright. I've just been thinking a lot about my course load for the next semester and whether adding another class is a good idea. It's kinda been stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing a course load can definitely feel overwhelming. What is it about adding another class that's causing you stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess I'm just worried about whether I can handle the workload and still do well in all my classes. Plus, I want to make sure I have time for myself and other commitments.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the importance of maintaining your academic performance while also ensuring time for personal commitments. What has helped you manage your workload in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I usually try to stay organized with a planner and set a schedule, but sometimes things still pile up. Having a routine helps, but I'm not sure if it'll be enough with more classes.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their concern about balancing their course load and maintaining personal well-being. They've provided context about past strategies for managing stress and the dilemma of adding more classes. There is a clear understanding of the client's thoughts and feelings. This foundation allows us to move toward the Guiding phase to strengthen motivation and evoke Change Talk. Feedback: The exploration phase effectively established rapport and elicited important context about the client's experiences and concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Staying organized with a planner and having a routine seems to support you, even if things sometimes get hectic. What would it look like if you could balance the extra class while still honoring your need for personal time and commitments?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it would mean being really disciplined with my schedule and maybe being okay with not having as much free time. I'd have to be more efficient with my study sessions and maybe be willing to let go of some social activities if needed. But I'm not sure if I'm ready to make that trade-off.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling unsure about making that trade-off indicates how much you value both your academic success and personal time. On a scale from 0 to 10, how confident do you feel about managing this balance if you decide to take on the extra class?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Hmm, I'd say I'm maybe around a 5 or 6. I think I could probably manage it, but there's definitely some doubt about whether I'd handle it well without burning out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Balancing these priorities is important to you, and it's understandable to have some doubt. What might help move that confidence level from a 5 or 6 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe if I had a clearer plan or some strategies for managing my time better, I'd feel more confident. Also, hearing from others who've handled similar course loads successfully might give me some reassurance or tips.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed ambivalence about taking on an additional class and identified potential strategies to improve confidence in managing the workload. A confidence level of 5 or 6 was indicated, suggesting some readiness but still uncertainty. Change Talk is present, focusing on the need for a clearer plan and learning from others. The client hasn't clearly specified a change goal or next step yet, and there's more room to explore how to bolster their confidence and solidify their decision-making process.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Creating a clearer plan and learning from others' experiences could indeed boost your confidence. It's great that you're seeking strategies and support. Reflecting on your strengths, what do you think you could bring to this challenge to help make it work for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I think I'm pretty good at staying organized and being disciplined when I need to be. I'm also good at asking for help when I'm struggling, so I guess I could lean on those strengths to tackle the extra workload.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific strategies for managing workload and acknowledges both their strengths and areas for growth. They expressed a confidence level of 5 or 6 with room for improvement. They articulated a clear change goal of creating a plan and seeking advice from peers. Given the presence of change talk, decreased ambivalence, and a focus on actionable steps, it is appropriate to move to the Choosing phase to develop a concrete plan. OARS feedback: The use of confidence rulers and open questions helped deepen the client's self-reflection and readiness to create a plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Considering your strengths in organization, discipline, and seeking help, you have a solid foundation to build upon. To create a plan, possible options include setting specific study times in your planner and reaching out to peers or mentors who have managed similar workloads for advice. What do you think about starting with these steps, and is there anything else you'd like to incorporate into your strategy?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good start. I think setting specific study times would help me stay on track, and talking to peers or mentors could give me more insight into what to expect. Maybe I could also check in with myself regularly to see how I'm handling it and adjust if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Having regular check-ins with yourself sounds like a proactive way to ensure everything is on track and make adjustments as needed. So, an action plan could include setting specific study times, seeking advice from peers or mentors, and scheduling regular self-check-ins. How frequently would you like to have these check-ins, and how would you like to monitor your progress with this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I think having weekly check-ins could work, just to see how I'm doing and if I need to tweak anything. For monitoring progress, maybe I could keep a short journal or notes on my phone to track how I'm feeling about the workload and if there are any specific areas where I'm struggling. That way, I can notice any patterns and make adjustments.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Writing a weekly journal or notes on your phone is a practical way to track your feelings and identify patterns in your workload management. To summarize, your action plan includes setting specific study times, seeking advice from peers or mentors, scheduling weekly check-ins, and keeping a journal to monitor your progress. How do you feel about committing to this plan, and is there any support you might need to get started?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about committing to this plan. It feels manageable and like it could really help. I might just need some accountability, like maybe checking in with someone else, to make sure I stick to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist have collaboratively developed a clear and concrete action plan to manage the additional class workload. The plan includes setting study times, seeking advice from others, scheduling weekly check-ins, and tracking progress through journaling. Barriers such as potential stress and workload management have been addressed, and the client has shown commitment to the plan and confidence in their strengths. The client has also identified a need for accountability, which shows readiness to implement the plan. Therefore, it is appropriate to move to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Having an accountability partner is a great idea to help you stay on track and committed to your plan. It's wonderful to see you feeling positive and ready to take on this challenge with clear steps in place. As you move forward, remember that reaching out for support is a strength, and you've already got a solid framework to guide you. Keep in touch with your accountability partner and take things one step at a time. You've got this! If you ever need to talk or adjust your plan, I'm here to support you. Take care, and I look forward to hearing about your progress.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks! I'm feeling pumped to get started on this. I'll definitely keep your offer in mind if I need to chat or make some changes along the way. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively covered goal setting, planning, and coping strategies. The client has a clear action plan and accountability support, meeting termination criteria. Encouraging the client's proactive approach was effective, reinforcing their commitment.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Is 18 units doable or worth it?\nI have 15 units for this upcoming fall semester and I want to add one more class to make it 18. I initially had 18 units, but I dropped one class because I felt it was too much; however, I kind of have to cram some classes in so I was wondering--is 18 units doable or worth it? will it be too stressful, or does it depend on individual experience based on class difficulty, the professor, etc? if anyone here has taken 18 units in one semester, what was it like for you?\n\nalso I am trying to transfer from a community college to a university, so I still have some required classes to complete that's why",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

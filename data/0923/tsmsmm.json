@@ -1,0 +1,167 @@
+{
+  "id": "tsmsmm",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been going on in your life recently that you'd like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling kinda stressed about school stuff lately. I tried taking a day off from studying, but I just ended up feeling really guilty about not working.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and self-care sounds challenging. The guilt you're feeling seems to come from wanting to stay on top of your work. Would you like to share more about what's contributing to this stress?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, I guess I just always feel like if I'm not doing something productive, I'm wasting time. It's like there's always this pressure to be ahead of the game or something, and it's hard to relax even when I know I could use the break.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It can be tough to find time to relax when there's so much pressure to be productive all the time. Feeling like you need to stay ahead might be adding to your stress. Can you tell me more about where this pressure comes from?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm not entirely sure where it all started, but I think part of it is just from seeing how hard everyone around me is working. It's like everyone is always busy, and it makes me feel like I should be doing more too.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed their stress and guilt about taking breaks from studying, revealing a pressure to be productive and the influence of observing others' work habits. The therapist has built rapport and deepened understanding by exploring the client's feelings and context. Empathy and understanding have been established, allowing for a move to the Guiding phase to evoke Change Talk about managing guilt and productivity pressure.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Seeing others constantly busy can certainly add pressure to your own expectations. What would it look like if you were able to relax a bit more, and how might that fit with your goals for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, I think it would be nice to just be able to chill without that nagging voice in my head. Maybe I'd be less stressed and be able to focus better when I actually do get back to studying. It could help with feeling more balanced, I guess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding balance sounds important to you, and it seems like taking time to relax might actually enhance your focus when you study. On a scale of 0 to 10, how confident do you feel about finding a way to incorporate more relaxation into your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I’d say maybe a 5? I mean, I want to be able to do it, but it’s hard to shake off the feeling that I’m slacking when I’m not working. I guess I just need to figure out a way to actually enjoy relaxing without all that guilt hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Making relaxation truly enjoyable without guilt seems like an achievable goal. It's understandable that the feeling of slacking could be a barrier. What small steps might help increase your confidence from a 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe starting with setting specific times for breaks could help, like having a planned time to unwind so it feels more like a part of my routine rather than a random decision. I think trying to remind myself that breaks are necessary might also make a difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of incorporating planned breaks into their routine to reduce stress and guilt associated with relaxation. They have identified the discrepancy between their behavior and the desire for balance and relaxation. Change Talk is present with a confidence level at 5, indicating room for growth but a clear motivation for change. The client has started exploring possible steps to overcome barriers. Moving to the Choosing phase is appropriate to develop concrete action plans. The reflections and open questions effectively guided the client towards identifying specific strategies.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Setting specific times for breaks sounds like a thoughtful approach to making relaxation feel more intentional and guilt-free. As you incorporate these planned times to unwind, what goal would you like to set for yourself in creating this new routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I think my goal would be to stick to a consistent schedule where I have dedicated time for studying and also for relaxing. It'd be great to have a routine that helps me feel productive but also lets me recharge without stressing about it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a routine that balances both productivity and relaxation is a valuable goal. You might consider options like using a planner to outline your study and break times or setting reminders to ensure you stick to your schedule. What do you think would work best for you in maintaining this balance, and are there any potential barriers you'd like to anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I think using a planner could be really helpful, like visually seeing my day laid out might make it easier to stick to. As for barriers, I guess just the habit of wanting to keep working could be tough to break, but maybe having those reminders to take breaks will help me overcome that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "A planner does seem like a practical way to visualize your schedule and maintain balance. Considering the habit of wanting to keep working, setting reminders could indeed be a gentle nudge to help you respect your break times. How would you like to monitor your progress in maintaining this balanced routine, and who can support you in staying accountable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I think keeping a little log of how often I stick to the schedule might help me see how well I'm doing and what needs tweaking. Maybe I could also ask a friend to check in with me every now and then, just to make sure I'm actually following through and not falling back into old habits.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of maintaining a balanced routine with dedicated study and relaxation times. They have also developed concrete action steps, such as using a planner and setting reminders. Potential barriers, like the habit of wanting to continue working, have been anticipated, and a strategy for self-monitoring through a log and having a friend's support has been agreed upon. The client shows readiness to take steps towards their goal and confidence in following through, suggesting they are prepared for the next phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Keeping a log is a wonderful way to track your progress and make any necessary adjustments. It shows your commitment to this new balanced routine. Having a friend check in sounds like a great support system to help keep you accountable. As you begin this journey, remember to be kind to yourself and celebrate the small victories along the way. Your willingness to make these changes is commendable, and I'm confident you'll find a rhythm that works for you. Feel free to reach out for support or adjustments as needed. You're taking important steps toward a healthier balance, and I'm here to support you as you navigate this path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I'll definitely give it a shot and see how it goes. I'll keep your offer for support in mind in case I need to tweak things.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has achieved clarity on goals and strategies for balancing relaxation and productivity, with a plan for tracking progress and external support. The session has effectively addressed the client's primary concern of guilt about not studying.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: guilt about not studying\nanyone else feel weird or guilty for taking a day off studying? i have two projects due within two weeks and i know i can get them done before the deadlines, but i still feel bad about not working on them today. i never really take a break from studying/homework because my brain won’t let me without feeling bad or unproductive. any tips on how to overcome this weird guilt?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "zjjg83",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What brings you in today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I'm just kinda stuck trying to figure out what major to pick. I’ve been in the cooking industry for a while, but I’m not sure if it's what I want to do long-term. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can be a tough decision, especially when you're uncertain about your long-term path. What's been your experience working in the cooking industry so far, and how do you feel about it?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, I've been doing it for about 10 years, and while I'm decent at it and have moved up, it's not something I'm super passionate about. It just feels like the only real skill I have.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you've gained a lot of experience and skills over the years, but there's a sense that something's missing in terms of passion. How does it feel to think about trying something new or different?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): It's exciting and scary at the same time. I mean, I love making music and learning about finance, so the idea of doing something related to those interests is appealing. But I'm also unsure about what that would look like career-wise.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client shared detailed experiences and feelings about their cooking career, expressing a lack of passion despite skill. They have interests in music, finance, and behavioral health but are unsure about fitting them into a career. Empathy and rapport have been established, and mutually agreed goals are appearing as the client seeks guidance on a degree choice. This suggests readiness to move to the Guiding phase to explore motivations and possible career paths.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring new paths can certainly stir up a mix of excitement and fear. When you imagine a future where you're involved in music or finance, what stands out as the most motivating or appealing aspect for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess it's the idea of combining passion with work. Like, finding a way to make a living doing something I love. Being able to apply my creativity in music or understanding of finance feels rewarding.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "The thought of merging passion with work really seems to light up something inside you. What small steps could you envision taking that might help you explore these interests further and see how they align with your career goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I could start by looking into courses or workshops that focus on music production or finance. Maybe I could talk to people who work in those fields to get a better sense of what it's like. I'm also thinking of setting aside time each week to really dive into these interests and see how they fit into a bigger picture.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Diving into courses or workshops and connecting with people in those fields sounds like a great way to explore your interests further. How confident do you feel, on a scale of 0 to 10, about taking these initial steps toward discovering more about music or finance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say around a 6. I feel like I have the motivation, but there's always this fear of the unknown and whether it's the right choice. It feels like a lot to figure out, but it's exciting too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear interest in exploring music and finance, indicating a discrepancy between their current role and desired passion-driven work. They have identified specific steps like taking courses and networking, with a confidence level of 6. Change talk is evident in discussions of pursuing passions. However, some ambivalence remains, particularly regarding fear of the unknown and financial concerns. Continuing in the Guiding phase will allow further exploration of ambivalence and bolster confidence before collaboratively developing concrete plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Balancing excitement and fear is a natural part of exploring new possibilities. It's great to hear that your motivation is a solid 6. What might help increase your confidence from a 6 to, say, a 7 or 8 in taking these steps towards exploring music or finance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having a bit more clarity about what each path could realistically lead to would help a lot. Maybe if I set some small, achievable goals and hit them, it would boost my confidence. Also, hearing success stories or advice from people who've been in my shoes might give me a better sense of direction and reassurance.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in music and finance, and has identified some potential actions: exploring courses, networking, and setting small goals. The client also expressed a confidence level of 6, with a desire to increase it through clarity and achievable goals. Change Talk is present regarding merging passion with work, and ambivalence appears to be decreasing. The client is moving from exploring possibilities to considering actionable steps. Therefore, this readiness indicates that it's appropriate to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating small, achievable goals is a wonderful strategy to build confidence. In terms of action steps, you might consider options like setting up informational interviews with people in music production or finance, or maybe identifying one specific course to start with. How might these options fit into your plan, and what would be a realistic first goal for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting up informational interviews sounds like a cool idea. I could reach out to people in those fields through social media or networking events. As for courses, maybe I could start with an online class in music production since it's flexible and I can do it alongside my current job. A realistic first goal would be to commit to finishing that course and setting at least one informational interview in the next month.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Committing to an online class in music production and arranging a couple of informational interviews sounds like a solid plan. You're setting yourself up with achievable steps that can lead to greater clarity and direction. What potential challenges do you anticipate, and how can you navigate them to keep progressing toward your goals?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I think the biggest challenge might be managing my time, especially with work and everything else going on. Also, there's always that fear of not being good enough or making the wrong choice. To navigate that, I guess setting a schedule and sticking to it will be key. Maybe I can also remind myself that it's all part of the learning process and that it's okay to not have it all figured out right away.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a schedule and reminding yourself that it's a learning process sounds like a wise approach. It's perfectly normal to have those doubts, and by sticking to your plan, you'll gradually gain more confidence and insight. How do you feel about checking in on these goals in a month to see how things are progressing and discuss any adjustments if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. Having a check-in will keep me accountable and give me a chance to reflect on what’s working or if I need to tweak anything. Plus, it’ll be nice to have some support and guidance as I navigate this new territory.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set a clear goal to take an online music production course and conduct informational interviews in the finance field. They've identified time management and self-doubt as barriers and have plans to schedule their activities and remind themselves that learning is a process. The client also agreed to a follow-up in a month to assess progress and make any needed adjustments, indicating commitment and readiness to take action. This solid planning and self-awareness suggest readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It's truly inspiring to see you taking these thoughtful steps towards your passions. Setting up that online class and planning those informational interviews are fantastic moves. Managing time and facing self-doubts are common hurdles, but your strategy to stay organized and embrace the learning journey shows great resilience. Checking in next month will be such a valuable time to see your progress and recalibrate if necessary. Remember, you're not alone in this—support and guidance are always here for you. Keep trusting your process, and with every step, you're moving closer to where you want to be.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the support. I'll try to stay focused and see where this path takes me. Looking forward to checking in next month.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established clear initial goals and coping strategies, such as setting a schedule to manage time and embracing the learning process. A next-step plan, including a check-in, has been discussed, making this a natural stopping point.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: help me pick major?\nA bit about me. When I was 18 i took a dishwashing job at a local nursing home. It was my first job. I ended up becoming a cook and have bounced around from cook job to higher paying cook job. It's all ive ever done. Im decent at it. Ive learned and covered alot of kitchen management aspects along the way as well. It's been 10 years now. I dont love it, but it really feels like my only applicable skill.\n\n\nI have dabbled in college courses along the way but i always get swallowed into the fast cash of overtime at a new higher paying job. So ive never truly commited. Now, i feel like its either sht or get off the pot and im not sure what i should truly pursue a degree in.\n\n\nI spend all of my free time making music, its a huge passion and hoby for me that has landed me a few really nice paychecks but betting everything on that would be insane. other than that i spend my time reading self help books and learning different aspects of finance.  \n\n\nMy gf has asked me to join her in the medical field but it doesnt peak any interest. My buddy has always told me i'd be great at what he does in the behavioral health field and that does sound super interesting and purposeful to me but i havent done enough of it to know.\n\n\nI feel like im looking for something that could umbrella a career and all of my interests. Like, maybe a degree that would require me to learn skills that can be applied to music and personal finance like some type of management or accounting thing. Even then, ive never really met an accountant that made enough money to just be an accountant. \n\n\nDoes anyone have any pointers?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

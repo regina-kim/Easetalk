@@ -1,0 +1,167 @@
+{
+  "id": "u3f9jw",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? If you'd like, we can talk about what's been on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, just feeling a bit burnt out after all the midterms. I feel like I'm not managing my time well and it's affecting both my studies and personal life.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Midterms can be really overwhelming. You're feeling burnt out because it seems like balancing your studies and personal life has been challenging. What has your experience been like with managing your time so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Honestly, it's been a bit chaotic. I try to plan, but somehow there's always more to do than I can handle, and I end up rushing or staying up late. It feels like I'm always playing catch-up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing everything can definitely feel overwhelming. You're experiencing chaos because there's a sense of constantly trying to catch up and not having enough time. Have you noticed any specific times or patterns when this tends to happen more?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it usually gets worse closer to exams or when there's a bunch of assignments due at once. It's like I don't realize how much I have to do until it's right on top of me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their experiences and feelings about the stress and time management challenges during midterms. They have also expressed a desire for change and improvement in managing their college life. The counselor has actively listened and reflected on the client's concerns, establishing rapport. The client’s context, such as being a freshman and a commuter, is well-understood, setting the stage to explore motivations for change. Moving to Guiding can help deepen their motivation and evoke change talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds really intense, especially around exams and deadlines. You're recognizing that things pile up unexpectedly, creating a lot of pressure. Thinking about how this affects you, what changes, if any, do you imagine might help align your studies and personal goals better?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think having a more structured plan could help, like setting smaller weekly goals instead of just focusing on big deadlines. Also, maybe finding time for breaks or activities I enjoy so I don't feel so drained all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Creating a structured plan with weekly goals and incorporating enjoyable activities seems like a positive way to reduce feeling drained. How might achieving these changes impact your stress levels and overall balance in life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): If I manage to stick to a plan and make time for things I enjoy, I think I'd feel less overwhelmed and more in control. It'd be nice to actually have some energy left for myself and not just schoolwork.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It seems like envisioning this change brings a sense of hope and control. Feeling less overwhelmed and having energy for yourself could really enhance your quality of life. On a scale from 0 to 10, how confident do you feel about starting to implement these changes in your routine?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 or 7? I'm optimistic about trying something new, but I'm also a bit worried about slipping back into old habits, especially with the commute still being a factor for now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expressed a desire for change through specific goals, such as creating a structured plan and incorporating enjoyable activities. They identified a discrepancy between their current and desired states, feeling overwhelmed versus being in control. The client rated their confidence at 6 or 7, indicating a readiness to consider change. Ambivalence is addressed as they envision positive outcomes from their proposed changes. The conversation effectively used OARS to explore and support the client's ideas and concerns. It's appropriate to advance to the Choosing phase to collaboratively develop action plans and strategies for managing anticipated barriers, like commuting.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating a plan that considers your commute and helps prevent slipping back into old habits is a great idea. Based on what you mentioned, possible options could include setting specific times in your week for planning or using a planner app to track your goals. What steps do you feel ready to try first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with setting specific planning times during the week sounds doable. I can try using a planner app to keep track of my assignments and progress. Maybe setting some reminders for breaks could help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Using a planner app and setting specific planning times sounds like a practical start. Scheduling reminders for breaks is also a great way to ensure you take time for yourself. What will help you monitor your progress and stay motivated as you begin taking these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I guess checking in weekly to see how I'm doing with my goals could help. Maybe I could keep a little journal to jot down how I'm feeling or any successes I have—that might keep me motivated. Plus, talking about it here with you could also keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having a weekly check-in and keeping a journal to capture your feelings and successes sounds like a solid plan. Additionally, discussing your progress during our sessions can definitely provide support and encouragement. What might be some barriers you anticipate, and how could you prepare to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think the biggest barriers would be procrastination and getting caught up in last-minute rushes. The long commute also drains me, making it hard to stick to my plans if I'm exhausted. Maybe I could prepare by setting smaller deadlines before the actual ones and trying to use commute time for something productive, like reviewing notes or listening to educational podcasts.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal with a concrete action plan, including using a planner app, setting specific planning times, scheduling reminders for breaks, and having weekly check-ins with a journal. Barriers such as procrastination and exhaustion from the commute have been discussed, with strategies like setting smaller deadlines and utilizing commute time productively being proposed. The client has expressed commitment to these steps and has a self-monitoring plan in place. The confidence level is reasonably high, indicating readiness to advance. Transitioning to the next phase would allow for consolidating these efforts and monitoring progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "You've really identified some practical steps to tackle those barriers. Setting smaller deadlines and using commute time productively are proactive strategies that could make a significant difference. It's wonderful to see your commitment to staying on track. Remember, these adjustments are about finding what works best for you, and it's okay to tweak your approach as needed. I'm here to support you, and we'll keep discussing your progress in our sessions. Keep taking those small steps forward, and don't forget to be kind to yourself along the way. You're making meaningful strides in aligning your studies with personal well-being, and that's something to be proud of.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for your support and encouragement. I'll definitely give these steps a try and see how it goes. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "Termination goals have been met: the client has a structured plan with weekly check-ins and coping strategies for time management and energy conservation. The next steps have been discussed, and the client feels encouraged and supported.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Just finished the last midterm! I'm exhausted\nFinally after almost a whole week of exams. However, I think I'm doing something in the wrong way. I'm a Freshman engineering student just for context. \n\nI work hard and put so much time for college which may seem perfect. However, I'm always late in classes and midterms come while there is a ton I still have to study. Its exhausting because I dont get time to have fun and spend with my family. What's making me tired is what I achieve compared to the time and effort I put. \n\nI want to enjoy college and life and have the opportunity to finally understand what I'm learning not only for tests. Now that midterms are over, I'm looking for a new approach for college so I dont repeat the loop all over again.\n\nI'm very excited to hear your tips and thoughts.\n\nThings to put in consideration is that I'm a commuter. Commute to and back from college take about 2.5~3 hours daily + making me tired. Note, next year's commute is gonna be way shorter due to change of campus.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

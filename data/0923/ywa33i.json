@@ -1,0 +1,167 @@
+{
+  "id": "ywa33i",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It's great to have you here. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I've just been feeling a bit overwhelmed with all the school stuff and wondering if it's all worth it, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing school and life can really weigh on someone. It sounds like you're feeling a lot of pressure and questioning the value of it. Can you share a bit more about what's been overwhelming for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, it's just that I feel like I've spent so many years studying and there’s so much more ahead. I guess I'm worried that by the time I'm done, I’ll have missed out on a lot of the fun and carefree parts of being young.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're caught between the demands of your studies and the desire to enjoy your youth. The thought of missing out on those experiences can be really tough. Could you tell me more about the things you feel you might be missing out on?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I guess it's the spontaneity and freedom that I see others having. Things like traveling, trying new hobbies, or just spending time with friends without the constant stress of assignments hanging over me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploring phase effectively captured the client's story, feelings of pressure, and internal conflict between educational demands and the desire for youthful experiences. We've achieved a strong understanding of her concerns and built rapport through empathetic reflections, affirmations of her feelings, and an open dialogue. Her thoughts and concerns about missing out have been adequately explored, suggesting readiness to guide her towards motivation for change.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be challenging to feel that pull between responsibilities and wanting to embrace life's spontaneous moments. What do you think life might look like if you were able to find a balance between school and those experiences that matter to you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "If I could find that balance, maybe I'd feel less stressed and more fulfilled. I'd love to have time to travel, explore new interests, and just have fun with friends without always worrying about school deadlines.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding that balance does seem important to you, and it's great to hear how much you value those life experiences. Reflecting on this, what small steps do you think you could take to start moving toward that vision of a more balanced life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by setting some boundaries with my study time, like not letting it take over my weekends. Maybe I could plan one fun activity every week to look forward to, just to help me unwind a bit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating those boundaries sounds like a wonderful start. Planning weekly activities could definitely add some joy and relaxation to your routine. How confident do you feel, on a scale from 0 to 10, about making these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say maybe a 6 or 7. It's definitely something I want to do, but I can see myself slipping back into old habits if I’m not careful. It’s just hard to break the cycle when there's always so much to juggle.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their desire for a balanced life and the current overwhelming focus on school. They’ve explored the potential positive impact of change and have articulated a specific goal of setting boundaries and planning weekly activities. Confidence is moderately high at 6-7, and the client shows readiness to try new strategies to balance responsibilities and joyful experiences. This indicates progress toward the Guiding phase goals, with a decrease in ambivalence. Adjusting focus on consistent support for maintaining new habits in the Choosing phase is advised.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It's understandable to feel both determined and cautious about creating this change. Perhaps developing a more detailed plan could help solidify your commitment. Based on what you've shared, possible options might include setting specific hours for study and leisure, or even creating a visual schedule to balance your commitments and relaxation time. What steps do you think you could take to reinforce these changes and boost your confidence?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having a visual schedule could really help keep me on track. Maybe I can start by setting specific study hours each day and actually penciling in time for myself to do something fun. It might also help to have a buddy who can keep me accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Those sound like great steps toward creating a balanced life. Having a visual schedule and an accountability buddy could really make a difference. To get started, perhaps you could decide on a day to create this schedule and think about who might be a supportive buddy. How does that sound, and are there any potential barriers you might anticipate in implementing this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds good. I think I could set aside some time this weekend to make the schedule. For a buddy, maybe one of my close friends who's also in school could help. The main barrier might be unexpected assignments or projects that throw off my planned schedule.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Using the weekend to create your schedule and reaching out to a friend for support seems like a solid strategy. It's great that you're considering potential barriers, like sudden assignments. You might find it helpful to include some buffer time in your schedule to handle these surprises. How do you feel about checking in next week to see how everything is going and discuss any adjustments if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a good idea. I think checking in will help me stay accountable and figure out what's working or not. It'll be nice to have someone to talk to about it and maybe get some advice if things don't go as planned.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan that includes creating a visual schedule, setting specific study hours, and involving an accountability buddy. They have also identified potential barriers, such as unexpected assignments, and discussed strategies like incorporating buffer time. The client expressed a readiness to start implementing these steps and agreed to a check-in for self-monitoring. They show commitment and confidence, indicating readiness to move forward. The Choosing phase has been effective in establishing a concrete plan and fostering self-monitoring. Continuing will be beneficial to ensure these steps are enacted and adjustments are made as needed.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's really encouraging to hear your enthusiasm for setting this plan into motion and the idea of having regular check-ins sounds very supportive. Creating a buffer time for unexpected tasks is a smart strategy, and having a friend alongside your journey can make it more enjoyable and manageable. As we wrap up today, you've identified setting aside time this weekend to draft your schedule and reaching out to a school friend for support as your immediate steps. Keep these plans flexible, and remember, it's okay to adjust as you go along. I'm here for you, and I'm looking forward to our check-in next week. You're taking wonderful steps toward a balanced and fulfilling life, and I'm confident you can make it happen.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate that. I'll try to work on the schedule this weekend and reach out to my friend. I'll see you next week to talk about how it’s going!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear plan for creating balance, including a visual schedule, accountability, and managing barriers. They are prepared to implement and review their strategy, meeting termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Years and years of school feels like a waste of my youth\nI’m 24 year old female. I took a while to do 75 credits of college plus did a 9 month “lds” mission (ew) and took a year off. \n\nas a philosophy major I’ll graduate and do more schooling. I knew that when I was younger going into it. Now? … I feel like my most reproductive, pretty years of my life will go to finding a way to support myself financially. \n\nIt just kinda feels like a waste of my youth",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

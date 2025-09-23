@@ -1,0 +1,209 @@
+{
+  "id": "t8lio9",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you here today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "I've been feeling pretty lost about my degree and what I should be doing with my life. I've changed majors a couple of times and I'm still not sure if I've found the right fit. ",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling uncertain about something as significant as your degree. What aspects of your current major are making you question if it's the right fit for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess I'm just not excited about the career paths that seem to follow from it. They don't seem to align with what I really want to do, which is work on stuff that genuinely helps people.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're searching for a path that truly resonates with your desire to make an impact. What are some areas or types of work that you feel passionate about and believe could help people?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I've been thinking that maybe engineering or software development could be a way to create solutions that have a real-world impact. But I'm not entirely sure since I don't have much experience there yet.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of uncertainty regarding their degree and desire to pursue work that genuinely helps people. The client has identified potential interests in engineering or software development as paths that align more closely with their values. Empathy and rapport have been built, and the client's underlying motivations have been well-articulated. We can now move to the Guiding phase to strengthen motivation and evoke Change Talk. OARS feedback: The exploration successfully captured the essence of the client's story and highlighted their values, creating a solid foundation for the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring new fields like engineering or software development shows your desire to create meaningful changes. What aspects of these fields excite you about making a positive impact, and how do you see them aligning with your values and goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think it's the idea of problem-solving and creating things that can improve lives. Like, developing a piece of technology or infrastructure that makes daily tasks easier or more accessible for people. That sounds fulfilling to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "The thought of solving problems and creating accessible solutions really seems to resonate with you. How do you envision your life changing if you pursued this path, and what personal values do you feel it would fulfill?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think I'd feel more satisfied knowing my work has a direct positive effect on people's lives. It aligns with my value of helping others and feeling purposeful in my career.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Fulfilling your desire to help others and find purpose through your work sounds deeply motivating. On a scale from 0 to 10, how confident do you feel about pursuing this career path in engineering or software development, and what might help increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, maybe like a 4 or 5 right now. I think getting some more information and maybe talking to people in those fields would help me feel more sure about it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed motivation towards pursuing a career that aligns with their values of helping others, but their confidence level is still at 4 or 5. They mentioned specific actions, like seeking information and speaking with people in engineering or software fields, which indicates a readiness to explore next steps. However, their confidence needs to be strengthened further. Continuing in Guiding would be beneficial to explore confidence-building strategies and solidify commitment before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Gathering more information and insights from people in the field could definitely bolster your confidence. What steps could you take to learn more about these careers and connect with professionals who might offer valuable perspectives?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I could try reaching out to alumni or professors who have experience in these areas to get their take on it. Maybe I could also attend some workshops or seminars to get a better feel for what these fields are really about.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly articulated a discrepancy between their current path and their values of helping others, showing change talk about exploring engineering or software. They've considered the impact on their life changes and expressed a goal to gather more information to increase confidence. However, their confidence is still low (4 or 5), signaling the need for more exploration and strengthening motivation. Continuing in Guiding would provide opportunities to explore further, boost confidence through more specific goal setting, and address remaining ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): That sounds like a proactive way to gather more insight and understand these fields better. How do you feel about taking these steps, and what might be the first one you’d like to try?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I feel pretty good about it, like it's something manageable I can do. I think I'd start by emailing some professors, see if they can recommend any events or people to talk to.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown motivation to explore new career paths that align with her values of helping others and finding purpose, indicating readiness for the Choosing phase. She has identified concrete steps to increase her confidence, such as reaching out to professors and attending events, which can support her career transition. Her confidence level is currently at 4-5, but she is proactive about improving it. These signals suggest readiness to collaboratively develop specific action plans. The use of open questions and reflections encouraged the client to articulate her values and potential steps, setting a foundation for detailed planning.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Reaching out to professors sounds like a great first step. As you begin this journey, setting a specific goal could be helpful. Would you like to aim for contacting a certain number of professors this week? Also, what potential challenges do you foresee, and how might you address them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting a goal like contacting two or three professors this week sounds doable. A potential challenge might be not getting responses or being unsure of what questions to ask. I guess I could prepare some specific questions ahead of time and maybe ask for recommendations on who else to contact if they can't help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Setting a goal to contact two or three professors this week sounds achievable and focused. Preparing specific questions can indeed help guide your conversations and make them more fruitful. If you encounter non-responses, asking for further recommendations is a smart backup plan. How do you feel about setting aside some time each day to craft those questions and draft your emails? And how might you plan to monitor your progress and adjust if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(choosing): Setting aside time each day sounds smart; I could probably spend some time each evening working on it. For monitoring progress, I'll keep track of who I contact and what responses I get, and then adjust my approach if I'm not getting the info I need.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Creating a routine of working on your emails each evening is a structured approach, and tracking your contacts and responses will help you stay organized. If you find you're not receiving the information you need, you can refine your questions or explore additional contacts. How do you feel about revisiting this plan together soon to see how things are progressing and to brainstorm any further steps if needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think checking in again would be really helpful. It'll give me a chance to see what's working and what needs tweaking. Plus, it's nice to know I have someone to talk it through with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and action plan to reach out to professors, set daily routines for crafting emails, and plans to track responses. Potential barriers such as non-responses have been anticipated, and strategies like preparing questions and seeking further recommendations have been discussed. The client expressed commitment and confidence in monitoring progress, indicating readiness to advance. OARS feedback: The use of open questions to explore the client's motivations, affirmations to validate their proactive steps, and reflections to deepen the action plan were effective in reaching this point.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "I'm really glad to hear that having a check-in sounds supportive for you. As you begin reaching out and gathering insights, remember you're taking meaningful steps towards understanding your career path. Setting aside daily time for this shows dedication and will likely pay off. Keep tracking your progress, and don't hesitate to adjust your strategy as you learn more. Let's plan to touch base soon to discuss how things are going and explore any additional steps. You're doing a fantastic job moving forward, and I'm here to support you along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, that makes me feel a lot better about all of this. I really appreciate having someone to bounce ideas off of, and I look forward to checking in soon.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a solid plan with specific steps, goals, and coping strategies to explore career options. A check-in is planned for further support, fulfilling termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I've changed my degree twice now and have no idea if I should keep my current one!! Any advice is helpful 😭\nI'm in my last semester of my Associates. I was a Music major which I quickly realized was a mistake I don't really like the formality and composition and you don't really need a degree to play stuff you enjoy. I decided Education would be good I've always loved Mathematics, but as I started to do it I realized I like playing with the formulas and solving the problems more than teaching the concepts to people, so I changed to just Mathematics. Now as I'm looking at possible careers when I (eventually) get my Master's , they just don't really interest me, they seem to deal with more financial things that primarily benefit the private company rather than people. I really want to be able to continuously work on stuff that helps people, I don't want my name on it or anything like that, but I just want to know what I'm doing is benefitting people. So I thought maybe an engineering degree, even software engineering, though I have no knowledge of how that works. Basically, should I stick with what I'm doing? Maybe minor in computer science to give myself an advantage trying to get into a software engineering program? What are my options? If anyone has any info anything is appreciated 🙏",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "11ea8ve",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello, and welcome! Feel free to share what’s on your mind or anything you’d like to talk about today. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks. I've just been feeling pretty anxious about group work in my classes. It's tough when we have to pick our own groups, and I worry about ending up with people who don't really contribute.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Group work can be really challenging, especially when you're concerned about who you'll be working with. It sounds like you're feeling anxious because you want to ensure everyone contributes equally. How do you usually handle these situations when they come up?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Usually, I try to reach out to classmates I know a bit, but it doesn't always work out how I hope. Sometimes I end up doing more of the work, which is frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must be frustrating to feel like you're carrying more of the load than you should. You try to connect with classmates you’re familiar with, but it doesn't always go as planned. How do you feel when you find yourself in that position?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: It's really stressful, honestly. I feel like I'm stuck trying to keep things together while worrying about my own grades, and it just makes me dread group projects even more.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has openly shared their anxiety and frustration about group work and provided insights into their feelings and experiences. The therapist has effectively used reflection to validate the client's feelings and encouraged deeper exploration of the issue. While some understanding of the client's situation has been reached, the client’s underlying motivations, values, and potential goals remain to be thoroughly explored. Therefore, continuing in the Exploring phase is necessary to further build rapport and fully understand the context before moving on to strengthen motivation for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Facing that kind of stress and worry about both the project and your grades is really tough. It seems like the anticipation of managing everything is adding to your anxiety about group work. What do you think might help ease some of this stress when these situations arise?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I guess if I knew that everyone was going to pull their weight, it would definitely help. Maybe if professors assigned the groups, it would feel more balanced, you know? ",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their anxiety about group work and provided insight into their frustrations and feelings of dread. They have also expressed thoughts on how the situation could be improved. While empathy and rapport have been established, and the client's perspective is clear, the goals of Exploring have been met. The conversation is ready to move to the Guiding phase to explore motivation and potential changes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Having professors assign groups could certainly create a more balanced dynamic and ease some of your concerns. You're clearly thinking about ways to make these experiences less stressful for yourself. On a scale from 0 to 10, how confident do you feel about approaching your professors to discuss this idea?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client: Maybe like a 4 or 5? I'm just not sure how to bring it up without sounding like I'm complaining or making excuses.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Your concern about how it might come across is understandable. It's great that you're considering speaking with your professors to create a more balanced experience. It shows your commitment to both your learning and collaboration. What would it take for you to feel more confident, say moving from a 4 or 5 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client: Maybe if I had a clearer way to explain how group assignments could help everyone, not just me. Hearing other students agree could also boost my confidence a lot.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Having a clear explanation and support from peers sounds like it could really strengthen your confidence. It's great that you're thinking about the broader impact on everyone, not just yourself. How might you go about gathering input from other students to see if they share your perspective?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I could try bringing it up casually during class or maybe even posting on a class forum or group chat to see what others think. If I find that others feel the same way, it might make it easier to approach the professor together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of discussing group assignments with professors and has shown a clear strategy for gathering peer support, indicating progress in motivation and planning. Change Talk is present in their desire to reduce stress and improve collaboration through assigned groups. Confidence remains at 4-5, but the client identified pathways to increase it, suggesting readiness to explore specific actions. Move to the Choosing phase to develop concrete steps and strategies for overcoming barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "That sounds like a solid plan. Engaging with your classmates either casually or through a forum could provide valuable insight and support. Which option do you think you might start with, and how do you envision taking the first step?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think I'll start by casually chatting with a few classmates I feel comfortable with. Just to get a sense of what they think. Then, if there's enough interest, maybe I'll suggest posting in a group chat to broaden the conversation.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Starting with casual conversations is a thoughtful approach. It allows you to gather individual perspectives comfortably. As you consider this, what steps do you see yourself taking to ensure these discussions are productive, and what potential barriers might you anticipate?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): client(choosing): I think just being open and honest about my own struggles might encourage others to do the same, which could make the discussions more productive. As for barriers, I guess people might be hesitant to speak up or might not care enough to engage.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Being open and honest can indeed set a positive tone for others to share. It's insightful to recognize that barrier of hesitation or disinterest. To address that, what strategies could you use to encourage engagement and overcome any reluctance you might encounter?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client: Maybe I could highlight how it would benefit everyone, like less stress and more balanced work. I could also try to make it clear that it's not about blaming anyone, just trying to find a better solution for all. Maybe even start a convo about past group experiences to get people talking.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, including starting conversations with classmates and potentially posting in a group chat. Barriers such as hesitation and disinterest have been discussed, with strategies to emphasize collective benefits and begin conversations about past experiences. The client is committed, showing readiness to take steps and has articulated confidence-building strategies. Given these developments, moving to the Terminating phase is appropriate. OARS feedback: Excellent use of affirming the client's thoughtful approach and complex reflections to explore strategies for overcoming barriers.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Highlighting the benefits for everyone is a great way to foster interest and openness. Setting a non-blaming tone and sharing past experiences can be a comforting way to engage others. It's wonderful to see your consideration for creating a supportive environment. As we wrap up today, let's summarize your goals: you're planning to reach out to classmates for initial input with a focus on open discussion and collective benefits. Your action steps include starting conversations and possibly posting in the group chat. For coping strategies, staying open and maintaining a non-blaming approach will be key. Remember, you're taking a proactive step towards a more balanced experience. Keep trusting yourself, and know that I'm here to support you in this journey. Let's plan to check in on how these conversations go and explore any further steps together. Take care!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid summary. I'll give it a shot and see how it goes. I'll keep you posted on any progress or challenges. Appreciate your support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals, steps, and coping strategies, and established a plan for next steps. The client is prepared to engage classmates about group work concerns, showing readiness to proceed independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Professors who let students pick their own groups, why?\nI hear that the purpose of group work is about learning to work with others but doesn't choosing your own groups go against it? In 2023 most students don't come to class that often bc you can easily work from home with all the materials on the internet/ recorded lectures/ slides. Most who \"work\" from home are \"slackers\", but a big amount of us have found that working from home mostly suits us better. I love my life both personal and academical rn. UNTIL CHOOSE YOUR OWN groups COME. Then I get anxious 4 a week trying to run to those I kinda was friends with but I usually end up in the same group as slackers who never show up at school nor do school from home until the day before or never. If professors chose our groups I feel like it will be evened out. So just wanna know the reason y some proffesors don't bother?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

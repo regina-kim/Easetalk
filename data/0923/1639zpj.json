@@ -1,0 +1,188 @@
+{
+  "id": "1639zpj",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and help you feel comfortable sharing your story. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for having me. I’ve been feeling a bit overwhelmed and anxious about my current PhD situation and trying to figure out how to transition to a university in the U.S. where I can actually pursue my research interests.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, juggling the pressures of your PhD and the desire to move to pursue your passions. What has the experience been like for you so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "It's been pretty stressful, to be honest. I feel like I'm racing against time to correct my past mistake and find a place where I truly fit in academically.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a lot of stress, feeling pressured by the need to find the right academic environment. Tell me more about how this pressure affects you day-to-day.",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Every day feels like I'm on edge, constantly worried about whether I'm making the right decisions or if I'm just repeating past mistakes. It's hard to focus on anything else sometimes.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared significant aspects of their story, including feelings of stress, pressure, and their desire to transition to a U.S. university. The client has expressed concerns about past mistakes and their efforts to correct them, showing vulnerability and a desire for change. However, there is room for deeper exploration of the client's emotions and their strategies for handling these pressures daily. Continuing in the Exploring phase will help solidify rapport and fully understand the client's context and motivations before transitioning to guiding strategies for change.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like the uncertainty and fear of repeating past mistakes are really weighing on you, making it difficult to concentrate on other aspects of your life. How do you usually cope with these feelings on a daily basis?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I try to distract myself by diving into research papers or talking to potential advisors, but sometimes it just feels overwhelming. I'll also go for a walk or chat with friends, but the worry is always there in the back of my mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully elicited the client’s story, revealing the stress and anxiety related to their PhD situation and desire for change. The therapist has built rapport and demonstrated empathy through reflections and questions, understanding the client's feelings and context. The client's concerns and goals are clear, with a focus on transitioning to a more fitting academic environment. It's appropriate to advance to the Guiding phase to further explore the client's motivation for change and evoke Change Talk. The use of open questions and reflections helped deepen the understanding of the client's situation.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "The worry seems persistent, even as you try to find ways to manage it. What would life look like for you if you were able to transition successfully and found that right academic fit?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(reflecting): I think I'd feel a lot more at ease and excited about my work. It would be great to be somewhere that aligns with my research interests and to feel like I'm growing and contributing in meaningful ways.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "That vision sounds really fulfilling and motivating. Feeling at ease and excited about your work could make a huge difference in your daily life. What are some small steps or changes you think might bring you closer to that ideal academic environment?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(reflecting): Well, I think continuing to connect with professors and refining my applications are good steps. Maybe also working on my confidence and remembering why I'm passionate about my research interests could help keep me motivated.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your focus on connecting with professors and refining your applications shows dedication to reaching your goals. Strengthening your confidence and rekindling your passion might indeed support you in staying motivated. On a scale of 0 to 10, how confident are you in making these changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe a 6 or 7. I know what I need to do, but sometimes self-doubt creeps in and makes me question if I can actually pull it off.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated change talk by expressing a desire to find a suitable academic fit and identifying specific steps like connecting with professors and refining applications. They have outlined a vision of success and expressed moderate confidence (6-7) in making necessary changes, although self-doubt remains a barrier. With discrepancy between current stress and desired ease clearly evoked, and client articulating next steps, it's appropriate to move to Choosing. OARS feedback: The conversation effectively highlighted the client's resilience and plans for change. Future sessions should focus on refining strategies and addressing confidence barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It sounds like you're fairly confident, yet there's a bit of self-doubt that occasionally holds you back. Let’s think about an action plan to bolster your confidence and manage those moments of doubt. Based on what you mentioned, possible options include setting specific goals for reaching out to professors and perhaps scheduling regular times to reflect on your passions and achievements. How do these options feel to you, and are there any other steps you'd like to consider?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Those options sound pretty good to me. I think setting specific goals for reaching out would give me some structure and help me stay on track. Reflecting on my passions and achievements regularly could also remind me why I'm doing this in the first place. Maybe I could start a journal or something to track my progress and feelings.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Starting a journal to track your progress and feelings is a fantastic idea. It can serve as a useful reminder of your motivations and achievements. Structuring your goals for reaching out to professors can certainly provide that focus and direction you’re looking for. What do you think would be the first step in starting this journal, and how might you set your initial goals for connecting with professors?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I guess the first step would be to find a notebook or app that I like and set aside some time each day to write in it. For my initial goals with professors, I could start by listing out the ones I've had good conversations with and plan to follow up with them every couple of weeks to keep the connection strong.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Choosing a notebook or app that you enjoy and dedicating time daily to journal sounds like a solid start. Listing professors you've had fruitful interactions with and planning regular follow-ups is a strategic way to nurture those connections. How do you feel about setting an initial timeline to begin these steps, and what might be a good way to monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I feel pretty good about getting started soon. Maybe I could aim to have the journal set up and my list of professors ready by the end of the week. To monitor my progress, I could check in with myself every Sunday to see how I’m doing, adjust any goals if needed, and write about any feelings or insights that come up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and developed a concrete action plan to switch PhD programs and enhance academic fit. They have discussed potential barriers, such as self-doubt, and agreed on self-monitoring strategies through journaling and regular check-ins. The client has shown commitment by planning specific steps and timelines, indicating readiness to advance. They exhibit confidence in their ability to make these changes, despite occasional self-doubt. Moving forward, the focus should be on supporting the client as they begin implementing their plan and continue to monitor their progress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It’s great to hear you’re feeling ready to take action and have a clear timeline in mind. Having your journal set up and your list of professors by the end of the week is a very achievable goal. Checking in with yourself every Sunday sounds like an excellent way to reflect, adjust, and stay on top of your progress. This weekly reflection will also allow you to celebrate any small wins and address any challenges you encounter. Remember, this journey is about growth and learning, so be kind to yourself along the way. You’re making thoughtful decisions, and that’s commendable. I look forward to hearing about your progress next time. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for your encouragement. I'll try to remember to be patient with myself as I work through this. I'll definitely let you know how it goes next time we meet.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan, including setting up a journal and listing professors to connect with, along with a timeline and a method for progress monitoring. These steps address the client's goal of enhancing their academic path and building confidence. The client feels ready to take action and was encouraged to be patient with themselves. This indicates readiness to conclude the session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: switching phd due to bad fit\nI am first semester phd student from india .I am not a good fit at my current university So I want to drop my PhD here and start new at USA.  I made a terrible mistake while applying for indian university , I did not research fully about the indian university. My mistake is so bad that my area of research interest is not currently available at my university.\n\n  I feel like a moron by making this mistake.But I am a mature person now and I am doing extensive research about which universities I need to apply and enroll(if case i got admitted ).  My area is available at many universities at US and I talked with multiple professor and they said that there is vacancy in their lab and I can join them if I got admitted.In my past I made a mistake, but learned my lesson and I need a second chance to do my research.   \n\nI am planing to disclose this at SOP to avoid any academic dishonesty , will this hurt my application despite the fact that I understood my error and rectified it and have passion to do research? \n\nP.S : I am three internships at top universities (2 from TIFR india and one from MIT in USA) and a independent research  based on my research interest which might help me",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

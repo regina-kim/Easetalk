@@ -1,0 +1,167 @@
+{
+  "id": "xxj1ac",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you here today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really overwhelmed with balancing work and school. It feels like I have no time or energy for anything else, and I'm just struggling to keep up with everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really tough, juggling both work and school can be demanding. What has that been like for you day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's just exhausting. I feel like I'm constantly running on empty, and by the end of the day, I have nothing left in the tank for homework or even just taking care of myself.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like you're experiencing a lot of fatigue from managing so many responsibilities. You feel drained because balancing work and school leaves you with little energy for anything else. How does this exhaustion affect other areas of your life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It affects pretty much everything. I'm too tired to hang out with friends or do anything fun, and even simple self-care stuff feels like a chore. It’s like I barely have time to just breathe.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has provided a comprehensive view of their struggle to balance work and school, detailing how it affects their daily life and energy levels. Their thoughts and feelings about exhaustion and lack of motivation are clearly articulated, and the impact on their personal life is evident. Empathy and rapport have been established, and the client's goals have become clear. Moving to the next phase would allow for strengthening motivation and evoking change talk by exploring potential solutions and supports.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like the exhaustion is really impacting your ability to enjoy life and engage in self-care. I'm curious, what would life look like for you if you weren’t feeling so overwhelmed?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Honestly, it'd be amazing. I'd have energy to meet up with friends, actually enjoy my classes, and not dread every assignment. I'd feel more like myself again instead of just dragging through each day.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "The idea of having more energy and feeling more like yourself seems really appealing. What do you think it would take for you to start moving towards that less overwhelmed version of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I think it would help if I could find a way to manage my time better or maybe reduce my workload somehow. But honestly, I don’t even know where to start with that because everything feels like a priority right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding a way to manage your time or reduce your workload could be a meaningful step. It's understandable that it feels overwhelming when everything seems like a priority. What small changes do you think might make it feel a bit more manageable?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting some boundaries with work or finding a way to schedule breaks during the day could help. I think even carving out a little time for myself might make a difference, but I’m not sure how to actually make that happen.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and identified potential strategies, such as setting boundaries and scheduling breaks. While ambivalence remains about implementing these changes, there are clear indicators of readiness, including Change Talk and exploring life without exhaustion. The client has a specific change goal to manage time better, but confidence in taking action is still developing. Moving to the Choosing phase may help in creating concrete plans to overcome barriers. OARS feedback: The exploration effectively identified the client's values and desires, but further confidence building may be needed.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "It sounds like you're considering setting boundaries and scheduling breaks to help manage your overwhelm. Based on what you’ve shared, possible options might include creating a more structured schedule or talking with your employer about adjusting your work hours. Would you like to explore one of these options or perhaps brainstorm other strategies?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "I think exploring how to create a more structured schedule could be a good start. Maybe if I could figure out a way to better organize my time, it might help ease some of the stress. I'm open to any ideas you might have on how to approach that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a more structured schedule could be a great way to start. One approach might be to list all your daily tasks and categorize them by priority or deadline. From there, you could allocate specific times for these tasks, including dedicated breaks, to ensure you have some breathing room. What do you think about trying this method, or is there another approach you have in mind?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid idea. Breaking things down by priority and deadlines might help me feel less overwhelmed and more focused. I guess the tricky part will be sticking to the schedule once it's set, but I'm willing to give it a try and see how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "It’s great that you’re open to trying this method of organizing by priority and deadlines. Sticking to a schedule can indeed be challenging at first. How about setting a goal to review and adjust your schedule weekly, which could help you stay on track and make necessary changes more manageable? We can also discuss ways to monitor your progress. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, a weekly review seems like a good idea. That way, if something's not working, I can tweak it without feeling like I've failed. It might also help me see what's actually doable and what’s not. I'm willing to give it a shot and see if it helps.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of creating a structured schedule to manage time better and has expressed willingness to try this approach. They have discussed potential barriers, such as sticking to the schedule, and have agreed to self-monitor progress through weekly reviews. The client has shown commitment by agreeing to give the structured schedule a try and is open to making adjustments as needed. The conversation has successfully covered the essential elements of the Choosing phase, preparing them for the next steps in their journey towards change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "I'm really glad to hear you're considering giving this a try. A weekly review can be a helpful way to stay flexible and adjust as needed without feeling pressured. It can also provide a chance to celebrate your successes, no matter how small. As you move forward, remember that progress takes time, and it's okay to make adjustments along the way. For now, focusing on creating and sticking to your schedule could be a good step, and we can certainly talk more about your progress in our next session. You've got this, and I'm here to support you every step of the way. Keep taking those small steps forward, and you'll see the positive changes unfold.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate the encouragement. I'll give the scheduling a shot and see how it goes. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan for managing their time and a strategy for regular review to ensure progress. They are open to adjustments and have expressed motivation to try this approach. Discussing next steps has been addressed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: College isn't conducive to those who work full time\nI work four days a week, which is full time in my state, and I go to college two days a week (two out of three of my days off). During the week, I still have homework to do, but I work all day and then come home absolutely exhausted. I have no motivation or energy to do said homework and usually wait until the day before to do everything. Taking three classes (a full time schedule) is what is needed to keep my financial aid, and while that's all well and good, I don't know how other people who work even more than I do can do this. I am at work for 8-9hrs each day, and at school for about 5.5hrs each of my two days, plus an online class. I have such a hard time doing school after work because I am so mentally checked out by that point that even getting myself to take a shower can be a struggle. And I have a hard time doing homework after I get home from school because I just spent all day at school. I'm just so over everything. I wanna go back to being five again.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

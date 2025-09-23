@@ -1,0 +1,167 @@
+{
+  "id": "uvo64j",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling a bit overwhelmed, honestly. I've been wrestling with the idea of switching majors, and it's been stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching majors is such a significant decision, and it's natural to feel overwhelmed. What has been contributing to this stress for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's just this huge uncertainty about my future. I thought I wanted medicine, but now I'm not so sure. I'm worried about falling behind if I switch to something like computer science.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The uncertainty about your future seems to be weighing heavily on you, especially with such a big decision at hand. What are some of the things that drew you to medicine initially, and what attracts you to computer science now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I was really drawn to medicine because I liked the idea of helping people and making a difference in their lives. But now, with computer science, it feels like there's this whole world of possibilities and new skills to learn, which is exciting but also daunting.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of overwhelm and uncertainty about their major change. The client has shared their initial motivations for choosing medicine and their current interest in computer science, providing context to their dilemma. Empathy and rapport have been established, with the therapist reflecting the client's concerns and inviting further elaboration. Goals have been mutually acknowledged, setting the stage to delve deeper into their motivations and concerns about the potential switch. What worked: The reflections helped to clarify the client's feelings and the open questions encouraged exploration.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "The desire to help others in medicine and the excitement about new possibilities in computer science both offer unique opportunities. How do you see these paths aligning with your long-term goals and values?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "That's part of the problem—I don't have a clear idea of my long-term goals right now. I know I value helping others and learning new things, but figuring out how that fits into a career feels really confusing.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing your values of helping others and learning new things in a career can indeed feel complex. If you imagine your future self in 5 or 10 years, what kind of life and career do you hope to create for yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I see myself doing something meaningful, where I feel fulfilled and like I'm making a positive impact. I'd hope to be in a career where I'm continually learning and growing. But it's tough to visualize how that looks exactly.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Imagining a future filled with meaning, fulfillment, and growth is such an inspiring vision. What small steps or experiences might help you explore what fulfills you and allows you to make a positive impact, while also continuing to learn and grow?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe I could try out some introductory coding classes or join clubs related to both fields. Talking to people in both medicine and computer science might give me a better sense of what each path looks like in reality.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for a meaningful and fulfilling career and has identified small steps they can take to explore both fields, such as trying introductory classes and talking to professionals. There is a clear discrepancy between their current path and their values of learning and making an impact. Although they are still unsure about their long-term goals, they are showing motivation to explore options, and their confidence in taking these steps appears to be growing. This indicates readiness to move to the Choosing phase to develop specific action plans. Summarizing worked well, helping to clarify thoughts and progress toward decision-making.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring those avenues sounds like a practical approach to gaining clarity. Based on what you've shared, options could include enrolling in a coding class or joining clubs to experience both fields firsthand. Connecting with professionals could also provide valuable insights. How do you feel about setting a short-term goal to explore these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think setting a short-term goal sounds good. I like the idea of taking small steps to see what really clicks for me. Maybe starting with a coding class would give me a feel for computer science, and I can go from there.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Enrolling in a coding class seems like a wonderful start to see how computer science resonates with you. To build on this, how about setting a goal to reach out to one or two professionals in each field for informational interviews? This could complement your experience in the class. What do you think might be the best way to monitor your progress and feelings as you take these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Keeping a journal or note-taking on my thoughts and experiences as I try these things out could be helpful. It'd give me a place to reflect on what I'm learning and how I'm feeling about each path. Plus, it might help me notice any patterns or preferences over time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "That sounds like a fantastic idea—keeping a journal will allow you to track your experiences and insights. By reflecting on your impressions, you might discover patterns that help clarify your direction. Based on what you've mentioned, options include setting aside a few minutes each day or after significant experiences to jot down your thoughts. How does that approach resonate with you, and are there any specific barriers you anticipate in maintaining this habit?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think that approach sounds pretty doable, and I can definitely see it being helpful. The only barrier might be finding time, especially with schoolwork and other commitments, but I'll try to make it a priority. Maybe setting a specific time each week to write could help me stay consistent.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to explore both potential career paths and has discussed ways to monitor and reflect on their experiences. They also identified a potential barrier and considered strategies to overcome it. The client shows readiness with commitment to take steps like enrolling in a coding class and setting up informational interviews. The confidence in their ability to manage this process is evident. Moving forward, continue incorporating specific affirmations on the client’s commitment. Overall, the clear plan and insight into potential barriers suggest readiness to move to the terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Scheduling a regular time each week to reflect and write is a practical strategy to ensure consistency. It's understandable that finding time can be challenging, yet prioritizing this reflection can be quite beneficial in your journey. By making it a part of your routine, you might find it becomes a rewarding habit. As you take these steps, remember that it's okay to adjust your approach as needed. You're doing great work by actively exploring and reflecting on your path. Keep nurturing this curiosity and openness as you move forward. Reach out anytime for support or to share your progress!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks so much! I'll definitely try to squeeze it in and see how it goes. I'll reach out if I need any more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set practical steps, like enrolling in a coding class and journaling, to explore their interests. They have a plan to maintain these habits while balancing commitments. Progress and coping strategies have been well-discussed.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I cannot decide if I truly want to change majors, and feel like it maybe too late.\nI just finished my freshman year as a Biology major on Premed track, but part of me dors not really know if I want to continue pursuing medicine. I am considering switching to Computer science, but am unsure if it is too late. I also do not have much experience with coding, and am not the best in the world at math.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

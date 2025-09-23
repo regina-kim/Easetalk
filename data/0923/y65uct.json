@@ -1,0 +1,167 @@
+{
+  "id": "y65uct",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling really stressed about my future and the direction I'm heading in. I just don't feel like I'm gaining the skills I need from my courses.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Juggling concerns about the future and your current courses can really weigh on you. What about your classes feels like it’s not aligning with the skills you're hoping to gain?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's like the coursework doesn't seem relevant or challenging enough. I feel like I'm not actually learning anything practical that would help me in the real world or in a future job.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It can be frustrating to feel like your efforts in school aren't translating into practical skills for the future. What are some skills or areas you're hoping to develop that you feel are missing from your current coursework?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm really hoping to gain more hands-on programming experience and understanding of different technologies. Also, things like problem-solving in real-world scenarios or even collaborating on bigger projects would be great.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The goals of the Exploring phase have been met. The client's story, thoughts, and feelings about their educational experience have been elicited, revealing a disconnect between coursework and skill acquisition. The client has identified specific skills they wish to develop, indicating clear concerns and aspirations. Rapport and empathy are evident, as the client feels comfortable sharing their frustrations and aspirations. Moving to the Guiding phase will allow us to strengthen motivation and explore potential changes. OARS feedback: The reflections helped deepen understanding and build rapport, while open questions encouraged detailed insights into the client's concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like gaining hands-on experience and practical problem-solving skills are important to you. How might your life be different if you were able to develop these skills through your coursework?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If I had those skills, I'd feel way more confident about applying for jobs or internships. I'd probably be less anxious about my future and feel more prepared for the workforce.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Feeling more confident and prepared for your future sounds incredibly motivating. What might be some small steps you could take now to start moving towards gaining those skills?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start working on more personal projects outside of my coursework, maybe join some coding communities or find online resources to learn new technologies. Networking with people in the field might also help me figure out what skills are actually valuable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring personal projects and connecting with others in your field sounds like a proactive approach. What gives you the confidence to take these steps and improve your skill set?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I know I’m capable of learning new things when I put my mind to it, and I've been successful in figuring stuff out on my own before. Plus, I’m really motivated to make sure I’m ready for the future, so that's pushing me to take action.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current educational experience and their future career aspirations, indicating that their coursework does not align with their desired skill set. They've explored how life would be different with the skills they aim to acquire and have identified concrete steps, such as working on personal projects and networking. The client exhibits confidence in their ability to learn and has articulated a specific action plan. Change Talk is present, and ambivalence has decreased. Therefore, it is appropriate to move to the Choosing phase to further develop and strategize these action plans.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Those are great strengths to build on. As we think about creating a plan, possible options include setting specific goals for personal projects, scheduling time to explore online resources, or setting a target for networking each month. Which of these options resonates with you, or is there another step you’d like to focus on first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think setting specific goals for personal projects sounds like a good place to start. Maybe if I have a clear plan and timeline, it'll be easier to stay on track and see progress. Networking is something I'd like to get into eventually, but I think focusing on personal projects first would help build my confidence.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a clear plan and timeline for personal projects can really help maintain focus and motivation. How about we start by outlining a specific goal for a project and the steps to achieve it? We can also consider how you'll monitor your progress and anticipate any barriers. What do you think about setting a small, achievable goal for your first project, and then identifying resources or support that might be helpful along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea. I think starting with a small project, maybe something like a simple web app using HTML/CSS since I'm already learning that, would be manageable. I could set a timeline, like finishing a basic version in a month, and identify some tutorials or forums where I can get help if I get stuck.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Mapping out a small project like a simple web app is a great starting point. With a one-month timeline, you'll have a clear path and milestones to hit. What resources or forums do you think would be most helpful for you, and how might you schedule time each week to work on this project?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): There are a few online platforms like freeCodeCamp and Codecademy that could be useful for tutorials. I could also check out Reddit or Stack Overflow for community help. As for scheduling, maybe dedicating a couple of hours each weekend, and some time during weekdays when I have lighter coursework, would help me make consistent progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of working on personal projects, specifically a web app using HTML/CSS, with a concrete action plan including a timeline and resources like freeCodeCamp and Codecademy. Barriers such as time management have been discussed, and the client has agreed on self-monitoring strategies. The client has shown commitment through taking-steps talk and has accepted action reflections. Confidence is evident in their plan to use weekends and lighter weekdays for progress. Given these accomplishments in the Choosing phase, we can move to Terminating. Feedback: The client demonstrated strong motivation and resourcefulness, and it's essential to sustain confidence by celebrating small wins and remaining adaptable to challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those are excellent resources and a well-thought-out schedule! With platforms like freeCodeCamp and Codecademy, you're sure to find plenty of guidance, and communities like Reddit and Stack Overflow can offer valuable support when you encounter challenges. By setting aside time each weekend and on lighter weekdays, you're ensuring you can consistently move forward. It's wonderful to see you taking these steps towards your goals. Remember, every small progress is a step towards your larger goal. You're building a strong foundation for your future, and that's something to be proud of. If you ever feel stuck or need encouragement, I'm here to support you every step of the way. Keep going, you're doing great!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "I really appreciate your support and encouragement. I'll definitely keep everything you said in mind and reach out if I need any help. Thanks for all the guidance!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively outlined specific goals and coping strategies. The client has a clear next-step plan for personal projects and resource utilization, aligning with their primary concern of skill acquisition and preparation for the future. Affirming the client's initiative was impactful.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feel like my college is useless\nI’ve been getting As and A+s since college started, and I’m almost never getting challenged. This isn’t to brag, I’m not that smart, but I am diligent. It’s more like most of my classes are online and most of those are evaluated based on coursework and final “reports” rather than exams, which makes it very easy to get very good grades for me, since I don’t actually have to study at all, except for the week I’m writing the report.\n\nI have literally not had a single in person exam since I got into uni, and even courses where I barely understand anything I get an A or A+ on. I’m in CS, and I was expecting to learn some actually useful skills. Now I’m in 3rd year, supposed to be looking for jobs and internships, but feel woefully unprepared for anything. Literally feels like I haven’t learned a single useful thing since high school. We did have some programming courses, but the most complex thing they had us build is an angry birds clone in Java. \n\nI’ve started to learn HTML/CSS on my own time just so I can have SOME form of marketable skill, but I’m always worrying about my future. Idk if I’ll find a job at this rate. This is supposed to be a top 10 school in Japan too….",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

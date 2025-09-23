@@ -1,0 +1,167 @@
+{
+  "id": "wuhhu6",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been feeling really out of sync since my health emergency over the summer. It's been tough to find my groove again with everything going on, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It must be challenging to feel out of sync after such a significant event. What has been the most difficult part about finding your groove again?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think it's just been hard to motivate myself like I used to. The excitement and drive I had for my studies and future just don't feel the same right now.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Finding that motivation again must feel overwhelming. It sounds like you're experiencing frustration because things that used to excite you don't have the same effect anymore. Can you tell me a bit more about what your life was like before the health emergency?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Before the health emergency, I was really focused and driven. I had a clear path—finish my courses, transfer, and dive into aerospace engineering. I felt like I was on top of everything, and I was genuinely excited about what was coming next.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared a comprehensive narrative about their current state, feelings, and context following their health emergency. The details include past motivations, current struggles, and the idea of taking a gap semester. Empathy and rapport have been built, and the client has articulated their uncertainty about proceeding with classes. The stage is set to transition into the Guiding phase to explore their motivation and potential change talk regarding a gap semester. OARS feedback: Empathic reflections helped clarify the client's feelings about their past and present situation, fostering a supportive environment.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough to feel a change in that drive and focus you once had. Thinking about your previous excitement for aerospace engineering and your clear path, what steps could you envision taking now to reconnect with that part of yourself?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I guess starting with small steps could help, like maybe taking time to explore some aerospace-related topics on my own or even engaging with online communities. Just finding little ways to remind myself why I loved it in the first place might reignite that spark.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Exploring those small steps sounds like a meaningful way to reignite your passion. What might it feel like to reintroduce these topics into your routine, and how confident do you feel about taking these initial steps on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think it would feel pretty refreshing and maybe even exciting to dip my toes back into it. If I had to rate my confidence, I'd say maybe a 6 or 7. I'm hopeful, but still a bit hesitant.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Therapist(guiding): Feeling refreshed and excited sounds promising. It's great to hear that you're hopeful. What do you think could help increase your confidence from a 6 or 7 to a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think having a supportive environment would help, like people around me who understand what I'm going through and can encourage me. Plus, setting really small, achievable goals might make it less daunting and boost my confidence over time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's current feelings of lost motivation and identified small steps to reignite their passion for aerospace engineering. The client expressed a confidence level of 6-7 and identified supportive environments and achievable goals as ways to increase confidence. This indicates readiness to begin discussing specific action plans and strategies for barriers, signaling a move to the Choosing phase. The use of open questions and reflections helped the client articulate their feelings and potential steps forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reflecting on the need for support and small goals is insightful. Considering what you've shared, some options could be setting a weekly goal to explore an aerospace topic or connecting with a supportive community online. What do you think about these ideas, and how might you like to start implementing them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I like those ideas a lot. Maybe I could start by setting a weekly goal to read an article or watch a video about aerospace engineering. I could also check out some online forums or groups to meet people who share my interests. I think starting small like this could be manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Those sound like wonderful steps to begin with. Reading an article or watching a video each week and connecting with online communities can gradually rekindle your passion. What are some possible barriers you might encounter, and how do you think you could address them as you start this journey?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I might struggle with time management since I have work and my new kickboxing routine. Getting caught in procrastination is another thing I worry about. Maybe setting specific times each week for these activities could help keep me on track and accountable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Structuring your time could indeed make a big difference in staying on track. You might consider creating a simple schedule that incorporates a specific time each week for your aerospace exploration. How does that idea resonate with you, and what might be some initial steps you could take to establish this routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, planning out a weekly schedule could really keep me organized and focused. I think I could start by blocking out an hour or two on a day when I don't have work or kickboxing, and dedicate that time to exploring aerospace topics. I'll just have to stick to it and see how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal and developed a concrete action plan to reignite their passion for aerospace engineering, such as setting weekly goals and connecting with online communities. They have also discussed potential barriers like time management and procrastination, and agreed on self-monitoring through a structured schedule. The client's commitment to taking actionable steps and their openness to refining the plan suggest readiness to move forward. The conversation reflects a strong understanding of needs and resources. Moving to the Terminating phase seems appropriate. OARS feedback: The client's proactive approach and insight into their own needs have laid a solid foundation for change. Maintaining this momentum will be key.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a weekly schedule sounds like a solid plan to help balance your interests and commitments. Designating dedicated time for your aerospace exploration will likely make it more manageable and enjoyable. It's great to see you taking these proactive steps. As you move forward, remember to be kind to yourself if things don't go perfectly at first—adjustments take time. You’re setting a strong foundation by planning thoughtfully. If you ever feel stuck, reaching out to supportive networks or revisiting small goals could be helpful. You're taking a positive direction, and I'm here to support you on this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate the encouragement and guidance. I'll give it a go and see how it fits into my routine. If I hit any bumps, I'll definitely think about reaching out or tweaking my goals a bit.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear plan to gradually re-engage with their passion for aerospace, alongside strategies to manage potential obstacles. They've reflected on and committed to initial steps, indicating readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Recommend gap semester?\nShould I take a gap semester?  Hey everyone, I am currently at community college trying to transfer as an Aerospace engineering major. I was taking a summer math course until I had a health emergency come up and it took me out of my class. Ever since then, I feel like I haven’t been myself. I’ve noticed that the things I used to be so passionate about are fading away and I don’t know why. I was taken out of my rhythm and it’s hard to get back on track.  Classes start next week, and I don’t feel ready at all. I have the pressure from my parents and my little sister who will be going to college after this year. I am feeling a bit lost and I was wondering thoughts on taking a gap semester. I feel like I need to be outside more, get into better shape and try to regain my passion for the things I loved. I started kickboxing and I’m loving it, I also have a job as a barista so I’m working trying to get a dirt bike and a new computer. Overall, I really want to be in college but I feel I need a small break. Thank you. :)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

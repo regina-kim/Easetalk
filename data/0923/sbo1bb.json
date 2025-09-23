@@ -1,0 +1,188 @@
+{
+  "id": "sbo1bb",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to discuss today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm just feeling really stuck with my major. I thought psychology was my thing, but now I'm not so sure. It's stressing me out, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing a major can feel overwhelming, especially when you're uncertain about your path. What is it about psychology that initially drew you in, and what's leading you to feel unsure now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): At first, I was all about helping people and figuring out how they think. But now, I just feel like I don't have the patience or interest for it anymore. It feels like I'm just going through the motions and I'm not sure if I really like it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to feel conflicted when your initial passion starts to wane. You were drawn to psychology because of your interest in helping people and understanding their thoughts, but now it feels like you're losing interest and patience. Can you share more about when you started feeling this way?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It started creeping in maybe a few months ago. Classes just got more intense, and I began questioning if I could really see myself doing this for the rest of my life. It feels like a big commitment, and I'm just not sure if it's what I want anymore.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their initial motivations for choosing psychology, the conflict they're experiencing now, and their emotional struggle with decision-making. However, more exploration is needed to fully understand their deeper feelings and beliefs related to their career choices and self-perception. Additional sessions could further uncover underlying emotions, values, and goals to facilitate a smoother transition to the guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Questioning a long-term commitment can be daunting, especially when coursework becomes more intense. It sounds like you're feeling uncertain about dedicating your future to psychology. How has this uncertainty been affecting other areas of your life?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "It's been messing with my mood a lot, honestly. I find myself stressed out more often, and it's hard to focus on other stuff. Even hanging out with friends feels different cause part of me is always thinking about this.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase has effectively elicited the client's story, uncovering their initial interest in psychology, the emerging doubts, and the impact on their mood and life. The client has shared both thoughts and feelings, and the therapist has built rapport and demonstrated empathy. This foundation sets the stage for strengthening motivation and evoking change talk. Moving to the Guiding phase would allow for deeper exploration of motivations and potential changes.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "That's a lot to carry around, and it's understandable that the uncertainty is impacting you in various ways. Noticing how it's affecting your mood and focus shows a lot of self-awareness. What do you think might change if you gained more clarity about your major?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(exploring): If I had more clarity, I think I'd feel a lot more at ease. Maybe I'd be less stressed and could actually enjoy things more, like hanging out with friends without this weight over me. It feels like I just need some direction or reassurance that I'm making the right choice.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Having clarity could indeed bring more ease and enjoyment into your life. You're recognizing the potential relief and freedom that direction can bring. What do you imagine your life might look like if you were confident in your major choice?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "If I was confident about my major, I think I'd feel more motivated and excited about my classes. I'd probably be more focused and less stressed overall, and I imagine I'd have more energy to enjoy things outside of school too. It'd be nice to just feel secure in my decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Therapist(guiding): That's a compelling vision, feeling motivated and energized both in and out of school. You're painting a picture of a more balanced and fulfilling life. What steps or resources do you think could help you move towards gaining that confidence in your major choice?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I think talking to more people in the field could help, like professors or professionals who went through this. Maybe getting their insights might give me a better idea of what to expect. Also, trying out some related activities or internships might help me see if this is really what I want.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of the discrepancy between their initial goals and their current feelings, showing awareness of the impact on their life. They have articulated specific next steps, such as seeking insights from professionals and engaging in related activities, demonstrating readiness to explore actionable changes. Change Talk is present, as the client envisions increased motivation and reduced stress with clarity. The conversation has effectively explored life with and without change, and the client's confidence and motivation for change suggest they are ready to move forward.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Connecting with people in the field and exploring internships sounds like a solid plan to gain confidence and clarity. Would you like to set a goal to start reaching out to professors or look into internships? We could also discuss potential barriers you might encounter and how to address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal sounds like a good idea. I think starting with professors could be less intimidating, and then I can look into internships. I'm just a bit worried about reaching out and not knowing what to say or ask, you know?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Reaching out can feel intimidating, but starting with professors is a great step. One option could be to prepare a few questions or topics beforehand to ease the conversation. Possible questions might be about their career paths, challenges, or advice for students like you. Do you think having a list like that ready would help? We can also discuss ways to overcome any nerves about contacting them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Yeah, having some questions ready would definitely make it easier. I just get nervous about coming off as clueless or bothering them, but I guess most professors are used to students asking for advice. Maybe we could figure out some good questions together, so I feel more prepared?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Absolutely, we can definitely brainstorm some questions together. Asking about their experiences, what they enjoy most about psychology, or any tips they have for students could be a good start. It’s completely normal to feel nervous, and professors generally appreciate students who are proactive in seeking guidance. How does that sound? We can also consider ways to boost your confidence when reaching out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): That sounds really helpful, actually. I think having a plan and some questions will make it feel less daunting. I just need to remind myself that it's okay to ask for help and that it's part of the process. Maybe boosting my confidence with some practice or role-playing could help too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of gaining confidence in their major by reaching out to professors and exploring internships. They've acknowledged potential barriers like nervousness and are ready to address them with prepared questions and confidence-building strategies like role-playing. The client is showing commitment and readiness to take steps toward their goal. Since they have a concrete action plan and a proactive approach to overcoming obstacles, they are prepared to advance to the next phase. Continuing to support their self-exploration and self-efficacy in this manner has been effective.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Practicing with some role-playing might be really beneficial. It can provide a safe space to explore how to approach these conversations and help you feel more at ease. It's wonderful to see you acknowledge that asking for help is part of the process and not something to shy away from. You've taken important steps in identifying what you need, and preparing to reach out shows great initiative. As a next step, let's work on those questions and maybe set aside some time for practice. Remember, you've got this, and you're not alone.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I really appreciate your support. I'll try to keep reminding myself of that and take it step by step. Let's definitely work on those questions and maybe try out some role-playing next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in identifying steps and resources to address their uncertainty about their major. They have articulated a plan involving outreach and practice, and acknowledged the value of seeking help. Termination goals are met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I'm a psychology major and I don't know if I want to do this anymore. I know I can but I just don't know if I'll be happy with it.\nI hate people. Or I don't know. Sometimes I hate them, sometimes I want to help and I fought my parents hard to be able to get into psychology and I know I can become a therapist even if I will never be happy with it because school was never a problem and I have a scholarship so money doesn't even matter. The thing is, I can't think of anything else to do. Sometimes I think I'd rather die than be going through this. Choosing a lifelong career is so freaking hard and the stress is just too much sometimes. Anyone have advice for major problems?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

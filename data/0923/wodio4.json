@@ -1,0 +1,314 @@
+{
+  "id": "wodio4",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It seems like there's something on your mind. Would you like to share what's been going on lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I'm just feeling kinda down about my college situation. I transferred my Associate's degree and thought it'd be straightforward, but they only accepted 27 credits. It's making me second guess even continuing with my bachelor's.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, especially after putting in all that effort with your Associate's degree. You're feeling uncertain about whether to continue with your bachelor's because of this unexpected challenge. What's been your experience with the college since then?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I expected a smoother transition, you know? But with only a few credits accepted, it feels like starting from scratch. It's hard to look forward to classes when it feels like none of my past work counted.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It must feel discouraging to have your past efforts seem undervalued. You're finding it difficult to feel motivated for classes given this setback. Have you had a chance to talk to anyone at the college about how this situation is affecting you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Not really. I'm kinda dreading another conversation where they just give me a bunch of reasons for why it is what it is. I'm just feeling stuck and not sure who can actually help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's feelings of frustration and discouragement about their college experience, including the specific context of credit transfers and the impact on their motivation. Empathy and rapport have been established, and the client's concerns are well-understood. Moving to the Guiding phase will allow us to focus on strengthening motivation for change and evoking Change Talk. Using OARS, we've successfully acknowledged the client's feelings and reflected on their situation, helping them feel heard.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "I understand how disheartening it can be to feel stuck and unsure of where to turn. Taking a step back, what would pursuing your bachelor's degree mean for your future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I know it’s supposed to open up more career opportunities and maybe lead to better pay, but right now, it just feels like a never-ending uphill battle. It's hard to see the long-term benefits when the short-term feels so overwhelming and discouraging.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Navigating that uphill battle can be really tough, especially when the short-term feels so daunting. In terms of your long-term aspirations, what kind of career opportunities or changes do you envision your bachelor's degree helping you achieve?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I was hoping it would help me land a decent job in a field I actually like, maybe something with more stability. But right now, it just seems like the finish line keeps moving further away, and I don't even know if it's worth it anymore.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Chasing those big dreams can really seem daunting when obstacles seem persistent. Reflecting on your long-term vision, how do you see a stable career impacting other areas of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think having a stable career would definitely relieve a lot of stress in other areas of my life. It could help me feel more secure and maybe even allow me to enjoy things outside of work. But getting there just feels so overwhelming right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear understanding of how pursuing a bachelor's degree aligns with their long-term goals, despite the immediate challenges. Discrepancies between their current situation and future aspirations have been highlighted, and the client has articulated potential benefits of change, such as increased career stability and reduced stress. However, there is ongoing ambivalence about the value of continuing education given current obstacles, indicating that more exploration around concrete steps or strategies could further solidify commitment. Thus, it's advisable to continue guiding to strengthen motivation before advancing to specific planning in the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Achieving that sense of security and enjoyment in life outside of work is a powerful motivator. It sounds like these goals are important to you. On a scale from 0 to 10, how confident are you in your ability to find a way through these challenges to still pursue that stable career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): Right now, I'd say maybe a 4. I'm really struggling to see past all the hurdles and feel confident about moving forward. It's hard to shake off the disappointment and stay optimistic.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing significant ambivalence and a lack of confidence in moving forward, with reported confidence at a 4 out of 10. While the discussion has evoked some discrepancy between the client's long-term goals and current feelings, the ambivalence and sustain talk remain high. There has been no specific change goal or step identified as the client still feels overwhelmed. Therefore, it is advisable to continue in the Guiding phase to further explore these feelings and increase confidence before developing action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Facing disappointment and finding optimism can be quite challenging, especially when confidence feels low. It's clear that these hurdles are weighing heavily on you. What might help increase that confidence level, even just a little, in navigating through these challenges?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think finding someone who really understands what I'm going through and can offer practical advice or options would help. Maybe talking to others who've been through this or finding resources at school that actually address these issues could make me feel a bit more hopeful.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client expresses significant ambivalence and low confidence about pursuing their bachelor's degree, with a confidence level of 4. Although the conversation explores discrepancies between the client's current situation and their values, such as career stability and stress relief, the client still feels overwhelmed and unsure about next steps. The client's mention of potential support from others suggests a possible area for further exploration. Change Talk is present but the client's specific change goals or next steps require further clarification and development before moving to action planning. Therefore, it's appropriate to continue in the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "therapist(guiding): Connecting with people who've walked a similar path or finding effective resources could indeed make a difference. It's encouraging to hear you're open to seeking out support and ideas from others. What small steps do you think you could take to start exploring these connections or resources?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I could probably start by checking out some online forums or groups where people share their transfer experiences. Maybe also try to reach out to an academic advisor or a student group at school to see if they know any specific resources that could help. Just taking it one step at a time, I guess.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific goal of pursuing a bachelor's degree for career stability, but their confidence is currently low at a 4. The conversation has explored the discrepancy between their current situation and their long-term aspirations, and the client has begun to identify potential resources and supports that could help them move forward. There's been some change talk and a hint of an action plan, but the client's confidence is still relatively low, indicating the need for further strengthening of motivation and support exploration. Thus, continuing in the Guiding phase is appropriate to bolster their confidence and motivation.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "therapist(guiding): Taking it step by step sounds like a realistic way to approach this. It's great that you're considering both online communities and on-campus resources. As you start exploring these options, how do you envision it impacting your confidence and motivation?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think it might help me feel less alone in all this and maybe even give me some new perspectives or ideas. If I can see that other people have found ways through, it might boost my motivation a bit and help me feel more confident about moving forward.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to pursue a stable career, recognizing how it might positively impact their life. They have explored feelings of discouragement and identified potential strategies to boost confidence, such as engaging with supportive communities and resources. However, the confidence level is currently at 4, indicating substantial ambivalence remains. The client needs further exploration of practical steps and support systems to build confidence. Continuing in the Guiding phase can help strengthen motivation and reduce ambivalence before moving to specific action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling less alone and gaining new perspectives can be incredibly empowering. Hearing success stories from others might indeed spark some renewed motivation. How do these potential boosts align with your vision for a stable and fulfilling career?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client(reflecting): I think if I can boost my motivation and confidence, it would definitely help me stay focused on my long-term goals. It would make the path to a stable career seem more achievable, and remind me why I started this journey in the first place.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of reaching out to online forums and academic advisors for support. Change Talk is present as the client envisions increased motivation and confidence through these steps. However, their confidence level is at 4, indicating that more exploration of support systems is needed to build a stronger foundation for change. Continuing in the Guiding phase can further address ambivalence and build confidence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "therapist(guiding): Reconnecting with why you began this journey can really keep that spark alive. Having that motivation and confidence can transform the road to your goals from daunting to doable. What aspects of your vision for a stable career keep you inspired to move forward, even when it gets tough?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I guess the idea of having a job that I actually enjoy and feeling financially secure is pretty motivating. I want to be able to support myself comfortably and have some freedom to pursue things I love outside of work. It's just tough to keep that vision clear with all these setbacks.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated specific steps to explore connections and resources, demonstrating some openness to seeking support. While there is a presence of change talk regarding their motivation and vision for a stable career, the client's confidence is still lower than the typical threshold for advancing phases. They have not yet specified a clear change goal or next step. Continuing in the Guiding phase will allow further exploration and strengthening of their confidence and readiness for change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "Therapist (Guiding): The desire for a fulfilling job and financial security is a strong source of inspiration, especially when it supports the life you want outside of work. These are powerful motivators that can help clear the fog of setbacks. What would it mean for you to stay connected to these motivations when challenges arise?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(reflecting): Staying connected to those motivations would mean not letting the setbacks define my journey or my worth. It would give me a reason to push through the tough times and remind me that setbacks are just part of the process, not the end of it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated a clear understanding of their motivations and has articulated a specific change goal: exploring online forums, and on-campus resources, and connecting with others who have had similar experiences. There is noticeable Change Talk, with the client expressing how these actions could positively impact their confidence and motivation. Ambivalence seems to have decreased, and the client appears ready to develop specific action steps to address their concerns. Given these indications, it would be appropriate to move to the Choosing phase to collaboratively develop detailed action plans. OARS feedback: The reflections effectively deepened the client's understanding of their motivations, while affirmations helped bolster their confidence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "Those are insightful reflections on how staying connected to your motivations can help navigate through challenges. Let's look at some concrete steps you could take to maintain that connection, like perhaps setting short-term goals or creating reminders of your long-term vision. What do you think might work best for you in keeping those motivations alive and present?",
+      "phase": "choosing"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "client(reflecting): Maybe setting some short-term goals could help, like focusing on one thing at a time to avoid getting overwhelmed. Having reminders, like notes or something visual about why I'm doing this, might also keep me motivated. Just finding little ways to keep that bigger picture in mind could make a difference.",
+      "phase": "choosing"
+    },
+    {
+      "index": 38,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful strategies to maintain your motivation. Setting short-term goals and using visual reminders can provide clarity and keep your long-term vision at the forefront. Would you like to explore some potential short-term goals together, or perhaps brainstorm how you might create those meaningful reminders?",
+      "phase": "choosing"
+    },
+    {
+      "index": 39,
+      "role": "client",
+      "statement": "Exploring potential short-term goals together sounds helpful. It might give me some direction on where to focus my energy next. Brainstorming reminders could also be cool, maybe finding ways to visually represent what I'm working towards.",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "therapist",
+      "statement": "Exploring these ideas together sounds like a productive step forward. One possibility for short-term goals could be focusing on tasks that align directly with your career aspirations, such as attending a networking event or enrolling in a relevant online course. For reminders, perhaps we could brainstorm visual cues—like a vision board or inspiring quotes—that resonate with your goals. Would either of these options be appealing to you as a starting point?",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "client",
+      "statement": "Yeah, those sound like good starting points. Attending a networking event could help me feel more connected to the field, and a vision board or some quotes might keep me focused on my goals. It's nice to have some concrete ideas to work with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified and accepted concrete action steps like setting short-term goals and using visual reminders, which align with their long-term vision and enhance motivation. Barriers such as discouragement from setbacks have been acknowledged with strategies to manage them. The client expresses intention to engage in specific actions, such as attending networking events and creating a vision board. This demonstrates readiness to implement the plan. The combination of clear goals, commitment to action, and confidence in overcoming barriers suggests readiness to advance. OARS feedback: The collaborative nature of goal-setting was effective. Ensure ongoing encouragement and revisit strategies to maintain momentum.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "It's great to hear that these ideas resonate with you. Attending a networking event can indeed be a fantastic way to build connections and deepen your engagement with your field. A vision board or inspiring quotes can serve as daily reminders of your aspirations, keeping you motivated and on track. Remember, every small step you take is progress towards your larger goals. I'm confident you can navigate this journey with resilience and creativity. As your next step, perhaps you can choose a networking event to attend or gather materials for your vision board. You've got this, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I'll definitely look into some events and start thinking about what I want on my vision board. It's nice to feel like I've got some direction now.",
+      "phase": "terminating"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized the client's goals and coping strategies, and discussed specific next steps involving networking and vision boards. This clear plan empowers the client to tackle their career aspirations confidently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Transfered my Associates degree\nAnyone else transfer an Associates only to have the next school nitpick what credits they would take? Im feeling extremely discouraged that only 27 credits were accepted. Honestly don’t even want to bother starting my bachelors anymore",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

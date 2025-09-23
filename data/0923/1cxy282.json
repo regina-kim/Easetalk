@@ -1,0 +1,167 @@
+{
+  "id": "1cxy282",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, not great, honestly. Just feeling really overwhelmed and like I'm not meeting my own expectations.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like there's a lot on your plate right now, and it's weighing you down. Can you share more about what's been overwhelming for you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, for sure. I guess it's just juggling everything, you know? The full-time school and work, plus dealing with the breakup. It's like everything happened all at once, and I just couldn't keep up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing school, work, and personal challenges like a breakup can indeed feel exhausting. It seems like you're facing a lot of significant changes at once. How have you been managing each of these areas lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Honestly, not well. I've been just trying to get by, like going through the motions without really addressing how I feel. I guess I'm just surviving and not really thriving, if that makes sense.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their core concerns regarding feeling overwhelmed due to school, work, and personal relationships. They are experiencing burnout, disappointment, and stress. The therapist has effectively used reflections and open questions to understand the client's feelings and the context behind them. Empathy and rapport are evident, and key concerns have been mutually identified. It's appropriate to transition to the Guiding phase to strengthen motivation for change and explore potential solutions.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It makes perfect sense, and acknowledging that is a significant step. What do you think might be different in your life if you were thriving instead of just surviving?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think I'd feel more in control and less stressed, you know? Like, I'd have a better handle on my time and emotions, and maybe even enjoy things more instead of feeling like I'm constantly playing catch-up.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having more control and experiencing less stress sounds like it could be quite liberating. What might be one small change that could help you start moving toward that sense of thriving?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Maybe I could try setting more realistic goals for myself. Like, instead of aiming for perfection, just focus on small achievements and managing my time better. I think that could take some pressure off and help me feel more accomplished.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Recognizing the value of small achievements over perfection is insightful. How might accomplishing these realistic goals impact your sense of control and enjoyment in everyday life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I think it would make me feel like I'm actually making progress, you know? Like, having those little wins could boost my confidence and make things feel less overwhelming. It might even help me enjoy things more, instead of constantly stressing about what I haven't done.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has begun to express Change Talk by identifying a desire to set more realistic goals and recognizing the impact of small achievements on their sense of control and enjoyment. A specific change goal has emerged focused on goal-setting and time management, which aligns with the client's values of feeling accomplished and less overwhelmed. While confidence rulers were not explicitly used, the client's statements suggest a growing confidence in their ability to make progress. Ambivalence has decreased, as the client acknowledges the potential positive impact of these changes. The conversation has effectively explored life with and without change, warranting a move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Setting realistic goals sounds like a positive step forward. We could explore creating an action plan to start implementing these small achievements. Possible options might include prioritizing tasks, scheduling breaks, or practicing self-compassion when things don't go as planned. What would you like to focus on first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think prioritizing tasks could be a good start. I always feel like there's so much to do, and I end up trying to tackle everything at once. If I can figure out what's most important and focus on that, it might help me feel less scattered.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Breaking tasks down by priority sounds like a thoughtful approach. How about we create a simple action plan to get started? You might begin by listing your tasks and identifying the top three priorities for each day. What do you think of this idea, and how can we adapt it to fit your needs?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, that sounds like a solid plan. I think listing out tasks and picking the top three priorities could really help me see what matters most each day. Maybe we could also talk about how I can stick to it, especially when unexpected stuff comes up or I'm just not feeling motivated.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a plan to list tasks and focus on the top three priorities each day is a great start. To help with sticking to it, we could discuss strategies like setting time blocks for each task or using gentle reminders to keep on track. How does that sound, and are there any other approaches you think might work for you when unexpected challenges arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Setting time blocks could really help me keep focused, and maybe even having some kind of checklist or reminder system would keep me on track. I think being flexible is also important, so I don't feel too rigid when things don't go as planned. Maybe we could also talk about ways to regroup or refocus if something throws me off course.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a concrete action plan focused on prioritizing tasks, setting time blocks, and incorporating flexibility to manage unexpected challenges. Barriers such as motivation and unexpected events have been discussed with strategies proposed to address them. The client shows commitment to the plan and is taking steps to implement it, indicating readiness to progress. The collaborative nature of the planning and the client's acceptance and refinement of action reflections affirm this readiness. Moving forward, the effective use of affirmations and reflections has helped build confidence and maintain focus on achievable goals, which should continue to be utilized.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those are some solid strategies, and being open to flexibility seems wise. You can create a checklist or a reminder system to keep your priorities visible, and setting time blocks can help structure your day. When things don't go as planned, consider taking a few moments to breathe and reassess your priorities. This could help you regroup and find your footing again. It sounds like you're building a toolkit that's not only practical but also compassionate toward yourself. As you work on these steps, remember that each small victory is a step toward thriving. Let's plan to check in and see how these changes are working for you. I'm here to support you along this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll definitely give these strategies a shot and see how they work out. I'll keep you updated on my progress next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized coping strategies and next steps, including prioritizing tasks and creating flexible plans to manage stress and feel more accomplished. The client expressed readiness to apply these strategies, indicating closure.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Feeling depressed because I feel burnt out and didn't do as well as I wanted to this semester\nI basically just coasted the entire time... I got a 3.0 G.P.A but that isn't good enough for what I want to do... I'm disappointed in myself.\n\nI was going to school fulltime and working full time so I always felt like I had no time for myself and halfway through the semester I got burnt out.\n\nMy girlfriend also broke up with me and the break up and my relationships were giving me un needed stress.... I felt like I didn't learn anything at all.\n\nMy counselors have said I need to get As in the classes, not Bs... and here I am getting Bs and I feel so dissapointed... I need to do better next time",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "15xhln6",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? Feel free to share anything that's on your mind. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling pretty anxious about starting college. It's just a lot to think about, and I'm worried I'm not ready for it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Starting college can definitely feel overwhelming, with so many new things to consider and prepare for. You feel anxious because it's a big change and you're unsure about your readiness. What aspects of starting college concern you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess I'm really worried about whether I can keep up with the coursework. I feel like my background hasn't prepared me well and I don't want to fall behind or feel embarrassed in class.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's understandable to be concerned about keeping up with coursework, especially when you feel uncertain about your preparation. You might be feeling worried because you care about doing well and not wanting to face embarrassment. Could you share more about your past experiences with learning and how they relate to this concern?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Well, I was homeschooled, but it wasn't really structured, so I didn't learn as much as I should have. Plus, dealing with ADHD and depression made it even tougher to retain information. It's like I'm starting college with a blank slate, and that scares me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, revealing concerns about college readiness due to homeschooling, ADHD, depression, and past bullying experiences. The therapist has shown empathy and understanding, and the client's feelings and thoughts have been explored in depth. Goals like reducing anxiety and improving self-confidence can now be mutually agreed upon. Moving to the Guiding phase will allow the therapist to evoke Change Talk and strengthen the client's motivation for change. OARS feedback: The empathy and reflection of the client's fears helped build rapport and trust, facilitating a deeper exploration of their concerns.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like you're carrying the weight of past educational experiences and personal challenges as you approach college. Starting with a \"blank slate\" can be intimidating, but it also offers a fresh opportunity. How do you imagine your college experience might help you grow or align with your goals for the future?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess I hope college will help me become more independent and maybe figure out what I actually want to do with my life. I'm just worried about getting to that point without feeling like I'm constantly struggling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "College sounds like a chance for you to gain independence and discover your path, which is exciting. It's natural to worry about potential struggles, but overcoming them can lead to growth. How do you see yourself handling these challenges to support your vision of independence and self-discovery?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'm thinking I should try to stay on top of things by being organized and asking for help when I need it. I just hope I can find the right resources and support to not feel so lost.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Building organization and seeking help are excellent strategies for staying on top of things. You're considering proactive steps toward your goals, which speaks to your resourcefulness. What kind of resources or support do you believe would be most beneficial in helping you feel more grounded and confident as you start this journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think having access to tutoring or study groups would be really helpful, and maybe connecting with other students who have similar challenges. Also, just knowing what accommodations might be available for my ADHD and anxiety could make a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific goals related to becoming more organized and seeking support, such as tutoring and study groups, which indicates a readiness to plan concrete steps. The client has also articulated how overcoming academic challenges aligns with their broader goal of independence. Change Talk is present, with decreased ambivalence as they focus on proactive strategies. These elements suggest readiness to advance to the Choosing phase to develop specific action plans. OARS were effectively used in reflecting the client's concerns and affirming their resourcefulness, fostering an environment for change.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You're thinking about some important resources that could support your journey in college, like tutoring, study groups, and connecting with peers facing similar challenges. Exploring accommodations for ADHD and anxiety is also a great step. Based on these thoughts, possible options might include reaching out to the college's academic support center or disability services for information on available resources. How does this sound as a starting point, and what would you like to do first?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think I'll start by checking out the academic support center to see what they offer. Maybe once I know what's available, I can figure out the best way to use those resources.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Checking out the academic support center is a great first step toward discovering available resources. It shows your willingness to take initiative. How might you schedule a visit or gather information from them, and is there anything specific you'd like help with as you make this plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "I think I'll look up their hours and maybe send an email to ask about what resources they have for students like me. I'd appreciate any tips on how to approach asking for help or what specific questions I should be asking when I get in touch with them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Reaching out via email is a proactive approach to gathering information. You might consider asking them about tutoring options, study groups, and any specific accommodations for ADHD and anxiety. If you're comfortable, you could also inquire about meeting with someone to discuss your needs further. Is there anything you'd like to focus on as you craft your email or any other steps you want to include in your plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I want to make sure my email is clear and gets to the point, so maybe I should focus on introducing myself and explaining my situation briefly. I could ask directly about the resources for ADHD and anxiety accommodations and how to get involved in study groups or tutoring. I guess I also need to figure out how to sound confident even when I'm feeling anxious about reaching out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal to engage with the academic support center and has formulated an initial action plan, including sending an email to inquire about resources like tutoring and accommodations for ADHD and anxiety. They have discussed barriers, such as anxiety about reaching out, and have logically considered steps to overcome these. The client is showing commitment through planning and taking action steps, indicating readiness to move forward. Reflective listening reinforced their strengths, and the client accepted and refined action reflections.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That's a thoughtful approach to your email. Introducing yourself and clearly stating what you're looking for will set a strong tone. It's perfectly okay to acknowledge that reaching out is a big step for you—sometimes sharing that vulnerability can be empowering. Maybe drafting a few versions and choosing the one that feels right can help ease your nerves. It's great that you're thinking about how to balance clarity with confidence. Remember, taking this step shows courage and determination. Keep in mind, you're not alone in this journey. You've already shown so much insight and readiness to seek support. As you move forward, reach out if you need any more guidance. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I’ll definitely try drafting a couple of emails and see how I feel about them. I might check in with you later if I need some more direction.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps to access resources and support for college, addressing their concerns about feeling unprepared. They've shown readiness to implement these strategies with a plan to reach out for assistance.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Too stupid for college?\nHi, so honestly I never thought i would go to college but here i am and my first class is tomorrow. I was homeschooled all through out high school, which wasn’t the best for me and honestly I didn’t learn much. On top of that, my ADHD and depression have given me severe memory loss, so i don’t remember much that i did learn. I’m horrible at simple math, i still have to count on my fingers, and i have trouble spelling and sounding words out. I’m just really scared i’m going to look like a dumbass and it makes me not want to go. I was picked on in middle school for having learning troubles and i’m worried it’s going to be the same. That my professors or the students will think i’m stupid. What if they call on me during lecture and i don’t know the answer then everyone thinks i’m dumb lol. Please help, my anxiety is so bad i want to skip my first day.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

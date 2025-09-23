@@ -1,0 +1,167 @@
+{
+  "id": "11ebs6r",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! It looks like you might be here to talk about something on your mind. Whenever you're ready, feel free to share what's going on. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for being here. I've just been feeling really overwhelmed with everything, especially with my grades slipping because of my mental health. I'm not sure how to turn things around and could use some guidance.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really challenging, feeling overwhelmed while noticing your grades are slipping. It seems that your mental health has been impacting your academic performance. Can you tell me a bit more about what has been contributing to these feelings of overwhelm?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's like this fog that's just settled over me, making it hard to focus or care about anything. I can't really pinpoint where it's coming from, it's just been there, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's tough when that fog feels ever-present, making it difficult to focus or engage. You mentioned feeling overwhelmed; could you share more about what daily life looks like for you right now or any specific situations that might be adding to this feeling?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's mostly just this cycle of not being able to get out of bed, missing classes, and then stressing about everything I missed. It all just piles up and makes things feel worse.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been effectively elicited. The therapist understands that the client feels overwhelmed by anxiety and depression, impacting their academic performance. The client has expressed feeling lost and is seeking guidance. There is a connection between their mental health struggles and academic concerns. Rapport has been established, as evidenced by the client's openness about their struggles and desire for guidance. The therapist can transition to the Guiding phase to strengthen motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're caught in a tough cycle that's really draining. I'm curious, if things were different and you could break this cycle, what would that look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I guess if I could break the cycle, I'd be up and attending my classes regularly, feeling on top of my work instead of feeling buried by it. Maybe I'd even manage to enjoy some of the things I used to love doing, like hanging out with friends without constantly worrying about school.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "That vision of attending classes and enjoying time with friends sounds really motivating. What do you think might help you move closer to that version of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Honestly, I think a structured routine might help, even if it's just a small step at first. Like committing to getting out of bed at a certain time or setting small goals for each day to feel a bit more in control.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Creating a structured routine and setting small goals each day sounds like a wonderful step toward gaining more control. On a scale from 0 to 10, how confident do you feel about starting with this small step towards your vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I'd say maybe a 5? It feels like a good plan, but actually doing it is another story. I guess I just need to start and see how it goes.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision of change, detailing a life where they attend classes and enjoy social activities. They've also identified a potential strategy, a structured routine, indicating movement toward change. Although their confidence is at a 5, they've acknowledged that starting small could help. Change Talk is present, and the client has expressed a desire to experiment with small behavioral adjustments. The exploration of life with and without change has been effectively discussed, suggesting readiness to collaboratively develop a plan in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Finding a starting point and giving it a try is a great approach. Developing an action plan could help, perhaps beginning with setting an achievable wake-up time and identifying small daily goals. Do you feel setting a specific time to wake up and a couple of achievable daily goals would be manageable? We can also think about any barriers you might encounter and how to address them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Yeah, setting a specific wake-up time and a couple of small goals sounds doable. I think the biggest barrier might be just the initial push to get started, especially on days when I'm feeling really low. Maybe having a backup plan or something to motivate me when that happens could help.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Having a backup plan for those challenging days sounds like a wise idea. Perhaps creating a list of motivating reminders or small rewards for achieving your goals could be helpful. Would you like to brainstorm some ideas for those backup strategies together and maybe decide on a specific wake-up time that feels realistic for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "A list of motivating reminders or small rewards sounds like a great idea! As for a wake-up time, maybe starting with something not too early, like 9 AM, could work. I'd appreciate help brainstorming ways to stick to this, especially when motivation is low.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Collaborating to brainstorm strategies can make a significant difference. Starting with a 9 AM wake-up time feels like a realistic step. Let's think about some motivating reminders—perhaps notes around your room reminding you of the benefits of attending classes, or even a small reward system like treating yourself to something you enjoy after completing your goals. What are some rewards or reminders that you think could work for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of notes around my room. Maybe reminders of how good it feels to have things done or quotes that motivate me. For rewards, maybe allowing myself some time to watch a favorite show or grabbing coffee with a friend could work. Something small but enjoyable to look forward to.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has collaboratively developed a concrete action plan, including setting a specific wake-up time and devising backup strategies with motivating reminders and rewards. Barriers, like low motivation, are discussed with potential solutions. The client shows readiness by committing to trying the plan and expressing some confidence in these steps. Moving to Terminating is appropriate as the client is equipped with a clear plan and strategies to monitor progress and overcome challenges. OARS feedback: The focus on actionable strategies and exploring motivation thoroughly has strengthened the client's commitment. Consider continuing to reflect on the client's strengths to boost confidence as they implement the plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those are fantastic ideas, and they sound both uplifting and manageable. Placing motivational quotes or reminders where you'll see them often can really help maintain focus, and rewarding yourself with enjoyable activities adds a positive boost. As you work on implementing these strategies, remember it's all about taking small, consistent steps. If sticking to the routine feels hard some days, don't hesitate to reach out for support. You're on a promising path, and I believe in your ability to reach your goals. Let's check in soon to see how things are progressing and adjust any plans if needed. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your help and encouragement. I'll try to get started with these steps and see how it goes. Looking forward to checking in soon!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with a clear next-step plan, including a structured routine and motivational strategies, along with a supportive follow-up arrangement. This collaborative effort met the termination goals effectively. Encouraging collaboration fostered engagement and actionable outcomes.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Thanks to poor mental health, I’ve letted myself go for the first month of the semester. I’m now failing two classes after failing two major exams this last week. What do I do?\nI’ll admit, much of this is my fault. Mental health should never be an excuse for apathy, and this is a lesson that kept fucking me over through the years. \n\nBut here I am now, failing two major exams(one where I got the lowest score in the class) and feeling complete apathy towards everything. It’s so maddening that I’ve even allowed it happen, allowed yet another opportunity slip away due to allowing my poor mental health to completely control me. \n\nAnxiety, depression, etc. are all so bad at the moment. I don’t really know the root cause of it. It just came a couple months ago and has completely taken my over since.\n\nWhat should I do? I really feel lost. Can I even recover from this and save my grades for the semester? I know it sounds foolish asking strangers on the internet for advice, but I simply don’t know what to do and need quick advice on how to turn things around.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

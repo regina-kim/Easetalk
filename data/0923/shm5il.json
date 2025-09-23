@@ -1,0 +1,230 @@
+{
+  "id": "shm5il",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How can I support you today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for asking. I'm just feeling really overwhelmed with my midterm coming up and not really understanding the material. It's kinda stressing me out because I'm not sure how to handle it on my own.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It's understandable to feel stressed when you're not confident in the material. What have you tried so far to manage the workload or understand the material better?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I've tried reviewing my notes and going through the textbook, but it still feels like a foreign language to me. I've thought about forming a study group, but I'm not sure if others are available or if they're in the same boat as me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like you're putting in a lot of effort by reviewing your notes and textbook, yet it's still challenging. Forming a study group sounds like a potential support option. How do you feel about reaching out to classmates to see if they share your concerns or might be interested in collaborating?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think it might help, but I'm a bit nervous about reaching out. I'm worried they might not be struggling like I am, or they might be too busy to help.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear concerns about feeling overwhelmed due to not understanding midterm material, and efforts like reviewing notes and considering a study group. There's recognition of effort and potential strategies, but there's still apprehension about peer outreach. Exploring can deepen around emotional impact and possible supports. Continuing to build rapport and understanding before moving to the Guiding phase is advisable.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling nervous about reaching out is quite normal, especially when you're unsure of how others might respond. You’re thinking of seeking support, which shows resourcefulness. What are some ways you could approach classmates that might feel more comfortable for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Maybe I could try sending a message in a group chat or emailing a few people directly. That way, it's less intimidating than asking face-to-face, and they can respond when they have time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of overwhelm and stress regarding midterms, as well as their concerns about not understanding the material. They have considered but feel nervous about forming a study group. Empathy and rapport have been established, and mutually agreed goals are to find effective ways to manage their study strategy. We can now transition to focusing on strengthening motivation and exploring options more deeply.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "That sounds like a thoughtful strategy, allowing for a more comfortable way to connect with others. How do you think starting a conversation this way might change your experience with preparing for the midterm?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "I guess it could make things feel a little less lonely, knowing I'm not the only one struggling. Maybe if a few of us are confused, we can help each other out and figure it out together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Connecting with classmates might really foster a sense of community and mutual support. Thinking about that possibility, how does it align with your goals for managing stress and feeling more prepared for the midterm?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "If we work together, I think it could definitely help ease some of the stress and make me feel more prepared. Just knowing there are others in the same boat might make the whole situation feel a bit more manageable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): It sounds like collaborating could greatly contribute to reducing stress and building confidence for the midterm. How would you rate your confidence in reaching out on a scale of 0 to 10, where 0 is not confident at all and 10 is very confident?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "Maybe around a 5 right now. I'm still a bit hesitant, but the idea of not going through this alone is kind of encouraging.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The guiding phase has effectively evoked a discrepancy between the client's current struggle and their values of collaboration and support. The client has explored possible scenarios with change, such as forming a study group, which aligns with their goal to manage stress and feel more prepared. Specific change talk and a next step (reaching out to classmates) are evident, though confidence is rated at a 5, indicating some lingering ambivalence. To further solidify confidence and decrease ambivalence, it's beneficial to continue refining strategies within the guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your honesty in rating your confidence at a 5 shows you're acknowledging both your hesitations and your desire to connect with others. What do you think might help you move that confidence toward a higher number?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think getting a positive response from at least one person would boost my confidence a lot. Also, reminding myself that everyone struggles sometimes might help me feel more at ease reaching out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to engage in Change Talk by considering reaching out to classmates and acknowledging that collaboration could reduce stress and increase preparedness. They have also identified specific strategies for reaching out and related these actions to their goal of managing stress. Despite a confidence level of 5, the client has identified conditions that might increase their confidence. Change Talk is present, but with confidence below 6, it's prudent to continue strengthening motivation and exploring ways to boost confidence before moving to specific action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Acknowledging that everyone faces struggles at times can be a reassuring thought. Receiving even one positive response could really validate your effort and encourage you further. What small step could you take today to start reaching out and test the waters?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(guiding): I could start by drafting a simple message to post in our class group chat, maybe just asking if anyone wants to study together or has figured out a certain part of the midterm. Keeping it casual might make it easier for me to hit send.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown signs of readiness to proceed to the Choosing phase. They have expressed Change Talk, identified a specific action (drafting a message to classmates), and set a clear goal of collaborating with peers to ease stress and prepare for the midterm. The confidence level is at a 5, showing a balance of hesitation and willingness to grow. The focus now shifts to creating an action plan and addressing potential barriers. Summarizing and reflecting on the client's ideas about building community and reducing loneliness were effective. It might be helpful to continue exploring ways to boost confidence as the client takes this step.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Drafting a casual message sounds like a great starting point, and posting in the group chat can open up opportunities for supportive connections. Based on this plan, are there any specific times you’d like to aim for sending this message? Also, what might be some challenges or barriers you anticipate, and how could you address them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(exploring): I could aim to send the message this evening since more people might be online then and it's before everyone gets too deep into weekend plans. I guess one challenge might be overthinking how people will react or if they'll ignore it, so maybe I should remind myself that it's okay if not everyone responds, and focus on any positive replies I do get.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Choosing to send the message this evening sounds like a strategic time to reach more classmates. It's thoughtful to focus on any positive replies, which can reaffirm your efforts. How about setting a reminder to send the message, and perhaps planning a follow-up activity that brings you joy, regardless of the outcome? This could help maintain a positive mindset. Would you like to discuss any specific reminders or activities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(exploring): Yeah, setting a reminder sounds like a good idea. Maybe once I send it, I could watch a movie or take a walk to clear my head and not obsess over responses. That way, I can keep myself in a good mood, no matter how it turns out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Planning to watch a movie or take a walk sounds like an excellent way to keep your spirits up and distract yourself while waiting for replies. Setting a reminder can be a helpful nudge to follow through with sending the message. Is there a particular movie or walk route you're considering, or would you like to explore some options?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(exploring): I haven't picked a movie yet, but I'm thinking maybe something light and funny to lift my mood. As for the walk, there's a nice path near campus I like, with lots of trees, so that might be a good choice. Keeping it simple seems best right now.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to send a message to their class group chat and has identified potential barriers, such as overthinking others' reactions. They've also agreed on self-monitoring through reminders and activities to manage emotions post-action. The client demonstrates readiness signals like commitment and confidence in their ability to execute the plan, thus it's appropriate to advance. OARS feedback: Reflecting on your plan and potential barriers was effective, as was affirming the focus on positive outcomes. To adjust, continue exploring and affirming feelings to reinforce confidence.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "A light, funny movie sounds perfect for lifting your mood, and a walk through that tree-lined path near campus could be a refreshing way to clear your mind. It's great that you're planning activities that align with maintaining a positive mindset. As you move forward, remember that every effort you make is a step towards building your confidence and connecting with others. Keep embracing these small actions that support your goals. If you ever need support or want to share how things are going, I'm here for you. Keep nurturing your courage, and have some fun with your chosen activities!",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "Thanks, I appreciate that. I'll try to keep everything in perspective and not stress too much. It's nice to know I can reach out if I need to. I'll let you know how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session concluded with clear steps for fostering connection and coping strategies for the client's concerns. A next-step plan to send a message and engage in positive activities is in place, addressing both confidence and academic challenges. The client expressed understanding and readiness. The use of open questions and affirmations facilitated goal setting and action planning.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I don't understand a thing on my midterm\nMidterms are due in a week and I don't understand these questions one bit... I can't ask my professor about it because that's against the rules. I don't know what I'm supposed to do..",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

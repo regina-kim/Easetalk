@@ -1,0 +1,188 @@
+{
+  "id": "1bewah1",
+  "subreddit": "college",
+  "category": "emotional",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright. I've just been thinking a lot about graduation and feeling weird about the whole regalia thing for myself, like it makes me uncomfortable or something.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduation can bring up a lot of mixed emotions, and it sounds like the regalia is part of that for you. Could you share more about what makes wearing it uncomfortable?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's just like, I don't really enjoy being the center of attention, and wearing all that stuff feels like I'm putting a spotlight on myself. Plus, it feels kind of unnecessary to spend money on something I won't really use again.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Graduation brings many emotions, and it seems like being in the spotlight and the cost are weighing on you. What other thoughts or feelings come up when you consider the ceremony?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It's a mix of excitement and anxiety, I guess. I'm proud to have reached this point, but the idea of everyone looking at me and making a big deal about it feels overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their thoughts and feelings about graduation regalia, including discomfort with attention and financial concerns. The therapist has supported the exploration without rushing, using open questions and reflections to understand the client's mixed feelings of excitement and anxiety about the ceremony. However, the client’s deeper self-view and the discrepancy between their feelings toward others and themselves suggest more exploration is needed to fully understand their perspective before moving to evoking Change Talk. Continue in Exploring to further unpack these emotions and perspectives.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Reaching graduation is a significant milestone, and feeling both excitement and anxiety makes sense. The pride in your achievements and the pressure of the ceremony seem to be pulling you in different directions. What aspect of graduation are you looking forward to the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(exploring): I'm really looking forward to celebrating with my friends and family, and just having that sense of accomplishment. It's just the formal part and all the attention that makes me uneasy.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively elicited the client's mixed feelings about graduation, particularly the discomfort with wearing regalia and being the center of attention. The therapist explored the client's pride in accomplishments and anxiety about the ceremony, establishing rapport and understanding. Goals were mutually recognized, indicating readiness to advance. In the next phase, it will be important to evoke Change Talk about balancing excitement and anxiety. Reflecting the client's pride, despite discomfort, was effective and should continue.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Celebrating with friends and family and feeling that sense of accomplishment sounds truly rewarding. It seems like the formal ceremony brings some unease. How do you envision finding a balance between celebrating your achievements and managing those feelings of discomfort?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): I think maybe focusing more on the parts I enjoy, like spending time with my loved ones, might help. Trying to remind myself that the ceremony is just one part of the day and not the whole thing could make it less daunting.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Recognizing the ceremony as just one part of the day could indeed help put things in perspective. How confident do you feel about being able to focus on the enjoyable aspects, like time with your loved ones, on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe around a 6 or 7. I feel like once I'm in the moment with my family and friends, it'll be easier to shift my focus away from the parts that stress me out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): A 6 or 7 shows that you have a decent amount of confidence in shifting your focus during the day. What do you think could help boost that confidence even further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe planning out a fun, relaxing activity to do with my family and friends after the ceremony could help. Also, having a little pep talk with myself beforehand to remind me it's okay to feel uneasy might boost my confidence too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific change goal of focusing on enjoyable aspects of graduation to manage discomfort, and their confidence is rated at 6 or 7. They also explored strategies to enhance confidence, such as planning a relaxing activity and self-encouragement. Change Talk is present, and ambivalence is decreasing. Thus, the conditions for moving to Choosing are met. The Guiding phase effectively explored the discrepancy between values and behaviors and evoked constructive Change Talk. Open questions and reflections helped deepen understanding.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Those are great strategies! Planning a fun, relaxing activity and giving yourself a pep talk are both excellent ways to enhance your confidence. Based on what you've mentioned, potential steps could include scheduling a post-ceremony event with your loved ones and preparing some encouraging words for yourself. How does that sound as an action plan, and what might be some potential barriers you could face with these ideas?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan to me. The only potential barrier I can think of is coordinating everyone's schedules for the post-ceremony activity, but I’m sure we can figure something out. As for the pep talk, I just need to make sure I actually stick to it when the time comes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Collaboratively working through those potential barriers sounds like a great step forward. For coordinating schedules, perhaps reaching out to your loved ones early could ease the process. As for sticking to the pep talk, setting a reminder or jotting down key points you want to remember might help reinforce it. How do you feel about these suggestions, and what would be a good way to track how things go on the day?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I feel good about reaching out early; I’ll definitely do that to get everyone on the same page. And yeah, maybe writing down a few key points for my pep talk would make it more concrete. To track how things go, maybe I can jot down some thoughts afterward or even chat with a friend about how everything turned out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Those sound like effective ways to implement your plan and reflect on your experience. Reaching out early and having some concrete pep talk points can really solidify your approach. Jotting down thoughts or discussing with a friend afterward will allow you to review your day and see what worked well. How does setting a time to check in with yourself or a friend to reflect sound, and is there anything else you'd like to include in your action plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Setting a specific time to check in sounds like a great way to ensure I actually take a moment to reflect. Maybe I can plan to talk with a friend the next day or write in my journal that night. I don't think there's anything else to add right now, but I'm open to adjusting as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear action plan, including setting up a post-ceremony activity and preparing a pep talk to manage unease. Potential barriers like scheduling and sticking to the pep talk have been anticipated, with strategies proposed to overcome them. The client also agrees to self-monitor by reflecting on the experience and discussing it with a friend afterward. Their readiness is evident in their commitment to concrete steps and their acceptance of suggestions. With the goals met, the client seems prepared to move toward terminating. OARS feedback: The collaborative approach and focus on actionable steps have solidified your confidence in handling the situation.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It sounds like you’ve crafted a thoughtful and supportive plan for yourself. Setting a time to check in with a friend or journaling will give you a chance to capture those reflections and celebrate your successes. Being open to adjustments speaks volumes about your adaptability and resilience. You've got a strong foundation, and I believe you have the tools you need to manage the ceremony day positively. Remember, it's okay to feel a range of emotions, and your strategies will help you navigate them. You've got this! Feel free to reach out if you need further support.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, that really helps. I’ll keep all of that in mind and see how it goes. Appreciate your support!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively covered goal review, strategies, and a next-step plan. The client has a clear action plan and reflection strategy. Clients demonstrated confidence and adaptability, indicating readiness to manage the ceremony day positively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Does anyone else not like the idea of graduation regalia for themselves?\nMaybe it's just me, but I don't see the point in spending money on a stole, cords, medallion, or a special tassel just to show off academic accomplishments. I feel embarrassed when they're pointed out, anyway, so I can't imagine willingly wearing that stuff to draw attention to myself.\n\nThe weird thing is, I only feel this way when it comes to myself. Seeing other people in their regalia makes me happy and proud of them, so why can't I feel that way for myself?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

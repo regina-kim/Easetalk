@@ -1,0 +1,167 @@
+{
+  "id": "10bglmo",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I’m doing alright, just been feeling a bit stressed about the whole roommate situation. It’s been bothering me more than I thought it would.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Roommate situations can definitely be challenging. What about the situation is causing you the most stress right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's just the lack of privacy and feeling uncomfortable in my own space. It's hard to relax when there's someone else around so often.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Feeling uneasy in your own space must be quite draining. It sounds like the constant presence of your roommate is making it difficult for you to unwind. What have you found helps you cope in these moments?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I've been trying to spend more time outside of the dorm, like studying in the library or hanging out with friends. But it’s not always possible, and I can't avoid my room forever.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story has been explored in depth, revealing the discomfort and stress caused by the roommate's behavior. The client shared specific details about the setting and the emotional impact. We've established empathy and mutual understanding of the issue. The client expressed uncertainty about handling the situation, opening a path for motivation and change. Moving to the Guiding phase will help focus on exploring potential solutions and evoke Change Talk. An effective exploration was achieved through open questions, reflections that empathized with the discomfort, and summary that captured the essence of the client's experience.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be tough feeling like you can't fully relax in your own space. Spending more time outside seems like a creative way to cope. How would you like your living situation to be different, and how might that change impact your overall stress levels?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I’d like to feel more comfortable and have some alone time in my room without always worrying about someone else being there. I think it’d really help lower my stress because I’d have a place to just chill and recharge when I need to.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a personal sanctuary to recharge sounds really important for you. Imagine having that space to unwind whenever you need it—how might that positively affect other areas of your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "If I had that kind of space, I think I'd be able to focus better on my studies and be more relaxed overall. It'd probably make me more social too, since I wouldn't be as drained or worried about going back to a crowded room.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "That potential for improved focus and relaxation seems really significant. Thinking about feeling more refreshed and social, what small steps could you consider to start moving towards creating that sense of personal space?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "I guess the first step could be having a calm conversation with my roommate about how I'm feeling and seeing if we can find a compromise. Maybe we could agree on certain days or times when the room is just for us individually.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific concern about her roommate situation and has expressed a desire for more personal space, which aligns with her values of comfort and stress reduction. She has acknowledged the benefits of having private time and identified a potential first step—a conversation with her roommate about setting boundaries. Change Talk is present, as is a specific change goal. While confidence rulers weren't explicitly used, her willingness to discuss solutions suggests a readiness to move forward. Move to the Choosing phase to collaboratively develop a plan and strategies. OARS feedback: The guiding phase effectively explored discrepancies and evoked Change Talk by highlighting the impact of the current situation on her stress and social interactions.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring a compromise with your roommate sounds like a thoughtful first step. How do you envision approaching this conversation, and what other strategies could support you in creating that personal space? Options might include setting up a shared calendar or planning specific times for personal activities outside.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I’d start by just being honest with her about how I’ve been feeling and how important it is for me to have some personal space. Maybe we could both benefit from setting some kind of schedule. Having a shared calendar could definitely help keep things organized and clear between us.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Using honesty to express your needs shows a lot of courage and thoughtfulness. Collaborating on a shared calendar could offer clarity and help both of you stick to a schedule. What do you think might be potential hurdles in implementing this plan, and how could you plan to overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I guess the biggest hurdle might be if she's not open to changing things or if she feels like I'm overreacting. I’d probably try to make sure she knows it's not about her or being against her friend, but more about needing personal space. Maybe having a backup plan, like spending more time in common areas, could help if things don’t change right away.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Acknowledging her feelings and focusing on your need for space shows empathy and understanding. Having a backup plan like using common areas is a proactive approach. How would you feel about setting a time to check in with yourself and see if these strategies are helping, or if adjustments are needed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea. If I set a time, maybe every couple of weeks, to just reflect on how things are going, it might help me stay on track and make sure I'm doing okay. If things aren’t improving, I can think about what else I might try or even revisit the conversation with my roommate to see if we can tweak our plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of negotiating personal space and has developed a concrete action plan involving a conversation with the roommate and a shared calendar. She has anticipated potential barriers, such as the roommate's possible resistance, and devised a backup plan of utilizing common areas. The client is committed to self-monitoring by setting regular check-ins. This indicates readiness to proceed as she demonstrates commitment and confidence in her plan. Moving forward, it would be beneficial to continue using reflective listening to reinforce her progress and address any emerging challenges.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Setting aside time every couple of weeks to reflect on your progress is a wise move. It allows you to stay connected with your needs and gauge if the strategies are working. It's great to see you're open to reassessing and communicating with your roommate if needed. Remember, it's perfectly okay to make adjustments along the way. You're showing a lot of commitment to creating a supportive environment for yourself. Keep up the thoughtful approach, and don't hesitate to reach out for support when you need it. You're making important strides, and I'm here to support you in this journey.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for all the encouragement. I really appreciate having someone to talk these things through with. I'll definitely keep you in the loop on how it all goes.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined a plan to address her concern with her roommate, established strategies, and is open to reassessing and adjusting her approach. The goals and coping strategies have been summarized and a next-step plan is in place.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Roommate brings her friend to sleep at our dorm every other night\nI know these kinds of posts show up every day on this sub and that if I have a problem with my roommate I should talk to them about it, but I can’t help but wonder if I’m being over dramatic. \n\nMy roommate for the past few months has been bringing her friend to sleep in our dorm. At the beginning, she asked me if it was okay and I said yes. And at first, everything was fine. She’d bring this friend every so often to our place and they would sleep the night with us. \n\nBut more recently, she’s been bringing them almost every other day and it’s starting to get quite unnerving to say the least. Mind you, I am 18F and her friend is 18M so it makes it kinda awkward for him to be sleeping here. \n\nAnd this would all be fine if we lived in a suite of some sort, but our dorm is traditional style and so we don’t have the luxury of our own private rooms. In fact, I can literally see her bed right across from mine while she is sleeping with her friend.\n\nBefore, she used to put a mattress on the floor next to her bed for him to sleep on, but now it’s literally them both sleeping together in the same bed which has made it even more uncomfortable. \n\nIs this a normal thing to do in college? I don’t really know if this is something I should tolerate or how to go about confronting this issue if it’s something I shouldn’t.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

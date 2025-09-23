@@ -1,0 +1,335 @@
+{
+  "id": "10a263z",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What's on your mind today? Feel free to share anything you'd like to discuss or explore further.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! So, I've been stressing about college decisions. I really want to go back to California for school, but I'm worried about being so far from home and the costs.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Thinking about college decisions can be overwhelming, especially when weighing the excitement of returning to California against concerns about distance and expenses. What matters most to you as you consider these options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I think what matters most is being in a place where I feel happy and supported. I really want to be near my best friend and in a place that feels like home, but I also don’t want to regret being so far from my family.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing the desire for happiness and support with the need to stay connected to your family is challenging. Being near your best friend and in a familiar place can feel comforting, while considering the distance from your family might bring up some difficult emotions. Can you tell me more about what feeling supported means to you in this decision?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Feeling supported means having people around who genuinely care about my well-being, whether that's my family or friends. It's knowing that I have a network to lean on when things get tough, and people who understand and encourage my dreams.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the central dilemma of choosing between staying close to family and moving to California. They have expressed the importance of feeling happy and supported, and clarified what support means to them. The therapist has successfully used reflections and open questions to gather the client's thoughts and feelings about the decision. Empathy and rapport are evident, and the client's goals have been mutually discussed. Moving to the Guiding phase to explore these feelings and how they influence motivation for change is appropriate. OARS feedback: Reflecting on values and feelings was effective, but future sessions should focus more on evoking specific motivations.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having a strong network of people who care about your well-being is clearly important to you. It sounds like being surrounded by those who understand and encourage your dreams is a significant factor in your decision. How does this influence your thoughts on being farther from your family?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): It's tough, honestly. I know my family supports me, but the thought of not having them close by when I need them is scary. At the same time, I feel like being around people who share my aspirations might help me grow in a different way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Balancing those feelings of fear and potential growth seems like a significant part of your decision-making process. Being in an environment that nurtures your dreams could offer a unique kind of support. How do you envision your life evolving both with and without this change?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): If I move to California, I imagine myself diving into opportunities related to my career and growing a lot personally. But I also think about those moments when I'm feeling down or overwhelmed, and it'd be hard not having my family around for comfort. If I stay closer, I'd have that family support, but maybe I'd feel like I'm missing out on some unique experiences.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Considering the potential for personal growth and career opportunities in California versus the comfort of having family support nearby, it sounds like you're envisioning two very different paths. How does thinking about these different visions affect your confidence in making this decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Honestly, it makes me feel a bit torn because both options have their pros and cons. I guess it leaves me feeling unsure about what I truly want and what's best for me in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing ambivalence and has expressed both the potential benefits and drawbacks of moving to California. There's evidence of Change Talk regarding personal growth and opportunities. However, the client still feels torn and unsure about their decision, indicating that ambivalence remains. While the conversation has explored the discrepancy between values and behavior, the client hasn't identified a specific change goal or demonstrated confidence in their decision. Continuing in the Guiding phase will allow more exploration and resolution of remaining ambivalence before formulating a plan.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Navigating those feelings of uncertainty while weighing the pros and cons of each path is definitely challenging. Given these two visions, where on a scale from 0 to 10 would you place your confidence in making a decision, and what might help increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I'd say I'm at about a 4 right now. I think talking more with people who have been in similar situations or getting more advice from those who've gone through the same decision-making might help me feel more sure about what to do.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is expressing ambivalence with a confidence level of 4, indicating a need for further exploration in the Guiding phase. There is a clear discrepancy between the client's values of personal growth and career opportunities in California versus family support. However, specific change goals or next steps are not yet established, and the client seeks more information and advice to increase confidence in decision-making. Continuing in this phase will allow for further exploration to reduce ambivalence and enhance confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "therapist(guiding): Engaging with others who have faced similar choices could provide you with valuable insights and reassurance. It seems like building that understanding might increase your confidence. What kind of advice or experiences would you hope to hear that could help clarify your path forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I'd love to hear from people who moved far from home and how they handled the homesickness or if they regretted it. Also, stories about how being in a new place helped them grow or opened doors for their career would be helpful. Knowing the ups and downs from their perspectives might make things clearer for me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing significant ambivalence and has expressed a low confidence level of 4 in making their decision. Although they have articulated the potential benefits and drawbacks of both options and shown interest in learning from others' experiences, they have not yet committed to a specific change or step. The focus should remain on exploring these feelings and building confidence before progressing to the action planning phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Hearing firsthand accounts about both the challenges and the growth opportunities of such a move could really illuminate your path. It could be beneficial to understand how others managed homesickness and whether the change aligned with their goals. How do you think hearing these stories might influence your own journey and decision-making process?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "I think hearing those stories might give me a better idea of what to expect and how to handle the tough parts. It could reassure me that I'm not alone in this and that others have found ways to adapt and thrive. It might also help me weigh my options more clearly, seeing what aligns better with my goals and personality.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a discrepancy between the desire for personal and career growth in California and the comfort of family support in Connecticut. However, their confidence in making a decision is low, rated at a 4. While Change Talk is present, the client is still exploring experiences and advice from others to clarify their path, suggesting ongoing ambivalence. The client could benefit from further exploration of values and confidence building before developing specific action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Knowing others have navigated similar challenges and thrived can be quite reassuring. Hearing their experiences could provide you with a sense of community and insight. How might these shared stories help you in feeling more connected to your own values and desires as you consider your next steps?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think they might help me see if my values align more with staying close to home or taking the leap to California. Understanding how others felt and what they valued in their decisions might make me feel more confident in identifying what's truly important to me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their desire for growth opportunities in California and the comfort of staying near family. They have explored the impacts of both choices on their life and expressed a need for external insights to increase confidence. However, the client's confidence remains low (4 on a scale to 10), and they continue to express ambivalence. There's a need for further exploration of their values and how these align with their decisions before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Connecting with those who have faced similar challenges might indeed shine a light on what resonates most with your own values. Seeing how others' values influenced their choices could help clarify your priorities. What aspects of your values or desires are you most curious to reflect on as you hear these stories?",
+      "phase": "guiding"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "I'm curious to explore how much I value adventure and new experiences compared to the comfort of being close to my family. Like, am I someone who thrives on change, or do I need that stability to feel secure? I also want to see how much I prioritize my career goals and the opportunities in California versus the relationships and support system I have here.",
+      "phase": "guiding"
+    },
+    {
+      "index": 29,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in exploring the discrepancy between their desire for adventure and career opportunities in California versus staying close to family. There is consistent Change Talk, with the client expressing a desire to hear stories that align with their values of adventure, stability, and career aspirations. However, their confidence in making a decision remains low at 4. They have not yet articulated a specific change goal or next step. Therefore, it is appropriate to continue the Guiding phase to further explore and clarify their values and goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 30,
+      "role": "therapist",
+      "statement": "Exploring how you balance the thrill of new experiences with the comfort of your existing support system can provide deep insights into your values. Reflecting on the importance of career opportunities versus personal connections could guide your decision-making. As you consider these stories, what would you most like to discover about how these elements align with your sense of security and adventure?",
+      "phase": "guiding"
+    },
+    {
+      "index": 31,
+      "role": "client",
+      "statement": "client(reflecting): I'd like to discover if people have found a way to balance both—like pursuing their goals while still maintaining strong relationships with family and friends. It'd be great to know if moving far actually helped them grow and feel more secure in themselves, or if it turned out to be too overwhelming. Getting a sense of how they managed that balance could be really enlightening for my own situation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 32,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in exploring their values and desires by considering the experiences of others who have made similar decisions. They have expressed interest in hearing stories that align with both their curiosity and values, and have begun to articulate discrepancies between their current situation and potential choices. Although there is some Change Talk, their confidence level is still low at 4, and they haven't yet identified a specific change goal or next step. Continuing to refine their values and resolve ambivalence will further strengthen motivation for change.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 33,
+      "role": "therapist",
+      "statement": "therapist(guiding): Learning how others have balanced their aspirations with maintaining close relationships could indeed offer meaningful insights. It might help clarify whether pursuing this change aligns with your own sense of balance and security. What part of this potential balance are you most eager to explore further in your own journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 34,
+      "role": "client",
+      "statement": "client(reflecting): I'm eager to explore whether I can grow personally and professionally without sacrificing the closeness I have with my family and friends. It's important for me to see if I can find that sweet spot where I'm chasing my dreams but still feel connected and supported by my loved ones.",
+      "phase": "guiding"
+    },
+    {
+      "index": 35,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "In this conversation, the client actively reflects on their values and goals, demonstrating an awareness of the discrepancies between staying close to home and pursuing opportunities far away. The therapist effectively uses open questions and reflections to explore the client's ambivalence and deepen their understanding. Change Talk is present as the client discusses their desire for personal and professional growth. However, the conversation has not fully shifted towards a specific change goal or next step, suggesting more exploration is needed before moving to the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 36,
+      "role": "therapist",
+      "statement": "Finding that sweet spot of personal growth while maintaining close connections sounds like an important part of your journey. Hearing how others achieved this balance might provide the reassurance and insight you’re seeking. What aspects of personal and professional growth are you most excited about exploring as you consider this balance?",
+      "phase": "guiding"
+    },
+    {
+      "index": 37,
+      "role": "client",
+      "statement": "I'm really excited about the idea of diving into opportunities that could boost my career in entertainment, like being near LA where so much is happening. At the same time, I want to see how I can develop my independence and self-confidence while keeping my relationships strong and supportive.",
+      "phase": "guiding"
+    },
+    {
+      "index": 38,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown a clear discrepancy between their desire for growth and the comfort of staying close to home, evidenced by their excitement about career opportunities in California and their concern for maintaining close relationships. Change Talk is present, with the client expressing a desire to explore balance and growth. The client has outlined specific goals regarding career and personal development. Although confidence rulers weren't explicitly used, the client demonstrated a thoughtful consideration of their values and priorities. Given these factors, the conversation can move into the Choosing phase to develop action plans that incorporate these insights.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 39,
+      "role": "therapist",
+      "statement": "Exploring career opportunities in LA alongside nurturing your independence and relationships sounds like a thrilling journey. As you consider taking this leap, what steps do you think you might take to ensure you stay connected with your loved ones while pursuing these exciting professional opportunities?",
+      "phase": "choosing"
+    },
+    {
+      "index": 40,
+      "role": "client",
+      "statement": "I think I'd need to make a solid plan for regular check-ins with my family and friends, like setting up weekly video calls or something. Maybe visiting home during holidays or having them come visit me could help too. It's all about finding ways to stay in touch and share my experiences with them, even from afar.",
+      "phase": "choosing"
+    },
+    {
+      "index": 41,
+      "role": "therapist",
+      "statement": "Planning regular check-ins and visits sounds like a wonderful strategy to maintain those important connections. Considering what you've shared, some options could include setting a specific schedule for those calls or planning visits in advance around key dates. How do you feel about creating an action plan around these steps, and what might be the first step you'd like to commit to in ensuring this balance?",
+      "phase": "choosing"
+    },
+    {
+      "index": 42,
+      "role": "client",
+      "statement": "I feel pretty good about creating an action plan; it makes me feel more in control of the situation. The first step I'd like to commit to is talking with my family to establish a regular schedule for video calls, so we can all stay connected no matter where I end up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 43,
+      "role": "therapist",
+      "statement": "Committing to a regular schedule for video calls sounds like a strong first step towards maintaining those cherished connections. It shows your dedication to keeping family ties strong, even amidst new adventures. As you plan this out, what potential challenges might you anticipate, and how do you think you might address them if they arise?",
+      "phase": "choosing"
+    },
+    {
+      "index": 44,
+      "role": "client",
+      "statement": "client(choosing): One challenge might be time differences or conflicting schedules, especially if I'm busy with school or work. I guess being flexible and communicating openly with my family about any changes could help manage that. Maybe we could agree on backup times or days as a contingency plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": 45,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and action plan regarding maintaining relationships while exploring opportunities in LA. They've identified potential challenges, such as time differences, and strategies to address them, like flexibility and open communication. The client has shown readiness with commitment to specific steps, such as establishing a regular video call schedule. Given the progress made in developing concrete plans and addressing barriers, it's appropriate to move to Terminating. Moving forward, continue affirming the client's proactive planning and adaptability as they implement their plan.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 46,
+      "role": "therapist",
+      "statement": "Being flexible and having open communication sounds like a thoughtful approach to overcoming scheduling challenges. Having backup times or days ensures you have a plan if life gets hectic. What a great way to show your commitment to staying connected! As you move forward, remember you have the creativity and resilience to navigate these hurdles. Your openness to adapting will surely support your growth and connections. Keep embracing this journey, and feel free to reach out whenever you need support or want to share your progress. You're taking empowering steps towards a balanced future!",
+      "phase": "terminating"
+    },
+    {
+      "index": 47,
+      "role": "client",
+      "statement": "Thanks, that means a lot. I'll definitely keep everything we talked about in mind and reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 48,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan to maintain family connections while pursuing opportunities, addressing potential challenges with flexibility and communication. They expressed readiness to implement this plan, indicating session goals are met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: near or far?\nthis has probably been asked a bajillion times but im starting to look at colleges to go to and i'm not sure how far from home i want to go.\n\nfor a long time i wanted to go to California, because I was born there, my best friend lives there, and if i'm pursuing a career in entertainment being near LA would be nice and convenient.\n\nI told my parents and they advised against it. California is extremely expensive and i would have to find a way to move my lizard and snake across the country from where I live in Connecticut. They also said i probably would get homesick and miss them. they said if i dont think i will that will change once i actually leave.\n\nthe problem is i really really miss california, i miss my best friend a lot. i'm just worried about the potential consequences of moving so far",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

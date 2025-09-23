@@ -1,0 +1,167 @@
+{
+  "id": "1e166cq",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I’m here to listen and understand your story. What would you like to share today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've just been stressing out about forgetting so much from my AP Calc course. I'm worried about falling behind in Calc 2 this fall.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It’s understandable to feel stressed about that. What do you think has contributed to this feeling of forgetting material from your AP Calc course?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's just been a while since I took the class, and I haven't used the stuff I learned in real life. Plus, with summer being so chill, I kinda relaxed a bit too much.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Taking a break and the distance from everyday practice can make retaining the material difficult. How do you feel about getting back into math, and what might help you feel more prepared for Calc 2?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm kind of nervous about jumping back in, but I think refreshing some key concepts over the summer could help. Maybe I should find some online resources or study groups to get back into the groove.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The exploration phase has effectively elicited the client's main concern about feeling unprepared for Calc 2 despite scoring well in AP Calc. The client has expressed feelings and thoughts about the summer break and their anxiety about starting the new course. Rapport is evident as the client openly shares their worries and potential solutions, like using online resources. We have a mutual understanding of the client's goal to refresh key concepts. Transitioning to Guiding will allow us to further explore motivation and evoke Change Talk about potential strategies for summer study.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're considering some proactive steps to ease back into math, which shows your determination. Reflecting on times when you successfully learned challenging material before, what strategies did you find most helpful?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I think going through practice problems and watching video tutorials worked well for me in the past. Also, studying with friends helped a lot because we could explain things to each other.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Those are great strategies that have worked for you before. How confident do you feel, on a scale of 0 to 10, about using these methods to refresh your math skills this summer?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Maybe like a 6 or 7? I know they work, but I'm still worried about not remembering enough in time for class.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It's encouraging that you're leaning towards methods that have been successful for you already. You’re at a 6 or 7, which shows some confidence. What do you think might move you closer to an 8 or 9 in feeling ready for Calc 2?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe committing to a regular study schedule could help boost my confidence. Also, if I could find a study buddy or a tutor, that might give me the extra push I need to feel more prepared.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change talk, such as creating a study schedule and finding a study buddy or tutor. Their confidence is around 6 or 7, indicating some readiness for change. The client has also reflected on past effective strategies and explored the discrepancy between their current skills and future academic goals. The conversation included the use of confidence rulers and summaries, which the client responded to constructively. Overall, the client appears ready to develop specific action plans, so it's appropriate to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Committing to a study schedule and finding a study buddy or tutor are excellent ideas to enhance your readiness. Based on what you mentioned, would you like to set a goal for how many hours per week you’ll study or explore options for finding a study partner? We can brainstorm ways to address any barriers you might anticipate along the way.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a goal for study hours sounds like a good start. Maybe aiming for like 5 hours a week could work? As for finding a study buddy, I'm not sure where to start, so any advice on that would be super helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting a goal of 5 study hours a week is a solid plan. To find a study buddy, you might consider reaching out to classmates or using online platforms like study forums or social media groups related to your course. How do you feel about these options, and what challenges do you think you might face in sticking to your study schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Reaching out to classmates seems like a good idea, but I'm a bit shy about it. I guess I just need to push myself to be more proactive. As for the study schedule, I'm worried about distractions, but I think setting specific times might help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating specific study times each week can definitely help manage distractions. Reaching out to classmates might feel challenging, but it could be rewarding. As you think about these options, what steps do you want to take first, and how can we track your progress to help you stay committed?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "I think the first step is setting up a weekly schedule so I know when to study. After that, I can try reaching out to classmates to see if anyone's interested in studying together. Maybe we can check in every couple of weeks to see how I'm doing with sticking to my plan?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of studying 5 hours per week and has considered strategies for finding a study buddy. They've also identified potential barriers, like distractions and shyness, and proposed solutions, such as setting specific study times and reaching out to classmates. The client expressed commitment to these actions and suggested regular check-ins for self-monitoring. These steps indicate readiness to move towards concluding the counseling phase with established self-monitoring strategies and a concrete action plan in place.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a practical and thoughtful approach. Starting with a weekly schedule gives you a clear structure, and reaching out to classmates is a brave step towards building a supportive study environment. Checking in every couple of weeks can really help maintain your momentum and make adjustments as needed. You’re showing great initiative and insight, and I'm here to support you as you progress. Remember, it's okay to pace yourself and reach out for help when you need it. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for all the advice and support. I'll give it my best shot and see how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified steps to address concerns, such as setting a study schedule and seeking a study buddy. A plan for regular progress checks is in place, addressing both goals and coping strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I got a 4 on the ap calc test but I forgot almost everything ToT. I'm taking calc 2 in fall, what do I do???\nI'm studying over the summer, but I don't want to have to relearn the entire course 💀\n\n",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

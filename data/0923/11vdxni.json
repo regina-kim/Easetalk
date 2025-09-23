@@ -1,0 +1,188 @@
+{
+  "id": "11vdxni",
+  "subreddit": "GradSchool",
+  "category": "interpersonal",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here to chat. What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for checking in. I've just been feeling really lonely in grad school, even though I do have some friends here. It's just not the same as what I had in undergrad, and it's been tough adjusting to this new environment.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're navigating a challenging transition and missing the connections you had before. What has this experience been like for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: It's been pretty tough. I often find myself thinking about the good times I had with my undergrad friends and how easy it was to connect with them. Here, it feels like I'm on the outside looking in, and it's hard to find that same level of closeness.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The longing for the closeness you felt with your undergrad friends seems to be a significant part of what you're experiencing now. What have you tried so far to create new connections or deepen the ones you have?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I've tried joining a few clubs and attending social events to meet people, but I still feel like something's missing. I guess it's just not translating into those deep connections I had before.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of loneliness and missing deep connections from undergrad, providing insight into their context and emotional state. They have also discussed attempts to address this through clubs and social events. The therapist has established empathy and rapport by exploring these experiences and emotions. Now, it would be beneficial to move to the Guiding phase to strengthen motivation for change and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be challenging feeling like something's missing despite your efforts to connect. What do you think might help bridge the gap between where you are now and the closeness you hope to feel?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I'm not entirely sure, but maybe finding people with similar backgrounds or interests might help. It would be nice to meet others who understand what it's like to be far from home and going through the same grad school struggles.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding others who share your background and experiences could indeed create a deeper connection. How confident do you feel, on a scale from 0 to 10, about finding these connections and building the closeness you're looking for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 4 or 5? I'm hopeful but it's just been slow and I haven't had much luck yet. It feels a bit daunting to put myself out there again and again.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Taking those steps repeatedly can feel overwhelming, especially when results aren't immediate. What might help you move from a 4 or 5 to a higher level of confidence in making those connections?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Maybe setting smaller, more manageable goals could help, like just trying to have a meaningful conversation with one person at a time. Also, being more open about my experiences might make it easier to connect with others who might feel the same way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client is experiencing a clear discrepancy between their current lack of deep connections and their value of meaningful relationships. They've discussed potential strategies, like setting smaller goals and being more open, to increase their confidence, even though they currently rate it at a 4 or 5. Change Talk is present, with a specific goal of building deeper connections. However, confidence is not yet at a 6 or higher, indicating they may need more support in the Guiding phase to solidify their readiness and confidence for the Choosing phase. Continue guiding.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Embracing smaller goals and sharing your experiences sounds like a thoughtful approach to fostering connections. What do you envision as the first step towards these smaller, meaningful interactions?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think starting by engaging more in one-on-one conversations with people I already know a little might be a good first step. Maybe inviting someone for coffee or a study session would make it easier to have those deeper conversations.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire to connect with individuals who share similar experiences and has identified a specific first step—engaging in one-on-one conversations. Change Talk is evident, and the client has outlined actionable steps, suggesting readiness to develop action plans. Confidence, while initially low, seems poised to increase through smaller, manageable goals and self-disclosure. The conversation effectively explored the discrepancy between the client's current situation and desired connections, making a transition to Choosing appropriate.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Inviting someone for coffee or a study session is a wonderful first step toward building deeper connections. Based on what you've shared, possible options include scheduling a coffee meet-up once a week or joining a study group focused on shared interests. What are your thoughts on trying one of these approaches, and do you foresee any barriers you might encounter?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think scheduling a coffee meet-up once a week sounds more my speed, it's less intimidating than a big group. The main barrier is just my anxiety about reaching out and maybe not having the conversation feel as natural as I'd hope.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Choosing a coffee meet-up once a week sounds like a comfortable and personable approach. Your awareness of the anxiety and natural flow of conversation is insightful. Would it help to prepare some topics or questions in advance to ease into the discussion? We could also explore strategies for managing your anxiety when reaching out. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good plan. Having some topics ready would definitely make me feel a bit more at ease, I think. I'd also appreciate some tips on managing anxiety, especially before reaching out to someone new.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Preparing some topics ahead of time can certainly create a sense of ease, giving you a foundation for your conversations. As for managing anxiety, techniques like deep breathing or visualizing a positive outcome can be helpful. Would you be interested in trying these strategies, or is there something else you feel might work better for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): I think trying deep breathing and visualizing a positive outcome could be really helpful. I've heard about those techniques before but never really practiced them intentionally. I’m open to giving them a shot and seeing how they work for me.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of scheduling weekly coffee meet-ups and has agreed to specific strategies for overcoming potential barriers, including preparing topics and managing anxiety through deep breathing and visualization. These steps indicate a commitment to action and demonstrate confidence in executing the plan. The client is open to trying new techniques, suggesting readiness to apply these changes. Therefore, the goals of the Choosing phase have been met, and it is appropriate to advance to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Giving deep breathing and visualization a try sounds like a wonderful step toward managing your anxiety. It’s encouraging to hear your openness to exploring these techniques. To summarize, your plan involves scheduling a weekly coffee meet-up, preparing conversation topics, and practicing deep breathing and visualization to manage anxiety beforehand. You’ve set some thoughtful goals that align well with your desire to form deeper connections. Remember, each small step is a victory in itself. If you ever feel the need for support or adjustments along the way, I'm here to help you. Keep embracing these new experiences with kindness towards yourself.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for all the suggestions! I'll definitely start by giving these strategies a shot and see how they work for me. It's nice to know I can reach out if I need more guidance.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session has effectively addressed the client's concerns with a clear plan: weekly coffee meet-ups, conversation preparation, and anxiety management techniques. The client feels supported and open to trying these strategies.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How to deal with loneliness in grad school ?\nI'm in my first year of grad school. I do have friends to hang out with but that doesn't seem to help with me being lonely. I am also finding it hard to form \"real\" connections in grad school similar to how I did in undergrad. My undergrad friends were the best and I miss them a lot. I had to move to a new country for grad school and I often miss my life back home. Is this common among grad students in general ? How do you deal with it ?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

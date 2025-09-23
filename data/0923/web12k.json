@@ -1,0 +1,230 @@
+{
+  "id": "web12k",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright. I've just been thinking a lot about my degree and whether I should focus on a concentration or just go for a general degree and worry about a master's later. It's been kinda stressing me out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a tough decision, and it's understandable to feel stressed about it. What are some of the factors you're considering as you think about your degree options?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I'm trying to figure out if the extra time and money for a concentration will really matter in the long run, especially if I plan to go to grad school anyway. Plus, I'm wondering how it might affect my job prospects after I graduate.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing the immediate costs with future benefits can definitely be challenging. It seems like you're weighing the importance of specialization against broader opportunities. What kinds of job roles or fields are you hoping to enter after graduation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I'm really interested in roles that involve water, like hydrogeology or hydraulic engineering. I want to work on projects related to water resources, because that's the part of geology that excites me the most.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's concerns about pursuing a degree with or without a concentration. The client articulated their thoughts and context, including past academic experiences, interests, and future aspirations. The therapist demonstrated understanding and empathy, helping to clarify the client's values and considerations. This creates a solid foundation for moving into the Guiding phase to further explore motivation and evoke Change Talk around commitment to educational paths.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "The excitement you feel about water-related projects really shines through. How do you see a concentration impacting your journey into these fields, compared to a general degree?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think a concentration might give me more specialized knowledge right off the bat, which could be helpful. But then again, if I can get into a good master's program, that might be enough to get me where I want to go. It's hard to know what's more valuable at this stage.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It sounds like you're exploring how a concentration might directly enhance your expertise in your areas of interest. On a scale from 0 to 10, how confident do you feel in making a decision about your degree path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): I'd say maybe around a 5. I feel like I have some idea of what I want, but there's still a lot of uncertainty and things I don't know. I guess I'm just hoping for a bit more clarity.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Finding clarity can indeed be challenging, especially with so many factors at play. What might help you feel more certain, or bump that confidence from a 5 to a higher number in making your decision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): I think talking to my advisor could help, just to understand what the real differences are and how they might affect my career path. Also, hearing from people who are already working in the field might give me a better picture of what employers actually value.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by acknowledging the need for more information and indicating willingness to speak with an advisor and professionals in the field. However, confidence in decision-making is at 5, suggesting ambivalence and a need for further exploration. The conversation successfully highlighted discrepancies between current thinking and career goals, but further guidance is needed to solidify a specific change goal and increase confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Speaking with your advisor and professionals in the field sounds like a really proactive approach. It could offer you the insights you need to feel more informed. What values or goals do you want to ensure you hold onto, regardless of which path you choose?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I want to make sure that whatever path I choose keeps me excited and passionate about the work I’m doing. I also value gaining skills that will actually help me make a difference in the field, especially with water resources.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client exhibits a clear interest in water-related geology and has initiated plans to seek further advice, indicating steps towards change. However, their confidence level remains at 5, and they continue to express uncertainty and ambivalence about their decision. Although they've articulated the importance of aligning their studies with personal values and career aspirations, a specific change goal is not yet firmly established. Continuing in the Guiding phase will allow further exploration of their motivations and strengthen decision-making confidence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Your passion for impactful work in water resources truly stands out. Keeping that excitement and the goal of making a difference seems crucial for you. How do you envision your future aligning with these values, whether you choose a concentration or not?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I see myself working on projects that focus on sustainable water management and conservation. Whether I go with a concentration or not, I just want to be in a role where I can contribute to solving real-world water issues and keep learning along the way.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has been exploring the discrepancy between a general degree and a concentration, with their values and goals around water resources and impactful work clearly articulated. They have expressed a desire for clarity, identified proactive steps like consulting advisors and professionals, and showed enthusiasm for their future. However, their confidence is still at 5, which indicates more guidance is needed to strengthen their decision-making and resolve ambivalence. More exploration is needed, especially around external insights that could influence confidence and decision clarity.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Your vision of working on sustainable water management projects is inspiring. It seems like, either way, you aim to make a significant impact in solving water issues. What steps do you think you could take right now to start aligning your current situation with that future vision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I guess the first step would be scheduling that meeting with my advisor to get some clarity on the degree options. Maybe I could also look for internships or volunteer opportunities related to water projects to get some hands-on experience and see what it's really like in the field.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear vision for their future and identified actionable next steps, such as meeting with their advisor and seeking internships. A strong discrepancy between their current situation and desired future was evoked. Their confidence level is around 5, but they have shown motivation by identifying steps to increase it. Change Talk is present, and a specific goal to gain clarity on their degree path is evident. The client has demonstrated readiness to transition towards planning specific actions to overcome barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "Scheduling a meeting with your advisor and seeking internships or volunteer opportunities sound like great steps forward. Would you like to set a specific goal, such as scheduling the advisor meeting by the end of next week, or exploring a couple of internship or volunteering options within the next month? What do you think might be potential barriers to taking these actions, and how could you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "I think setting a goal to meet with my advisor by the end of next week sounds doable, and maybe finding a couple of internship options by next month too. One potential barrier might be balancing this with my current coursework and getting overwhelmed by it all. To overcome that, I could try to plan my schedule better and maybe cut back on some less critical activities to make time for these priorities.",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "therapist",
+      "statement": "Setting those goals sounds very manageable, and it's great that you're considering how to balance your coursework with these new priorities. Planning your schedule to accommodate these tasks and reducing less critical activities shows a proactive approach to managing potential barriers. How would you like to track your progress with these goals, and what support might you need to help stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "client",
+      "statement": "client(choosing): I think I'll use a planner or maybe a digital calendar to keep track of these goals and deadlines. Having reminders pop up could help me stay on top of things. For support, maybe checking in with a friend or family member who can keep me accountable would be helpful too.",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Using a planner or digital calendar with reminders is an excellent way to keep track of your goals and deadlines. Having someone like a friend or family member to check in with for accountability can also provide the support you need. Would you like to set a time to review your progress, perhaps in a couple of weeks, to see how things are going and discuss any adjustments you might need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "client(choosing): Yeah, setting a time to review my progress in a couple of weeks sounds like a good idea. It'd give me a chance to see what's working and what needs tweaking. Plus, having a check-in would keep me motivated to stay on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established clear goals to schedule a meeting with their advisor and explore internship opportunities, with a plan to address potential barriers like balancing coursework. They have also developed a self-monitoring strategy using a planner and accountability support from friends. The client expresses commitment and readiness to take steps towards their goals. The plan to review progress in a couple of weeks indicates confidence and motivation to change. Moving forward acknowledges their proactive planning and readiness for action.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "Checking in a couple of weeks to assess your progress and make any necessary adjustments sounds like a thoughtful plan. This approach not only helps you stay motivated but also allows you to celebrate your achievements and refine your strategy as needed. Your dedication to aligning your goals with your values is truly admirable. Keep up the great work, and remember that you're not alone in this journey. You've got support and resources available to help you along the way. Let's touch base again soon to see how you're doing and continue to refine your path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the support and encouragement. I'm feeling more focused now and ready to tackle these goals. Looking forward to our next check-in!",
+      "phase": "terminating"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals, steps, and coping strategies while outlining a plan for progress review. The client feels supported and motivated, indicating readiness for closure. The focus on values and proactive planning was particularly effective.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Asking for perspective (BS with concentration vs just BS General, then go for masters)\nHey guys. I don't post on anything, but I kinda wanted to ask a large amount of people something so that I could get insight. \n\nFirst, to explain my situation.  I did not take schooling seriously at first, just sorta wasted time at the library since no one would question what I did there (eat junk food and binge youtube haha). But now I've shaped up, and found something I'm really interested in and passionate about, Geology. My favorite focus is water.\n\nAt my school, they offer a General Geology Degree that requires a minor(I've been going for a Creative Writing Minor and that's going perfectly). They also offer a Professional Geology Degree that can focus on Geology or Hydrogeology(what I like).\n\nMy main question is, is it worth it to pay more and spend more time in undergrad to get a BS with a concentration or just getting the BS without the concentration, and go for grad school?\n\nI just started taking my schooling seriously and will have a sit down with a Geology advisor (since I haven't really used these services since I was dumb af) later, but wanted to get random strangers opinions just in case someone brings up something I didn't know.\n\nAdditionally, how will it look when I'm looking for a job? In Geology, most jobs require a masters, so getting a BS with concentration doesn't seem with it, and I should just go to grad school and pursue a masters in something like that(Hydrogeology, Hydraulic Engineering, etc. I like water a lot haha)",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

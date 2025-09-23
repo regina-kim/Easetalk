@@ -1,0 +1,209 @@
+{
+  "id": "10a9o9e",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and explore what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, so I've been feeling really anxious about my major and future career path. I started with one idea, but I've changed my mind a few times, and now I'm worried about transferring and if I've messed up my plans.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like there's a lot of uncertainty and pressure around your major and future career, which has been causing you anxiety. What has led to your decisions to change your mind in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: I guess it’s just that I keep discovering new things I enjoy and then second-guessing my initial choices. Each time I learn about something new, I start wondering if it’s the better path for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like you're excited about discovering new interests, but it also leaves you feeling unsure about your original choices. What do you enjoy about diving into these new areas?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client: I really like the challenge and getting to learn something new. It's like uncovering a new part of myself each time. But then I get stuck thinking, what if this isn't the right path either?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed detailed thoughts and feelings about their anxiety regarding their major and career path decisions. They have described their concerns about past decisions, the excitement of discovering new interests, and the stress of potentially transferring schools. Empathy has been established, and the client has shared extensive context about their situation. It is appropriate to move to the Guiding phase to explore motivation for change and evoke Change Talk. The exploration phase effectively captured the client's narrative and built rapport. Reflecting on the client's capacity to adapt and explore new interests was particularly effective.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Exploring new interests certainly brings a lot of excitement and self-discovery. It also sounds like there's a desire to find a direction that truly aligns with who you are. How do you envision your life aligning with these new interests, and what might it look like if you pursued them further?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client: I imagine a future where I’m genuinely passionate about my work, where I feel challenged but also in my element, you know? Like waking up excited about what I’m doing. But then I worry that maybe I’m just chasing after the next interesting thing without sticking to anything long enough to really know if it fits.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding work that excites you is a wonderful vision, where passion meets daily life. It's natural to question whether you're chasing interests or seeking what truly fits. On a scale from 0 to 10, how confident do you feel in eventually finding a path that combines excitement and consistency?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): Honestly, maybe like a 5? I'm hopeful because I do find things I love, but it's the consistency part that worries me. I'm scared I'll keep bouncing around and never actually settle on something that feels right in the long run.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having hope and discovering things you love is a great foundation. Balancing excitement with consistency can indeed be challenging. What values or aspects of your life do you think could support you in finding that consistent path you're hoping for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think having a sense of stability and feeling secure in my decisions would help. Also, having support from people I trust who can give me perspective when I'm feeling uncertain might keep me grounded.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has demonstrated change talk by expressing a desire to find a passion-driven career and acknowledging the need for stability and trusted support. However, the current confidence level is at a 5, indicating a need to further explore ways to increase this confidence and address the fear of inconsistency. Additionally, there hasn't been a clear commitment to a specific change goal or next step, and ambivalence remains with concerns about transferring and restarting. Continued exploration of values and support systems could help enhance readiness for the Choosing phase.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "therapist(guiding): Stability and support from trusted people seem to be key for you in navigating these decisions. They might help you feel more secure and provide reassurance when you're uncertain. How might you start building this stability and support as you continue exploring your path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think I could start by really talking to my advisors and friends about my thoughts, instead of keeping it all in. Maybe setting up some regular check-ins with people who know me well could keep me grounded. I should also make sure to stick to a routine that gives me some structure even when everything else feels up in the air.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a specific vision for their future, identifying passion, challenge, and alignment with personal interests as key components. They have articulated a desire for stability and support as they navigate these choices, suggesting an understanding of potential barriers. Change Talk is present, with the client expressing a goal of establishing regular check-ins and routines for structure. However, confidence remains moderate (5/10) and ambivalence about sticking with one path persists. The conversation has not yet fully addressed specific next steps or strategies for overcoming barriers. Continue in Guiding to further explore these areas and build confidence before moving to Choosing.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Regular check-ins and a structured routine sound like great steps towards building stability and support. By sharing your thoughts with advisors and friends, you may gain valuable perspectives that keep you grounded. How do you see these steps impacting your confidence in maintaining both excitement and consistency in your path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(guiding): I think it could definitely boost my confidence because I'd have different viewpoints to consider, which might make decisions feel less overwhelming. Having a routine might help me focus on what I truly enjoy and avoid feeling lost in all the possibilities. It feels like a way to stay true to myself while still being open to new things.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific change goals and potential steps, like engaging in regular check-ins with advisors and maintaining a routine, which suggests a shift towards actionable planning. The client has also identified key values such as support and stability, indicating a clarity of goals. Although confidence is at 5, there's a clear increase in awareness of resources to improve this. Change Talk has been present, focusing on excitement and support systems. Thus, moving to the Choosing phase is appropriate to further clarify these actions and address any barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Setting up regular check-ins and maintaining a routine sounds like a solid plan to boost your confidence and stay grounded. Let's explore how you'd like to start incorporating these steps into your daily life. What small actions can you take to initiate these conversations and establish your routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(choosing): I think I could start by reaching out to my advisors and setting up a meeting to talk things over. As for a routine, maybe I could start with setting specific times for study and relaxation. It might help to have a planner or something to keep track of tasks and appointments so I'm not just winging it all the time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Scheduling a meeting with your advisors and setting specific study and relaxation times are excellent starting points. A planner could indeed be a helpful tool to organize your tasks and appointments. Which steps would you like to prioritize first, and how might you overcome potential challenges in sticking to your new routine?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "I think reaching out to my advisors should be the first step since it feels like it could bring some immediate clarity. As for challenges, I know I might procrastinate on setting a routine, so maybe I should find a friend who also wants to get organized and we can hold each other accountable. I guess approaching it like a team effort could make it feel less daunting.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Collaborating with a friend to hold each other accountable sounds like a fantastic way to tackle procrastination and make the process more enjoyable. Reaching out to your advisors first could provide you with the immediate clarity you’re seeking. How would you like to proceed with contacting an advisor, and what might be your first step in starting this team effort with your friend?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "I think I'll send an email to one of my advisors today to set up a meeting and get the ball rolling. As for the team effort, I’ll talk to my friend about it over lunch and see if they're interested in this accountability idea. I feel like having someone else involved will make it easier to stick to our goals.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear action plan, including reaching out to advisors and creating a routine with accountability from a friend. Barriers such as procrastination have been discussed, with solutions proposed. The client expresses confidence and commitment, indicating readiness to advance. Their plan addresses the concern of feeling panicked about past decisions by creating immediate and structured steps forward. Move to Terminating to reinforce these actions and reflect on the progress made.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Sending an email to your advisor today and discussing the accountability plan with your friend over lunch are great first steps. Engaging your friend in this effort could definitely make sticking to your goals feel more attainable and less isolating. You're setting yourself up with a strong support system, which is so important. As you take these steps, remember to be kind to yourself, allowing space for adjustments as needed. You’ve got a clear plan, and I'm confident in your ability to move forward with these goals. Please know I'm here to support you as you continue on this path.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your encouragement. I'm feeling a bit more confident about taking these steps now. I'll definitely reach out if I need more guidance along the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has effectively articulated steps to reach their goals, including reaching out to advisors and involving a friend for accountability. This demonstrates readiness and a supported path forward. OARS feedback: The session effectively used open questions and reflections to guide the client toward actionable steps and confidence.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I feel like I screwed myself over freshman year and now I’m panicking.\n\nSo going into college I was dead set on majoring in political science. I liked it in college, I want to go into law, it seemed natural. But the more I researched and took classes I didn’t feel like it was worth it. There didn’t seem to be a lot of job security with higher pay like I was looking for, and so I wanted to switch. I really enjoyed my geology classes and it seemed like that was the route to take. But I have always wanted to double major and never even considered just majoring in one thing. So I was going to do polisci and geology.\n\n\nBut still, even after last semester, polisci just didn’t give me good feelings. I took a business class and I loved it. It was difficult but I felt like it was a fun kind of difficult that I felt proud of myself for figuring out over time. I then started thinking, would it be bad if I majored in geology and something business related? I was also looking into computer science as I love computers and such but might be going in over my head. I feel like it’s late in the game and I’m planning on transferring so I don’t want to have to restart as a freshman. \n\n\n\nIs it too late to do this? My biggest concern is transferring, as I really don’t know if switching now would be an option. I’m a sophomore planning on transferring in the fall, but this is making me sick to my stomach.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

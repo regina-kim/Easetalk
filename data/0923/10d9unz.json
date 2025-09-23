@@ -1,0 +1,188 @@
+{
+  "id": "10d9unz",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like there's something on your mind. Would you like to share what's been going on with you lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Yeah, I've been feeling really overwhelmed with my thesis situation. It's just been a lot of back and forth, and now I'm running out of time and don't know how to move forward.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing the demands of a thesis can definitely feel overwhelming, especially with time pressures. What has been the most challenging part for you so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I think the most challenging part has been dealing with the lack of support and clear communication from my committee. It feels like I've put in so much effort, but now I'm almost back at square one, and it's really frustrating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds really frustrating to feel like your efforts aren’t being acknowledged and to have unclear guidance from your committee. What kinds of support do you think would help you navigate this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think having more consistent and clear feedback from my committee would help a lot. It would also be great if I could have the option to switch to a final project instead, just to ease the pressure.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's concerns about feeling overwhelmed with their thesis, the lack of support from their committee, and the dilemma between continuing with research or switching to a project. The client's thoughts and emotions have been articulated, and the context of their situation has been well-understood. Clear empathy and rapport have been established. It seems appropriate to move to the Guiding phase to further explore motivations for change and evoke Change Talk. OARS feedback: The open questions and reflective listening successfully drew out the client's underlying frustrations and dilemma, setting a solid foundation for the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Having consistent feedback and the option for a final project instead of a thesis could really alleviate some pressure. Considering these possibilities, how might your life be different if you had that support and flexibility?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I'd probably feel less stressed and more focused on finishing my degree without worrying about funding or job conflicts. It would also give me a clearer path to start my career after graduation without thesis stress hanging over me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having less stress and a clearer path to your career after graduation sounds incredibly freeing. What makes pursuing these changes important to you right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "Client (Guiding): I just really want to start my career without all this stress holding me back. I feel like I'm at a crossroads where I need to move forward, and these changes would make it possible to do that without sacrificing my well-being.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Prioritizing your well-being while starting your career is crucial. How confident do you feel, on a scale of 0 to 10, in pursuing the changes that would support your goals and reduce stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I’d say I'm probably around a 5 or 6. I know what I want and need, but I'm not entirely sure how to make it happen, especially since it depends on my committee's willingness to be flexible.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified the stress and challenges posed by their thesis dilemma, and has expressed a desire for change by considering a final project as an alternative. The conversation has explored life with reduced stress and a clearer career path, highlighting the importance of these changes to the client. However, the client’s confidence in pursuing these changes is around 5 or 6, indicating some ambivalence and uncertainty about the committee's response. To effectively address these barriers and enhance motivation, it’s prudent to continue focusing on their confidence and potential strategies for negotiating with their committee.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your determination to pursue these changes is unmistakable, and it’s understandable to feel uncertain when others' actions play a role. What might increase your confidence to a 7 or 8 in moving toward those changes?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think having a clear plan or strategy for approaching my committee would help boost my confidence. Also, maybe hearing some success stories from other students who've been in similar situations might reassure me that it's possible to make this shift.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire for change, articulating the discrepancies between current challenges and personal goals of finishing the degree without undue stress. Change talk is present, indicating motivation to pursue a final project option. They have identified specific steps and expressed a moderate confidence level (5-6), seeking strategies to enhance it further. The client has explored life with and without these changes, indicating readiness to develop action plans and address anticipated barriers. Moving to the Choosing phase is appropriate to collaboratively develop strategies and bolster confidence. OARS feedback: Effective exploration of client's goals and needs has built a foundation for planning next steps. Adjust by integrating more success stories and practical support to enhance confidence.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Considering your thoughts, developing a clear strategy to approach your committee and researching success stories could be great steps forward. Would you like to explore creating a plan for discussing options with your committee, or would you prefer to start by gathering stories from others who've navigated this path?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think starting with a plan to talk to my committee would be more immediately helpful. If I have a strategy in place, I'll feel more prepared for the conversation, and it might make things feel more achievable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Creating a solid plan for your conversation with the committee sounds like a proactive step. Based on your situation, possible options might include outlining your key points and potential compromises or setting up a meeting to discuss your needs specifically. Would you like to explore these options further, or do you have other approaches in mind that you'd like to incorporate into your strategy?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I like the idea of outlining my key points and potential compromises. I think setting up a meeting would be good too, so it feels more official and gives me a chance to prepare. Maybe I could also draft an email to send as a follow-up after the meeting, just to make sure everything is clear and on the record. What do you think about that approach?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a thorough and thoughtful approach. Outlining your points and compromises, setting an official meeting, and following up with an email could really enhance clarity and accountability. How do you feel about setting a timeline for these actions, and are there any potential barriers you foresee that we can plan for together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Setting a timeline would definitely help keep me on track and make sure I'm not procrastinating. I guess one potential barrier is if my committee is resistant to the idea of switching from a thesis to a project. It might be good to think about how I can address their concerns or maybe even have a backup plan if they say no.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and developed a concrete action plan involving key points and compromises, setting a meeting, and following up with an email. Potential barriers have been identified, such as committee resistance, and the client has considered addressing these concerns or having a backup plan. The client's commitment and confidence are evident, and they have a timeline to ensure follow-through. They appear ready to take action steps, which suggests readiness to move to the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Thinking ahead about both addressing concerns and having a backup plan really strengthens your strategy. By setting a timeline, you're ensuring you stay proactive, and considering potential committee resistance shows your readiness to adapt. As you prepare, you might find it useful to anticipate questions or objections and think of supportive responses. If it feels right, detailing a backup plan could offer extra peace of mind. Your approach is commendable, and I have confidence in your ability to navigate this process. Remember, you're not alone; support is available to you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I’ll work on getting my points together and think through some responses. I’ll keep in mind that I’ve got support if I need it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session successfully summarized the client's goals, steps, and coping strategies. A next-step plan was discussed, focusing on preparing for committee discussions. The client feels supported and has a clear strategy, achieving termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Research vs Project Dilemma\nApologies in advance for such a long post! \n\nI’m in a bit of a dilemma and thought I’d post here to get some feedback.  I’m in my last semester of a three-year MFA in design.  I’ve been developing my thesis since the first year (my program has you write the first few chapters during research classes) and solidified my committee spring of last year, which gave me a whole year to work on my thesis with them.  I sent my progress and documents over to my committee chair, who then didn’t get back to me for several months until I emailed him asking for an update.  Then we went back and forth with edits all last semester until I finally got a pre-proposal meeting at the end of the semester.  Then, despite my chair saying I was in a good spot, the rest of my committee didn’t like my idea or my methods and basically told me to start over.  \n\nSo now I’m in my final semester, with my funding running out.  There’s no way I can get though IRB review, conducting research, and revisions before the end of the semester and I need to start working full time this summer. I don’t want to have to be in thesis mode while starting a new job and I just feel really stuck (and stressed).  I knew I needed to be done at a certain point which is why I tried so hard to stay ahead of things.  \n\nI understand that setbacks like this are part of grad school and part of the research process, but it just doesn’t feel worth it for an MFA, especially because most MFA’s have final projects, not research-based theses.  I’m thinking about asking if I can switch to a final project I already have something partially developed that I think would actually be really great, but I have to convince them to let me do it and I’m not sure they will.  \n\nI just don’t really know what to do…. I really was interested in my research topic but if I’m going to be dragged through years of it I’d rather it be in a doctoral program.  I’m only 24 and I don’t want to push off my career for thesis that just keeps getting delayed.  But I might regret it if I pursue more research or a doctorate later too so I’m just kinda stuck and could use some insight if you have it.  Thank you.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

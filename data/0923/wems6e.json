@@ -1,0 +1,188 @@
+{
+  "id": "wems6e",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What's been on your mind lately? Feel free to share anything you're comfortable with.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I've been feeling pretty anxious about my upcoming move and the whole roommate situation. It's just been a bit overwhelming, and I'm not sure how to handle it all.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Moving and adjusting to new roommates can indeed feel overwhelming. It's understandable to feel anxious about it. What are some specific aspects of the move or the roommate situation that weigh on you the most?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's mainly about whether I'll be able to get along with these new people. I'm worried about not fitting in and having a difficult living situation.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like the concern about fitting in and creating a harmonious living environment is really important to you. What experiences have you had in the past with roommates or similar situations that might be influencing how you feel now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Well, I haven't had roommates before since this is my first year living away from home. But in high school, I had some rough experiences with people who seemed similar to the new roommates, and it's making me nervous about how things might go.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their primary concerns about moving and roommate compatibility, including past experiences influencing current feelings. The conversation has effectively established empathy and rapport, recognizing the client's anxiety and uncertainty. However, while the client's story and context are well understood, further exploration is needed to delve deeper into the client's thoughts on potential outcomes and feelings about making a room change request before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Facing new situations can bring up past experiences, especially ones that were challenging. It's understandable to feel nervous given what you've been through in high school. How do you imagine a positive living situation with your new roommates would look for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think a positive living situation would be where we all respect each other's space and boundaries, communicate openly, and maybe even find some common interests or activities we can enjoy together. It'd be nice to feel comfortable and relaxed at home.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed thoughts and feelings regarding the upcoming move and roommate situation, highlighting both past experiences and current concerns. Empathy and rapport are developing as the therapist validates the client's feelings and explores their vision for a positive living environment. The client is considering potential actions like requesting a room change, indicating readiness to explore motivations more deeply. Moving to the Guiding phase will help address their ambivalence and encourage Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating a living space where respect, open communication, and shared interests thrive sounds like a wonderful goal. On a scale of 0-10, how confident are you that you can help foster this kind of environment with your new roommates? What might help you increase that confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "Right now, I'd say my confidence is around a 4. I'm just unsure about how they'll react and if they'll be open to it. Maybe getting to know them better and setting clear expectations from the start could help boost my confidence.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Building confidence takes time and small steps. Exploring ways to know them better and establish clear expectations sounds like a promising start. In what ways do you think you might approach these initial conversations to set a positive tone?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "I think starting with casual, friendly conversations could help break the ice. Maybe I could suggest grabbing coffee together or having a roommate meeting to chat about things like schedules and shared responsibilities. Keeping it light and open could set a good foundation.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "That approach sounds friendly and inviting, offering a relaxed way to connect with them. By suggesting a casual coffee or a meeting, you're creating opportunities for open dialogue. How does this plan align with your values around creating a comfortable and respectful living space?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "It aligns well with my values because I really do value open communication and mutual respect. I think starting things off on the right foot like this could help establish a sense of community and ease some of the anxiety I have about living with new people.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for open communication and mutual respect and has developed specific steps to achieve a comfortable living space, indicating movement towards change. While the client’s confidence is currently at 4, they have identified potential strategies to boost it, such as initiating casual conversations. The discrepancy between their fear of not fitting in and their desire for a harmonious environment has been explored, and change talk is present as they articulate their values and plans. Moving forward, fostering confidence and addressing what to do if initial strategies face challenges will be crucial.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "It’s great to hear that this plan resonates with your values of open communication and respect. As you consider moving forward with it, what steps might you take to ensure these conversations happen? We can also think about potential obstacles you might encounter and how you might prepare for them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): I think the first step would be to reach out to them and suggest meeting up. I'll try to pick a time that works for everyone and maybe propose a casual get-together, like coffee or lunch. As for obstacles, I guess they might not be interested or have busy schedules, so I should be ready to be flexible and maybe try different approaches if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "That sounds like a well-thought-out plan. By reaching out and suggesting a casual meet-up, you're taking proactive steps towards building that respectful and open environment you value. As for potential obstacles, being flexible and having alternative options ready shows your adaptability. How would you feel about setting a timeframe to reach out and then checking in on how it goes? This could help you track your progress and make adjustments as needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea. I think setting a timeframe could help me stay on track and not procrastinate because of nerves. Maybe I could aim to reach out within the next few days and then see how things go from there. I can check back in after to see what's working and what might need changing.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Setting a timeframe within the next few days is a great way to keep momentum and manage those nerves. Checking back in will offer you a chance to reflect on what's working and consider any adjustments. What specific steps can you put in place to monitor your progress and ensure you follow through with reaching out?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(reflecting): I think I could set a reminder on my phone so I don't forget to reach out. Writing down a few conversation starters or key points I want to discuss might also help me feel more prepared. After reaching out, I could jot down how it went and any thoughts or feelings that came up, so I can track my progress and make any necessary changes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear action plan with steps to engage with her new roommates, such as setting up casual meet-ups and monitoring progress through reminders and reflection. She has identified potential barriers, like scheduling conflicts, and expressed willingness to adapt. Her confidence is supported by a structured plan and a timeframe to initiate contact. The client's reflections show commitment and readiness for action, indicating she is prepared to implement her plan. Moving forward, maintaining this momentum and self-monitoring will be crucial. Feedback: Continuously reflecting on progress and adjustments has been effective, and maintaining flexibility will be vital as you implement your plans.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "It's wonderful how you've planned to keep yourself organized and prepared with reminders and conversation starters. Writing down your thoughts after reaching out will give you valuable insights into your progress and any adjustments you might want to make. You're showing great initiative and self-awareness in setting these steps. As you move forward, remember that taking this action aligns with creating the respectful and open environment you envision. Keep trusting in your ability to adapt and grow with each interaction. You've got a supportive framework in place, and I'm confident you'll navigate this transition with grace. If you ever need to talk or reassess your approach, I'm here to support you.",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll definitely reach out if I need to reassess or just chat about how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan to address their concerns about living with new roommates, aligning with their values of open communication and respect. They've identified steps and coping strategies, and are ready to proceed independently. The session can conclude naturally.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I try to request a room change?\nSo, I’m moving out in 10 days. I’m staying at an off campus apartment because all the dorms at my college are on a waitlist. I got randomly paired with 3 girls, 1 I talked to before and 2 more that I didn’t. I’m not so concerned about the one I touched base with before as I am about the 2 others. This one girl especially just doesn’t seem like the kind of person I’d get along with at all - I know I shouldn’t be making assumptions but based off what she told me and looking at her instagram she seems like an extroverted popular party girl type. Not to trauma dump but most of the people who bullied me in the past have been those kinds of people. The other one I still am unsure about but I literally know nothing about her, she might very well be the same kind of person. I really don’t know if I’m going to be comfortable in this kind of situation. I know it’s kind of unfair for me to judge these people without having even met them but I have a bad gut feeling and I’m really anxious. I don’t want my first year away from home to be a living hell because I’m not able to get along with these people. I know I could try to set boundaries but who’s to say they’ll listen? \n\nAnyways, Im thinking about calling the rental office and asking for a room change but I’m unsure. I don’t know if it’s worth it because what if I end up in an even worse situation or I somehow lose my placement? I really want to go with my gut here but I just don’t know. Plus it may be difficult with this being a private housing complex and not a dorm.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "16txpis",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you're here to chat. What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, yeah, I've just been really anxious about graduating soon and figuring out how to handle my student loans, especially with my degree and job prospects feeling kind of uncertain. It's just been a lot to think about and I feel a bit overwhelmed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Graduating and managing student loans can definitely feel overwhelming, especially with job prospects being uncertain. How have you been coping with these feelings so far?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Honestly, I've just been trying to take it one day at a time and not think too far ahead, but it's hard when I'm constantly reminded of how close graduation is. I've been talking to friends a bit, which helps, but I still feel pretty stressed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Talking to friends and trying to take each day as it comes seem to be helpful in managing your stress to some extent. It's understandable to feel stressed with graduation approaching so soon. What about those conversations with your friends has been most comforting or helpful for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I guess it's knowing I'm not alone and hearing that they're going through similar stuff. It makes it feel like we're all in this together, trying to figure things out.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client's story and feelings about the upcoming graduation, financial concerns, and career uncertainty have been thoroughly explored. Rapport has been established through empathy and understanding of shared experiences with friends. The client has expressed specific fears and future plans, providing a detailed context of their concerns. It is appropriate to move to the Guiding phase to focus on strengthening motivation and evoking Change Talk around coping strategies and planning for their future.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Recognizing that you're not alone and having friends who understand can be really comforting in times like these. Thinking about your future, what changes would make you feel more at ease with what's coming up?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think having a clearer plan or some kind of roadmap would help a lot. Maybe finding a job or even just knowing there's a path to follow for my career and loan repayment would ease some of the anxiety.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having a clearer plan or roadmap seems important to you for reducing anxiety about the future. How would your life look if you had that plan in place, and what might be different about how you feel day-to-day?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "If I had a plan, I think I'd feel a lot calmer knowing there's some direction and fewer unknowns. Day-to-day, I'd probably feel more focused and less like I'm just treading water, worrying all the time.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling calmer and more focused sounds like a wonderful shift from the current stress. What small steps do you think could move you toward that sense of direction and clarity?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I could start by researching job opportunities in the state I want to move to and maybe setting up informational interviews. Also, looking into repayment options more thoroughly could help me feel more prepared.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a specific change goal—to develop a clearer plan for career and loan repayment—and expressed a desire to take concrete steps toward achieving this. Change Talk is present, with the client expressing a willingness to research job opportunities and repayment options. While confidence levels have not been explicitly measured using rulers, the client's proactive approach suggests readiness to transition to specific planning. The conversation effectively explored the discrepancy between the client's current situation and desired future, with a decrease in ambivalence. Summaries and reflections have been utilized to reinforce understanding.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Looking into job opportunities and repayment options sounds like a great start toward building that roadmap you're aiming for. To set this plan in motion, how might you prioritize these steps, and what might be a realistic timeline for each?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think researching job opportunities should come first since that's going to be key to everything else. Maybe I can spend a few hours each week doing that, and at the same time, I can start gathering information on repayment options. I guess I can aim to have a better understanding of both within the next couple of months.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Creating a timeline to research job opportunities and repayment options within the next couple of months seems like a well-thought-out plan. How do you feel about setting specific days or times each week to dedicate to these tasks? This could help integrate your goals into your routine and make them feel more manageable.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a smart idea. If I set aside specific times, maybe like an hour or two on weekends, it would help me stay organized and keep me from feeling overwhelmed. It could make it more like an appointment with myself, so I actually commit to it.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Setting aside specific times on weekends for job research and repayment planning sounds like a solid strategy. Committing to this as an appointment with yourself can help ensure you follow through. How will you track your progress to stay motivated and see how much you've accomplished over the next couple of months?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I guess I could keep a journal or a spreadsheet to note down what I've done each week. Seeing it all laid out might help me stay motivated and give me a sense of accomplishment. And if I miss a week, I’ll be able to see where I need to catch up.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and concrete action plan, including researching job opportunities and exploring repayment options. They've discussed potential barriers like staying organized and have agreed on self-monitoring by tracking their progress in a journal or spreadsheet. The client has shown commitment to taking steps by setting specific times for these tasks, indicating readiness for the next phase. Utilizing the client's strengths in planning and willingness to engage in self-monitoring, the focus on forward movement can now transition to consolidating these plans in the Terminating phase.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "A journal or spreadsheet to track your progress is a fantastic way to maintain motivation and recognize your accomplishments. It's great to hear you're open to this approach, and it sounds like you're setting yourself up for success with a balanced plan. If you miss a week, remember to be kind to yourself and view it as an opportunity to adjust rather than a setback. You're taking meaningful steps towards clarity and direction. Moving forward, feel free to reach out for support as needed. You're not alone on this journey, and I'm confident in your ability to create the future you envision.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and advice. I'll try to keep that mindset and take it one step at a time. If I need any help along the way, I'll make sure to reach out.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear plan to manage job search and loan repayment, using structured approaches and a supportive mindset. The session addressed concerns and developed actionable strategies, aligning with termination goals.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Graduating soon and worried about repaying loans. Any advice?\nI am absolutely terrified to graduate simply because of only having six months to find a job and establish myself before starting repayment. I know federal loans can be based on income, but I also have a huge private loan because of an error with my university’s financial aid office ($30k). I’m going to be graduating with a not so useful environmental biology/zoology degree. The reason why I felt secure in this degree is because I absolutely do plan to go for my Master’s, but I’d really like to take a yearlong break. On top of this, I plan to move out of state (permanently) to attend school for my Master’s since there’s a ton of universities in the state with great programs, and also because this state has way more job opportunities for my degree. A ton more than my home state. \n\nI’m in my early 20s and I feel like I should have learned how to be an adult by now but I feel everything I’m talking about and my expectations for my future may be immature and naive. Reality is probably going to hit me like a truck.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

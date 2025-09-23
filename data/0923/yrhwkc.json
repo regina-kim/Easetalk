@@ -1,0 +1,209 @@
+{
+  "id": "yrhwkc",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? Is there anything specific you'd like to talk about or explore together?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing alright overall but I've been really stressed about my career path lately. I'm not sure if I should stick it out with social work or pivot to something in art, and the thought of more student debt is weighing on me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Navigating career decisions can definitely bring a lot of stress. You're feeling uncertain about your path because both social work and art have their own appeals, but the financial aspect is a big consideration. What's been drawing you towards each option?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Well, social work was appealing because I wanted to help people, but the jobs I've had haven't really felt right for me. Art, on the other hand, just feels like where I belong, especially since I've been really enjoying teaching it lately.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're torn between your passion for art and your initial drive to help people through social work. Teaching art seems to resonate with you and give a sense of belonging. Can you tell me more about what you've enjoyed most about teaching art?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I really love seeing the creativity and excitement in my students when they’re working on projects. It's like I’m helping them express themselves and that feels rewarding. Plus, it’s fun and doesn't feel as stressful as my experiences in social work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concerns regarding their career path, including financial burdens, job satisfaction, and mental health considerations. The client appears to be more aligned with teaching art, which they find rewarding and less stressful compared to social work. The therapist effectively elicited the client's feelings and thoughts, building empathy and rapport. This understanding sets the stage for moving to the Guiding phase to explore motivations and potential changes further. OARS feedback: The therapist effectively used reflections and open questions to draw out the client's story, but could aim to deepen the exploration of the client's values related to art and social work.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sense of reward and enjoyment you get from teaching art seems to bring a lot of positivity and fulfillment. It appears this role allows you to help others in a meaningful way, too. How does this sense of fulfillment and reduced stress compare to your current experiences in social work?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "In social work, I've been feeling pretty drained and overwhelmed, like I'm not making the impact I hoped to. With art teaching, it's lighter and more uplifting, and I don't dread going to work, which is a big difference.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "The difference in how you feel about each role is quite significant. Teaching art seems to offer you a sense of impact and joy, making your workday something you look forward to. Considering this contrast, what do you imagine your life could be like if you pursued a career more aligned with teaching art?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "If I pursued a career in teaching art full-time, I imagine I'd feel more fulfilled and happier on a day-to-day basis. I think the challenge would be figuring out how to make it sustainable financially and managing the job stability concerns that come with it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Therapist (Guiding): Imagining a more fulfilling and happier day-to-day life sounds really appealing. Balancing that with financial sustainability and job stability is important. On a scale from 0 to 10, how confident do you feel about your ability to explore and navigate this transition towards art teaching?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I'd say maybe a 5. I feel somewhat confident because I've already got some experience, but the financial side of things and managing my mental health make it hard to feel more certain about making this jump.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear desire to pursue a career in art teaching, highlighting increased fulfillment and joy compared to social work. They've identified specific barriers, such as financial sustainability and job stability, and have a moderate confidence level (5 out of 10) about transitioning. However, the client still appears ambivalent due to financial concerns and mental health, as evident in their ongoing worries and self-assessed confidence. Continued exploration in Guiding can further address these ambivalences and increase confidence before developing specific action plans.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Acknowledging your feelings of uncertainty is a great first step. A confidence level of 5 suggests that you have a solid foundation but recognize some hurdles ahead. What do you think might help boost your confidence in navigating this transition?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I think doing more research on the financial aspects, like possible scholarships or grants for going back to school, might help. Also, maybe talking to people who have made similar career changes could give me a better idea of what to expect and how to handle it.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear Change Talk, particularly in their desire to transition to teaching art full-time and the appeal of a more fulfilling and happier life. The client also identified potential actions, such as researching financial options and seeking advice from others who have transitioned careers. However, the client's confidence is still at a 5, indicating significant ambivalence and barriers. They need further support in addressing financial concerns and mental health considerations. These factors suggest continuing in the Guiding phase to strengthen their confidence and address barriers more comprehensively.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Exploring those financial aspects and connecting with others who've experienced similar transitions could certainly provide valuable insights. These steps might offer you more clarity and reassurance about making this career shift. How do you think taking these actions could impact your confidence level?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think if I took those actions, it could probably bump my confidence up a notch or two. Just having more information and hearing firsthand experiences would make the whole idea seem less daunting and more achievable.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their current role in social work and their passion for teaching art, highlighting the greater fulfillment and reduced stress they experience in the latter. Change Talk is present, with the client expressing a desire to pursue art teaching full-time. They have identified specific actions to address financial concerns and gain insights from others who have transitioned careers, indicating readiness to explore concrete steps. Although their confidence level is at 5, they acknowledge that taking these actions could increase their confidence. The conversation effectively used reflections and open questions to deepen exploration.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Therapist(choosing): Gathering more information and connecting with others sounds like a solid plan to enhance your confidence. Based on what you've shared, possible options for the next steps include researching scholarships or grants and reaching out to individuals who've transitioned to art teaching. What do you think would be the first step you'd like to take, and how can I support you in this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(deciding): I think starting with researching scholarships and grants would be a good first step because the financial part feels like the biggest hurdle right now. Maybe you could help me find some resources or point me in the direction of where to start looking?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Starting with researching scholarships and grants sounds like a practical first step. I can certainly help you brainstorm some resources and suggest places to begin your search, like online scholarship databases or local art education organizations. How would you feel about setting aside some dedicated time each week to explore these options and perhaps keep track of what you discover?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(deciding): That sounds like a good idea. Setting aside some time each week would help me stay organized and focused. Plus, keeping track of everything I find will probably make it easier to make decisions later on.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Having a dedicated time each week to focus on your research can definitely add structure and clarity to your process. Keeping a record of your discoveries will help streamline your decision-making. Would you like to decide on a specific day or time to work on this, and we can discuss how to monitor your progress together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(deciding): Yeah, I think having a specific day would help me stay on track. Maybe I could set aside an hour or two every Saturday morning to dive into it. And it would be great if we could check in during our sessions to see how things are going and make adjustments if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal of researching scholarships and grants to address financial concerns about transitioning to art teaching. They have also agreed to set aside dedicated time weekly for this task, indicating a commitment to their action plan. Barriers such as financial concerns and maintaining focus have been discussed, and self-monitoring through regular check-ins in sessions has been agreed upon. These steps demonstrate readiness to move towards Terminating as the client shows commitment and confidence in implementing their plans. The Choosing phase effectively helped in structuring an actionable plan addressing financial concerns.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Setting aside time each Saturday morning is a fantastic way to create a consistent routine for your research. Checking in during our sessions to review your progress and make any necessary adjustments sounds like a supportive plan. I'm here to support you through each step of this journey. Remember, taking these small, steady steps will bring you closer to your goal of becoming an art teacher. You're making thoughtful decisions, and that's truly commendable. Keep up the great work, and let's touch base on your progress in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, that sounds like a solid plan. I'll start this Saturday and jot down what I find. Looking forward to updating you next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a structured plan to research financial options, with set times and session check-ins. Coping strategies include information gathering and connecting with others. The termination goals have been met.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Teaching Art?\nHey everyone. So I fucked up and went to school for social work and I have $50,000 in student loans. I’m having trouble holding down a job in this field and I think part of that is that it’s not really the field for me.\n\nI’m considering going back to school to become an art teacher because I have been doing a part time art teaching job right now and I’m enjoying it a lot. I want more opportunities in this field because art is my true passion. I have two big worries though. One thing I worry about is taking on even more debt since I have so much and the other thing I worry about is the fact that it’s entirely possible that I could end up still struggling to hold down a job due to mental health stuff.\n\nI’d love to hear some input from you guys about what I should do since it’s a big decision.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

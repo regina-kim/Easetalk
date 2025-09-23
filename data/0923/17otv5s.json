@@ -1,0 +1,167 @@
+{
+  "id": "17otv5s",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been feeling pretty overwhelmed. Lately, I've been thinking a lot about whether I should just withdraw from my classes since I'm not continuing in this program anyway.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You've got a lot on your plate, and deciding whether to withdraw sounds like a tough choice. What has been making you feel overwhelmed about this situation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): It's just that everything feels so heavy right now. Between my mom being sick and falling behind in my classes, it seems like an uphill battle that I don't even want to fight since I'm switching programs anyway.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're carrying a heavy burden with your mom's illness and the pressure from school. You're feeling overwhelmed because you're not sure it's worth the struggle when you're planning to change programs. How have you been managing these feelings day-to-day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, it's been tough. I've been trying to just take it one day at a time, but even that feels like too much some days. I guess I'm just trying to keep my head above water, but it's hard when I'm not sure if I even want to be in this program anymore.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared the essence of their story, including the context of their mother's illness, academic struggles, and decision to switch programs, along with their feelings of overwhelm and exhaustion. Empathy has been shown, and the client has been encouraged to elaborate. The conversation has reached a point where the client and therapist can benefit from strengthening motivation and evoking Change Talk. Moving to the Guiding phase is appropriate to explore the client's ambivalence about withdrawing and developing motivation for their next steps. OARS feedback: Reflective listening captured the client's emotional state effectively, but further affirmation of their resilience could enhance rapport.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "You've been taking things day by day, which is commendable despite feeling like it's too much sometimes. Considering your plans to switch programs, how might continuing or withdrawing from your classes affect your overall well-being and future goals?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think withdrawing might ease some of the immediate stress I'm feeling and give me a better headspace to focus on my mom and myself. But there's this nagging feeling that maybe I should stick it out just to finish what I started, even if it's not directly related to my future goals.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "You're weighing the relief from immediate stress against the satisfaction of finishing what you started. How does this internal conflict align with your values and what you envision for your future self?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I'm all about seeing things through, but right now, my well-being and being there for my mom feel more important than sticking it out. For my future self, I want to prioritize what's truly meaningful to me, and right now, that's not this program.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Your desire to prioritize well-being and support for your mom highlights what's truly important to you. How might making a decision that aligns with these values impact your sense of fulfillment and balance in life moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): If I make a decision that aligns with my values, I think I'd feel more at peace and like I'm being true to myself. It might help me create a better balance in my life, which has been seriously lacking lately.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their current academic commitments and their values, expressing a desire to prioritize personal well-being and family over completing the program. They have explored the implications of both continuing and withdrawing, with a focus on aligning actions with their values. Specific change talk is present, with the client identifying withdrawal as a potential immediate goal to enhance well-being. The client has shown a decrease in ambivalence with a clear preference for withdrawal. Thus, the client is ready to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Making a choice that resonates with your values could indeed bring a sense of peace and balance. So, thinking ahead, what steps might you consider to either withdraw from your classes or manage your current workload while preparing for your program switch? Possible options could include discussing with an academic advisor or creating a personal schedule that allows for more flexibility.",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think talking to an academic advisor would be a good start. They could help me understand the withdrawal process and any implications it might have. If I decide to stick it out, maybe creating a more flexible schedule could help me manage things better, especially with everything going on with my mom.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Exploring these options sounds like a thoughtful approach. Speaking with an academic advisor can clarify the withdrawal process, and a flexible schedule could offer some relief. What steps do you think you might take first, and how can I support you as you navigate this?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I suppose reaching out to my academic advisor should be my first step, just to gather all the necessary information about withdrawal. It would be great if we could explore some strategies together to manage stress and prioritize my tasks, regardless of which path I choose.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Connecting with your academic advisor is a wise initial step to gather the information you need. I'm here to support you in exploring stress-management techniques and prioritizing tasks. What are some strategies you've found helpful before, or would you like to brainstorm new ways together to handle stress and prioritize effectively during this time?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(reflecting): Well, in the past, I've tried deep breathing exercises and taking short walks, but they haven't felt like enough lately. Maybe we could brainstorm some new strategies together? I could definitely use some fresh ideas for managing stress and prioritizing, especially with everything happening at once right now.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified a clear goal of possibly withdrawing from classes and has a concrete action plan to speak with an academic advisor as a first step. Barriers, like stress management and task prioritization, have been acknowledged, and the client agrees to engage in self-monitoring strategies, suggesting brainstorming new stress-management techniques together. The client shows commitment and readiness to take steps. It's appropriate to move to the next phase to further solidify their plan and support them in implementing these actions.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's understandable that you're looking for new ways to manage stress, especially with so much going on. This openness to trying new strategies is a positive step. Together, we can explore techniques that might resonate more with you now. Some options could include mindfulness practices, setting small achievable goals, or even scheduling short breaks for yourself throughout the day. These might help in creating a rhythm that offers some relief. I'm here to help you find what works best for you. As you reach out to your advisor and consider these practices, remember you're making strides towards balance and well-being.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and understanding. I'll definitely reach out to my advisor and give these new strategies a shot. It's good to know I'm not navigating this alone.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has outlined their values and future goals, explored immediate steps, and identified strategies to manage stress. The session has provided clarity and support, meeting the termination goals effectively.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I withdraw from my classes?\nLong story short... \n\nI am currently enrolled in a MSW program, but will not be pursuing it any longer. I'm starting an MPH program in the Spring at a different school. \n\nThere are only about 5 weeks of the semester left (this was my first semester), and I'm exhausted. My mom has been critically sick, and I've gotten really behind in some of my classes. I could email professors and probably get extensions, but I'm ready to drop out. I never plan on going back to the MSW program and I lack any motivation to finish. Although, I could push through.  \n\nMy gut instinct is to just withdraw, but my first thought is not always my best. :) \n\nWhat would you do if you were me? ",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

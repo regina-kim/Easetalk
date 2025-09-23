@@ -1,0 +1,167 @@
+{
+  "id": "vf9r2b",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What brings you in today? I'm here to listen and support you with whatever you'd like to discuss.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've been thinking a lot about switching my field of study to biomedical engineering, but I'm really worried about the gap in my background knowledge. It feels like it might be a huge leap, and I'm not sure if I'm ready for that challenge.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Switching fields can indeed feel daunting, especially when considering gaps in knowledge. You're feeling concerned about the challenges ahead, which is perfectly understandable. What draws you to biomedical engineering?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I've always been fascinated by how technology and healthcare intersect, and I think biomedical engineering could let me explore that in a really hands-on way. It's just that the thought of starting over with so many new subjects is kind of intimidating.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Your fascination with the intersection of technology and healthcare really shines through, and it's exciting to hear about your interest in a hands-on approach. Feeling intimidated by new subjects is natural when considering a change like this. What experiences have you had that sparked your interest in this field?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): I think it started during my master's when I was involved in a project that combined biology with some tech elements, and I found that really intriguing. But even then, I realized how much I didn't know about the tech side, so it made me curious to explore more.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about transitioning to biomedical engineering and expressed feelings of intimidation due to perceived knowledge gaps. The client also mentioned past experiences that sparked their interest. There is a clear understanding of the client's story, motivations, and feelings. It's time to move to Guiding to help strengthen motivation and elicit Change Talk. Reflections and affirmations helped establish rapport and clarify the client's thoughts, effectively setting the stage for the next phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Your curiosity and past experiences in your master's project seem to light a spark for this new path. It's great that you're reflecting on what excites you and what challenges you foresee. How do you envision your life would be different if you pursued biomedical engineering?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I imagine it would be really fulfilling to work on projects that directly impact healthcare, and I'd probably gain a whole new set of skills. At the same time, I think it would be a lot more challenging on a daily basis with all the new concepts I'd have to learn.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Pursuing a path that feels fulfilling and impactful can be truly rewarding, even with the challenges it brings. Gaining new skills and contributing to healthcare seem like meaningful goals for you. What do you think could help you feel more confident in taking on these new concepts?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I think starting with some foundational courses or maybe even finding a mentor in the field could really help. Also, breaking down the learning process into smaller, manageable steps might make it feel less overwhelming.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "therapist(guiding): Breaking it down into manageable steps and seeking a mentor shows your proactive attitude and willingness to adapt. These strategies could certainly build your confidence. On a scale of 0 to 10, how confident do you feel about taking these steps towards exploring biomedical engineering right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): Hmm, I'd say I'm probably around a 6. I know what I want to do, but the uncertainty and the amount of learning ahead keep me from feeling fully confident.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear interest in switching to biomedical engineering and identified potential strategies like foundational courses and mentorship to build confidence. A specific change goal was articulated, and confidence is at a 6, indicating readiness to begin planning specific actions. Change Talk is present, and ambivalence has decreased. It is appropriate to move to the Choosing phase to develop action plans and address potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "You're already considering some proactive steps, which is a great start! To help move forward from a confidence level of 6, let's think about setting a specific goal, like enrolling in a foundational course or reaching out to potential mentors. What do you think would be a good first step for you to take, and what might help you overcome any barriers you foresee along the way?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think enrolling in a foundational course would be a solid first step. That way, I can see if I really enjoy the material and start building up my knowledge base. As for barriers, time management might be a big one, so I'll need to figure out how to balance the course with my current commitments.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Starting with a foundational course sounds like a wise choice to test the waters and begin building your knowledge. To address time management as a potential barrier, perhaps creating a flexible schedule or setting specific study times could help balance your current commitments. How do you feel about making a plan to manage your time effectively, and what support might you need to put this plan into action?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That makes a lot of sense, and I think a flexible schedule could really help. I might need some advice on how to prioritize tasks or maybe even some tools to track my time better.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Finding ways to prioritize tasks and track your time efficiently sounds like a practical approach. You might consider options like using digital planners or time-tracking apps to stay organized. Would you like to explore these tools further, or is there another type of support that could assist you in managing your schedule?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Yeah, exploring those tools sounds like a good idea. I've heard some people use apps to keep track of their schedules and tasks, so it might be worth a try. I could use all the help I can get to stay on top of things.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal of enrolling in a foundational course and has identified time management as a barrier, which they plan to address with tools like digital planners and time-tracking apps. They express willingness to explore support systems and have shown proactive steps to overcome barriers. This indicates readiness with commitment and action steps taken, suggesting they are ready to advance. The client should continue to build confidence in their abilities. The collaborative planning and proactive strategies are commendable, with further focus on confidence-building as they move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Exploring scheduling and task management apps is a smart way to support your journey. These tools can really help in organizing your time and ensuring you stay on track with your goals. You've shown a great deal of determination and willingness to embrace new methods. Moving forward, trying out a couple of these apps could be your next step. As you experiment with them, feel free to reach out if you need any guidance or want to share how things are going. You're well on your way to creating a balanced plan that works for you. Keep up the great work—you've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(terminating): Thanks, I appreciate the encouragement. I'll definitely give those apps a shot and see how they work for me. I'll let you know if I hit any snags or need more advice.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear next-step plan, including enrolling in a foundational course and exploring scheduling tools to manage time. Termination goals were met, with a summary of goals and coping strategies discussed. Good use of affirmations and reflections.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Switch from life science to biomedical engineering\nHow hard is this? I have the feeling that I am missing a lot of basic information. I have a master in a biomedical science, but I have very very few experience with statistics/math/physics/computer science/engineering. It will be very challenging for me right?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

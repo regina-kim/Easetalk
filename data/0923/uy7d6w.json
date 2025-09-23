@@ -1,0 +1,188 @@
+{
+  "id": "uy7d6w",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hi there! What brings you here today? Feel free to share anything on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling a bit stuck and uncertain about my future. I'm at this point where I'm questioning if continuing my studies is really the right choice for me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling a bit unsure and are questioning your current path. What aspects of continuing your studies are leading to these feelings of uncertainty?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Yeah, I'm just not doing as well as I hoped in my classes, and it's making me wonder if maybe I should try going straight into the workforce instead. Like, is all this stress even worth it if I'm not getting the results I want?\n",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems that the stress from not meeting your expectations in your classes is leading you to consider other options like entering the workforce. How do you feel about the idea of working instead of studying right now?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, part of me feels like it might be a relief to not have to worry about grades and school for a while. But then there's also this fear of missing out on the benefits of having a degree, you know?",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has successfully elicited the client's primary concerns and the context behind their uncertainty about continuing studies versus entering the workforce. Rapport is evident through the client's openness about their academic stress and career considerations. The client expressed their mixed feelings about both options, indicating a deeper exploration of values and motivations is needed. To strengthen motivation for change, it is appropriate to transition to the Guiding phase, where we can evoke Change Talk related to the client’s future aspirations and potential strategies.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the relief you might feel by stepping away from school against the potential benefits of earning a degree. How do these possibilities align with your long-term goals or what you value most in life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "Yeah, that's kind of where I'm stuck. I want a stable career and to feel accomplished, but I'm not sure if that's possible without a degree. At the same time, I'm worried about not being cut out for university life.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Many people find themselves at a crossroads like this, and it's great that you're thinking deeply about what you truly want. How do you imagine your life might look if you were to choose one path over the other, and how might each option help you feel accomplished in different ways?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): It's hard to picture, honestly. If I start working, maybe I'd find a job that helps me learn and grow in a different way than school does. On the other hand, sticking with my studies might open doors that I can't even see right now, but it's a risk if I keep struggling.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Navigating these possibilities is challenging, and it's understandable to feel conflicted. What aspects of learning and personal growth are most important to you, whether through work or studies, and how might they each contribute to building the life you envision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I think I really value learning skills that feel practical and directly applicable to real life. Whether that's through a job or school, I just want to make sure I'm moving forward and not feeling stuck.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed concerns about their academic performance and is considering whether to continue their studies or enter the workforce. They have identified values such as practical learning and moving forward, aligning with both potential paths. The client has demonstrated Change Talk by exploring how each option could meet their goals. However, specific change goals and the confidence level have not yet been clearly articulated. Thus, continuing in the Guiding phase is advisable to further explore confidence levels and develop specific goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Embracing the desire for practical skills is a valuable insight. In what ways do you think either path—continuing in school or starting to work—could help you feel that sense of forward movement and practicality in your life?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I feel like working might give me more immediate, hands-on experience that feels relevant, while staying in school could offer a broader foundation that might be useful later on. I guess it's about figuring out which kind of progress feels more meaningful right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation effectively explored the client's ambivalence and highlighted discrepancies between their current academic performance and long-term goals of stability and accomplishment. The client expressed Change Talk by articulating a desire for practical learning and forward movement, with decreased ambivalence as they considered both paths. Specific change goals were discussed, such as evaluating the value of practical experience versus educational foundation, suggesting readiness to develop an action plan. Move to Choosing to collaboratively outline potential steps and strategies for decision-making.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Thinking about the type of progress that feels meaningful to you right now is a great step. Based on what you've shared, a few possible options could be exploring internship opportunities alongside your studies or even looking for part-time work in a field you're interested in. How do you feel about creating a plan that combines elements of both paths, or would you prefer to focus more on one right now?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a good idea. Maybe trying to balance both could give me a better sense of what I actually want. I guess I'm just worried about managing everything at once, but I'm open to seeing how it goes.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Exploring both paths seems like a thoughtful approach. We could create an action plan that includes finding part-time work or internships to gain practical experience while maintaining your studies. What steps do you think you could take first to explore these opportunities, and how might you address any potential challenges in managing both?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): Starting small might be best, like looking into internships or part-time jobs that aren't too overwhelming. I could check with the career services at school or browse online for listings. Managing time will be tricky, but maybe if I set a schedule and stay organized, it could work out.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "That sounds like a solid starting point. Checking with career services and exploring online listings can help you find opportunities that align with your interests without being overwhelming. Setting a schedule is a smart way to keep everything balanced. What specific resources or support might help you manage your time effectively while exploring these options, and how can we ensure you feel supported throughout this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Having some guidance on time management would be super helpful, like tips on prioritizing tasks or maybe even using apps to stay organized. It might also be nice to have someone to check in with, just to talk about how things are going and make adjustments if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear goal and action plan that includes exploring internships or part-time work while continuing their studies. They have discussed potential barriers like time management and expressed a willingness to use resources such as career services and organization apps to overcome these challenges. The client shows commitment and readiness by expressing openness to balancing both paths and seeking guidance. They are confident in the plan and have identified specific steps to take. Therefore, they have demonstrated readiness to move forward.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Having guidance on time management and having check-ins sounds like a great plan. It can really support you as you balance these new opportunities. Let’s summarize your goals and action steps: you’re planning to explore part-time work or internships while continuing your studies, starting with resources like career services and online job listings. You’ll use time management tools to stay organized and prioritize tasks. As for support, regular check-ins can provide encouragement and help you adjust as needed. You’re taking thoughtful steps toward understanding what works best for you, and that’s commendable. If you ever feel overwhelmed, remember these adjustments are part of your growth. Keep embracing that openness to learn and grow. You're on the right track!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your help. It'll be nice knowing I have a plan and some support to lean on as I figure things out. I'll definitely reach out if things start feeling too much.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client now has a clear plan integrating both work and study, with strategies for time management and support in place, meeting termination goals. The client's openness to adjustment and support is commendable, reflecting progress.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Should I stop after my foundation and just get a job instead?\nI'm in Foundation in Science and have just finished my 2nd semester and am on a break now. My results were also just released this afternoon and I have to say that it's not what I would imagine it to be. Currently my CGPA is 2.5 for my 1st and 2nd semester. This got me thinking, \"Should I go work instead or pursuing my undergraduate program?\"  And if I wanted to apply for a job after my 3rd semester, What can I do and How?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

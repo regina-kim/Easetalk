@@ -1,0 +1,209 @@
+{
+  "id": "x0l7kn",
+  "subreddit": "GradSchool",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? Feel free to share what's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey there. I'm just a bit stuck trying to decide between two grad programs at Stanford, and it's been on my mind a lot lately. I want to make the right choice for my career shift.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Choosing between two grad programs sounds like a big decision, and it's understandable you're feeling stuck. What are some of the thoughts or feelings that have been coming up for you as you consider this choice?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "Well, I'm worried about taking time off work and how that'll affect my earnings. Plus, there's this pressure to pick the right program that will help me the most in starting my own company eventually. It's kind of overwhelming trying to weigh the pros and cons.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "Balancing concerns about time off work and future career goals must feel overwhelming. You want to choose a program that supports your entrepreneurial dreams, but you're also thinking about the financial impact. What are some of the pros and cons you've considered so far for each program?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): For the MBA, the pros are definitely the prestige and networking opportunities, but it's a longer program which means more time away from work. The MS in MS&E is shorter and offers technical skills, which I think could be really useful, but it might not carry the same weight in certain circles. It's like trying to choose between brand recognition and practical skills.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The therapist has successfully engaged the client in discussing their thoughts and feelings regarding the grad programs. The essence of the client's story, including their concerns about financial implications, career goals, and program specifics, has been well-explored. Rapport seems established, and the client has clearly articulated their internal conflict and considerations. It's appropriate to advance to the Guiding phase to further explore the client's motivation for each option and elicit Change Talk about their values and long-term goals.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like you're weighing the prestige and networking benefits of the MBA against the practical skills and shorter duration of the MS in MS&E. How do you see each of these aligning with your vision of starting your own company?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): I see the MBA as giving me great connections and a strong business foundation, which could be crucial for finding partners or investors. On the other hand, the MS in MS&E could arm me with the technical know-how to really understand and maybe even innovate in the data insights space. It's tough trying to figure out which will best help me build a solid company.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Both programs seem to offer valuable pathways to your goal of starting your own company, each in unique ways. How do you feel about the role that networking versus technical expertise might play in your entrepreneurial journey?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(reflecting): Networking feels like it could open doors that might not be otherwise accessible, especially when it comes to partnerships and funding. But having the technical expertise seems essential for creating something innovative and sustainable in the data field. It's like I need a balance of both, but I'm not sure which should take priority right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "It sounds like you're considering both the potential doors that networking could open and the necessity of technical expertise for innovation. How might prioritizing one over the other impact your path towards building the kind of company you envision?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(reflecting): If I prioritize networking, I might get those crucial early connections and funding opportunities to kickstart my company. But if I focus on technical skills, I could ensure that what I'm building is solid and has a unique edge. It's hard to know which will be more important in the long run, and that's what makes this decision so challenging.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a clear discrepancy between their current uncertainty and their future goal of starting a data insights company. They have articulated how each program aligns with their entrepreneurial vision, demonstrating Change Talk. They have also explored their values regarding networking and technical expertise. However, they have not yet set a specific change goal or next step. The confidence level wasn't explicitly assessed, but they seem ambivalent about prioritizing networking or technical skills. Therefore, continuing in the Guiding phase is appropriate to explore this ambivalence further and develop specific goals.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Both pathways offer important benefits for your business vision, making this decision quite complex. As you consider which aspect to prioritize, what values or long-term goals come to mind that might guide you in this choice?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(reflecting): I guess the value of creating something truly innovative and impactful is really important to me. I want to build a company that doesn't just survive but thrives and stands out in the industry. Long-term, I also want to ensure I have a solid support network to lean on, so maybe there's a way to blend both aspects. It's about finding that balance, which isn't easy to pinpoint right now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has been actively engaging in evaluating their options, reflecting on the trade-offs between networking and technical skills in relation to their long-term entrepreneurial goals. Although there's been some exploration of priorities, the client still expresses uncertainty about which path to prioritize. The discussion has yet to fully resolve the ambivalence and does not indicate a definitive change goal or action plan. Therefore, it's advisable to continue in the guiding phase to further consolidate their motivation and clarify their priorities.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating something innovative and impactful while having a strong support network seems pivotal for you. Finding a balance between these is certainly challenging. What steps might you take to explore how you can integrate these values into your choice between the programs?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(reflecting): I think I might start by reaching out to alumni from both programs to get a sense of their experiences and how each program has helped them in their careers. Maybe I could also look into the possibility of supplementing what I choose with additional courses or workshops, to make sure I'm not missing out on any crucial skills or connections. It feels like gathering more information and advice could help me see a clearer path.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has actively engaged in Change Talk, articulating their values and long-term goals, such as innovation and the importance of a support network, while exploring paths to integrate these into their decision. They have identified specific steps, like reaching out to program alumni and considering supplemental courses, indicating a shift towards actionable goals. Their reflections suggest a growing readiness to make a decision. Moving to the Choosing phase would allow for the development of a concrete plan to address these steps and anticipated barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Reaching out to alumni and exploring supplementary courses sounds like a proactive approach. Gathering diverse perspectives will likely offer valuable insights. As you consider these steps, what specific goals or milestones would you set to ensure you're on track with gathering the information you need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): I think setting a goal to speak with at least five alumni from each program over the next month would be a good start. It would give me a broad perspective on both paths. Also, I could aim to research and list out potential additional courses or workshops that align with the skills I want to build. Maybe setting a timeline for deciding on a program, like within the next couple of months, would keep me focused and grounded.",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "therapist",
+      "statement": "Creating a timeline and specific goals like speaking with alumni and researching courses is a solid plan. Would it be helpful to set reminders or check-in points along the way to monitor your progress and ensure you're gathering the insights you need?",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "client",
+      "statement": "client(reflecting): Yeah, setting reminders and check-in points sounds really useful. It would keep me accountable and make sure I don't let too much time slip by without making progress. Maybe I could schedule weekly reviews to assess how close I am to reaching those goals and adjust if needed.",
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "Establishing weekly reviews and reminders is a great strategy to stay accountable and adaptive. How do you feel about setting a specific day of the week for these check-ins, and perhaps deciding on a method you'll use to track your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "client(reflecting): I think choosing a specific day like every Friday would work well, as it gives me the weekend to make any adjustments or catch up if needed. For tracking, I could use a simple spreadsheet or a digital planner to keep everything organized. Having a visual representation of my progress might make it easier to stay motivated and see where I need to focus more effort.",
+      "phase": "choosing"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has established a clear goal and concrete action plan, including speaking with alumni, researching courses, and setting a timeline for decision-making. Barriers such as making time for these activities have been addressed with strategies like setting reminders and using a tracking method. The client demonstrates commitment and confidence through their detailed and proactive planning. Their acceptance of action reflections and readiness to take steps suggest readiness for the next phase. OARS feedback: The client has effectively outlined a balanced strategy by building on both networking and technical skills, but could benefit from continued reflection on integrating these insights.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "therapist",
+      "statement": "Using Fridays for your check-ins is a wise choice, giving you the weekend to adjust as necessary. A spreadsheet or digital planner will definitely help keep your progress visible and organized. With these tools, you’re setting yourself up for clarity and motivation as you move forward. Remember, this journey is about exploring your options while embracing the support and wisdom available to you. Keep trusting yourself and your process as you work towards your goals. If you need any more support or someone to bounce ideas off of, I'm here to help. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 29,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and guidance. I'll definitely reach out if I need help or just to share some updates. Looking forward to seeing how this unfolds!",
+      "phase": "terminating"
+    },
+    {
+      "index": 30,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan with specific goals, such as reaching out to alumni, researching courses, and scheduling check-ins. These steps align well with their values and long-term goals, showing readiness to move forward independently.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: 1.5-year MS MS&amp;E vs 2-year MBA (Stanford)\nHello all, looking for some guidance on a career pivot and would appreciate your opinions. I'm interested in going back to school next year for both networking and career growth. I have 6 years of work experience with a BSc in Engineering Management and currently work at a MANGA company and make a good salary. As mentioned previously the draw for school is in networking but more specifically also gaining additional skills to potentially create my own \"data insights\" company. \n\nI'm looking at two full time programs from Stanford - the MS Management Science &amp; Engineering (MS&amp;E) and the MBA. I was also looking into the MSCS program but fear it might be too technical and not provide enough of the financial and managerial science needed to build a for-profit company from the ground up. While taking 2 years away from work would a massive loss in earning potential, I've read the Stanford MBA completely overshadows the MS in MS&amp;E in terms of prestige (goes a long way for career opportunities and negotiations at the C-level). On the other hand, the 1.5 year MS MS&amp;E program is very flexible in terms of direction in the degree and would provide more technical courses which could come handy in the eventual creation of a data-focused company. \n\nAny graduates from these programs or people who've hired them present here and willing to chime in? Any and all thoughts/opinions are welcome!",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

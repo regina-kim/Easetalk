@@ -1,0 +1,251 @@
+{
+  "id": "1gdejl8",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2324,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello there! What's on your mind today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey. I've just been feeling really stuck and frustrated with my university and the way things are going. It's like I'm not getting anything out of it, and it's been bothering me a lot.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "You're feeling stuck and frustrated because you sense that university isn't providing the value you expected. Could you share more about what's been particularly troubling for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just that the classes don't feel useful, and I feel like I'm wasting my time. The teaching quality isn't great, and I'm not sure if sticking it out here is worth it.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're questioning the value of your classes and wondering if your time and effort are being well spent. What aspects of the teaching quality or your experience have been most disappointing for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Honestly, the professors just don't seem engaged or interested in teaching. It's like they're just going through the motions, and it makes it hard to learn anything or feel motivated.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared substantial context and emotional depth regarding their dissatisfaction with their university experience, including concerns about teaching quality, financial stress, and internal conflict about continuing at the current institution. The therapist has effectively reflected these concerns, showing empathy and understanding. The mutual focus on these issues suggests readiness to transition to the Guiding phase to explore the client's motivation for change and possible solutions. Reflecting on this phase, the therapist effectively elicited the client's story and feelings, which helped build rapport and understanding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "That sounds really challenging and disheartening. I'm curious, what would it look like for you if this situation improved? How might your university experience align more closely with your goals and motivations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): If things got better, I'd want professors who are passionate and actually want to help us learn. I'd feel more motivated if I knew I was getting something valuable from my time there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Having passionate professors could definitely make a huge difference in your motivation and learning experience. Reflecting on your goals, how important is it for you to feel this sense of value and motivation in your university journey right now?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "It's really important to me. I mean, if I'm investing all this time and energy, I want to feel like it's actually leading somewhere and not just a checkbox on the way to getting a degree.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Investing your time and energy wisely seems crucial for you. On a scale from 0 to 10, how confident do you feel about finding ways to regain that sense of direction and value in your university experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): Honestly, probably like a 4. I just don't see a clear path to getting that sense of value with how things are now.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has clearly expressed dissatisfaction with their current university experience and a strong desire for change, highlighting a discrepancy between their current situation and their educational goals. However, confidence in finding solutions is low, rated at 4 out of 10. The client is still exploring potential paths, such as continuing self-study or transferring universities. While there is Change Talk about the importance of motivation, the client's ambivalence about financial constraints and uncertainty about next steps indicates a need for further guiding to solidify commitment to a specific action plan or change goal.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Your honesty about this is really valuable. Being at a 4 shows there's some hope, though it's challenging to see the path forward right now. What small changes or steps could potentially help increase that confidence, even slightly?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): Maybe trying to connect with other students who feel the same way and see if we can support each other could help. Or looking for online resources and communities to supplement what I'm missing in class.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed clear dissatisfaction and a desire for change, exploring both the importance of feeling valued in university and what an improved situation might look like. While they have begun to articulate potential steps, such as connecting with peers or seeking online resources, their confidence remains low at 4. The conversation has evoked substantial discrepancy between current experiences and desired outcomes, but explicit Change Talk is limited, and stronger commitment to specific next steps is needed. Remaining in the Guiding phase would allow further exploration of these steps and strategies to boost confidence and resolve ambivalence.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Building connections with peers and seeking additional resources online are great ideas that could offer some support and motivation. How might taking these steps align with your goal of finding more value in your university experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "I think connecting with others might help me feel less isolated in this situation, and online resources could fill in the gaps where my classes are lacking. It feels like taking these steps could give me some control over my learning, which might make the whole experience feel more worthwhile.",
+      "phase": "guiding"
+    },
+    {
+      "index": 20,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively highlighted the client's dissatisfaction with the current university experience and their desire for a sense of value and motivation. The client has engaged in Change Talk, expressing specific steps like connecting with peers and using online resources. However, the confidence level is still low, at a 4, indicating that more exploration of strategies and building confidence is needed before moving to the Choosing phase. The client's ambivalence about staying at the current university or moving is still present, suggesting a continuation in Guiding to further explore these areas.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 21,
+      "role": "therapist",
+      "statement": "Taking control of your learning through these actions could indeed make your experience more fulfilling and less isolating. How does imagining this sense of empowerment and community support influence your confidence level, even just a little?",
+      "phase": "guiding"
+    },
+    {
+      "index": 22,
+      "role": "client",
+      "statement": "client(reflecting): Imagining having more control and some support definitely bumps up my confidence a bit. Maybe it pushes it to around a 5 or 6. Just knowing there are steps I can take is a bit reassuring.",
+      "phase": "guiding"
+    },
+    {
+      "index": 23,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown some readiness for change by identifying specific actions like connecting with peers and using online resources. Confidence has increased slightly from a 4 to a 5 or 6, indicating a positive shift. However, more exploration is needed to solidify these strategies and address barriers related to their current university experience. Discrepancy between current dissatisfaction and the desire for a fulfilling experience has been explored, but the client might benefit from further clarification of values and goals before moving to action planning.",
+        "determination": "continue"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 24,
+      "role": "therapist",
+      "statement": "That's a positive shift in confidence, and it's encouraging to hear you're feeling reassured by these possibilities. What aspects of this new confidence feel the most inspiring or motivating to you as you consider moving forward?",
+      "phase": "guiding"
+    },
+    {
+      "index": 25,
+      "role": "client",
+      "statement": "client(reflecting): I think the idea that I don't have to just accept things as they are is really motivating. It's inspiring to know that I can take active steps to improve my experience, and that there might be a community out there that feels the same way and is willing to help each other out.",
+      "phase": "guiding"
+    },
+    {
+      "index": 26,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shown an increase in confidence from a 4 to a 5 or 6 after discussing potential steps to enhance their university experience, like connecting with peers and utilizing online resources. They have expressed motivation and a clearer vision of gaining control over their learning. A specific change goal of building connections and exploring resources is identified, and the client is inspired to take active steps. With this progress and clarity, it is appropriate to move to the Choosing phase, where detailed action plans can be developed to address potential barriers.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 27,
+      "role": "therapist",
+      "statement": "Embracing the idea of actively shaping your university experience and seeking community support sounds empowering and motivating. Considering this, what specific steps would you like to take first to start connecting with others or finding those online resources?",
+      "phase": "choosing"
+    },
+    {
+      "index": 28,
+      "role": "client",
+      "statement": "client: I think I'll start by reaching out to a couple of classmates I've talked to before and see if they're feeling anything similar. Maybe we can form a study group or something. Also, I'll browse for some online forums or groups where people discuss software engineering topics to see what resources they recommend.",
+      "phase": "choosing"
+    },
+    {
+      "index": 29,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful first steps. Forming a study group with classmates and participating in online discussions about software engineering could provide both support and new insights. What potential challenges do you anticipate in taking these steps, and how might you address them to stay on track?",
+      "phase": "choosing"
+    },
+    {
+      "index": 30,
+      "role": "client",
+      "statement": "One challenge might be that some classmates don't feel the same way or aren't interested in forming a group, which could be discouraging. I guess I'll need to be open to reaching out to more people and not take it personally if it doesn’t work out at first. Online, I might get overwhelmed with the amount of information, so I'll need to focus on resources that are highly recommended or seem most relevant to what I'm struggling with.",
+      "phase": "choosing"
+    },
+    {
+      "index": 31,
+      "role": "therapist",
+      "statement": "therapist(choosing): It's great that you're already thinking about these potential barriers and how to handle them. Being open to reaching out to more classmates and focusing on the most relevant online resources are solid strategies. How can you monitor your progress and stay motivated as you begin taking these steps?",
+      "phase": "choosing"
+    },
+    {
+      "index": 32,
+      "role": "client",
+      "statement": "client: I think I'll keep a little journal or list to track who I've reached out to and any resources I've found useful. Seeing my progress on paper might help keep me motivated. I could also set small goals for myself, like connecting with one new person each week or spending an hour exploring resources online, and reward myself when I hit those targets.",
+      "phase": "choosing"
+    },
+    {
+      "index": 33,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan for connecting with classmates and utilizing online resources to enhance their university experience. They have also identified potential challenges and devised strategies to overcome them, like being open to reaching out to more people and setting small, manageable goals. Furthermore, the client has proposed a self-monitoring method by maintaining a journal to track progress. These elements indicate readiness to move forward as they reflect commitment, taking-steps talk, and confidence in managing the change. The client has embraced the autonomy in improving their situation, which is a significant motivational step.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 34,
+      "role": "therapist",
+      "statement": "Having a journal to track your connections and resources is a wonderful way to visualize your progress and maintain motivation. Setting small, achievable goals and rewarding yourself when you reach them can certainly keep your momentum going. It's encouraging to see your proactive approach to overcoming challenges and creating a more enriching university experience.\n\nYou've identified some key action steps: reaching out to classmates, exploring online communities, and tracking your progress. These efforts align closely with your goal of feeling more in control and less isolated. As challenges arise, remember the importance of flexibility and patience with yourself.\n\nAs a next step, it might be helpful to decide on your first action for the coming week and reflect on how it went. I'll be here to support you as you continue on this journey, celebrating your achievements and exploring any new strategies or adjustments you might want to consider. Keep nurturing that confidence and curiosity, and let me know how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 35,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I'll definitely try reaching out to a couple of classmates this week and see how it goes. I'll let you know what happens next time we chat.",
+      "phase": "terminating"
+    },
+    {
+      "index": 36,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a detailed action plan, expressed motivation, and identified potential challenges with coping strategies. They have set achievable goals to track progress. Transitioning to independence with a solid plan is evident.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Am i wasting my time in the uni im in right now? or is normal?\nI feel like im wasting my time every and each time i go to class, but attendance is mandatory..\n\nAll of our teacher are horrible and yes, i mean it.\n\n\ni feel like i should spend that time studying at home rather than wasting 1 hour going to and back from college (=2 hours) and as a matter of fact we don't even take that much in there\ni only have 4 classes, 1 class is in flipped classroom mode, 1 online class and 2 classes on campus\n\nand im studying software engineer\n\n\ni only go to this uni because i don't have to pay anything, even though universities in my country are not THAT expensive, but im already dealing with alot of financial problems\n\nand i don't want to stress about paying for college too\n\n\nbut i can't help but feel like im gaining nothing, one part of me is like, let's just study by myself, get that degree and see what im going to do later.\n\nbut i hate this uni\ni've been here for 1 years now, and i hated every moment i spent in there\n\nbut i really want to study in a college, get a degree and start working as a programmer.\n\n\nshould i just finish this year, and try moving to another uni? or stick to my free tuition?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

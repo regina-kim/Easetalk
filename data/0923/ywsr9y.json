@@ -1,0 +1,167 @@
+{
+  "id": "ywsr9y",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What would you like to talk about?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm feeling a bit overwhelmed, to be honest. I really need some advice on how to talk to my parents about withdrawing from a class because of stress and anxiety.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds like a challenging situation. You're feeling overwhelmed because of the stress and anxiety from this class. What are some of your concerns about discussing this with your parents?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I’m worried they won’t understand or that they'll be disappointed. I don't want them to think I'm failing or just giving up because I’ve never really talked about my mental health with them before.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It's completely understandable to feel worried about how they might react, especially if you haven't broached the topic of mental health with them previously. You're concerned they might be disappointed because you want them to understand the impact this situation has on you. What has your relationship with your parents been like when discussing other personal issues in the past?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Usually, they're pretty supportive, but we don't often get deep into personal stuff like this. I guess I'm just not sure if they'll really get how serious it feels to me.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their main concern about withdrawing from a class and the associated stress and anxiety. They also voiced worries about their parents' potential reaction due to a lack of previous discussions about mental health. The therapist has shown empathy, understanding, and summarized the client's feelings and concerns effectively. This has helped build rapport and clarified the client's situation. Thus, the goals of the Exploring phase are met, allowing a transition to Guiding to strengthen motivation and evoke Change Talk. The use of open questions and reflections supported the client's narrative. In Guiding, focus on discussing the importance of self-care and strategies to communicate effectively with their parents.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It sounds like even though your parents have been supportive in the past, this feels like new territory for you, and you're unsure how they'll respond. How do you think life might change if you were able to openly discuss your mental health with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(reflecting): It might make things a bit easier, I guess. If they understood what I'm going through, maybe they'd be more supportive and I wouldn't feel so alone in dealing with all this stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Acknowledging that discussing your mental health openly might open doors to more support sounds hopeful. What would it mean for you to have their understanding and support as you navigate these stressful times?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "It would mean a lot to me, honestly. Having them understand might take some pressure off and make me feel less isolated. I think it would help me feel more confident about my decision to withdraw from the class.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "therapist(guiding): Feeling less isolated and more confident in your decisions sounds incredibly important. How does your decision to withdraw align with your broader goals and values for your well-being?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "It aligns pretty well, I think. I mean, I value my mental health and know it's important to prioritize it, even if it's tough. Withdrawing now to manage my stress feels like the right move for me long-term.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has started to express Change Talk, acknowledging that discussing mental health with their parents could enhance support and reduce isolation. They identified a specific change goal: withdrawing from the class for mental health reasons, aligning with their values on well-being. The client shows confidence in this decision. The therapist effectively explored discrepancy and life changes, and the client responded positively. It's appropriate to move to the Choosing phase to develop action plans for discussing withdrawal with their parents and anticipate challenges. OARS feedback: The reflections and open questions effectively deepened understanding and highlighted the client's values, which can continue to be used in the next phase to solidify the plan.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Focusing on your well-being by prioritizing your mental health is a strong step towards aligning with your values. As you consider how to approach your parents, what are some strategies you might use to express your feelings and the importance of this decision?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): Maybe I could start by explaining how the class is affecting me, like with my sleep and anxiety. I want to make sure they know it's not about giving up but about looking after myself for the long run.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Your plan to share how the class is affecting your sleep and anxiety sounds like a thoughtful way to convey the seriousness of your situation. Other options might include sharing specific examples of how this stress impacts your daily life or expressing your long-term commitment to your mental health. What are some ways you might prepare for their reactions, whether supportive or challenging?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I could try to anticipate what they might say and think about my responses beforehand. Maybe I should also remind myself that their initial reaction doesn't define their final stance, and give them time to process.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Anticipating their reactions and preparing responses is a proactive approach. Reminding yourself to give them time to process is a wise and compassionate step. As you prepare, would making a list of key points you want to share or practicing with a trusted friend help you feel more confident? How would you like to monitor your progress and feelings throughout this process?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Making a list of key points sounds helpful, and maybe practicing with a friend could ease some of my nerves. I think keeping a journal to track how I'm feeling before and after talking to them might be a good way to monitor my progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear plan to communicate with their parents about withdrawing from a class and considered strategies for managing their reactions. They have also identified self-monitoring techniques, such as journaling, and have shown confidence in taking steps to prioritize their mental health. Given the action plan, discussion of potential barriers, and the client's readiness to implement these steps, it is appropriate to move forward. OARS feedback: The client's thoughtful planning and openness to strategies like practicing with a friend demonstrate a strong commitment to their goals. Encouraging continued self-reflection through journaling could further support their journey.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Creating a list and practicing with a friend sounds like a solid strategy to boost your confidence. Keeping a journal to track your feelings is a wonderful way to process your experiences and observe your progress. As we wrap up today, I'm really impressed by your thoughtfulness and dedication to your well-being. Remember, taking these steps shows a lot of strength and commitment to yourself. If you'd like, we can touch base in our next session to discuss how things went and any support you might need moving forward. You're not alone in this journey, and I'm here to support you every step of the way.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for all the support and guidance. I'll try to keep these things in mind, and I'll let you know how it goes next time.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session met termination goals by summarizing plans and strategies for the client to approach their parents and manage their emotions. The client developed a concrete action plan and coping strategies, and agreed to follow up next session.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: How do I explain to my parents I am withdrawing from a class\nLook I’m a freshman in college and I’m going to have to withdraw from a class. How do I explain to my parents that I’m so stressed I can’t take it and my anxiety is through the roof and I need to withdraw a class to take it another semester. I mean I’ve been so stressed and anxious so high it’s affecting my sleep, my eating. I’ve never taken mental health checks seriously and don’t know where to go to just talk to someone. Have any of you guys had to do this and how did you parents take it.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

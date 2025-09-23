@@ -1,0 +1,167 @@
+{
+  "id": "umwqym",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's on your mind?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey! I'm doing alright, just been thinking a lot about my career path. I'm curious about jobs that deal with medical or law enforcement scenarios, especially the more intense cases.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Exploring these career paths sounds intriguing and potentially very rewarding. What aspects of these fields draw you towards them, and how do they fit into what you're seeking in a career?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I guess it's the thrill and the unpredictability of it all. I find the intense situations really fascinating and I feel like they would keep me engaged and challenged.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "The excitement and unpredictability seem to really capture your interest, keeping you engaged and motivated. Have you had any experiences or moments in the past that sparked this fascination for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, working at a pet ER really opened my eyes. Seeing all the different cases, especially the more intense ones, got me thinking about how interesting it is to deal with those scenarios.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively elicited the client's story, revealing their interest in intense scenarios and how past experiences have shaped this fascination. The client's thoughts and feelings about their career path, including the intrigue with 'gore,' have been thoroughly explored, and there is a mutual understanding of the client's unique interests. This foundation allows for a transition to the Guiding phase to explore motivation and evoke Change Talk.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Working at a pet ER sounds like it offered some eye-opening experiences. How do you see these intense scenarios fitting into your broader life goals and aspirations?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think they add a layer of excitement and fulfillment to my work life, keeping things from ever feeling monotonous. I want a career where I'm always learning and facing new challenges, and I feel like this path could provide that.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "It seems like you're seeking a career that not only excites you but also contributes to your personal growth and learning. What would a day in such a fulfilling career look like for you, and how confident do you feel about pursuing this path on a scale from 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): I imagine a day filled with unexpected cases that keep me on my toes and challenge my problem-solving skills. On a scale from 0 to 10, I'd say I'm at about a 7 in confidence. It's still a bit daunting, but the interest is definitely there.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "You're envisioning a career that's both exciting and challenging, keeping you stimulated and growing. Being at a 7 in confidence suggests you're quite motivated, though understandably there are still some uncertainties. What might help boost that confidence even further as you explore this path?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Gaining more experience in a related field could definitely boost my confidence. Maybe shadowing professionals or talking to people who are already in those intense roles would give me a better understanding and help solidify my decision.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a strong interest in careers involving medical or law enforcement scenarios and has expressed a desire for excitement and learning. They have identified a specific change goal: exploring careers that deal with 'gore' beyond veterinary or medical roles. Confidence is at 7, indicating motivation with some uncertainty. The client proposed gaining related experience to increase confidence. The conversation has sufficiently explored discrepancies and evoked change talk, meeting guiding goals. Ready to move to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Engaging in shadowing or speaking with professionals in those intense roles sounds like a practical step to deepen your understanding and confidence. How about setting a goal to connect with at least a couple of people in those fields over the next month? We can brainstorm some ways to reach out and anticipate any challenges you might face in doing so. How does that sound to you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): That sounds like a solid plan. I think connecting with people in those fields could give me some real insights. I'm a bit nervous about reaching out, but I'm willing to give it a shot. Let's brainstorm some ideas on how to approach them.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "We can definitely work on that together. One option could be joining professional groups or forums related to the field, as they often have networking opportunities. Alternatively, you might consider reaching out through LinkedIn or attending related workshops and conferences. What do you think might be the most comfortable starting point for you, and what challenges do you anticipate in reaching out?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Joining professional groups or forums seems like a comfortable starting point for me. I think the biggest challenge might be finding the right people to connect with and figuring out what to say to not come off as awkward or intrusive.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Joining professional groups or forums is a great way to ease into these connections. You might start by observing discussions to get a feel for the community before reaching out. When you're ready, consider preparing a simple introduction about your interest in the field and a few thoughtful questions to break the ice. What are your thoughts on starting with this approach, and how can we ensure you feel prepared and confident when the time comes to introduce yourself?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Starting by observing sounds like a good way to get comfortable before diving in. Preparing an introduction and questions ahead of time would definitely help me feel more confident. Maybe we could come up with a few example introductions and questions together to practice?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has a clear goal and a concrete action plan to connect with professionals for better insights into their field of interest. They have discussed barriers, such as feeling awkward during outreach, and agreed on self-monitoring approaches like joining professional groups and preparing introductions. The client shows readiness with commitment and confidence-building steps. The next phase could focus on evaluating the outcomes of these connections and refining their strategies. OARS was effectively used to affirm the client's plan and reflect on their feelings and intentions, supporting a confident transition.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Absolutely, preparing some introductions and questions in advance can help ease any nerves and boost your confidence. We can work on creating a few simple yet engaging introductions that convey your genuine interest, along with some thoughtful questions that could lead to meaningful conversations. It's great to see your willingness to take these steps forward. Once we draft these, practicing them a few times might help you feel even more at ease. As you embark on this journey, remember you have the curiosity and determination to succeed. How about we meet next time with these drafts ready to practice together?",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "That sounds like a great plan. I'll work on some drafts, and I'm looking forward to practicing with you next time. Thanks for all your help!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session effectively summarized goals and steps, including preparing introductions and questions for networking. The client feels confident and willing to practice. A next-step plan is in place, indicating readiness to conclude.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: what majors can lead you to deal with medical/gore?\nAfter working at a pet ER I realized I find \"gore\" fascinating. I like to see the more messed up or nasty cases and I wonder, What majors is there that deal with such things besides a veterinarian and doctor? I'm studying to be a vet because I love animals first but the bloody stuff seems really cool.\n\n I know police officers may stumble upon dead bodies/murders which is one thing and I know doctors (or vets) see medical type gore but I wonder what other jobs deal with such? It can deal with law enforcement or medical field, I just want to know besides the common typical jobs/majors.",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

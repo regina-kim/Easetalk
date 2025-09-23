@@ -1,0 +1,167 @@
+{
+  "id": "xjdmlq",
+  "subreddit": "college",
+  "category": "interpersonal",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! What would you like to talk about today? I'm here to listen and explore anything that's on your mind.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I've just been feeling pretty down about this whole parents weekend thing. It's hard seeing them fight and I guess I just couldn't handle it anymore.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Parents weekend sounds like it's been really tough for you, especially witnessing your parents fight. What about the situation is most upsetting for you?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "I guess it's just that it should be a time to enjoy and connect, but instead, it always feels tense and uncomfortable. I feel like I miss out on having them there because I can't handle the drama.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're missing out on the opportunity to enjoy time with your parents because the tension between them creates discomfort for you. What feelings come up for you when you're in those situations?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "client(exploring): Mostly, I just feel anxious and stressed, like I'm always on edge waiting for the next argument to start. It’s like I’m caught in the middle, and that’s really overwhelming.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively explored the client's story, uncovering thoughts and feelings about the parents' weekend. The client has shared the context and their emotional experiences, such as anxiety and stress, demonstrating understanding and rapport. There appears to be a mutual understanding of the client’s struggle and their goal to find relief from stress, suggesting readiness to move to the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Being caught in the middle like that sounds incredibly overwhelming and stressful. If things were different and you could enjoy a peaceful time with your parents, what would that experience look like for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "I think it would feel more relaxed, like I could just enjoy their company without worrying about what's going to happen next. It would be nice to actually feel like we're all connecting and having fun together.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a more relaxed and enjoyable time with your parents sounds really appealing. What would it mean for you personally to have that kind of connection and fun with them?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "It would mean a lot to me, honestly. I think it would make me feel more at ease and less like I have to walk on eggshells around them. Just being able to be present and enjoy the moment would be such a relief.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Having that sense of ease and presence with your parents sounds so valuable. Considering how important this connection is for you, what small steps do you think could help move towards that kind of experience?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "Maybe starting by having separate, calmer visits with each of them and slowly seeing if we can all be together might help. I could also try talking to them about how their fights affect me, though that's still pretty intimidating.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed a desire for change and has begun to identify specific steps, like having separate visits with parents and addressing their arguments. They have articulated how a peaceful experience with their parents aligns with their values of connection and ease, suggesting readiness to plan action steps. The discrepancy between their current situation and desired experience has been explored, and change talk is present. Moving to the Choosing phase is appropriate to develop a concrete plan and tackle anticipated barriers. Enhancing reflections helped deepen the exploration of values, while open questions encouraged the client to identify personal significance and potential steps.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring separate, calmer visits as an initial step seems like a thoughtful approach, and talking to them about how you feel might be a courageous next step. Based on what you mentioned, possible options could include setting specific boundaries during visits or finding peaceful activities to share with each of them individually. What do you think could be a good starting point for you?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think starting with setting some boundaries during visits might be a good way to go. It feels like a manageable step, and hopefully, it can help keep things more peaceful. Plus, choosing activities we all enjoy could make it easier to connect without any drama.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting boundaries during visits and choosing enjoyable activities sounds like a practical and positive start. How do you envision setting those boundaries, and what activities come to mind that you might all enjoy together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): I'd probably start by letting them know ahead of time what topics are off-limits, like anything that tends to spark arguments. As for activities, maybe something simple like going for a walk or having a meal together, where we can focus on the surroundings or the food instead of any tension.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Creating a clear understanding of off-limit topics before visits and focusing on simple activities like walks or meals sounds like a thoughtful plan. How would you like to handle it if boundaries are crossed or if the tension arises despite your efforts?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "If boundaries are crossed, I think I'd try to calmly remind them of what we agreed on and suggest taking a break if needed. Having an exit strategy, like stepping away for a moment, might help me manage if things get tense.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear action plan, including setting boundaries and choosing activities to connect with their parents. They have considered barriers, suggesting strategies like calm reminders and exit strategies for managing tensions. The client shows commitment and confidence in implementing these steps, indicating readiness to proceed to the next phase. Moving forward, it will be important to continue reinforcing the client's confidence and resilience as they take these steps towards change.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Having a calm reminder and an exit strategy ready shows your foresight in handling difficult situations. It's encouraging to see you thinking about maintaining your peace and comfort. As you move forward, these strategies can be crucial in preserving the positive atmosphere you're aiming for. Remember, this journey is about progress, and every small step counts. As your next step, preparing how you'll communicate those boundaries and practicing what you'll say might be helpful. You've got great insight and courage, and I'm confident in your ability to navigate these changes. Feel free to reach out anytime you need support or want to share how things are going.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I appreciate your support and encouragement in all this. I'll definitely work on how to communicate those boundaries and practice what to say. I'll let you know how it goes!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client and therapist reviewed goals and strategies, including setting boundaries and choosing peaceful activities with parents. The client feels encouraged and plans to practice communication. A supportive next-step plan is in place.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I told my parents not to come to parents weekend because every time they’re together they fight and it’s too much stress (they’re separated). It’s making me sad that I couldn’t take it.\nAnyone else?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

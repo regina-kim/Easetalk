@@ -1,0 +1,188 @@
+{
+  "id": "rvanil",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! I'm here to listen and support you. What would you like to talk about today?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I’ve been feeling really overwhelmed with all the stuff happening at once. It’s tough to keep up with everything, especially with classes moving online.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "Balancing multiple responsibilities can indeed feel overwhelming, especially with the shift to online classes. What's been the most challenging part for you during this transition?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, it's trying to stay organized and figure out what to prioritize. I feel like I'm juggling a bunch of things and can't seem to catch up or focus on any one thing.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It seems like the difficulty in staying organized and prioritizing tasks is making it hard for you to catch up and concentrate. How does this impact your daily routine or your feelings throughout the day?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "It makes my day feel really scattered and chaotic. I end up feeling anxious and stressed all the time, like I'm always playing catch-up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of overwhelm and difficulty with organizing and prioritizing tasks in the context of transitioning to online classes. The therapist has effectively used reflections to deepen understanding and empathy has been expressed, but the client's story and context could be further explored to ensure a comprehensive understanding before moving to the Guiding phase.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Feeling anxious and stressed can certainly make your day feel chaotic and scattered. What does a typical day look like for you right now, and are there moments when you feel a bit more in control or less stressed?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "A typical day right now is just hopping from one task to another without really finishing anything. Sometimes I feel a bit more in control when I make a to-do list, but even then, it’s hard to stick with it without distractions piling up.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed concerns about feeling overwhelmed by online classes and struggles with organization and prioritization. Empathy and rapport have been built by reflecting the client's feelings of chaos and anxiety. Additionally, the client has expressed specific challenges and some initial coping methods, like making to-do lists. The essence of the client's story is clear, and mutually agreed goals related to finding focus and control could be developed. This sets a strong foundation to move into the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "Creating a to-do list seems like a helpful step towards gaining control. When you're able to stick with it, how does that affect your stress levels or your ability to focus?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "When I actually manage to stick with a to-do list, it definitely helps me feel a bit more grounded and less stressed. It’s like I can see a path forward, but getting to that point consistently is tough.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Having a clearer path with your to-do list seems to bring a sense of relief and grounding for you. What do you think might make it easier to reach that point more consistently, even with distractions around?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "Honestly, I think setting smaller, more manageable goals might help instead of trying to tackle everything at once. Maybe finding a quiet space to work could minimize distractions too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Exploring smaller, manageable goals and finding a quiet space to work might indeed make a difference. How confident do you feel on a scale of 0-10 about trying these ideas, and what might increase your confidence?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6. I think actually setting up a designated study spot could boost my confidence. Having a routine that feels more concrete might help too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed Change Talk by identifying potential strategies like setting smaller goals and finding a quiet workspace, and is considering a designated study spot to increase confidence. A confidence level of 6 was indicated, suggesting readiness to explore action steps. Discrepancy between current scattered days and desired organized routine was discussed. Moving to Choosing phase will allow us to collaboratively plan and address barriers. OARS feedback: The exploration of realistic strategies and the client's self-identified needs were effectively highlighted, fostering motivation. Continuing to affirm progress and potential solutions will be important in the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Creating a designated study area and establishing a concrete routine sound like promising steps forward. Based on what you've mentioned, possible options could include setting up a specific time each day for your tasks or breaking your to-do list into smaller, time-bound chunks. What might your first step look like in setting up that study spot or routine, and how can you see yourself checking in on your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client: I think my first step could be choosing a spot in my room or somewhere on campus that's quiet and distraction-free. Maybe I'll try studying there for an hour each day at the same time and see if I can stick to it. I'd check in by noting down what I manage to get done each day and see if it helps me feel more organized over the week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Establishing a quiet study spot and sticking to a specific time each day sounds like a great plan. Noting your accomplishments daily can help track your progress and reflect on your organization over the week. What barriers might you anticipate in setting up this routine, and what strategies could help you overcome them?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client: I might struggle with staying disciplined and actually going to my study spot every day. Procrastination is a big barrier for me. I guess setting reminders or having an accountability partner might help keep me on track.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Keeping discipline and avoiding procrastination are common challenges. Setting reminders or involving an accountability partner sounds like constructive strategies. What could your plan look like for setting those reminders or finding someone to help keep you accountable?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client: I could maybe use my phone to set reminders at the same time every day, like a little nudge. As for an accountability partner, maybe I could ask a friend who's also trying to stay on top of their studies. We could check in with each other on our progress.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has developed a clear and actionable plan to create a study routine by choosing a quiet spot and setting study times. They have identified potential barriers like procrastination and discussed strategies such as setting reminders and having an accountability partner to address them. The client has also agreed on self-monitoring by noting daily progress, demonstrating commitment and taking-steps talk. Confidence is shown by a rating and suggested strategies to enhance it. Given these elements, it's appropriate to move to the Terminating phase. OARS feedback: The collaborative process in setting a clear plan with proactive barrier strategies worked well. Continuing to affirm small wins can further enhance confidence and commitment.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "That's a solid plan! Using your phone as a daily reminder and having a friend as an accountability partner could really support your efforts. Over time, these steps might help you build a more consistent routine. Remember, you're making strides towards your goals, and even small progress is valuable. As you move forward, feel free to adjust your strategies based on what works best for you. Stay patient with yourself, and give yourself credit for each step you take. Reach out anytime for support or just to share how things are going. Keep up the great work!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks for all the support and encouragement! I'll definitely keep you posted on how things go, and fingers crossed I can stick with it.",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client articulated a detailed plan with strategies to manage procrastination and distractions, and feels confident about implementing it. The conversation successfully covered goals, steps, and coping strategies, aligning with termination criteria.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: I’m feeling so overwhelmed on the first day again\nWho else feels this way on the first day? I am kind of lost because there are so many syllabuses to read and things to plan out. I just can’t focus on one class without worrying about the other. Idk what class to work on. I usually get into the flow of it but especially moving online for the first 2 weeks it is not fun",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

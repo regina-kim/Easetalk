@@ -1,0 +1,188 @@
+{
+  "id": "sss0p9",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! It seems like you might have something on your mind. Whenever you're ready, feel free to share what's been going on or any thoughts you'd like to discuss. I'm here to listen and support you.",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, thanks for listening. I've just been feeling a bit frustrated with unclear instructions from my professors. It's like no matter how closely I follow the guidelines, there's always something that catches me off guard.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "That sounds really frustrating, especially when you're putting in the effort to meet expectations. What do you think might be contributing to these unexpected challenges?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): I'm not entirely sure, honestly. Maybe I'm not picking up on subtle hints or reading between the lines enough? But it just feels like the instructions should be clearer to begin with.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're feeling caught off guard and maybe even a bit overwhelmed trying to interpret these unclear instructions. What impact has this been having on your studies or how you feel about your courses?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "Yeah, it's definitely been stressing me out. I end up spending a lot of time second-guessing myself and worrying about missing something important, and it's affecting how confident I feel in my work.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed examples and expressed feelings of frustration and stress due to unclear instructions from professors. The therapist has successfully elicited the client's thoughts and feelings about this issue, showing empathy and understanding. However, the conversation has not yet delved into exploring the client's potential strategies or strengths in dealing with these challenges. Further exploration is needed to fully understand the client's perspective and to identify any preliminary steps towards addressing the issue.",
+        "determination": "continue"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It seems like this uncertainty is really shaking your confidence and creating a lot of stress. How has this been affecting your overall experience in your courses, or even your motivation?",
+      "phase": "exploring"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "It's been tough to stay motivated when I'm constantly worried about misinterpreting instructions. I find myself procrastinating more because I'm anxious about starting assignments and potentially doing them wrong.",
+      "phase": "exploring"
+    },
+    {
+      "index": 10,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared detailed examples of their frustration with unclear instructions and its impact on their confidence and motivation. The conversation has successfully explored the essence of the client's story, including their thoughts, feelings, and context. Empathy and rapport appear to have been established. Thus, we can move forward to the Guiding phase to strengthen motivation and explore potential solutions. Summarizing and reflecting the client's concerns helped in achieving this understanding.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 11,
+      "role": "therapist",
+      "statement": "That anxiety about starting assignments sounds like it's really weighing on your motivation. When you think about what would be different if instructions were clearer, what comes to mind about how your experience might change?",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "client",
+      "statement": "client(guiding): If instructions were clearer, I'd feel more confident diving into assignments and less worried about making mistakes. It would definitely help me manage my time better and reduce a lot of stress.",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "therapist",
+      "statement": "Having clearer instructions seems like it would really boost your confidence and reduce stress. Considering this, what do you think is the most important step you could take to bridge the gap between where you are now and where you'd like to be with your studies?",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "client",
+      "statement": "I think reaching out to my professors and asking for clarification when I'm unsure could be a good start. It might also help to discuss these issues with classmates to see if they're experiencing the same thing and maybe work together to interpret the instructions better.",
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Reaching out for clarification and connecting with classmates sounds like a proactive way to address these challenges. How confident do you feel, on a scale from 0 to 10, about taking these steps to improve your experience and manage your stress?",
+      "phase": "guiding"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe a 6 or 7. I'm a bit nervous about reaching out and asking questions, but I know it's something I need to do to help myself. Plus, talking to classmates could be reassuring to see if they're in the same boat.",
+      "phase": "guiding"
+    },
+    {
+      "index": 17,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has effectively engaged in Change Talk, identifying steps like reaching out to professors and classmates for clarity. Confidence is rated at 6-7, indicating moderate readiness to take action. The client has identified discrepancies between their current study experience and their desired outcome, and has explored potential changes to address these concerns. Ambivalence appears to be decreasing as the client recognizes the step of seeking clarification. The conversation has met the guiding goals and is ready to advance with a focus on developing specific action plans and addressing barriers. OARS feedback: Reflecting on the client's proactive steps to engage with peers and professors seemed to strengthen their motivation.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 18,
+      "role": "therapist",
+      "statement": "Reaching out and talking to your classmates could indeed provide reassurance, and it's great that you're considering these steps. To make this more manageable, would you like to set a specific goal, like reaching out to one professor and one classmate this week for starters? What do you think could help ease any nerves you might feel about initiating these conversations?",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "client",
+      "statement": "client(choosing): Setting a goal like that sounds reasonable, and breaking it down might make it feel less daunting. I think reminding myself that professors are there to help and that classmates are probably feeling the same way could ease some nerves. Maybe even drafting out what I want to say beforehand could help me feel more prepared.",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "therapist",
+      "statement": "Drafting your thoughts beforehand sounds like a helpful strategy to ease your nerves. So, we could set a goal for you to reach out to one professor and one classmate this week. You mentioned reminding yourself that others might share your concerns—how could you incorporate this reminder effectively as you prepare for these conversations?",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "client",
+      "statement": "client(choosing): I think I could keep telling myself that I'm not alone in this and that asking questions is a normal part of learning. Maybe I could even start the conversation by acknowledging that I'm not sure if I'm the only one feeling this way, which could make it less awkward and open up the dialogue more naturally.",
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Starting the conversation by acknowledging that others might feel similarly is a great way to create an open dialogue. Reassuring yourself that asking questions is a part of the learning process could also boost your confidence. As you plan to reach out to a professor and a classmate this week, how would you like to keep track of these conversations and any helpful outcomes you notice?",
+      "phase": "choosing"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "client(choosing): Keeping a simple journal or notes on my phone could work to track these conversations and any feedback I get. That way, I can look back on what worked well and what I learned from the discussions. I think it'll also help me see if there's a pattern in the responses that could give me more clarity moving forward.",
+      "phase": "choosing"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear goal and action plan to address their concerns about unclear instructions: reaching out to professors and classmates for clarification. They have identified and discussed potential barriers, such as feeling nervous, and have strategies in place to overcome these, like drafting questions beforehand and reminding themselves that asking questions is normal. The client has demonstrated commitment by planning to track their progress and reflect on outcomes. They are confident in taking these steps, indicating readiness to move forward. OARS feedback: The client showed commitment and preparedness, which are crucial for successful change. Continuing to use such proactive strategies will support their journey.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 25,
+      "role": "therapist",
+      "statement": "A journal or notes on your phone sounds like an effective way to track your progress and reflect on what you've learned. Noticing patterns in responses could indeed provide valuable insights for your future assignments. Setting the goal to reach out to one professor and one classmate this week is a wonderful step towards reducing your stress and building confidence. Remember, you're capable of managing this, and taking these small steps can make a big difference. I'm here to support you in this journey, and if you need to touch base, feel free to reach out. You've got this!",
+      "phase": "terminating"
+    },
+    {
+      "index": 26,
+      "role": "client",
+      "statement": "Thanks, I really appreciate your support and encouragement. I'll definitely give it a try this week and see how it goes. I'll let you know how it turns out!",
+      "phase": "terminating"
+    },
+    {
+      "index": 27,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has set specific goals, discussed coping strategies, and has a plan to track progress, showing readiness to move forward confidently. The session effectively utilized open discussions and affirmations to enhance self-assurance.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Professor's instructions often unclear? What's the deal?\nI keep running into this issue where instructors will often give vague instructions on assignments and I'm not sure what to do about it. Do I just need to get better at navigating vague teachers? Or is this not supposed to be happening?\n\n___\n\n**Exhibit A:**\n\nFor example, I just got my grade back for a programming project in which I was apparently not allowed to edit certain parts of the code that was provided. I got docked quite a few points for this mistake so I double checked the grading rubric and there is no mention of any restrictions on editing the prewritten code. I scroll down to the very bottom and of course, hidden in the middle of an FAQ section, is the warning to not edit prewritten code. Yes, I should probably be reading every single word of every piece of instruction just in case, but isn't the FAQ generally optional reading? Why is there crucial grading criteria in an FAQ section and but nowhere to be found in the actual \"Grading Criteria\" section?\n\n___\n\n**Exhibit B:**\n\nAnother professor, this same quarter, docked me for not formatting the output of a program in exactly the right way. The rubric does mention that \"the output must be in the required format\" but it didn't specify what the format is. While I was working on this assignment, I read through the whole rubric a couple of times and couldn't find any other mention of a \"required format\". When I turned it in, I added a note on canvas that basically read: \"I wasn't sure what you meant by required format. Please let me know if there are any issues. I can send you the source code if you need to look at it for grading purposes\".\n\nShe graded the assignment with a very dismissive response saying simply \"Numerical output was not in the required format\". I had to ask her again about this \"required format\" and she  responds with \"There was a sample line of code provided in the PDF file\". I look back at the instruction PDF and there is an example piece of code much later in the assignment that states \"you ***may*** use fprintf() to output a ***desired*** format\" but the wording does not suggest in any way that this ***is*** the ***required*** format above. The wording makes it seem like a completely unrelated suggestion or helpful tip rather than a strict requirement, especially since it appears many paragraphs after any mention of a ***required*** format.\n\n___\n\nAm I losing it? If this is happening in multiple classes in the same quarter then it must be me right? But I feel like there are *definitely* some huge communication issues going on. I'm not really sure what to think. Hopefully this post doesn't come off too ranty. I'm just not sure what to do. Why does this keep happening? Is interpreting vague instruction just a skill I need to develop? Or should I be talking to my teachers about this?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

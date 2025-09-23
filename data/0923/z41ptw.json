@@ -1,0 +1,167 @@
+{
+  "id": "z41ptw",
+  "subreddit": "college",
+  "category": "school_life",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you feeling today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm doing okay, I guess. Just been feeling a bit overwhelmed and unsure about whether I'm in the right place with school and everything.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "School sounds like it's been quite a lot for you lately, and it’s leaving you feeling overwhelmed. What part of it has been making you feel unsure?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client(exploring): Yeah, it's just been hard to find my footing. I feel like I'm not really clicking with the environment or the classes, and it's making me question if I should be somewhere else.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're grappling with a sense of disconnection both with the environment and the classes. What aspects of the school or classes aren't aligning with what you envisioned?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I guess I expected more engaging classes and a more supportive atmosphere. I just feel like I'm not getting what I hoped for in terms of learning and community here.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has shared their feelings of being overwhelmed and disconnected at their current university, as well as their concerns about transferring. The therapist has successfully built rapport and empathy through reflections and open questions, understanding the client's dissatisfaction with their academic and social environment. The essence of the client's story, including their thoughts and feelings, has been elicited. It is appropriate to move to the Guiding phase to explore motivations for change and evoke Change Talk. OARS feedback: The therapist effectively used reflections to deepen understanding, but could further explore specific motivations and barriers.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "It must be challenging to feel like your expectations aren't being met in terms of both learning and community support. What might your experience be like if you found a place that offered the engagement and atmosphere you’re looking for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): Honestly, I think I'd be a lot happier and more motivated. It would be nice to feel excited about my classes and more connected with the people around me.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Imagining a place where you feel excited and connected seems to spark a sense of motivation and happiness in you. What are some small steps you could take to explore options that might align more with what you're hoping for?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "I could start by researching other schools and their programs, maybe talk to students who go there to get a better feel for the environment. I might also look into joining clubs or activities here to see if that helps me feel more connected.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Exploring other schools and reaching out to students could give you real insights into different environments, while joining clubs might help foster connections where you are now. How confident do you feel about taking these steps, on a scale of 0 to 10?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I'd say maybe around a 6 or 7. I feel like I can do the research and reach out, but I'm a bit nervous about actually making those connections or finding the right fit.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has articulated a clear discrepancy between their current experience and their desire for a more engaging and supportive academic environment. They have explored options for life with and without change, identifying potential steps such as researching other schools and joining clubs. The client expressed a confidence level of 6-7 about taking these steps, indicating readiness to develop specific action plans. Change Talk is evident, and ambivalence appears to have decreased. Move to the Choosing phase to assist the client in developing concrete strategies to navigate their educational path.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Building new connections and finding the right fit can indeed feel daunting, yet you're showing determination by considering these steps. Based on what you've shared, possible options include starting with some research on schools and reaching out to students or joining a club here to test the waters socially. How would you like to plan the next steps, and are there any potential barriers you foresee that we could prepare for together?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I can start by setting aside some time each week to look into schools and maybe reach out to a couple of people online. The biggest barrier might be my own hesitation and fear of not fitting in again, so any advice on handling that would be really helpful.",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Setting a consistent time each week for research and reaching out is a great plan. To address the hesitation, maybe we could explore some strategies like practicing self-compassion or setting small, manageable goals to gradually build confidence. Would that be something you'd find helpful, and how might you like to monitor your progress as you move forward?",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): Yeah, I think that would be really helpful. Setting small goals feels less overwhelming, and practicing self-compassion is definitely something I need. Maybe I could keep a journal to track what I'm doing and how I'm feeling about it each week.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Keeping a journal to reflect on your progress and feelings sounds like a wonderful idea. It can offer insights into your journey and help you celebrate the small victories along the way. How would you like to structure your journaling, and would setting a regular time for this practice each week support you in staying consistent?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): I think setting a specific day each week to sit down and write about what I've done and how I'm feeling would be good. Maybe Sunday evenings, so I can look back on the week and prepare for the next one. I’ll keep it casual, just jotting down thoughts and feelings to see any patterns or changes over time.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The conversation has effectively reached the goals of the Choosing phase. The client has articulated a clear action plan, including researching schools and joining clubs, and has discussed potential barriers like hesitation and fear of not fitting in. The client agreed to self-monitor by journaling, which reflects commitment and readiness to take steps. The client also expressed confidence, rated at 6-7, which suggests a readiness to act. The client seems prepared to move forward, indicating a readiness for Terminating.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "Structuring your journaling on Sunday evenings sounds like a nurturing way to reflect on your week's experiences. It'll give you a chance to recognize patterns, celebrate your efforts, and prepare for the upcoming week. By keeping it casual, you allow yourself the freedom to express your thoughts and emotions without pressure. As you embark on this path, remember that each step, no matter how small, is a move towards creating the environment you desire. I'm here to support you, and we can check in on how this journaling practice is working for you as you move forward. Keep nurturing that self-compassion, and know that you're making meaningful strides.",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks, I really appreciate that. I'll give the journaling a try and see how it goes. I'll let you know how it's working out for me in our next session.",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The session addressed the client's concerns by establishing clear steps, including researching schools, joining clubs, and starting a reflective journaling practice. These actions, combined with self-compassion strategies, form a comprehensive plan to explore and address the client's challenges.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: What should I do?\nI am a freshman at the University of Cincinnati. I have yet to have a good experience and often find it a struggle to enjoy living while being there &amp; honestly I’m not impressed with the academics at all (besides Dr. Mosley god bless her) , I have considered transferring, obviously next year I am going to stick this year out. but I’m not sure if it’s worth it? And if any of you have transferred what helped you decide that was the best decision? How do you know if transferring is the best option? I’m just scared if I transfer I will still be miserable, I also am not sure where to transfer I’ve looked into osu but I’m scared it’ll just be the same. I just need help overall haha",
+  "is_completed": true,
+  "current_phase": "terminating"
+}

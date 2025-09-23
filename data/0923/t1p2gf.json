@@ -1,0 +1,167 @@
+{
+  "id": "t1p2gf",
+  "subreddit": "college",
+  "category": "academic",
+  "year": 2022,
+  "dialogue": [
+    {
+      "index": 1,
+      "role": "therapist",
+      "statement": "Hello! How are you doing today? What's been on your mind lately?",
+      "phase": "exploring"
+    },
+    {
+      "index": 2,
+      "role": "client",
+      "statement": "Hey, I'm alright, I guess. Just feeling overwhelmed with schoolwork, especially this math program called Aleks that's been taking up all my time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 3,
+      "role": "therapist",
+      "statement": "School can definitely feel overwhelming, especially with programs like Aleks taking so much of your time. How do you usually handle such a busy schedule?",
+      "phase": "exploring"
+    },
+    {
+      "index": 4,
+      "role": "client",
+      "statement": "client: Honestly, I'm just trying to take it day by day, but it's hard. I try to set a schedule and stick to it, but it feels like there's always more to do than there is time.",
+      "phase": "exploring"
+    },
+    {
+      "index": 5,
+      "role": "therapist",
+      "statement": "It sounds like you're really trying to manage your time effectively, yet it feels like tasks keep piling up. What are some of the strategies you've tried in the past to handle this kind of workload?",
+      "phase": "exploring"
+    },
+    {
+      "index": 6,
+      "role": "client",
+      "statement": "I've tried breaking things into smaller tasks and setting daily goals, but it sometimes feels like no matter how much I do, there's always something I miss. It gets to a point where I just feel stuck and overwhelmed.",
+      "phase": "exploring"
+    },
+    {
+      "index": 7,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The current exploration phase has successfully elicited the essence of the client's story, including their experiences with the Aleks program and its impact on their academic life. The client has expressed feelings of being overwhelmed, attempts to manage their workload, and the emotional toll it has taken, such as panic attacks. Empathy and rapport have been established, as shown through understanding reflections and queries about coping strategies. Moving to the Guiding phase will allow us to focus on strengthening motivation and evoking Change Talk around how to manage the workload more effectively. Feedback: Continue to use reflections to validate the client's feelings in the Guiding phase.",
+        "determination": "move"
+      },
+      "phase": "exploring"
+    },
+    {
+      "index": 8,
+      "role": "therapist",
+      "statement": "Juggling so much can indeed feel overwhelming. When you think about the future, what kind of changes might make this balance feel more manageable for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 9,
+      "role": "client",
+      "statement": "client(guiding): I think having a clearer plan or maybe a better understanding of what’s most important could help. Also, reducing the workload somehow or finding a way to manage my stress better would be great.",
+      "phase": "guiding"
+    },
+    {
+      "index": 10,
+      "role": "therapist",
+      "statement": "Finding clarity in what's most important and managing stress can truly make a difference. When you imagine your life with these changes, how do you see things improving for you?",
+      "phase": "guiding"
+    },
+    {
+      "index": 11,
+      "role": "client",
+      "statement": "client(guiding): If I could manage my stress better and have a clearer understanding of priorities, I think I'd feel more relaxed and maybe even have some time for myself. It’d be nice to have a balance where I can enjoy my weekends without worrying constantly about falling behind.",
+      "phase": "guiding"
+    },
+    {
+      "index": 12,
+      "role": "therapist",
+      "statement": "Feeling more relaxed and having time for yourself sounds like a refreshing vision. Considering this, what small steps could you take towards achieving this balance and gaining some of that weekend enjoyment back?",
+      "phase": "guiding"
+    },
+    {
+      "index": 13,
+      "role": "client",
+      "statement": "client(guiding): I guess I could start by setting some boundaries for myself, like specific hours for studying and then forcing myself to stop and take breaks. Maybe planning some fun activities for the weekend to look forward to could help, too.",
+      "phase": "guiding"
+    },
+    {
+      "index": 14,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has expressed specific goals, such as setting boundaries and planning activities to better manage stress and workload, which indicates readiness to move forward. They have also shown Change Talk by discussing potential strategies for balance and stress management. Although confidence rulers were not used, the client articulated a clear vision for improved life balance and relaxation. Given the presence of Change Talk and specific next steps, it's appropriate to advance to the Choosing phase.",
+        "determination": "move"
+      },
+      "phase": "guiding"
+    },
+    {
+      "index": 15,
+      "role": "therapist",
+      "statement": "Creating specific study hours and planning enjoyable weekend activities sounds like a solid starting point. As you consider these steps, what specific goal would you like to set for this week, and how do you plan to monitor your progress?",
+      "phase": "choosing"
+    },
+    {
+      "index": 16,
+      "role": "client",
+      "statement": "client(choosing): I think I’ll try setting a rule for myself to stop studying by 8 PM each night and take at least an hour just to unwind. For this weekend, I’ll plan something fun, like watching a movie or going for a walk. I’ll keep track by jotting down what time I stop working each day and how I feel afterward. ",
+      "phase": "choosing"
+    },
+    {
+      "index": 17,
+      "role": "therapist",
+      "statement": "Those sound like thoughtful and achievable goals. By setting a study limit and ensuring you have time to unwind, you’re taking important steps toward finding that balance. To support you in this, would you like to explore options for dealing with any barriers that might come up, such as unexpected deadlines or feeling tempted to keep working past 8 PM? This way, you can feel more equipped to stick to your plan.",
+      "phase": "choosing"
+    },
+    {
+      "index": 18,
+      "role": "client",
+      "statement": "client(choosing): That sounds like it could be helpful. I know things don't always go as planned, so having a backup for when things get hectic would be great. Maybe some strategies to deal with last-minute work would help me stick to my goals.",
+      "phase": "choosing"
+    },
+    {
+      "index": 19,
+      "role": "therapist",
+      "statement": "Having backup strategies in place can be really empowering. Based on what you’ve shared, possible options might include setting a time buffer each day to accommodate unexpected tasks or practicing saying \"no\" to additional assignments that could disrupt your schedule. How do these ideas resonate with you, or are there other strategies you think could help in managing those last-minute surprises?",
+      "phase": "choosing"
+    },
+    {
+      "index": 20,
+      "role": "client",
+      "statement": "client(choosing): Those ideas sound pretty practical, actually. I think setting a time buffer could be useful, so I have some wiggle room when things come up. Learning to say \"no\" to extra assignments is something I should definitely work on too. I tend to take on more than I can handle, so it might be good to practice that.",
+      "phase": "choosing"
+    },
+    {
+      "index": 21,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific goals, such as setting study boundaries and planning weekend activities, and has created a self-monitoring method. Barriers like unexpected deadlines and taking on too much have been addressed with strategies like setting time buffers and learning to say 'no.' The client expresses practical acceptance of these ideas, indicating a readiness to implement changes. This commitment, along with a refined plan and increased confidence, suggests readiness to advance. OARS feedback: Reflective listening and collaborative strategy development were effective, but ensure ongoing support for practicing 'no' to tasks and managing workload stress.",
+        "determination": "move"
+      },
+      "phase": "choosing"
+    },
+    {
+      "index": 22,
+      "role": "therapist",
+      "statement": "It's great to hear that these strategies resonate with you—they can really help in maintaining your balance. Setting a time buffer gives you flexibility, and practicing the art of saying \"no\" can protect your schedule and well-being. You're making thoughtful choices that align with your goals, and that's truly commendable. As you move forward, remember that progress may take time, and it's okay to adjust your strategies as needed. This week, focus on implementing these changes. Next time, let's review how these tactics worked for you and explore any new insights or adjustments you might want to consider. You're doing a fantastic job!",
+      "phase": "terminating"
+    },
+    {
+      "index": 23,
+      "role": "client",
+      "statement": "Thanks for the encouragement. I'm hoping these changes stick, and I'll definitely keep track of how it goes this week. Looking forward to discussing it next time!",
+      "phase": "terminating"
+    },
+    {
+      "index": 24,
+      "role": "sc_master",
+      "statement": {
+        "reasoning": "The client has identified specific goals and coping strategies for managing stress and achieving balance. A next-step plan is in place with strategies for dealing with barriers. Progress monitoring is established.",
+        "determination": "move"
+      },
+      "phase": "terminating"
+    }
+  ],
+  "concern": "title: Anyone using Aleks math? What are your thoughts on it? (Story)\nThe concept makes sense, but it is repetitive. All three of my math professors have used aleks due to blended classes. So students Aleks are different from each other. This professor was more annoying due to her giving us so much damn work, I was doing more math than any of my other class work for other classes. My professor once thought it was a good idea to give us 74 topics once, but in a span of two weeks so there was sometime to it. I lost my mind and got up to 53. I ended up passing the class. \n\nThe second one, I did fine in the first half and the topics were a lot less compared to the first class, but I started to be in a deep burnout state and even getting COVID that I gave up and failed the class due to constantly completing Aleks and just saying fuck all to any topics and assignments.\n\nNow my third professor and I’m making up the class. I’ve somewhat came up with a better system to complete them: on average, it’s 24 topics due in a span of 3-4 days. Of those three days, I complete six topics a day. I’m still in that system. Slipped a bit because I have to put my attention to two other classes and somewhat procrastinated. But now I’ve realized I’ve put so much time in Aleks, I’m somewhat behind in other classes. And I wanted to try and enjoy my weekend whilst maintaining Aleks and I’m seeing a module that is due March 5 of next month that I haven’t touched due to me working on the current module (which I have 33 topics remaining out of 140 I think so I’ve been doing good). \n\nAnd I have to work this weekend, but it looks like I may have to call out both days to maintain Aleks and other class work. Which is already bad because I haven’t been working as much recently. \n\nSo now I’m just frustrated and confused on my options because Aleks is taking up too much of my time). And I’m not kidding when I say I have had full on panic attacks due to trying to complete Aleks to pass the class with a C or above. Anyone else?",
+  "is_completed": true,
+  "current_phase": "terminating"
+}
