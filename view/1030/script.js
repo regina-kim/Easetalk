@@ -59,18 +59,15 @@ async function loadAndRenderChat(filename) {
     // 4) 헤더 테이블 구성 (Category + Total Count)
     buildHeaderTable(data);
 
-    // [수정됨] data.concern 대신 data.input을 사용
     if (data.input) {
           const inputDiv = document.createElement('div');
           inputDiv.className = 'concern-display-area'; // CSS 클래스는 재사용
           inputDiv.textContent = `Input: ${data.input}`; // 표시 텍스트 변경
     
-          // chat-messages의 첫 번째 자식(header-row) 뒤에 삽입
           const headerRow = chatMessagesDiv.querySelector('.header-row');
           if (headerRow) {
             headerRow.insertAdjacentElement('afterend', inputDiv);
           } else {
-            // 혹시 모를 예외 처리
             chatMessagesDiv.prepend(inputDiv);
           }
         }
@@ -78,8 +75,9 @@ async function loadAndRenderChat(filename) {
 
     // 5) dialogue을 순회하며 채팅 메시지 추가
     if (Array.isArray(data.dialogue)) {
-      data.dialogue.forEach(entry => {
-        appendRow(entry);
+      // [수정됨] forEach에서 index를 받아 messageNumber로 전달
+      data.dialogue.forEach((entry, index) => {
+        appendRow(entry, index + 1); // index + 1을 messageNumber로 전달
       });
     } else {
       // 유효하지 않은 데이터인 경우, 중앙 셀에 오류 메시지 표시
@@ -111,41 +109,37 @@ async function loadAndRenderChat(filename) {
   }
 }
 
-// (D) [수정됨] 헤더 테이블을 구성하는 함수: Category + Total Count
+// (D) 헤더 테이블을 구성하는 함수: Category + Total Count
 function buildHeaderTable(data) {
   const headerTbody = document.querySelector("#header-table tbody");
-  headerTbody.innerHTML = ""; // 기존 내용 초기화
+  headerTbody.innerHTML = ""; 
 
-  // [수정됨] therapist와 client 발화만 카운트
   const allEntries = Array.isArray(data.dialogue) ? data.dialogue : [];
   const relevantEntries = allEntries.filter(e => e.role === "therapist" || e.role === "client");
   const totalDialogueCount = relevantEntries.length;
 
-  // [수정됨] Phase별 색상 줄 대신 Category와 Total Count를 표시하는 한 줄 추가
-  // ────────────────
-  // 새 헤더: Category + Total Count
-  // ────────────────
   const infoRow = document.createElement("tr");
 
   // Category Cell
   const tdCategory = document.createElement("td");
-  tdCategory.classList.add("category-cell"); // 기존 스타일 재사용
+  tdCategory.classList.add("category-cell"); 
   tdCategory.textContent = `Category: ${data.category || "N/A"}`;
-  tdCategory.setAttribute("colspan", "2"); // 4칸 레이아웃 유지를 위해 2칸 사용
+  tdCategory.setAttribute("colspan", "2"); 
   infoRow.appendChild(tdCategory);
 
   // Total Count Cell
   const tdCount = document.createElement("td");
-  tdCount.classList.add("category-cell"); // 기존 스타일 재사용
+  tdCount.classList.add("category-cell"); 
   tdCount.textContent = `Total Dialogues (T+C): ${totalDialogueCount}`;
-  tdCount.setAttribute("colspan", "2"); // 4칸 레이아웃 유지를 위해 2칸 사용
+  tdCount.setAttribute("colspan", "2"); 
   infoRow.appendChild(tdCount);
 
   headerTbody.appendChild(infoRow);
 }
 
-// (E) [수정됨] sc_master의 객체 content를 특별 처리
-function appendRow({ role, content }) {
+
+// (E) [수정됨] messageNumber를 인자로 받고, 카운터를 표시
+function appendRow({ role, content }, messageNumber) { // 'messageNumber' 인자 추가
   const chatMessagesDiv = document.getElementById("chat-messages");
 
   // 1) row 요소 생성
@@ -171,7 +165,7 @@ function appendRow({ role, content }) {
   } else if (role === "sc_master") {
     targetCell = cellSC;
   } else {
-    targetCell = cellClient; // 그 외 role은 중앙(client)에 추가
+    targetCell = cellClient; 
   }
 
   // 4) .message 요소 생성
@@ -188,7 +182,7 @@ function appendRow({ role, content }) {
   }
   msgDiv.appendChild(roleLabel);
 
-  // --- ✨ 수정된 부분 시작 (sc_master 객체 처리) ✨ ---
+  // --- ✨ 수정된 부분 시작 (sc_master 객체 처리 및 카운터 추가) ✨ ---
   let contentText;
   
   // sc_master이고 content가 객체이며 determination 키를 가졌는지 확인
@@ -203,10 +197,15 @@ function appendRow({ role, content }) {
     contentText = String(content);
   }
 
+  // [새로 추가] 카운터 라인 생성 및 contentText에 추가
+  const counterLine = `<< ${messageNumber} >>`;
+  contentText = counterLine + '\n' + contentText; // 카운터와 줄바꿈을 맨 앞에 추가
+
   // 발화문을 화면에 표시 (줄바꿈 처리)
   const textSpan = document.createElement("span");
   const fragment = document.createDocumentFragment();
 
+  // 이제 contentText는 항상 카운터 라인을 포함하여 split됨
   const lines = contentText.split('\n');
   lines.forEach((line, idx) => {
     fragment.appendChild(document.createTextNode(line));
