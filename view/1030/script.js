@@ -56,21 +56,22 @@ async function loadAndRenderChat(filename) {
     if (!response.ok) throw new Error("파일을 불러오는 데 실패했습니다.");
     const data = await response.json();
 
-    // 4) 헤더 테이블 구성 (Phase별 Therapist count + Category + Concern)
+    // 4) 헤더 테이블 구성 (Category + Total Count)
     buildHeaderTable(data);
 
-    if (data.concern) {
-          const concernDiv = document.createElement('div');
-          concernDiv.className = 'concern-display-area'; // 단계 2에서 추가한 CSS 클래스 적용
-          concernDiv.textContent = `Concern: ${data.concern}`;
+    // [수정됨] data.concern 대신 data.input을 사용
+    if (data.input) {
+          const inputDiv = document.createElement('div');
+          inputDiv.className = 'concern-display-area'; // CSS 클래스는 재사용
+          inputDiv.textContent = `Input: ${data.input}`; // 표시 텍스트 변경
     
           // chat-messages의 첫 번째 자식(header-row) 뒤에 삽입
           const headerRow = chatMessagesDiv.querySelector('.header-row');
           if (headerRow) {
-            headerRow.insertAdjacentElement('afterend', concernDiv);
+            headerRow.insertAdjacentElement('afterend', inputDiv);
           } else {
             // 혹시 모를 예외 처리
-            chatMessagesDiv.prepend(concernDiv);
+            chatMessagesDiv.prepend(inputDiv);
           }
         }
 
@@ -110,140 +111,42 @@ async function loadAndRenderChat(filename) {
   }
 }
 
-// (D) 헤더 테이블을 구성하는 함수: Phase별 Therapist count + Category + Concern
+// (D) [수정됨] 헤더 테이블을 구성하는 함수: Category + Total Count
 function buildHeaderTable(data) {
   const headerTbody = document.querySelector("#header-table tbody");
+  headerTbody.innerHTML = ""; // 기존 내용 초기화
 
-  // 먼저 therapist 발화만 추려서 각 Phase별 개수를 셈
+  // [수정됨] therapist와 client 발화만 카운트
   const allEntries = Array.isArray(data.dialogue) ? data.dialogue : [];
-  const therapistEntries = allEntries.filter(e => e.role === "therapist");
-  const totalTherapistCount = therapistEntries.length;
+  const relevantEntries = allEntries.filter(e => e.role === "therapist" || e.role === "client");
+  const totalDialogueCount = relevantEntries.length;
 
-  const countExploring    = therapistEntries.filter(e => e.phase === "exploring").length;
-  const countGuiding      = therapistEntries.filter(e => e.phase === "guiding").length;
-  const countChoosing     = therapistEntries.filter(e => e.phase === "choosing").length;
-  const countTerminating  = therapistEntries.filter(e => e.phase === "terminating").length;
-
+  // [수정됨] Phase별 색상 줄 대신 Category와 Total Count를 표시하는 한 줄 추가
   // ────────────────
-  // 첫 번째 줄: Phase별 색상 + "(count/total)"
+  // 새 헤더: Category + Total Count
   // ────────────────
-  const legendRow = document.createElement("tr");
+  const infoRow = document.createElement("tr");
 
-  const thExploring = document.createElement("th");
-  thExploring.textContent = `Exploring (${countExploring}/${totalTherapistCount})`;
-  thExploring.classList.add("legend-cell", "legend-exploring");
-  legendRow.appendChild(thExploring);
-
-  const thGuiding = document.createElement("th");
-  thGuiding.textContent = `Guiding (${countGuiding}/${totalTherapistCount})`;
-  thGuiding.classList.add("legend-cell", "legend-guiding");
-  legendRow.appendChild(thGuiding);
-
-  const thChoosing = document.createElement("th");
-  thChoosing.textContent = `Choosing (${countChoosing}/${totalTherapistCount})`;
-  thChoosing.classList.add("legend-cell", "legend-choosing");
-  legendRow.appendChild(thChoosing);
-
-  const thTerminating = document.createElement("th");
-  thTerminating.textContent = `Terminating (${countTerminating}/${totalTherapistCount})`;
-  thTerminating.classList.add("legend-cell", "legend-terminating");
-  legendRow.appendChild(thTerminating);
-
-  headerTbody.appendChild(legendRow);
-
-  // ────────────────
-  // 두 번째 줄: Category (colspan=4)
-  // ────────────────
-  const categoryRow = document.createElement("tr");
+  // Category Cell
   const tdCategory = document.createElement("td");
-  tdCategory.setAttribute("colspan", "4");
-  tdCategory.classList.add("category-cell");
+  tdCategory.classList.add("category-cell"); // 기존 스타일 재사용
   tdCategory.textContent = `Category: ${data.category || "N/A"}`;
-  categoryRow.appendChild(tdCategory);
-  headerTbody.appendChild(categoryRow);
+  tdCategory.setAttribute("colspan", "2"); // 4칸 레이아웃 유지를 위해 2칸 사용
+  infoRow.appendChild(tdCategory);
+
+  // Total Count Cell
+  const tdCount = document.createElement("td");
+  tdCount.classList.add("category-cell"); // 기존 스타일 재사용
+  tdCount.textContent = `Total Dialogues (T+C): ${totalDialogueCount}`;
+  tdCount.setAttribute("colspan", "2"); // 4칸 레이아웃 유지를 위해 2칸 사용
+  infoRow.appendChild(tdCount);
+
+  headerTbody.appendChild(infoRow);
 }
 
-// // (E) 한 개의 발화(entry)를 받아서 row를 만들고 셀에 message 삽입
-// function appendRow({ role, statement, phase }) {
-//   const chatMessagesDiv = document.getElementById("chat-messages");
-
-//   // 1) row 요소 생성
-//   const row = document.createElement("div");
-//   row.classList.add("row");
-
-//   // 2) 세 개의 빈 cell 생성
-//   const cellTher   = document.createElement("div");
-//   cellTher.classList.add("cell", "therapist");
-
-//   const cellClient = document.createElement("div");
-//   cellClient.classList.add("cell", "client");
-
-//   const cellSC     = document.createElement("div");
-//   cellSC.classList.add("cell", "sc_master");
-
-//   // 3) 역할(role)에 맞춰 targetCell 지정
-//   let targetCell;
-//   if (role === "therapist") {
-//     targetCell = cellTher;
-//   } else if (role === "client") {
-//     targetCell = cellClient;
-//   } else if (role === "sc_master") {
-//     targetCell = cellSC;
-//   } else {
-//     // 그 외 role은 중앙(client)에 추가
-//     targetCell = cellClient;
-//   }
-
-//   // 4) .message 요소 생성
-//   const msgDiv = document.createElement("div");
-//   msgDiv.classList.add("message");
-//   // sc_master는 회색으로 고정, 그 외에는 phase 클래스 추가
-//   if (role !== "sc_master") {
-//     msgDiv.classList.add(phase);
-//   }
-
-//   // 발화자 라벨
-//   const roleLabel = document.createElement("span");
-//   roleLabel.classList.add("role-label");
-//   if (role === "sc_master") {
-//     roleLabel.textContent = "SC Master";
-//   } else {
-//     roleLabel.textContent = role.charAt(0).toUpperCase() + role.slice(1);
-//   }
-//   msgDiv.appendChild(roleLabel);
-
-//   // 발화문 줄바꿈 처리
-//   const textSpan = document.createElement("span");
-//   const fragment = document.createDocumentFragment();
-
-//   // 만약 statement가 객체(dictionary)이면, 화면에 예쁘게 표시하기 위해 JSON 문자열로 변환합니다.
-//   let statementText = statement;
-//   if (typeof statementText === 'object' && statementText !== null) {
-//     statementText = JSON.stringify(statementText, null, 2); // 2칸 들여쓰기로 포맷팅
-//   }
-
-//   statement.split("\n").forEach((line, idx) => {
-//     fragment.appendChild(document.createTextNode(line));
-//     if (idx < statement.split("\n").length - 1) {
-//       fragment.appendChild(document.createElement("br"));
-//     }
-//   });
-//   textSpan.appendChild(fragment);
-//   msgDiv.appendChild(textSpan);
-
-//   // 5) 완성된 msgDiv를 targetCell에 붙임
-//   targetCell.appendChild(msgDiv);
-
-//   // 6) 세 개의 셀을 row에 붙이고, chat-messages에 추가
-//   row.appendChild(cellTher);
-//   row.appendChild(cellClient);
-//   row.appendChild(cellSC);
-//   chatMessagesDiv.appendChild(row);
-// }
-
-
 // (E) 한 개의 발화(entry)를 받아서 row를 만들고 셀에 message 삽입
-function appendRow({ role, statement, phase }) {
+// [수정됨] { role, content }를 받도록 수정, phase 관련 코드 제거
+function appendRow({ role, content }) { // 'statement' -> 'content', 'phase' 제거
   const chatMessagesDiv = document.getElementById("chat-messages");
 
   // 1) row 요소 생성
@@ -275,9 +178,11 @@ function appendRow({ role, statement, phase }) {
   // 4) .message 요소 생성
   const msgDiv = document.createElement("div");
   msgDiv.classList.add("message");
-  if (role !== "sc_master") {
-    msgDiv.classList.add(phase);
-  }
+  
+  // [수정됨] phase 클래스 추가 로직 제거
+  // if (role !== "sc_master") {
+  //   msgDiv.classList.add(phase);
+  // }
 
   // 발화자 라벨 추가
   const roleLabel = document.createElement("span");
@@ -289,23 +194,23 @@ function appendRow({ role, statement, phase }) {
   }
   msgDiv.appendChild(roleLabel);
 
-  // --- ✨ 수정된 부분 시작 ✨ ---
-  // 발화문(statement)을 안전하게 문자열로 변환
-  let statementText;
-  if (typeof statement === 'object' && statement !== null) {
+  // --- ✨ 수정된 부분 시작 (statement -> content) ✨ ---
+  // 발화문(content)을 안전하게 문자열로 변환
+  let contentText;
+  if (typeof content === 'object' && content !== null) {
     // 객체인 경우, JSON 문자열로 변환 (들여쓰기 2칸 적용)
-    statementText = JSON.stringify(statement, null, 2);
+    contentText = JSON.stringify(content, null, 2);
   } else {
     // 객체가 아닌 경우(문자열, 숫자 등), String()으로 변환하여 안전하게 처리
-    statementText = String(statement);
+    contentText = String(content);
   }
 
   // 발화문을 화면에 표시
   const textSpan = document.createElement("span");
   const fragment = document.createDocumentFragment();
 
-  // 이제 statementText는 항상 문자열이므로 .split()을 안전하게 사용할 수 있습니다.
-  const lines = statementText.split('\n');
+  // 이제 contentText는 항상 문자열이므로 .split()을 안전하게 사용할 수 있습니다.
+  const lines = contentText.split('\n');
   lines.forEach((line, idx) => {
     fragment.appendChild(document.createTextNode(line));
     if (idx < lines.length - 1) {
