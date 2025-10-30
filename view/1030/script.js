@@ -85,7 +85,7 @@ async function loadAndRenderChat(filename) {
       // 유효하지 않은 데이터인 경우, 중앙 셀에 오류 메시지 표시
       const errDiv = document.createElement("div");
       errDiv.style.color = "red";
-      errDiv.textContent = "유효한 대화 데이터가 아닙니다.";
+      errDiv.textContent = "유효한 대화 데이터가 아닙니다.???";
       const row = document.createElement("div");
       row.classList.add("row");
       row.innerHTML = `
