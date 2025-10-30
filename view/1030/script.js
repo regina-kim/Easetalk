@@ -85,7 +85,7 @@ async function loadAndRenderChat(filename) {
       // 유효하지 않은 데이터인 경우, 중앙 셀에 오류 메시지 표시
       const errDiv = document.createElement("div");
       errDiv.style.color = "red";
-      errDiv.textContent = "유효한 대화 데이터가 아닙니다.???";
+      errDiv.textContent = "유효한 대화 데이터가 아닙니다.";
       const row = document.createElement("div");
       row.classList.add("row");
       row.innerHTML = `
@@ -144,9 +144,8 @@ function buildHeaderTable(data) {
   headerTbody.appendChild(infoRow);
 }
 
-// (E) 한 개의 발화(entry)를 받아서 row를 만들고 셀에 message 삽입
-// [수정됨] { role, content }를 받도록 수정, phase 관련 코드 제거
-function appendRow({ role, content }) { // 'statement' -> 'content', 'phase' 제거
+// (E) [수정됨] sc_master의 객체 content를 특별 처리
+function appendRow({ role, content }) {
   const chatMessagesDiv = document.getElementById("chat-messages");
 
   // 1) row 요소 생성
@@ -179,11 +178,6 @@ function appendRow({ role, content }) { // 'statement' -> 'content', 'phase' 제
   const msgDiv = document.createElement("div");
   msgDiv.classList.add("message");
   
-  // [수정됨] phase 클래스 추가 로직 제거
-  // if (role !== "sc_master") {
-  //   msgDiv.classList.add(phase);
-  // }
-
   // 발화자 라벨 추가
   const roleLabel = document.createElement("span");
   roleLabel.classList.add("role-label");
@@ -194,22 +188,25 @@ function appendRow({ role, content }) { // 'statement' -> 'content', 'phase' 제
   }
   msgDiv.appendChild(roleLabel);
 
-  // --- ✨ 수정된 부분 시작 (statement -> content) ✨ ---
-  // 발화문(content)을 안전하게 문자열로 변환
+  // --- ✨ 수정된 부분 시작 (sc_master 객체 처리) ✨ ---
   let contentText;
-  if (typeof content === 'object' && content !== null) {
-    // 객체인 경우, JSON 문자열로 변환 (들여쓰기 2칸 적용)
+  
+  // sc_master이고 content가 객체이며 determination 키를 가졌는지 확인
+  if (role === 'sc_master' && typeof content === 'object' && content !== null && content.determination !== undefined) {
+    // 요청하신 포맷으로 문자열 구성
+    contentText = `determination: ${content.determination}\nreason: ${content.reason}`;
+  } else if (typeof content === 'object' && content !== null) {
+    // sc_master가 아니거나 예상치 못한 다른 객체일 경우, JSON으로 표시
     contentText = JSON.stringify(content, null, 2);
   } else {
-    // 객체가 아닌 경우(문자열, 숫자 등), String()으로 변환하여 안전하게 처리
+    // Therapist, Client의 일반 문자열 처리
     contentText = String(content);
   }
 
-  // 발화문을 화면에 표시
+  // 발화문을 화면에 표시 (줄바꿈 처리)
   const textSpan = document.createElement("span");
   const fragment = document.createDocumentFragment();
 
-  // 이제 contentText는 항상 문자열이므로 .split()을 안전하게 사용할 수 있습니다.
   const lines = contentText.split('\n');
   lines.forEach((line, idx) => {
     fragment.appendChild(document.createTextNode(line));
