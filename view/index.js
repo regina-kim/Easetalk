@@ -21,5 +21,7 @@ window.FOLDERS = [
   { name: "0916_01", href: "./0916_01/", note: "250 pilot v3" },
   { name: "0916_02", href: "./0916_02/", note: "250 pilot w min turn , turn=2" },
   { name: "0920", href: "./0920/", note: "250 pilot w min turn , turn=3" },
-  { name: "0923", href: "./0923/", note: "250 pilot w min turn, turn=3, with OARS feedback requested for scenario master" }
+  { name: "0923", href: "./0923/", note: "250 pilot w min turn, turn=3, with OARS feedback requested for scenario master" },
+  { name: "1017", href: "./1017/", note: "" },
+  { name: "1030", href: "./1030/", note: "" }
 ];
